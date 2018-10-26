@@ -1,0 +1,2059 @@
+-- ----------------------------------------------------------------------------------
+-- Textos extraidos do arquivo upk 
+-- Linhas iniciando com -- e linhas em branco sao ignoradas 
+-- Formato das linhas: numero do export, deslocamento do texto, texto e traducao 
+-- O campos de cada linha sao separados por <=>) 
+-- IMPORTANTE: edite esse arquivo com o Notepad++, pois ele esta no formato UTF-8 
+-- ----------------------------------------------------------------------------------
+
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0010_0_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Droga... Onde ela se meteu?
+...As favoritas da Irina...
+Mas o que diabos...?
+Saiam do caminho, idiotas!
+O Gae Bolg está pronto!
+Estamos preparados, milorde.
+A vitória será nossa!
+Vitória!
+O que é isso?
+Irina!
+Irina!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 1) EV0010_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Droga... Onde ela se meteu?
+...As favoritas da Irina...
+Mas o que diabos...?
+Saiam do caminho, idiotas!
+O Gae Bolg está pronto!
+Estamos preparados, milorde.
+A vitória será nossa!
+Vitória!
+O que é isso?
+Irina!
+Irina!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 2) EV0030_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Ei!
+Irina? Hã? Quem é você?
+Eu é quem deveria te perguntar isso!
+E-espere! Um momento!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 3) EV0040_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Ai...
+Lady Emma! Você se machucou?
+É você, Blocter? Estou bem.
+Vejo uma luz ali adiante.\nDeve ser a saída daqui.
+Sim, senhora! Vamos para lá!
+E-ei!
+Espere, senhora! O que aconteceu!?
+O Gae Bolg abriu um buraco no chão,\ne acabamos caindo dentro dessa caverna.\nIsso é tudo, ou você gostaria de fazer alguma outra\npergunta estúpida?
+Caverna?
+Pelo menos a saída não está tão longe...
+Ei, espere! Me escute!\nEi!
+Ouvirei tudo que tem a dizer\ndepois que tivermos saído daqui.
+Mas é bom que tenha uma boa explicação, espião.
+O que quer dizer com espião!?
+Pense bem, gênio...\nPor que razão você estaria em um campo de batalha?
+Do que está falando?\nEu só estava procurando pela minha irmã, Irina!
+Irina?
+Qual é o seu nome?
+Meu nome?
+Rush! Rush Sykes!
+Rush Sykes.
+Ai...
+Então está procurando pela sua irmã...\nPosso saber o que aconteceu com ela?
+Fale!
+Nós viemos de uma ilha chamada Eulam...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 4) EV0050_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Irina!
+Chegou um pacote da mamãe e do papai!
+Ah, provavelmente é outra desculpa\npara continuarem trabalhando em sua pesquisa.
+Ei, se anime, irmãzinha.
+Ooops.
+É uma visipedra.
+Me deixe fazê-la funcionar.
+Oh!
+Olá, Rush! Olá, Irina!\nComo vocês estão se comportando?
+Estamos muito felizes aqui\nna Academia de Elysion.\nTivemos a sorte de fazer\num grande avanço nas nossas pesquisas...
+Mas, como podem adivinhar, as coisas estão\nlevando mais tempo que o esperado...
+Viu só? Eu te disse!
+Então seu pai e eu concordamos que vocês deveriam\nvir morar conosco em Elysion.
+É sempre sobre o que eles querem...
+O que descobrimos permitirá usar\nos Remanescentes de formas nunca vistas.\nVamos mudar o mundo para melhor!
+Mas vocês são mais importantes para nós,\ne sentimos muito por ter se passado tanto tempo\ndesde a última vez em que os visitamos.
+Ah...
+John, nosso tempo está acabando...
+Hã? Ah, claro.
+Mandaremos alguém para buscá-los.
+É bom começarem a fazer as malas!
+E Rush, cuide bem de sua irmã,\nestá bem?
+Se cuidem.
+Nos vemos muito em bre...
+Acabou o tempo... Papai nunca foi bom\nem ir direto ao ponto.
+Está com medo de ir?
+Um pouco... Quero dizer, nunca saí dessa\nilha antes.
+Ah, vai dar tudo certo!
+Afinal, vamos estar juntos da mamãe e do papai!
+Assim espero.
+Mas o quê?
+Rush!!!
+Me sol...te...
+Rush!!!
+Aargh! Tire suas mãos de mim!
+Não! Deixe meu irmão em paz!
+Acabe com ele.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 5) EV0060_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Atacados por uma besta voadora...
+...e protegidos por uma luz do\nseu talismã.
+Garoto, acha mesmo que sou tonta?
+Mas é verdade!
+Que seja. O mais importante primeiro...\nprecisamos\nsair daqui.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 6) EV0070
+-- ----------------------------------------------------------------------------------
+Tem algo errado.
+Eu não estava esperando por isso...
+Prepare-se!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 7) EV0070_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Tem algo errado.
+Eu não estava esperando por isso...
+Prepare-se!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 8) EV0070_1_MSG
+-- ----------------------------------------------------------------------------------
+Tem algo errado.
+Eu não estava esperando por isso...
+Prepare-se!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 9) EV0090_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então seu talismã é mais do que um\nacessório de moda, afinal.
+Milorde!
+Não precisava percorrer todo esse caminho\npor mim...
+Por favor, aceite minhas desculpas.
+Ver que está bem já é o suficiente para mim.
+E quem é esse?
+Ele diz ser filho do Dr. Sykes...
+Certo.
+Eu sou Torgal, um dos Quatro Generais de Athlum.
+Nosso senhor, o Marquês de Athlum, gostaria\nde compartilhar sua gratidão.\nUm passo à frente.
+Quero que saiba que suas ações\no fizeram merecedor da minha gratidão.
+Quanto a sua irmã, se os homens que procura\nentraram no território de Athlum,\nnão podemos ignorá-los.
+Eu vou escoltá-lo até Athlum.
+Hã?
+Nosso senhor gostaria de ajudá-lo\nem sua busca pela sua irmã.
+Tudo bem, Torgal.
+Muito obrigado!\nEu persegui aquela coisa voadora até aqui,\nmas não sabia para onde ir depois...
+Mas só de ter uma pessoa importante\ncomo você me ajudando,\njá é meio caminho andado!
+Isso é genial!
+Meu nome é Rush... Rush Sykes!\nQuem é você?
+Eu sou David Nassau, o Marquês de Athlum.\nPode me chamar de David.
+Como quiser, Dave!
+Vamos voltar e ver quais notícias nos aguardam\nem Athlum.
+Todas as tropas, retornar para Athlum imediatamente!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Vamos lá, Dave! Vamos nessa!
+Seu insolente! Cadê seus modos!?\nEssa não é a forma de se dirigir ao Marquês de Athlum!
+Eita! Qual é o seu problema!?
+Meu único problema é sua falta de\nsenso comum!
+Ele é surpreendentemente ignorante, não acha?
+É o que veremos.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 10) EV0100_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Não podemos perder tempo para encontrar\nos ratos que sequestraram a Irina.
+Torgal?
+Rush, nós preparamos um quarto para você\ndentro do castelo.
+Depois da sua jornada da Ilha Eulam,\nvocê deve estar querendo descansar e se recuperar\nda sua árdua viagem.
+E eu fico aqui sentando sem fazer nada?\nTudo bem! Vou encontrá-los eu mesmo!
+Certo, faça como quiser. Mas tente não fazer\nnenhuma tolice.
+Não deveríamos deixá-lo livre pelo\ncastelo até confirmarmos sua história.\nEu me encarregarei disso.
+Certo, uhh... Estou indo então... Olá?
+Se é informação o que procura, tem\numa certa taverna no bairro de Virtus\nque você deveria investigar.
+Retorne ao castelo se precisar de alguma coisa.
+Certo! Vou nessa!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 11) EV0120_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Jovem Mestre! Rush Sykes chegou!
+Descobriu algo sobre Irina?
+Pagus.
+Eu sou Pagus,\num dos Quatro Generais de Athlum.
+Quanto à senhorita Irina, temo em dizer que\nainda não descobrimos nenhuma pista...
+Entretanto, descobrimos dois\nfatos interessantes.
+O primeiro: Alguns tipos suspeitos foram vistos\nescoltando uma jovem garota para as Cavernas de Gaslin.
+Isso deve ser...
+E o segundo fato?
+Recebemos também relatos de atividade\nnoturna perto das ruínas do Castelo de Robélia.
+As ruínas sempre foram um covil\npara ladrões insignificantes...\nPor acaso percebeu algo diferente?
+Algo não... Alguém.
+Uma fonte confiável me disse que soldados\nde Athlum foram vistos saindo das ruínas...
+Isso certamente é algo "interessante".
+Ei, obrigado, Pagus. Vou checar\nesses lugares agora mesmo.
+Não tão rápido, Rush.\nMeus Generais devem acompanhá-lo.
+Manter a paz e a estabilidade de\nAthlum é nosso dever.\nNão podemos ficar parados enquanto\nAthlum é ameaçada.
+Além do mais, Mestre Rush é filho dos\nmundialmente famosos pesquisadores de Remanescentes.
+Certamente faremos o máximo para ajudar\ntão ilustre família.
+Minhas desculpas...\nNós andamos investigando você.
+Estou acostumado. Ter pais famosos\ntem suas vantagens, afinal de contas.
+Está tudo bem, Emma. Prossiga.
+Sim, milorde.
+Entrei em contato com\na sede da Academia em Celapaleis.\nInformei eles que estamos\ncuidando do Rush.
+Você falou com a Academia?\nIsso é um alívio e tanto...
+Tinha desistido de tentar entrar em contato\ncom eles...\nQuero dizer, é como falar com as paredes.
+Eles são um grupo propenso à segredos.
+Você é demais, Emma.
+Ainda assim, é incerto quando ou se a mensagem\nvai chegar ao quartel general em Elysion...
+Mas é claro que vai!\nQual é, minha irmã foi sequestrada.\nMesmo os engomadinhos da Academia não esconderiam\nisso da mamãe e do papai!
+Não esqueça que os Sykes estão envolvidos\nnuma pesquisa do mais alto nível.\nPode levar algum tempo até responderem.
+Até lá, vou te ajudá-lo de\ntodas as maneiras que puder.
+Parece bom para mim!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 12) EV0170_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+O que essas garotas estão fazendo\nem um lugar como esse?
+Ah não, será possível que... hrm.
+O que estão fazendo aqui!?
+Hmph, então vocês são aquele grupo, não?\nA gangue de bandidos que anda por aí\ntraficando escravos?
+Escravos!?
+...Quem diabos são vocês?\nNão temos de nos apresentar\npara tipos da sua laia!
+Preparem-se, pois vou esmagar suas caras!\nRush! Quer participar também?
+Mas é claro, vamos nessa!
+Feh... Como queiram. Será o seu funeral!\nPreparem-se para morrer!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 13) EV0180_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Não sei como agradecer a você e ao seu mestre,\nLorde Blocter!
+Obrigado! Agora, finalmente podemos voltar para casa...\nHm? Não, não vi nenhuma outra garota além de nós.\nQue seu saiba, não havia outras prisioneiras...
+Muitíssimo obrigado! Nunca esquecerei o que fizeram!
+Então, pela sua cara, posso supor que não encontraram\nsua irmã. Se pensarmos sobre onde estávamos e porquê,\nnão sei se isso é bom ou ruim...\nDe qualquer maneira, não faz sentido insistir nisso,\nnão é verdade? Vamos, vamos voltar para Athlum.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 14) EV0210_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então, como podem ver, Remanescentes não são nada mais\nque artefatos malignos que contribuem\npara a depravação dos homens!
+Vocês podem não enxergar isso agora, mas em um\nfuturo não muito distante, terríveis desastres acontecerão!\nEntão será muito tarde para abandonar\no caminho do pecado!\nOs homens devem trabalhar duro e construir\nseu próprio caminho!\nNão devemos cair na tentação de uma vida fácil\nque os Remanescentes podem nos oferecer!
+É isso aí!
+Levantem-se e lutem!\nO primeiro passo será dado aqui\natacaremos\nAthlum com o poder da justiça!
+Vejam nossos aliados aqui, disfarçados de soldados\nde Athlum! Eles irão se infiltrar naquela cidade\nde pecados para semear o caos.\nEntão será nossa chance! Venham! Vamos\nlibertar o povo de suas amarras!
+M-mas o que diabos é isso!?
+Parece uma reunião de ativistas anti-Remanescentes.
+Para mim parece mais uma reunião de terroristas\nanti-Remanescentes!\nNão sei o que estão planejando, mas\nparece perigoso!
+Quem está aí!?
+Oho! Parece que temos visitas... lacaios\ndaquele abusador de magia, o Marquês de Athlum!\nContemplem seus olhos,\nbrilhando de tanta depravação!
+Woa, é tarde demais para salvar\nesses incrédulos.
+Mas ainda assim eles podem servir a um propósito\npara inaugurar\na purificação de Athlum.\nDevemos batizar nosso movimento com\no sangue desses servos do mal!
+Esse cara está maluco!
+Preparem-se!
+Suponho que não nos resta outra opção\nsenão lutar...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 15) EV0220_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+A senhorita Irina não estava aqui?\nEntendo... Sinceramente, talvez seja melhor assim.\nPor agora, vamos retornar para Athlum.
+Esses homens?\nSuponho que devemos levá-los sob custódia.\nMas é claro, eles não fizeram nada de mais, então\nteremos de soltá-los logo em seguida...\nDe qualquer maneira, não precisam se preocupar com isso.
+Tire as mãos de mim, escravo dos Remanescentes!
+O quê... o que está tentando fazer?\nMe deixe em paz!
+Esse poder avassalador...\nOs Remanescentes só servem para causar problemas.
+Não precisamos dos Remanescentes para nada!\nPor que não conseguem entender isso!?
+Irina?\nLamento, não conheço ninguém com esse nome.
+Não nos dobraremos à opressão!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 16) EV0230_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Traficantes de escravos e terroristas\nanti-Remanescentes... Que beleza.
+E pensar que enquanto lutávamos contra os\nhomens-besta, aqueles delinquentes faziam\no que bem queriam...
+Já estamos cuidando desse problema,\nLorde David.\nNão se preocupe quanto a isso.
+Há algo mais importante: recebemos outra notícia\nigualmente... inquietante.
+Várias pessoas dizem ter visto\num brilhante feixe de luz cruzar o céu.
+Um feixe de luz?
+De vez em quando, Remanescentes emitem luz...\nÉ um fenômeno conhecido como "Luminescência."
+A luz que vimos poderia ser a Luminescência do\nCoração Valeriano ou do Gae Bolg\nrefletido nas nuvens.
+Sim, mas o Coração Valeriano e\no Gae Bolg estão vinculados.\nEles não emitem Luminescência há\nmuito, muito tempo.
+Seria então outro Remanescente?
+A luz se movia como se tivesse\nvontade própria.\nEra muito diferente de uma Luminescência,\ntenho certeza.
+Então, seria um monstro voador!?\nÉ o que parece.
+Para onde a luz se dirigia?
+Em direção à Dillmoor.
+Muito bem. Vocês quatro peguem o Rush e sigam\nimediatamente para Dillmoor.
+Parece que vamos enfrentar um Remanescente voador.
+De jeito nenhum! I-Isso é impossível!
+Ainda faltam muitos Remanescentes para serem\ndescobertos pela Academia,\nmas eles nunca disseram nada sobre um\nque fosse capaz de voar.
+Não... Deve ser mesmo um Remanescente.\nÉ a única explicação.
+Agora estamos indo enfrentar um grupo que tem\nem suas mãos um Remanescente desconhecido.
+Sejam cautelosos nessa batalha.\nA prioridade é resgatar Irina.
+Sim, milorde.
+Sim, milorde.
+Sim, milorde.
+Sim, milorde.
+Fique tranquilo, Dave. Somos os mocinhos,\ntenho certeza que traremos Irina de volta!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 17) EV0250_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Aqui se encontrava uma cidade muito próspera.\nEla foi construída ao redor do Remanescente da\nPaz, o Almelástica.
+Houve uma guerra?
+Não. A pessoa que estava vinculada ao Remanescente\nfaleceu.
+O mundo está cheio de\nRemanescentes\ne cada um é distinto dos demais\nem seus aspectos e poderes.
+No entanto, todos eles têm uma coisa\nem comum.
+E... o que seria?
+Quando um Remanescente não está vinculado a alguém,\nele se converte em uma fonte de desgraças.\nEssa calamidade é conhecida como "Cataclismo".
+Shhh! Escondam-se!
+Bem ali. Dois homens...\nE... uma garota de cabelos castanhos.
+O que fizeram a ela!?
+Creio que é hora de partirmos.
+Irina!\nFoi desencadeado outro Cataclismo!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 18) EV0270_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Você tinha razão, Lorde David. A criatura voadora\né sem sombra de dúvidas um Remanescente.
+Confirme isso com a Academia.
+Sim, milorde.
+Quem poderia estar por trás disso tudo?
+Ainda não sabemos o bastante nesse momento ...\nSem dúvida, essa situação é mais complicada\ndo que havíamos imaginado.
+Sim, devemos adiar qualquer curso de ação\naté termos mais informações.
+E quanto à Irina?\nDevo simplesmente ficar de braços cruzados?
+Não estamos lidando com um inimigo qualquer.\nUm plano bem elaborado é essencial.
+Dave, diga algo!
+Torgal tem razão.
+Estamos lidando com inimigos que tem em seu poder\num Remanescente do qual\nnem mesmo a Academia ouviu falar.
+Tomar uma decisão precipitada vai apenas\ncolocar Athlum em perigo.\nVocê precisa entender minha posição, Rush.
+Para onde você está indo?
+Encontrar Irina, obviamente.
+Você não acha que as pessoas de Athlum são\na coisa mais importante da sua vida?\nEntão, Irina é a coisa mais importante\nda minha.
+Bem, agradeço por terem me ajudado até agora.\nSeguirei sozinho a partir daqui.
+Lorde David, ainda não sabemos nada a respeito\nde seu talismã.
+Talvez devêssemos tê-lo impedido.
+Talvez. Estou ciente de que vamos precisar de mais\npoder, o Gae Bolg e o Coração Valeriano\nnão serão suficientes.
+O futuro de Athlum está em jogo aqui...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 19) EV0280_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Irina...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 20) EV0280_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Está se sentindo melhor?
+Você tem um paladar refinado, hã? Desculpe pelo cardápio\nnão ser adequado para uma princesa como você.
+Ei...
+Rush...
+Rush está morto.
+Não...
+Pare de chorar pelos mortos e coma sua refeição.\nVocê é vital para Ele.\nDeveria se sentir honrada.
+Ei, espera aí!
+Quanto tempo vamos mantê-la aqui?\nDeveríamos libertá-la!
+Está com peninha dela?
+Essa coisa toda me deixa enojado.\nEla é só uma criança!
+Estou somente seguindo as ordens do Lorde.\nAssim como você deveria seguir as minhas.
+Certo! Então me dê ordens de verdade!\nEstou farto de ser a droga de uma babá!
+Como desejar. Vamos atrás\ndo próximo Remanescente.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 21) EV0300_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Isso é tudo, Lorde David.\nVou orar pelo seu sucesso.
+Aí está você.
+Quem era aquele?
+Ah, ahem, sim... Um mensageiro de Celapaleis.\nEnviado pelo Duke de Qubine.
+Ele veio nos avisar que algumas\ntropas não identificadas invadiram Valenegro.
+Ele acredita serem tropas do Duke\nde Ghor. Vamos investigar imediatamente.
+Mas eu pensei que o Valenegro pertencesse\na Athlum.\nPor que esse cara está te dando ordens?
+Era apenas um pedido, não uma ordem.
+E apesar de sermos aliados, Athlum está\natualmente sob o controle de Celapaleis.\nNossa opinião não conta muito.
+Huh.
+Então para que você precisa de mim?
+Preciso que participe da nossa investigação.
+Por quê?
+Pagus?
+De acordo com o relatório,\nas tropas de Ghor que invadiram\nValenegro estavam sendo lideradas por um mago vestido\nde branco.
+E fora isso, eles estavam na companhia\nde um Remanescente voador...
+Isso lembra alguém que conhecemos.\nTipo os caras que vimos em Dillmoor!
+Temos que nos apressar.\nPrepare-se para partir imediatamente.
+Espera, você está indo também?\nNão é muito importante para isso?
+Me pediram para ir também.
+Além disso,\nassim eu poderia satisfazer minha curiosidade.
+Estamos partindo para Valenegro imediatamente!\nEntendido?
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, ahem...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 22) EV0310_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Bingo!
+Dave!
+Sou David Nassau, o Marquês de Athlum!
+Sua presença aqui constitui um ato\nhostil contra Athlum!\nEntreguem suas armas imediatamente, e declarem\nseu nome e intenções!
+Se não cumprirem essas ordens, não teremos escolha\na não ser usar força letal.\nDarei a vocês apenas uma chance.\nRendam-se agora!
+O que está fazendo!?\nUma repreensão não serve de nada para caras como esses!
+Que assim seja. Faremos eles lamentarem o dia\nem que pisaram em Athlum!
+Homens! Atacar!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 23) EV0320_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Merda!
+Atrás dele!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 24) EV0330_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Irina, você deve criar um vínculo com esse\nRemanescente. Você precisa liberar seu poder.
+Pois esse poderá mudar o mundo...\nEle poderá até mesmo trazer de volta os mortos.
+Isso significa...?
+Gostaríamos de ver seu irmão de novo,\nnão gostaríamos?
+Irina!
+Rush, eles têm um refém.\nVocê deve ficar calmo.
+Mas...
+Escute, essas pessoas são perigosas e\nnão sabemos do que são capazes.
+Ora, Ora! Se não é o Marquês de Athlum!
+Você me conhece? Que sorte.
+Seus atos de hostilidade não passaram\ndespercebidos. Sabemos que manipulou\ntanto o Almelástica quanto a Schiavona.\nE não vamos esquecer do sequestro...
+Suas ações violam o decreto\ndo Conselho, e por isso\nvocê será punido!
+Somos homens razoáveis, Marquês.\nUm homem de sua posição certamente compreende\na... impraticalidade de certas leis.
+Mas eu entendo.\nVamos nos retirar se é este o seu desejo.\nNão ousaríamos fazer nada que pudesse irritá-lo.
+Isso é tudo?
+Não! Você vai soltá-la e se render\nimediatamente!
+Você acha que não iremos machucá-lo só\nporque é o Marquês de Athlum?
+Sua confiança dá a entender que não está sozinho.\nQuem é seu aliado?\nO Duke de Ghor, talvez?
+A essas horas, você deveria estar ciente da\nresposta da Academia...\nou da falta dela.
+Você... Você faz parte da Academia?
+Meu caro Marquês...\nIrina é especial.\nSeus pais querem desesperadamente que ela\nfaça parte de nossa pesquisa.
+Ela finalmente veio a entender isso.
+Nós só... começamos com o pé errado.
+Mentiroso! Não acredito em você!
+Irina, eu sei que não quer estar aqui!\nMas está tudo bem agora! Estou aqui!\nSou eu, Rush! Seu irmão!
+É uma lástima que eles não compartilhem\no mesmo poder...
+Marquês, faria a gentileza de\ncuidar do seu jovem impetuoso amigo\num instante?\nConsidere isso uma ajuda para nossa pesquisa.
+Rush, pare!
+Não! Eu vou salvar minha irmã!
+Marquês, acredito que seria de seu\ninteresse deter seu pequeno amigo.\nCaso contrário, temo que sua vida poderia\nestar correndo perigo...
+Achei sua história difícil de engolir.\nVocê virá conosco para Athlum para\nconfirmar isso com a Academia.
+Você não acredita na minha palavra?\nMuito bem.\nTalvez eu deva convencê-lo... pela força!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 25) EV0350_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Ora, ora...\nParece que subestimei vocês.
+Mas que droga!? Você não pode matá-lo!\nEle é o maldito Marquês de Athlum!
+Não faz diferença. Ele não pode liberar\no verdadeiro poder dos Remanescentes....\nNão passa de mero combustível para seu fogo.
+Magias arcanas de eras passadas;\nenvolva a todos no vazio!
+Não posso acreditar nisso...!
+Como ousa!?
+Rush, caia fora daqui!
+Irina!?
+Moça!
+Volte! Isso vai desmoronar!
+Maldição! Irina! Me solte!
+Lorde David! Recuar!
+Irina!!!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 26) EV0360_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então, você não só permitiu que esse ser misterioso\nescapasse pelos seus dedos,\ncomo também não sabe nada a respeito\nde para quem trabalha, nem o que pretende?
+Isso que é um magnífico relato.
+Missa nossa. Athlum sequer tem controle\nsobre seu próprio território?
+Bah... Parece que a maçã não cai\nmesmo longe do pé.
+Ahem! J-já vou indo! Devo reportar isso\nao Duque imediatamente! Tenha um bom dia!
+Mas que desaforo desse sujeito... Alguém deveria\nensinar boas maneiras a ele!
+Vamos lá, acalmem-se...
+Por que passou uma informação falsa ao Duque?
+Você acha que aqueles homens estão relacionados\ncom a Academia...?
+E você não?\nA Academia conduz pesquisas em\ndiversas áreas.\nHá rumores de que eles também têm realizados\nexperimentos ilegais com Remanescentes...
+É possível que nosso mago de branco\nesteja envolvido.
+E a Academia goza de enorme\ninfluência em todo o mundo.\nCelapaleis não é exceção.
+Você não acha que o Duque de Qubine\nestá envolvido nisso...?
+Não sei.\nMas até sabermos mais, é melhor termos cuidado.
+Não quero que o Duque saiba nossos planos\npor agora.
+Compreendo. Mas tome cuidado para não\nse encrencar.\nSe Athlum cair, essas suas maquinações\nterão sido inúteis.
+Disso eu sei.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 27) EV0370_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Ahh, pensei que ele nunca mais fosse me deixar ir embora...
+Não consegue dormir?
+Eu... Eu não fui capaz de salvá-la!
+Maldição! Irina... Eu...\nO que devo fazer agora!?
+Rush! Você precisa se acalmar.\nIrina está viva.
+Como você...?
+Depois que partimos, uma estranha criatura voadora\nfoi avistada deixando Valenegro.\nUma garota foi vista com ela...
+Depois de comparar diversos relatos,\nestamos certos de que se trata da Irina.
+É-é sério?
+Pagus confirmou isso pessoalmente.\nSem dúvida alguma, sua irmã está viva, Rush.
+O que é isso?
+...Ainda que esteja viva, não sou forte\no suficiente para salvá-la...
+Não perca as esperanças, Rush! Você deve\npoupar todas as suas forças!
+Se você não a salvar, quem irá?
+Você tem razão... Tenho de encontrar uma solução.
+Como eu lhe disse, irei ajudá-lo no que puder.\nAinda é muito cedo para perder as esperanças!
+Dave... Obrigado.
+Sim... tudo bem. Aquele tal de Wagram insinuou\nque é um membro da Academia.\nSe isso for verdade, a situação é muito mais séria\ndo que imaginamos. Você não pode enfrentar isso sozinho.\nAlém disso... Irina nos salvou.\nDevo a ela minha a vida.\nE os homens de Athlum sempre pagam\nsuas dívidas.
+Você tem certeza de que pode nos ajudar?\nTorgal não ficará feliz com isso...
+Heh. Limpar minhas bagunças é o seu trabalho...\nTem sido assim desde que nasci.
+Ah, cara. Que grosseria.
+Assim que descobrirmos para onde foi\nessa criatura voadora, eu te avisarei.
+Certo. Vou ficar de olho também.
+Lorde David...\nVocê ainda pretende investigar esse assunto?
+Mas é claro. Não vou permitir que\nesses delinquentes manchem a imagem de Athlum!
+Aquele mago... Vou descobrir quem é realmente esse Wagram,\nnem que eu tenha de virar a Academia de pernas para o ar!
+Sim, milorde.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 28) EV0390_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Aí estão vocês.
+O que está acontecendo?
+Rush, o Conselho se reunirá\nem Elysion daqui a alguns dias.
+O Conselho? Por que?
+Simplificando, o Conselho é um grupo\npara garantir que o mundo se mantenha nos eixos.\nUma vez a cada poucos anos, os Lordes se encontram\ne discutem assuntos urgentes.
+Estamos indo para Elysion também.
+Então, você me fez vir aqui somente\npara dizer adeus?
+Ah, não. Pelo contrário, viajar conosco\npoderia garantir sua entrada em Elysion.
+Ganhar acesso a Elysion quando\no Conselho se reúne é particularmente difícil.
+E não vamos esquecer o aumento da vigilância,\nque acontece por causa da chegada de pessoas importantes.
+Então, se eu puder chegar em Elysion,\npoderei ir na Academia!\nAw, Dave, isso é absolutamente genial!
+No entanto, ainda não sabemos se Lorde David vai\nser convidado para a reunião do Conselho...
+Como assim?
+Normalmente, apenas os líderes mais poderosos\nsão convidados para o Conselho.\nÉ pouco provável que um líder tão jovem como eu\nseja convidado para participar.
+...Você andou irritando alguém?
+Ainda não... Mas estava perguntando a respeito\nde alguém que poderia estar por trás\ndas intrigas da Academia.
+Quem?
+O líder da Academia, e Presidente\ndo Conselho...
+O Lorde de Nagapur,\nDuque Wilfred Hermeien.
+Wilfred Hermeien, huh...\nEntão esse é o cara que sequestrou Irina?
+É isso que eu gostaria de descobrir.
+Lorde David!
+A Casa Hermeien tem presidido\no Conselho por várias gerações.\nSe forem provocados, eles não hesitarão em\ncolocar todos os Lordes contra você.
+O defunto Marquês fez grandes esforços\npara manter relações pacíficas com o\nPresidente. Você deve considerar sobre\no que é melhor para Athlum...
+Então ainda não estou à altura do meu pai,\nhmm?
+Chega de discussão. Vamos tratar desse assunto\nquando chegarmos em Elysion.\nIniciem os preparativos para partirmos.
+Sim, meu lorde.
+Sim, meu lorde.
+Sim, meu lorde.
+Sim, meu lorde.
+E-ei, Dave...
+O que foi?
+Uh... nada, esqueça.\nTe vejo mais tarde!
+Hrn.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 29) EV0400_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então essa é a garota...
+Sim, milorde...
+Então você é o responsável por isso tudo.\nO que quer de mim?
+Que garota atrevida...\nIgualzinha a mãe.
+Você... conhece minha mãe?
+Detesto esse tipo de mulher.\nMulheres deveriam ser dóceis.
+E você não é exceção, então não\nse atreva a falar comigo dessa maneira novamente.\n...A menos que queria servir de alimento para as Harpylias!
+M-milorde...
+Oh, estava só blefando. Eu nem sonharia\nem tratá-la como as outras.
+Essa garota é insubstituível, afinal de contas.\nVocê deve cuidar muito bem dela, Wagram.
+Sim, milorde.
+Rush!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 30) EV0410_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Wow...
+Aquele é o Remanescente de Elysion.\nSeu poder mantém o mundo em equilíbrio.
+Mil anos atrás, a grande Marion\nMarshall estabeleceu um vínculo com esse Remanescente,\nmarcando esse lugar como o local de nascimento da\ncultura dos Remanescentes.
+Huh...
+Eu pensei que você fosse de Elysion.
+É, eu nasci aqui, mas nos mudamos para\nEulam quando ainda era bem pequeno.\nNão me lembro de nada em Elysion.
+Lorde David?
+Certo. Vamos para a embaixada.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 31) EV0410_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+A assembleia ainda não começou?
+Ainda não. Os Duques de Ghor e Qubine\nainda não chegaram.
+Suponho que entre as vantagens do ducado está incluído\nnunca ter de chegar na hora...
+Então neste caso...\nRush, vamos dar uma volta, que tal?
+Uhh, seria uma boa?
+Eu vou ser convocado quando chegar a hora.
+Além disso, tudo ficará mais fácil\nse você permanecer perto de mim, Rush.\nAcredito que não tenha objeções...
+Não se você nos permitir acompanhá-lo,\nmilorde.
+Certamente. Vamos aproveitar essa oportunidade\npara conseguir o máximo de informações possível.\nE não podemos deixar de fazer uma\nvisita à Academia.
+Isso aí!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 32) EV0440_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Olhem!
+Quem são eles?
+Alguém sabe quem é esse?
+Eles o chamam de "o Conquistador."
+Como ele se atreve a trazer suas tropas!
+Aquele grandalhão deve ser ele!
+Sou Roeas, mensageiro de sua alteza,\no Conquistador!
+Viemos da cidade oriental de Veyriel.\nEstamos aqui para pegar o Remanescente confiado a nós\npela profecia do Imperador!
+Sua alteza promete prosperidade a todos!\nO sinal desta promessa logo\nse mostrará para o mundo!
+O Remanescente acordará;\no tempo não mais ficará estagnado.\nO tempo prometido se aproxima.\nSeus sonhos logo se tornarão realidade!
+...
+Quanta idiotice! Uma profecia!? O Imperador\njamais os ajudaria!
+Ignore-os. Deixe dizerem o que quiserem.
+Eles trouxeram suas tropas aqui para Elysion.\nTalvez exista alguma verdade em suas palavras.
+Quem sabe ameaçaram o Imperador para\nse unir a eles?
+É amigo seu?
+O que está acontecendo? O que ele fez?\nEu não sei.\nMas... há algo com esse cara...
+Ele sumiu!
+Eu preciso encontrá-lo.
+Tudo bem então.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 33) EV0450_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Com licença.
+Você deve ser o Marquês de Athlum.\nOs demais membros já chegaram.\nPermita-me levá-lo até o salão da assembleia..
+Minha presença é requerida no Conselho.\nPor favor, fiquem com ele.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 34) EV0480_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+É ele!
+Por aqui!
+Ei, o que ele pensa que está fazendo?
+Shhh!
+Ele pretende se vincular ao Arca?\nSó alguém com um grande poder conseguiria.
+Essa luz...
+Não pode ser...
+Sim, infelizmente é isso. Essa luz é...
+É como se o salão da assembleia\nestivesse... brilhando!\n... Luminescência.
+E-Ele conseguiu... se vincular ao Arca...!\nQuem... ou o que é ele?
+
+-- ----------------------------------------------------------------------------------
+-- (Export 35) EV0510_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Parece que não tem ninguém aqui.
+Rush?
+Rush, o que é isso?
+Sim.... Lembre-se....
+Rush!
+Por que você veio aqui!?
+Sinto muito...
+Mamãe...?
+Hmph. Então ela é assim...
+É chegada a hora do despertar.
+Mamãe... me desculpe...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 36) EV0520_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Movam-se. Eu já terminei aqui.
+Por favor, o Presidente chegará aqui\na qualquer momento!
+Por favor, aguarde mais um pouco,\nLorde Conquistador!
+Conquistador...?
+Você está bem?
+Presidente Hermeien!
+Eu sou o Presidente do Conselho,\nDuque Wilfred Hermeien.
+Senhor... Conquistador, não é isso?\nPoderia explicar suas intenções?
+Acredito que já saiba minhas intenções.
+Você gostaria de ser chamado de Lorde,\ne possuir seu próprio Remanescente, hmm?
+É inconcebível, tomar um fim de mundo\ncomo Veyriel e depois esperar que...
+Jurava que tínhamos pedido para esperar pacientemente\naté o Conselho tomar\numa decisão.
+Minha chegada foi pressagiada pelo\npróprio Imperador.\nPor que deveria esperar pela decisão do Conselho?
+Os dias em que as palavras do Imperador\neram leis acabaram.\nEle deveria saber disso melhor que ninguém...
+Não importa. Já que não quis me conceder\num Remanescente, então eu mesmo peguei um.\nMinhas intenções agora se realizaram.
+Você se vinculou ao Arca!?\nBem, perdoe-me se estou sendo cético...
+Eles foram testemunhas.
+E você é…?
+Eu sou Torgal,\num dos Quatros Generais de Athlum.
+E você viu isso?
+Sim... com toda certeza, O Conquistador\nformou um vínculo com o Arca.
+Hmmm.
+I-impossível...\nAchei que ninguém conseguisse se vincular ao Arca!
+E-ele é igual a Marshall...!
+Terminamos aqui.
+Espere!
+Muito bem. Você pode ser um Lorde.
+E lhe daremos um Remanescente. Assim que...
+Entendo. Irei desfazer o vínculo com o Arca.
+Desde já a reunião do Conselho está\nem recesso indefinido!
+Convocaremos outra em breve, então os Lordes\nnão tomarão nenhuma ação até lá!
+Marquês de Athlum!
+Espero que entenda o significado de \n"nenhuma ação".
+Desculpe, Dave.\nTudo está acabado agora...
+Isso não é culpa sua, Rush. Vamos voltar para embaixada.\nDiscutiremos isso lá.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 37) EV0530_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então.... Quem é esse Conquistador exatamente?
+Está claro que ele não é uma pessoa comum.
+Há algo... estranho nele. Parece que...
+Hmm... Não dá para explicar com palavras.
+E ainda tem a questão de sua relação com\no Imperador.
+Lidaremos com isso mais tarde.\nPor ora, vamos nos concentrar na Irina, e\nas pessoas da Academia que a levaram.
+Você descobriu algo?
+O Presidente Hermeien revelou que\na Academia estava envolvida\ntanto no sequestro de Irina quanto nas invasões\nem Athlum.
+Aparentemente, alguns membros da Academia\nestão realizando experimentos ilegais.\nO mago Wagram está à frente disso.
+Maldito seja! Então, onde está a Irina?
+Sinto muito, mas nem mesmo o Presidente\nsabe o paradeiro de sua irmã.
+Uma investigação foi aberta,\nentão vamos esperar pacientemente.
+Tá... "Não sair causando problemas"\né o que isso parece.
+Bem, não é como se o Duque Hermeien pudesse\ndizer outra coisa.
+Como chefe da Academia, qualquer coisa que\naconteça pode manchar sua reputação.
+Então...\nTudo que podemos fazer agora é sentar e esperar?
+Por ora, sim.
+Ou pelo menos é o que eu deveria dizer,\nmas as coisas nunca são tão simples, não é mesmo?
+Eu descobri o que aconteceu com os Sykes...\nna condição de ficar quieto sobre\no envolvimento da Academia.
+Ao que parece sua família foi\ntransferida para uma nova instalação.\nIsso tem sendo mantido em segredo, mas...\nEles estão dentro do Templo de Elysion.
+Certo. Eu vou para lá!
+Espera. Eu vou com você.
+Hã?
+Seria preocupante deixá-lo ir sozinho. Além disso...
+Há mais sobre esse assunto\ndo que parece.\nEspero que essa viagem renda algumas repostas.\nAlguma objeção?
+
+-- ----------------------------------------------------------------------------------
+-- (Export 38) EV0570_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Rush?
+Papai!
+É bom te ver, filho.
+Papai, Irina foi...!
+Sim, eu sei.
+Você é... o Marquês de Athlum!
+O que é isso?
+Isso... é por isso que sequestraram a Irina.
+Esta tabuleta coloca os Remanescente num...\nestado profundo de sono. Foi descoberto pela sua mãe.
+E onde ela está afinal?
+Ela está lá fora...\natraindo-os para longe daqui.
+O quê!?
+Não se preocupe. Com isso, recuperaremos\na Irina num piscar de olhos.\nSua mãe logo estará de volta.
+Você fez bem, Rush.\nTudo ficará bem.
+Espero que sim...
+Você pode continuar isso depois.\nVamos voltar para a embaixada.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 39) EV0580_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Papai, está tudo bem.\nVocê não está mais sozinho.
+Eu sei.... Obrigado, filho.
+Papai?
+Papai!?
+Pare! Não toque nele!
+Não escapará tão fácil, John Sykes.
+O que fez com ele!?
+Entregue a tabuleta ou ele morre.
+Venha pegá-la então!
+Hã!?\nPapai!\nPapai!!!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 40) EV0590_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Como está meu pai?
+Sua vida não está em perigo.\nMas parece que ele está em coma.\nNão sabemos quando irá acordar.
+Aposto que se trata de uma maldição!
+Precisamos encontrar aquele mago\nrápido.\nAcredito que seja o único que pode salvar o\nDr. Sykes.
+Wagram...?
+Se ao menos soubesse onde minha mãe está...
+Isso me lembra... Você não se lembra o que\no Dr. Sykes nos disse mais cedo?\nSobre a Sr. Marina estar tentando ludibriar\nos outros? O que ele quis dizer com isso?
+Eu não me lembro...
+Acho que sei onde\nela pode estar.
+Sério?\nEis uma boa hora para nos dizer
+Tenho um favor a pedir. Queria ir atrás dela\nna companhia do Rush, e somente com o Rush.
+Só vocês dois?
+Sim, milorde...
+Poderia explicar o porquê?
+Entendo.
+Lorde David!?
+Você tem servido lealmente Athlum\npor muitos anos. Eu confio em você.
+Lorde David...
+Rush.
+Cuide bem dela.\nEla não é tão forte quanto parece.
+Pode deixar.
+Vamos voltar para Athlum.\nHá muito o que ser feito ainda.
+Sim, milorde!
+Rush, saiba que seu pai está em\nboas mãos.
+Eu sei. Obrigado.
+Vejo você em Athlum.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 41) EV0600_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Já se passou muito tempo...
+Já esteve aqui antes?
+Temos uma velha tradição de família:\nPara carregar o nome dos Honeywell, é preciso\nir em busca de Remanescentes uma vez\nque chegar a fase adulta.
+Interessante.
+Meu pai morreu na guerra...\nEle sonhava com um grande\nRemanescente para Athlum...
+Decidi checar esse lugar depois de ouvir\nque a Academia estava procurando algo aqui.\nPensei que talvez pudesse encontrar um...
+Então eu... a conheci.
+Quer dizer a minha mãe?
+Me desculpe. Não quero te aborrecer.\nPrecisamos seguir em frente.\nSua mãe está esperando.
+Hã, certo.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 42) EV0610_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+O que eles são?
+Eles quase me mataram, no passado.
+Sério!?
+Mas não dessa vez!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 43) EV0620_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+O quê!? Não pode ser!
+Hmph
+Pensei que nunca iria aparecer.
+Quanto tempo...
+Mamãe!
+Rush!
+Mamãe...\nE-Eu não consegui salvar o papai!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 44) EV0630_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+É como da última vez...\nVocê aparece do nada, e de alguma forma\nconsegue deter os monstros... e salvar minha vida.
+Preciso tomar um pouco de ar.
+Seu pai...
+Ele não vai acordar.\nDave disse que só o Wagram tem\no poder de trazê-lo de volta.
+Mamãe...
+Eu e Irina\ntemos o poder de nos comunicar\ncom os Remanescentes.
+Tudo isso está acontecendo por causa de\nnossos poderes, não é?\nEu preciso saber!
+O que nós somos?\nE quem realmente é você?
+Eu era uma órfã.\nO diretor da Academia\nme acolheu quando era uma criança.
+Para retribuir o favor, me juntei à Academia\ne dediquei minha vida à sua pesquisa.
+Foi aí que descobri a verdade\nsobre quem eu era.
+Você deve ter ouvido falar de Marion Marshall.\nEla foi a mulher que criou um vínculo com o\nRemanescente de Elysion, e se casou com o Imperador.
+Seu poder era extraordinário...\nO poder de desfazer os vínculos dos\nRemanescentes e substituí-los pelos seus.
+Em mim repousa o mesmo terrível poder.
+Eu...\nEu possuo a benção de Marion... e Irina também.
+Eu não sabia disso até\nIrina nascer. Ah, se eu soubesse disso!\nE pensar que tantas coisas terríveis estão\nacontecendo com ela, e tudo por minha culpa...
+Mamãe...
+Você conheceu o papai, logo eu nasci e então\na Irina, nós quatro formamos uma família.\nVocê realmente... Ficou feliz com isso?
+Nunca lamentei por ter formado uma família.\nE nunca irei.\nVocês três são\na alegria da minha vida.
+Então só nos resta uma coisa a fazer...\nTrazê-los de volta e voltarmos a ser uma família!
+Eles querem a Benção de Marion, certo?\nEntão não vão machucar a Irina.\nAinda temos uma chance de salvá-la!
+Rush...
+Obrigado. Agora sei o que tenho que fazer.\nTome...
+Fiz isso usando a tabuleta. Quando encontrar\nIrina, quero que dê isso à ela por mim.
+Mas o que pretende fazer, mamãe?
+Por hora, concentre-se apenas em\nencontrar a Irina.
+Rush.... Por favor, faça o que digo.
+Mamãe...?
+Para onde ela vai dessa vez?\nSimplesmente não faz sentido.\nEm vez de agir sozinha, ela poderia\nvir conosco para Athlum e\nexplicar tudo para o Lorde David.
+Também não entendo. Mas...\nNão a leve mal.\nTenho certeza que ela sabe o que está fazendo.
+...Muito bem. Mas você terá que\nexplicar tudo para o Lorde David.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 45) EV0660_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Protejam os Portões!
+Sim, senhor!
+Vamos! Movam-se!
+O que está acontecendo?
+Vamos, depressa!
+Lady Emma! Rush!
+Graças ao Imperador vocês estão bem!
+Não que houvesse dúvidas!
+As coisas pioraram, não é mesmo?
+Sim. O Conselho está demorando para conceder\num Remanescente ao Conquistador,\ne os Lordes já estão ficando nervosos com isso.
+E o Conquistador segue ameaçando invadir\noutros países para se apoderar de\nseus Remanescentes...
+Não esperaria outra coisa de alguém\ncapaz de estabelecer um vínculo com o Arca...
+Ele ganhou a inimizade de todos os Lordes\nque tem um Remanescente. O que ele pretende?
+A princípio, ele está reunindo um exército.
+Então há uma guerra a caminho...
+Onde está o Dave?
+Ele está reunido com um enviado do\nDuque Hermeien.
+O que o Hermeien quer?
+Nossa cooperação, aparentemente.
+Torgal.
+Viu só, o Conselho está divido em\nduas facções...
+Um lado apoia o Presidente contra\no Conquistador.
+O outro apoia o Conquistador, temendo\na ira do Imperador.
+Duque Hermeien deseja se aliar a nós e\nacabar com o problema o quanto antes.
+Ele quer falar comigo pessoalmente,\nem Nagapur.
+O que pretende fazer?
+Aproveitar a oportunidade,\né claro.
+Lorde David...?
+Em troca do apoio ao Duque Hermeien,\nvou pedir sua ajuda nas reivindicações\nde independência de Athlum.
+Pense nisso...\nFinalmente nos livraríamos de Celapaleis!
+Não estamos em posição para negociar\ndepois do que aconteceu com a Academia...
+Talvez não, mas isso não faz muita diferença.
+Mal podemos chegar perto do Gae Bolg\nsem o consentimento do Duke de Qubine.
+Por que é tão difícil para Athlum\nproteger a si mesmo?
+Nosso país merece mais que isso.\nPrecisamos aproveitar essa oportunidade!\nEmma.
+É bom vê-la em segurança.
+E de novo peço sua ajuda, pela\nglória de Athlum.
+Minha vida é sua.
+Partiremos para Nagapur em breve!\nSe apressem com os preparativos!
+Sim, meu lorde!
+Sim, meu lorde!
+Sim, meu lorde!
+Sim, meu lorde!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 46) EV0660_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Vai mesmo haver uma guerra?
+Parece inevitável, nessa altura.
+Huhhh...
+Quando a guerra começar, os Remanescentes serão\njogados uns contra os outros...
+E tudo que sobrará serão terras devastadas,\ncheias de corpos e Remanescentes que\nperderam seus amos.
+Vivemos em tempos escuros...
+Perdoe-me, mas queria te perguntar algo...\nVocê conseguiu finalmente encontrar sua mãe?
+Sim...
+Então?
+Dave... me prometa uma coisa.
+Eu lutarei por você... e por Athlum.\nMas por favor, não meta\nIrina ou minha mãe nisso, ok?
+Tem minha palavra.
+Obrigado, Dave.
+Isso é tudo que tem a me dizer?
+Uhh... Sim.
+Então melhor se preparar logo.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 47) EV0685_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Tome Cuidado.\nQue o Imperador esteja com você!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 48) EV0700_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Quero anunciar nosso convidado de honra, o\nComandante dos Remanescentes concedidos\npelo próprio Imperador, o Gae Bolg\ne o Coração Valeriano...
+O Marquês de Athlum, Lorde David Nassau!
+Prazer, Marquês.
+Hermeien.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 49) EV0710_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Ele está vindo!
+O Conquistador está avançando!
+O quê?
+Lorde David!
+Emma, Pagus, Rush. Temos que ir agora.
+O que está acontecendo? Onde está o Wilfred?
+Nossa reunião foi adiada.\nO Conquistador está marchando para Celapaleis.
+Nos chamaram para ajudar na defesa. Vamos voltar\npara Athlum para nos prepararmos para a batalha!
+Sim, meu lorde!
+Sim, meu lorde!
+Sim, meu lorde!
+Sim, meu lorde!
+Rush...
+Irina está aqui!?
+Ela parece estar sob a custódia\ndo Duque Hermeien.
+Suponho que possa ficar tranquilo sabendo\nque ela não está nas mãos de Wagram.
+O quê?\nNão! Por que não trouxe ela com você?
+Bom, eu não a vi pessoalmente...\nQual é o problema?
+Irina,\nIrina tem a benção de Marion!
+...E você acha que Lorde Hermeien\nsabe disso?
+Espera! Onde você vai?
+Tenho que ir salvá-la!\nNão posso deixar que ele use seu poder!
+Acalme-se e pense um pouco!\nComo irá salvá-la se nem mesmo\nsabe onde ela está!?
+Rush, só há uma coisa que podemos\nfazer agora...
+Precisamos acabar com essa guerra antes que\nalguém tenha a chance de usar seu poder!
+Te prometo que voltaremos por Irina.
+...Tudo bem.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 50) EV0710_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Rush...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 51) EV0720_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Senhor, as forças do Conquistador\ne a guarda do Duque de Qubine\nentraram em combate no Ninho das Águias.
+E parece que Celapaleis\nestá levando a pior nessa... 
+Torgal, Blocter...\nÉ melhor irmos ajudá-los depressa.
+Pagus, Emma, fiquem aqui com o Rush\ntomando conta de Athlum.
+Lorde David, se me permite...
+O Conquistador reuniu um exército e\natacou Celapaleis sem nos dar\num segundo para pensar.
+A força e insolência de nosso inimigo é\nclara...\nAssim como as consequências dessa batalha.\nSe Celapaleis cair, Athlum cairá em seguida.
+Se um homem a mais puder aumentar\nsuas chances, você deveria levá-lo.
+Emma...
+Leve os outros.\nEu protegerei Athlum com a minha vida!
+Entendido. Cuide bem dela.
+Sim, meu lorde!
+Vamos, homens. Todas as forças, avante!
+Sim, meu lorde!
+Sim, meu lorde!
+Sim, meu lorde!
+Sim, meu lorde!
+Sim!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 52) EV0750_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Fiquem prontos!
+Evacuem a cidade! Agora!
+Ele é um monstro!
+Ajude-me!
+Por aqui! Rápido!
+O que ele está fazendo aqui!?
+Para trás!
+O Coração Valeriano...\nEle...?
+A... tabuleta...
+Desgraçado... por que você...
+O que está acontecendo?
+Eu não sei...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 53) EV0760_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Rush...
+Mamãe...
+Tudo por culpa dessa tabuleta...
+Emma...
+Não encontramos Lorde David,\nnem a espada de Emma...
+Lorde David perdeu sua mãe quando era\napenas uma criança.\nEmma era como uma mãe para ele.\nÉ improvável, mas...
+Eu vou encontrá-lo.
+Este era o jardim da minha mãe.\nMeu pai o queimou quando ela morreu.\nMas... Emma o devolveu a vida.
+Desde o dia em que me vinculei a um Remanescente,\nnão senti nada além de raiva pelo mundo.\nMas através dessas flores, Emma me fez lembrar\nque o bem existe dentro de cada um de nós.
+Então...
+Duque Hermeien deve anunciar sua decisão\nde enfrentar o Conquistador a qualquer minuto.\nOs Lordes certamente reunirão seus\nRemanescentes e lutarão ao seu lado.
+Esse será o fim do Conquistador.
+Dave. Tem uma coisa me incomodando.
+O Conquistador usou a tabuleta da mamãe para\ntransformar o Coração Valeriano em um talismã.\nMas eu achei que Wagram estava com a tabuleta...
+Como isso é possível?
+Isso é obra de um homem só. Um homem usando\nWagram como um peão em seu jogo sórdido.
+Ao mesmo tempo ele induz\no Conquistador a desencadear uma guerra,\npor nenhuma outra razão a não ser demonstrar\nos horrores que os Remanescentes podem produzir.\nQuando a guerra assolar o mundo,\nas pessoas não irão mais acreditar\nna capacidade dos Lordes de controlar os Remanescentes.
+Se por acaso aparecesse uma descendente de\nMarion Marshall, as pessoas sem dúvida confiariam\na ele o controle de todos os Remanescentes...\nCom Irina ao seu lado, ele reinará\ncomo o novo Imperador.
+Com ''ele'' você se refere ao...?
+O Presidente do Conselho,\nDuque Wilfred Hermeien.
+Faz todo o sentido agora.
+Lorde David, sei que esse é um pedido egoísta\npara se fazer num momento como esse...\nMas você precisa salvar minha filha!
+Já prometi ao Rush que Irina\nnão será um peão nessa guerra.\nPor favor, levante-se.
+Obrigado... Muito Obrigado!
+Jovem mestre!
+Acalme-se. Eu estou bem.
+Lorde David.
+Emma Honeywell, a Segunda, retornou para Athlum!\nLorde David, à suas ordens!
+Sirva-me, como fizeste sua mãe antes de ti.
+Sim, milorde!
+O que foi agora, Dave?
+Nosso inimigo nos aguarda em Nagapur.\nLevarei apenas alguns homens\npara evitar sermos detectados.\nAtacaremos quando chegar a hora.\nVamos vingar sua morte!
+É isso aí, Dave!\nColocaremos um fim nisso!\nIrina, estou indo!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 54) EV0800_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Irina!
+Rush! Espere!
+Tudo bem, irmãzinha?
+Ru...sh...
+Você...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 55) EV0820_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Impressionante.
+Wagram!
+Meu caro Marquês, ambos sabemos que\no Duque Hermeien preferiria que você\nbatesse em retirada...
+Sua vida pode estar em perigo caso contrário.
+O Duke Hermeien não pode estar falando sério\nsobre usar a Benção de Marion!
+Não cabe a mim questionar tais coisas.
+Considere-se avisado, Marquês.
+Lorde David...
+Devemos proteger Irina a todo custo!\nNão podemos permitir que abusem de seu poder!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 56) EV0830_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Irina!
+Eu sabia que viria, Marquês.
+Duque Hermeien. Você manipulou os dois,\no Conquistador e a Academia.\nAchou mesmo que poderia se apoderar\ndos Remanescentes impunemente?
+Não enquanto eu viver!
+Você não entendeu minha intenção.
+Não estou atrás dos Remanescentes.\nEstou à procura de alguém que possa\ncontrolá-los.
+Para controlar os Remanescentes é preciso\ngrande determinação e terríveis sacrifícios...
+O Gae Bolg matou seu pai.\nSabe disso melhor do que ninguém.\nÉ por isso que precisa da Irina?
+Enquanto eu tiver a descendente\nde Marshall, os Remanescentes estarão sob meu comando!
+O único poder divino que deve estar\nconectado a eles sou eu!
+Não é maravilhoso!?\nUma nova era irá começar!
+Aí eu te pergunto: David Nassau, você\ngostaria de se juntar a mim e governar\nessa nova geração!?
+Os Remanescentes podem trazer sofrimento,\nmas viverei com isso, assim como fez meu pai.
+Eu jamais aceitaria sua oferta!
+Wagram.
+Sim, milorde.
+O Marquês de Athlum deseja a morte.\nRealize seu desejo!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 57) EV0850_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Há uma batalha acontecendo lá fora...\nE enquanto perde tempo com devaneios\nde poder, seus homens arriscam suas vidas\nlutando contra o Conquistador!
+Peça um cessar fogo e garanta\nque o Conquistador retire suas tropas!
+Silêncio!\nNão tenho por que escutá-lo!\nIrei controlar os Remanescentes!\nSou o único apto para tal!
+Lembre-se que tenho a garota de Marshall!\nNão se importa com o que aconteça à ela?
+Irina!
+Não se preocupe, Rush. Ele não vai fazer\nnada comigo.\nSe eu morrer, a Benção de Marion vai comigo.
+Calada!
+Vá em frente, tente me matar!\nNão tem coragem, não é mesmo?\nVocê não é nada além de um covarde!
+Garota insolente!
+Senhor, o Duque de Ghor caiu!\nNão é seguro aqui! Devemos recuar!
+O quê!? Não é possível!
+Tragam-me o Conquistador!\nVou fazê-lo ouvir!
+O que é tão engraçado!?
+Acha mesmo que alguém como você\nteria o poder de manipular o Conquistador?
+És tão arrogante quanto estúpido.
+O que-que está dizendo?
+Eu correria, se fosse você.\nA menos que queira mesmo morrer.
+Ma-Mate-os! Matem todos!
+Minha missão está cumprida.\nVocê agora é desnecessário. Desapareça!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 58) EV0860_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Lorde David, o que Wagram queria era...
+Eu sei. Ele fingiu lealdade ao Duque Hermeien.
+Não temos tempo para pensar nisso agora.\nNossa prioridade é salvar a Irina!
+Rush!
+Estou bem...
+Owww!
+Isso é seu.\nMamãe disse que te protegerá.
+Mamãe e papai estão nos esperando.\nVamos para casa.
+Certo!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 59) EV0870_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Podem vir!
+Você é corajoso, vindo\naté aqui para salvar sua irmã.
+Uma pena que não tenha escapatória. 
+Isso é o que você pensa!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 60) EV0880_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Agora! Vamos!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 61) EV0890_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Conquistador!
+O plano do Duque Hermeien falhou!\nNão há razão para lutarmos.\nChame de volta suas tropas!
+Você sabe que pode usar seu precioso Remanescente\npara nos eliminar e provar ao mundo a força de Athlum.
+A batalha acabou de começar. Vamos apreciá-la.
+Você quer continuar essa insanidade?
+É inútil.\nEles não entendem o que estamos dizendo.\nEle... Ele joga segundo suas próprias regras.
+Ele está quase aqui...
+Roeas, Castanea, acabem com eles.
+Sim, Senhor!
+Você é forte...\nMas, eu...
+Rush!
+Não posso... Não posso perder essa batalha!
+Sim. A verdade está dentro de você...\nLembre-se de sua verdadeira identidade!
+Não...\nNão!!!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 62) EV0900_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+É o Gwayn...!
+O que está acontecendo!?
+Alguma coisa está rugindo...?
+...Ru...sh...
+Irina!
+Isso... é o poder da Benção de Marion?
+
+-- ----------------------------------------------------------------------------------
+-- (Export 63) EV1000_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+E assim, meio ano se passou.\nDepois de assumir o controle do Conselho,\no recém nomeado Presidente Ghor anunciou que\nLorde Wilfred Hermeien havia sido uma vítima da guerra.
+A história oficial foi que,\ndepois do Conquistador matar Hermeien,\nsuas forças foram destruídas\nna batalha subsequente.\nSem um exército para lutar, a guerra chegou ao fim.
+No entanto, as cicatrizes deixadas pela guerra\nforam mais profundas que pensávamos.
+A violência irrompeu pelo mundo,\ne os Lordes,\nfrustrados com seus esforços inúteis,\nelaboraram o plano derradeiro.
+Os poderes dos Remanescentes deveriam ser usados\npara suprimir a violência.\nDe repente, os Remanescentes que deveriam proteger\nas pessoas agora estavam sendo usados contra elas.
+No entanto, o Duque de Ghor não aceitou o plano.\nAs pessoas haviam depositado sua confiança no Conselho,\nele disse, e era seu dever retribuir tal confiança.
+Graças aos esforços do Presidente Ghor,\nas coisas finalmente começaram a mudar.\nEle ordenou que novos\nRemanescentes fossem descobertos,\npara que o povo pudesse\ndepositar neles suas esperanças.
+Quando o Conselho revelou sua mensagem\nàs pessoas,\nelas se sentiram comovidas, e\na violência diminuiu.
+Era o começo de uma nova era... uma sem\nos horrores da guerra.\nPelo menos, era o que acreditávamos...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 64) EV1020_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Eu venci, seu molengão! Toma essa, Blocter!
+Sem chance, seu trapaceiro!
+Por favor, lembrem-se do porquê de estarmos aqui.\nLorde David continua escondendo o fato de\nque você e sua irmã compartilham a Benção de Marion...\ne isso é um grande risco.
+Não deixem que todos seus esforços sejam em vão.
+Sim, é verdade... desculpe.
+Vamos...\nVocê não precisa se preocupar com isso.
+Então, eles sobreviveram...
+Alto lá! O que vai fazer com\nesse Remanescente!?
+E porque deveríamos dizer a você? Seu grupinho não\nvai poder fazer nada a respeito, de qualquer maneira.
+Devemos retornar para Athlum. Agora.
+Sim, milorde.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 65) EV1030_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Bem-vindo de volta, Lorde David.
+Tudo segue bem por aqui?
+Sem problemas, milorde.
+Rush!
+Fico contente por você finalmente estar de volta, Rush.
+É bom estar de volta!\nEstá acontecendo alguma coisa?
+Ei, Rush.
+Papai!?
+Desde quando você está acordado?
+Não faz muito tempo.
+Achei que iria ficar surpreso.
+Sinto muito por deixá-lo preocupado.
+Não... Estou muito feliz por você estar bem.
+Suponho que isso significa que você conseguiu\ndissipar a magia de Wagram.
+Hmm...
+Rush. Preciso de você.
+Desculpe, papai. Não posso ficar para conversar.\nConversamos mais tarde, tudo bem?
+Rush...
+Hã, tem uma coisa que eu queria te\nperguntar...
+Desculpe maninha, pode esperar?
+Hã... sim, eu acho.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 66) EV1030_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Ei, Irina.
+Rush...\nSr. David...
+Por que você parece tão surpresa?\nVocê queria conversar, certo?
+Sim, mas...
+Sinto muito, mas uma questão urgente requer\nnossa presença no Conselho.\nSe não se importa, terei que pegar\nemprestado seu irmão um pouco mais...
+Espere! Ouvi dizer que o Conquistador\ncontinua vivo.\nE Rush...\nVocê ainda quer que Rush lute?
+Sr. David... Agradeço de verdade que esteja\najudando o Rush eu e o Rush.\nMas por favor, você tem que liberar o Rush!\nVocê pode me levar no seu lugar.
+Mas de que diabos você está falando?
+Estou falando sobre salvar sua vida! Como você\ndiz que vai me manter a salvo,\nse tudo que faz nos coloca em perigo?
+Eu posso ajudá-lo com isso...\nmas apenas se me deixar ajudar!
+Você... Você não tem que se preocupar\ncom esse tipo de coisa.
+Rush. Vá se preparar.\nPreciso conversar com a Irina.
+... Certo.
+Você sabe que o Rush só quer que você\nesteja a salvo.
+Eu sei... mas...
+Não seja tola, Irina.\nVocê é apenas uma garota normal.
+Eu? Normal?\nMesmo com esse terrível poder que tenho?
+Só esqueça o que aconteceu em\nNagapur, certo?
+Nagapur...\nComo vou simplesmente esquecer isso?
+Você não pode\ne nem deve.
+Tragédias devem ser lembradas...\nVocê pode colocar um fim nesse absurdo.
+O que você está fazendo aqui?
+Ainda que você soubesse,\nnão poderia me impedir de chegar ao meu objetivo.\nÉ por isso que eu...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 67) EV1040_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Vou para o Conselho.\nMe esperem na Embaixada.\nRush...
+Tenho certeza que a Irina iria gostar\nse você desse algo a ela.\nNas questões do coração,\nações valem mais do que palavras, você sabe.
+Sobre o que ele disse...\nEu não...\nEu não... Arg!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 68) EV1040_1_EV1_MSG
+-- ----------------------------------------------------------------------------------
+Então, acabaram os pãezinhos abençoados?
+Você acha mesmo que ela está interessada em pãezinhos?
+Umm...
+Você voltou bem mais cedo que o esperado, milorde.
+Não quero falar mal dos mortos, mas sem\nHermeien, as coisas funcionam um pouco melhores.
+O Presidente do Conselho, Ghor, deu suas ordens para\nAthlum. Devemos parar o Conquistador a qualquer custo.
+E isso que ouvimos sobre encontrar Remanescentes,\nressonâncias, ondas oscilantes... e não sei que mais?
+Hmmm! Trata-se de um projeto ultrassecreto\nda Academia, não é?
+Remanescentes emitem uma onda imperceptível\nao ouvido humano. No entanto, existe um Remanescente\nque pode detectar essas ondas e usá-las\npara apontar a localização de outros Remanescentes.
+...Então?
+Está claro que o Conquistador quer pegar\ncada Remanescente do mundo.\nNossa tarefa é encontrá-los\nantes dele, e protegê-los.
+Entendi... É por isso que essa informação foi\ntornada pública.
+Uma missão muito importante...
+Sim. Vamos ter que nos manter alertas.\nRush.
+Gostaria de pedir aos seus pais uma ajuda.\nAlguma objeção?
+Uh-uh. Tenho certeza que eles ficarão\nfelizes em ajudar.
+Então vamos retornar a Athlum imediatamente.\nPreparem-se para partirmos.
+Sim, milorde.
+Sim, milorde.
+Sim, milorde.
+Sim, milorde.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 69) EV1060_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+O que está acontecendo?
+Parece que o Remanescente rastreador\nchegou.
+Então esse é o Remanescente...\nQuando poderemos colocá-lo para funcionar?
+Agora mesmo.
+Suponho que essas luzes representam a\nlocalização aproximada dos Remanescentes.
+Sim. Nesse momento, está configurado para rastrear\napenas a região de Athlum.
+Essa luz, aqui, deve ser o Gae Bolg.
+Parece que sim.
+Com um pouco mais de tempo, conseguiremos ampliar\nseu alcance para o mundo inteiro.\nNão dá para apontar a localização exata\nde cada Remanescente,\nmas dá para ter uma ideia de onde estão.
+Você fez mais que o suficiente.\nSou muito grato pela sua ajuda.
+Foi um prazer. No entanto, precisaremos\nde um pouco mais de tempo para fazer ajustes.
+Sobre o que mencionou antes...\nAcho que podemos ajustar\no alcance se mudarmos isso aqui...
+Ei, irmãzinha. Não esperava te encontrar aqui.
+Ouvi dizer que precisavam de toda ajuda possível,\nentão vim ver se poderia ajudar.
+Não seja tola.\nApenas fique longe dos Remanescentes, ok?\nVocê é um perigo quando está\nperto deles!
+Mas tenho minhas razões para estar fazendo isso.\nConfie em mim, Rush.
+Você não sabe o que passei quando\nse foi.\nNão passarei por aquilo novamente!\nSem chance!
+Rush, acalme-se.
+Ei!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 70) EV1060_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Anos atrás, quando eu era só uma criança...\nMamãe e papai decidiram ir para a\nAcademia e me deixaram responsável pela Irina.
+Depois que partiram... Levei ela para o bosque\nmais próximo e a deixei ali.\nEu disse que voltaria mais tarde.\nEla sempre foi a favorita deles.\nAcho que estava com um pouco de ciúmes.
+Eu só queria assustá-la um pouco. Como não\nestávamos muito longe de casa, imaginei que ela voltaria\npor conta própria, mais cedo ou mais tarde.
+Eu estava errado.\nQuando começou a escurecer,\nfiquei preocupado e voltei lá para buscá-la.
+Ela estava no mesmo lugar que a deixei,\ncontemplando umas flores.\nAinda estava me esperando voltar, sozinha no escuro.\nEla nunca duvidou de mim.
+Foi quando me dei conta de uma coisa.\nEu tinha que protegê-la.\nDecidi que nunca mais trairia sua confiança.
+É melhor não contar isso a ela.
+Ela não é mais uma criança.\nVocê não deve agir como se fosse sua babá. 
+Ah, é?\nBem, então como eu deveria agir?
+Você deve tratá-la com respeito, como uma adulta.\nDeixe-a saber que pode contar com você.
+Com respeito, hã? Isso parece... profundo.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 71) EV1070_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Trago uma mensagem do Presidente Ghor.
+A sessão do Conselho vai ter início imediatamente.
+Isso é tudo?
+Isso não é nada incomum. Eles parecem\nmanter sempre o calor do momento.
+Você está indo até Elysion? Se esse for o caso,\npodemos enviar alguém com você?\nQuero informar a Academia dos nossos progressos.
+Muito bem. Quem será o porta-voz?
+Vejamos... Quem eu poderia enviar?
+Tenho uma ideia!
+Se não tiver ninguém em mente...\nQue tal enviar a Irina?
+Irina passou por muita coisa.\nEla já provou que está preparada\npara uma tarefa tão importante como essa.
+Boa ideia. Se ela estiver de acordo.
+Irina? O que me diz?
+Sim! É claro que irei!
+Obrigado, irmãozão!
+Uh, tá...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 72) EV1080_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Vou deixá-los para tratar da Academia.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 73) EV1080_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então é impossível rastrear todos Remanescentes...?
+No momento, sim.\nMas se ajustarmos isso, bem aqui,\nacredito que poderemos melhorar a precisão...
+Dessa forma, poderemos encontrar\nRemanescentes que ainda nem foram descobertos.
+Você parece estar no caminho certo...\nValer a pena tentar.
+Ótimo!
+Ela é uma jovem brilhante.
+Rush está de mal humor?
+Você sente falta de ela precisar de você, não é mesmo?
+Tanto faz.
+Quem sabe quais Remanescentes poderiam estar\nse escondendo embaixo do nosso nariz?\nEles podem ter qualquer aparência,\naté mesmo a forma de\num mitra.
+Você tem uma imaginação e tanto!
+A reunião já terminou?
+Ela foi cancelada. Os lordes de Melphina,\nBalterossa, Royotia e Celapaleis...\nNenhum deles estava presente.
+Isso não pode ser coincidência.
+Nos foi ordenado descobrir onde\nestão, e o que aconteceu.
+O Duque de Ghor é mesmo um escravizador.
+Devemos partir imediatamente.\nQuanto a você, senhorita Irina...
+Eu quero ir também!
+Mas, isso... Bem...
+Sr. David, eu lhe imploro. Deve haver algo\nque eu possa fazer para ajudar.
+E... Não quero ter medo do\nmeu poder pelo resto da vida.
+Muito bem. Você pode nos acompanhar.\nEmmy, deixarei você responsável por ela.\nEnsine-a algumas coisas sobre defesa pessoal.
+Sim, milorde!
+Muito obrigado, Sr. David!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 74) EV1120_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Milorde...
+Irina?
+Você deve ser Irina Sykes.\nOuvi muitas coisas a seu respeito.
+Sinto um tipo de poder fluindo dele.\nÉ como se fosse... Quase como um Remanescente...
+O quê? Não entendo. Como isso é possível?
+Isso deve ser parte do plano de alguém.
+Esse poder que ele está enviando, está me consumindo\npor dentro... tentando me controlar.\nE através dele, posso senti-lo...
+David. Você pode sentir?
+Obrigado.
+Precisamos retornar ao Castelo Ghor e reportar\nnossas descobertas ao Duque.
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Certo!
+David. Prometa para mim que não dirá nada\nàquele velhote sobre minha condição atual.\nPorque nunca saberei o final disso...\nEntendido.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 75) EV1130_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então aquele moleque de Qubine acredita\nque alguém está por trás disso?
+Sim, Sr. Presidente.
+Bem... Devo reconhecer que ele pode estar certo\nem suas suposições... 
+Quem!?\nEstá feliz em me ver,\nDuque?
+L-Lorde Hermeien...?
+Não pode ser...
+Eu não entendo!
+Fiquei sabendo que você roubou minha posição\ncomo presidente do Conselho.\nOra, Ora, como o mundo dá voltas...
+Você está bem?!
+Esse poder... É igual o que senti\nemanando do Duque de Qubine.
+Sim, sim. O poder que obtive dos Remanescentes\né extraordinário.\nAgora sou o que vocês chamariam de "onipotente".
+Compartilhei esse poder com os outros,\nmas eles não estão reagindo muito bem a ele.\nAparentemente, ele está os matando...\nOh, sinto-me tão culpado!
+Você é o responsável por isso tudo? Mas por quê!? 
+Sua ignorância nunca deixa de me surpreender.\nEu quero dominar o mundo! Junte-se a mim, Duque!
+Lorde Hermeien... Eu...
+Milorde, é melhor retroceder!\nNão podemos argumentar com ele!
+Rush!
+Minha querida donzela de Marshall. Isso é a\nvontade divina. Todos nós devemos ser libertados!
+O quê?
+Irina, volte!
+Muito bem. Sei quando não sou bem-vindo.\nEntretanto, retornarei esperando uma decisão, Duque.\nEspero que tome a decisão correta\ne se una a mim.
+Minha nossa...
+Lorde David, você está ferido?
+Estou bem.
+Pensei que Lorde Hermeien tinha morrido\nem Nagapur.
+Isso é muito estranho.\nAlguém sabe o que está acontecendo?
+Presidente... o que pretende fazer?
+Não tenho porque duvidar de suas palavras.\nLorde Hermeien retornará e precisamos\nestar preparados para ele.
+Garantir sua destruição é meu dever\ncomo seu sucessor.
+A hora de lutar chegou.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 76) EV1140_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Quem sabe onde Hermeien pode estar se escondendo?\nNagapur ainda continua em ruínas...
+Lorde David! Estou feliz em vê-lo novamente.
+O que é isso?
+Dê só uma olhada.
+O que são essas luzes negras?
+Elas apareceram alguns dias atrás.
+São Remanescentes também?
+Bem, deveriam ser.\nMas algo parece estar errado com elas.\nParece que estão drenando a energia de\nRemanescentes próximos e enviando um único lugar.
+Remanescentes que podem roubar energia de outros?\nNunca tinha ouvido nada parecido.
+Isso é novidade para nós, também.\nVamos investigar agora mesmo.
+Onde fica esse "lugar" onde estão\nconcentrando toda a energia?
+Ele fica no centro de todas as luzes negras.\nAqui.
+Esse não é...?
+Acredito que é Koenigsdorf.\nUma fortaleza conhecida desde tempos memoriais.
+Irina?
+Isso... Isso emite a mesma energia que senti\nemanando do Duque Hermeien.
+Então ele deve estar ali.
+Preparem-se para a batalha.\nVamos lançar um ataque contra Koenigsdorf.
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+É isso aí.
+O Duque de Ghor não precisa\nsaber disso. Não sabemos como iria reagir...
+Queria pedir um favor a vocês.\nSe for possível, gostaria que Irina\ncontinuasse nos acompanhando.
+Tenho o pressentimento de que ela será\nde grande ajuda para nós.
+Se estão preocupados com seu\nbem-estar, entenderei.\nNão vou forçá-la a vir conosco.
+Ela já tem idade para\ntomar suas próprias decisões.
+Muito obrigada, mamãe e papai!\nSr. David, ajudarei em tudo que puder!
+Certo, vamos lá. Está resolvido então.\nTemos que nos preparar.
+A-ah, sim. Claro.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 77) EV1150_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então, esse é o lugar...
+Vamos acabar com eles de uma vez!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 78) EV1155_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+O Remanescente rastreador diz que há algo por aqui?
+Sim. Eu consigo sentir...
+Quem está aí?
+Mas que beleza.... Vocês os destruíram\ntão maravilhosamente, foi um prazer vê-los morrer.
+Oh, meus pobres subordinados.\nSem dúvida eram incompetentes demais\npara detê-los, mas ao menos\nme deleitaram com suas belas mortes.
+Sim, a morte é o ápice da perfeição!\nSó ela pode se igualar\na mim!!!
+Mas agora terei que lidar com você, escória.\nVocês vêm cobertos de sujeira e imundície,\nfedendo a suor, chegam aqui parecendo\nanimais selvagens,\nsem sequer tirar os sapatos.
+E ainda fazem tudo isso com a intenção\nde impedir os gloriosos\nplanos do Conquistador! Agh, vocês são\na personificação do que há de mais odioso!
+Seres imundos como vocês precisam ser limpos...\npor Snievan, o Esteta.\nSerão banhados em um rio do seu próprio sangue!
+Eles estão com o Conquistador?\nE com Hermeien também?
+Esse não é o momento, Dave...\nLá vem ele!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 79) EV1165_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+O fluxo de energia dos Remanescentes está\nficando mais fraco.
+Tem certeza?
+Absoluta. A barreira em volta de Koenigsdorf\nparece estar mais fraca agora.
+Então, ele era uma daquelas luzes?\nEsses canalhas estão roubando a energia\nde outros Remanescentes e enviando para Koenigsdorf?
+Acredito que sim.
+Não pode ser! Você está dizendo que ele era\num Remanesceste?
+Não tenho certeza...
+Gente, quem se importa com o que eles são?\nTemos que acabar com todos eles para\nentrar em Koenigsdorf, certo?\nDeixem as perguntas para depois!
+Tem razão. Obrigado, Rush.
+Vamos. Ainda temos muitas lutas pela frente.
+Eles estão com o Conquistador?\nE com Hermeien também?
+
+-- ----------------------------------------------------------------------------------
+-- (Export 80) EV1170_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então, esse é o lugar...
+Vamos acabar com eles de uma vez!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 81) EV1175_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+O Remanescente rastreador diz que há algo por aqui?
+Sim. Eu consigo sentir...
+Quem está aí?
+E-eu sou Z-Zuido, ajudante do Sr. Conquistador\nE-eu vou ma-matar vocês...
+Assustador, muito assustador!\nVocês dão medo! Vocês... vocês...
+Vocês todos vão morrer aqui.\nNão é à toa que me chamam de Triturador!\nEntenderam, hã?
+Não tenho medo de nada! Sim!\nNo fim iremos todos para o mesmo lugar!\nDizem que o outro lado não é tão ruim.\nQue tal conhecê-lo?
+
+-- ----------------------------------------------------------------------------------
+-- (Export 82) EV1190_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então, esse é o lugar...
+Vamos acabar com eles de uma vez!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 83) EV1195_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Consigo ouvi-los.... Ouço seus lamentos...\nNão estou livre da culpa, mas você...\nvocê é muito mais cruel!\nOlhem a destruição que vocês causaram!
+Como podem ignorar suas suplicas?\nNão ouvem a voz dos meus preciosos subordinados,\nque vocês assassinaram a sangue frio!?
+Vejo que gostam de ouvir os gritos dos fracos.\nMas eu, Ludope o Vingador, os ensinarei o que é gritar\nde verdade... Enquanto vocês se retorcem de agonia!
+O Remanescente rastreador diz que há algo por aqui?
+Sim... Eu posso sentir.
+Quem está aí?
+
+-- ----------------------------------------------------------------------------------
+-- (Export 84) EV1210_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então, esse é o lugar...
+Vamos acabar com eles de uma vez!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 85) EV1215_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Por que demoraram tanto!?\nVou machucá-los ainda mais\npor me fazerem esperar!
+Hinnah, não seja fanfarrona.
+Hannah, deixe-os comigo!\nNão preciso de ajuda para lidar com esses idiotas!
+Não seja tola. Você acha que vou dar a eles a chance\nde te machucar?
+Certo... por você, posso compartilhá-los.
+Preparem-se para sofrer a ira\nda Devastadora!
+E a minha, a Impiedosa!
+O Remanescente rastreador diz que há algo por aqui?
+Sim. Eu consigo sentir...
+Quem está aí?
+
+-- ----------------------------------------------------------------------------------
+-- (Export 86) EV1230_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então, esse é o lugar...
+Vamos acabar com eles de uma vez!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 87) EV1235_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+O Remanescente rastreador diz que há algo por aqui?
+Sim. Eu consigo sentir...
+Quem está aí?
+Finalmente! Achei que iria envelhecer 50 anos\nesperando por vocês!
+Pelo menos vocês não foram feridos\npelos outros... Porque só Young, o Beligerante,\né digno de dar-lhes uns belos\nchutes no traseiro!
+Preparem-se para levar uma surra antológica\npelas mãos do Sr. Young!
+Há eras venho esperando\npor esse momento!\nEspero que possam me dar uma bela luta,\nporque quero aproveitar ao máximo esse momento!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 88) EV1250_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Então, esse é o lugar...
+Vamos acabar com eles de uma vez!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 89) EV1255_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+O Remanescente rastreador diz que há algo por aqui?
+Sim. Eu consigo sentir...
+Quem está aí?
+Eu sou Milton, o verdadeiro discípulo!\nUm servo leal do Conquistador, meu dever é deter\naqueles que são indignos ficar no seu caminho!
+Vocês não passam de pobres ignorantes, para ousar\ndesafiar alguém com tal sublime poder!
+As palavras em suas lápides serão tão claras como o dia...\nPorque serão escritas com seu próprio sangue!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 90) EV1265_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Derrotamos todos eles...
+O fluxo de energia dos Remanescentes parou.
+Muito bem. Agora podemos finalmente entrar em Koenigsdorf.
+O que está acontecendo?
+Por favor, pare!
+O Gae Bolg está... tentando se libertar!
+Não consigo controlá-lo!
+Rush!
+Droga! Acho que vamos ter de pará-los à força!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 91) EV1270_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Fico feliz que tudo tenha terminado.
+O que ela está fazendo aqui?
+Não me diga que está por trás\ndo que acabou de acontecer!
+Você certamente gosta de\nlançar acusações...
+O Conquistador...\no que ele quer?\nO que está planejando fazer?
+Por que faz perguntas\nse já conhece as respostas?
+O que quer dizer?
+Ou você só não está querendo enxergar\na verdade?
+Você tem medo, não é mesmo?
+Não, não tenho!
+Boa tentativa. Boa sorte, garoto.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 92) EV1280_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+O que o Duque de Ghor está fazendo aqui?\nEle não deveria saber sobre isso!
+O Duque tem olhos e ouvidos por todo o mundo.\nNão deveríamos estar surpresos assim...
+Temos que salvá-lo!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 93) EV1290_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Hermeien!
+Conquistador...
+L-Lorde Conquistador!\nPor favor, você tem que me ajudar!
+Lorde David!
+Perdoe-me, não era minha intenção deixar ser\nlevado.\nEstava apenas tentando ajudar!\nPor favor, tenha piedade!
+Idiota. Sem ter respeito pelos Remanescentes ou qualquer\noutra coisa, você continuou com suas tolas maquinações...\nNão mais.
+Duque Ghor!
+Já basta. Se até agora ainda não despertou,\né porque deixou de ser necessário.
+Rush!
+Pare!!!
+Você...
+Espere, você não pode me abandonar! Conquistador!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 94) EV1300_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Nós retornamos, milorde.
+Como está o presidente?
+Ainda é muito cedo para dizer.
+Entendo.
+O que é isso!?
+O que está acontecendo, papai?
+Olhe, essa luz está se movendo.
+Hã?
+Argh... perdemos ela.
+O que foi isso?
+Se apareceu nesse bebê\nera um Remanescente, sem dúvida!
+Irina?
+Não! Irina!
+Tão escura... Tão profunda...\nA floresta... está repleta de energia...\nO Conquistador... Ele está lá...
+A luz voltou.
+Onde ela está?
+Hmm... na Floresta Negra ao que parece.
+Então, essa luz brilhante é o Conquistador?\nPorque ele aparece no rastreador de Remanescentes?
+Talvez seja por causa dos talismãs que ele carrega.
+Então, Dave?\nLorde David, o que devemos fazer?
+Não conseguimos proteger o Duque de Ghor.
+Não temos força suficiente para enfrentar o Conquistador.\nIsso ficou claro em Nagapur,\ne também em Koenigsdorf.
+Mesmo que encontremos ele agora, na Floresta Negra,\no que poderíamos fazer?\nComo poderíamos\ndetê-lo?
+Sr. David...\nTalvez pudesse...
+Irina!?
+Irina!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 95) EV1310_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Como ela está?
+Vai ficar bem...\nEla abusou um pouco da\nBenção de Marion... está dormindo.
+Rush... você vai voltar, não vai?\n... estarei te esperando...
+Ela está sonhando com aquela vez\nque esperou por você na floresta...\nEla realmente se importa com você, Rush.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 96) EV1310_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Está melhor?
+Mhm... Sinto muito por te preocupar.
+Ei, não esquenta.
+Como está a Irina?
+Ela está bem. Só está cansada depois de tudo.
+Entendo.
+Ela não deveria fazer parte disso.\nEu dei minha palavra...
+Ei, isso não é culpa sua, Dave.\nIrina fez tudo isso porque quis.
+Rush!
+Mamãe?
+Irina... Irina sumiu!
+Quando vocês verem isso, estarei na Floresta Negra.\nHá algo que preciso comprovar.
+Por favor, não se preocupem comigo.\nVou ficar bem.\nSe as coisas ficarem feias, voltarei em seguida, ok?
+Como... como ela pôde fazer algo tão estúpido...?
+Ninguém pode escolher como vai nascer.\nVir ao mundo com a benção de Marion não\nsignifica ter a obrigação de usá-la.
+Nossa... Ela está sempre levando as coisas\nmuito a sério.
+Dave! Tenho que ir salvar a Irina.
+Sei que não posso fazer muito contra\no Conquistador...\nMas já abandonei a Irina uma vez.\nNão vou fazer isso de novo!
+Entendo.
+Que seja!
+Não posso permitir que vá sozinho.\nIrei com você.
+Obrigado, Dave!
+Muito bem! Agora que isso está decidido,\nvamos nessa!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 97) EV1330_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Eu sei o que você é.\nSei que deve me obedecer...
+Meu poder te obriga!
+Você inverteu meus poderes!?
+Irina!!!
+Estou farto de suas intromissões.
+Seu bastardo!
+O que fez com a minha irmã!?
+Apenas dei a ela uma forma mais apropriada.\nAgora vocês não têm outra escolha senão despertar.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 98) EV1340_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Irina! Irina!
+Oops, parece que não funcionou, hã?
+Seu idiota... Você sabe quanto medo eu passei!?
+Você prometeu que viria...\nE assim o fez. Você veio...
+Ela está bem, só está dormindo. O que ela estava\ntentando fazer vindo para um lugar como esse?
+Vamos voltar para Athlum, por ora.\nSeus pais devem estar bem preocupados.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 99) EV1350_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Rush.
+Irina está bem. Dorme como um anjo.\nEla não tem nem ideia do que passamos...
+Que boas notícias.
+Lorde David.
+Sim, sei que precisamos tomar uma decisão\nsobre ações futuras.
+Você não deveria... Senhor!
+Lorde Qubine?
+Ora, ora. Você está muito sério, como sempre.
+A que devo essa honra?
+Serei breve...
+Preciso que alguém faça uma visita ao Imperador Celestial.\nE esse alguém é você, David.
+O Imperador Celestial? Mas por quê?
+Os poderes do Conquistador foram concedidos\npelo próprio Imperador Celestial.\nÉ sua tarefa ir perguntar à Vossa Alteza\ntudo o que ele sabe.
+Essa é uma grande responsabilidade.\nUm homem da minha posição não deveria ser\ndigno de se dirigir ao Imperador Celestial.
+Hum? Então está dizendo que o atual Presidente\ndo Conselho não tem direito a uma\naudiência com Vossa Alteza?
+Como?\nFui escolhido para ser o Presidente em exercício?
+Isso foi algo que decidimos faz tempo,\no velhote do duque de Ghor e eu.\nÉ claro, isso é só até ele se recuperar.
+Mas não se preocupe,\na decisão foi puramente baseada\nnos seus méritos.\nNão é nada comprometedor.
+E-entendo...
+Agora que está inteirado,\nquero que parta imediatamente.
+Ah, David. Tem só mais uma coisinha...
+A partir de agora você não precisa de minha\nautorização para nada,\nincluindo o uso do Gae Bolg.\nVou deixar as coisas em suas mãos.
+Está querendo dizer que...?
+Está um pouco lento hoje, hein? Estou\ndizendo que Athlum agora é um estado independente,\nnão está mais sob o controle de Celapaleis.
+Lorde David!
+Jovem mestre!
+Hora de ir, Dave!
+Lorde Qubine... Não sei como lhe agradecer...
+David... er, quero dizer, Lorde David de Athlum.\nLembre-se: Tomar suas próprias decisões\né mais difícil do que parece.
+Agradeço pela preocupação. No entanto,\nnão tenho que fazer isso sozinho.\nEstou cercado de pessoas quem posso contar,\npessoas em quem confio.
+Certo então! Undelwalt nos espera!\nComecem os preparativos imediatamente!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Assim que se fala!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 100) EV1360
+-- ----------------------------------------------------------------------------------
+Mr. David.
+You're up.How do you feel?
+I'm great! I'm totally fine!I hope I didn't worry everyone too much...
+We're just glad you're alright.
+Mr. David.Congratulations on Athlum's independence.
+Thank you.
+You know, you are one of the reasonsthis was even possible.
+R-really? Me?
+I-I didn't do anything!
+I just did what anyone else would've done...
+I just...
+U-um...I-I should go get ready!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 101) EV1360_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Sr. David.
+Você está de pé... Como se sente?
+Muito bem! Completamente bem!\nEspero não tê-los preocupado muito...
+Estamos contentes por você estar bem.
+Sr. David. Meus parabéns pela independência de Athlum.
+Obrigado. Mas você sabe, parte do\nmérito disso acontecer é seu.
+Por isso, estou realmente agradecido.
+V-verdade? Eu? Eu... Eu não fiz nada!
+Só fiz o que qualquer um teria feito\nno meu lugar... Eu apenas...
+Uh-hum... Eu... Acho que deveria me preparar!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 102) EV1360_1_MSG
+-- ----------------------------------------------------------------------------------
+Mr. David.
+You're up.How do you feel?
+I'm great! I'm totally fine!I hope I didn't worry everyone too much...
+We're just glad you're alright.
+Mr. David.Congratulations on Athlum's independence.
+Thank you.
+You know, you are one of the reasonsthis was even possible.
+R-really? Me?
+I-I didn't do anything!
+I just did what anyone else would've done...
+I just...
+U-um...I-I should go get ready!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 103) EV1380_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Venho como o Presidente em exercício do Conselho:\nMarquês David Nassau de Athlum.\nEstou honrado de estar aqui, na presença de\nVossa Excelência.
+Hoje é um dia memorável para o povo\nde Athlum, pois não existe maior glória que\nreceber a oportunidade de uma audiência\ncom Vossa Excelência...
+Já é suficiente.
+Vossa Excelência?
+Basta de formalidades, Marquês.\nElas são sempre tão impessoais.
+Camponês ou vassalo, tratamos todos igualmente.\nToda essa cortesia é desnecessária.
+Você não concorda?
+Como preferir Vossa Excelência.
+Que estranho.
+Marquês de Athlum.\nOuvimos falar de seus feitos.\nRealizar tantas proezas sendo tão jovem\né muito impressionante. Seu pai certamente\nestaria orgulhoso de você.
+Oh, er... é muita gentileza.
+Vossa Excelência! Venho para lhe fazer uma pergunta.
+O Conquistador te preocupa?
+É um assunto delicado. Ainda que não desejemos nada mais\nque satisfazer vossa sede de conhecimento...
+As ações do Conquistador estão destruindo o equilíbrio\ndo mundo. Sem dúvidas, ele precisa ser parado!\nPor favor, conte-nos o que sabe!
+Destruindo o equilíbrio do mundo,\nvocê diz? Um homem assustador, sem dúvidas.
+Vossa Excelência! Por acaso não foi vós que\nconcedeste os poderes a esse homem?\nQuais eram suas intenções?
+Você parece uma criança, Marquês.\nNão consegue ver o que está diante do seu rosto.
+Você é Irina Sykes?
+S-sim!
+Então, você é aquela em que carrega o sangue de Marshall?\nVocê herdou a beleza de Lady Marion.
+Marquês. Em respeito ao sangue dos nossos\nantepassados, os segredos do Conquistador revelarei.
+Entretanto...
+Certifique-se de ter coragem para seguir em frente!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 104) EV1400_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Tem alguém aqui...
+Wagram!
+Lorde Wagram.
+Quanto tempo sem nos vermos...
+Wagram... O que exatamente está tramando?
+Quanta desconfiança nesse olhar! Só estou\ncumprindo a vontade dos Remanescentes.
+Do que está falando?
+Antes dos homens rastejarem sobre a Terra os Remanescentes\njá existiam, mantendo o equilíbrio e a harmonia.
+Para os homens, os Remanescentes eram criações\ndivinas,\ndignas de medo e adoração.\nMas tudo mudou com o nascimento de um\nser capaz de controlar todos eles.
+Com o tempo, a ousadia dos homens foi crescendo,\naté que começaram a considerar os Remanescentes\ncomo meras ferramentas.
+Como os homens são tolos.
+Chegou a hora dos homens voltarem a temer seus poderes...\neles devem adorar sua força.\nEsse é o único papel dessas criaturas indignas.
+Agora, com a chegada de um Remanescente que\npode expressar suas vontades,\ndevemos escutá-lo, obedecê-lo,\ne aceitar tudo o que ele tem a dizer.
+...A qualquer custo.
+Você diz que existe um Remanescente que pode\nexpressar suas vontades... seus desejos?
+Você se refere ao Conquistador, não é?
+Absurdo...\nIsso... Isso é impossível!\nNão pode ser...
+Iss-isso é impossível!
+Não pode ser...
+De fato. Esse era o seu lar antes dele despertar.
+Escutem minhas palavras: Deixem o Conquistador em paz...\nIsso é, se valorizam suas vidas.
+Espere! Mas e se o Conquistador estiver planejando algo\nterrível, como conquistar o mundo inteiro?
+Você está dizendo que quer que fiquemos de braços\ncruzados, assistindo isso acontecer?
+Você não estava ouvindo, meu garoto?\nEu disse a qualquer custo.
+Vossa Excelência...\nVocê não pode estar de acordo...
+A linhagem dos Imperadores provém dos Remanescentes.\nQuem somos nós para irmos contra\nos desejos do Conquistador?
+Escute, Marquês de Athlum.\nDe agora em diante, ninguém deverá se opor ao Conquistador.\nTodos que entrarem em seu caminho serão\nconsiderados traidores.
+Vá e informe o Conselho imediatamente.\nObedeça nossas ordens, Marquês.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 105) EV1410_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+O Conquistador! Ele está se movendo!
+Para onde?
+Para Elysion, senhor!
+E o que ele quer agora?
+Não me espantaria se ele estivesse tentando\nse apoderar das Terras Sagradas.\nO que não sei, no entanto,\né qual seria o seu propósito...
+E os demais lordes?
+Senhor! Os demais lordes não fizeram\nnenhuma movimentação!
+Ainda que não gostem da situação,\nninguém quer ser declarado traidor.
+Tem razão... Ninguém se atreve a\nse opor ao Imperador. Maldito seja!
+Lorde David.
+Nossa, vocês são mesmo uns inúteis!\nDave, eu posso ir resolver esse assunto\ncom o Conquistador, se você quiser.
+Como não sou de Athlum, não poderiam\nculpá-lo pelo que eu fizer, certo?
+Por favor, me diga que está brincando.
+Estou falando sério. Quer dizer, eu sei\nque não vai ser fácil.
+Mas tenho meu talismã,\ne se eu jogar bem com minhas cartas...
+Isso é loucura. Você só pode estar brincando.
+Dave. Não sei como agradecer\npor tudo que fez por mim.
+Se não fosse por você,\nIrina provavelmente ainda estaria sequestrada.\nE mamãe e papai estariam\nmetidos em um tremendo problema.
+Bem...
+É hora de pagar por tudo\nque fez por mim.
+Espera!
+Irmãzinha, dessa vez não posso levá-la comigo.\nSe cuida, tá? Voltarei logo.\nEu sempre volto.
+...Sou um idiota!\nO que estou fazendo sentado aqui?
+Rush, você tem razão. Se deixarmos o Conquistador\nfazer o que quiser, não vai fazer diferença\nse o Imperador nos declarar traidores.\nPoderíamos esperar um destino ainda pior.
+Wagram pode ter aceitado isso,\nmas não significa\nque temos de fazer o mesmo!
+Dave...
+Podemos lidar com as consequências depois.\nPrecisamos fazer o necessário para proteger\no mundo de nossos inimigos.
+Eu me dirijo a vocês como Lorde David Nassau,\nMarquês de Athlum!\nTodas as tropas, sigam imediatamente para Elysion!\nVamos enfrentar o Conquistador!
+Quem não quiser participar,\nque abandone Athlum agora.\nPermaneça somente se concordar com essa decisão.
+Você é mesmo um tolo se acha que alguém\naqui iria abandoná-lo nessa hora crucial.
+Isso! Não tememos nada nem ninguém!
+Se Sua Excelência nos descobrir,\npensaremos depois em alguma desculpa, se preciso.
+Lorde David! Vamos!
+Obrigado, todos vocês...
+Pela honra de Athlum!\nSim, meu lorde!
+Estou convidada também, não estou?
+...Sim.
+
+-- ----------------------------------------------------------------------------------
+-- (Export 106) EV1420_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Homens! O destino do mundo depende\ndo resultado desta batalha!
+Todas tropas! Atacar!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 107) EV1430_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Qual é o problema?
+Não consigo estabelecer um vínculo com ele.
+Isso é coisa do Conquistador, não?
+Acho que sim.
+Então viemos até aqui para nada!?
+Deve haver outra forma de chegar nas Terras Sagradas.
+Vamos encontrar um caminho, Lorde David.
+Ainda há muitos Remanescentes\npara serem descobertos.\nSó precisamos encontrar um que\nseja capaz de nos levar até lá.
+Será que vai ser tão simples assim?\nNosso tempo está acabando!
+Não podemos desistir agora, Dave!
+Vamos em frente!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 108) EV1450_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Mas o que é isso?
+É um Remanescente\nque pode nos levar até\nas Terras Sagradas!
+Incrível, não, Dave?
+Então, vamos em frente.
+Creio que já haviam sido advertidos sobre isso...\nContinuar se opondo ao Conquistador\npoderia ser prejudicial à sua saúde.
+Wagram!
+Vocês ainda têm uma chance de escapar\ncom vida. Vão embora daqui.
+E se eu me recusar?
+...Como desejar...\nTratarei de apagar sua existência da face da terra!
+Pelo poder dessa magia ancestral\nConjuro teu ser e alma imortal;\nAbandone tua morada de luz celestial\ne desça para a mais escura terra, seu novo lar.
+Venha a mim!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 109) EV1470_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Por que... Por que seguem por\ncaminhos tão distintos?\nPor que não podem percorrê-los juntos?
+Certo, faça como desejar...\nNo fim, você também é...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 110) EV1490_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Finalmente chegaram.
+Qual é seu jogo, Conquistador?
+Eu desejo libertar os Remanescentes das\nmãos dos homens.
+Libertá-los?
+Os seres deste mundo se habituaram\na usar Remanescentes como simples ferramentas.
+Nesse ritmo, logo excederão o limite do poder\ndos Remanescentes e destruirão toda a existência.
+Isso é ridículo! Você acha mesmo que somos capaz\nde fazer algo assim?
+Você acredita que sua confiança nos homens\nseja justificada?
+Meu dever é impedir essa possibilidade.
+Quem...\no que diabos é você?
+Sou um mero guardião dos Remanescentes.
+Um guardião?
+Então aqui em Elysion tem algo que você precisa\npara "libertar" os Remanescentes,\nnão é?
+Você deveria saber disso. Em princípio\nnão era eu quem deveria cumprir essa tarefa.
+Quando essa máquina for ativada, todos\nos Remanescentes do mundo serão libertados.
+Já que está respondendo perguntas, talvez\npossa responder isso: Por que fez aquilo com Hermeien?
+Eu queria saber o que aconteceria a esse\nmundo quando todos os Remanescentes fossem libertados.
+Por sorte, descobri que os Remanescentes consomem\nformas de vida inferiores, como humanos.
+Os Remanescentes consomem pessoas? Então... se todos\nos Remanescentes forem libertados...
+Então? Você finalmente compreende?
+O que compreendo é que você não\ndá a mínima para a vida das pessoas.
+Mas eu... Meus amigos e familiares são\nalgo que eu não trocaria por nada nesse mundo.\nEu vou protegê-los, não importa como.
+Como desejar. Não terei piedade.\nVenha...
+
+-- ----------------------------------------------------------------------------------
+-- (Export 111) EV1520_0_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Droga!
+Irina!?
+Eu posso fazer isso!
+Então, essa é sua escolha?
+Ser a arma de outra pessoa? Uma ferramenta?\nEnquanto você não os deixar,\neste será o seu destino, Marshall!
+Isso não é verdade!\nSr. David... Seus Generais, até mesmo as pessoas\nda Academia,\neles nunca tentaram me usar!
+Eles, mamãe, papai, todos\nsempre fizeram o possível para que minha vida\nnão fosse a de uma Marshall...\nMas sim de uma garota normal!
+E mesmo que eles fracassassem...
+Rush sempre me protegeria!
+Menina tola!
+Esse poder...\nVocê escolheria destruir todos os Remanescentes!?
+Mas Rush\nSe fizer isso, então você...
+Eu sei! Seria suicídio porquê...\nTambém sou um Remanescente, certo?
+Mas... Eu tenho de detê-lo!
+Vocês todos fizeram muito por mim...\nNão posso deixá-los morrer! Não mesmo!
+Dave... me perdoe! Acho que não vai\nsobrar mais nenhum Remanescente depois disso...
+Mas... não se preocupe! As pessoas vão aprender\ncomo viver sem nós!
+Sim. Não se preocupe, Rush! Eu...\nNós vamos conseguir de alguma maneira!
+Rush!
+Não!!!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 112) EV1520_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Droga!
+Irina!?
+Eu posso fazer isso!
+Então, essa é sua escolha?
+Ser a arma de outra pessoa? Uma ferramenta?\nEnquanto você não os deixar,\neste será o seu destino, Marshall!
+Isso não é verdade!\nSr. David... Seus Generais, até mesmo as pessoas\nda Academia,\neles nunca tentaram me usar!
+Eles, mamãe, papai, todos\nsempre fizeram o possível para que minha vida\nnão fosse a de uma Marshall...\nMas sim de uma garota normal!
+E mesmo que eles fracassassem...
+Rush sempre me protegeria!
+Menina tola!
+Esse poder...\nVocê escolheria destruir todos os Remanescentes!?
+Mas Rush\nSe fizer isso, então você...
+Eu sei! Seria suicídio porquê...\nTambém sou um Remanescente, certo?
+Mas... Eu tenho de detê-lo!
+Vocês todos fizeram muito por mim...\nNão posso deixá-los morrer! Não mesmo!
+Dave... me perdoe! Acho que não vai\nsobrar mais nenhum Remanescente depois disso...
+Mas... não se preocupe! As pessoas vão aprender\ncomo viver sem nós!
+Sim. Não se preocupe, Rush! Eu...\nNós vamos conseguir de alguma maneira!
+Rush!
+Não!!!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 113) EV1550_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+O que irá fazer agora?
+O que você acha?
+Eu vou retornar.\nEles estão esperando por mim.
+
+
+-- ----------------------------------------------------------------------------------
+-- Tamanho maior frase iniciando uma linha: 70
+-- Tamanho maior frase: 70
+-- Maior frase: I'm great! I'm totally fine!I hope I didn't worry everyone too much...
+-- ----------------------------------------------------------------------------------
