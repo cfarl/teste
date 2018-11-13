@@ -1,296 +1,296 @@
-(0001)Rótulos de los menús-->Menu Caption dummy
-(0002)Ubicación actual-->Localização Atual
-(0003)Uds.-->Possui
-(0004)Equipo-->Equipamento
-(0005)Accesorios-->Acessórios
-(0006)Tipo-->Tipo
-(0007)Daño-->Dano
-(0008)Talla-->Tamanho
-(0009)Efecto-->Efeito
-(0010)PF-->ATQ
-(0011)DF-->DEF
-(0012)PM-->MAG
-(0013)DM-->DEF M. 
-(0014)EF-->EVA
-(0015)EM-->M. EVA
-(0016)PV máx.-->HP MAX
-(0017)PA máx.-->AP MAX
-(0018)PA iniciales-->INIT AP
-(0019)Fuerza-->Força
-(0020)Inteligencia-->Inteligência
-(0021)Velocidad-->Velocidade
-(0022)Unidades-->Unidades
-(0023)Líderes-->Líderes
-(0024)Máx.-->Máx.
-(0025)PV-->HP
-(0026)PA-->AP
-(0027)Tipo-->Tipo
-(0028)Elementos-->Ingredientes
-(0029)Unidades-->Unidades
-(0030)Clase-->Classe
-(0031)Raza-->Raça
-(0032)Inventario-->Inventário
-(0033)Poder-->Poder
-(0034)Técnica-->Técnica
-(0035)Instinto-->Instinto
-(0036)Pantalla y gráficos-->Tela e Gráficos
-(0037)Sonido-->Som
-(0038)Cámara-->Câmera 
-(0039)Sistema-->Sistema
-(0040)Valores predeterminados-->Valores Padrão 
-(0041)Página-->Página
-(0042)Disco-->Disco
-(0043)Existencias-->Estoque
-(0044)Cantidad-->Quantidade
+(0001)Menu Caption dummy-->﻿Menu Caption dummy
+(0002)Current Location-->Localização Atual
+(0003)Held-->Possui
+(0004)Equipment-->Equipamento
+(0005)Accessories-->Acessórios
+(0006)Type-->Tipo
+(0007)Modifier-->Dano
+(0008)Size-->Tamanho
+(0009)Effect-->Efeito
+(0010)ATK-->ATQ
+(0011-IGUAIS)DEF
+(0012)MYS-->MAG
+(0013)M. DEF-->DEF M. 
+(0014-IGUAIS)EVA
+(0015)M. EVA-->EVA M.
+(0016)MAX HP-->HP MAX
+(0017)MAX AP-->AP MAX
+(0018-IGUAIS)INIT AP
+(0019)Strength-->Força
+(0020)Intellect-->Inteligência
+(0021)Speed-->Velocidade
+(0022)Battle Union-->Unidades
+(0023)Leaders-->Líderes
+(0024)Max.-->Máx.
+(0025-IGUAIS)HP
+(0026-IGUAIS)AP
+(0027)Type-->Tipo
+(0028)Ingredients-->Ingredientes
+(0029)Held-->Unidades
+(0030)Class-->Classe
+(0031)Race-->Raça
+(0032)Inventory-->Inventário
+(0033)Power-->Poder
+(0034)Technique-->Técnica
+(0035)Instinct-->Instinto
+(0036)Screen and Display-->Tela e Gráficos
+(0037)Sound-->Som
+(0038)Camera-->Câmera 
+(0039)System-->Sistema
+(0040)Defaults-->Valores Padrão 
+(0041)Page-->Página
+(0042)Disc-->Disco
+(0043)Stock-->Estoque
+(0044)Amount-->Quantidade
 (0045-IGUAIS)Total
-(0046)N.º-->N.º
-(0047)BONIFICACIÓN-->BÔNUS
-(0048)Menús-->Menu dummy text
-(0049)Sí-->Sim
-(0050-IGUAIS)No
-(0051)Mostrar todo-->Mostrar todos
-(0052)Mercancías-->Mercadorias
-(0053)Especialidades-->Especialidades
-(0054)Equipo-->Equipamento
-(0055)Escudos-->Escudos
-(0056)Accesorios-->Acessórios
-(0057)Uso único-->Consumíveis
-(0058)Componentes-->Componentes
-(0059)Monstruos-->Monstros Capturados
-(0060)Objetos especiales-->Items Especiais
-(0061)Equipo de Rush-->Equipamento do Rush
-(0062)Artes de Rush-->Artes do Rush
-(0063)Unidades-->Grupos
-(0064)Personajes-->Membros do Grupo
-(0065)Inventario-->Inventário
-(0066)Notas-->Notas
-(0067)Sistema-->Sistema
-(0068)Salir del juego-->Sair do jogo
-(0069)Misiones-->Missões
-(0070)Señor Garras-->Status Mr. Diggs
-(0071)Crear unidad-->Criar grupo
-(0072)Cambiar formación-->Trocar formação
-(0073)Sustituir personaje-->Substituir grupo
-(0074)Disolver unidad-->Dissolver grupo
-(0075)Guardar-->Salvar
-(0076)Configuración-->Configuração 
-(0077)Ver personajes-->Confirmar grupos
-(0078)Cambiar equipo-->Mudar equipamento
-(0079)Ver equipo-->Ver equipamento 
-(0080)Ver objetos-->Ver items
-(0081)Ver artes-->Ver artes 
-(0082)Equipo-->Equipamento 
-(0083)Mejorar equipo-->Melhorar equipamento 
-(0084)Montar equipo-->Criar equipamento 
-(0085)Desmontar equipo-->Desmontar equipamento 
-(0086)Comprobar reservas-->Verificar reservas 
-(0087)Elegir formación-->Select formation
-(0088)Asignar personaje-->Designar grupo
-(0089)Ordenar unidad-->Ordenar grupo
-(0090)Ver personaje-->Detalhes do Grupo
-(0091)Elegir equipo-->Selecionar equipamento
-(0092)Cargar-->Carregar
-(0093)Artes de combate-->Artes de Combate
-(0094)Artes de objetos-->Artes de Itens
-(0095)Artes místicas-->Artes Místicas
-(0096)Otras-->Outras
-(0097)Armas de filo-->Blades
-(0098)Armas pesadas-->Breakers
-(0099)Armas de asta-->Polearms
-(0100)Asignar-->Equipar
-(0101)Descartar-->Descartar
-(0102)Todas las misiones-->Todas missões
-(0103)Misiones disponibles-->Missões Disponíveis
-(0104)Misiones aceptadas-->Missões Atuais
-(0105)Misiones finalizadas-->Missões Concluídas
-(0106)Misiones cerradas-->Missões Encerradas
-(0107)Misiones en espera-->Missões Suspensas
-(0108)Todas las pruebas del gremio-->Todas Tarefas da Guilda
-(0109)Pruebas del gremio aceptadas-->Tarefas da Guilda Aceitas
-(0110)Pruebas del gremio cumplidas-->Tarefas da Guilda Completadas
-(0111)Por defecto-->Valor padrão 
-(0112)PV-->HP
-(0113)PA-->AP
-(0114)Poder físico (PF)-->Poder de Ataque [ATQ]
-(0115)Defensa física (DF)-->Defesa Física [DEF]
-(0116)Poder místico (PM)-->Poder Místico [MIS]
-(0117)Defensa mística (DM)-->Defesa Mística [DEF M.]
-(0118)Fuerza-->Força
-(0119)Inteligencia-->Inteligência 
-(0120)Velocidad-->Velocidade 
-(0121)Por defecto-->Valor padrão 
-(0122)Uds.--Possui
-(0123)Nivel-->Nível 
-(0124)Tamaño-->Tamanho
-(0125)Poder físico (PF)-->Poder de Ataque [ATQ]
-(0126)Defensa física (DF)-->Defesa Física [DEF]
-(0127)Poder místico (PM)-->Poder Místico [MIS]
-(0128)Defensa mística (DM)-->Defesa Mística [DEF M.]
-(0129)Evasión física (EF)-->Evasão Física [EVA]
-(0130)Evasión mística (EM)-->Evasão Mística [EVA M.]
-(0131)PV máximos-->HP MAX
-(0132)PA máximos-->AP MAX
-(0133)PA iniciales-->AP inicial
-(0134)Fuerza-->Força 
-(0135)Inteligencia-->Inteligência 
-(0136)Velocidad-->Velocidade 
-(0137)Quitar-->Unequip
-(0138)Omitir-->Omitir
-(0139)Brillo-->Brilho
-(0140)Subtítulos--Legendas
-(0141)Minimapa-->Mapa de Navegação
-(0142)Volumen general-->Volume geral
-(0143)Música de fondo-->Música de fundo
-(0144)Efectos de sonido-->Efeitos sonoros
-(0145)Voces-->Vozes
-(0146)Control horizontal-->Controle Horizontal 
-(0147)Control vertical-->Controle Vertical
-(0148)Velocidad de la cámara-->Velocidade da câmera 
-(0149)Vista en primera persona-->Visão em primeira pessoa
-(0150)Vista en primera persona: Control horizontal-->Visão em primeira pessoa: Controle Horizontal
-(0151)Vista en persona persona: Control vertical-->Visão em primeira pessoa: Controle Vertical
-(0152)Vista en primera persona: Sensibilidad-->Visão em primeira pessoa: Sensibilidade
-(0153)Seguimiento automático-->Seguir automaticamente
-(0154)Ataque maestro-->Ataque crítico 
-(0155)Defensa maestra-->Defesa crítica
-(0156)Aviso de abandono de duelo-->Aviso de cancelamento de Deadlock 
-(0157)Vibración del mando-->Vibração do Controle
-(0158)Desactivada-->Desligado
-(0159)Activada-->Ligado
-(0160)Mostrar aviso al convertir monstruos en componentes-->Mostrar aviso ao converter monstros em componentes
-(0161)Desactivados-->Não 
-(0162)Activados-->Sim
-(0163)Fijo-->Fixo
-(0164)Giratorio-->Girar
+(0046)No.-->N.º
+(0047)BONUS-->BÔNUS
+(0048-IGUAIS)Menu dummy text
+(0049)Yes-->Sim
+(0050)No-->Não
+(0051)All-->Mostrar todos
+(0052)Trade Goods-->Mercadorias
+(0053)Specialties-->Especialidades
+(0054)Equipment-->Equipamento
+(0055)Shields-->Escudos
+(0056)Accessories-->Acessórios
+(0057)Consumables-->Consumíveis
+(0058)Components-->Componentes
+(0059)Captured Monsters-->Monstros Capturados
+(0060)Special Items-->Items Especiais
+(0061)Rush's Equipment-->Equipamento do Rush
+(0062)Rush's Arts-->Artes do Rush
+(0063)Union Board-->Grupos
+(0064)Party Members-->Membros do Grupo
+(0065)Inventory-->Inventário
+(0066)Notebook-->Notas
+(0067)System-->Sistema
+(0068)Return to title screen-->Sair do jogo
+(0069)Quests-->Missões
+(0070)Mr. Diggs's Status-->Status Mr. Diggs
+(0071)Create union-->Criar grupo
+(0072)Change formation-->Trocar formação
+(0073)Replace unit-->Substituir grupo
+(0074)Disband union-->Dissolver grupo
+(0075)Save-->Salvar
+(0076)Config-->Configuração 
+(0077)Confirm units-->Confirmar grupos
+(0078)Change equipment-->Mudar equipamento
+(0079)Check equipment-->Ver equipamento 
+(0080)Check items-->Ver items
+(0081)Check arts-->Ver artes 
+(0082)Equipment-->Equipamento 
+(0083)Customize equipment-->Melhorar equipamento 
+(0084)Create equipment-->Criar equipamento 
+(0085)Disassemble equipment-->Desmontar equipamento 
+(0086)Check reserves-->Verificar reservas 
+(0087)Select formation-->Selecionar Formação
+(0088)Assign unit-->Designar grupo
+(0089)Sort union-->Ordenar grupo
+(0090)Unit status-->Detalhes do Grupo
+(0091)Select equipment-->Selecionar equipamento
+(0092)Load-->Carregar
+(0093)Combat Arts-->Artes de Combate
+(0094)Item Arts-->Artes de Itens
+(0095)Mystic Arts-->Artes Místicas
+(0096)Others-->Outras
+(0097)Blades-->Espadas
+(0098)Breakers-->Armas pesadas
+(0099)Polearms-->Lanças
+(0100)Equip-->Equipar
+(0101)Discard-->Descartar
+(0102)All-->Todas missões
+(0103)Available Quests-->Missões Disponíveis
+(0104)Current Quests-->Missões Atuais
+(0105)Completed Quests-->Missões Concluídas
+(0106)Finished Quests-->Missões Encerradas
+(0107)Suspended Quests-->Missões Suspensas
+(0108)All Guild Tasks-->Todas Tarefas da Guilda
+(0109)Current Guild Tasks-->Tarefas da Guilda Aceitas
+(0110)Completed Guild Tasks-->Tarefas da Guilda Completadas
+(0111)Default-->Valor padrão 
+(0112-IGUAIS)HP
+(0113-IGUAIS)AP
+(0114)Attack Power [ATK]-->Poder de Ataque [ATQ]
+(0115)Physical Defense [DEF]-->Defesa Física [DEF]
+(0116)Mystic Power [MYS]-->Poder Místico [MIS]
+(0117)Mystic Defense [M. DEF]-->Defesa Mística [DEF M.]
+(0118)Strength-->Força
+(0119)Intellect-->Inteligência 
+(0120)Speed-->Velocidade 
+(0121)Default-->Valor padrão 
+(0122)Held-->Possui
+(0123)Level-->Nível 
+(0124)Size-->Tamanho
+(0125)Attack Power [ATK]-->Poder de Ataque [ATQ]
+(0126)Physical Defense [DEF]-->Defesa Física [DEF]
+(0127)Mystic Power [MYS]-->Poder Místico [MIS]
+(0128)Mystic Defense [M. DEF]-->Defesa Mística [DEF M.]
+(0129)Physical Evasion [EVA]-->Evasão Física [EVA]
+(0130)Mystic Evasion [M. EVA]-->Evasão Mística [EVA M.]
+(0131)MAX HP-->HP MAX
+(0132)MAX AP-->AP MAX
+(0133)INIT AP-->AP inicial
+(0134)Strength-->Força 
+(0135)Intellect-->Inteligência 
+(0136)Speed-->Velocidade 
+(0137)Unequip-->Desequipar
+(0138)Skip-->Omitir
+(0139)Brightness-->Brilho
+(0140)Subtitles-->Legendas
+(0141)Navigation Map-->Mapa de Navegação
+(0142)Main Volume-->Volume geral
+(0143)BGM Volume-->Música de fundo
+(0144)SFX Volume-->Efeitos sonoros
+(0145)Voice Volume-->Vozes
+(0146)Horizontal Control-->Controle Horizontal 
+(0147)Vertical Control-->Controle Vertical
+(0148)Sensitivity-->Velocidade da câmera 
+(0149)First-Person Mode-->Visão em primeira pessoa
+(0150)First-Person View: Horizontal Control-->Visão em primeira pessoa: Controle Horizontal
+(0151)First-Person View: Vertical Control-->Visão em primeira pessoa: Controle Vertical
+(0152)First-Person View: Sensitivity-->Visão em primeira pessoa: Sensibilidade
+(0153)Auto-Follow-->Seguir automaticamente
+(0154)Critical Trigger: Offensive-->Ataque crítico 
+(0155)Critical Trigger: Defensive-->Defesa crítica
+(0156)Display Deadlock cancellation warning-->Aviso de cancelamento de Deadlock 
+(0157)Controller Vibration-->Vibração do Controle
+(0158)Off-->Desligado
+(0159)On-->Ligado
+(0160)Display warning when taking apart captured monsters-->Mostrar aviso ao converter monstros em componentes
+(0161)Off-->Não 
+(0162)On-->Sim
+(0163)Fixed-->Fixo
+(0164)Rotate-->Girar
 (0165-IGUAIS)Normal
-(0166)Invertido-->Invertido
-(0167)Desactivar-->Desativado
-(0168)Activar-->Ativado
-(0169-IGUAIS)No
-(0170)Sí-->Sim
+(0166)Inverse-->Invertido
+(0167)Disable-->Desativado
+(0168)Enable-->Ativado
+(0169)No-->Não
+(0170)Yes-->Sim
 (0171-IGUAIS)Manual
-(0172)Automático-->Automático 
-(0173)Omitir mensaje-->Não mostrar mensagens
-(0174)Mostrar mensaje-->Mostrar mensagens
-(0175)Oscuro-->Escuro 
-(0176)Claro-->Claro
+(0172)Automatic-->Automático 
+(0173)Don't display message-->Não mostrar mensagens
+(0174)Display message-->Mostrar mensagens
+(0175)Dark-->Escuro 
+(0176)Bright-->Claro
 (0177-IGUAIS)0%
 (0178-IGUAIS)100%
-(0179)Menor-->Devagar
-(0180)Mayor-->Rápido 
-(0181)Restaurar valores predeterminados-->Restaurar configuração padrão 
-(0182)Precio de venta-->Preço de venda 
-(0183)Precio de compra-->Preço de compra
-(0184)Coste de fabricación-->Custo de fabricação 
-(0185)Coste para desmontar-->Custo para desmontar
-(0186)Coste de alistamiento-->Custo de recrutamento 
-(0187)Bonificación de PA-->Bônus de AP 
-(0188)00\nComprar-->00\nComprar
-(0189)00\nVender-->00\nVender
-(0190)Comprar-->Comprar
-(0191)Vender-->Vender
-(0192)Añadir líder-->Recrutar líder 
-(0193)Despedir líder-->Despedir líder
-(0194)Reclutar soldado-->Recrutar soldado
-(0195)Despedir soldado-->Despedir soldado
-(0196)Pruebas del gremio-->Tarefas da Guilda
-(0197)No mostrar aviso.-->Não mostrar aviso
-(0198)00\nVer personajes en reserva-->00\nVer personagens na reserva
-(0199)00\nVer personaje-->00\nVer estado do personagem
-(0200)00\nOrdenar objetos-->00\nOrdenar itens 
-(0201)00\nOrdenar líderes en reserva-->00\nOrdenar líderes na reserva
-(0202)00\nCambiar orden de unidades-->00\nMudar ordem do grupo
-(0203)00\nOrdenar soldados en reserva-->00\nOrdenar soldados na reserva
-(0204)00\nCambiar de manos-->00\nTrocar de mãos
-(0205)Anterior-->Anterior
-(0206)Siguiente-->Seguinte 
-(0207)Fin-->Fim
-(0208)00\nVista general-->00\nVisão geral
-(0209)00\nVista ampliada-->00\nVisão ampliada
-(0210)00\nMenú principal-->00\nMenu principal
-(0211)00\nUtilizar-->00\nUtilizar
-(0212)00\nUtilizar-->00\nUtilizar
-(0213)00\nHablar-->00\nFalar
-(0214)00\nHablar-->00\nFalar
-(0215)00\nRecolectar-->00\nColetar
-(0216)00\nRecolectar-->00\nColetar
-(0217)00\nExaminar-->00\nExaminar
-(0218)00\nExaminar-->00\nExaminar
-(0219)00\nAbrir puerta-->00\nAbrir porta
-(0220)00\nAbrir puerta-->00\nAbrir porta
-(0221)Vista en 3D-->Visão em 3D
-(0222)Ver estadísticas-->Ver estatísticas
-(0223)Omitir secuencia-->Pular cena
-(0224)00\nVer personajes-->00\nVer status do personagem 
-(0225)00\nVer unidades-->00\nDisplay union status
-(0226)00\nComenzar combate-->00\nBegin battle
-(0227)Continuar-->Resume
-(0228)00\nConvertir en componentes-->00\nSplit captured monster
-(0229)00\nAnular reserva-->00\nSeize
-(0230)00\nVer solicitante-->00\nCheck requestee's status
-(0231)00\nSeleccionar dispositivo-->00\nSelect storage device
-(0232)00\nValor predeterminado-->00\nDefault
-(0233)00\nSalir sin guardar-->00\nExit without saving
-(0234)00\nOcultar equipo no asignable-->00\nHide unequippable gear
-(0235)00\nMostrar equipo no asignable-->00\nShow unequippable gear
-(0236)00\nAñadir al lote-->00\nSell in bulk
-(0237)00\nVender lote-->00\nSell this in bulk
-(0238)00\nRetirar del lote-->00\nDon't sell this in bulk
-(0239)00\nAnular venta por lotes-->00\nQuit without bulk-selling
-(0240)00\nCambiar orden de personajes-->00\nChange unit order
-(0241)00\nReclamar recompensa-->00\nSubmit report
-(0242)Miscelánea (menús)-->Menu Misc dummy
-(0243)Sólo\neqonly_name-->eqonly_name\nspecific
+(0179)Slow-->Devagar
+(0180)Fast-->Rápido 
+(0181)Reset to default settings-->Restaurar configuração padrão 
+(0182)Selling Price-->Preço de venda 
+(0183)Purchase Price-->Preço de compra
+(0184)Creation Cost-->Custo de fabricação 
+(0185)Disassembly Cost-->Custo para desmontar
+(0186)Recruit Cost-->Custo de recrutamento 
+(0187)AP Bonus-->Bônus de AP 
+(0188)00\nBuy-->00\nComprar
+(0189)00\nSell-->00\nVender
+(0190)Buy-->Comprar
+(0191)Sell-->Vender
+(0192)Recruit Leader-->Recrutar líder 
+(0193)Dismiss Leader-->Despedir líder
+(0194)Employ Soldier-->Recrutar soldado
+(0195)Dismiss Soldier-->Despedir soldado
+(0196)Guild Tasks-->Tarefas da Guilda
+(0197)Don't display warning-->Não mostrar aviso
+(0198)00\nCheck reserve units-->00\nVer personagens na reserva
+(0199)00\nCheck unit's status-->00\nVer estado do personagem
+(0200)00\nSort items-->00\nOrdenar itens 
+(0201)00\nSort reserve leaders-->00\nOrdenar líderes na reserva
+(0202)00\nChange union order-->00\nMudar ordem do grupo
+(0203)00\nSort reserve soldiers-->00\nOrdenar soldados na reserva
+(0204)00\nSwap main slot with sub slot-->00\nTrocar de mãos
+(0205)Previous-->Anterior
+(0206)Next-->Seguinte 
+(0207)End-->Fim
+(0208)00\nZoom out-->00\nVisão geral
+(0209)00\nZoom in-->00\nVisão ampliada
+(0210)00\nParty Menu-->00\nMenu principal
+(0211)00\nAction-->00\nUtilizar
+(0212)00\nAction-->00\nUtilizar
+(0213)00\nTalk-->00\nFalar
+(0214)00\nTalk-->00\nFalar
+(0215)00\nHarvest-->00\nColetar
+(0216)00\nHarvest-->00\nColetar
+(0217)00\nExamine-->00\nExaminar
+(0218)00\nExamine-->00\nExaminar
+(0219)00\nOpen door-->00\nAbrir porta
+(0220)00\nOpen door-->00\nAbrir porta
+(0221)Display model-->Visão em 3D
+(0222)View stats-->Ver estatísticas
+(0223)Skip cutscene-->Pular cena
+(0224)00\nDisplay unit status-->00\nVer status do personagem 
+(0225)00\nDisplay union status-->Mostrar status do grupo
+(0226)00\nBegin battle-->00\nComeçar combate
+(0227)Resume-->Continuar
+(0228)00\nSplit captured monster-->00\nConverter em componentes
+(0229)00\nSeize-->00\nAnular reserva
+(0230)00\nCheck requestee's status-->00\nVer status do solicitante
+(0231)00\nSelect storage device-->00\nSelecionar dispositivo de armazenamento
+(0232)00\nDefault-->00\nValor padrão
+(0233)00\nExit without saving-->00\nSair sem salvar
+(0234)00\nHide unequippable gear-->00\nOcultar equipamento não utilizável
+(0235)00\nShow unequippable gear-->00\nMonstrar equipamento não utilizável
+(0236)00\nSell in bulk-->00\nVender em lote
+(0237)00\nSell this in bulk-->00\nVender lote
+(0238)00\nDon't sell this in bulk-->00\nRemover do lote
+(0239)00\nQuit without bulk-selling-->00\nCancelar venda em lote
+(0240)00\nChange unit order-->00\nMudar ordem dos personagens
+(0241)00\nSubmit report-->00\nApresentar relatório
+(0242-IGUAIS)Menu Misc dummy
+(0243)eqonly_name\nspecific-->eqonly_name\nespecífico
 (0244-IGUAIS)reward_kingaku
-(0245)¿?-->???
-(0246)INVITADO-->GUEST
-(0247)CONVOCAR-->SUMMON
-(0248)VACÍA-->EMPTY
-(0249)Personajes en reservas-->Reserve Units
-(0250)Nada-->None
-(0251)No hay artes que mostrar.-->No arts learned.
-(0252)Nadie-->None
-(0253)2 manos-->Two-Handed
-(0254)No se puede asignar-->Cannot equip
-(0255)Requiere mano principal-->Must be in main slot
-(0256)Requiere mano secundaria-->Must be in sub slot
-(0257)Nada que mostrar.-->It hasn't learned anything.
-(0258)Crear unidad-->Create union
-(0259)Datos dañados-->Corrupted Data
-(0260)SIN ESPACIO LIBRE-->NO FREE SPACE
-(0261)Líderes-->Battle Leaders
-(0262)Personajes-->Battle Units
-(0263)Líderes en reserva-->Reserve Leaders
-(0264)Soldados en reserva-->Reserve Soldiers
-(0265)Unidades-->Battle Unions
-(0266)Soldados-->Soldiers
-(0267)Agotado-->Sold out
-(0268)N/A-->None
-(0269)Asignar-->Equip
-(0270)No asignar-->Don't equip
-(0271)Vender-->Sell
-(0272)No vender-->Don't sell
-(0273)Gratis-->Free
-(0274)FUERA DE ALCANCE-->OUT OF RANGE
-(0275)¡Ralentizado!-->Slow!
-(0276)Inmovilizado-->Immobilized!
-(0277)Incapaz de actuar-->Can't act!
-(0278)¡Paralizado!-->Paralyzed!
-(0279)Aura de provocación-->Provoke Aura
-(0280)Aura de hechizo-->Charm Aura
-(0281)Aura de terror-->Terrify Aura
-(0282)¡Un monstruo te persigue!-->Targeted!
-(0283)22\nAlerta-->22\nDetected!
-(0284)22\nHostil-->22\nAggressive
-(0285)22\nCobarde-->22\nCowering
-(0286)22\nSueño-->22\nAsleep
-(0287)22\nImparable-->22\nVehement
-(0288)22\nRalentización-->22\nSlow
-(0289)22\nInmóvil-->22\nImmobilized
-(0290)22\nIncapaz de actuar-->22\nUnable to act
-(0291)22\nParálisis-->22\nParalyzed
-(0292)"22\nBajo el hechizo de Rush-->"22\nEnamored of Rush!
-(0293)Inserta el disco correcto.-->Please insert the correct disc.
-(0294)Inserta el disco 1 de THE LAST REMNANT.-->Please insert The Last Remnant Game Disc 1.
-(0295)Inserta el disco 2 de THE LAST REMNANT.-->Please insert The Last Remnant Game Disc 2.
-(0296)Aceptar-->OK
+(0245-IGUAIS)???
+(0246)GUEST-->CONVIDADO
+(0247)SUMMON-->CONVOCAR
+(0248)EMPTY-->VAZIO
+(0249)Reserve Units-->Personagens na reserva
+(0250)None-->Nenhum
+(0251)No arts learned.-->Nenhuma arte foi aprendida.
+(0252)None-->Nada
+(0253)Two-Handed-->Duas mãos
+(0254)Cannot equip-->Não é possível utilizar
+(0255)Must be in main slot-->Deve ser usado na mão direita
+(0256)Must be in sub slot-->Deve ser usado na mão esquerda
+(0257)It hasn't learned anything.-->Nada foi aprendido.
+(0258)Create union-->Criar grupo
+(0259)Corrupted Data-->Dados corrompidos
+(0260)NO FREE SPACE-->NÃO HÁ ESPAÇO LIVRE
+(0261)Battle Leaders-->Líderes
+(0262)Battle Units-->Personagens
+(0263)Reserve Leaders-->Líderes na reserva
+(0264)Reserve Soldiers-->Soldados na reserva
+(0265)Battle Unions-->Grupos
+(0266)Soldiers-->Soldados
+(0267)Sold out-->Esgotado
+(0268)None-->Nenhum
+(0269)Equip-->Equipar
+(0270)Don't equip-->Não equipar
+(0271)Sell-->Vender
+(0272)Don't sell-->Não vender
+(0273)Free-->Grátis
+(0274)OUT OF RANGE-->FORA DE ALCANCE
+(0275)Slow!-->Desacelerado!
+(0276)Immobilized!-->Imobilizado!
+(0277)Can't act!-->Não pode agir!
+(0278)Paralyzed!-->Paralizado!
+(0279)Provoke Aura-->Aura de provocação
+(0280)Charm Aura-->Aura de feitiço
+(0281)Terrify Aura-->Aura de terror
+(0282)Targeted!-->Um monstro te persegue!
+(0283)22\nDetected!-->22\nAlerta!
+(0284)22\nAggressive-->22\nHostil
+(0285)22\nCowering-->22\nCovarde
+(0286)22\nAsleep-->22\nSono
+(0287)22\nVehement-->22\nImparável
+(0288)22\nSlow-->22\nDesaceleração
+(0289)22\nImmobilized-->22\nImobilizado
+(0290)22\nUnable to act-->22\nNão pode agir
+(0291)22\nParalyzed-->22\nParalizado
+(0292-IGUAIS)"22\nEnamored of Rush!
+(0293)Please insert the correct disc.-->Por favor insira o disco correto.
+(0294)Please insert The Last Remnant Game Disc 1.-->Por favor insira o disco 1 do jogo The Last Remnant.
+(0295)Please insert The Last Remnant Game Disc 2.-->Por favor insira o disco 2 do jogo The Last Remnant.
+(0296)OK-->Aceitar
