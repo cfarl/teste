@@ -1,0 +1,296 @@
+Rótulos de los menús
+Ubicación actual
+Uds.
+Equipo
+Accesorios
+Tipo
+Daño
+Talla
+Efecto
+PF
+DF
+PM
+DM
+EF
+EM
+PV máx.
+PA máx.
+PA iniciales
+Fuerza
+Inteligencia
+Velocidad
+Unidades
+Líderes
+Máx.
+PV
+PA
+Tipo
+Elementos
+Unidades
+Clase
+Raza
+Inventario
+Poder
+Técnica
+Instinto
+Pantalla y gráficos
+Sonido
+Cámara
+Sistema
+Valores predeterminados
+Página
+Disco
+Existencias
+Cantidad
+Total
+N.º
+BONIFICACIÓN
+Menús
+Sí
+No
+Mostrar todo
+Mercancías
+Especialidades
+Equipo
+Escudos
+Accesorios
+Uso único
+Componentes
+Monstruos
+Objetos especiales
+Equipo de Rush
+Artes de Rush
+Unidades
+Personajes
+Inventario
+Notas
+Sistema
+Salir del juego
+Misiones
+Señor Garras
+Crear unidad
+Cambiar formación
+Sustituir personaje
+Disolver unidad
+Guardar
+Configuración
+Ver personajes
+Cambiar equipo
+Ver equipo
+Ver objetos
+Ver artes
+Equipo
+Mejorar equipo
+Montar equipo
+Desmontar equipo
+Comprobar reservas
+Elegir formación
+Asignar personaje
+Ordenar unidad
+Ver personaje
+Elegir equipo
+Cargar
+Artes de combate
+Artes de objetos
+Artes místicas
+Otras
+Armas de filo
+Armas pesadas
+Armas de asta
+Asignar
+Descartar
+Todas las misiones
+Misiones disponibles
+Misiones aceptadas
+Misiones finalizadas
+Misiones cerradas
+Misiones en espera
+Todas las pruebas del gremio
+Pruebas del gremio aceptadas
+Pruebas del gremio cumplidas
+Por defecto
+PV
+PA
+Poder físico (PF)
+Defensa física (DF)
+Poder místico (PM)
+Defensa mística (DM)
+Fuerza
+Inteligencia
+Velocidad
+Por defecto
+Uds.
+Nivel
+Tamaño
+Poder físico (PF)
+Defensa física (DF)
+Poder místico (PM)
+Defensa mística (DM)
+Evasión física (EF)
+Evasión mística (EM)
+PV máximos
+PA máximos
+PA iniciales
+Fuerza
+Inteligencia
+Velocidad
+Quitar
+Omitir
+Brillo
+Subtítulos
+Minimapa
+Volumen general
+Música de fondo
+Efectos de sonido
+Voces
+Control horizontal
+Control vertical
+Velocidad de la cámara
+Vista en primera persona
+Vista en primera persona: Control horizontal
+Vista en persona persona: Control vertical
+Vista en primera persona: Sensibilidad
+Seguimiento automático
+Ataque maestro
+Defensa maestra
+Aviso de abandono de duelo
+Vibración del mando
+Desactivada
+Activada
+Mostrar aviso al convertir monstruos en componentes
+Desactivados
+Activados
+Fijo
+Giratorio
+Normal
+Invertido
+Desactivar
+Activar
+No
+Sí
+Manual
+Automático
+Omitir mensaje
+Mostrar mensaje
+Oscuro
+Claro
+0%
+100%
+Menor
+Mayor
+Restaurar valores predeterminados
+Precio de venta
+Precio de compra
+Coste de fabricación
+Coste para desmontar
+Coste de alistamiento
+Bonificación de PA
+00\nComprar
+00\nVender
+Comprar
+Vender
+Añadir líder
+Despedir líder
+Reclutar soldado
+Despedir soldado
+Pruebas del gremio
+No mostrar aviso.
+00\nVer personajes en reserva
+00\nVer personaje
+00\nOrdenar objetos
+00\nOrdenar líderes en reserva
+00\nCambiar orden de unidades
+00\nOrdenar soldados en reserva
+00\nCambiar de manos
+Anterior
+Siguiente
+Fin
+00\nVista general
+00\nVista ampliada
+00\nMenú principal
+00\nUtilizar
+00\nUtilizar
+00\nHablar
+00\nHablar
+00\nRecolectar
+00\nRecolectar
+00\nExaminar
+00\nExaminar
+00\nAbrir puerta
+00\nAbrir puerta
+Vista en 3D
+Ver estadísticas
+Omitir secuencia
+00\nVer personajes
+00\nVer unidades
+00\nComenzar combate
+Continuar
+00\nConvertir en componentes
+00\nAnular reserva
+00\nVer solicitante
+00\nSeleccionar dispositivo
+00\nValor predeterminado
+00\nSalir sin guardar
+00\nOcultar equipo no asignable
+00\nMostrar equipo no asignable
+00\nAñadir al lote
+00\nVender lote
+00\nRetirar del lote
+00\nAnular venta por lotes
+00\nCambiar orden de personajes
+00\nReclamar recompensa
+Miscelánea (menús)
+Sólo\neqonly_name
+reward_kingaku
+¿?
+INVITADO
+CONVOCAR
+VACÍA
+Personajes en reservas
+Nada
+No hay artes que mostrar.
+Nadie
+2 manos
+No se puede asignar
+Requiere mano principal
+Requiere mano secundaria
+Nada que mostrar.
+Crear unidad
+Datos dañados
+SIN ESPACIO LIBRE
+Líderes
+Personajes
+Líderes en reserva
+Soldados en reserva
+Unidades
+Soldados
+Agotado
+N/A
+Asignar
+No asignar
+Vender
+No vender
+Gratis
+FUERA DE ALCANCE
+¡Ralentizado!
+Inmovilizado
+Incapaz de actuar
+¡Paralizado!
+Aura de provocación
+Aura de hechizo
+Aura de terror
+¡Un monstruo te persigue!
+22\nAlerta
+22\nHostil
+22\nCobarde
+22\nSueño
+22\nImparable
+22\nRalentización
+22\nInmóvil
+22\nIncapaz de actuar
+22\nParálisis
+"22\nBajo el hechizo de Rush
+Inserta el disco correcto.
+Inserta el disco 1 de THE LAST REMNANT.
+Inserta el disco 2 de THE LAST REMNANT.
+Aceptar
