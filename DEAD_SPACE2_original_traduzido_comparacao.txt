@@ -1,22 +1,22 @@
 (0001)REROUTE?-->REDIRECIONAR?
-(0002)TOXICOLOGY-->TÓXICOLOGIA
+(0002)TOXICOLOGY-->TOXICOLOGIA
 (0003)PSYCHOLOGY-->PSICOLOGIA
 (0004)EMERGENCY-->EMERGÊNCIA
 (0005)TRIAGE-->TRIAGEM
 (0006)SURGERY-->CIRURGIA
-(0007)DETONATOR GUN\nSchematic Acquired\nDownload at the Store-->ARMA DETONADORA\nDiagrama adquirido\nBaixe na Loja
-(0008)We're getting conflicting reports from the colony. Can you say again?-->Estamos recebendo relatos de conflitos da colônia. Você pode repetir?
-(0009)God, what's happening down there?-->Deus, o que está acontecendo lá embaixo?
-(0010)This is flight team EG-9 to Control. We have completed the fly-by. There's nothing left. I repeat, Titan Station has been completely destroyed.-->Aqui é a equipe de voo EG-9 para o Controle. Nós completamos o reconhecimento. Não há nada. Repito, a estação Titã foi completamente destruída.
-(0011)Negative. Nothing survived this, sir. Marker site 12 is a total loss.-->Negativo. Ninguém sobreviveu a isso, senhor. O local do Marker 12 está totalmente perdido.
+(0007)DETONATOR GUN\nSchematic Acquired\nDownload at the Store-->ARMA DETONADORA\nDiagrama Adquirido\nBaixe na Loja
+(0008)We're getting conflicting reports from the colony. Can you say again?-->Estamos recebendo relatos de conflitos na colônia. Você pode repetir?
+(0009)God, what's happening down there?-->Deus, o que está acontecendo ali?
+(0010)This is flight team EG-9 to Control. We have completed the fly-by. There's nothing left. I repeat, Titan Station has been completely destroyed.-->Aqui é a equipe de voo EG-9 para o Controle. Nós completamos o reconhecimento. Não restou nada. Repito, a estação Titã foi completamente destruída.
+(0011)Negative. Nothing survived this, sir. Marker site 12 is a total loss.-->Negativo. Ninguém sobreviveu a isso, senhor. O local do Marker 12 está completamente perdido.
 (0012)You will hold your positions and you WILL FOLLOW YOUR ORDERS-->Você vai manter sua posição e VAI SEGUIR AS SUAS ORDENS
-(0013)Just stay focused and keep your area secured.    Tiedemann's evacuating the Sprawl, and the civilian population will be fine.-->Apenas mantenha o foco e mantenha o sua area segura. Tiedemann está evacuando o Eixo, e a população civil ficará bem.
+(0013)Just stay focused and keep your area secured.    Tiedemann's evacuating the Sprawl, and the civilian population will be fine.-->Apenas mantenha o foco e mantenha sua área segura. Tiedemann está evacuando o Eixo, e a população civil ficará bem.
 (0014)Cut the chatter!  Keep your eyes peeled for Clarke.  Stay tight.-->Acabem com essa conversa! Mantenha os olhos abertos no Clarke. Mantenham-se firmes.
-(0015)Sprawl Security Maroon Urban Camo Suit-->Traje se Segurança do Eixo Marrom Camuflagem Urbano
+(0015)Sprawl Security Maroon Urban Camo Suit-->Traje de Camuflagem Urbana Marrom de Segurança do Eixo
 (0016-IGUAIS)Русский
-(0017)Downloadable content is being scanned.  Please remain signed in and do not remove or add any storage devices.-->O conteúdo para download está sendo escaneado.
+(0017)Downloadable content is being scanned.  Please remain signed in and do not remove or add any storage devices.-->O conteúdo para download está sendo escaneado. Por favor permaneça conectado e não remova ou adicione nenhum dispositivo de armazenamento. 
 (0018)MEDIUM CURRENCY-->CURSO MÉDIO
-(0019)FOR YOUR SAFETY PLEASE STAND BEHIND THE YELLOW LINE.       REMINDER: AUTHORIZED PASSES ARE REQUIRED FOR ENTRY TO GOVERNMENT SECTOR.        CEC WORKERS ARE ASKED TO PLEASE KEEP ALL GEAR OUT OF PEDESTRIAN WALKWAYS.-->PARA SUA SEGURANÇA POR FAVOR, FIQUE ATRÁS DA LINHA AMARELA. LEMBRE-SE: PARA ACESSAR O SETOR GOVERNAMENTAL É NECESSÁRIO UM PASSE DE AUTORIZAÇÃO. PEDIMOS AOS TRABALHADORES DA CEC PARA QUE MANTENHA TODOS OS EQUIPAMENTOS FORA DA PASSARELA.
+(0019)FOR YOUR SAFETY PLEASE STAND BEHIND THE YELLOW LINE.       REMINDER: AUTHORIZED PASSES ARE REQUIRED FOR ENTRY TO GOVERNMENT SECTOR.        CEC WORKERS ARE ASKED TO PLEASE KEEP ALL GEAR OUT OF PEDESTRIAN WALKWAYS.-->PARA SUA SEGURANÇA POR FAVOR PERMANEÇA ATRÁS DA LINHA AMARELA. LEMBRE-SE: PARA ACESSAR O SETOR GOVERNAMENTAL É NECESSÁRIO UM PASSE DE AUTORIZAÇÃO. PEDIMOS AOS TRABALHADORES DA CEC PARA QUE MANTENHAM TODOS OS EQUIPAMENTOS FORA DA PASSARELA.
 (0020)TRACK CONTROL-->CONTROLE DA PISTA
 (0021)SWITCH TRACKS-->TROCAR PISTA
 (0022)SWITCHING TRACKS-->TROCANDO PISTA
@@ -29,26 +29,26 @@
 (0029-IGUAIS)*
 (0030)ARCTIC SECURITY SUIT-->TRAJE DE SEGURANÇA DO ÁRTICO
 (0031-IGUAIS)QAOS
-(0032)Air canisters can save your life in vacuums.  Keep one handy and use it if your air timer gets low.-->Tubos de ar podem salvar sua vida em vácuos. Mantenha um sempre a mão e use-o se o temporizador de ar ficar baixo.
+(0032)Air canisters can save your life in vacuums.  Keep one handy and use it if your air timer gets low.-->Tubos de ar podem salvar sua vida no vácuo. Mantenha um sempre a mão e use-o se o temporizador de ar ficar baixo.
 (0033-IGUAIS)Sharon Andrews
-(0034)Bring this schematic to the store to unlock the Engineering Elite Suit.-->Leve esse diagrama até a loja para desbloquear o Traje de Engenharia de Elite.
-(0035)Senior Online Engineers-->Engenheiros Online Sênior
+(0034)Bring this schematic to the store to unlock the Engineering Elite Suit.-->Leve esse diagrama até a loja para desbloquear o Traje de Elite de Engenheiro.
+(0035)Senior Online Engineers-->Engenheiros Sênior Online 
 (0036)//loading...-->//carregando...
-(0037)Enter your email.-->Digite o seu e-mail.
+(0037)Enter your email.-->Informe o seu e-mail.
 (0038)CREW KEY-->CHAVE DA TRIPULAÇÃO
-(0039)Upgrade weapons and RIG.-->Melhore as suas armas e seu DRI.
+(0039)Upgrade weapons and RIG.-->Melhore suas armas e seu DRI.
 (0040)Reconnect Power Modules Throughout Chamber-->Reconecte os Módulos de Energia da Câmara
 (0041)force gun-->arma de força
 (0042)Chapter 1:\nNew Arrivals-->Capítulo 1:\nRecém-Chegados
-(0043)Chapter 2:\nIntensive Care-->Capítulo 2:\nCuidados Intensivos
-(0044)Chapter 3:\nCourse Correction-->Capítulo 3:\nCorreção do Curso
+(0043)Chapter 2:\nIntensive Care-->Capítulo 2:\nTratamento Intensivo
+(0044)Chapter 3:\nCourse Correction-->Capítulo 3:\nCorreção de Curso
 (0045)Chapter 4:\nObliteration Imminent-->Capítulo 4:\nObliteração Iminente
 (0046)Chapter 5:\nLethal Devotion-->Capítulo 5:\nDevoção Letal
-(0047)Chapter 6:\nEnvironmental Hazard-->Capítulo 6:\nRiscos Ambientais
+(0047)Chapter 6:\nEnvironmental Hazard-->Capítulo 6:\nRisco Ambiental
 (0048)Chapter 7: \nInto the Void-->Capítulo 7: \nNo Vazio
-(0049)Chapter 8:\nSearch and Rescue-->Capítulo 8:\nBusca e Salvamento
-(0050)Chapter 9: \nDead on Arrival-->Capítulo 9: \nMorto na chegada
-(0051)QA Compliance Analyst-->Analista de Validação de Controle de Qualidade
+(0049)Chapter 8:\nSearch and Rescue-->Capítulo 8:\nBusca e Resgate
+(0050)Chapter 9: \nDead on Arrival-->Capítulo 9: \nMorto na Chegada
+(0051)QA Compliance Analyst-->Analista de Conformidade de Controle de Qualidade
 (0052)There are soldiers here, and they're trying to kill me. It's like they want to eliminate all evidence of this place - including me.\n\nBut some of the men I've seen aren't soldiers. I think they're working for this woman, Daina. And they want to rescue me. I'm going to follow her route out of here.-->Há soldados aqui, e eles estão tentando me matar. É como se eles quisessem eliminar todas as provas deste lugar - inclusive eu.\n\nMas alguns dos homens que eu vi não são soldados. Eu acho que eles estão trabalhando para essa mulher, Daina. E eles querem me salvar. Vou seguir a sua rota para sair fora daqui.
 (0053)Stay with your tour guide.\n\nPlease, no talking during church services.\n\nNo recording devices allowed.\n\nPlease remember to silence your RIG.-->Fique com o seu guia turístico.\n\nPor favor, não converse durante os cultos da igreja.\n\nNenhum dispositivo de gravação é permitido.\n\nLembre-se de silenciar o seu DRI.
 (0054)Senior VFX Artists-->Artista Sênior de Efeitos Visuais
