@@ -97,7 +97,7 @@
 (0097)Stasis Pack Schematic-->Diagrama de Kit de Estabilização
 (0098)Vendor-->Vendedor
 (0099)please wait-->Por favor, aguarde
-(0100)Use Kinesis to insert and remove Power Cells.-->Use a Cinética para inserir ou retirar células de energia.
+(0100)Use Kinesis to insert and remove Power Cells.-->Use a Cinética para inserir ou retirar Células de Energia.
 (0101-IGUAIS)1
 (0102)Unlocked with Collector's Edition-->Desbloqueado com a Edição de Colecionador
 (0103-IGUAIS)100\n\n90\n\n80\n\n70\n\n60
@@ -877,7 +877,7 @@
 (0877)Use kinesis to grab loose objects.   Kinesis only works on inanimate objects.-->Use a Cinética para pegar objetos soltos. A Cinética só funciona em objetos inanimados.
 (0878)Use kinesis to move and launch explosive canisters.  Warning:  canister will detonate on impact.-->Use a Cinética para movimentar e lançar granadas. Atenção: O tubo vai detonar com o impacto.
 (0879)Use kinesis to move and launch stasis canisters.   A stasis charge will detonate around them on impact.-->Use a Cinética para movimentar e lançar tubos de Estabilização. Uma carga de estabilização vai detonar com o impacto.
-(0880)Use Power nodes to upgrade your tools and RIG at any Workbench.-->Utiliza os nodos de energia para atualizar suas ferramentas e DRI em qualquer bancada
+(0880)Use Power nodes to upgrade your tools and RIG at any Workbench.-->Use os nodos de energia para atualizar suas ferramentas e DRI em qualquer bancada
 (0881)Use the same command to both launch and land in Zero-Gravity,-->Use o mesmo comando para ambos decolar e pousar na Gravidade Zero,
 (0882)Use your suit's boost feature for extra speed in Zero-Gravity,-->Use o recurso do traje para impulsionar velocidade extra na Gravidade Zero,
 (0883)Warning:  Breaking fuses will disable door locks.-->Atenção: Romper os fusíveis desativará as portas fechadas.
@@ -1178,7 +1178,7 @@
 (1178)Please Stand in Formation for Scan-->Mantenha-se em formação para Escanear
 (1179)Remember to Sync Your RIG-->Lembre-se de sincronizar seu DRI
 (1180)Power Node Access Only-->Acesso Somente com Nodo de Energia
-(1181)De-link Control Nodes Before Break-->Soltar nodos de controle antes da Pausa
+(1181)De-link Control Nodes Before Break-->Soltar Nodos de Controle antes da Pausa
 (1182)Sensitive Equipment: Maintain Negative Charge-->Equipamento Sensível: Mantenha a Carga Negativa
 (1183)WARNING: VOLATILE-->ALERTA: VOLÁTIL
 (1184)JAVELIN SPEARS-->DARDOS
@@ -1444,8 +1444,8 @@
 (1444)Chapter 4-->Capítulo 4
 (1445)Chapter 5-->Capítulo 5
 (1446)Chapter 6-->Capítulo 6 - 1Riscos Ambientais
-(1447)Chapter 7-->Capítulo 7
-(1448)Chapter 8-->Capítulo 8
+(1447)Chapter 7-->Capítulo 7 - 1No Vazio
+(1448)Chapter 8-->Capítulo 8 - 1Busca e Salvamento
 (1449)Chapter 9-->Capítulo 9
 (1450)Chapter 10-->Capítulo 10
 (1451)Chapter 11-->Capítulo 11
@@ -2434,7 +2434,7 @@
 (2434)sfx volume-->Volume dos Efeitos
 (2435)FORGED ENGINEERING SUIT-->TRAJE DE ENGENHARIA FORJADA
 (2436-IGUAIS) PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
-(2437)POWER NODE\nACQUIRED-->CÉLULA DE ENERGIA\nADQUIRIDA
+(2437)POWER NODE\nACQUIRED-->NODO DE ENERGIA\nADQUIRIDO
 (2438-IGUAIS)0
 (2439)The password is missing.-->Não foi introduzida uma senha.
 (2440-IGUAIS)99.9
@@ -3342,7 +3342,7 @@
 (3342)INDOCTRINATION-->DOUTRINAMENTO
 (3343-IGUAIS)Mitch Lockhart
 (3344)SHUTDOWN-->DESCONEXÃO
-(3345)Chapter 8-->Capitulo 8
+(3345)Chapter 8-->Capítulo 8 - 2Busca e Salvamento
 (3346)Global Online Studio-->Estudio Online Global
 (3347)Communication array offline.-->Antena de comunicações desligadas.
 (3348)Shows progress as you move around dishes-->Mostra os progressos enquanto você anda pelas parabólicas
@@ -5107,7 +5107,7 @@
 (5107)Prevent Disc from being delivered to Intel Room-->Impeça que o Disco seja entregue a Sala de Inteligência
 (5108-IGUAIS){g} - {v} XP
 (5109)Daina's on the opposite end of the Sprawl, and the fastest way across the station is the tram system. I need to get there before this chaos catches up with me.-->Daina está no lado oposto do Eixo, e o caminho mais rápido de toda a estação é o sistema de bonde. Eu preciso chegar lá antes que esse caos me encontre.
-(5110)Chapter 7-->Capítulo 7
+(5110)Chapter 7-->Capítulo 7 - 2No Vazio
 (5111)Well don't be shy about using it.   It will save your life.-->Não seja tímido em usá-lo. Isso vai salvar sua vida.
 (5112)CAUTION-->ATENÇÃO
 (5113)SOS BEACON-->SINALIZADOR DE SOS
@@ -5195,7 +5195,7 @@
 (5195)Kill Infectors quickly before they turn corpses into Necromorphs.-->Mate os Infectores rapidamente antes que eles tornem os cadáveres em Necromorfos.
 (5196)Experiment with different weapons and Alt Fire strategies, if a particular Necromorph proves too challenging.-->Experimente diversas estratégias e armas, se um Necromorfo em particular estiver muito desafiador.
 (5197)Use the Respec feature at Upgrade Benches to recover Power Nodes from one weapon, and apply them to a new one. Try different upgrade options to optimize Isaac's arsenal.-->Use a função Refazer em Bancos de Melhoria para recuperar Nodos de Energia de uma arma, e aplicá-las a outra. Tente diferentes opções de melhoria para otimizar o arsenal de Isaac.
-(5198)CEC advises all engineers to carry one Power Node with them at all times to unlock emergency supply rooms. Contents of these rooms can be random.-->CEC aconselha seus engenheiros sempre carregarem uma Célula de Energia com eles para destrancar salas de suprimentos de emergências. Os conteúdos dessas salas podem ser aleatórios.
+(5198)CEC advises all engineers to carry one Power Node with them at all times to unlock emergency supply rooms. Contents of these rooms can be random.-->CEC aconselha seus engenheiros sempre carregarem um Nodo de Energia com eles para destrancar salas de suprimentos de emergências. Os conteúdos dessas salas podem ser aleatórios.
 (5199)Are you sure you want to leave this playgroup?-->Tem certeza que deseja sair desse grupo de jogo?
 (5200)Co-Producer-->Co-Produtor
 (5201)SHUTTLE CONTROL-->CONTROLE DO TRANSPORTADOR
@@ -5856,7 +5856,7 @@
 (5856-IGUAIS)&
 (5857-IGUAIS)&
 (5858)I hope Ellie knows where she's going - this drill is our only chance to get to Government Sector in one piece.-->Espero que Ellie saiba aonde ela vai. Esta broca é a nossa única chance de chegar ao Setor Governamental em uma peça.
-(5859)A Circuit Node used to upgrade your Rig, Stasis, and Tools at the Bench.\n\nThe CEC advises all workers to keep a Power Node in their inventory to access node-locked doors.-->Um Nó de Circuito utilizado para atualizar seu DRI, a estabilização, e as ferramentas na bancada.\n\nA CEC aconselha a todos os trabalhadores para manter um nodo de energia em seu inventário para acessar as portas bloqueadas.
+(5859)A Circuit Node used to upgrade your Rig, Stasis, and Tools at the Bench.\n\nThe CEC advises all workers to keep a Power Node in their inventory to access node-locked doors.-->Um Nó de Circuito utilizado para atualizar seu DRI, a estabilização, e as ferramentas na bancada.\n\nA CEC aconselha a todos os trabalhadores para manter um Nodo de Energia em seu inventário para acessar as portas bloqueadas.
 (5860)move-->mover
 (5861)+health-->+saúde
 (5862)Initiate Tram Repairs-->Iniciar Reparaçõies do Monotrilho
@@ -6116,80 +6116,80 @@
 (6116)CONTACT ENERGY-->ENERGIA DE CONTATO
 (6117)NEW ITEM-->NOVO OBJETO
 (6118)STASIS STATION-->ESTAÇÃO DE ESTABILIZAÇÃO
-(6119)2-->Aperte
-(6120)Not enough space in safe.-->2
-(6121)%gPts.-->Não há espaço suficiente no cofre.
-(6122)Executive Thanks-->%gPts.
-(6123)Developer-->Agradecimentos Executivos
-(6124)   Reach the compound safe room.-->Desenvolvedor
-(6125)Deeka MacDonald-->   Vá para a sala de segurança do complexo.
-(6126)Force Gun Schematic-->Deeka MacDonald
-(6127)store-->Diagrama do Canhão de Energia
-(6128)Are you sure you want to restart from checkpoint? All progress since last checkpoint will be lost.-->armazém
-(6129)Bring this schematic to the store to unlock the Seeker Shells.-->Tem certeza que deseja reiniciar a partir do ponto de controle? Todos os progressos realizados desde o último ponto de controle serão perdidos.
-(6130)INSERT MIXING AGENTS-->Leve esse esquema até o armazém para desbloquear Projéteis Buscadores.
-(6131)assists-->INTRODUZIR AGENTES MESCLADORES
-(6132)Adjust slider until logo barely appears in the center of the screen.-->ajudas
-(6133) Johnny Sun-->Ajuste a barra deslizante até o logo mal aparecer no centro da tela.
-(6134)marker lab--> Johnny Sun
+(6119)2-->2
+(6120)Not enough space in safe.-->Não há espaço suficiente no cofre.
+(6121)%gPts.-->%gPts.
+(6122)Executive Thanks-->Agradecimentos Executivos
+(6123)Developer-->Desenvolvedor
+(6124)   Reach the compound safe room.-->   Vá para a sala de segurança do complexo.
+(6125)Deeka MacDonald-->Deeka MacDonald
+(6126)Force Gun Schematic-->Diagrama do Canhão de Energia
+(6127)store-->armazém
+(6128)Are you sure you want to restart from checkpoint? All progress since last checkpoint will be lost.-->Tem certeza que deseja reiniciar a partir do ponto de controle? Todos os progressos realizados desde o último ponto de controle serão perdidos.
+(6129)Bring this schematic to the store to unlock the Seeker Shells.-->Leve esse esquema até o armazém para desbloquear Projéteis Buscadores.
+(6130)INSERT MIXING AGENTS-->INTRODUZIR AGENTES MESCLADORES
+(6131)assists-->ajudas
+(6132)Adjust slider until logo barely appears in the center of the screen.-->Ajuste a barra deslizante até o logo mal aparecer no centro da tela.
+(6133) Johnny Sun--> Johnny Sun
+(6134)marker lab-->laboratório do marker
 (6135)marker lab-->laboratório do marker
-(6136)Large Ammo Pack-->laboratório do marker
-(6137)execution-->Pacote de Munição Grande
-(6138)Character Director-->execução
-(6139)POWERING UP-->Diretor de Peronagem
-(6140)Resolution-->ATIVANDO
-(6141)WORSENING CONDITION-->Resolução
-(6142)2-->WORSENING CONDITION
-(6143)Jonathan Simas-->2
-(6144)unlock at level {g}-->Jonathan Simas
-(6145)You Have Died-->desbloqueável no nível {g}
-(6146){g}/{h}-->Você Morreu
-(6147)LOCKDOWN-->{g}/{h}
-(6148)Senior Technical Artists-->BLOQUEIO
-(6149)Personal Log: Howard Phillips\nRecord number: 497\n\nThey hate me.  They all hate me.   I can see them all.  They're everywhere now, just perched, watching me.   Even ANTI.  She's just waiting until old Howards Phillips finally goes crazy and snaps, like he did when he let the birds out, violated all the codes, broke all the rules.   I'll show them crazy, I'll show them what it takes to get out of here.  They'll have to come up here and clean up all this blood, and then what rules will they make?  I'll break those too.  I'm going to go lay down, I don't feel right. -->Artistas Técnicos Sênior
-(6150)FLASH LIGHT-->Registro Pessoal: Howard Phillips\nNúmero de registro: 497\n\nEles me odeiam.  Todos eles me odeiam.   Posso ver todos eles.  Estão por toda parte agora, apenas empoleirados, me observando.   Até ANTI.  Ela está só esperando que o velho Howards Phillips, finalmente fique louco e diga rispidamente, como ele fez quando ele soltou os pássaros, violou todos os códigos, quebrou todas as regras.   Eu lhes darei loucura, lhes ensinarei o que é preciso para sair daqui.  Eles terão que vir aqui e limpar todo esse sangue, e então, que regras eles criarão?  Eu quebrarei essas também.  Eu vou ficar deitado, eu não me sinto bem. 
-(6151)+{n} TRIPLE KILL-->LANTERNA
-(6152),-->+{n} BAIXA TRIPLA
+(6136)Large Ammo Pack-->Pacote de Munição Grande
+(6137)execution-->execução
+(6138)Character Director-->Diretor de Peronagem
+(6139)POWERING UP-->ATIVANDO
+(6140)Resolution-->Resolução
+(6141)WORSENING CONDITION-->CONDIÇÃO PIORANDO
+(6142)2-->2
+(6143)Jonathan Simas-->Jonathan Simas
+(6144)unlock at level {g}-->desbloqueável no nível {g}
+(6145)You Have Died-->Você Morreu
+(6146){g}/{h}-->{g}/{h}
+(6147)LOCKDOWN-->BLOQUEIO
+(6148)Senior Technical Artists-->Artistas Técnicos Sênior
+(6149)Personal Log: Howard Phillips\nRecord number: 497\n\nThey hate me.  They all hate me.   I can see them all.  They're everywhere now, just perched, watching me.   Even ANTI.  She's just waiting until old Howards Phillips finally goes crazy and snaps, like he did when he let the birds out, violated all the codes, broke all the rules.   I'll show them crazy, I'll show them what it takes to get out of here.  They'll have to come up here and clean up all this blood, and then what rules will they make?  I'll break those too.  I'm going to go lay down, I don't feel right. -->Registro Pessoal: Howard Phillips\nNúmero de registro: 497\n\nEles me odeiam.  Todos eles me odeiam.   Posso ver todos eles.  Estão por toda parte agora, apenas empoleirados, me observando.   Até ANTI.  Ela está só esperando que o velho Howards Phillips, finalmente fique louco e diga rispidamente, como ele fez quando ele soltou os pássaros, violou todos os códigos, quebrou todas as regras.   Eu lhes darei loucura, lhes ensinarei o que é preciso para sair daqui.  Eles terão que vir aqui e limpar todo esse sangue, e então, que regras eles criarão?  Eu quebrarei essas também.  Eu vou ficar deitado, eu não me sinto bem. 
+(6150)FLASH LIGHT-->LANTERNA
+(6151)+{n} TRIPLE KILL-->+{n} BAIXA TRIPLA
+(6152),-->,
 (6153-IGUAIS),
-(6154)<-->,
+(6154)<<--><
 (6155-IGUAIS)<
-(6156)INACTIVE--><
-(6157)Character Craft Director-->INATIVO
-(6158)9-->Diretor de Criação de Personagem
-(6159)TOUR STAFF-->9
-(6160)TWO TINES-->AGENTES TURÍSTICOS
-(6161)PERIAPSIS-->DUAS PONTAS
-(6162)RECRUIT TEST RESULTS-->PERIAPSIS
-(6163)STUCK COFFINS-->RESULTADOS DO TESTE DE RECRUTAMENTO
-(6164)THAWED BODIES-->CAIXÕES PRESOS
-(6165)STAND BY-->CORPOS DESCONGELADOS
-(6166)Purchase an Online Pass if your original code has already been used.-->EM ESPERA
-(6167)Solid Viral Blue-->Compra um Passe On-line se o seu código original já foi usado.
-(6168)consumer demo unlock-->Azul Viral Sólido
-(6169)The Triage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: a 5% increase in Stasis duration.\nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.-->desbloqueio do demo do consumidor
-(6170)Earthgov:  Good Things Are Happening!-->O Traje de Seleção concede uma funcionalidade única para quem o usa:\n• [c=CUSTOM3] Bônus de Estabilização [c=RESET]: um aumento de 5% na duração da Estabilização.\nSua compra garante um mínimo de 15 slots de inventário e 15% armadura. Seu DRI conserva a maior melhoria de Armadura e Inventário.
-(6171)CALL ATTENDANT-->Governo da Terra:  Estão Passando Coisas Boas!
-(6172)Several Units Available-->CHAMAR ASSISTENTE
-(6173)Power Node Access Only-->Várias Unidades Disponíveis
-(6174)WARNING: DAMAGE DETECTED -->Acesso Exclusivo com Nodo de Energia
-(6175)Authorized Engineers Only-->ALERTA: DANOS DETECTADOS 
+(6156)INACTIVE-->INATIVO
+(6157)Character Craft Director-->Diretor de Criação de Personagem
+(6158)9-->9
+(6159)TOUR STAFF-->AGENTES TURÍSTICOS
+(6160)TWO TINES-->DUAS PONTAS
+(6161)PERIAPSIS-->PERIAPSIS
+(6162)RECRUIT TEST RESULTS-->RESULTADOS DO TESTE DE RECRUTAMENTO
+(6163)STUCK COFFINS-->CAIXÕES PRESOS
+(6164)THAWED BODIES-->CORPOS DESCONGELADOS
+(6165)STAND BY-->EM ESPERA
+(6166)Purchase an Online Pass if your original code has already been used.-->Compra um Passe On-line se o seu código original já foi usado.
+(6167)Solid Viral Blue-->Azul Viral Sólido
+(6168)consumer demo unlock-->desbloqueio do demo do consumidor
+(6169)The Triage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: a 5% increase in Stasis duration.\nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.-->O Traje de Seleção concede uma funcionalidade única para quem o usa:\n• [c=CUSTOM3] Bônus de Estabilização [c=RESET]: um aumento de 5% na duração da Estabilização.\nSua compra garante um mínimo de 15 slots de inventário e 15% armadura. Seu DRI conserva a maior melhoria de Armadura e Inventário.
+(6170)Earthgov:  Good Things Are Happening!-->Governo da Terra:  Estão Passando Coisas Boas!
+(6171)CALL ATTENDANT-->CHAMAR ASSISTENTE
+(6172)Several Units Available-->Várias Unidades Disponíveis
+(6173)Power Node Access Only-->Acesso Exclusivo com Nodo de Energia
+(6174)WARNING: DAMAGE DETECTED -->ALERTA: DANOS DETECTADOS 
+(6175)Authorized Engineers Only-->Só Engenheiros Autorizados
 (6176)Authorized Engineers Only-->Só Engenheiros Autorizados
-(6177)Employees Please Check In with Foreman-->Só Engenheiros Autorizados
-(6178)Authorized Engineers Only-->Empregados, Por favor, apresentem-se ao Encarregado
-(6179)THIS AREA IS LOCKED DOWN-->Só Engenheiros Autorizados
-(6180)Trains Delayed. Limited Service Available.-->ESTÁ ÁREA ESTÁ BLOQUEADA
-(6181)Authorized Engineers Only-->Trens Atrasados. Serviço Limitado Disponível.
-(6182)CALL ATTENDANT-->Só Engenheiros Autorizados
-(6183)CEC Employees Only-->CHAMAR ASSISTENTE
-(6184)WARNING: SOLAR ARRAY IS OFFLINE-->Só Empregados da CEC
-(6185)Cartridge of Rapid-ejection Bolts for the Rivet Gun.\n - Inventory Slot Stack Size: 30-->ALERTA: O PAINEL SOLAR ESTÁ DESATIVADO
-(6186)Shoot red tip to move objects.-->Cartucho de Rebites de Ejeção Rápida para o Rebitador\n - Tamanho do Bloco de  Slot do Inventário: 30
-(6187)1,000 Credits-->Atire na ponta vermelha para mover objetos.
-(6188)   Get to to the Tram Station.-->1,000 Créditos
-(6189)escape-->   Vá para a Estação de Monotrilho.
-(6190)IMPACT DETECTED-->fugir
-(6191)GUIDANCE SYSTEM MALFUNCTION-->IMPACTO DETECTADO
-(6192)Xbox LIVE Marketplace-->ERRO NO SISTEMA DE ORIENTAÇÃO
+(6177)Employees Please Check In with Foreman-->Empregados, Por favor, apresentem-se ao Encarregado
+(6178)Authorized Engineers Only-->Só Engenheiros Autorizados
+(6179)THIS AREA IS LOCKED DOWN-->ESTÁ ÁREA ESTÁ BLOQUEADA
+(6180)Trains Delayed. Limited Service Available.-->Trens Atrasados. Serviço Limitado Disponível.
+(6181)Authorized Engineers Only-->Só Engenheiros Autorizados
+(6182)CALL ATTENDANT-->CHAMAR ASSISTENTE
+(6183)CEC Employees Only-->Só Empregados da CEC
+(6184)WARNING: SOLAR ARRAY IS OFFLINE-->ALERTA: O PAINEL SOLAR ESTÁ DESATIVADO
+(6185)Cartridge of Rapid-ejection Bolts for the Rivet Gun.\n - Inventory Slot Stack Size: 30-->Cartucho de Rebites de Ejeção Rápida para o Rebitador\n - Tamanho do Bloco de  Slot do Inventário: 30
+(6186)Shoot red tip to move objects.-->Atire na ponta vermelha para mover objetos.
+(6187)1,000 Credits-->1,000 Créditos
+(6188)   Get to to the Tram Station.-->Vá para a Estação de Monotrilho.
+(6189)escape-->fugir   
+(6190)IMPACT DETECTED-->IMPACTO DETECTADO
+(6191)GUIDANCE SYSTEM MALFUNCTION-->ERRO NO SISTEMA DE ORIENTAÇÃO
+(6192)Xbox LIVE Marketplace-->Xbox LIVE Marketplace
 (6193)///loading USG Ishumura Transnet module...-->///carregando módulo Transnet da USG Ishumura...
 (6194)///welcome back Nicole Brennan\n////Senior Medical Officer \n-->///Bem-vinda de volta Nicole Brennan\n////Oficial Médica Superior\n
 (6195)//EARTH-EURASI-034-XC-350-036\n///call initiated...-->//TERRA-EURASI-034-XC-350-036\n///chamada iniciada...
