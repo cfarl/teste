@@ -1,10 +1,10 @@
 (0001-IGUAIS)System-Related Commands dummy help
 (0002)Select No to replace with a currently held item from the party inventory.-->Selecione Não para substituir com um item atualmente guardado no inventário do grupo.
-(0003)Select item to discard.-->Selecione item para descartar.
+(0003)Select item to discard.-->Selecione o item para descartar.
 (0004)View or change Rush's equipment.-->Ver ou mudar o equipamento do Rush.
 (0005)View Rush's arts.-->Ver artes do Rush.
-(0006)View or change unions.-->Ver ou mudar uniões.
-(0007)View party member status.-->Ver status do membro do grupo.
+(0006)View or change unions.-->Ver ou modificar grupos.
+(0007)View party member status.-->Ver detalhes do membro do grupo.
 (0008)View party inventory.-->Ver inventário do grupo.
 (0009)View task list or Mr. Diggs's status.-->Ver lista de tarefas ou status do Mr. Diggs's.
 (0010)Save and load game, or change game settings.-->Salvar e carregar jogo, ou mudar configurações do jogo.
@@ -12,135 +12,135 @@
 (0012)View party's weapons and shields.-->Ver armas e escudos do grupo.
 (0013)No weapons or shields in inventory.-->Não há armas ou escudos no inventário.
 (0014)View party's accessories.-->Ver acessórios do grupo.
-(0015)No accessories in inventory.-->Não há accessorios no inventário.
+(0015)No accessories in inventory.-->Não há acessórios no inventário.
 (0016)View party's consumables.-->Ver consumíveis do grupo.
 (0017)No consumables in inventory.-->Não há consumíveis no inventário.
 (0018)View party's components.-->Ver componentes do grupo.
 (0019)No components in inventory.-->Não há componentes no inventário.
 (0020)View party's captured monsters.-->Ver monstros capturados pelo grupo.
-(0021)No monsters are presently captured.-->Não há mostros atualmente capturados.
+(0021)No monsters are presently captured.-->No momento não há mostros capturados.
 (0022)View party's special items.-->Ver itens especiais do grupo.
 (0023)No special items in inventory.-->Não há itens especiais no inventário.
 (0024)Select a slot to change its equipment.-->Selecione um slot para mudar esse equipamento.
 (0025)Please equip something to the main slot.-->Por favor equipe algo no slot principal.
-(0026)Select item to equip.-->Selecione item para equipar.
+(0026)Select item to equip.-->Selecione o item para equipar.
 (0027)If you equip a two-handed item, the sub slot will become unusable.-->Se você equipar um item de duas mãos, o slot secundário vai se tornar inutilizável.
-(0028)Rush cannot equip this item.-->Rush não pode ser equipado com este item.
-(0029)This item can only be equipped in the main slot.-->Este item pode ser equipado somente no slot principal.
-(0030)This item can only be equipped in the sub slot.-->Este item pode ser equipado somente no slot secundário.
+(0028)Rush cannot equip this item.-->Rush não pode ser equipado com esse item.
+(0029)This item can only be equipped in the main slot.-->Esse item só pode ser equipado no slot principal.
+(0030)This item can only be equipped in the sub slot.-->Este item só pode ser equipado no slot secundário.
 (0031)Remove current equipment and return it to the party inventory.-->Remover o equipamento atual e retorná-lo para o inventário do grupo.
-(0032)The main slot cannot be empty.-->O slot principal não pode estar vazio.
-(0033)This item cannot be changed or removed.-->Este item não pode ser alterado ou removido.
-(0034)Equip this item.-->Equipe este item.
-(0035)Rush cannot equip this item.-->Rush não pode equipar este item.
-(0036)Discard this item.-->Descarte este item.
-(0037)This item cannot be discarded.-->Este item não pode ser descartado.
-(0038)Discarded items cannot be returned. Think carefully before discarding items.-->Itens descartados não podem ser retornados. Pense cuidadosamente antes de descartar itens.
-(0039)Create a union.-->Criar uma união.
-(0040)There are no reserve leaders to create a union.-->Não há líderes de reserva para criar uma união.
-(0041)A union cannot be created because the maximum leader capacity per battle has already been reached.-->Uma união não pode ser criada porque a capacitade máxima de líderes por batalha já foi alcançada.
-(0042)View status of union members.-->Ver status dos membros da união.
-(0043)Change union formation.-->Mudar a formação da união.
-(0044)Change union members.-->Mudar membros da união.
-(0045)Disband union and change units to reserve member status.-->Dispersar a união e alterar unidades para reservar o status de membro.
-(0046)Select unit to view status.-->Selecione unidade para ver status.
+(0032)The main slot cannot be empty.-->O slot principal não pode ficar vazio.
+(0033)This item cannot be changed or removed.-->Esse item não pode ser alterado ou removido.
+(0034)Equip this item.-->Equipar esse item.
+(0035)Rush cannot equip this item.-->Rush não pode equipar esse item.
+(0036)Discard this item.-->Descartar esse item.
+(0037)This item cannot be discarded.-->Esse item não pode ser descartado.
+(0038)Discarded items cannot be returned. Think carefully before discarding items.-->Itens descartados não podem ser recuperados. Pense com cuidado antes de descartar um item.
+(0039)Create a union.-->Criar uma grupo.
+(0040)There are no reserve leaders to create a union.-->Não há líderes de reserva para criar um grupo.
+(0041)A union cannot be created because the maximum leader capacity per battle has already been reached.-->Um grupo não pode ser criado porque a capacitade máxima de líderes por batalha já foi alcançada.
+(0042)View status of union members.-->Ver detalhes dos membros do grupo.
+(0043)Change union formation.-->Mudar a formação do grupo.
+(0044)Change union members.-->Mudar membros do grupo.
+(0045)Disband union and change units to reserve member status.-->Ao dissolver o grupo seus membros serão colocados na reserva.
+(0046)Select unit to view status.-->Selecione um personagem para ver seu status.
 (0047)This slot is empty.-->Esse slot está vazio.
-(0048)Disbanding the union will change the attached units to reserve member status.-->Dispersar a união vai alterar as unidades anexadas para reservar o status de membro.
-(0049)Select a formation for the union.-->Selecione uma formação para a união.
-(0050)Select unit to confirm status.-->Selecione unidade para confirmar status.
-(0051)Choose a union leader.-->Escolher um líder para a união.
-(0052)Choose a unit for position 2.-->Escolher uma unidade para posição 2.
-(0053)Choose a unit for position 3.-->Escolher uma unidade para posição 3.
-(0054)Choose a unit for position 4.-->Escolher uma unidade para posição 4.
-(0055)Choose a unit for position 5.-->Escolher uma unidade para posição 5.
-(0056)Select union to change order.-->Selecione uma união para mudar a ordem.
-(0057)Select position to move this union.-->Selecione uma posição para mover essa união.
-(0058)This unit cannot be selected because the maximum leader capacity per battle has already been reached.-->Essa unidade não pode ser selecionada porque o número máximo de líderes por batalha já foi alcançado.
-(0059)This unit cannot be selected because the maximum unit capacity per battle has already been reached.-->Essa unidade não pode ser selecionada porque o número máximo de unidades por batalha já foi alcançado.
-(0060)This unit must be in a union.-->Essa unidade deve estar em uma união.
-(0061)Skip the positioning of the specified number's unit.-->Ignorar o posicionamento da unidade do número especificado.
+(0048)Disbanding the union will change the attached units to reserve member status.-->Ao dissolver o grupo seus membros serão colocados na reserva.
+(0049)Select a formation for the union.-->Selecione uma formação para o grupo.
+(0050)Select unit to confirm status.-->Selecione um personagem para confirmar.
+(0051)Choose a union leader.-->Escolher um líder para o grupo.
+(0052)Choose a unit for position 2.-->Escolher um personagem para a posição 2.
+(0053)Choose a unit for position 3.-->Escolher um personagem para a posição 3.
+(0054)Choose a unit for position 4.-->Escolher um personagem para a posição 4.
+(0055)Choose a unit for position 5.-->Escolher um personagem para a posição 5.
+(0056)Select union to change order.-->Selecione um grupo para mudar a ordem.
+(0057)Select position to move this union.-->Selecione uma posição para mover esse grupo.
+(0058)This unit cannot be selected because the maximum leader capacity per battle has already been reached.-->Esse personagem não pode ser selecionado porque o número máximo de líderes por batalha já foi alcançado.
+(0059)This unit cannot be selected because the maximum unit capacity per battle has already been reached.-->Esse personagem não pode ser selecionado porque o número máximo de unidades por batalha já foi alcançado.
+(0060)This unit must be in a union.-->Esse personagem deve estar em um grupo.
+(0061)Skip the positioning of the specified number's unit.-->Ignorar o posicionamento do personagem do número especificado.
 (0062)Change equipment.-->Alterar equipmento.
-(0063)View equipment.-->Ver equipmento.
-(0064)View learned arts.-->Ver artes aprendidas.
-(0065)View inventory.-->Ver inventário.
-(0066)View details of accepted tasks.-->Ver detalhes das tarefas aceitas.
+(0063)View equipment.-->Verificar equipmento.
+(0064)View learned arts.-->Verificar artes aprendidas.
+(0065)View inventory.-->Verificar inventário.
+(0066)View details of accepted tasks.-->Verificar detalhes das tarefas aceitas.
 (0067)Check Mr. Diggs's status.-->Verificar status do Mr. Diggs.
 (0068)Select slot to save to.-->Selecione um slot para salvar.
-(0069)Select data to load.-->Selecione dados para carregar.
+(0069)Select data to load.-->Selecione os dados para carregar.
 (0070)There is insufficient space on the storage device. New data cannot be created.-->Não há espaço suficiente no dispositivo de armazenamento. Novos dados não podem ser criados.
-(0071)Save progress.-->Salve progresso.
+(0071)Save progress.-->Salvando progresso.
 (0072)You must sign in when starting the game in order to save.-->Você deve fazer o login ao iniciar o jogo para salvar.
 (0073)Adjust game settings.-->Ajustar as configurações do jogo.
 (0074)Sort in the default order.-->Ordenar na ordem padrão.
 (0075)Sort by level.-->Ordenar por nível.
 (0076)Sort by size.-->Ordenar por tamanho.
-(0077)Sort by attack power [ATK].-->Ordenar por poder de ataque [ATK].
-(0078)Sort by mystic power [MYS].-->Ordenar por poder mágico [MYS].
+(0077)Sort by attack power [ATK].-->Ordenar por poder de ataque [ATQ].
+(0078)Sort by mystic power [MYS].-->Ordenar por poder místico [MIS].
 (0079)Sort by physical defense [DEF].-->Ordenar por defesa física [DEF].
-(0080)Sort by mystic defense [M. DEF].-->Ordenar por defesa mágica [M. DEF].
+(0080)Sort by mystic defense [M. DEF].-->Ordenar por defesa mística [DEF M.].
 (0081)Sort by physical evasion [EVA].-->Ordenar por evasão física [EVA].
-(0082)Sort by mystic evasion [M. EVA].-->Ordenar por evasão mágica [M. EVA].
+(0082)Sort by mystic evasion [M. EVA].-->Ordenar por evasão mística [EVA M.].
 (0083)Sort by max HP.-->Ordenar por max HP.
 (0084)Sort by max AP.-->Ordenar por max AP.
-(0085)Sort by AP bonus.-->Ordenar por bonus de AP.
-(0086)Sort by Strength bonus.-->Ordenar por bonus de força.
-(0087)Sort by Intellect bonus.-->Ordenar por bonus de inteligência.
-(0088)Sort by Speed bonus.-->Ordenar por bonus de velocidade.
-(0089)Sort by number held.-->Ordenar por número mantido.
+(0085)Sort by AP bonus.-->Ordenar por bônus de AP.
+(0086)Sort by Strength bonus.-->Ordenar por bônus de força.
+(0087)Sort by Intellect bonus.-->Ordenar por bônus de inteligência.
+(0088)Sort by Speed bonus.-->Ordenar por bônus de velocidade.
+(0089)Sort by number held.-->Ordenar pelo número de guardados.
 (0090)Change the order of members to the default order.-->Alterar a ordem dos membros para a ordem padrão.
 (0091)Sort members by HP.-->Ordenar membros por HP.
 (0092)Sort members by AP.-->Ordenar membros por AP.
-(0093)Sort members by strength [STR].-->Ordenar membros por força [STR].
+(0093)Sort members by strength [STR].-->Ordenar membros por força [FOR].
 (0094)Sort members by intellect [INT].-->Ordenar membros por inteligência [INT].
-(0095)Sort members by speed [SPD].-->Ordenar membros por velocidade [SPD].
-(0096)Sort members by attack power [ATK].-->Ordenar membros por poder de ataque [ATK].
-(0097)Sort members by mystic power [MYS].-->Ordenar membros poder mágico [MYS].
-(0098)Sort members by physical defense [DEF].-->Ordenar membros por defesa mágica [DEF].
-(0099)Sort members by mystic defense [M. DEF].-->Ordenar membros por defesa mágica [M. DEF].
+(0095)Sort members by speed [SPD].-->Ordenar membros por velocidade [VLC].
+(0096)Sort members by attack power [ATK].-->Ordenar membros por poder de ataque [ATQ].
+(0097)Sort members by mystic power [MYS].-->Ordenar membros poder místico [MIS].
+(0098)Sort members by physical defense [DEF].-->Ordenar membros por defesa física [DEF].
+(0099)Sort members by mystic defense [M. DEF].-->Ordenar membros por defesa mística [DEF M.].
 (0100)Sort by selling price.-->Ordenar por preço de venda.
 (0101)Sort by disassembly cost.-->Ordenar por custo de desmontagem.
 (0102)Sort by purchase price.-->Ordenar por preço de compra.
 (0103)Sort by creation cost.-->Ordenar por custo de criação.
-(0104)Sort members by AP bonus.-->Ordenar membros por bonus de AP.
+(0104)Sort members by AP bonus.-->Ordenar membros por bônus de AP.
 (0105)Sort members by recruitment cost.-->Ordenar membros por custo de recrutamento.
 (0106)Set screen brightness level.-->Define o nível de brilho da tela.
 (0107)Set subtitle settings.-->Define as configurações de legendas.
 (0108)Change settings for the navigation map. Fixed indicates fixed orientation. Set to Rotate, the map will move to match the direction Rush is facing.-->Altera as configurações para o mapa de navegação. Fixo indica orientação fixa. Definido para girar, o mapa vai se mover para a direção em que o Rush está olhando.
 (0109)Set main volume.-->Define o volume principal.
-(0110)Set the volume for background music. This does not affect the background music in the event scenes.-->Define o volume para música de fundo. Isso não afeta a música de fundo nas cenas de eventos.
+(0110)Set the volume for background music. This does not affect the background music in the event scenes.-->Define o volume para a música de fundo. Isso não afeta a música de fundo nas cenas de eventos.
 (0111)Set the volume for sound effects. This does not affect the sound effects in the event scenes.-->Define o volume para efeitos sonoros. Isso não afeta os efeitos sonoros nas cenas de eventos.
 (0112)Set the volume for spoken dialogue. This does not affect the voices in the event scenes.-->Define o volume para diálogos falados. Isso não afeta as vozes nas cenas de eventos.
-(0113)Set the horizontal axis control of the camera.\nNormal\nwill turn the camera in the same direction the right stick is pressed, while\nInverse\nwill do the opposite.-->Define o controle do eixo horizontal da câmera.\nNormal\nvai virar a câmera na mesma direção em que o controle direito foi pressionado, enquanto\nInvertido\nvai fazer o oposto.
-(0114)Set the vertical axis control of the camera.\nNormal\nwill turn the camera in the same direction the right stick is pressed, while\nInverse\nwill do the opposite.-->Define o controle do eixo vertical da câmera.\nNormal\nvai virar a câmera na mesma direção em que o controle direito foi pressionado, enquanto\nInvertido\nvai fazer o oposto.
+(0113)Set the horizontal axis control of the camera.\nNormal\nwill turn the camera in the same direction the right stick is pressed, while\nInverse\nwill do the opposite.-->Define o controle do eixo horizontal da câmera.\nNormal\nvai virar a câmera na mesma direção em que o direcional direito foi pressionado, enquanto\nInvertido\nvai fazer o oposto.
+(0114)Set the vertical axis control of the camera.\nNormal\nwill turn the camera in the same direction the right stick is pressed, while\nInverse\nwill do the opposite.-->Define o controle do eixo vertical da câmera.\nNormal\nvai virar a câmera na mesma direção em que o direcional direito foi pressionado, enquanto\nInvertido\nvai fazer o oposto.
 (0115)Set camera sensitivity.-->Define a sensibilidade da câmera.
 (0116)Enable first-person view.-->Habilita a visão em primeira pessoa.
-(0117)Set the horizontal axis control of the first-person camera.\nNormal\nwill move the camera in the same direction the right stick is pressed, while\nInverse\nwill do the opposite.-->Define o controle do eixo horizontal da câmera em primeira pessoa.\nNormal\nvai virar a câmera na mesma direção em que o controle direito foi pressionado, enquanto\nInvertido\nvai fazer o oposto.
-(0118)Set the vertical axis control of the first-person camera.\nNormal\nwill move the camera in the same direction the right stick is pressed, while\nInverse\nwill do the opposite.-->Define o controle do eixo vertical da câmera em primeira pessoa.\nNormal\nai virar a câmera na mesma direção em que o controle direito foi pressionado, enquanto\nInvertido\nvai fazer o oposto.
+(0117)Set the horizontal axis control of the first-person camera.\nNormal\nwill move the camera in the same direction the right stick is pressed, while\nInverse\nwill do the opposite.-->Define o controle do eixo horizontal da câmera em primeira pessoa.\nNormal\nvai virar a câmera na mesma direção em que o direcional direito foi pressionado, enquanto\nInvertido\nvai fazer o oposto.
+(0118)Set the vertical axis control of the first-person camera.\nNormal\nwill move the camera in the same direction the right stick is pressed, while\nInverse\nwill do the opposite.-->Define o controle do eixo vertical da câmera em primeira pessoa.\nNormal\nai virar a câmera na mesma direção em que o direcional direito foi pressionado, enquanto\nInvertido\nvai fazer o oposto.
 (0119)Set first-person camera sensitivity.-->Define a sensibilidade da câmera em primeira pessoa.
 (0120)Set the camera to automatically follow Rush. When set to\nNo\n, the player will be able to adjust the camera manually.-->Faz a câmera seguir automaticamente o Rush. Quando definido para\nNão\n, o jogador vai ser capaz de ajustar a câmera manualmente.
-(0121)Set the way Critical Triggers are launched when on the offense. Set to Auto, the player does not need to press a button; Triggers will occur randomly.-->Define o modo como Disparadores Críticos são disparados quando ocorre uma ofensa. Definido para Auto, o jogador não precisa pressionar um botão; Disparadores vão ocorrer randomicamente.
-(0122)Set the way Critical Triggers are launched when on the defense. Set to Auto, the player does not need to press a button; Triggers will occur randomly.-->Define o modo como Disparadores Críticos são disparados quando ocorre uma defesa. Definido para Auto, o jogador não precisa pressionar um botão; Disparadores vão ocorrer randomicamente.
+(0121)Set the way Critical Triggers are launched when on the offense. Set to Auto, the player does not need to press a button; Triggers will occur randomly.-->Define a maneira como Disparadores Críticos são ativados quando ocorre uma ofensa. Definido para Auto, o jogador não precisa pressionar um botão; Disparadores vão ocorrer randomicamente.
+(0122)Set the way Critical Triggers are launched when on the defense. Set to Auto, the player does not need to press a button; Triggers will occur randomly.-->Define a maneira como Disparadores Críticos são ativados quando ocorre uma defesa. Definido para Auto, o jogador não precisa pressionar um botão; Disparadores vão ocorrer randomicamente.
 (0123)Display a warning if entered battle commands will cancel Deadlock.-->Exibe um aviso se os comandos de batalha vão cancelar um Deadlock.
 (0124)Set controller vibration. To use the vibration function, the main system settings must be set to allow this.-->Define a vibração do controle. Para usar a função vibrar, as configurações principais do sistema devem ser ativadas de maneira a permitir isso.
 (0125)Reset to the default settings.-->Voltar para as configurações padrão.
 (0126)Exit Config Menu.-->Sair do Menu de Configurações.
-(0127)Set battle result warning for taking apart captured monsters.-->Define aviso de resultado da batalha para desmontar monstros capturados.
+(0127)Set battle result warning for taking apart captured monsters.-->Mostra aviso com o resultado da batalha para obter componentes de monstros capturados.
 (0128)Select the guild task you have completed to receive a reward.-->Selecione a tarefa da guilda que foi completada para receber uma recompensa.
 (0129)Select a guild task to view its details.-->Selecione uma tarefa da guilda para ver seus detalhes.
 (0130)Select a leader to join the party.-->Selecione um líder para se juntar ao grupo.
 (0131)Not enough funds for this leader join the party.-->Não há fundos suficientes para esse líder se juntar ao grupo.
 (0132)Select a leader to remove from the party.-->Selecione um líder para remover do grupo.
 (0133)This leader cannot be removed from the party.-->Esse líder não pode ser removido do grupo.
-(0134)The units will become reserve members.-->As unidades vão se tornar membros reservas.
-(0135)This Athlumian Soldier cannot be removed from the party at this time.-->Esse Soldado Athlumiano não pode ser removido do grupo neste momento.
-(0136)Select an Athlumian Soldier to join the party.-->Selecione um Soldado Athlumiano para se juntar ao grupo.
-(0137)Select an Athlumian Soldier to remove from the party.-->Selecione um Soldado Athlumiano para remover do grupo.
+(0134)The units will become reserve members.-->Os personagens vão se tornar membros da reserva. 
+(0135)This Athlumian Soldier cannot be removed from the party at this time.-->Esse soldado de Athlum não pode ser removido do grupo nesse momento.
+(0136)Select an Athlumian Soldier to join the party.-->Selecione um soldado de Athlum para se juntar ao grupo.
+(0137)Select an Athlumian Soldier to remove from the party.-->Selecione um soldado de Athlum para remover do grupo.
 (0138)A leader cannot be removed from the party at this time.-->Um líder não poder ser removido do grupo neste momento.
-(0139)The guild task has been completed! Your reward awaits!-->A tarefa da guilda foi completada! Sua recompensa o aguarda!
+(0139)The guild task has been completed! Your reward awaits!-->A tarefa da guilda foi concuída! Sua recompensa o aguarda!
 (0140)Canceling Deadlock will result in no party defenses.-->Cancelar um Deadlock vai resultar na falta de defesa do grupo.
 (0141)Select Art to learn.-->Selecione uma Arte para aprender.
-(0142)Choose which items to obtain, or split captured monsters.-->Escolha quais itens obter, ou desmonte monstros capturados.
-(0143)Monsters that are intact can be sold for a fair amount of money.-->Monstros que não estão intactos podem ser vendidos por uma quantia razoável de dinheiro.
-(0144)You can grab items for yourself, or give them to others.-->Você pode pegar itens para si mesmo, ou dá-los para os outros.
+(0142)Choose which items to obtain, or split captured monsters.-->Escolha quais itens obter, ou se deseja obter componentes dos monstros capturados.
+(0143)Monsters that are intact can be sold for a fair amount of money.-->Monstros que estão intactos podem ser vendidos por uma quantia razoável de dinheiro.
+(0144)You can grab items for yourself, or give them to others.-->Você pode pegar itens para si mesmo, ou pode dá-los para os outros.
 (0145)Obtained treasure!-->Obteve um tesouro!
 (0146-IGUAIS)
