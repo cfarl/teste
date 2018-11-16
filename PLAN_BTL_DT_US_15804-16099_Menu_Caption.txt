@@ -4,7 +4,7 @@ Possui
 Equipamento
 Acessórios
 Tipo
-Dano
+Modificador
 Tamanho
 Efeito
 ATQ
@@ -19,7 +19,7 @@ AP INICIAL
 Força
 Inteligência
 Velocidade
-Grupo
+Grupos
 Líderes
 Máx.
 HP
@@ -48,7 +48,7 @@ BÔNUS
 Menu dummy text
 Sim
 Não
-Mostrar Todos
+Todos
 Mercadorias
 Especialidades
 Equipamento
@@ -67,14 +67,14 @@ Notas
 Sistema
 Sair do jogo
 Missões
-Detalhes do Mr. Diggs
+Status do Mr. Diggs
 Criar grupo
 Trocar formação
-Substituir personagem
+Substituir membro do grupo
 Dissolver grupo
 Salvar
 Configuração 
-Confirmar personagens
+Confirmar membros do grupo
 Mudar equipamento
 Ver equipamento 
 Ver items
@@ -85,10 +85,10 @@ Criar equipamento
 Desmontar equipamento 
 Verificar reservas 
 Selecionar formação
-Designar personagem
+Designar membro do grupo
 Ordenar grupo
-Detalhes do personagem
-Selecionar equipamento
+Status do membro do grupo
+Escolher equipamento
 Carregar
 Artes de Combate
 Artes de Itens
@@ -134,8 +134,8 @@ AP inicial
 Força 
 Inteligência 
 Velocidade 
-Desequipar
-Pular
+Tirar
+Saltar
 Brilho
 Legendas
 Mapa de Navegação
@@ -155,11 +155,11 @@ Ataque Crítico
 Defesa Crítica
 Aviso de cancelamento de Deadlock 
 Vibração do Controle
-Desligado
-Ligado
+Desativado
+Ativado
 Mostrar aviso ao converter monstros em componentes
-Não 
-Sim
+Desativados 
+Ativados
 Fixo
 Girar
 Normal
@@ -195,11 +195,11 @@ Recrutar Soldado
 Despedir Soldado
 Tarefas da Guilda
 Não mostrar aviso
-00\nVer personagens na reserva
-00\nVer detalhes do personagem
+00\nVer membros do grupo na reserva
+00\nVer status do membro do grupo
 00\nOrdenar itens 
 00\nOrdenar líderes na reserva
-00\nMudar ordem do grupo
+00\nMudar ordem dos grupos
 00\nOrdenar soldados na reserva
 00\nTrocar de mãos
 Anterior
@@ -220,14 +220,14 @@ Fim
 00\nAbrir porta
 Visão em 3D
 Ver estatísticas
-Pular cena
-00\nVer detalhes do personagem 
-Ver detalhes do grupo
-00\nComeçar o combate
+Saltar cena
+00\nVer status do membro do grupo
+00\nVer status do grupo
+00\nComeçar a batalha
 Continuar
 00\nConverter em componentes
 00\nAnular reserva
-00\nVer detalhes do solicitante
+00\nVer status do solicitante
 00\nSelecionar dispositivo de armazenamento
 00\nValor padrão
 00\nSair sem salvar
@@ -237,7 +237,7 @@ Continuar
 00\nVender lote
 00\nRemover do lote
 00\nCancelar venda em lote
-00\nMudar ordem dos personagens
+00\nMudar ordem dos membros do grupo
 00\nApresentar relatório
 Menu Misc dummy
 eqonly_name\nespecífico
@@ -246,7 +246,7 @@ reward_kingaku
 CONVIDADO
 CONVOCAR
 VAZIO
-Personagens na Reserva
+Membros do grupo na reserva
 Nenhum
 Nenhuma arte foi aprendida.
 Nada
@@ -259,7 +259,7 @@ Criar grupo
 Dados Corrompidos
 NÃO HÁ ESPAÇO LIVRE
 Líderes
-Personagens
+Membros do Grupo
 Líderes na Reserva
 Soldados na Reserva
 Grupos
@@ -289,7 +289,7 @@ Um monstro te persegue!
 22\nImobilizado
 22\nNão pode agir
 22\nParalisado
-Sob controle do Rush
+"22\nSob controle do Rush
 Por favor insira o disco correto.
 Por favor insira o disco 1 do jogo The Last Remnant.
 Por favor insira o disco 2 do jogo The Last Remnant.

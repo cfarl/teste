@@ -1,146 +1,146 @@
 System-Related Commands dummy help
-Selecione Não para substituir com um item atualmente guardado no inventário do grupo.
-Selecione item para descartar.
-Ver ou mudar o equipamento do Rush.
-Ver artes do Rush.
-Ver ou mudar uniões.
+Selecione «Não» para substituir um item do inventário do grupo.
+Selecione o item que deseja descartar.
+Ver ou modificar o equipamento do Rush.
+Ver as artes do Rush.
+Ver ou modificar grupos.
 Ver status do membro do grupo.
 Ver inventário do grupo.
-Ver lista de tarefas ou status do Mr. Diggs's.
-Salvar e carregar jogo, ou mudar configurações do jogo.
+Ver lista de tarefas ou status do Mr. Diggs.
+Salvar e carregar jogo, ou ajustar as configurações do jogo.
 Sair do jogo e retornar para a tela de título.
 Ver armas e escudos do grupo.
 Não há armas ou escudos no inventário.
 Ver acessórios do grupo.
-Não há accessorios no inventário.
+Não há acessórios no inventário.
 Ver consumíveis do grupo.
 Não há consumíveis no inventário.
 Ver componentes do grupo.
 Não há componentes no inventário.
 Ver monstros capturados pelo grupo.
-Não há mostros atualmente capturados.
+No momento não há monstros capturados.
 Ver itens especiais do grupo.
 Não há itens especiais no inventário.
-Selecione um slot para mudar esse equipamento.
-Por favor equipe algo no slot principal.
-Selecione item para equipar.
-Se você equipar um item de duas mãos, o slot secundário vai se tornar inutilizável.
-Rush não pode ser equipado com este item.
-Este item pode ser equipado somente no slot principal.
-Este item pode ser equipado somente no slot secundário.
-Remover o equipamento atual e retorná-lo para o inventário do grupo.
-O slot principal não pode estar vazio.
-Este item não pode ser alterado ou removido.
-Equipe este item.
-Rush não pode equipar este item.
-Descarte este item.
-Este item não pode ser descartado.
-Itens descartados não podem ser retornados. Pense cuidadosamente antes de descartar itens.
-Criar uma união.
-Não há líderes de reserva para criar uma união.
-Uma união não pode ser criada porque a capacitade máxima de líderes por batalha já foi alcançada.
-Ver status dos membros da união.
-Mudar a formação da união.
-Mudar membros da união.
-Dispersar a união e alterar unidades para reservar o status de membro.
-Selecione unidade para ver status.
-Esse slot está vazio.
-Dispersar a união vai alterar as unidades anexadas para reservar o status de membro.
-Selecione uma formação para a união.
-Selecione unidade para confirmar status.
-Escolher um líder para a união.
-Escolher uma unidade para posição 2.
-Escolher uma unidade para posição 3.
-Escolher uma unidade para posição 4.
-Escolher uma unidade para posição 5.
-Selecione uma união para mudar a ordem.
-Selecione uma posição para mover essa união.
-Essa unidade não pode ser selecionada porque o número máximo de líderes por batalha já foi alcançado.
-Essa unidade não pode ser selecionada porque o número máximo de unidades por batalha já foi alcançado.
-Essa unidade deve estar em uma união.
-Ignorar o posicionamento da unidade do número especificado.
-Alterar equipmento.
-Ver equipmento.
+Selecione um espaço para mudar seu equipamento.
+Por favor equipe alguma coisa na mão direita.
+Selecione o item para equipar.
+Se você equipar um item que requer duas mãos, não poderá equipar nada na mão esquerda.
+Rush não pode ser equipado com esse item.
+Esse item só pode ser equipado na mão direita.
+Este item só pode ser equipado na mão esquerda.
+Remover o equipamento atual e guardá-lo para o inventário do grupo.
+A mão direita não pode ficar vazia.
+Esse item não pode ser alterado ou removido.
+Equipar esse item.
+Rush não pode ser equipado com esse item.
+Descartar esse item.
+Esse item não pode ser descartado.
+Itens descartados não podem ser recuperados. Pense com cuidado antes de descartar um item.
+Criar uma grupo.
+Não há líderes na reserva para criar um grupo.
+Não é possível criar mais grupos porque já foi alcançado o número máximo de líderes por batalha.
+Ver status dos membros do grupo.
+Mudar a formação do grupo.
+Mudar membros do grupo.
+Dissolver o grupo e colocar seus membros na reserva.
+Selecione um personagem para ver seu status.
+Essa posição está vazia.
+Ao dissolver o grupo seus membros serão colocados na reserva.
+Selecione uma formação para o grupo.
+Selecione o membro do grupo para confirmar seu status.
+Escolher um líder para o grupo.
+Escolher um membro para a posição 2.
+Escolher um membro para a posição 3.
+Escolher um membro para a posição 4.
+Escolher um membro para a posição 5.
+Selecione um grupo para mudar sua ordem.
+Selecione a posição onde será colocado esse grupo.
+Não é possível selecionar esse membro porque já foi alcançado o número máximo de líderes por batalha.
+Não é possível selecionar esse membro porque já foi alcançado o número máximo de líderes por batalha.
+Esse personagem deve estar em um grupo.
+Continuar sem designar nenhum personagem à posição especificada.
+Alterar equipamento.
+Ver equipamento.
 Ver artes aprendidas.
 Ver inventário.
-Ver detalhes das tarefas aceitas.
-Verificar status do Mr. Diggs.
-Selecione um slot para salvar.
-Selecione dados para carregar.
-Não há espaço suficiente no dispositivo de armazenamento. Novos dados não podem ser criados.
-Salve progresso.
-Você deve fazer o login ao iniciar o jogo para salvar.
+Ver detalhes das missões aceitas.
+Ver status do Mr. Diggs.
+Selecione uma posição para salvar.
+Selecione os dados que deseja carregar.
+Não há espaço suficiente no dispositivo de armazenamento. Não é possível criar novos dados.
+Salva o progresso do jogo.
+Você deve fazer o login ao iniciar o jogo para poder salvar a partida.
 Ajustar as configurações do jogo.
 Ordenar na ordem padrão.
 Ordenar por nível.
 Ordenar por tamanho.
-Ordenar por poder de ataque [ATK].
-Ordenar por poder mágico [MYS].
+Ordenar por poder de ataque [ATQ].
+Ordenar por poder místico [MIS].
 Ordenar por defesa física [DEF].
-Ordenar por defesa mágica [M. DEF].
+Ordenar por defesa mística [DEF M.].
 Ordenar por evasão física [EVA].
-Ordenar por evasão mágica [M. EVA].
+Ordenar por evasão mística [EVA M.].
 Ordenar por max HP.
 Ordenar por max AP.
-Ordenar por bonus de AP.
-Ordenar por bonus de força.
-Ordenar por bonus de inteligência.
-Ordenar por bonus de velocidade.
-Ordenar por número mantido.
-Alterar a ordem dos membros para a ordem padrão.
+Ordenar por bônus de AP.
+Ordenar por bônus de força.
+Ordenar por bônus de inteligência.
+Ordenar por bônus de velocidade.
+Ordenar pelo número de guardados.
+Modificar a ordem dos membros para a ordem padrão.
 Ordenar membros por HP.
 Ordenar membros por AP.
-Ordenar membros por força [STR].
+Ordenar membros por força [FOR].
 Ordenar membros por inteligência [INT].
-Ordenar membros por velocidade [SPD].
-Ordenar membros por poder de ataque [ATK].
-Ordenar membros poder mágico [MYS].
-Ordenar membros por defesa mágica [DEF].
-Ordenar membros por defesa mágica [M. DEF].
+Ordenar membros por velocidade [VLC].
+Ordenar membros por poder de ataque [ATQ].
+Ordenar membros poder místico [MIS].
+Ordenar membros por defesa física [DEF].
+Ordenar membros por defesa mística [DEF M.].
 Ordenar por preço de venda.
 Ordenar por custo de desmontagem.
 Ordenar por preço de compra.
 Ordenar por custo de criação.
-Ordenar membros por bonus de AP.
+Ordenar membros por bônus de AP.
 Ordenar membros por custo de recrutamento.
 Define o nível de brilho da tela.
 Define as configurações de legendas.
-Altera as configurações para o mapa de navegação. Fixo indica orientação fixa. Definido para girar, o mapa vai se mover para a direção em que o Rush está olhando.
-Define o volume principal.
-Define o volume para música de fundo. Isso não afeta a música de fundo nas cenas de eventos.
-Define o volume para efeitos sonoros. Isso não afeta os efeitos sonoros nas cenas de eventos.
-Define o volume para diálogos falados. Isso não afeta as vozes nas cenas de eventos.
-Define o controle do eixo horizontal da câmera.\nNormal\nvai virar a câmera na mesma direção em que o controle direito foi pressionado, enquanto\nInvertido\nvai fazer o oposto.
-Define o controle do eixo vertical da câmera.\nNormal\nvai virar a câmera na mesma direção em que o controle direito foi pressionado, enquanto\nInvertido\nvai fazer o oposto.
+Altera as configurações para o mapa de navegação. Fixo indica orientação fixa. Definido para girar, o mapa vai se mover para a direção em que o Rush estiver olhando.
+Ajusta o volume principal.
+Ajusta o volume da música de fundo. Essa opção não afeta o volume a música de fundo nas cenas de eventos.
+Ajusta o volume dos efeitos sonoros. Essa opção não afeta o volume dos efeitos sonoros nas cenas de eventos.
+Ajusta o volume dos diálogos. Essa opção não afeta o volume das vozes nas cenas de eventos.
+Define o controle do eixo horizontal da câmera.\nNormal\nvai virar a câmera na mesma direção em que o direcional direito foi pressionado, enquanto\nInvertido\nvai virar na direção contrária.
+Define o controle do eixo vertical da câmera.\nNormal\nvai virar a câmera na mesma direção em que o direcional direito foi pressionado, enquanto\nInvertido\nvai virar na direção contrária.
 Define a sensibilidade da câmera.
 Habilita a visão em primeira pessoa.
-Define o controle do eixo horizontal da câmera em primeira pessoa.\nNormal\nvai virar a câmera na mesma direção em que o controle direito foi pressionado, enquanto\nInvertido\nvai fazer o oposto.
-Define o controle do eixo vertical da câmera em primeira pessoa.\nNormal\nai virar a câmera na mesma direção em que o controle direito foi pressionado, enquanto\nInvertido\nvai fazer o oposto.
+Define o controle do eixo horizontal da câmera em primeira pessoa.\nNormal\nvai virar a câmera na mesma direção em que o direcional direito foi pressionado, enquanto\nInvertido\nvai virar na direção contrária.
+Define o controle do eixo vertical da câmera em primeira pessoa.\nNormal\nai virar a câmera na mesma direção em que o direcional direito foi pressionado, enquanto\nInvertido\nvai virar na direção contrária.
 Define a sensibilidade da câmera em primeira pessoa.
-Faz a câmera seguir automaticamente o Rush. Quando definido para\nNão\n, o jogador vai ser capaz de ajustar a câmera manualmente.
-Define o modo como Disparadores Críticos são disparados quando ocorre uma ofensa. Definido para Auto, o jogador não precisa pressionar um botão; Disparadores vão ocorrer randomicamente.
-Define o modo como Disparadores Críticos são disparados quando ocorre uma defesa. Definido para Auto, o jogador não precisa pressionar um botão; Disparadores vão ocorrer randomicamente.
-Exibe um aviso se os comandos de batalha vão cancelar um Deadlock.
-Define a vibração do controle. Para usar a função vibrar, as configurações principais do sistema devem ser ativadas de maneira a permitir isso.
+Faz a câmera seguir automaticamente os movimentos do Rush. Quando definido para\nNão\n, o jogador vai ser capaz de ajustar a câmera manualmente.
+Define a maneira como os movimentos críticos serão ativados durante a fase ofensiva. Se definido em «Automático» o jogador não precisa pressionar nenhum botão; os movimentos irão ocorrer randomicamente.
+Define a maneira como os movimentos críticos serão ativados durante a fase ofensiva. Se definido em «Automático» o jogador não precisa pressionar nenhum botão; os movimentos irão ocorrer randomicamente.
+Exibe um aviso cada vez que uma ordem de batalha vai cancelar um Deadlock.
+Define a vibração do controle. Para usar a função vibrar, as configurações gerais do sistema devem estar ativadas.
 Voltar para as configurações padrão.
-Sair do Menu de Configurações.
-Define aviso de resultado da batalha para desmontar monstros capturados.
+Sair do menu de configuração.
+Ativa ou desativa os avisos para converter monstros capturados em componentes na janela de resultados da batalha.
 Selecione a tarefa da guilda que foi completada para receber uma recompensa.
-Selecione uma tarefa da guilda para ver seus detalhes.
-Selecione um líder para se juntar ao grupo.
-Não há fundos suficientes para esse líder se juntar ao grupo.
-Selecione um líder para remover do grupo.
+Selecione uma tarefa da guilda para obter mais informações.
+Selecione o líder que deseja incorporar ao grupo.
+Não há dinheiro suficiente para incorporar esse líder ao grupo.
+Selecione o líder que deseja para remover do grupo.
 Esse líder não pode ser removido do grupo.
-As unidades vão se tornar membros reservas.
-Esse Soldado Athlumiano não pode ser removido do grupo neste momento.
-Selecione um Soldado Athlumiano para se juntar ao grupo.
-Selecione um Soldado Athlumiano para remover do grupo.
-Um líder não poder ser removido do grupo neste momento.
-A tarefa da guilda foi completada! Sua recompensa o aguarda!
-Cancelar um Deadlock vai resultar na falta de defesa do grupo.
-Selecione uma Arte para aprender.
-Escolha quais itens obter, ou desmonte monstros capturados.
-Monstros que não estão intactos podem ser vendidos por uma quantia razoável de dinheiro.
-Você pode pegar itens para si mesmo, ou dá-los para os outros.
-Obteve um tesouro!
+Os membros do grupo irão para a reserva. 
+Esse soldado não pode ser removido do grupo nesse momento.
+Selecione o soldado que deseja incorporar ao grupo.
+Selecione o soldado que deseja remover do grupo.
+Não é possível remover nenhum líder do grupo nesse momento.
+A missão da guilda foi concluída! Sua recompensa o aguarda!
+Se cancelar o Deadlock o grupo ficará indefeso.
+Selecione a arte que deseja aprender.
+Escolha quais itens deseja obter, ou se deseja converter os monstros capturados em componentes.
+Monstros que estão intactos podem ser vendidos para conseguir dinheiro.
+Você pode ficar com itens para si mesmo, ou pode dá-los para os outros.
+Você conseguiu um tesouro!
 

@@ -1,0 +1,160 @@
+(0001)Remnant Names dummy<==>Nombres de reliquias-->Remnant Names dummy
+(0002-IGUAIS)Elysion
+(0003)Ark<==>Arca-->Ark
+(0004-IGUAIS)Gwayn
+(0005)Harmonium<==>Harmonio-->Harmonium
+(0006)Visistone<==>Visipiedra-->Visistone
+(0007-IGUAIS)Ala Melvilana
+(0008-IGUAIS)Umbermarici
+(0009)Sealing Remnant<==>Reliquia-barrera-->Sealing Remnant
+(0010)Cosmos Remnant<==>Reliquia cósmica-->Cosmos Remnant
+(0011)Talisman<==>Talismán-->Talisman
+(0012)Talisman<==>Talismán-->Talisman
+(0013-IGUAIS)Kellendros
+(0014-IGUAIS)Gae Bolg
+(0015)Bilqis<==>Bilquis-->Bilqis
+(0016)Wonder Bangle<==>Esfera Portentosa-->Wonder Bangle
+(0017-IGUAIS)Schiavona
+(0018-IGUAIS)Namul Niram
+(0019-IGUAIS)Namul Sin
+(0020-IGUAIS)Niram Sin
+(0021-IGUAIS)Lob Omen
+(0022)Rubber Soul<==>Almalástica-->Rubber Soul
+(0023)Dead Heart<==>Corazón Difunto-->Dead Heart
+(0024-IGUAIS)Liafort
+(0025)Cloning Remnant<==>Reliquia duplicadora-->Cloning Remnant
+(0026)Valeria Heart<==>Corazón Valeroso-->Valeria Heart
+(0027-IGUAIS)Tao Tie
+(0028-IGUAIS)Brimuslabus
+(0029)Blue Elf<==>Lágrima Azul-->Blue Elf
+(0030-IGUAIS)Emeth Tag
+(0031)Frostblade<==>Stiria-->Frostblade
+(0032)Obsidian<==>Onyx-->Obsidian
+(0033)Nightbloom<==>Luna-->Nightbloom
+(0034-IGUAIS)Daedalus
+(0035-IGUAIS)Malystrix
+(0036)Liberty Staff<==>Bastón libertador-->Liberty Staff
+(0037-IGUAIS)Brionac
+(0038)Simarrionne<==>Silmarinia-->Simarrionne
+(0039)Blood Chalice<==>Cáliz de sangre-->Blood Chalice
+(0040)Heartache<==>Mal de amores-->Heartache
+(0041)Cyclops<==>Cíclope-->Cyclops
+(0042)Last Leaf<==>Hoja Caída-->Last Leaf
+(0043-IGUAIS)Syltique
+(0044-IGUAIS)Flâchonelle
+(0045-IGUAIS)Arco Iris
+(0046)Luminescence<==>Luminiscencia-->Luminescence
+(0047)The Collapse<==>Cataclismo-->The Collapse
+(0048)Talisman<==>Talismán-->Talisman
+(0049)Tablet<==>Tablilla-->Tablet
+(0050)Leithion's Sword<==>Espada de Leithion-->Leithion's Sword
+(0051)The Forbidden Tome<==>Manuscrito maldito-->The Forbidden Tome
+(0052)Remnant<==>Reliquia-->Remnant
+(0053)Monster<==>Monstruo-->Monster
+(0054)Spells<==>Hechizos-->Spells
+(0055)Spells<==>Hechizos-->Spells
+(0056)Spells<==>Hechizos-->Spells
+(0057)Homunculus<==>Homúnculo-->Homunculus
+(0058)The Gates of Hell<==>Cancerbero-->The Gates of Hell
+(0059-IGUAIS)Oswald
+(0060)The Fallen<==>El Condenado-->The Fallen
+(0061)Grand Beetle<==>Mantis prócer-->Grand Beetle
+(0062)Wild Dragon<==>Dragón bravo-->Wild Dragon
+(0063)Ferocious Lion<==>León fiero-->Ferocious Lion
+(0064)Hero Slayer<==>Degüellahéroes-->Hero Slayer
+(0065-IGUAIS)Vespalia
+(0066-IGUAIS)Validus
+(0067)The Hero<==>Héroe-->The Hero
+(0068-IGUAIS)Jhana
+(0069)Congress<==>Consejo-->Congress
+(0070)The First Committee<==>Primer Comité-->The First Committee
+(0071)The Second Committee<==>Segundo Comité-->The Second Committee
+(0072)The Third Committee<==>Tercer Comité-->The Third Committee
+(0073)The Silver Falcons<==>Halcones Argénteos-->The Silver Falcons
+(0074)The Ladies of Bloody Alice<==>Damas Sangrientas-->The Ladies of Bloody Alice
+(0075)Mantroskylo<==>Mandrógiro-->Mantroskylo
+(0076)The Third Committee<==>Tercer Comité-->The Third Committee
+(0077)The Conqueror's Army<==>Ejército del Invasor-->The Conqueror's Army
+(0078)Eulam Island<==>Isla de Eulam-->Eulam Island
+(0079-IGUAIS)Veyriel
+(0080)HP<==>PV-->HP
+(0081)AP<==>PA-->AP
+(0082)Strength<==>Fuerza-->Strength
+(0083)Intellect<==>Inteligencia-->Intellect
+(0084)Speed<==>Velocidad-->Speed
+(0085)Task dummy<==>Misiones-->Task dummy
+(0086)The Dreaming Rose<==>La rosa soñadora-->The Dreaming Rose
+(0087)When the Rose Blooms<==>El despertar de la rosa-->When the Rose Blooms
+(0088)For Love the Bell Tolls<==>Por amor tañen las campanas-->For Love the Bell Tolls
+(0089)Goodbye, Sweet Love<==>Adiós con el corazón-->Goodbye, Sweet Love
+(0090)Love Will Rise Again<==>Amor sin fronteras-->Love Will Rise Again
+(0091)The Broken Seal<==>La restauración de la barrera-->The Broken Seal
+(0092)The Disappearing Knights<==>En busca de los caballeros perdidos-->The Disappearing Knights
+(0093)The Reviving Legend<==>No pasarán-->The Reviving Legend
+(0094)The Cosmos Maiden<==>La Ninfa Cósmica-->The Cosmos Maiden
+(0095)Kosmosfest<==>La Gala Cósmica-->Kosmosfest
+(0096)Wisdom's Echo<==>Ecos de sabiduría-->Wisdom's Echo
+(0097)History's Boundary<==>Ecos del pasado-->History's Boundary
+(0098)The Desert's Legend<==>La reina del desierto-->The Desert's Legend
+(0099)Seeker of the Ancient Path<==>En busca del saber ancestral-->Seeker of the Ancient Path
+(0100)The Fallen<==>El Condenado-->The Fallen
+(0101-IGUAIS)Amnesia
+(0102)The Villain and the Sightless Girl<==>Luz en la oscuridad-->The Villain and the Sightless Girl
+(0103)Kate and Rhagoh<==>Amor fraternal-->Kate and Rhagoh
+(0104)Mr. Diggs<==>El señor Garras-->Mr. Diggs
+(0105)After a Day's Work...<==>Gotas de frescor-->After a Day's Work...
+(0106)Slumber of the Lost Fragment<==>Mi tesoro-->Slumber of the Lost Fragment
+(0107)A Voice from the Past<==>Voces del pasado-->A Voice from the Past
+(0108)Blooming Flower, Singing Bird<==>Herencia familiar-->Blooming Flower, Singing Bird
+(0109)The Losing Game<==>Una apuesta arriesgada-->The Losing Game
+(0110)The Wanderer<==>Las apariencias engañan-->The Wanderer
+(0111)The Gates of Deceit and Sword of the Dead<==>Secretos y cataclismos-->The Gates of Deceit and Sword of the Dead
+(0112)Bravery and Loyalty<==>Valor y lealtad-->Bravery and Loyalty
+(0113)The Successor<==>Quien siembra vientos...-->The Successor
+(0114)The Standoff<==>El Torneo de los héroes-->The Standoff
+(0115)The Rainbow Bond<==>Unidos por el Arco Iris-->The Rainbow Bond
+(0116)The Fated One<==>El duelo-->The Fated One
+(0117)The Distant Promise<==>Una antigua promesa-->The Distant Promise
+(0118)Hearts<==>Sed de conocimiento-->Hearts
+(0119)The Tablet of Marshall<==>La tablilla-->The Tablet of Marshall
+(0120)UFO!?<==>Un ave misteriosa-->UFO!?
+(0121)At Hatred's End<==>Los límites del rencor-->At Hatred's End
+(0122)The Ancient War<==>Una guerra ancestral-->The Ancient War
+(0123)Into the Abyss<==>En el corazón del abismo-->Into the Abyss
+(0124)The Fiery Revolt<==>Luces y sombras-->The Fiery Revolt
+(0125)Frustrations<==>Disputas fraternales-->Frustrations
+(0126)The War of a Thousand Years<==>La guerra de los mil años-->The War of a Thousand Years
+(0127)The Hero<==>Héroe de leyenda-->The Hero
+(0128)The Silent Soul<==>El desierto de las almas perdidas-->The Silent Soul
+(0129)The Assistant<==>El discípulo-->The Assistant
+(0130)Infestation!<==>La plaga-->Infestation!
+(0131)The Slave Traders<==>¿Quién sabe dónde?-->The Slave Traders
+(0132)Emotions<==>Valor sentimental-->Emotions
+(0133)The Trade Route<==>Pioneros del desierto-->The Trade Route
+(0134)Baulson<==>Al rescate-->Baulson
+(0135)A Single Soul<==>Un alma en pena-->A Single Soul
+(0136)Darien<==>Redención-->Darien
+(0137)A Day's Beginning<==>El sol siempre vuelve a salir-->A Day's Beginning
+(0138)Things Unchangeable<==>Hay cosas que nunca cambian-->Things Unchangeable
+(0139)Athlum's Witch<==>La arcamaga de Athlum-->Athlum's Witch
+(0140)Celapaleis's Witch<==>La arcamaga de Celapalais-->Celapaleis's Witch
+(0141)Elysion's Witch<==>La arcamaga de Elysion-->Elysion's Witch
+(0142)Nagapur's Witch<==>La arcamaga de Nagapur-->Nagapur's Witch
+(0143)Ghor's Witch<==>La arcamaga de Ghor-->Ghor's Witch
+(0144)Undelwalt's Witch<==>La arcamaga de Undelwalt-->Undelwalt's Witch
+(0145)Balterossa's Witch<==>La arcamaga de Balterossa-->Balterossa's Witch
+(0146)Royotia's Witch<==>La arcamaga de Royotia-->Royotia's Witch
+(0147)Melphina's Witch<==>La arcamaga de Melphina-->Melphina's Witch
+(0148)Baaluk's Witch<==>La arcamaga de Baaluk-->Baaluk's Witch
+(0149)The Ladies of Bloody Alice<==>Las Damas Sangrientas-->The Ladies of Bloody Alice
+(0150)The Silver Falcons: Part One<==>Los Halcones Argénteos: primera parte-->The Silver Falcons: Part One
+(0151)The Silver Falcons: Part Two<==>Los Halcones Argénteos: segunda parte-->The Silver Falcons: Part Two
+(0152)The Silver Falcons: Part Three<==>Los Halcones Argénteos: tercera parte-->The Silver Falcons: Part Three
+(0153)The Secret Letter<==>La misiva-->The Secret Letter
+(0154)Harvesting Category dummy<==>Categorías de recolección-->Harvesting Category dummy
+(0155)Dig<==>Excavar-->Dig
+(0156)Fell<==>Talar-->Fell
+(0157)Jump<==>Saltar-->Jump
+(0158)Dive<==>Bucear-->Dive
+(0159)Sift<==>Extraer-->Sift
+(0160)Buried Treasure<==>Tesoro enterrado-->Buried Treasure

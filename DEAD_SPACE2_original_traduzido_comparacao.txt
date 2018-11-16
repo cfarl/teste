@@ -720,7 +720,7 @@
 (0720)(0720)Senior QA Manager<==>Jefe de control de calidad sénior-->Chefe de Controle de Qualidade Sênior
 (0721)(0721-IGUAIS)STANDTECH-->STANDTECH
 (0722)(0722-IGUAIS)Wabi Sabi Sound, Inc.-->Wabi Sabi Sound, Inc.
-(0723)(0723)Chapter 5<==>Capítulo 5-->Capítulo 5 - Devoção Letal
+(0723)(0723)Chapter 5<==>Capítulo 5-->Capítulo 5 - Fé Atormentada
 (0724)(0724)reset<==>Restablecer-->resetar
 (0725)(0725)+{n}\nKILL<==>+{n}\nBAJA-->+{n}\nMORTE
 (0726)(0726)Technical Artist <==>Diseñador técnico-->Artista Técnico 
@@ -1169,7 +1169,7 @@
 (1169)(1169)RUN!<==>¡CORRE!-->CORRA!
 (1170)(1170)Activate<==>Activar-->Ativado
 (1171)(1171)EMERGENCY<==>EMERGENCIA-->EMERGÊNCIA
-(1172)(1172)Chapter 12<==>Capítulo 12-->Capítulo 12 - Dead Space
+(1172)(1172)Chapter 12<==>Capítulo 12-->Capítulo 12 - Rota de Colisão
 (1173)(1173)CLAW ENGAGED<==>PINZA ACOPLADA-->GARRA ACOPLADA
 (1174)(1174)Bring this schematic to the store to unlock the Javelin Gun.<==>Lleva este diagrama al almacén para desbloquear el cañón jabalina.-->Leve esse diagrama à loja para desbloquear o canhão de dardos.
 (1175)(1175)Authorized CEC Employees Only<==>Solo empleados de CEC autorizados-->Somente os Empregados do CEC estão autorizados
@@ -1438,21 +1438,21 @@
 (1438)(1438)deliver<==>Entregar-->Entregar
 (1439)(1439)page up<==>Re pág-->page up
 (1440)(1440)toggle climbing<==>activar/desact. subida-->Alternar Subida
-(1441)(1441)Chapter 1<==>Capítulo 1-->Capítulo 1:\nRecém-Chegados
-(1442)(1442)Chapter 2<==>Capítulo 2-->Capítulo 2:\nTratamento Intensivo
-(1443)(1443)Chapter 3<==>Capítulo 3-->Capítulo 3:\nCorreção de Curso
-(1444)(1444)Chapter 4<==>Capítulo 4-->Capítulo 4:\nExtermínio Iminente
-(1445)(1445)Chapter 5<==>Capítulo 5-->Capítulo 5:\nDevoção Letal
-(1446)(1446)Chapter 6<==>Capítulo 6-->Capítulo 6:\nPerigo Ambiental
-(1447)(1447)Chapter 7<==>Capítulo 7-->Capítulo 7:\nNo Vazio
-(1448)(1448)Chapter 8<==>Capítulo 8-->Capítulo 8:\nBusca e Resgate
-(1449)(1449)Chapter 9<==>Capítulo 9-->Capítulo 9:\nMorto na Chegada
-(1450)(1450)Chapter 10<==>Capítulo 10-->Capítulo 10:\nO Fim dos Dias
-(1451)(1451)Chapter 11<==>Capítulo 11-->Capítulo 11:\nSoluções Alternativas
-(1452)(1452)Chapter 12<==>Capítulo 12-->Capítulo 12:\nDead Space
-(1453)(1453)Chapter 13<==>Capítulo 13-->Capítulo 13
-(1454)(1454)Chapter 14<==>Capítulo 14-->Capítulo 14
-(1455)(1455)Chapter 15<==>Capítulo 15-->Capítulo 15
+(1441)(1441)Chapter 1<==>Capítulo 1-->Capítulo 1:\nDemência
+(1442)(1442)Chapter 2<==>Capítulo 2-->Capítulo 2:\nEpidemia
+(1443)(1443)Chapter 3<==>Capítulo 3-->Capítulo 3:\nSem Volta
+(1444)(1444)Chapter 4<==>Capítulo 4-->Capítulo 4:\nFilhos do Marker
+(1445)(1445)Chapter 5<==>Capítulo 5-->Capítulo 5:\nFé Atormentada
+(1446)(1446)Chapter 6<==>Capítulo 6-->Capítulo 6:\nCompanhia Relutante
+(1447)(1447)Chapter 7<==>Capítulo 7-->Capítulo 7:\nVisita Inesperada
+(1448)(1448)Chapter 8<==>Capítulo 8-->Capítulo 8:\nEngenharia Espacial
+(1449)(1449)Chapter 9<==>Capítulo 9-->Capítulo 9:\nChegada do Trem
+(1450)(1450)Chapter 10<==>Capítulo 10-->Capítulo 10:\nPesadelo Revivido
+(1451)(1451)Chapter 11<==>Capítulo 11-->Capítulo 11:\nNo Escuro
+(1452)(1452)Chapter 12<==>Capítulo 12-->Capítulo 12:\nRota de Colisão
+(1453)(1453)Chapter 13<==>Capítulo 13-->Capítulo 13:\nInvasão
+(1454)(1454)Chapter 14<==>Capítulo 14-->Capítulo 14:\nLuz no Fim do Túnel
+(1455)(1455)Chapter 15<==>Capítulo 15-->Capítulo 15:\nFim da Linha
 (1456)(1456)Chapter 16<==>Capítulo 16-->Capítulo 16
 (1457)(1457)Press [RDUp] when stasis is low.<==>Pulsa [RDUp] para recuperar estabilización.-->Pressione [RDUp] para recuperar a estabilização.
 (1458)(1458)This is Gabe Weller.    If anyone finds this, our chain of command has broken, starting at the top. Tiedemann's order to "kill all key subjects" is lunacy, he means to kill all the patients in the hospital!  I'm abandoning orders and heading there now to defend Lexine.  I need help stopping Captain Forrester before he can reach her.  Don't listen to Tiedemann, he's lost it.   Weller out.<==>Soy Gabe Weller. Si alguien encuentra esto, informo de que la cadena de mando se ha roto desde lo más alto. La orden de Tiedemann de "matar a todos los sujetos clave" es una locura; ¡lo que quiere es matar a todos los pacientes del hospital! No tengo intención de cumplir las órdenes y me dirigiré hacia allí para proteger a Lexine. Necesito ayuda para detener al capitán Forrester antes de que la encuentre. No escuchéis a Tiedemann. Se ha vuelto loco. Weller, corto.-->Aqui é Gabe Weller. Se alguém encontrar isso, a nossa cadeia de comando quebrou, começando pelo topo. A ordem de Tiedemann de "matar todos os sujeitos importantes" é uma loucura, ele quer matar todos os doentes no hospital!  Estou desobedecendo as ordens e indo lá para defender Lexine.  Preciso de ajuda para parar Capitão Forrester antes que ele alcance-a.  Não ouça Tiedemann, ele está perdido.   Câmbio.
@@ -2089,7 +2089,7 @@
 (2089)(2089)[RDUp]DELETE<==>[RDUp]BORRAR-->[RDUp]DELETE
 (2090)(2090)Environment Art<==>Diseño de entornos-->Desenho de Ambiente
 (2091)(2091)PATROL SEEKER RIFLE<==>RIFLE BUSCADOR DE PATRULLA-->RIFLE BUSCADOR DE PATRULHA
-(2092)(2092)Chapter 9<==>Capítulo 9-->Capítulo 9 - Morto na Chegada
+(2092)(2092)Chapter 9<==>Capítulo 9-->Capítulo 9 - Chegada do Trem
 (2093)(2093)Motion Capture Directors<==>Directores de captura de movimiento-->Diretores de Captura de Movimento
 (2094)(2094)sprint<==>acelerar-->correr
 (2095)(2095)Observation Center<==>Centro de observación-->Centro de Observação
@@ -2120,7 +2120,7 @@
 (2120)(2120)BRIDGE UP<==>SUBIR PUENTE-->SUBIR PONTE
 (2121)(2121)BRIDGE MALFUNCTION<==>ERROR EN EL PUENTE-->ERRO NA PONTE
 (2122)(2122)You unlocked increased damage for the Line Gun<==>Has desbloqueado más daño para el cañón lineal.-->Você desbloqueou mais danos para a Arma Linear.
-(2123)(2123)Chapter 4<==>Capítulo 4-->Capítulo 4 - Extermínio Iminente
+(2123)(2123)Chapter 4<==>Capítulo 4-->Capítulo 4 - Filhos do Marker
 (2124)(2124)Oxygen Recharge<==>Oxígeno-->Recarga de Oxigênio
 (2125)(2125-IGUAIS)1-->1
 (2126)(2126)complete<==>Completado-->completado
@@ -2386,7 +2386,7 @@
 (2386)(2386-IGUAIS)Ashley Liu-->Ashley Liu
 (2387)(2387)Primary Fire DAM +10% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to deploy a single proximity mine.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to disarm the last deployed mine for recovery.<==>DÑO disparo principal: +10% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para colocar una sola mina de proximidad.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para desarmar la última mina de proximidad activada para su recuperación.-->DANO do Tiro Principal: +10% / VEL: +5%\n• [c=CUSTOM2] Tiro Principal [c=RESET]: aperte [rsbottom] para plantar uma única mina de proximidade.\n• [c=CUSTOM2] Tiro secundário [c=RESET]: aperte [rstop] para desarmar a última mina plantada para recuperação.
 (2388)(2388-IGUAIS)4-->4
-(2389)(2389)Chapter 11<==>Capítulo 11-->Capítulo 11 - Soluções Alternativas
+(2389)(2389)Chapter 11<==>Capítulo 11-->Capítulo 11 - No Escuro
 (2390)(2390)      Reconnect the elevator.<==>Reconecta el ascensor.-->      Reconecte o elevador.
 (2391)(2391)Solid Black<==>Negro liso-->Preto liso
 (2392)(2392)resume<==>Reanudar-->Resumir
@@ -3342,7 +3342,7 @@
 (3342)(3342)INDOCTRINATION<==>ADOCTRINAMIENTO-->DOUTRINAMENTO
 (3343)(3343-IGUAIS)Mitch Lockhart-->Mitch Lockhart
 (3344)(3344)SHUTDOWN<==>DESCONEXIÓN-->DESCONEXÃO
-(3345)(3345)Chapter 8<==>Capítulo 8-->Capítulo 8 - Busca e Resgate
+(3345)(3345)Chapter 8<==>Capítulo 8-->Capítulo 8 - Engenharia Espacial
 (3346)(3346)Global Online Studio<==>Estudio online global-->Estudio Online Global
 (3347)(3347)Communication array offline.<==>Antena de comunicaciones desconectada.-->Antena de comunicações desligadas.
 (3348)(3348)Shows progress as you move around dishes<==>Muestra los progresos al desplazarte por las parabólicas-->Mostra os progressos enquanto você anda pelas parabólicas
@@ -3365,7 +3365,7 @@
 (3365)(3365)SESSION IN PROGRESS<==>SESIÓN EN CURSO-->SESSÃO EM PROGRESSO
 (3366)(3366)BENCH<==>MEJORAS-->MELHORIAS
 (3367)(3367)Your gamer profile does not have the correct permissions to access Xbox LIVE functionality.<==>Tu perfil de jugador no tiene los permisos necesarios para acceder a las funciones de Xbox LIVE.-->Seu perfil de jogador não possui as permissões corretas para acessar as funcionalidades da Xbox LIVE.
-(3368)(3368)Chapter 3<==>Capítulo 3-->Capítulo 3 - Correção de Curso
+(3368)(3368)Chapter 3<==>Capítulo 3-->Capítulo 3 - Sem Volta
 (3369)(3369-IGUAIS)15-->15
 (3370)(3370)UI Artists<==>Diseñadores de IU-->Desenhistas de IU
 (3371)(3371-IGUAIS)Christoph Betschart-->Christoph Betschart
@@ -3651,7 +3651,7 @@
 (3651)(3651)Yeah, you got that right.  You try it and you're dead. <==>Sí, más te vale. Inténtalo y te mato.-->É, você entendeu certo.  Tente isso e você morre. 
 (3652)(3652)Ellie. What do you want, Isaac?<==>Ellie. ¿Qué quieres, Isaac?-->Ellie. O que você quer, Isaac?
 (3653)(3653)What do you think we were trying to do?<==>¿Y qué crees que intentamos hacer nosotros?-->O que você acha que estávamos tentando fazer?
-(3654)(3654)Chapter 15<==>Capítulo 15-->Capítulo 15
+(3654)(3654)Chapter 15<==>Capítulo 15-->Capítulo 15 - Fim da Linha
 (3655)(3655)Online Code Invalid<==>Código online no válido-->Código Online Inválido
 (3656)(3656)Not a chance, Isaac. Other people are just a liability. I'll release the door lock, but after that you're on your own. And please, DON'T follow me. OK?<==>Ni hablar, Isaac. Más personas son más responsabilidad. Abriré la puerta, pero luego vas por tu cuenta. Y por favor, no me sigas, ¿vale?-->Sem chance, Isaac. As outras pessoas são somente uma responsabilidade. Eu irei soltar a fechadura da porta, mas após isso você estará sozinho. E por favor, NÃO me siga. Entendido?
 (3657)(3657)Isaac, are you alright?   I think that's all of them, for now….<==>Isaac, ¿estás bien? Creo que ya no hay más, por ahora...-->Isaac, você está bem?   Eu acho que são todos eles, por ora….
@@ -3845,7 +3845,7 @@
 (3845)(3845)FLAMETHROWER\nSchematic Acquired\nDownload at the Store<==>LANZALLAMAS\nDiagrama adquirido\nDescargar en el almacén-->LANÇA-CHAMAS\nDiagrama adquirido\nBaixe na Loja
 (3846)(3846-IGUAIS)1-->1
 (3847)(3847)CALL?<==>¿LLAMAR?-->CHAMAR?
-(3848)(3848)Chapter 10<==>Capítulo 10-->Capítulo 10 - O Fim dos Dias
+(3848)(3848)Chapter 10<==>Capítulo 10-->Capítulo 10 - Pesadelo Revivido
 (3849)(3849)previously on Dead Space¬<==>Anteriormente en Dead Space¬-->Anteriormente em Dead Space¬
 (3850)(3850) You'd better hurry, the Gov Sec is getting further away by the minute.<==>Date prisa, el sector gubernamental se aleja por momentos.--> É melhor você se apressar, o Setor Governamental está ficando cada vez mais longe.
 (3851)(3851)Isaac, did you find the other Power Cell yet?<==>Isaac, ¿has encontrado ya la otra célula de energía?-->Isaac, você já achou a outra Célula de Energia?
@@ -3942,7 +3942,7 @@
 (3942)(3942-IGUAIS)Robert Vernick-->Robert Vernick
 (3943)(3943)No Connection<==>Sin conexión-->Sem Conexão
 (3944)(3944)EXIT TO ALTMAN PLAZA<==>SALIDA A LA PLAZA ALTMAN-->SAÍDA PARA ALTMAN PLAZA
-(3945)(3945)Chapter 1<==>Capítulo 1-->Capítulo 1 - Recém-Chegados
+(3945)(3945)Chapter 1<==>Capítulo 1-->Capítulo 1 - Demência
 (3946)(3946-IGUAIS)0-->0
 (3947)(3947)DETONATOR MINES\nSchematic Acquired\nDownload at the Store<==>MINAS DE DETONACIÓN\nDiagrama adquirido\nDescargar en el almacén-->MINAS DE DETONAÇÃO\nDiagrama Adquirido\nBaixe na Loja
 (3948)(3948-IGUAIS)1-->1
@@ -5107,7 +5107,7 @@
 (5107)(5107)Prevent Disc from being delivered to Intel Room<==>Evita que el disco llegue a la sala de inteligencia.-->Impeça que o Disco seja entregue a Sala de Inteligência
 (5108)(5108){g} - {v} XP<==>{g} - {v} PE-->{g} - {v} XP
 (5109)(5109)Daina's on the opposite end of the Sprawl, and the fastest way across the station is the tram system. I need to get there before this chaos catches up with me.<==>Daina está en el otro lado del Eje, y el medio más rápido de atravesar la estación es el monorraíl. Tengo que llegar allí antes de que este caos se me eche encima.-->Daina está no lado oposto do Eixo, e o caminho mais rápido de toda a estação é o sistema de bonde. Eu preciso chegar lá antes que esse caos me encontre.
-(5110)(5110)Chapter 7<==>Capítulo 7-->Capítulo 7 - No Vazio
+(5110)(5110)Chapter 7<==>Capítulo 7-->Capítulo 7 - Visita Inesperada
 (5111)(5111)Well don't be shy about using it.   It will save your life.<==>No seas tímido y úsala. Te salvará la vida.-->Não seja tímido em usá-lo. Isso vai salvar sua vida.
 (5112)(5112)CAUTION<==>PRECAUCIÓN-->ATENÇÃO
 (5113)(5113)SOS BEACON<==>BALIZA DE AUXILIO-->SINALIZADOR DE SOS
@@ -5136,7 +5136,7 @@
 (5136)(5136)Associate Art Director<==>Director de diseño asociado-->Diretor de Artes Associado
 (5137)(5137)toxic spit<==>Escupitajo-->cuspe tóxico
 (5138)(5138)The Heavy Duty Vintage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Line Gun, Detonator, Contact Beam receive 5% damage bonus. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje vintage industrial ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación [c=RESET]: 5% más de daño para cañón lineal, detonador y rayo de contacto. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje vintage industrial fornece funcionalidades únicas a quem o veste:\n• [c=CUSTOM3] Bônus [c=RESET]: 5% a mais de danos para a Arma Linear, Detonador, e Raio de Contato. \nA compra garante um mínimo de 15 slots no Inventário e 15% de armadura. Seu DRI mantém os melhores bonus de Armadura e Inventário.
-(5139)(5139)Chapter 2<==>Capítulo 2-->Capítulo 2 - Tratamento Intensivo
+(5139)(5139)Chapter 2<==>Capítulo 2-->Capítulo 2 - Epidemia
 (5140)(5140)Tunnel 1\nCassini Apartments<==>Túnel 1\nApartamentos Cassini-->Túnel 1\nApartamentos Cassini
 (5141)(5141)Tunnel 2\nMarikina Towers<==>Túnel 2\nTorres Marikina-->Túnel 2\nTorres Marikina
 (5142)(5142)Tunnel 3\nAiden Young Plaza<==>Túnel 3\nPlaza Aiden Young-->Túnel 3\nPlaza Aiden Young
@@ -5393,7 +5393,7 @@
 (5393)(5393)For Clearance Alpha Only<==>Solo para autorización alfa-->Somente para Autorização Alpha
 (5394)(5394)Ammo Pack<==>MUNICIÓN-->Munição
 (5395)(5395)k/d<==>ratio-->k/d
-(5396)(5396)Chapter 14<==>Capítulo 14-->Capítulo 14
+(5396)(5396)Chapter 14<==>Capítulo 14-->Capítulo 14 - Luz no Fim do Túnel
 (5397)(5397)//cleared game//<==>//Completada//-->//Jogo Completado//
 (5398)(5398)The patients are becoming agitated and combative with us, as a result of the new regimens of memory erasing drugs.   They no longer remember who we are from day to day, and must be convinced to leave their cells each morning.   Many are so frightened they require sedation to get to the interrogation chamber.   Orderly Gousetis was bitten 3 times by Patient six, who now must be told why he has a broken jaw every morning.<==>Los pacientes comienzan a mostrarse nerviosos y agresivos con nosotros, debido a los nuevos tratamientos con fármacos supresores de memoria. Ya no recuerdan quiénes somos de un día para otro, y todas las mañanas tenemos que persuadirlos para que salgan de su celda. Muchos están tan asustados que necesitan sedantes para acudir a la cámara de interrogación. El paciente 6 mordió 3 veces al ordenanza Gousetis, y ahora necesita explicaciones sobre el motivo de su mandíbula rota todas las mañanas. Fin del informe.-->Os pacientes estão ficando agitados e combatentes conosco, como resultado do novo regime de drogas para apagar memórias. Eles não se lembram mais quem somos dia após dia, e devem ser convencidos a sair das celas a cada manhã. Muitos estão tão assustados que precisam de sedativos para chegar até a sala de interrogação. O Paciente 6 mordeu o Gousetis 3 vezes, que devemos contar todas as manhãs porque ele está com o queixo quebrado.
 (5399)(5399-IGUAIS)4-->4
@@ -6305,7 +6305,7 @@
 (6305)(6305)Volatile chemical mixture.<==>Compuesto químico volátil.-->Composto Químico Volátil.
 (6306)(6306)Vintage Suit Schematic<==>Diagrama de traje vintage-->Diagrama de Traje Vintage
 (6307)(6307)pulse rifle III<==>rifle de impulsos III-->rifle de impulsos III
-(6308)(6308)Chapter 6<==>Capítulo 6-->Capítulo 6 - Perigo Ambiental
+(6308)(6308)Chapter 6<==>Capítulo 6-->Capítulo 6 - Companhia Relutante
 (6309)(6309)prevent the humans from overriding the activation switch<==>Evita que los humanos anulen el interruptor de activación.-->Evita que os humanos destruam o interruptor de ativação
 (6310)(6310)Gabe?  It's Lexine.  Gabe, when will you get here?  I broke free but there's nowhere safe to run!  What's going on?   I hear screaming all around me.  This is just like the Ishimura, back at Aegis VII!  How can this be happening again?   Hurry Gabe, I don't know how long I can last here!<==>¿Gabe? Soy Lexine. Gabe, ¿cuándo tienes pensado llegar? ¡Me he liberado, pero no hay ningún lugar seguro al que ir! ¿Qué ocurre? Oigo gritos a mi alrededor. ¡Es como en el Ishimura, en Aegis VII! No puede ser que esté volviendo a pasar... ¡Date prisa, Gabe, no sé cuánto tiempo aguantaré con vida aquí!-->Gabe?  É Lexine.  Gabe, quando você chegará aqui?  Eu estou livre, mas não há nenhum lugar seguro para ir!  O que está acontecendo?   Eu ouço gritos à minha volta.  Isto é como no Ishimura, no Aegis VII!  Como isso pode estar acontecendo de novo?   Depressa Gabe, eu não sei quanto tempo aguentarei aqui!
 (6311)(6311)Gabe?  It's Lexine.  Gabe, when will you get here?  I broke free but there's nowhere safe to run!  What's going on?   I hear screaming all around me.  This is just like the Ishimura, back at Aegis VII!  How can this be happening again?   Hurry Gabe, I don't know how long I can last here!<==>¿Gabe? Soy Lexine. Gabe, ¿cuándo tienes pensado llegar? ¡Me he liberado, pero no hay ningún lugar seguro al que ir! ¿Qué ocurre? Oigo gritos a mi alrededor. ¡Es como en el Ishimura, en Aegis VII! No puede ser que esté volviendo a pasar... ¡Date prisa, Gabe, no sé cuánto tiempo aguantaré con vida aquí!-->Gabe?  É Lexine.  Gabe, quando você chegará aqui?  Eu estou livre, mas não há nenhum lugar seguro para ir!  O que está acontecendo?   Eu ouço gritos à minha volta.  Isto é como no Ishimura, no Aegis VII!  Como isso pode estar acontecendo de novo?   Depressa Gabe, eu não sei quanto tempo aguentarei aqui!
@@ -6599,7 +6599,7 @@
 (6599)(6599-IGUAIS)Sophia Davico Dunton-->Sophia Davico Dunton
 (6600)(6600-IGUAIS)Michael William Fowler-->Michael William Fowler
 (6601)(6601)Additional Programming<==>Programación adicional-->Programação Adicional
-(6602)(6602)Chapter 13<==>Capítulo 13-->Capítulo 13
+(6602)(6602)Chapter 13<==>Capítulo 13-->Capítulo 13 - Invasão
 (6603)(6603-IGUAIS)Braeden Marcott-->Braeden Marcott
 (6604)(6604-IGUAIS)Aimee Miles-->Aimee Miles
 (6605)(6605-IGUAIS)Steve Rifkin-->Steve Rifkin
