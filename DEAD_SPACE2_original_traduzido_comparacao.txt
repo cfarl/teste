@@ -6,21 +6,21 @@
 (0006)(0006)SURGERY<==>CIRUGÍA-->CIRURGIA
 (0007)(0007)DETONATOR GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN DETONADOR\nDiagrama adquirido\nDescargar en el almacén-->ARMA DETONADORA\nDiagrama Adquirido\nBaixe na Loja
 (0008)(0008)We're getting conflicting reports from the colony. Can you say again?<==>Hemos recibido informes de conflictos en la colonia. ¿Podéis repetir?-->Estamos recebendo relatos de conflitos na colônia. Você pode repetir?
-(0009)(0009)God, what's happening down there?<==>Oh, dios, ¿qué ocurre ahí abajo?-->Deus, o que está acontecendo ali?
-(0010)(0010)This is flight team EG-9 to Control. We have completed the fly-by. There's nothing left. I repeat, Titan Station has been completely destroyed.<==>Aquí equipo de vuelo EG-9 a control. Hemos completado el reconocimiento. No queda nada. Repito, la estación Titán ha quedado completamente destruida.-->Aqui é a equipe de voo EG-9 para o Controle. Nós completamos o reconhecimento. Não restou nada. Repito, a estação Titã foi completamente destruída.
+(0009)(0009)God, what's happening down there?<==>Oh, dios, ¿qué ocurre ahí abajo?-->Meu Deus, o que está acontecendo ali?
+(0010)(0010)This is flight team EG-9 to Control. We have completed the fly-by. There's nothing left. I repeat, Titan Station has been completely destroyed.<==>Aquí equipo de vuelo EG-9 a control. Hemos completado el reconocimiento. No queda nada. Repito, la estación Titán ha quedado completamente destruida.-->Aqui é a equipe de voo EG-9 para Controle. Nós completamos o reconhecimento. Não restou nada. Repito, a estação Titã foi completamente destruída.
 (0011)(0011)Negative. Nothing survived this, sir. Marker site 12 is a total loss.<==>Negativo. Aquí no ha sobrevivido nada, señor. El emplazamiento de Efigie 12 es un siniestro total.-->Negativo. Ninguém sobreviveu a isso, senhor. O local do Marker 12 está completamente perdido.
 (0012)(0012)You will hold your positions and you WILL FOLLOW YOUR ORDERS<==>¡Mantendréis la posición y CUMPLIRÉIS LAS ÓRDENES!-->Você vai manter sua posição e VAI SEGUIR AS SUAS ORDENS
-(0013)(0013)Just stay focused and keep your area secured.    Tiedemann's evacuating the Sprawl, and the civilian population will be fine.<==>No desviéis la atención y asegurad la zona. Tiedemann está evacuando El Eje, y la población civil estará a salvo.-->Apenas mantenha o foco e mantenha sua área segura. Tiedemann está evacuando o Eixo, e a população civil ficará bem.
-(0014)(0014)Cut the chatter!  Keep your eyes peeled for Clarke.  Stay tight.<==>¡Basta de cháchara! ¡Seguid buscando a Clarke! No os relajéis.-->Acabem com essa conversa! Mantenha os olhos abertos no Clarke. Mantenham-se firmes.
-(0015)(0015)Sprawl Security Maroon Urban Camo Suit<==>Traje de seguridad del Eje granate camuflaje urbano-->Traje de Camuflagem Urbana Marrom de Segurança do Eixo
+(0013)(0013)Just stay focused and keep your area secured.    Tiedemann's evacuating the Sprawl, and the civilian population will be fine.<==>No desviéis la atención y asegurad la zona. Tiedemann está evacuando El Eje, y la población civil estará a salvo.-->Apenas mantenha o foco e mantenha sua área segura. Tiedemann está evacuando o Eixo, e a população civil vai ficar bem.
+(0014)(0014)Cut the chatter!  Keep your eyes peeled for Clarke.  Stay tight.<==>¡Basta de cháchara! ¡Seguid buscando a Clarke! No os relajéis.-->Chega de conversa! Continuem procurando o Clarke. Mantenham-se firmes.
+(0015)(0015)Sprawl Security Maroon Urban Camo Suit<==>Traje de seguridad del Eje granate camuflaje urbano-->Traje de Segurança do Eixo Castanho Camuflagem Urbana 
 (0016)(0016-IGUAIS)Русский-->Русский
-(0017)(0017)Downloadable content is being scanned.  Please remain signed in and do not remove or add any storage devices.<==>Se está buscando la descarga de contenido.  No cierres sesión y no extraigas ni añadas ningún dispositivo de almacenamiento.-->O conteúdo para download está sendo escaneado. Por favor permaneça conectado e não remova ou adicione nenhum dispositivo de armazenamento. 
-(0018)(0018)MEDIUM CURRENCY<==>DIVISA MEDIA-->CURSO MÉDIO
-(0019)(0019)FOR YOUR SAFETY PLEASE STAND BEHIND THE YELLOW LINE.       REMINDER: AUTHORIZED PASSES ARE REQUIRED FOR ENTRY TO GOVERNMENT SECTOR.        CEC WORKERS ARE ASKED TO PLEASE KEEP ALL GEAR OUT OF PEDESTRIAN WALKWAYS.<==>PARA SU SEGURIDAD, PERMANEZCAN DETRÁS DE LA LÍNEA AMARILLA.       RECUERDEN: PARA ACCEDER AL SECTOR GUBERNAMENTAL SE REQUIEREN PASES AUTORIZADOS.        SE RUEGA A LOS TRABAJADORES DE CEC QUE MANTENGAN CUALQUIER EQUIPO FUERA DE LAS VÍAS PEATONALES.-->PARA SUA SEGURANÇA POR FAVOR PERMANEÇA ATRÁS DA LINHA AMARELA. LEMBRE-SE: PARA ACESSAR O SETOR GOVERNAMENTAL É NECESSÁRIO UM PASSE DE AUTORIZAÇÃO. PEDIMOS AOS TRABALHADORES DA CEC PARA QUE MANTENHAM TODOS OS EQUIPAMENTOS FORA DA PASSARELA.
+(0017)(0017)Downloadable content is being scanned.  Please remain signed in and do not remove or add any storage devices.<==>Se está buscando la descarga de contenido.  No cierres sesión y no extraigas ni añadas ningún dispositivo de almacenamiento.-->O conteúdo para download está sendo buscado. Por favor permaneça conectado e não remova ou adicione nenhum dispositivo de armazenamento. 
+(0018)(0018)MEDIUM CURRENCY<==>DIVISA MEDIA-->DIVISA MÉDIA
+(0019)(0019)FOR YOUR SAFETY PLEASE STAND BEHIND THE YELLOW LINE.       REMINDER: AUTHORIZED PASSES ARE REQUIRED FOR ENTRY TO GOVERNMENT SECTOR.        CEC WORKERS ARE ASKED TO PLEASE KEEP ALL GEAR OUT OF PEDESTRIAN WALKWAYS.<==>PARA SU SEGURIDAD, PERMANEZCAN DETRÁS DE LA LÍNEA AMARILLA.       RECUERDEN: PARA ACCEDER AL SECTOR GUBERNAMENTAL SE REQUIEREN PASES AUTORIZADOS.        SE RUEGA A LOS TRABAJADORES DE CEC QUE MANTENGAN CUALQUIER EQUIPO FUERA DE LAS VÍAS PEATONALES.-->PARA SUA SEGURANÇA PERMANEÇA ATRÁS DA LINHA AMARELA. LEMBRE-SE: PARA ACESSAR O SETOR GOVERNAMENTAL É NECESSÁRIO UM PASSE AUTORIZADO. PEDIMOS AOS TRABALHADORES DA CEC PARA QUE MANTENHAM TODOS OS EQUIPAMENTOS FORA DA PASSARELA.
 (0020)(0020)TRACK CONTROL<==>CONTROL DE PISTA-->CONTROLE DA PISTA
-(0021)(0021)SWITCH TRACKS<==>CAMBIAR PISTAS-->TROCAR PISTA
-(0022)(0022)SWITCHING TRACKS<==>CAMBIANDO PISTAS-->TROCANDO PISTA
-(0023)(0023)TRACK CONTROLS OFFLINE<==>CONTROLES DE PISTA DESCONECTADOS-->CONTROLES DA PISTA OFFLINE
+(0021)(0021)SWITCH TRACKS<==>CAMBIAR PISTAS-->TROCAR PISTAS
+(0022)(0022)SWITCHING TRACKS<==>CAMBIANDO PISTAS-->TROCANDO PISTAS
+(0023)(0023)TRACK CONTROLS OFFLINE<==>CONTROLES DE PISTA DESCONECTADOS-->CONTROLES DA PISTA DESCONECTADOS
 (0024)(0024)Sign-In Required<==>Inicio de sesión necesario-->Autenticação necessária
 (0025)(0025-IGUAIS)Geneviève Picard-->Geneviève Picard
 (0026)(0026-IGUAIS)8-->8
@@ -29,16 +29,16 @@
 (0029)(0029-IGUAIS)*-->*
 (0030)(0030)ARCTIC SECURITY SUIT<==>TRAJE DE SEGURIDAD DE ARCTIC-->TRAJE DE SEGURANÇA DO ÁRTICO
 (0031)(0031-IGUAIS)QAOS-->QAOS
-(0032)(0032)Air canisters can save your life in vacuums.  Keep one handy and use it if your air timer gets low.<==>Los botes de oxígeno pueden salvarte la vida en zonas de vacío. Ten uno siempre a mano y utilízalo si el temporizador de aire baja mucho.-->Tubos de ar podem salvar sua vida no vácuo. Mantenha um sempre a mão e use-o se o temporizador de ar ficar baixo.
+(0032)(0032)Air canisters can save your life in vacuums.  Keep one handy and use it if your air timer gets low.<==>Los botes de oxígeno pueden salvarte la vida en zonas de vacío. Ten uno siempre a mano y utilízalo si el temporizador de aire baja mucho.-->Tubos de oxigênio podem salvar sua vida no vácuo. Mantenha um sempre a mão e use-o se o temporizador de ar baixar muito.
 (0033)(0033-IGUAIS)Sharon Andrews-->Sharon Andrews
-(0034)(0034)Bring this schematic to the store to unlock the Engineering Elite Suit.<==>Lleva este diagrama al almacén para desbloquear el traje de ingeniería de élite.-->Leve esse diagrama até a loja para desbloquear o Traje de Elite de Engenheiro.
+(0034)(0034)Bring this schematic to the store to unlock the Engineering Elite Suit.<==>Lleva este diagrama al almacén para desbloquear el traje de ingeniería de élite.-->Leve esse diagrama até a loja para desbloquear o Traje de Engenharia de Elite.
 (0035)(0035)Senior Online Engineers<==>Ingenieros online sénior-->Engenheiros Sênior Online 
 (0036)(0036)//loading...<==>//cargando...-->//carregando...
-(0037)(0037)Enter your email.<==>Introduce tu correo electrónico.-->Informe o seu e-mail.
+(0037)(0037)Enter your email.<==>Introduce tu correo electrónico.-->Informe seu e-mail.
 (0038)(0038)CREW KEY<==>LLAVE DE TRIPULACIÓN-->CHAVE DA TRIPULAÇÃO
 (0039)(0039)Upgrade weapons and RIG.<==>Mejora tus armas y tu DRI.-->Melhore suas armas e seu DRI.
-(0040)(0040)Reconnect Power Modules Throughout Chamber<==>Reconectar módulos de energía en la cámara-->Reconecte os Módulos de Energia da Câmara
-(0041)(0041)force gun<==>cañón de energía-->arma de força
+(0040)(0040)Reconnect Power Modules Throughout Chamber<==>Reconectar módulos de energía en la cámara-->Reconectar os Módulos de Energia na Câmara
+(0041)(0041)force gun<==>cañón de energía-->canhão de energia
 (0042)(0042)Chapter 1:\nNew Arrivals<==>Capítulo 1:\nRecién llegados-->Capítulo 1:\nRecém-Chegados
 (0043)(0043)Chapter 2:\nIntensive Care<==>Capítulo 2:\nCuidados intensivos-->Capítulo 2:\nTratamento Intensivo
 (0044)(0044)Chapter 3:\nCourse Correction<==>Capítulo 3:\nCorrección del rumbo-->Capítulo 3:\nCorreção de Curso
@@ -102,7 +102,7 @@
 (0102)(0102)Unlocked with Collector's Edition<==>Desbloqueado con la edición de coleccionista-->Desbloqueado com a Edição de Colecionador
 (0103)(0103-IGUAIS)100\n\n90\n\n80\n\n70\n\n60-->100\n\n90\n\n80\n\n70\n\n60
 (0104)(0104)Something's blocking the transport from being loaded onto the tracks that lead to Government Sector. I'll have to check it out.<==>Algo impide que el transporte acceda a las vías que llevan al sector gubernamental. Tendré que echar un vistazo.-->Algo está impedindo que o transporte seja carregado sobre os trilhos que levam ao Setor Governamental. Terei que verificar.
-(0105)(0105)BLOODY FORCE GUN<==>CAÑÓN DE ENERGÍA SANGRIENTO-->ARMA DE ENERGIA SANGRENTA
+(0105)(0105)BLOODY FORCE GUN<==>CAÑÓN DE ENERGÍA SANGRIENTO-->CANHÃO DE ENERGIA SANGRENTO
 (0106)(0106)Bring this schematic to the store to unlock the Vintage Elite Suit.<==>Lleva este diagrama al almacén para desbloquear el traje vintage de élite.-->Leve esse diagrama até a loja para desbloquear o Traje Vintage de Elite.
 (0107)(0107)Press [select] to view your inventory, objectives, and tutorials. Press [LSTop] and [RSTop] to toggle back and forth between these menus.\n\nBe sure to read the tutorials for Aiming, Kinesis, and Stasis in the Database screen of Isaac's RIG.\n\nStrategically dismember enemy limbs for more damage - mastering this skill is the key to Isaac's survival.<==>Pulsa [select] para ver el inventario, los objetivos y los tutoriales. Pulsa [LSTop] y [RSTop] para desplazarte por estos menús.\n\nAsegúrate de leer los tutoriales de fijación de objetivos, cinética y estabilización en la pantalla de la base de datos del DRI de Isaac.\n\nCercena estratégicamente las extremidades de tus enemigos para causar más daño: el dominio de esta habilidad es la clave de la supervivencia de Isaac.-->Aperte [select] para ver o seu inventário, objetivos, e tutoriais. Aperte [LSTop] e [RSTop] para alternar para trás e para frente entre estes menus.\n\nNão se esqueça de ler os tutoriais de Cinética, Estabilização, e Desmembramento Estratégico. Dominar essas habilidades é a chave para a sobrevivência de Isaac.
 (0108)(0108)alt. fire<==>disparo sec.-->Tiro Sec.
@@ -148,7 +148,7 @@
 (0148)(0148)please insert "disc 1" to continue<==>Inserta el "disco 1" para continuar.-->por favor, insira o "disco 1" para continuar
 (0149)(0149)please insert "disc 2" to continue<==>Inserta el "disco 2" para continuar.-->por favor, insira o "disco 2" para continuar
 (0150)(0150-IGUAIS)Span: üúóñíéçáÜÚÓÑÍÉÇÁ¿ºª¡\nItal: ùóòìéèèàÙÓÒÌÉÈÁ\nGer: üöäßÜÖÄ\nFr: üûùïîëêéèçâàô\nRussian: абвгдеёжзийклмнопрстуфхцчшщъыьэюя\nАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ\n-->Span: üúóñíéçáÜÚÓÑÍÉÇÁ¿ºª¡\nItal: ùóòìéèèàÙÓÒÌÉÈÁ\nGer: üöäßÜÖÄ\nFr: üûùïîëêéèçâàô\nRussian: абвгдеёжзийклмнопрстуфхцчшщъыьэюя\nАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ\n
-(0151)(0151)You now have the ability to equip the Zealot Force Gun in single player and the Zealot Suit in single & multiplayer.\nYou have also unlocked Online Pass.<==>Ahora ya puedes equipar el cañón de energía extremo en el modo un jugador y el traje extremo en los modos un jugador y multijugador.\nTambién has desbloqueado el pase online.-->Agora você tem a possibilidade de equipar a Arma de Força Fanático no modo de um jogador e do Traje Fanático no modo de um e de multijogador.
+(0151)(0151)You now have the ability to equip the Zealot Force Gun in single player and the Zealot Suit in single & multiplayer.\nYou have also unlocked Online Pass.<==>Ahora ya puedes equipar el cañón de energía extremo en el modo un jugador y el traje extremo en los modos un jugador y multijugador.\nTambién has desbloqueado el pase online.-->Agora você tem a possibilidade de equipar o Canhão de Energia Extremo no modo de um jogador e do Traje Fanático no modo de um e de multijogador.
 (0152)(0152)hard core mode<==>Modo Imposible-->Modo Impossível
 (0153)(0153)QUICK TURN<==>GIRO RÁPIDO-->GIRO RÁPIDO
 (0154)(0154)Secondary Fire DAM +10% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to launch a javelin.  Caution: danger of impalement.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to electrify the last javelin that was launched.<==>DÑO disparo secundario: +10% / REC: -5%\n - [c=CUSTOM2]Disparo principal[c=RESET]: pulsa [rsbottom] para disparar una jabalina. Precaución: peligro de empalamiento.\n - [c=CUSTOM2]Disparo secundario[c=RESET]: pulsa [rstop] para electrizar la última jabalina disparada.-->DANO de tiro secundário +10% / REC. -5%\n• [c=CUSTOM2] Tiro Principal [c=RESET]: aperte [rsbottom] para disparar o dardo.  Cuidado: perigo de empalamento.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: aperte [rstop] para eletrocutar o último dardo lançada.
@@ -425,7 +425,7 @@
 (0425)(0425)NAV CARD 3<==>CARTA DE NAVEGACIÓN 3-->CARTA DE NAVEGAÇÃO 3
 (0426)(0426)[RDUp]ZOOM IN<==>[RDUp]ACERCAR-->[RDUp]Zoom
 (0427)(0427)//settings<==>//Opciones-->//opções
-(0428)(0428)force gun<==>cañón de energía-->Arma de energia
+(0428)(0428)force gun<==>cañón de energía-->canhão de energia
 (0429)(0429)Guard Security Doors<==>Protege las puertas de seguridad.-->Proteja as Portas de Segurança
 (0430)(0430)//online pass<==>//Pase online-->//passe online
 (0431)(0431)I don't know who this woman is, but she's helped me make it this far. Trust isn't a factor here - she's helped me survive, and that's what matters. She says she has a cure for these hallucinations and a way off this space station.\n\nI've got nothing to lose by meeting her.<==>No sé quién es esta mujer, pero me ha ayudado a llegar hasta aquí. La confianza no es un factor, me ha ayudado a sobrevivir, eso es lo único que importa. Dice que tiene una cura para estas alucinaciones y que conoce la forma de salir de esta estación espacial.\n\nNo pierdo nada reuniéndome con ella.-->Eu não sei quem é esta mulher, mas ela me ajudou a chegar tão longe. A confiança não é um fator aqui - ela me ajudou a sobreviver, e isso é o que importa. Ela diz que tem uma cura para essas alucinações e um caminho para fora desta estação espacial.\n\nEu não tenho nada a perder, vou encontrá-la.
@@ -1704,7 +1704,7 @@
 (1704)(1704)Unlock Security Doors<==>Desbloquea las puertas de seguridad.-->Desbloqueie as Portas de Segurança
 (1705)(1705){g} (default)<==>{g} (predet.)-->{g} (padrão)
 (1706)(1706)Gravity Tethers: ENGAGED<==>Anclajes gravitatorios: ACTIVADOS-->Amarras de Gravidade: CONECTADO
-(1707)(1707)You unlocked increased damage for the Force Gun<==>Has desbloqueado más daño para el cañón de energía.-->Você desbloqueou mais danos para seu Canhão de Energia
+(1707)(1707)You unlocked increased damage for the Force Gun<==>Has desbloqueado más daño para el cañón de energía.-->Você desbloqueou mais danos para o Canhão de Energia
 (1708)(1708)Senior Producer<==>Productor sénior-->Produtor Sênior
 (1709)(1709-IGUAIS)EA Canada-->EA Canada
 (1710)(1710)//Engines<==>//Motores-->//Motorea
@@ -2140,7 +2140,7 @@
 (2140)(2140)Medium Med Pack Schematic<==>Diagrama de botiquín mediano-->Diagrama de Kit Médico Médio
 (2141)(2141)Hydrazine industrial torch.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] for a steady stream of flame.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch an entire flame fuel canister at a target for heavy damage.<==>Antorcha industrial de hidracina.\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para lanzar una llamarada.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar un bote entero de combustible inflamable a un objetivo y causarle graves daños.-->Tocha industrial de hidrazina.\n• [c=CUSTOM2] Tiro Principal [c=RESET]: aperte e segure [rsbottom] para lançar uma chama.\n• [c=CUSTOM2] Tiro secundário [c=RESET]: aperte [rstop] para lançar um tubo inteiro de combustível inflamável no alvo para causar grandes danos.
 (2142)(2142)Tiger Camo Blue<==>Azul camuflaje tigre-->Camuflagem de Tigre Azul
-(2143)(2143)The Bloody Vintage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Flamethrower, Javelin, and Force Gun get a 5% damage bonus. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje vintage sangriento ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación [c=RESET]: 5% más de daño con lanzallamas, cañón jabalina y cañón de energía. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje Vintage Sangrenta garante funcionalidades únicas a quem a veste:\n• [c=CUSTOM3] Bônus nas armas [c=RESET]: 5% mais de danos com o Lança-Chamas, Javelin, e Arma de Energia. \nA compra garante um mínimo de 15 slots no inventário e 15% de armadura. Seu DRI mantém a maior melhoria de Armadura e Inventário.
+(2143)(2143)The Bloody Vintage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Flamethrower, Javelin, and Force Gun get a 5% damage bonus. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje vintage sangriento ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación [c=RESET]: 5% más de daño con lanzallamas, cañón jabalina y cañón de energía. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje Vintage Sangrenta garante funcionalidades únicas a quem a veste:\n• [c=CUSTOM3] Bônus nas armas [c=RESET]: 5% mais de danos com o Lança-Chamas, Javelin, e Canhão de Energia. \nA compra garante um mínimo de 15 slots no inventário e 15% de armadura. Seu DRI mantém a maior melhoria de Armadura e Inventário.
 (2144)(2144)Claw Arm Malfunction! Manual Replacement Required.<==>¡Fallo en el brazo prensor! Necesaria sustitución manual.-->Falha no braço da prensa! Necessária a substituição manual.
 (2145)(2145)Claws Attached. Activate Center Console.<==>Pinzas acopladas. Activar consola central.-->Pinças acopladas. Ative o console central.
 (2146)(2146)Component of military grade explosive device. Construct at certified Bench.<==>Componente de dispositivo explosivo militar. Fabricar en banco certificado.-->Componente militar de dispositivo explosivo. Fabricar em um Banco autorizado.
@@ -2549,7 +2549,7 @@
 (2549)(2549)Either your account has been disabled or access to this game has been disabled.\nIf you have any questions regarding your account, please visit support.ea.com<==>O tu cuenta o el acceso a este juego se han desactivado.\nSi tienes cualquier pregunta sobre tu cuenta, visita support.ea.com.-->Sua conta ou o seu acesso a esse jogo foram desativados.\nSe você tiver mais questões sobre sua conta, por favor visite support.ea.com
 (2550)(2550)Director of Advertising <==>Director de publicidad-->Diretor de publicidade 
 (2551)(2551-IGUAIS)1-->1
-(2552)(2552)ZEALOT FORCE GUN<==>CAÑÓN DE ENERGÍA FANÁTICO-->ARMA DE ENERGIA FANÁTICA
+(2552)(2552)ZEALOT FORCE GUN<==>CAÑÓN DE ENERGÍA FANÁTICO-->CANHÃO DE ENERGIA FANÁTICO
 (2553)(2553)Continue current game<==>Continúa la partida actual.-->Continuar jogo atual
 (2554)(2554)ACQUISITIONS<==>ADQUISICIONES-->AQUISIÇÕES
 (2555)(2555)Call\nGondola<==>Llamar\ngóndola-->Chamar\nGondola
@@ -4165,7 +4165,7 @@
 (4165)(4165)You have unlocked the Hacker Suit schematic and other helpful items left behind by Franco Delille. Look for the four doors throughout the game with the Conduit Room sign to find your items inside.<==>Has desbloqueado el diagrama del traje de pirateo y otros objetos útiles que Franco Delille se ha dejado. Busca por el juego las cuatro puertas con el letrero de sala de distribución; tus objetos estarán dentro.-->Você destravou o diagrama do Traje Hacker e outros itens úteis deixados por Franco Delille. Procure por quatro portas durante todo o jogo com o sinal Sala de Distribuição para encontar itens neles.
 (4166)(4166-IGUAIS)4-->4
 (4167)(4167)weapon<==>Arma-->arma
-(4168)(4168)You unlocked increased magazine size for the Force Gun<==>Has desbloqueado un mayor tamaño del cargador para el cañón de energía.-->Você desbloqueou um maior tamanho do compartimento para a Arma de Força
+(4168)(4168)You unlocked increased magazine size for the Force Gun<==>Has desbloqueado un mayor tamaño del cargador para el cañón de energía.-->Você desbloqueou um maior tamanho do compartimento para o canhão de energia
 (4169)(4169)Confirm<==>Confirmar-->Confirmar
 (4170)(4170)CALL TRAM?<==>¿LLAMAR?-->CHAMAR?
 (4171)(4171)Ionized Gas Cartridge for the Plasma Cutter.\n - Inventory Slot Stack Size: 25<==>Munición para la cortadora de plasma.\n- Tamaño del bloque de ranuras de inventario: 25\n-->Cartucho de Gás Ionizado para o Cortador de Plasma.\n - Tamanho do Bloco de slots do Inventário: 25
@@ -5254,7 +5254,7 @@
 (5254)(5254-IGUAIS)Español-->Espanhol
 (5255)(5255-IGUAIS)Steve Papoutsis-->Steve Papoutsis
 (5256)(5256)STASIS DOOR<==>PUERTA DE ESTABILIZACIÓN-->PORTA DE ESTABILIZAÇÃO
-(5257)(5257)FORCE GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN DE ENERGÍA\nDiagrama adquirido\nDescargar en el almacén-->ARMA DE ENERGIA\nDiagrama Adquirido\nBaixe na Loja
+(5257)(5257)FORCE GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN DE ENERGÍA\nDiagrama adquirido\nDescargar en el almacén-->CANHÃO DE ENERGIA\nDiagrama Adquirido\nBaixe na Loja
 (5258)(5258)///brightness<==>///Brillo-->//Brilho
 (5259)(5259-IGUAIS)1-->1
 (5260)(5260)GRIP SYMBOL<==>SÍMBOLO GRIP-->SÍMBOLO GRIP
@@ -6544,7 +6544,7 @@
 (6544)(6544)Have you ever felt like you were meant to be part of something bigger? Then maybe Unitology is for you. Founded two hundred years ago by our savior, Michael Altman, Unitologists believe that one day all mankind will be united through the power of a sacred artifact known as the Marker. We call this process Convergence. Imagine it. All mankind, brought together. With one purpose. With one mind. With one soul. No war. No fear. No hate. If that sounds like an ideal world to you, then look no further. Convergence is coming. And Unitology... is helping it happen.<==>¿Alguna vez te has sentido destinado a formar parte de algo más grande? Quizá lo que buscas sea la Uniología. Los uniólogos, fundados hace doscientos años por nuestro salvador, Michael Altman, creen que llegará el día en que la humanidad se una mediante el poder que emana de un artefacto sagrado conocido como la Efigie. A este proceso lo llamamos Convergencia. Imagínatelo. Toda la humanidad, unida. Con un solo fin. Una mente. Un alma. Sin guerras. Sin miedo. Sin odio. Si es tu idea de un mundo perfecto, no busques más. La Convergencia está próxima. Y la Uniología... está ayudando a que se produzca.-->Você alguma vez já sentiu como se fosse destinado a algo maior? Então talvez a Unitologia seja para você. Fundada duzentos anos atrás pelo nosso salvador, Michael Altman, os Unitologistas acreditam que um dia toda a humanidade será unida através do poder do artefato sagrado conhecido como Marcador\Marker. Chamamos esse processo de Convergência. Imagine. Toda a humanidade, unida. Com apenas um propósito. Com apenas uma ideia. Uma alma. Sem guerras. Sem medo. Sem odio. Se isso soa como um mundo ideal para você, então acorde. A Convergência está chegando. E a Unitologia... está fazendo chegar.
 (6545)(6545)Have you ever felt like you were meant to be part of something bigger?   Then maybe Unitology is for you. One day all mankind will be united through the power of a sacred artifact known as the Marker.  All mankind, brought together. With one purpose. With one mind. With one soul. No war. No fear. No hate.   Convergence is coming. <==>¿Alguna vez has sentido destinado a formar parte de algo más grande? Quizá lo que buscas sea la Uniología. Llegará el día en que la humanidad se una mediante el poder que emana de un artefacto sagrado conocido como la Efigie. Toda la humanidad, unida. Con un solo fin. Una mente. Un alma. Sin guerras. Sin miedo. Sin odio. La Convergencia se acerca.-->Você alguma vez já sentiu como se fosse destinado a algo maior? Então talvez a Unitologia seja para você. Um dia toda a humanidade será unida através do poder do artefato sagrado conhecido como Marcador\Marker.  Toda a humanidade, unida. Com apenas um propósito. Com apenas uma ideia. Uma alma. Sem guerras. Sem medo. Sem odio. Se isso soa como um mundo ideal para você, então acorde. A Convergência está chegando.
 (6546)(6546)save game<==>Guardar partida-->gravar jogo
-(6547)(6547)force gun<==>Cañón de energía-->arma de força
+(6547)(6547)force gun<==>Cañón de energía-->canhão de energia
 (6548)(6548)This combination is not a valid code.<==>Esa combinación no constituye un código válido.-->Esta combinação não é um código válido.
 (6549)(6549)ALERT ALERT ALERT<==>ALERTA ALERTA ALERTA-->ALERTA ALERTA ALERTA
 (6550)(6550)quit<==>Salir-->sair
@@ -6649,7 +6649,7 @@
 (6649)(6649)We did it! The Solar Array is back online, and power is being transferred to the Sprawl. Now I just need to get Ellie and Stross over to Government Sector in one piece...<==>¡Lo logramos! El panel solar vuelve a funcionar y está transfiriendo energía al Eje. Ahora solo necesito llevar a Ellie y Stross al sector gubernamental de una pieza...-->Conseguimos! A Matriz Solar foi religada, e a força está sendo espalhada. Agora só preciso levar Ellie e Stross inteiros até o Setor Governamental...
 (6650)(6650)UI Artists<==>Diseñadores de IU-->Artistas de UI
 (6651)(6651)THERMITE BOMB<==>BOMBA TERMITA-->BOMBA TÉRMITE
-(6652)(6652)FORCE GUN<==>CAÑÓN DE ENERGÍA-->ARMA DE FORÇA
+(6652)(6652)FORCE GUN<==>CAÑÓN DE ENERGÍA-->CANHÃO DE ENERGIA 
 (6653)(6653)Equip?<==>¿Equipar?-->Equipar?
 (6654)(6654)Loading...<==>Cargando...-->Carregando...
 (6655)(6655-IGUAIS)1-->1
