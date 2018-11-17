@@ -48,112 +48,112 @@
 (0048)(0048)Chapter 7: \nInto the Void<==>Capítulo 7:\nAl vacío-->Capítulo 7: \nNo Vazio
 (0049)(0049)Chapter 8:\nSearch and Rescue<==>Capítulo 8:\nBúsqueda y rescate-->Capítulo 8:\nBusca e Resgate
 (0050)(0050)Chapter 9: \nDead on Arrival<==>Capítulo 9:\nIngresó cadáver-->Capítulo 9: \nMorto na Chegada
-(0051)(0051)QA Compliance Analyst<==>Analista de validación de control de calidad-->Analista de Conformidade de Controle de Qualidade
-(0052)(0052)There are soldiers here, and they're trying to kill me. It's like they want to eliminate all evidence of this place - including me.\n\nBut some of the men I've seen aren't soldiers. I think they're working for this woman, Daina. And they want to rescue me. I'm going to follow her route out of here.<==>Aquí hay soldados, y están intentando matarme. Es como si quisieran eliminar todo rastro de este lugar, yo incluido.\n\nPero algunos de los hombres que he visto no son soldados. Creo que trabajan para esta mujer, Daina. Y quieren rescatarme. Voy a seguir su ruta de salida.-->Há soldados aqui, e eles estão tentando me matar. É como se eles quisessem eliminar todas as provas deste lugar - inclusive eu.\n\nMas alguns dos homens que eu vi não são soldados. Eu acho que eles estão trabalhando para essa mulher, Daina. E eles querem me salvar. Vou seguir a sua rota para sair fora daqui.
-(0053)(0053)Stay with your tour guide.\n\nPlease, no talking during church services.\n\nNo recording devices allowed.\n\nPlease remember to silence your RIG.<==>Sigan al guía.\nGuarden silencio durante los servicios.\nNo se permite grabar. \nNo olviden silenciar sus DRI.-->Fique com o seu guia turístico.\n\nPor favor, não converse durante os cultos da igreja.\n\nNenhum dispositivo de gravação é permitido.\n\nLembre-se de silenciar o seu DRI.
+(0051)(0051)QA Compliance Analyst<==>Analista de validación de control de calidad-->Analista de Validação de Controle de Qualidade
+(0052)(0052)There are soldiers here, and they're trying to kill me. It's like they want to eliminate all evidence of this place - including me.\n\nBut some of the men I've seen aren't soldiers. I think they're working for this woman, Daina. And they want to rescue me. I'm going to follow her route out of here.<==>Aquí hay soldados, y están intentando matarme. Es como si quisieran eliminar todo rastro de este lugar, yo incluido.\n\nPero algunos de los hombres que he visto no son soldados. Creo que trabajan para esta mujer, Daina. Y quieren rescatarme. Voy a seguir su ruta de salida.-->Há soldados aqui, e eles estão tentando me matar. É como se eles quisessem eliminar todas as provas desse lugar - incluindo eu.\n\nMas alguns dos homens que eu vi não são soldados. Eu acho que trabalham para essa mulher, Daina. E eles querem me resgatar. Vou seguir sua rota para sair daqui.
+(0053)(0053)Stay with your tour guide.\n\nPlease, no talking during church services.\n\nNo recording devices allowed.\n\nPlease remember to silence your RIG.<==>Sigan al guía.\nGuarden silencio durante los servicios.\nNo se permite grabar. \nNo olviden silenciar sus DRI.-->Sigam seu guia turístico.\n\nGuarde silêncio durante os cultos da igreja.\n\nNenhum dispositivo de gravação é permitido.\n\nNão se esqueçam de silenciar seu DRI.
 (0054)(0054)Senior VFX Artists<==>Diseñadores de efectos visuales sénior-->Artista Sênior de Efeitos Visuais
 (0055)(0055-IGUAIS)[]-->[]
 (0056)(0056-IGUAIS)Dead Space¬ 2-->Dead Space¬ 2
 (0057)(0057-IGUAIS)J Eckert-->J Eckert
 (0058)(0058-IGUAIS)Seferino Gallardo-->Seferino Gallardo
 (0059)(0059-IGUAIS)Harry Kashouli-->Harry Kashouli
-(0060)(0060)EAST FOYER<==>VESTÍBULO ESTE-->SAGUÃO OESTE
-(0061)(0061)You can add items from the Shop or move items from the Safe here.<==>Puedes añadir objetos de la tienda o enviarlos aquí desde la caja fuerte.-->Você pode adicionar itens da loja ou movê-los para o Cofre.
-(0062)(0062)dism.<==>desm.-->Desm.
+(0060)(0060)EAST FOYER<==>VESTÍBULO ESTE-->VESTÍBULO
+(0061)(0061)You can add items from the Shop or move items from the Safe here.<==>Puedes añadir objetos de la tienda o enviarlos aquí desde la caja fuerte.-->Você pode adicionar itens da loja ou movê-los do cofre para cá.
+(0062)(0062)dism.<==>desm.-->desm.
 (0063)(0063-IGUAIS)4-->4
 (0064)(0064)Semi-conductors found<==>Semiconductores encontrados-->Semicondutores encontrados
 (0065)(0065)INVENTORY<==>INVENTARIO-->INVENTÁRIO
-(0066)(0066)prevent disc from being delivered to the intel room<==>Evita que el disco llegue a la sala de inteligencia.-->Evite que o disco chegue a sala de inteligência
-(0067)(0067)BLOODY JAVELIN GUN<==>CAÑÓN JABALINA SANGRIENTO-->ARMA DE DARDOS SANGRENTA
-(0068)(0068)+{n}\nKILL STREAK 10<==>+{n}\n10 BAJAS-->+{n}\nLISTA DE MORTES 10
-(0069)(0069)+{n}\nKILL STREAK 20<==>+{n}\n20 BAJAS-->+{n}\nLISTA DE MORTES 20
+(0066)(0066)prevent disc from being delivered to the intel room<==>Evita que el disco llegue a la sala de inteligencia.-->Evite que o disco chegue na sala de inteligência
+(0067)(0067)BLOODY JAVELIN GUN<==>CAÑÓN JABALINA SANGRIENTO-->CANHÃO DE DARDOS SANGRENTO
+(0068)(0068)+{n}\nKILL STREAK 10<==>+{n}\n10 BAJAS-->+{n}\n10 BAIXAS
+(0069)(0069)+{n}\nKILL STREAK 20<==>+{n}\n20 BAJAS-->+{n}\n20 BAIXAS
 (0070)(0070)   Activate the gravity tethers.<==>Activa los anclajes gravitatorios.-->   Ative as âncoras gravitacionais.
 (0071)(0071-IGUAIS)2-->2
 (0072)(0072)Telekinetic Surgical\nBinding Active<==>Inmovilización quirúrgica\ntelequinética activa-->Imobilização Cirúrgica\nCinética Ativa
-(0073)(0073)Lead Environment Artists<==>Jefes de diseño de entornos-->Chefe de Artes Ambientais
+(0073)(0073)Lead Environment Artists<==>Jefes de diseño de entornos-->Chefe de Artes de Ambientes
 (0074)(0074-IGUAIS)Ramiro Gomez-->Ramiro Gomez
 (0075)(0075-IGUAIS)John Svensson-->John Svensson
 (0076)(0076-IGUAIS)Sebastian Suarez-->Sebastian Suarez
 (0077)(0077-IGUAIS)Nahuel Schuler-->Nahuel Schuler
 (0078)(0078)THANK YOU FOR YOUR COOPERATION<==>GRACIAS POR SU COOPERACIÓN-->OBRIGADO PELA SUA COOPERAÇÃO
 (0079)(0079)I Agree<==>Aceptar-->Eu Aceito
-(0080)(0080)General Machette, this is Sergeant Fattouh, I've located the RIG signals for the remaining 143 sector G personnel. They are locked in and tracking to evac. Shuttle fleet confirms capacity, and are standing by. How did an evacuation get authorized? Tiedemann's going against every protocol for this situation. Now it's too late to stop it, and there's just a mad dash to get everyone off! He must feel responsible for what's happening, and is trying to save as many as he can.<==>General Machette, aquí el sargento Fattouh. He detectado señales de DRI de los 143 miembros del sector G que faltaban. Están atrapados y esperando evacuación. El transbordador confirma que hay capacidad y están a la espera.¿Cómo se ha autorizado una evacuación? Tiedemann está incumpliendo todos los protocolos para esta situación. ¡Ahora es demasiado tarde para pararlo, y sacar a todo el mundo de aquí es una locura! Seguro que se siente responsable de lo que está ocurriendo y quiere salvar a todos los que pueda. -->General Machette, aqui é o sargento Fattouh, eu localizei os sinais dos DRI's de 143 funcionários do setor G. Eles estão presos e esperando evacuação. O Transportador confirma a capacidade da frota, e estão à disposição. Como começar uma evacuação autorizada? Tiedemann está indo contra todos os protocolos nessa situação. Agora é tarde demais para pará-lo, e é uma loucura tirar todos! Ele deve estar se sentindo responsável pelo que está acontecendo, e está tentando salvar todos os que ele pode.
-(0081)(0081)Affirmative sir.  Fattouh out.<==>Afirmativo, señor. Fattouh, corto.-->Afirmativo senhor. Fattouh saindo.
+(0080)(0080)General Machette, this is Sergeant Fattouh, I've located the RIG signals for the remaining 143 sector G personnel. They are locked in and tracking to evac. Shuttle fleet confirms capacity, and are standing by. How did an evacuation get authorized? Tiedemann's going against every protocol for this situation. Now it's too late to stop it, and there's just a mad dash to get everyone off! He must feel responsible for what's happening, and is trying to save as many as he can.<==>General Machette, aquí el sargento Fattouh. He detectado señales de DRI de los 143 miembros del sector G que faltaban. Están atrapados y esperando evacuación. El transbordador confirma que hay capacidad y están a la espera.¿Cómo se ha autorizado una evacuación? Tiedemann está incumpliendo todos los protocolos para esta situación. ¡Ahora es demasiado tarde para pararlo, y sacar a todo el mundo de aquí es una locura! Seguro que se siente responsable de lo que está ocurriendo y quiere salvar a todos los que pueda. -->General Machette, aqui é o sargento Fattouh, eu localizei os sinais dos DRI's dos 143 funcionários do setor G que estavam faltando. Eles estão presos e esperando evacuação. O transportador confirma que há capacidade, e estão à espera. Como foi autorizada uma evacuação? Tiedemann está descumprindo todos os protocolos para essa situação. Agora é tarde demais para pará-lo, e tirar todo mundo daqui é uma loucura! Ele deve estar se sentindo responsável pelo que está acontecendo, e está tentando salvar todos que puder.
+(0081)(0081)Affirmative sir.  Fattouh out.<==>Afirmativo, señor. Fattouh, corto.-->Afirmativo senhor. Fattouh, saindo.
 (0082)(0082)1<T>QA Immersion\n<L>Craig Helm\nNolberto Meza\nMatt Tomczek\n\n<T>Senior QA Engineer\n<L>Behrang Garakani<==>1<T>QA de Immersion\n<L>Craig Helm\nNolberto Meza\nMatt Tomczek\n\n<T>Ingeniero de QA sénior\n<L>Behrang Garakani-->1<T>QA de Imersão\n<L>Craig Helm\nNolberto Meza\nMatt Tomczek\n\n<T>Engenheiro de QA Sênior\n<L>Behrang Garakani
 (0083)(0083)Standby Mode<==>Modo de espera-->Modo de espera
-(0084)(0084)Approach to activate.<==>Inicio de maniobra de activación.-->Abordagem ativada.
+(0084)(0084)Approach to activate.<==>Inicio de maniobra de activación.-->Início de manobra de ativação.
 (0085)(0085)no gamer profile signed in<==>Ningún perfil de jugador ha iniciado sesión-->nenhum perfil de jogador iniciou sessão
 (0086)(0086-IGUAIS)1-->1
 (0087)(0087)increased stasis energy<==>Energía de estabilización aumentada-->Energia de estabilização aumentada
-(0088)(0088)SHOOTING RANGE SCORE<==>PUNTUACIÓN DE ALCANCE DE DISPARO-->PONTUAÇÃO DO ALCANCE DO TIRO
+(0088)(0088)SHOOTING RANGE SCORE<==>PUNTUACIÓN DE ALCANCE DE DISPARO-->PONTUAÇÃO DE ALCANCE DO DISPARO
 (0089)(0089)LEVEL<==>NIVEL-->NÍVEL
 (0090)(0090)SCORE<==>PUNTOS-->PONTOS
 (0091)(0091)STATION 2<==>ESTACIÓN 2-->ESTAÇÃO 2
 (0092)(0092)LOAD DNA SAMPLE<==>CARGAR MUESTRA DE ADN-->CARREGAR AMOSTRA DE DNA
 (0093)(0093-IGUAIS)Atsushi Seo-->Atsushi Seo
 (0094)(0094)Prepare the transport to Government Sector.<==>Prepara el transporte al sector gubernamental.-->Prepare o transporte para o Setor Governamental
-(0095)(0095)redeem content<==>Canjear contenido-->resgate o conteúdo
+(0095)(0095)redeem content<==>Canjear contenido-->resgatar conteúdo
 (0096)(0096)Duplicate user has logged in.<==>Ya hay una sesión iniciada con ese usuario.-->Já existe uma sessão iniciada com esse usuário
-(0097)(0097)Stasis Pack Schematic<==>Diagrama de carga de estabilización-->Diagrama de Kit de Estabilização
-(0098)(0098)Vendor<==>Proveedor-->Vendedor
+(0097)(0097)Stasis Pack Schematic<==>Diagrama de carga de estabilización-->Diagrama de carga de estabilização
+(0098)(0098)Vendor<==>Proveedor-->Provedor
 (0099)(0099)please wait<==>Espera-->Por favor, aguarde
-(0100)(0100)Use Kinesis to insert and remove Power Cells.<==>Utiliza la cinética para insertar y extraer células de energía.-->Use a Cinética para inserir ou retirar Células de Energia.
+(0100)(0100)Use Kinesis to insert and remove Power Cells.<==>Utiliza la cinética para insertar y extraer células de energía.-->Use a cinética para inserir e extrair células de energia.
 (0101)(0101-IGUAIS)1-->1
-(0102)(0102)Unlocked with Collector's Edition<==>Desbloqueado con la edición de coleccionista-->Desbloqueado com a Edição de Colecionador
+(0102)(0102)Unlocked with Collector's Edition<==>Desbloqueado con la edición de coleccionista-->Desbloqueado com a edição de colecionador
 (0103)(0103-IGUAIS)100\n\n90\n\n80\n\n70\n\n60-->100\n\n90\n\n80\n\n70\n\n60
-(0104)(0104)Something's blocking the transport from being loaded onto the tracks that lead to Government Sector. I'll have to check it out.<==>Algo impide que el transporte acceda a las vías que llevan al sector gubernamental. Tendré que echar un vistazo.-->Algo está impedindo que o transporte seja carregado sobre os trilhos que levam ao Setor Governamental. Terei que verificar.
+(0104)(0104)Something's blocking the transport from being loaded onto the tracks that lead to Government Sector. I'll have to check it out.<==>Algo impide que el transporte acceda a las vías que llevan al sector gubernamental. Tendré que echar un vistazo.-->Alguma coiss está impedindo que o transporte tenha acesso ás vias que levam ao Setor Governamental. Terei que verificar.
 (0105)(0105)BLOODY FORCE GUN<==>CAÑÓN DE ENERGÍA SANGRIENTO-->CANHÃO DE ENERGIA SANGRENTO
 (0106)(0106)Bring this schematic to the store to unlock the Vintage Elite Suit.<==>Lleva este diagrama al almacén para desbloquear el traje vintage de élite.-->Leve esse diagrama até a loja para desbloquear o Traje Vintage de Elite.
-(0107)(0107)Press [select] to view your inventory, objectives, and tutorials. Press [LSTop] and [RSTop] to toggle back and forth between these menus.\n\nBe sure to read the tutorials for Aiming, Kinesis, and Stasis in the Database screen of Isaac's RIG.\n\nStrategically dismember enemy limbs for more damage - mastering this skill is the key to Isaac's survival.<==>Pulsa [select] para ver el inventario, los objetivos y los tutoriales. Pulsa [LSTop] y [RSTop] para desplazarte por estos menús.\n\nAsegúrate de leer los tutoriales de fijación de objetivos, cinética y estabilización en la pantalla de la base de datos del DRI de Isaac.\n\nCercena estratégicamente las extremidades de tus enemigos para causar más daño: el dominio de esta habilidad es la clave de la supervivencia de Isaac.-->Aperte [select] para ver o seu inventário, objetivos, e tutoriais. Aperte [LSTop] e [RSTop] para alternar para trás e para frente entre estes menus.\n\nNão se esqueça de ler os tutoriais de Cinética, Estabilização, e Desmembramento Estratégico. Dominar essas habilidades é a chave para a sobrevivência de Isaac.
-(0108)(0108)alt. fire<==>disparo sec.-->Tiro Sec.
+(0107)(0107)Press [select] to view your inventory, objectives, and tutorials. Press [LSTop] and [RSTop] to toggle back and forth between these menus.\n\nBe sure to read the tutorials for Aiming, Kinesis, and Stasis in the Database screen of Isaac's RIG.\n\nStrategically dismember enemy limbs for more damage - mastering this skill is the key to Isaac's survival.<==>Pulsa [select] para ver el inventario, los objetivos y los tutoriales. Pulsa [LSTop] y [RSTop] para desplazarte por estos menús.\n\nAsegúrate de leer los tutoriales de fijación de objetivos, cinética y estabilización en la pantalla de la base de datos del DRI de Isaac.\n\nCercena estratégicamente las extremidades de tus enemigos para causar más daño: el dominio de esta habilidad es la clave de la supervivencia de Isaac.-->Pressione [select] para ver o inventário, os objetivos, e os tutoriais. Pressione [LSTop] e [RSTop] para navegar para trás e para frente entre esses menus.\n\nNão se esqueça de ler os tutoriais de fixação de objetivos, cinética e estabilização na janela da base de dados do DRI do Isaac.\n\nDesmembre estratégicamente as extremidades dos seus inimigos para causar mais dano. O domínio dessa habilidade é a chave para a sobrevivência do Isaac.
+(0108)(0108)alt. fire<==>disparo sec.-->disparo sec.
 (0109)(0109)Name<==>Nombre-->Nome
 (0110)(0110)new items<==>nuevos objetos-->novos itens
-(0111)(0111)///episode select<==>///selección de episodio-->///slecionar episódio
+(0111)(0111)///episode select<==>///selección de episodio-->///seleção de episódio
 (0112)(0112)PERSONAL JOURNAL<==>DIARIO PERSONAL-->DIÁRIO PESSOAL
 (0113)(0113)increased health<==>mayor salud-->Saúde aumentada
 (0114)(0114)Credits<==>Créditos-->Créditos
 (0115)(0115-IGUAIS)William Liu-->William Liu
 (0116)(0116-IGUAIS)5-->5
-(0117)(0117)An in-use Xbox 360 Memory Unit with Dead Space¬ 2 downloadable content was removed, the game is unable to continue.<==>Se ha extraído una Unidad de memoria Xbox 360 en uso con descargas de contenido de Dead Space¬ 2. El juego no puede continuar.-->Uma unidade de memória com conteúdo extra de Dead Space¬ 2 foi removida, impossível continuar o jogo.
-(0118)(0118)Environmental Controls Off\nGravity Offline<==>Entorno desconectado\nGravedad desactivada-->Controles ambientais Offline\nGravidade Offline
-(0119)(0119)Activating Environment\nand Gravity \nPlease Standby<==>Activando entorno\ny gravedad \nPor favor, espere-->Ativando Ambiente\ne Gravidade \nPor favor, aguarde
+(0117)(0117)An in-use Xbox 360 Memory Unit with Dead Space¬ 2 downloadable content was removed, the game is unable to continue.<==>Se ha extraído una Unidad de memoria Xbox 360 en uso con descargas de contenido de Dead Space¬ 2. El juego no puede continuar.-->Uma unidade de memória com conteúdo de Dead Space¬ 2 foi removida, não é possível continuar o jogo.
+(0118)(0118)Environmental Controls Off\nGravity Offline<==>Entorno desconectado\nGravedad desactivada-->Controles de ambiente desligados\nGravidade desativada
+(0119)(0119)Activating Environment\nand Gravity \nPlease Standby<==>Activando entorno\ny gravedad \nPor favor, espere-->Ativando ambiente\ne gravidade \nPor favor, aguarde
 (0120)(0120)Hunter<==>Cazador-->Caçador
-(0121)(0121)Senior Environment Artists<==>Diseñadores de entornos sénior-->Artistas Ambientais Sênior
+(0121)(0121)Senior Environment Artists<==>Diseñadores de entornos sénior-->Artistas de Ambiente Sênior
 (0122)(0122)Key to the Sleep Block elevators.<==>Llave de los ascensores al bloque de dormitorios.-->Chave para os elevadores do Bloco de Dormitórios.
 (0123)(0123)%1 on storage device %2 appears to be damaged, are you sure you want to overwrite this data?<==>%1 en el dispositivo de almacenamiento %2 parece estar dañado. ¿Seguro que quieres sobrescribir los datos?-->%1 no dispositivo de armazenamento% 2 parece estar danificado, você tem certeza de que deseja substituir esses dados?
 (0124)(0124)Damage Taken (%)<==>Daño recibido (%)-->Dano Recebido (%)
-(0125)(0125)Use Kinesis Module<==>Utilizar módulo cinético-->Use o Módulo Cinético
+(0125)(0125)Use Kinesis Module<==>Utilizar módulo cinético-->Utilizar o Módulo Cinético
 (0126)(0126)password<==>Contraseña-->senha
 (0127)(0127-IGUAIS)1-->1
 (0128)(0128-IGUAIS)N/A-->N/A
 (0129)(0129)LOAD?<==>¿CARGAR?-->CARREGAR?
-(0130)(0130)CHOOSE WEAPON/ NAVIGATE INVENTORY<==>ELEGIR ARMA/ NAVEGAR POR INVENTARIO-->ESCOLHER ARMA/ NAVEGAR NO INVENTÁRIO
+(0130)(0130)CHOOSE WEAPON/ NAVIGATE INVENTORY<==>ELEGIR ARMA/ NAVEGAR POR INVENTARIO-->ESCOLHER ARMA/ NAVEGAR PELO INVENTÁRIO
 (0131)(0131)ARCTIC SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD DEL ÁRTICO\nDiagrama adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA DO ÁRTICO\nDiagrama adquirido\nBaixe na Loja
 (0132)(0132)RIOT SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD ANTIDISTURBIOS\nDiagrama adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA ANTI-REBELIÕES\nDiagrama adquirido\nBaixe na Loja
 (0133)(0133)SOLDIER SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SOLDADO\nDiagrama adquirido\nDescargar en el almacén-->TRAJE DE SOLDADO\nDiagrama adquirido\nBaixe na Loja
 (0134)(0134)SANCTUARY<==>SANTUARIO-->SANTUÁRIO
 (0135)(0135)MARKER LASERS ONLINE<==>LÁSERES DE LA EFIGIE ACTIVADOS-->LASERS DO MARKER ATIVADOS
-(0136)(0136)   Get to the Solar Array Base Station.<==>Ve a la estación base del panel solar.-->   Chegue à Estação Base do Painel Solar.
-(0137)(0137)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isto irá aumentar o dano do TIRO SECUNDÁRIO
+(0136)(0136)   Get to the Solar Array Base Station.<==>Ve a la estación base del panel solar.-->   Vá até a estação base do painel solar.
+(0137)(0137)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isso vai aumentar o dano do DISPARO SECUNDÁRIO
 (0138)(0138)An EA account record with a conflicting name already exists. For Xbox LIVE accounts, the user cannot play EA games online until he or she contacts Microsoft technical support to change the gamertag.<==>Ya está registrada una cuenta EA con un nombre que provoca un conflicto. Para las cuentas de Xbox LIVE, el usuario no podrá jugar a juegos de EA hasta contactar con el servicio técnico de Microsoft para cambiar el gamertag.-->Já existe uma conta EA registrada com esse nome. Para as contas Xbox LIVE, o usuário não poderá jogar os jogos online da EA até que ele ou ela entre em contato com o suporte técnico da Microsoft para mudar a gamertag.
 (0139)(0139-IGUAIS)Tejesh Munusamy-->Tejesh Munusamy
-(0140)(0140)[This is shuttle CSO4, the colony is overrun we can't go back!]<==>[¡Aquí el transbordador CSO4, han invadido la colonia, no podemos regresar!]-->[Aqui é o Transportador CSO4, a colônia foi invadida, não podemos voltar!]
+(0140)(0140)[This is shuttle CSO4, the colony is overrun we can't go back!]<==>[¡Aquí el transbordador CSO4, han invadido la colonia, no podemos regresar!]-->[Aqui é o transportador CSO4, a colônia foi invadida, não podemos retornar!]
 (0141)(0141)humans<==>Humanos-->humanos
 (0142)(0142-IGUAIS)Sebastian Melbernat-->Sebastian Melbernat
 (0143)(0143)ACTION/\n CONFIRM<==>ACCIÓN/\n CONFIRMAR-->AÇÃO/\n CONFIRMAR
-(0144)(0144)You unlocked increased health for the Spitter<==>Has desbloqueado más salud para el escupidor.-->Você desbloqueou mais saúde para o Cuspidor
+(0144)(0144)You unlocked increased health for the Spitter<==>Has desbloqueado más salud para el escupidor.-->Você desbloqueou mais saúde para o cuspidor
 (0145)(0145)DURATION<==>DURACIÓN-->DURAÇÃO
 (0146)(0146)kill<==>Matar-->Matar
 (0147)(0147)PAYLOAD 8772 LAUNCHED<==>CARGA 8772 LANZADA-->CARGA 8772 LANÇADA
-(0148)(0148)please insert "disc 1" to continue<==>Inserta el "disco 1" para continuar.-->por favor, insira o "disco 1" para continuar
-(0149)(0149)please insert "disc 2" to continue<==>Inserta el "disco 2" para continuar.-->por favor, insira o "disco 2" para continuar
+(0148)(0148)please insert "disc 1" to continue<==>Inserta el "disco 1" para continuar.-->por favor insira o "disco 1" para continuar
+(0149)(0149)please insert "disc 2" to continue<==>Inserta el "disco 2" para continuar.-->por favor insira o "disco 2" para continuar
 (0150)(0150-IGUAIS)Span: üúóñíéçáÜÚÓÑÍÉÇÁ¿ºª¡\nItal: ùóòìéèèàÙÓÒÌÉÈÁ\nGer: üöäßÜÖÄ\nFr: üûùïîëêéèçâàô\nRussian: абвгдеёжзийклмнопрстуфхцчшщъыьэюя\nАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ\n-->Span: üúóñíéçáÜÚÓÑÍÉÇÁ¿ºª¡\nItal: ùóòìéèèàÙÓÒÌÉÈÁ\nGer: üöäßÜÖÄ\nFr: üûùïîëêéèçâàô\nRussian: абвгдеёжзийклмнопрстуфхцчшщъыьэюя\nАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ\n
-(0151)(0151)You now have the ability to equip the Zealot Force Gun in single player and the Zealot Suit in single & multiplayer.\nYou have also unlocked Online Pass.<==>Ahora ya puedes equipar el cañón de energía extremo en el modo un jugador y el traje extremo en los modos un jugador y multijugador.\nTambién has desbloqueado el pase online.-->Agora você tem a possibilidade de equipar o Canhão de Energia Extremo no modo de um jogador e do Traje Fanático no modo de um e de multijogador.
+(0151)(0151)You now have the ability to equip the Zealot Force Gun in single player and the Zealot Suit in single & multiplayer.\nYou have also unlocked Online Pass.<==>Ahora ya puedes equipar el cañón de energía extremo en el modo un jugador y el traje extremo en los modos un jugador y multijugador.\nTambién has desbloqueado el pase online.-->Você agora pode equipar o Canhão de Energia Extremo no modo de um jogador e o Traje Extremo no modo de um e vários jogadores.
 (0152)(0152)hard core mode<==>Modo Imposible-->Modo Impossível
 (0153)(0153)QUICK TURN<==>GIRO RÁPIDO-->GIRO RÁPIDO
-(0154)(0154)Secondary Fire DAM +10% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to launch a javelin.  Caution: danger of impalement.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to electrify the last javelin that was launched.<==>DÑO disparo secundario: +10% / REC: -5%\n - [c=CUSTOM2]Disparo principal[c=RESET]: pulsa [rsbottom] para disparar una jabalina. Precaución: peligro de empalamiento.\n - [c=CUSTOM2]Disparo secundario[c=RESET]: pulsa [rstop] para electrizar la última jabalina disparada.-->DANO de tiro secundário +10% / REC. -5%\n• [c=CUSTOM2] Tiro Principal [c=RESET]: aperte [rsbottom] para disparar o dardo.  Cuidado: perigo de empalamento.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: aperte [rstop] para eletrocutar o último dardo lançada.
+(0154)(0154)Secondary Fire DAM +10% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to launch a javelin.  Caution: danger of impalement.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to electrify the last javelin that was launched.<==>DÑO disparo secundario: +10% / REC: -5%\n - [c=CUSTOM2]Disparo principal[c=RESET]: pulsa [rsbottom] para disparar una jabalina. Precaución: peligro de empalamiento.\n - [c=CUSTOM2]Disparo secundario[c=RESET]: pulsa [rstop] para electrizar la última jabalina disparada.-->DANO de disparo secundário +10% / REC. -5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um dardo.  Cuidado: perigo de empalamento.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para eletrizar o último dardo disparado.
 (0155)(0155)Senior Video Artist/Compositor<==>Diseñador de vídeo sénior/Compositor-->Artista de Vídeo Sênior/Compositor
-(0156)(0156)[LDLeft]NAVIGATE<==>[LDLeft]NAVEGAR-->[LDLeft]Navegar
+(0156)(0156)[LDLeft]NAVIGATE<==>[LDLeft]NAVEGAR-->[LDLeft]NAVEGAR
 (0157)(0157-IGUAIS)Patrick O'Keefe-->Patrick O'Keefe
 (0158)(0158)Additional Engineering<==>Ingeniería adicional-->Engenharia Adicional
 (0159)(0159)HACKER SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE PIRATEO\nDiagrama adquirido\nDescargar en el almacén-->TRAJE HACKER\nDiagrama adquirido\nBaixe na Loja
@@ -161,7 +161,7 @@
 (0161)(0161)name<==>nombre-->nome
 (0162)(0162)friends only<==>Solo Amigos-->Somente amigos
 (0163)(0163)friends only<==>Solo Amigos-->Somente amigos
-(0164)(0164)FUGITIVES FROM EARTHGOV\nCONSIDERED DELUSIONAL, DANGEROUS\nDO NOT APPROACH\nREPORT LOCATION IMMEDIATELY<==>FUGITIVOS DEL GOBIERNO DE LA TIERRA\nCONSIDERADOS PSICÓTICOS Y PELIGROSOS\nNO SE ACERQUEN A ELLOS\nCOMUNIQUEN SU UBICACIÓN DE INMEDIATO-->FUGITIVOS DO GOVERNO DA TERRA\nCONSIDERADOS PSICÓTICOS, PERIGOSOS\nNÃO SE APROXIMEM\nREPORTAR A LOCALIZAÇÃO IMEDIATAMENTE
+(0164)(0164)FUGITIVES FROM EARTHGOV\nCONSIDERED DELUSIONAL, DANGEROUS\nDO NOT APPROACH\nREPORT LOCATION IMMEDIATELY<==>FUGITIVOS DEL GOBIERNO DE LA TIERRA\nCONSIDERADOS PSICÓTICOS Y PELIGROSOS\nNO SE ACERQUEN A ELLOS\nCOMUNIQUEN SU UBICACIÓN DE INMEDIATO-->FUGITIVOS DO GOVERNO DA TERRA\nCONSIDERADOS PSICÓTICOS E PERIGOSOS\nNÃO SE APROXIMEM DELES\nCOMUNIQUEM SUA LOCALIZAÇÃO IMEDIATAMENTE
 (0165)(0165-IGUAIS)Mike Yazijian-->Mike Yazijian
 (0166)(0166-IGUAIS)Derek Brand-->Derek Brand
 (0167)(0167-IGUAIS)Joel Boucquemont-->Joel Boucquemont
@@ -172,32 +172,32 @@
 (0172)(0172-IGUAIS)Gia Luc-->Gia Luc
 (0173)(0173-IGUAIS)Brett Marting-->Brett Marting
 (0174)(0174-IGUAIS)Ashot Melkumov-->Ashot Melkumov
-(0175)(0175)ALL TRAINS DELAYED UNTIL FURTHER NOTICE... THANK YOU FOR YOUR PATIENCE... <==>TODOS LOS TRENES RETRASADOS HASTA NUEVO AVISO... GRACIAS POR SU PACIENCIA... -->TODOS OS TRENS FICARÃO ATRASADOS ATÉ SEGUNDA ORDEM... OBRIGADO PELA SUA PACIÊNCIA... 
-(0176)(0176)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isto aumentará o dano do TIRO SECUNDÁRIO
+(0175)(0175)ALL TRAINS DELAYED UNTIL FURTHER NOTICE... THANK YOU FOR YOUR PATIENCE... <==>TODOS LOS TRENES RETRASADOS HASTA NUEVO AVISO... GRACIAS POR SU PACIENCIA... -->TODOS OS TRENS ATRASADOS ATÉ SEGUNDA ORDEM... OBRIGADO PELA SUA PACIÊNCIA... 
+(0176)(0176)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isso vai aumentar o dano do DISPARO SECUNDÁRIO
 (0177)(0177)UI Lead<==>Jefe de IU-->CHEFE DE IU
 (0178)(0178-IGUAIS).-->.
-(0179)(0179)Activate the escape pods by using the central terminal<==>Activa las cápsulas de escape utilizando el terminal central.-->Ative as cápsulas para escapar usando o terminal central
-(0180)(0180)Cannot Remove Last Weapon<==>Imposible retirar la última arma-->Não é Possível Remover a Última Arma
+(0179)(0179)Activate the escape pods by using the central terminal<==>Activa las cápsulas de escape utilizando el terminal central.-->Ative as cápsulas de fuga usando o terminal central
+(0180)(0180)Cannot Remove Last Weapon<==>Imposible retirar la última arma-->Não é possível retirar a última arma
 (0181)(0181)[Witness the conviction of a true believer!]<==>[¡Contemplad la convicción de un auténtico creyente!]-->[Testemunhe a condenação de um verdadeiro crente!]
-(0182)(0182)Diagnostics Scanner Now Online. Begin Scan?<==>Escáner de diagnóstico activado. ¿Iniciar escáner?-->O Scanner de Diagnóstico agora está online. Começar escaneamento?
+(0182)(0182)Diagnostics Scanner Now Online. Begin Scan?<==>Escáner de diagnóstico activado. ¿Iniciar escáner?-->O Scanner de Diagnóstico agora está ativado. Iniciar escaneamento?
 (0183)(0183)Localization Testing Head Tester<==>Jefe de pruebas de localización-->Chefe de Testes de Localização
-(0184)(0184)Bring this schematic to the store to unlock the Stasis Pack.<==>Lleva este diagrama al almacén para desbloquear la carga de estabilización.-->Leve esse diagrama até a loja para desbloquear o Kit de Estabilização.
+(0184)(0184)Bring this schematic to the store to unlock the Stasis Pack.<==>Lleva este diagrama al almacén para desbloquear la carga de estabilización.-->Leve esse diagrama até a loja para desbloquear a carga de estabilização.
 (0185)(0185)Cinematics Craft Director<==>Director de creación de cinemáticas-->Diretor de Criação Cinematográfica
 (0186)(0186)Lead Gameplay Animator<==>Jefe de animación de juego-->Chefe de Animação do Jogo
 (0187)(0187)MAINTENANCE BAY KEY<==>LLAVE MANTENIMIENTO-->CHAVE DA PLATAFORMA DE MANUTENÇÃO
 (0188)(0188)destroy<==>Destruir-->destruir
-(0189)(0189)Government Sector is still slipping away! I need to activate the gravity tethers to snare it and realign it with the Sprawl. That should give Ellie and Stross enough time to get across.<==>¡El sector gubernamental sigue fuera de nuestro alcance! Necesito activar los anclajes gravitatorios para atraparlo y realinearlo con El Eje. Eso debería darles a Ellie y Stross suficiente tiempo para cruzar.-->O Setor Governamental segue fora de nosso alcance! Eu preciso ativar as âncoras gravitacionais para amarrá-lo e realinhar com o Eixo. Isso deveria dar a Ellie e ao Stross um tempo suficiente para atravessar.
-(0190)(0190)Secondary Fire DAM +10% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] for a short range, high powered blast of kinetic energy with wide area of effect.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] for a long range, tight radius energy projection.<==>DÑO disparo secundario: +10% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar una potente ráfaga de energía cinética de corto alcance con un gran radio de acción.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar energía de largo alcance y radio ajustado.-->DANO do Tiro Secundário +10% / VEL. +5%\n• [c=CUSTOM2] Tiro Principal [c=RESET]: aperte [rsbottom] para atirar uma explosão de alta potência da energia cinética de curto alcance e com ampla área de efeito.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: press [rstop] for a long range, tight radius energy projection.
+(0189)(0189)Government Sector is still slipping away! I need to activate the gravity tethers to snare it and realign it with the Sprawl. That should give Ellie and Stross enough time to get across.<==>¡El sector gubernamental sigue fuera de nuestro alcance! Necesito activar los anclajes gravitatorios para atraparlo y realinearlo con El Eje. Eso debería darles a Ellie y Stross suficiente tiempo para cruzar.-->O Setor Governamental continua fora do nosso alcance! Preciso ativar as âncoras gravitacionais para amarrá-lo e realinhar com o Eixo. Isso deveria dar a Ellie e ao Stross um tempo suficiente para atravessar.
+(0190)(0190)Secondary Fire DAM +10% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] for a short range, high powered blast of kinetic energy with wide area of effect.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] for a long range, tight radius energy projection.<==>DÑO disparo secundario: +10% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar una potente ráfaga de energía cinética de corto alcance con un gran radio de acción.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar energía de largo alcance y radio ajustado.-->DANO do disparo secundário +10% / VEL. +5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar uma potente rajada de energia cinética de curto alcance e com um grande raio de ação.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: pressione [rstop] para lançar energia de longo alcance e raio ajustado. 
 (0191)(0191)Rendezvous with Daina's team.<==>Reunión con el equipo de Daina.-->Encontro com a equipe de Daina.
 (0192)(0192)TWINKLE, TWINKLE<==>ESTRELLITA-->BRILHA, BRILHA
-(0193)(0193)CHASED AWAY<==>PERSECUCIÓN-->AFUJENTADO
+(0193)(0193)CHASED AWAY<==>PERSECUCIÓN-->PERSEGUIÇÃO 
 (0194)(0194)I'M BACK<==>HE VUELTO-->EU VOLTEI
-(0195)(0195)REFUELING THE DRILL<==>REPOSTAJE DEL TALADRO-->REABASTECENDO A BROCA
+(0195)(0195)REFUELING THE DRILL<==>REPOSTAJE DEL TALADRO-->REABASTECENDO A PERFURADORA
 (0196)(0196)COCKPIT<==>CABINA-->CABINE
-(0197)(0197)DRILL RIDE CHAT\n<==>CONVERSACIÓN EN EL TALADRO\n-->CHAT DA BROCA\n
-(0198)(0198)DRILL POWER CELL HINT<==>PISTA DE CÉLULA DE ENERGÍA DEL TALADRO-->DICA DA CÉLULA DE ENERGIA DA BROCA
-(0199)(0199)CIRCUIT JUNCTION HINT<==>PISTA DE CONEXIÓN-->DICA DO CIRCUITO DA CONEXÃO
-(0200)(0200)DRILL HACK HINT<==>PISTA DE PIRATEO DEL TALADRO-->DICA DO HACKER DA BROCA
+(0197)(0197)DRILL RIDE CHAT\n<==>CONVERSACIÓN EN EL TALADRO\n-->CONVERSA Na PERFURADORA\n
+(0198)(0198)DRILL POWER CELL HINT<==>PISTA DE CÉLULA DE ENERGÍA DEL TALADRO-->DICA DA CÉLULA DE ENERGIA DA PERFURADORA
+(0199)(0199)CIRCUIT JUNCTION HINT<==>PISTA DE CONEXIÓN-->DICA DE CONEXÃO
+(0200)(0200)DRILL HACK HINT<==>PISTA DE PIRATEO DEL TALADRO-->DICA DO HACKER DA PERFURADORA
 (0201)(0201)New Save<==>Nueva partida guardada-->Novo Save
 (0202)(0202)Punch or stomp corpses to reveal items.<==>Golpea o pisa cadáveres para descubrir objetos.-->Bata ou pise nos cadáveres para revelar itens
 (0203)(0203) PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!<==>El panel solar--> PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
@@ -370,21 +370,21 @@
 (0370)(0370)You can't stop what's coming!<==>¡No puedes parar lo que viene!-->Você não pode parar o que está vindo!
 (0371)(0371)You unlocked increased paired damage for the Spitter<==>Has desbloqueado más daño conjunto para el escupidor.-->Você desbloqueou mais dano em conjunto para o Cuspidor.
 (0372)(0372)scanning the Xbox LIVE Marketplace...<==>examinando Bazar Xbox LIVE...-->pesquisando Loja da Xbox Live...
-(0373)(0373)DRILL ROOM AMBIENT 1<==>AMBIENTE DE SALA DE TALADRO 1-->AMBIENTE DA SALA DA BROCA 1
-(0374)(0374)DRILL ROOM AMBIENT 2<==>AMBIENTE DE SALA DE TALADRO 2-->AMBIENTE DA SALA DA BROCA 2
-(0375)(0375)DRILL ROOM AMBIENT 3<==>AMBIENTE DE SALA DE TALADRO 3-->AMBIENTE DA SALA DA BROCA 3
-(0376)(0376)DRILL ROOM AMBIENT 4<==>AMBIENTE DE SALA DE TALADRO 4-->AMBIENTE DA SALA DA BROCA 4
-(0377)(0377)DRILL ROOM AMBIENT 5<==>AMBIENTE DE SALA DE TALADRO 5-->AMBIENTE DA SALA DA BROCA 5
-(0378)(0378)DRILL ROOM AMBIENT 1<==>AMBIENTE DE SALA DE TALADRO 1-->AMBIENTE DA SALA DA BROCA 1
-(0379)(0379)DRILL ROOM AMBIENT 2<==>AMBIENTE DE SALA DE TALADRO 2-->AMBIENTE DA SALA DA BROCA 2
-(0380)(0380)DRILL ROOM AMBIENT 3<==>AMBIENTE DE SALA DE TALADRO 3-->AMBIENTE DA SALA DA BROCA 3
-(0381)(0381)DRILL BANTER 1<==>CHARLA DE TALADRO 1-->CONVERSAÇÃO DA BROCA 1
-(0382)(0382)DRILL BANTER 2<==>CHARLA DE TALADRO 2-->CONVERSAÇÃO DA BROCA 2
-(0383)(0383)DRILL BANTER 3<==>CHARLA DE TALADRO 3-->CONVERSAÇÃO DA BROCA 3
-(0384)(0384)DRILL BANTER 4<==>CHARLA DE TALADRO 4-->CONVERSAÇÃO DA BROCA 4
-(0385)(0385)DRILL BANTER 5<==>CHARLA DE TALADRO 5-->CONVERSAÇÃO DA BROCA 5
-(0386)(0386)DRILL BANTER 6<==>CHARLA DE TALADRO 6-->CONVERSAÇÃO DA BROCA 6
-(0387)(0387)DRILL BANTER 7<==>CHARLA DE TALADRO 7-->CONVERSAÇÃO DA BROCA 7
+(0373)(0373)DRILL ROOM AMBIENT 1<==>AMBIENTE DE SALA DE TALADRO 1-->AMBIENTE DA SALA DA PERFURADORA 1
+(0374)(0374)DRILL ROOM AMBIENT 2<==>AMBIENTE DE SALA DE TALADRO 2-->AMBIENTE DA SALA DA PERFURADORA 2
+(0375)(0375)DRILL ROOM AMBIENT 3<==>AMBIENTE DE SALA DE TALADRO 3-->AMBIENTE DA SALA DA PERFURADORA 3
+(0376)(0376)DRILL ROOM AMBIENT 4<==>AMBIENTE DE SALA DE TALADRO 4-->AMBIENTE DA SALA DA PERFURADORA 4
+(0377)(0377)DRILL ROOM AMBIENT 5<==>AMBIENTE DE SALA DE TALADRO 5-->AMBIENTE DA SALA DA PERFURADORA 5
+(0378)(0378)DRILL ROOM AMBIENT 1<==>AMBIENTE DE SALA DE TALADRO 1-->AMBIENTE DA SALA DA PERFURADORA 1
+(0379)(0379)DRILL ROOM AMBIENT 2<==>AMBIENTE DE SALA DE TALADRO 2-->AMBIENTE DA SALA DA PERFURADORA 2
+(0380)(0380)DRILL ROOM AMBIENT 3<==>AMBIENTE DE SALA DE TALADRO 3-->AMBIENTE DA SALA DA PERFURADORA 3
+(0381)(0381)DRILL BANTER 1<==>CHARLA DE TALADRO 1-->CONVERSAÇÃO DA PERFURADORA 1
+(0382)(0382)DRILL BANTER 2<==>CHARLA DE TALADRO 2-->CONVERSAÇÃO DA PERFURADORA 2
+(0383)(0383)DRILL BANTER 3<==>CHARLA DE TALADRO 3-->CONVERSAÇÃO DA PERFURADORA 3
+(0384)(0384)DRILL BANTER 4<==>CHARLA DE TALADRO 4-->CONVERSAÇÃO DA PERFURADORA 4
+(0385)(0385)DRILL BANTER 5<==>CHARLA DE TALADRO 5-->CONVERSAÇÃO DA PERFURADORA 5
+(0386)(0386)DRILL BANTER 6<==>CHARLA DE TALADRO 6-->CONVERSAÇÃO DA PERFURADORA 6
+(0387)(0387)DRILL BANTER 7<==>CHARLA DE TALADRO 7-->CONVERSAÇÃO DA PERFURADORA 7
 (0388)(0388)Attention:  Tour guide staff.   Please remember to keep all visitors in your sight at all times.  The indoctrination centers are strictly off limits to the casual public.   Remember, be the light in the room for those who walk in darkness!<==>Atención, personal de visitas guiadas: recuerden mantener a las visitas vigiladas en todo momento. Los centros de adoctrinamiento están estrictamente cerrados al público ocasional. ¡Y no olviden ser la luz de los que caminan en la oscuridad!-->Atenção: Pessoal do Guia Turístico. Não se esqueçam de manter todos os visitantes, em sua visão em todos os momentos. Os centros de doutrinação estão estritamente fora dos limites para o público casual. Lembre-se, sejam a luz no quarto para quem anda no escuro!
 (0389)(0389-IGUAIS)2-->2
 (0390)(0390)Rivet Gun Schematic<==>Diagrama de remachadora-->Diagrama do Rebitador
@@ -852,7 +852,7 @@
 (0852)(0852)Find weak points to disable firewalls.<==>Busque puntos débiles para desactivar cortafuegos-->Encontre pontos fracos para desativar o firewalls.
 (0853)(0853)Foreign contaminant detected.<==>Contaminación extraña detectada.-->Contaminação estranha detectada.
 (0854)(0854)Warning:  Damage detected to Marker structure in Lab 2.     Structural failure is imminent.<==>Alerta: se han detectado daños en la estructura de la Efigie en el laboratorio 2. El fallo estructural es inminente.-->Aviso: Foram detectados danos na estrutura do Marker no Laboratório 2. A falha estrutural é iminente.
-(0855)(0855)Hazard Warning:  Plasma drills heads are active and floating free in this area.   Please use Thrusters to move drill heads to a safer location.<==>Alerta de peligro: las cabezas del taladro de plasma están activas y suspendidas en esta área. Utilice los propulsores para trasladar las cabezas de taladro a una ubicación segura.-->Aviso de perigo: As cabeças das brocas de plasma estão ativas e flutuando livremente nesta área. Por favor, utilize os propulsores para movimentar as cabeças de brocas para um local mais seguro.
+(0855)(0855)Hazard Warning:  Plasma drills heads are active and floating free in this area.   Please use Thrusters to move drill heads to a safer location.<==>Alerta de peligro: las cabezas del taladro de plasma están activas y suspendidas en esta área. Utilice los propulsores para trasladar las cabezas de taladro a una ubicación segura.-->Aviso de perigo: As cabeças das perfuradoras de plasma estão ativas e flutuando livremente nesta área. Por favor, utilize os propulsores para movimentar as cabeças de perfuradoras para um local mais seguro.
 (0856)(0856)Incoming Call.<==>Llamada entrante.-->Recebendo Chamada.
 (0857)(0857)Incoming Transmission<==>Transmisión entrante-->Recebendo Transmissão
 (0858)(0858)Kinesis is advisable when attempting to install, uninstall or move power units.<==>La cinética es recomendable para instalar, desinstalar o mover generadores.-->A Cinética é aconselhável quando se tenta instalar, desinstalar ou mover as unidades de energia.
@@ -1407,7 +1407,7 @@
 (1407)(1407-IGUAIS)9-->9
 (1408)(1408-IGUAIS)(-->(
 (1409)(1409-IGUAIS)(-->(
-(1410)(1410)The drill might just be our ticket out of here! Now, if only it would start up...<==>¡El taladro podría constituir nuestro pasaporte para salir de aquí! Si se pusiese en marcha...-->A broca pode ser nossa única passagem para fora daqui! Agora, isso se ela funcionar...
+(1410)(1410)The drill might just be our ticket out of here! Now, if only it would start up...<==>¡El taladro podría constituir nuestro pasaporte para salir de aquí! Si se pusiese en marcha...-->A perfuradora pode ser nossa única passagem para fora daqui! Agora, isso se ela funcionar...
 (1411)(1411)Bring this schematic to the store to unlock the Ripper Blades.<==>Lleva este diagrama al almacén para desbloquear la carga de sierra trituradora.-->Leve esse diagrama até a loja para desbloquear a Serra Trituradora.
 (1412)(1412)CANCEL<==>CANCELAR-->CANCELAR
 (1413)(1413)Activation acknowledged.  I'm en route to target zero.  Stand by for further reports.<==>Activación confirmada. De camino al objetivo cero. Seguiré informando.-->Ativação confirmada.  Estou a caminho do objetivo zero.  Aguarde por novas informações.
@@ -3745,7 +3745,7 @@
 (3745)(3745)There's a lift on the other side. I'll turn around and you can get on.<==>Hay un ascensor al otro lado. Daré la vuelta y podrás subir.-->Há um elevador do outro lado. Darei a volta e você poderá subir.
 (3746)(3746)Alrighty, let's see what this beast can do…<==>Veamos de lo que es capaz esta bestia...-->Tudo bem, vamos ver o que esta besta pode fazer…
 (3747)(3747)Looks like we've reached the foundation pylons of the Government Sector.  <==>Hemos llegado a las columnas de cimentación del sector gubernamental.-->Parece que chegamos até as colunas da fundação do Setor Governamental.  
-(3748)(3748)Straight ahead.  We do have a giant drill. <==>Todo recto. Tenemos un taladro gigante.-->Siga em frente.  Nós temos uma broca gigante. 
+(3748)(3748)Straight ahead.  We do have a giant drill. <==>Todo recto. Tenemos un taladro gigante.-->Siga em frente.  Nós temos uma perfuradora gigante. 
 (3749)(3749)Well, we can compare bruises later. But at least we made it, right?  And this is most definitely government sector - and I'm guessing that Marker of yours is behind that huge door over there.<==>Sí, bueno, luego nos comparamos las heridas. Lo conseguimos, ¿no? Seguro que esto es el sector gubernamental, y supongo que la Efigie se encuentra detrás de esa enorme puerta.-->Bem, podemos comparar feridas depois. Mas pelo menos conseguimos, certo?  E isto é definitivamente o setor governamental - e suponho que o Marker está atrás daquela grande porta.
 (3750)(3750)Alright, I'll meet you halfway.<==>Nos vemos en el medio.-->Tudo bem, vejo vocês no meio.
 (3751)(3751)No, guidance systems are out… but life support's on-line. Comms too…<==>No, los sistemas de guía no funcionan... pero el soporte vital está activo. Las comunicaciones también…-->Não, os sistemas de orientação estão desativados… mas o suporte vital está on-line. As comunicações também…
@@ -5855,7 +5855,7 @@
 (5855)(5855-IGUAIS)7-->7
 (5856)(5856-IGUAIS)&-->&
 (5857)(5857-IGUAIS)&-->&
-(5858)(5858)I hope Ellie knows where she's going - this drill is our only chance to get to Government Sector in one piece.<==>Espero que Ellie sepa adónde va. Este taladro es nuestra única oportunidad para llegar al sector gubernamental de una pieza.-->Espero que Ellie saiba aonde ela vai. Esta broca é a nossa única chance de chegar ao Setor Governamental em uma peça.
+(5858)(5858)I hope Ellie knows where she's going - this drill is our only chance to get to Government Sector in one piece.<==>Espero que Ellie sepa adónde va. Este taladro es nuestra única oportunidad para llegar al sector gubernamental de una pieza.-->Espero que Ellie saiba aonde ela vai. Esta perfuradora é a nossa única chance de chegar ao Setor Governamental em uma peça.
 (5859)(5859)A Circuit Node used to upgrade your Rig, Stasis, and Tools at the Bench.\n\nThe CEC advises all workers to keep a Power Node in their inventory to access node-locked doors.<==>Un nodo energético que se utiliza para mejorar el DRI, la estabilización y las herramientas en el banco.\nCEC aconseja a todos los trabajadores que tengan un nodo de energía en su inventario para acceder a puertas bloqueadas.-->Um Nó de Circuito utilizado para atualizar seu DRI, a estabilização, e as ferramentas na bancada.\n\nA CEC aconselha a todos os trabalhadores para manter um Nodo de Energia em seu inventário para acessar as portas bloqueadas.
 (5860)(5860)move<==>mover-->mover
 (5861)(5861)+health<==>+salud-->+saúde
