@@ -194,61 +194,61 @@
 (0194)(0194)I'M BACK<==>HE VUELTO-->EU VOLTEI
 (0195)(0195)REFUELING THE DRILL<==>REPOSTAJE DEL TALADRO-->REABASTECENDO A PERFURADORA
 (0196)(0196)COCKPIT<==>CABINA-->CABINE
-(0197)(0197)DRILL RIDE CHAT\n<==>CONVERSACIÓN EN EL TALADRO\n-->CONVERSA Na PERFURADORA\n
+(0197)(0197)DRILL RIDE CHAT\n<==>CONVERSACIÓN EN EL TALADRO\n-->CONVERSA NA PERFURADORA\n
 (0198)(0198)DRILL POWER CELL HINT<==>PISTA DE CÉLULA DE ENERGÍA DEL TALADRO-->DICA DA CÉLULA DE ENERGIA DA PERFURADORA
 (0199)(0199)CIRCUIT JUNCTION HINT<==>PISTA DE CONEXIÓN-->DICA DE CONEXÃO
-(0200)(0200)DRILL HACK HINT<==>PISTA DE PIRATEO DEL TALADRO-->DICA DO HACKER DA PERFURADORA
-(0201)(0201)New Save<==>Nueva partida guardada-->Novo Save
-(0202)(0202)Punch or stomp corpses to reveal items.<==>Golpea o pisa cadáveres para descubrir objetos.-->Bata ou pise nos cadáveres para revelar itens
+(0200)(0200)DRILL HACK HINT<==>PISTA DE PIRATEO DEL TALADRO-->DICA DO HACK DA PERFURADORA
+(0201)(0201)New Save<==>Nueva partida guardada-->Novo jogo salvo
+(0202)(0202)Punch or stomp corpses to reveal items.<==>Golpea o pisa cadáveres para descubrir objetos.-->Golpeie ou pise nos cadáveres para descobrir itens
 (0203)(0203) PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!<==>El panel solar--> PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
 (0204)(0204)PROXIMITY ALERT<==>ALERTA DE PROXIMIDAD-->ALERTA DE PROXIMIDADE
 (0205)(0205-IGUAIS)1-->1
-(0206)(0206)pulse rifle II<==>rifle de impulsos II-->Rifle de impulsos II
-(0207)(0207)close<==>Cerrar-->feche
-(0208)(0208)Environment Artists<==>Diseñadores de entornos-->Artistas Ambientais
-(0209)(0209)MIXING COMPLETE<==>MEZCLA COMPLETADA-->MISTURA COMPLETA
-(0210)(0210)You are not connected to Xbox LIVE or EA Servers. You need to be connected to Xbox LIVE and EA Servers to access the online features of this title. Please check your Ethernet cable, ensure you're signed in to Xbox LIVE, and try again.<==>No estás conectado a Xbox LIVE o a los servidores de EA. Para acceder a las funciones online de este título necesitas estar conectado a Xbox LIVE y a los servidores de EA. Comprueba tu cable de conexión Ethernet, asegúrate de haber iniciado sesión en Xbox LIVE e inténtalo de nuevo.-->Você não está conectado na Xbox Live e nos servidores da EA. Você precisa estar conectado aos servidores da EA para acessar as funções online deste título. Por favor, verifique o cabo ethernet, se conecte na Xbox Live e tente novamente.
-(0211)(0211)deliver the repair unit to the ventilation room<==>Lleva la unidad de reparación a la sala de ventilación.-->Leve a unidade de reparos para a sala de ventilação
+(0206)(0206)pulse rifle II<==>rifle de impulsos II-->rifle de impulsos II
+(0207)(0207)close<==>Cerrar-->fechar
+(0208)(0208)Environment Artists<==>Diseñadores de entornos-->Artistas de Ambiente
+(0209)(0209)MIXING COMPLETE<==>MEZCLA COMPLETADA-->MISTURA COMPLETADA
+(0210)(0210)You are not connected to Xbox LIVE or EA Servers. You need to be connected to Xbox LIVE and EA Servers to access the online features of this title. Please check your Ethernet cable, ensure you're signed in to Xbox LIVE, and try again.<==>No estás conectado a Xbox LIVE o a los servidores de EA. Para acceder a las funciones online de este título necesitas estar conectado a Xbox LIVE y a los servidores de EA. Comprueba tu cable de conexión Ethernet, asegúrate de haber iniciado sesión en Xbox LIVE e inténtalo de nuevo.-->Você não está conectado na Xbox Live e nos servidores da EA. Você precisa estar conectado aos servidores da EA para acessar as funções online deste título. Verifique o cabo ethernet, verifique se está conectado na Xbox Live e tente novamente.
+(0211)(0211)deliver the repair unit to the ventilation room<==>Lleva la unidad de reparación a la sala de ventilación.-->leve a unidade de reparação para a sala de ventilação
 (0212)(0212)Producers<==>Productores-->Produtores
 (0213)(0213)QAOS Project Lead<==>Jefe de proyecto de QAOS-->Chefe do projeto de QAOS
-(0214)(0214)Cost<==>Coste-->Costa
-(0215)(0215)javelin gun<==>cañón jabalina-->arma javelin
+(0214)(0214)Cost<==>Coste-->Custo
+(0215)(0215)javelin gun<==>cañón jabalina-->canhão de dardos
 (0216)(0216)SHUTDOWN PROCEDURE<==>PROCEDIMIENTO DE DESCONEXIÓN-->PROCEDIMENTO DE DESCONEXÃO
 (0217)(0217)REPAIR THE TRAM SYSTEM<==>REPARAR EL SISTEMA DE MONORRAÍL-->REPARAR O SISTEMA DO TREM
 (0218)(0218)Puker<==>Vomitador-->Vomitador
 (0219)(0219)character setup<==>Configuración de personaje-->Configuração do Personagem
-(0220)(0220)You're not getting them. You hear me? You won't get any of them. I made sure of that. And you won't get me.<==>No los cogeréis. ¿Me oís? No cogeréis a ninguno, yo me he encargado de eso. Y tampoco a mí.-->Você não está conseguindo pegá-los. Você está me ouvindo? Você não pegará nenhum deles. Tenho certeza disso. E você não vai me pegar.
-(0221)(0221)Don't be afraid! This is to save you. Do you hear me? I'm saving all of you!<==>¡No tengáis miedo! Esto os salvará. ¿Me oís? ¡Os salvaré a todos!-->Não tenha medo! Isto é para te salvar. Você pode me ouvir? Eu salvarei todos vocês!
-(0222)(0222)You're not getting them. You hear me? You won't get any of them. I made sure of that. And you won't get me.<==>No los cogeréis. ¿Me oís? No cogeréis a ninguno, yo me he encargado de eso. Y tampoco a mí.-->Você não está conseguindo pegá-los. Você está me ouvindo? Você não pegará nenhum deles. Tenho certeza disso. E você não vai me pegar.
-(0223)(0223)Don't be afraid! This is to save you. Do you hear me? I'm saving all of you!<==>¡No tengáis miedo! Esto os salvará. ¿Me oís? ¡Os salvaré a todos!-->Não tenha medo! Isto é para te salvar. Você pode me ouvir? Eu salvarei todos vocês!
+(0220)(0220)You're not getting them. You hear me? You won't get any of them. I made sure of that. And you won't get me.<==>No los cogeréis. ¿Me oís? No cogeréis a ninguno, yo me he encargado de eso. Y tampoco a mí.-->Você não vai conseguir pegá-los. Você está me ouvindo? Você não vai pegar nenhum deles. Tenho certeza disso. E você não vai me pegar.
+(0221)(0221)Don't be afraid! This is to save you. Do you hear me? I'm saving all of you!<==>¡No tengáis miedo! Esto os salvará. ¿Me oís? ¡Os salvaré a todos!-->Não tenha medo! Isso vai te salvar. Você me ouviu? Eu vou salvar todos vocês!
+(0222)(0222)You're not getting them. You hear me? You won't get any of them. I made sure of that. And you won't get me.<==>No los cogeréis. ¿Me oís? No cogeréis a ninguno, yo me he encargado de eso. Y tampoco a mí.-->Você não vai conseguir pegá-los. Você está me ouvindo? Você não vai pegar nenhum deles. Tenho certeza disso. E você não vai me pegar.
+(0223)(0223)Don't be afraid! This is to save you. Do you hear me? I'm saving all of you!<==>¡No tengáis miedo! Esto os salvará. ¿Me oís? ¡Os salvaré a todos!-->Não tenha medo! Isso vai te salvar. Você me ouviu? Eu vou salvar todos vocês!
 (0224)(0224)SINGULARITY CORE<==>NÚCLEO GRAVITACIONAL-->NÚCLEO GRAVITACIONAL
 (0225)(0225-IGUAIS)1-->1
 (0226)(0226)YOU CAN'T SURVIVE<==>NO PUEDES SOBREVIVIR-->VOCÊ NÃO PODE SOBREVIVER
 (0227)(0227)NOT THIS TIME<==>ESTA VEZ NO-->NÃO DESTA VEZ
 (0228)(0228)YOU BASTARD<==>CABRÓN-->SEU BASTARDO
 (0229)(0229)CONVERGENCE<==>CONVERGENCIA-->CONVERGÊNCIA
-(0230)(0230)Isaac, Isaac! You were drifting away for a moment there, Mr. Clarke. I believe you were telling me about your nightmares that you've been having - about your dead girlfriend. What was her name?<==>¡Isaac! ¡Isaac! Se ha dejado llevar durante un momento, Sr. Clarke. Me estaba hablando de sus pesadillas sobre su... sobre su novia fallecida... ¿cómo se llamaba?-->Isaac, Isaac! Você se deixou levar por um momento lá, Sr. Clarke. Eu acredito que você estava me contando sobre seus pesadelos que tem tido sobre sua namorada morta. Qual era o nome dela?
-(0231)(0231)Yes, Nicole Brennan. She was a senior medical officer stationed aboard a Planetcracker class vessel…<==>Sí, Nicole Brennan. Era oficial médico destinada a bordo de una nave de extracción planetaria...-->Sim, Nicole Brennan. Ela era uma oficial médica superior destinada a bordo de uma nave de extração planetária...
-(0232)(0232)The USG Ishimura, yes. Part of a mining operation on Aegis VII. I understand communications went down shortly after their arrival. You were part of the repair mission -- a mission for which you volunteered, am I right? What did you find aboard that ship, Isaac?<==>El USG Ishimura, sí. Era parte de una operación minera en Aegis VII. Tengo entendido que se perdieron las comunicaciones tras su llegada. Usted formaba parte de la misión de reparación. Fue como voluntario, ¿es verdad? ¿Qué fue lo que encontró en esa nave, Isaac?-->A USG Ishimura, sim. Parte de uma operação de mineração em Aegis VII. Eu entendo que perderam as comunicações logo após sua chegada. Você fez parte da missão de reparo. Uma missão para a qual você se ofereceu, estou certo? O que você achou a bordo daquela nave, Isaac?
-(0233)(0233)What did they find aboard that ship, Isaac? <==>¿Qué encontraron en esa nave, Isaac?-->O que você achou a bordo daquela nave, Isaac? 
-(0234)(0234)Did you have contact with this… Marker?<==>¿Entró en contacto con esa... Efigie?-->Você teve contato com esse... Marker?
-(0235)(0235)It made you see things, didn't it? Things you didn't want to see?<==>Le provocaba visiones, ¿cierto? ¿Visiones que no quería tener?-->Ele te fez ver coisas, não é? Coisas que você não queria ver?
+(0230)(0230)Isaac, Isaac! You were drifting away for a moment there, Mr. Clarke. I believe you were telling me about your nightmares that you've been having - about your dead girlfriend. What was her name?<==>¡Isaac! ¡Isaac! Se ha dejado llevar durante un momento, Sr. Clarke. Me estaba hablando de sus pesadillas sobre su... sobre su novia fallecida... ¿cómo se llamaba?-->Isaac, Isaac! Você se deixou levar por um momento, Sr. Clarke. Você estava me contando sobre os pesadelos com sua namorada falecida. Como ela se chamava?
+(0231)(0231)Yes, Nicole Brennan. She was a senior medical officer stationed aboard a Planetcracker class vessel…<==>Sí, Nicole Brennan. Era oficial médico destinada a bordo de una nave de extracción planetaria...-->Sim, Nicole Brennan. Ela era uma oficial médica que foi colocada a bordo de uma nave de extração planetária...
+(0232)(0232)The USG Ishimura, yes. Part of a mining operation on Aegis VII. I understand communications went down shortly after their arrival. You were part of the repair mission -- a mission for which you volunteered, am I right? What did you find aboard that ship, Isaac?<==>El USG Ishimura, sí. Era parte de una operación minera en Aegis VII. Tengo entendido que se perdieron las comunicaciones tras su llegada. Usted formaba parte de la misión de reparación. Fue como voluntario, ¿es verdad? ¿Qué fue lo que encontró en esa nave, Isaac?-->A USG Ishimura, sim. Era parte de uma operação de mineração em Aegis VII. Eu entendo que perderam as comunicações logo após sua chegada. Você fazia parte da missão de reparo. Uma missão para a qual você se voluntariou, não é verdade? O que você encontrou a bordo daquela nave, Isaac?
+(0233)(0233)What did they find aboard that ship, Isaac? <==>¿Qué encontraron en esa nave, Isaac?-->O que eles encontraram a bordo daquela nave, Isaac? 
+(0234)(0234)Did you have contact with this… Marker?<==>¿Entró en contacto con esa... Efigie?-->Você entrou em contato com esse... Marker?
+(0235)(0235)It made you see things, didn't it? Things you didn't want to see?<==>Le provocaba visiones, ¿cierto? ¿Visiones que no quería tener?-->Ele te fez ver coisas, não fez? Coisas que você não queria ver?
 (0236)(0236)What did it say, Isaac?<==>¿Qué le decía, Isaac?-->O que ele disse, Isaac?
 (0237)(0237)What did it say to you, Isaac?<==>¿Qué le decía, Isaac?-->O que ele disse para você, Isaac?
-(0238)(0238)Isaac! Isaac! Can you hear me? Isaac?<==>¡Isaac! ¡Isaac! ¿Me oyes? ¿Isaac?-->Isaac! Isaac! Você pode me ouvir? Isaac?
+(0238)(0238)Isaac! Isaac! Can you hear me? Isaac?<==>¡Isaac! ¡Isaac! ¿Me oyes? ¿Isaac?-->Isaac! Isaac! Você está me ouvindo? Isaac?
 (0239)(0239)Subject is Nolan Stross. Session one-five-eight.<==>El sujeto es Nolan Stross. Sesión uno, cinco, ocho.-->O sujeito é Nolan Stross. Sessão um, cinco, oito.
-(0240)(0240)Now...The eye is looking much better today?  Yes, don't you think?<==>Bueno... El ojo tiene mucho mejor aspecto hoy. ¿No cree?-->Agora... O olho está parecendo muito melhor hoje? Sim, você não acha?
-(0241)(0241)Yes, I'll schedule you for another session tomorrow.<==>Sí, programaré otra sesión con usted mañana.-->Sim, eu vou programar uma outra sessão com você amanhã.
-(0242)(0242)There… First thing tomorrow.<==>Mañana a primera hora.-->Lá... na primeira hora de amanhã.
+(0240)(0240)Now...The eye is looking much better today?  Yes, don't you think?<==>Bueno... El ojo tiene mucho mejor aspecto hoy. ¿No cree?-->Agora... O olho está parecendo muito melhor hoje.  Você não acha?
+(0241)(0241)Yes, I'll schedule you for another session tomorrow.<==>Sí, programaré otra sesión con usted mañana.-->Sim, vou programar uma outra sessão com você amanhã.
+(0242)(0242)There… First thing tomorrow.<==>Mañana a primera hora.-->Amanhã na primeira hora.
 (0243)(0243)Now let's talk about what you saw today.<==>Ahora hablemos de lo que ha visto hoy.-->Agora vamos falar sobre o que você viu hoje.
 (0244)(0244)Come on, Stross. I'm here to help you.<==>Vamos, Stross. Estoy aquí para ayudarle.-->Vamos, Stross. Estou aqui para te ajudar.
 (0245)(0245)And what did the symbols whisper to you?<==>¿Y qué le decían los símbolos?-->E o que os símbolos sussurraram para você?
 (0246)(0246)Come on, Stross, what…<==>Vamos, Stross, qué...-->Vamos, Stross, o quê...
-(0247)(0247)The symbols, Stross. What did the symbols tell you?<==>Los símbolos, Stross. ¿Qué le dijeron los símbolos?-->Os Simbolos, Stross. O quê os simbolos te disseram?
-(0248)(0248)Put Mr. Stross back in stasis.  Adjust his medication up 30 milligrams and we'll try another session first thing in the morning.<==>Vuelva a estabilizar al Sr. Stross. Ajuste su medicación a 30 miligramos y probaremos con otra sesión a primera hora de la mañana.-->Coloque o Sr. Stross de volta em estabilidade. Ajuste a medicação até 30 miligramas, e vamos tentar com uma outra sessão na primeira hora de amanhã.
-(0249)(0249)Patient Four…  I remember you... Tiedemann said we... all the key subjects... need to be eliminated... terminated… what's one more?<==>Paciente cuatro... Te recuerdo... Tiedemann dijo que nosotros... todos los sujetos clave... tenemos que ser eliminados... aniquilados... ¿Qué más da uno más?-->Paciente quatro... eu lembro de você... Tiedemann disse que... todos os sujeitos chave... devem ser eliminados... exterminados ... o que mais?
-(0250)(0250)… will it matter?<==>... ¿Servirá...?-->... será que importa?
-(0251)(0251)No one's getting out of here alive --  no one.<==>Nadie saldrá de aquí con vida. Nadie.-->Ninguém vai sair vivo daqui.. ninguém.
+(0247)(0247)The symbols, Stross. What did the symbols tell you?<==>Los símbolos, Stross. ¿Qué le dijeron los símbolos?-->Os símbolos, Stross. O que os símbolos te disseram?
+(0248)(0248)Put Mr. Stross back in stasis.  Adjust his medication up 30 milligrams and we'll try another session first thing in the morning.<==>Vuelva a estabilizar al Sr. Stross. Ajuste su medicación a 30 miligramos y probaremos con otra sesión a primera hora de la mañana.-->Volte a estabilizar o Sr. Stross. Ajuste sua medicação para 30 miligramas, e vamos tentar uma outra sessão na primeira hora da manhã.
+(0249)(0249)Patient Four…  I remember you... Tiedemann said we... all the key subjects... need to be eliminated... terminated… what's one more?<==>Paciente cuatro... Te recuerdo... Tiedemann dijo que nosotros... todos los sujetos clave... tenemos que ser eliminados... aniquilados... ¿Qué más da uno más?-->Paciente quatro... eu me lembro de você... Tiedemann disse que nós... todos os sujeitos chave... temos que ser eliminados... aniquilados ... o que mais?
+(0250)(0250)… will it matter?<==>... ¿Servirá...?-->... será que serve?
+(0251)(0251)No one's getting out of here alive --  no one.<==>Nadie saldrá de aquí con vida. Nadie.-->Ninguém vai sair vivo daqui... ninguém.
 (0252)(0252)There is no escaping from what I've done.<==>Sé que no puedo huir de lo que he hecho.-->Não há como escapar do que tenho feito.
 (0253)(0253)Your RIG is red.  It's red.  There's a health pack and a flashlight in that wall locker.  You should grab them.<==>Su DRI está rojo. Está rojo. Hay un botiquín y una linterna en esa taquilla. Cójalos.-->O Seu DRI está vermelho. Está vermelho. Há um kit de saúde e uma lanterna no armário de parede. Você deveria pega-los.
 (0254)(0254)Go ahead. Take it.<==>Adelante. Cójalo.-->Vá em frente. Pegue-os.
