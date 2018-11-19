@@ -4,7 +4,7 @@ Possui
 Equipamento
 Acessórios
 Tipo
-Modificador
+Dano
 Tamanho
 Efeito
 ATQ
@@ -26,7 +26,7 @@ HP
 AP
 Tipo
 Ingredientes
-Possui
+Unidades
 Classe
 Raça
 Inventário
@@ -39,7 +39,7 @@ Câmera
 Sistema
 Valores Padrão 
 Página
-Disco
+DVD
 Estoque
 Quantidade
 Total
@@ -48,7 +48,7 @@ BÔNUS
 Menu dummy text
 Sim
 Não
-Todos
+Todas
 Mercadorias
 Especialidades
 Equipamento
@@ -70,11 +70,11 @@ Missões
 Status do Mr. Diggs
 Criar grupo
 Trocar formação
-Substituir membro do grupo
+Substituir membro
 Dissolver grupo
 Salvar
 Configuração 
-Confirmar membros do grupo
+Confirmar membros
 Mudar equipamento
 Ver equipamento 
 Ver items
@@ -87,7 +87,7 @@ Verificar reservas
 Selecionar formação
 Designar membro do grupo
 Ordenar grupo
-Status do membro do grupo
+Status do membro
 Escolher equipamento
 Carregar
 Artes de Combate
@@ -96,10 +96,10 @@ Artes Místicas
 Outras
 Espadas
 Armas pesadas
-Lanças
+Armas de haste
 Equipar
 Descartar
-Todas missões
+Todas Missões
 Missões Disponíveis
 Missões Atuais
 Missões Concluídas
@@ -151,15 +151,15 @@ Visão em Primeira Pessoa: Controle Horizontal
 Visão em Primeira Pessoa: Controle Vertical
 Visão em Primeira Pessoa: Sensibilidade
 Seguir Automaticamente
-Ataque Crítico 
+Ataque Crítico
 Defesa Crítica
 Aviso de cancelamento de Deadlock 
 Vibração do Controle
-Desativado
-Ativado
+Desativada
+Ativada
 Mostrar aviso ao converter monstros em componentes
-Desativados 
-Ativados
+Desativada 
+Ativada
 Fixo
 Girar
 Normal
@@ -177,7 +177,7 @@ Claro
 0%
 100%
 Devagar
-Rápido 
+Rápida
 Restaurar configuração padrão 
 Preço de Venda 
 Preço de Compra
@@ -247,7 +247,7 @@ CONVIDADO
 CONVOCAR
 VAZIO
 Membros do grupo na reserva
-Nenhum
+Nada
 Nenhuma arte foi aprendida.
 Nada
 Duas mãos

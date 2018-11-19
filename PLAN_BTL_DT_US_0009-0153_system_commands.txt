@@ -1,10 +1,10 @@
 System-Related Commands dummy help
 Selecione «Não» para substituir um item do inventário do grupo.
 Selecione o item que deseja descartar.
-Ver ou modificar o equipamento do Rush.
+Ver e modificar o equipamento do Rush.
 Ver as artes do Rush.
 Ver ou modificar grupos.
-Ver status do membro do grupo.
+Ver status dos membros do grupo.
 Ver inventário do grupo.
 Ver lista de tarefas ou status do Mr. Diggs.
 Salvar e carregar jogo, ou ajustar as configurações do jogo.
@@ -21,7 +21,7 @@ Ver monstros capturados pelo grupo.
 No momento não há monstros capturados.
 Ver itens especiais do grupo.
 Não há itens especiais no inventário.
-Selecione um espaço para mudar seu equipamento.
+Selecione um espaço para alterar o equipamento.
 Por favor equipe alguma coisa na mão direita.
 Selecione o item para equipar.
 Se você equipar um item que requer duas mãos, não poderá equipar nada na mão esquerda.
@@ -40,8 +40,8 @@ Criar uma grupo.
 Não há líderes na reserva para criar um grupo.
 Não é possível criar mais grupos porque já foi alcançado o número máximo de líderes por batalha.
 Ver status dos membros do grupo.
-Mudar a formação do grupo.
-Mudar membros do grupo.
+Alterar a formação do grupo.
+Alterar membros do grupo.
 Dissolver o grupo e colocar seus membros na reserva.
 Selecione um personagem para ver seu status.
 Essa posição está vazia.
@@ -53,7 +53,7 @@ Escolher um membro para a posição 2.
 Escolher um membro para a posição 3.
 Escolher um membro para a posição 4.
 Escolher um membro para a posição 5.
-Selecione um grupo para mudar sua ordem.
+Selecione um grupo para alterar sua ordem.
 Selecione a posição onde será colocado esse grupo.
 Não é possível selecionar esse membro porque já foi alcançado o número máximo de líderes por batalha.
 Não é possível selecionar esse membro porque já foi alcançado o número máximo de líderes por batalha.
@@ -71,7 +71,7 @@ Não há espaço suficiente no dispositivo de armazenamento. Não é possível c
 Salva o progresso do jogo.
 Você deve fazer o login ao iniciar o jogo para poder salvar a partida.
 Ajustar as configurações do jogo.
-Ordenar na ordem padrão.
+Usar ordenação padrão.
 Ordenar por nível.
 Ordenar por tamanho.
 Ordenar por poder de ataque [ATQ].
@@ -86,7 +86,7 @@ Ordenar por bônus de AP.
 Ordenar por bônus de força.
 Ordenar por bônus de inteligência.
 Ordenar por bônus de velocidade.
-Ordenar pelo número de guardados.
+Ordenar pelo número disponível.
 Modificar a ordem dos membros para a ordem padrão.
 Ordenar membros por HP.
 Ordenar membros por AP.
@@ -122,7 +122,7 @@ Define a maneira como os movimentos críticos serão ativados durante a fase ofe
 Define a maneira como os movimentos críticos serão ativados durante a fase ofensiva. Se definido em «Automático» o jogador não precisa pressionar nenhum botão; os movimentos irão ocorrer randomicamente.
 Exibe um aviso cada vez que uma ordem de batalha vai cancelar um Deadlock.
 Define a vibração do controle. Para usar a função vibrar, as configurações gerais do sistema devem estar ativadas.
-Voltar para as configurações padrão.
+Reestabelece a configuração padrão.
 Sair do menu de configuração.
 Ativa ou desativa os avisos para converter monstros capturados em componentes na janela de resultados da batalha.
 Selecione a tarefa da guilda que foi completada para receber uma recompensa.
