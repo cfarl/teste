@@ -1,10 +1,10 @@
 (0001)System-Related Commands dummy help<==>Órdenes relacionadas con el sistema-->System-Related Commands dummy help
 (0002)Select No to replace with a currently held item from the party inventory.<==>Elige «No» para reemplazar un objeto del inventario del grupo con este artículo.-->Selecione «Não» para substituir um item do inventário do grupo.
 (0003)Select item to discard.<==>Selecciona el objeto que quieres descartar.-->Selecione o item que deseja descartar.
-(0004)View or change Rush's equipment.<==>Muestra y modifica el equipo de Rush.-->Ver ou modificar o equipamento do Rush.
+(0004)View or change Rush's equipment.<==>Muestra y modifica el equipo de Rush.-->Ver e modificar o equipamento do Rush.
 (0005)View Rush's arts.<==>Muestra las artes de Rush.-->Ver as artes do Rush.
 (0006)View or change unions.<==>Consulta o modifica las unidades.-->Ver ou modificar grupos.
-(0007)View party member status.<==>Muestra el estado de los personajes del grupo.-->Ver status do membro do grupo.
+(0007)View party member status.<==>Muestra el estado de los personajes del grupo.-->Ver status dos membros do grupo.
 (0008)View party inventory.<==>Muestra el inventario del grupo.-->Ver inventário do grupo.
 (0009)View task list or Mr. Diggs's status.<==>Muestra la lista de tareas o el estado del señor Garras.-->Ver lista de tarefas ou status do Mr. Diggs.
 (0010)Save and load game, or change game settings.<==>Te permite ajustar la configuración del juego y guardar o cargar la partida.-->Salvar e carregar jogo, ou ajustar as configurações do jogo.
@@ -21,7 +21,7 @@
 (0021)No monsters are presently captured.<==>No has capturado a ningún monstruo.-->No momento não há monstros capturados.
 (0022)View party's special items.<==>Muestra los objetos especiales del grupo.-->Ver itens especiais do grupo.
 (0023)No special items in inventory.<==>No tienes ningún objeto especial.-->Não há itens especiais no inventário.
-(0024)Select a slot to change its equipment.<==>Elige la posición cuyo equipo deseas modificar.-->Selecione um espaço para mudar seu equipamento.
+(0024)Select a slot to change its equipment.<==>Elige la posición cuyo equipo deseas modificar.-->Selecione um espaço para alterar o equipamento.
 (0025)Please equip something to the main slot.<==>Tienes que asignar algún objeto a la mano principal.-->Por favor equipe alguma coisa na mão direita.
 (0026)Select item to equip.<==>Selecciona el objeto que deseas asignar.-->Selecione o item para equipar.
 (0027)If you equip a two-handed item, the sub slot will become unusable.<==>Si le asignas a un personaje un objeto que requiera ambas manos, no podrás asignarle nada a la mano secundaria.-->Se você equipar um item que requer duas mãos, não poderá equipar nada na mão esquerda.
@@ -40,8 +40,8 @@
 (0040)There are no reserve leaders to create a union.<==>No hay líderes en reserva con los que crear una unidad.-->Não há líderes na reserva para criar um grupo.
 (0041)A union cannot be created because the maximum leader capacity per battle has already been reached.<==>No puedes crear más unidades porque ya has alcanzado el número máximo de líderes por batalla.-->Não é possível criar mais grupos porque já foi alcançado o número máximo de líderes por batalha.
 (0042)View status of union members.<==>Muestra el estado de los miembros de la unidad.-->Ver status dos membros do grupo.
-(0043)Change union formation.<==>Cambia la formación de la unidad.-->Mudar a formação do grupo.
-(0044)Change union members.<==>Cambia los personajes que pertenecen a la unidad.-->Mudar membros do grupo.
+(0043)Change union formation.<==>Cambia la formación de la unidad.-->Alterar a formação do grupo.
+(0044)Change union members.<==>Cambia los personajes que pertenecen a la unidad.-->Alterar membros do grupo.
 (0045)Disband union and change units to reserve member status.<==>Disuelve la unidad y traslada a sus miembros a la reserva.-->Dissolver o grupo e colocar seus membros na reserva.
 (0046)Select unit to view status.<==>Selecciona el personaje cuyo estado quieres consultar.-->Selecione um personagem para ver seu status.
 (0047)This slot is empty.<==>Esta posición está vacía.-->Essa posição está vazia.
@@ -53,7 +53,7 @@
 (0053)Choose a unit for position 3.<==>Asigna un personaje a la posición n.º 3.-->Escolher um membro para a posição 3.
 (0054)Choose a unit for position 4.<==>Asigna un personaje a la posición n.º 4.-->Escolher um membro para a posição 4.
 (0055)Choose a unit for position 5.<==>Asigna un personaje a la posición n.º 5.-->Escolher um membro para a posição 5.
-(0056)Select union to change order.<==>Selecciona la unidad cuyo orden deseas cambiar.-->Selecione um grupo para mudar sua ordem.
+(0056)Select union to change order.<==>Selecciona la unidad cuyo orden deseas cambiar.-->Selecione um grupo para alterar sua ordem.
 (0057)Select position to move this union.<==>Selecciona la posición en la que deseas colocar la unidad.-->Selecione a posição onde será colocado esse grupo.
 (0058)This unit cannot be selected because the maximum leader capacity per battle has already been reached.<==>No puedes seleccionar este personaje porque ya has alcanzado el número máximo de líderes por batalla.-->Não é possível selecionar esse membro porque já foi alcançado o número máximo de líderes por batalha.
 (0059)This unit cannot be selected because the maximum unit capacity per battle has already been reached.<==>No puedes seleccionar este personaje porque ya has alcanzado el número máximo de personajes por batalla.-->Não é possível selecionar esse membro porque já foi alcançado o número máximo de líderes por batalha.
@@ -71,7 +71,7 @@
 (0071)Save progress.<==>Guarda la partida actual.-->Salva o progresso do jogo.
 (0072)You must sign in when starting the game in order to save.<==>Debes iniciar sesión al empezar a jugar para poder guardar la partida.-->Você deve fazer o login ao iniciar o jogo para poder salvar a partida.
 (0073)Adjust game settings.<==>Ajusta la configuración del juego.-->Ajustar as configurações do jogo.
-(0074)Sort in the default order.<==>Ordena la lista según el orden predeterminado.-->Ordenar na ordem padrão.
+(0074)Sort in the default order.<==>Ordena la lista según el orden predeterminado.-->Usar ordenação padrão.
 (0075)Sort by level.<==>Ordena la lista por nivel.-->Ordenar por nível.
 (0076)Sort by size.<==>Ordena la lista por tamaño.-->Ordenar por tamanho.
 (0077)Sort by attack power [ATK].<==>Ordena la lista por poder físico (PF).-->Ordenar por poder de ataque [ATQ].
@@ -86,7 +86,7 @@
 (0086)Sort by Strength bonus.<==>Ordena la lista por bonificación de fuerza.-->Ordenar por bônus de força.
 (0087)Sort by Intellect bonus.<==>Ordena la lista por bonificación de inteligencia.-->Ordenar por bônus de inteligência.
 (0088)Sort by Speed bonus.<==>Ordena la lista por bonificación de velocidad.-->Ordenar por bônus de velocidade.
-(0089)Sort by number held.<==>Ordena la lista por número disponible.-->Ordenar pelo número de guardados.
+(0089)Sort by number held.<==>Ordena la lista por número disponible.-->Ordenar pelo número disponível.
 (0090)Change the order of members to the default order.<==>Devuelve los personajes al orden predeterminado.-->Modificar a ordem dos membros para a ordem padrão.
 (0091)Sort members by HP.<==>Ordena los personajes según sus PV.-->Ordenar membros por HP.
 (0092)Sort members by AP.<==>Ordena los personajes según sus PA.-->Ordenar membros por AP.
@@ -122,7 +122,7 @@
 (0122)Set the way Critical Triggers are launched when on the defense. Set to Auto, the player does not need to press a button; Triggers will occur randomly.<==>Determina cómo se activan los movimientos maestros durante la fase defensiva. Si eliges «Automático», se activarán de forma aleatoria sin que tengas que pulsar ningún botón.-->Define a maneira como os movimentos críticos serão ativados durante a fase ofensiva. Se definido em «Automático» o jogador não precisa pressionar nenhum botão; os movimentos irão ocorrer randomicamente.
 (0123)Display a warning if entered battle commands will cancel Deadlock.<==>Muestra un aviso cada vez que seleccione una orden de batalla que obligue a una unidad a abandonar un duelo.-->Exibe um aviso cada vez que uma ordem de batalha vai cancelar um Deadlock.
 (0124)Set controller vibration. To use the vibration function, the main system settings must be set to allow this.<==>Ajusta la vibración del mando. Esta opción no funcionará si la vibración está desactivada en la configuración general del Sistema.-->Define a vibração do controle. Para usar a função vibrar, as configurações gerais do sistema devem estar ativadas.
-(0125)Reset to the default settings.<==>Restablece la configuración predeterminada.-->Voltar para as configurações padrão.
+(0125)Reset to the default settings.<==>Restablece la configuración predeterminada.-->Reestabelece a configuração padrão.
 (0126)Exit Config Menu.<==>Abandona el menú de configuración.-->Sair do menu de configuração.
 (0127)Set battle result warning for taking apart captured monsters.<==>Activa o desactiva los avisos para convertir monstruos en componentes en la pantalla de resultados de la batalla.-->Ativa ou desativa os avisos para converter monstros capturados em componentes na janela de resultados da batalha.
 (0128)Select the guild task you have completed to receive a reward.<==>Selecciona la prueba que has cumplido para recibir tu recompensa.-->Selecione a tarefa da guilda que foi completada para receber uma recompensa.
