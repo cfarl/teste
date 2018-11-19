@@ -326,47 +326,47 @@
 (0326)The Solar Array powered the Sprawl long before its fusion reactors were installed. If I can get to the Base Station, I should be able to jumpstart the array and transfer some energy to the Transport Hub.<==>El panel solar alimentaba El Eje antes de que se instalaran los reactores de fusión. Si logro llegar a la estación base, debería poder poner en marcha el panel y transferir algo de energía al nodo de transporte.-->O painel solar alimentava o Eixo muito antes da instalação dos reatores de fusão. Se eu puder chegar à Estação Base, posso conseguir colocar o painel em funcionamento e transferir alguma energia para o Módulo de Transporte.
 (0327)Tiger Camo Viral Blue<==>Azul viral camuflaje tigre-->Azul Viral Camuflagem Tigre
 (0328-IGUAIS).
-(0329)The Ishimura medical deck, Isaac. These were my last hours.  Frightened, cold, alone.  Well, go on Isaac. Don't be shy.<==>La cubierta médica del Ishimura, Isaac. Fueron mis últimos momentos. Asustada, fría, sola. Bien, adelante Isaac. No seas tímido.-->Na sala médica da Ishimura, Isaac. Foram meus últimos momentos. Assustada, com frio, sozinha. Bem, siga em frente, Isaac. Não seja tímido.
-(0330)It must have come up from the colony! Goddammit! Hold him down! <==>¡Supongo que proviene de la colonia! ¡Maldita sea! ¡Sujétalo!-->Deve ter chegado pela colônia! Maldição! Segure-o!
-(0331)You never found my body, never said goodbye. Was I just stacked in the morgue with the others? Another random casualty?  Or did they turn me into one of them? Wearing my bloodied face, stalking the halls looking for more victims…<==>Nunca encontraste mi cuerpo, ni te despediste de mí. ¿Me almacenaron en el depósito de cadáveres junto a los demás? ¿Otra baja accidental? ¿O me convirtieron en uno de ellos? Mostrando mi rostro ensangrentado, acechando por los pabellones en busca de más víctimas...-->Você nunca encontrará o meu corpo, nunca irá dizer adeus. Eu fui apenas empilhada no necrotério com os outros? Outra vítima aleatória? Ou será que eles me transformaram em um deles? Mostrando o meu rosto ensanguentado, perseguindo pelos corredores à procura de mais vítimas...
-(0332)The barrier between us is wearing  thin, Isaac. Behind every tarp... a memory.  Behind every door of the passage of time from my life to when I died.<==>La barrera que nos separa es cada vez más fina, Isaac. Tras cada panel hay un recuerdo. Tras cada puerta un viaje temporal a mi vida en el momento de mi muerte.-->Esta barreira entre nós está se desgastando, Isaac. Atrás de cada camada... uma memória. Atrás de cada porta da passagem do tempo da minha vida até quando eu morri.
-(0333)Why do you keep insisting these unpleasant memories are somehow my fault? This isn't about the Marker, Isaac. This is about you.<==>¿Por qué insistes en que esos desagradables recuerdos son culpa mía? No se trata de la Efigie, Isaac. Se trata de ti.-->Por que você continua insistindo que essas lembranças desagradáveis são de alguma forma minha culpa? Isto não é sobre o Marker, Isaac. Isto é sobre você.
+(0329)The Ishimura medical deck, Isaac. These were my last hours.  Frightened, cold, alone.  Well, go on Isaac. Don't be shy.<==>La cubierta médica del Ishimura, Isaac. Fueron mis últimos momentos. Asustada, fría, sola. Bien, adelante Isaac. No seas tímido.-->A sala médica da Ishimura, Isaac. Foram meus últimos momentos. Assustada, com frio, sozinha. Bem, siga em frente, Isaac. Não seja tímido.
+(0330)It must have come up from the colony! Goddammit! Hold him down! <==>¡Supongo que proviene de la colonia! ¡Maldita sea! ¡Sujétalo!-->Deve ter vindo da colônia! Maldição! Segure-o!
+(0331)You never found my body, never said goodbye. Was I just stacked in the morgue with the others? Another random casualty?  Or did they turn me into one of them? Wearing my bloodied face, stalking the halls looking for more victims…<==>Nunca encontraste mi cuerpo, ni te despediste de mí. ¿Me almacenaron en el depósito de cadáveres junto a los demás? ¿Otra baja accidental? ¿O me convirtieron en uno de ellos? Mostrando mi rostro ensangrentado, acechando por los pabellones en busca de más víctimas...-->Você nunca encontrou meu corpo, nem se despediu de mim. Me colocaram no necrotério junto com os outros? Outra baixa casual? Ou será que eles me transformaram em um deles? Usando meu rosto ensanguentado,percorrendo os corredores em busca de mais vítimas...
+(0332)The barrier between us is wearing  thin, Isaac. Behind every tarp... a memory.  Behind every door of the passage of time from my life to when I died.<==>La barrera que nos separa es cada vez más fina, Isaac. Tras cada panel hay un recuerdo. Tras cada puerta un viaje temporal a mi vida en el momento de mi muerte.-->A barreira que nos separa é cada vez mais fina, Isaac. Atrás de cada painel... uma lembrança. Atrás de cada porta uma viagem temporal da minha vida até o momento da minha morte.
+(0333)Why do you keep insisting these unpleasant memories are somehow my fault? This isn't about the Marker, Isaac. This is about you.<==>¿Por qué insistes en que esos desagradables recuerdos son culpa mía? No se trata de la Efigie, Isaac. Se trata de ti.-->Por que você continua insistindo que essas lembranças desagradáveis são minha culpa? Isso não é sobre o Marker, Isaac. Isso é sobre você.
 (0334)Isaac, are you there?<==>Isaac, ¿estás ahí?-->Isaac, você está ai?
-(0335)You were right, Isaac! The Ishimura is a great ship! I am so lucky to be serving aboard her.<==>¡Tenías razón, Isaac! ¡El Ishimura es una nave fantástica! Tengo suerte de trabajar en ella.-->Você estava certo, Isaac! A Ishimura é uma nave grande! Eu sou tão sortuda por estar servindo a bordo dela.
-(0336)You made me stick with it.\n<==>Tú me animaste a seguir.-->Você me fez ficar com ela.\n
+(0335)You were right, Isaac! The Ishimura is a great ship! I am so lucky to be serving aboard her.<==>¡Tenías razón, Isaac! ¡El Ishimura es una nave fantástica! Tengo suerte de trabajar en ella.-->Você tinha razão, Isaac! A Ishimura é uma nave fantástica! Tenho sorte de estar trabalhando nela.
+(0336)You made me stick with it.\n<==>Tú me animaste a seguir.-->Você me animou a seguir.\n
 (0337)YOU MADE ME DIE!<==>¡TÚ ME MATASTE!-->VOCÊ ME MATOU!
-(0338)What it was made to do.  Isaac, you have to make us whole.<==>Lo que debe hacer. Isaac, nos has devuelto a la vida.-->O que se deve fazer. Isaac, você tem que nos devolver a vida.
-(0339)Step one: Crawl inside. <==>Paso uno: arrastrarse al interior.-->Primeiro passo: Rasteje até o interior. 
-(0340)Step two: The screws go tight all around.<==>Paso dos: "Los tornillos apretados, gíralos".-->Segundo passo: Gire os parafusos apertados.
-(0341)Cross my heart and hope to die…<==>Te lo juro... por mi vida...-->Escute o meu coração e espere para morrer...
+(0338)What it was made to do.  Isaac, you have to make us whole.<==>Lo que debe hacer. Isaac, nos has devuelto a la vida.-->O que deve fazer. Isaac, você tem que nos devolver a vida.
+(0339)Step one: Crawl inside. <==>Paso uno: arrastrarse al interior.-->Passo um: rasteje até o interior. 
+(0340)Step two: The screws go tight all around.<==>Paso dos: "Los tornillos apretados, gíralos".-->Passo dois: Gire os parafusos apertados.
+(0341)Cross my heart and hope to die…<==>Te lo juro... por mi vida...-->Eu te juro... pela minha vida...
 (0342)Stick a needle in your eye.<==>A tu ojo esta aguja va.-->Enfie uma agulha no seu olho.
 (0343)They're all coming to the Marker. Convergence is at hand…<==>Vienen todos a la Efigie. La Convergencia es inminente...-->Eles estão todos vindo para o Marker. A convergência é iminente...
-(0344)There's one thing I need you to understand, Isaac. When you destroy the Marker, the patterns in your head will be gone.<==>Hay algo que tienes que entender, Isaac. Cuando destruyas la Efigie, los patrones de tu cabeza desaparecerán.-->Há uma coisa que eu preciso que você entenda, Isaac. Quando você destruir o Marker, os padrões em sua cabeça desaparecerão.
-(0345)With the patterns gone, I will cease to exist. This is the last time we will ever see each other.<==>Cuando desaparezcan, dejaré de existir. Será la última vez que nos veamos.-->Com os padrões desaparecidos, eu deixarei de existir. Esta é a última vez que vamos nos ver.
+(0344)There's one thing I need you to understand, Isaac. When you destroy the Marker, the patterns in your head will be gone.<==>Hay algo que tienes que entender, Isaac. Cuando destruyas la Efigie, los patrones de tu cabeza desaparecerán.-->Há uma coisa que eu preciso que entenda, Isaac. Quando você destruir o Marker, os padrões em sua cabeça desaparecerão.
+(0345)With the patterns gone, I will cease to exist. This is the last time we will ever see each other.<==>Cuando desaparezcan, dejaré de existir. Será la última vez que nos veamos.-->Quando desaparecerem, eu deixarei de existir. Será a última vez que nos veremos. 
 (0346)[Isaac, its me…]<==>[Isaac, soy yo…]-->[Isaac, sou eu...]
 (0347)[I wish I could talk to you. I...]<==>[Ojalá pudiera hablar contigo. Lo...]-->[Eu queria poder falar com você. Eu...]
 (0348)[Thank you Isaac, I always believed in you.]<==>[Gracias Isaac. Siempre he creído en ti.]-->[Obrigado Isaac, eu sempre acreditei em você.]
 (0349)Isaac… touch me.<==>Isaac... Tócame.-->Isaac... me toque.
-(0350)Isaac, please. Make us whole. <==>Isaac, por favor. Devuélvenos a la vida.-->Isaac, por favor. Devolva-nos a Vida. 
-(0351)Isaac? I... Isaac... Can you hear me? Look, I'm gonna call you back as soon as I can, okay?<==>I... Isaac... ¿Me oyes? Escucha, te llamaré otra vez en cuanto pueda, ¿vale?-->Isaac? Eu... Isaac... você pode me ouvir? Olha, eu vou te chamar de volta quando eu puder, ok?
+(0350)Isaac, please. Make us whole. <==>Isaac, por favor. Devuélvenos a la vida.-->Isaac, por favor. Devolva-nos a vida. 
+(0351)Isaac? I... Isaac... Can you hear me? Look, I'm gonna call you back as soon as I can, okay?<==>I... Isaac... ¿Me oyes? Escucha, te llamaré otra vez en cuanto pueda, ¿vale?-->Isaac? Eu... Isaac... você está me ouvindo? Olha, eu vou ligar de volta assim que puder, ok?
 (0352)Isaac?<==>¿Isaac?-->Isaac?
 (0353)Isaac? Are you there? I'm so cold.<==>¿Isaac? ¿Estás ahí? Tengo frío.-->Isaac? Você está ai? Estou com tanto frio.
 (0354)The needle is burning in my arm. Isaac? Where are you?<==>La aguja me quema en el brazo. ¿Isaac? ¿Dónde estás?-->A agulha está queimando no meu braço. Isaac? Onde você está?
-(0355)The room is getting dark. I can't see you. <==>La sala es cada vez más oscura. No puedo verte.-->O quarto está ficando escuro. Eu não posso vê-lo.
+(0355)The room is getting dark. I can't see you. <==>La sala es cada vez más oscura. No puedo verte.-->A sala está ficando cada vez mais escura. Eu não consigo vê-lo.
 (0356)Isaac?<==>¿Isaac?-->Isaac?
-(0357)Step one: Crawl inside. <==>Paso uno: arrastrarse al interior.-->Primeiro Passo: Rasteja até o interior. 
+(0357)Step one: Crawl inside. <==>Paso uno: arrastrarse al interior.-->Passo um: rasteje até o interior. 
 (0358)Thank you Isaac.  Now….time to die.<==>Gracias, Isaac. Ahora... te toca morir.-->Obrigado Isaac.  Agora... é hora de morrer.
 (0359)Yours is the last body we need to be reborn!  The makers must be absorbed.<==>¡Tu cuerpo es el último que necesitamos para renacer! Los creadores deben ser absorbidos.-->O seu corpo é o ultimo que precisamos para renascer! Os criadores devem ser absorvidos.
-(0360)Not if we consume you first!<==>¡No si antes os consumimos!-->Não se antes nós o consumirmos primeiro!
-(0361)You will all be made one. Make us whole.<==>Todos pasaréis a ser uno. Devuélvenos a la vida.-->Vocês todos vão passar a ser só um. Faça-nos completos.
-(0362)Your species will be consumed.<==>Tu especie se consumirá.-->Sua espécie irá ser consumida.
-(0363)Give up Isaac.<==>Ríndete, Isaac.-->Desista Isaac.
-(0364)Give in Isaac.<==>Abandona, Isaac.-->Se renda Isaac.
+(0360)Not if we consume you first!<==>¡No si antes os consumimos!-->Não se nós o consumirmos primeiro!
+(0361)You will all be made one. Make us whole.<==>Todos pasaréis a ser uno. Devuélvenos a la vida.-->Todos passarão a ser só um. Devolva-nos a vida.
+(0362)Your species will be consumed.<==>Tu especie se consumirá.-->Sua espécie será consumida.
+(0363)Give up Isaac.<==>Ríndete, Isaac.-->Desista, Isaac.
+(0364)Give in Isaac.<==>Abandona, Isaac.-->Se renda, Isaac.
 (0365)We must be reborn.<==>Debemos renacer.-->Nós devemos renascer.
 (0366)You can't destroy me.<==>No puedes destruirme.-->Você não pode me destruir.
 (0367)What are you doing.<==>¿Qué estás haciendo?-->O que você está fazendo?
 (0368)Isaac stop you're hurting me.<==>Isaac, para, me haces daño.-->Isaac, pare, você está me machucando.
-(0369)Yours is the last body we need to be reborn<==>Tu cuerpo es el último que necesitamos para renacer.-->O seu corpo é o ultimo que precisamos para renascer
+(0369)Yours is the last body we need to be reborn<==>Tu cuerpo es el último que necesitamos para renacer.-->O seu corpo é o ultimo que precisamos para renascer. 
 (0370)You can't stop what's coming!<==>¡No puedes parar lo que viene!-->Você não pode parar o que está vindo!
 (0371)You unlocked increased paired damage for the Spitter<==>Has desbloqueado más daño conjunto para el escupidor.-->Você desbloqueou mais dano em conjunto para o Cuspidor.
 (0372)scanning the Xbox LIVE Marketplace...<==>examinando Bazar Xbox LIVE...-->pesquisando Loja da Xbox Live...
@@ -378,74 +378,74 @@
 (0378)DRILL ROOM AMBIENT 1<==>AMBIENTE DE SALA DE TALADRO 1-->AMBIENTE DA SALA DA PERFURADORA 1
 (0379)DRILL ROOM AMBIENT 2<==>AMBIENTE DE SALA DE TALADRO 2-->AMBIENTE DA SALA DA PERFURADORA 2
 (0380)DRILL ROOM AMBIENT 3<==>AMBIENTE DE SALA DE TALADRO 3-->AMBIENTE DA SALA DA PERFURADORA 3
-(0381)DRILL BANTER 1<==>CHARLA DE TALADRO 1-->CONVERSAÇÃO DA PERFURADORA 1
-(0382)DRILL BANTER 2<==>CHARLA DE TALADRO 2-->CONVERSAÇÃO DA PERFURADORA 2
-(0383)DRILL BANTER 3<==>CHARLA DE TALADRO 3-->CONVERSAÇÃO DA PERFURADORA 3
-(0384)DRILL BANTER 4<==>CHARLA DE TALADRO 4-->CONVERSAÇÃO DA PERFURADORA 4
-(0385)DRILL BANTER 5<==>CHARLA DE TALADRO 5-->CONVERSAÇÃO DA PERFURADORA 5
-(0386)DRILL BANTER 6<==>CHARLA DE TALADRO 6-->CONVERSAÇÃO DA PERFURADORA 6
-(0387)DRILL BANTER 7<==>CHARLA DE TALADRO 7-->CONVERSAÇÃO DA PERFURADORA 7
-(0388)Attention:  Tour guide staff.   Please remember to keep all visitors in your sight at all times.  The indoctrination centers are strictly off limits to the casual public.   Remember, be the light in the room for those who walk in darkness!<==>Atención, personal de visitas guiadas: recuerden mantener a las visitas vigiladas en todo momento. Los centros de adoctrinamiento están estrictamente cerrados al público ocasional. ¡Y no olviden ser la luz de los que caminan en la oscuridad!-->Atenção: Pessoal do Guia Turístico. Não se esqueçam de manter todos os visitantes, em sua visão em todos os momentos. Os centros de doutrinação estão estritamente fora dos limites para o público casual. Lembre-se, sejam a luz no quarto para quem anda no escuro!
+(0381)DRILL BANTER 1<==>CHARLA DE TALADRO 1-->CONVERSA DA PERFURADORA 1
+(0382)DRILL BANTER 2<==>CHARLA DE TALADRO 2-->CONVERSA DA PERFURADORA 2
+(0383)DRILL BANTER 3<==>CHARLA DE TALADRO 3-->CONVERSA DA PERFURADORA 3
+(0384)DRILL BANTER 4<==>CHARLA DE TALADRO 4-->CONVERSA DA PERFURADORA 4
+(0385)DRILL BANTER 5<==>CHARLA DE TALADRO 5-->CONVERSA DA PERFURADORA 5
+(0386)DRILL BANTER 6<==>CHARLA DE TALADRO 6-->CONVERSA DA PERFURADORA 6
+(0387)DRILL BANTER 7<==>CHARLA DE TALADRO 7-->CONVERSA DA PERFURADORA 7
+(0388)Attention:  Tour guide staff.   Please remember to keep all visitors in your sight at all times.  The indoctrination centers are strictly off limits to the casual public.   Remember, be the light in the room for those who walk in darkness!<==>Atención, personal de visitas guiadas: recuerden mantener a las visitas vigiladas en todo momento. Los centros de adoctrinamiento están estrictamente cerrados al público ocasional. ¡Y no olviden ser la luz de los que caminan en la oscuridad!-->Atenção: pessoal das visitas guiadas. Não se esqueçam de manter todos os visitantes vigiados em todo momento. Os centros de doutrinação estão estritamente proibidos para o público casual. E não se esqueçam, sejam a luz dos que caminham na escuridão!
 (0389-IGUAIS)2
 (0390)Rivet Gun Schematic<==>Diagrama de remachadora-->Diagrama do Rebitador
-(0391)Crawl slowly through maintenance vents.<==>Arrástrate lentamente por los conductos de ventilación.-->Rasteje lentamente através dos dutos de manutenção.
+(0391)Crawl slowly through maintenance vents.<==>Arrástrate lentamente por los conductos de ventilación.-->Rasteje lentamente pelos dutos de ventilação.
 (0392)Senior Video Artist<==>Diseñador de vídeo sénior-->Artista de Vídeo Sênior
-(0393)Press [RDRight]<==>Pulsa [RDRight].-->Aperte [RDRight]
-(0394)   Follow Daina's route to safety.<==>Sigue la ruta de Daina para ponerte a salvo.-->   Siga a rota de Daina para a sua segurança.
-(0395)scoreboard<==>puntuación-->Pontuação
+(0393)Press [RDRight]<==>Pulsa [RDRight].-->Pressione [RDRight]
+(0394)   Follow Daina's route to safety.<==>Sigue la ruta de Daina para ponerte a salvo.-->   Siga a rota de Daina para se colocar a salvo.
+(0395)scoreboard<==>puntuación-->pontuação
 (0396)scanning for downloadable content...<==>Buscando descarga de contenido...-->Verificando o conteúdo para download...
 (0397)Gondola<==>Góndola-->Gôndola
 (0398-IGUAIS)Patrice Michaud
-(0399)zero-g launch<==>despegue grav-0-->Dispare a Gravidade Zero
+(0399)zero-g launch<==>despegue grav-0-->Dispare a gravidade zero
 (0400-IGUAIS)1
 (0401-IGUAIS).
 (0402-IGUAIS).
 (0403-IGUAIS)>
 (0404-IGUAIS)>
-(0405)Sprawl Security Maroon Tiger Striped Suit<==>Traje de seguridad del Eje granate camuflaje tigre-->Traje de Segurança do Eixo Tigre Marron Listrado
+(0405)Sprawl Security Maroon Tiger Striped Suit<==>Traje de seguridad del Eje granate camuflaje tigre-->Traje de Segurança do Eixo castanho camuflagem tigre 
 (0406)Unlocked for developers only<==>Desbloqueado solo para desarrolladores-->Desbloqueado só para desenvolvedores
 (0407)MEDIUM AIR CAN<==>BOTE DE AIRE MEDIANO-->TUBO DE AR MÉDIO
-(0408)No!  Stop saying that!  It can't be true, it can't be true!<==>¡No! ¡Deja de decir eso! ¡No es verdad, no es verdad!-->Não! Pare com isso! Não pode ser verdade, não pode ser verdade!
+(0408)No!  Stop saying that!  It can't be true, it can't be true!<==>¡No! ¡Deja de decir eso! ¡No es verdad, no es verdad!-->Não! Pare de dizer isso! Não é verdade, não é verdade!
 (0409)No, no, stop, let me go, stop, we can't leave her!<==>¡No, no, basta, suéltame, basta, no podemos dejarla!-->Não, não, pára, me deixe ir, pare, não podemos deixá-la!
 (0410)but Mom....<==>Pero mamá...-->Mas mãe....
-(0411)  Let me go, let me go, I can't leave her, we have to take her with us!<==>¡Suéltame, suéltame! ¡No puedo dejarla, tenemos que llevarla con nosotros!-->  Deixe-me ir, deixe-me ir, não posso deixá-la, temos de levá-la conosco!
-(0412)DELETE<==>ELIMINAR-->DELETAR
-(0413)kills<==>bajas-->Mortes
-(0414)This will shorten the timer on the Alt Fire<==>Se reducirá el temporizador del DISPARO SECUNDARIO.-->Isto diminuirá o temporizador do Tiro Secundário
+(0411)  Let me go, let me go, I can't leave her, we have to take her with us!<==>¡Suéltame, suéltame! ¡No puedo dejarla, tenemos que llevarla con nosotros!-->  Deixe-me ir, deixe-me ir, não posso deixá-la, temos que levá-la conosco!
+(0412)DELETE<==>ELIMINAR-->ELIMINAR
+(0413)kills<==>bajas-->Baixas
+(0414)This will shorten the timer on the Alt Fire<==>Se reducirá el temporizador del DISPARO SECUNDARIO.-->Isso vai reduzir o temporizador do Disparo Secundário
 (0415)LOOT<==>BOTÍN-->PILHAGEM
 (0416)SCHOOL NURSE REPORT 8022<==>ENFERMERA ESCOLAR: INFORME 8022-->ENFERMEIRA ESCOLAR: INFORME 8022
 (0417)KIDS GONE CRAZY<==>LOCURA INFANTIL-->LOUCURA INFANTIL
-(0418)STASIS PACK<==>CARGA DE ESTABILIZACIÓN-->KIT DE ESTABILIZAÇÃO
-(0419)Connect Online to See Updates<==>Conectarse online para ver actualizaciones.-->Conecte-se Online para Ver as Atualizações
+(0418)STASIS PACK<==>CARGA DE ESTABILIZACIÓN-->CARGA DE ESTABILIZAÇÃO
+(0419)Connect Online to See Updates<==>Conectarse online para ver actualizaciones.-->Conecte-se online para ver as atualizações
 (0420-IGUAIS)4
 (0421-IGUAIS)Plasma Ammo
 (0422)Artists<==>Diseñadores-->Artistas
-(0423)RIPPER BLADES\nSchematic Acquired\nDownload at the Store<==>CUCHILLAS DE SIERRA TRITURADORA\nDiagrama adquirido\nDescargar en el almacén-->LÂMINAS DA SERRA TRITURADORA\nDiagrama adquirido\nBaixe na Loja
+(0423)RIPPER BLADES\nSchematic Acquired\nDownload at the Store<==>CUCHILLAS DE SIERRA TRITURADORA\nDiagrama adquirido\nDescargar en el almacén-->LÂMINAS DE SERRA TRITURADORA\nDiagrama adquirido\nBaixe na Loja
 (0424-IGUAIS)1
 (0425)NAV CARD 3<==>CARTA DE NAVEGACIÓN 3-->CARTA DE NAVEGAÇÃO 3
 (0426)[RDUp]ZOOM IN<==>[RDUp]ACERCAR-->[RDUp]Zoom
 (0427)//settings<==>//Opciones-->//opções
 (0428)force gun<==>cañón de energía-->canhão de energia
-(0429)Guard Security Doors<==>Protege las puertas de seguridad.-->Proteja as Portas de Segurança
+(0429)Guard Security Doors<==>Protege las puertas de seguridad.-->Proteja as portas de segurança
 (0430)//online pass<==>//Pase online-->//passe online
-(0431)I don't know who this woman is, but she's helped me make it this far. Trust isn't a factor here - she's helped me survive, and that's what matters. She says she has a cure for these hallucinations and a way off this space station.\n\nI've got nothing to lose by meeting her.<==>No sé quién es esta mujer, pero me ha ayudado a llegar hasta aquí. La confianza no es un factor, me ha ayudado a sobrevivir, eso es lo único que importa. Dice que tiene una cura para estas alucinaciones y que conoce la forma de salir de esta estación espacial.\n\nNo pierdo nada reuniéndome con ella.-->Eu não sei quem é esta mulher, mas ela me ajudou a chegar tão longe. A confiança não é um fator aqui - ela me ajudou a sobreviver, e isso é o que importa. Ela diz que tem uma cura para essas alucinações e um caminho para fora desta estação espacial.\n\nEu não tenho nada a perder, vou encontrá-la.
-(0432-IGUAIS)English
+(0431)I don't know who this woman is, but she's helped me make it this far. Trust isn't a factor here - she's helped me survive, and that's what matters. She says she has a cure for these hallucinations and a way off this space station.\n\nI've got nothing to lose by meeting her.<==>No sé quién es esta mujer, pero me ha ayudado a llegar hasta aquí. La confianza no es un factor, me ha ayudado a sobrevivir, eso es lo único que importa. Dice que tiene una cura para estas alucinaciones y que conoce la forma de salir de esta estación espacial.\n\nNo pierdo nada reuniéndome con ella.-->Eu não sei quem é essa mulher, mas ela me ajudou a chegar até aqui. A confiança não é um fator aqui - ela me ajudou a sobreviver, e isso é o que importa. Ela diz que tem uma cura para essas alucinações e que sabe como sair dessa estação espacial.\n\nEu não tenho nada a perder me encontrando com ela.
+(0432-IGUAIS)English-->Inglês 
 (0433)PREPARATION<==>PREPARACIÓN-->PREPARAÇÃO
 (0434)POWER CELL ENGAGED<==>CÉLULA DE ENERGÍA CONECTADA-->CÉLULA DE ENERGIA CONECTADA
-(0435)Rd<==>Rda.-->Rd
+(0435)Rd<==>Rda.-->Rda. 
 (0436-IGUAIS)Liu Bo Jian
-(0437)You have lost your connection to the EA Servers.<==>Se ha perdido la conexión con los servidores de EA.-->Você perdeu sua conexão com os servidores da EA.
-(0438)Authorized Technicians Only<==>Solo técnicos autorizados-->Somente Técnicos Autorizados
-(0439)Authorized Technicians Only<==>Solo técnicos autorizados-->Somente Técnicos Autorizados
-(0440)Check Temperature Control Units<==>Comprobar unidades de control de temperatura-->Verifique a Unidade de Controle de Temperatura
-(0441)Power Node Access Only<==>Acceso exclusivo con nodo de energía-->Acesso Exclusivo com Nodo de Energia
-(0442)Check Temperature Control Units<==>Comprobar unidades de control de temperatura-->Verifique a Unidade de Controle de Temperatura
-(0443)Authorized Technicians Only<==>Solo técnicos autorizados-->Somente Técnicos Autorizados
-(0444)Remember to Sync Your Rig<==>Recuerde sincronizar su DRI-->Lembre-se de sincronizar o seu DRI
-(0445)Remember to Sync Your Rig<==>Recuerde sincronizar su DRI-->Lembre-se de sincronizar o seu DRI
-(0446)Remember to Sync Your Rig<==>Recuerde sincronizar su DRI-->Lembre-se de sincronizar o seu DRI
-(0447)Authorized Technicians Only<==>Solo técnicos autorizados-->Somente Técnicos Autorizados
-(0448)WARNING: ACTIVE DRILLING<==>ATENCIÓN: TALADRO ACTIVO-->AVISO: PERFURAÇÃO ATIVADA
+(0437)You have lost your connection to the EA Servers.<==>Se ha perdido la conexión con los servidores de EA.-->Você perdeu a conexão com os servidores da EA.
+(0438)Authorized Technicians Only<==>Solo técnicos autorizados-->Somente técnicos autorizados
+(0439)Authorized Technicians Only<==>Solo técnicos autorizados-->Somente técnicos autorizados
+(0440)Check Temperature Control Units<==>Comprobar unidades de control de temperatura-->Verifique a unidade de controle de temperatura
+(0441)Power Node Access Only<==>Acceso exclusivo con nodo de energía-->Acesso permitido somente com nodo de energia
+(0442)Check Temperature Control Units<==>Comprobar unidades de control de temperatura-->Verifique a unidade de controle de temperatura
+(0443)Authorized Technicians Only<==>Solo técnicos autorizados-->Somente técnicos autorizados
+(0444)Remember to Sync Your Rig<==>Recuerde sincronizar su DRI-->Lembre-se de sincronizar seu DRI
+(0445)Remember to Sync Your Rig<==>Recuerde sincronizar su DRI-->Lembre-se de sincronizar seu DRI
+(0446)Remember to Sync Your Rig<==>Recuerde sincronizar su DRI-->Lembre-se de sincronizar seu DRI
+(0447)Authorized Technicians Only<==>Solo técnicos autorizados-->Somente técnicos autorizados
+(0448)WARNING: ACTIVE DRILLING<==>ATENCIÓN: TALADRO ACTIVO-->AVISO: PERFURAÇÃO ATIVA
 (0449)Lead Engineer<==>Ingeniero jefe-->Engenheiro chefe
 (0450-IGUAIS)ü
 (0451-IGUAIS)n
@@ -454,11 +454,11 @@
 (0454)Contact<==>Contactar-->Contatar
 (0455)TRAM STATUS<==>ESTADO DEL MONORRAÍL-->STATUS DO MONOTRILHO
 (0456)[MenuA]USE<==>[MenuA]USAR-->[MenuA]Usar
-(0457)STASIS MODULE<==>MÓDULO DE ESTABIL.-->MÓDULO CINÉTICO
+(0457)STASIS MODULE<==>MÓDULO DE ESTABIL.-->MÓDULO DE ESTABIL.
 (0458)Associate Producers<==>Productores asociados-->Produtores Associados
-(0459)Sell items you don't want in the store.<==>Vende los objetos que no quieras en el almacén.-->Venda os itens que você não quer na loja.
+(0459)Sell items you don't want in the store.<==>Vende los objetos que no quieras en el almacén.-->Venda os itens que não quiser na loja.
 (0460-IGUAIS)4
-(0461)EA Games Senior Vice President, Group GM<==>Vicepresidente sénior de EA Games y director general del grupo-->EA Games vice-presidente sênior, Grupo GM
+(0461)EA Games Senior Vice President, Group GM<==>Vicepresidente sénior de EA Games y director general del grupo-->Vice-presidente sênior EA Games, Grupo GM
 (0462)wins<==>victorias-->vitórias
 (0463)Vice President, Group Product Development<==>Vicepresidente de desarrollo de producto del grupo-->Vice-presidente de Desenvolvimento de Produto do Grupo
 (0464-IGUAIS)Unity after death, \nUnity forever.
@@ -473,18 +473,18 @@
 (0473-IGUAIS)Let us fear nothing. Death is only a transition to the Unity beyond.
 (0474)You can't stop what's coming.<==>No puedes parar lo que viene.-->Você não pode parar o que está vindo.
 (0475)Convergence is at hand.<==>La Convergencia es inminente.-->A convergência é iminente.
-(0476)I doubted, but now I see, in death we are free.<==>Tenía mis dudas, pero ya lo veo claro: la muerte nos hace libres.-->Eu duvidava, mas agora eu vejo, na morte somos livres.
+(0476)I doubted, but now I see, in death we are free.<==>Tenía mis dudas, pero ya lo veo claro: la muerte nos hace libres.-->Eu tinha minhas dúvidas, mas agora eu vejo com clareza, a morte nos faz livres.
 (0477-IGUAIS)Veronique Garcia
 (0478)Vice President, Group COO<==>Vicepresidente y director de operaciones del grupo-->Vice-Presidente, Grupo COO
-(0479)primary fire: conical force blast\nalternate fire: condensed force blast<==>disparo principal: ráfaga de energía cónica\ndisparo secundario: ráfaga de energía condensada-->Tiro principal: rajada de energia cônica\ntiro secundário: rajada de energia condensada
+(0479)primary fire: conical force blast\nalternate fire: condensed force blast<==>disparo principal: ráfaga de energía cónica\ndisparo secundario: ráfaga de energía condensada-->Disparo principal: rajada de energia cônica\ndisparo secundário: rajada de energia condensada
 (0480-IGUAIS)Patrick C. Payne
 (0481)POWER NODE\nSchematic Acquired\nDownload at the Store<==>NODO DE ENERGÍA\nDiagrama adquirido\nDescargar en el almacén-->NODO DE ENERGIA\nDiagrama adquirido\nBaixe na Loja
-(0482)Character Artists<==>Diseñadores de personajes-->Artistas do Personagem
+(0482)Character Artists<==>Diseñadores de personajes-->Artistas de PersonagenS
 (0483)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado por matar o portador
-(0484)unmute<==>Activar sonido-->Ativa o Som
-(0485)survivalist<==>Difícil-->Sobrevivencialista
+(0484)unmute<==>Activar sonido-->Ativa o som
+(0485)survivalist<==>Difícil-->Difícil
 (0486)Items<==>Objetos-->Itens
-(0487)3 stasis shots<==>3 disparos de estabilización-->3 tiros de estabilização
+(0487)3 stasis shots<==>3 disparos de estabilización-->3 disparos de estabilização
 (0488)test speakers<==>Comprobar altavoces-->verificar alto-falantes
 (0489)MEDIUM MED PACK<==>BOTIQUÍN MEDIANO-->KIT MÉDICO MÉDIO
 (0490)SCANNER ONLINE<==>ESCÁNER CONECTADO-->O SCANNER ESTÁ ONLINE
