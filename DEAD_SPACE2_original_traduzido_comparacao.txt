@@ -387,7 +387,7 @@
 (0387)DRILL BANTER 7<==>CHARLA DE TALADRO 7-->CONVERSA DA PERFURADORA 7
 (0388)Attention:  Tour guide staff.   Please remember to keep all visitors in your sight at all times.  The indoctrination centers are strictly off limits to the casual public.   Remember, be the light in the room for those who walk in darkness!<==>Atención, personal de visitas guiadas: recuerden mantener a las visitas vigiladas en todo momento. Los centros de adoctrinamiento están estrictamente cerrados al público ocasional. ¡Y no olviden ser la luz de los que caminan en la oscuridad!-->Atenção: pessoal das visitas guiadas. Não se esqueçam de manter todos os visitantes vigiados em todo momento. Os centros de doutrinação estão estritamente proibidos para o público casual. E não se esqueçam, sejam a luz dos que caminham na escuridão!
 (0389-IGUAIS)2
-(0390)Rivet Gun Schematic<==>Diagrama de remachadora-->Diagrama do Rebitador
+(0390)Rivet Gun Schematic<==>Diagrama de remachadora-->Diagrama da Rebitadora
 (0391)Crawl slowly through maintenance vents.<==>Arrástrate lentamente por los conductos de ventilación.-->Rasteje lentamente pelos dutos de ventilação.
 (0392)Senior Video Artist<==>Diseñador de vídeo sénior-->Artista de Vídeo Sênior
 (0393)Press [RDRight]<==>Pulsa [RDRight].-->Pressione [RDRight]
@@ -452,7 +452,7 @@
 (0452-IGUAIS)Ü
 (0453-IGUAIS)N
 (0454)Contact<==>Contactar-->Contatar
-(0455)TRAM STATUS<==>ESTADO DEL MONORRAÍL-->STATUS DO MONOTRILHO
+(0455)TRAM STATUS<==>ESTADO DEL MONORRAÍL-->ESTADO DO TREM
 (0456)[MenuA]USE<==>[MenuA]USAR-->[MenuA]Usar
 (0457)STASIS MODULE<==>MÓDULO DE ESTABIL.-->MÓDULO DE ESTABIL.
 (0458)Associate Producers<==>Productores asociados-->Produtores Associados
@@ -547,76 +547,76 @@
 (0547)We're a threat to them. I know it. We have to work together! ...Oh, my nose is bleeding? When did that start? Uhhh...<==>Somos una amenaza para ellos, lo sé. ¡Tenemos que colaborar! -->Nós somos uma ameaça para eles. Eu sei disso. Temos que trabalhar juntos! ...Oh, meu nariz está sangrando? Quando isso começou? Uhhh...
 (0548)Isaac?  Isaac, are you there?  Can you hear me? <==>¿Isaac? Isaac, ¿estás ahí? ¿Me oyes?-->Isaac?  Isaac, você está ai?  Você pode me ouvir? 
 (0549)No, no, no, no! It's not over. At least, not yet.<==>¡No, no, no, no! No se ha terminado. Aún no.-->Não, não, não, não! Não acabou. Pelo menos, ainda não. 
-(0550)Isaac… Isaac, we built it. We can tear it down!<==>Isaac... Isaac, nosotros la construimos. ¡Podemos destruirla!-->Isaac ... Isaac, nós construimos isso. Nós podemos derrubá-lo!
-(0551)I...  It's in the Government Sector!  The Government Sector! But we have to move now! Now! Now! Now! Because time is running out for me... for us.<==>No... ¡Está en el sector gubernamental! ¡En el sector gubernamental! ¡Pero tenemos que ponernos en marcha ya! ¡Ya! ¡Ya! Porque el tiempo se me acaba..., se nos acaba.-->Es... Está no setor Governamental! O Setor Governamental! Mas temos que nos mover agora! Agora! Agora! Agora! Porque o tempo está se esgotando para mim ... para nós.
-(0552)Isaac! They were afraid of us after the sessions, I remember!  They took us to the machine.  For our sessions. For the steps!<==>¡Isaac! ¡Nos tenían miedo después de las sesiones, lo recuerdo! Nos llevaron a la máquina. Para las sesiones. ¡Para los pasos!-->Isaac! Eles tinham medo de nós após as sessões, eu me lembro! Levaram-nos para a máquina. Para as nossas sessões. Para os passos!
-(0553)You're lucky you don't remember.\nWhen you do, he starts coming back.<==>Tienes suerte de no acordarte.\nCuando te acuerdas, él empieza a volver.-->Você tem sorte de não se lembrar.\nAo fazer isso, elas começam a voltar.
-(0554)Oh, look at you! You've grown up so much! Where are you going?<==>¡Oh, mírate! ¡Cuánto has crecido! ¿Adónde vas?-->Oh, olhe para você! Você cresceu bastante! Onde você vai?
+(0550)Isaac… Isaac, we built it. We can tear it down!<==>Isaac... Isaac, nosotros la construimos. ¡Podemos destruirla!-->Isaac ... Isaac, nós construimos isso. Nós podemos destrui-lo!
+(0551)I...  It's in the Government Sector!  The Government Sector! But we have to move now! Now! Now! Now! Because time is running out for me... for us.<==>No... ¡Está en el sector gubernamental! ¡En el sector gubernamental! ¡Pero tenemos que ponernos en marcha ya! ¡Ya! ¡Ya! Porque el tiempo se me acaba..., se nos acaba.-->Es... Está no setor Governamental! No Setor Governamental! Mas temos que nos mover agora! Agora! Agora! Agora! Porque o tempo está se esgotando para mim ... para nós.
+(0552)Isaac! They were afraid of us after the sessions, I remember!  They took us to the machine.  For our sessions. For the steps!<==>¡Isaac! ¡Nos tenían miedo después de las sesiones, lo recuerdo! Nos llevaron a la máquina. Para las sesiones. ¡Para los pasos!-->Isaac! Eles tinham medo de nós depois das sessões, eu me lembro! Eles nos levaram para a máquina. Para as sessões. Para os passos!
+(0553)You're lucky you don't remember.\nWhen you do, he starts coming back.<==>Tienes suerte de no acordarte.\nCuando te acuerdas, él empieza a volver.-->Você tem sorte de não se lembrar.\nQuando se lembra, ele começam a voltar.
+(0554)Oh, look at you! You've grown up so much! Where are you going?<==>¡Oh, mírate! ¡Cuánto has crecido! ¿Adónde vas?-->Oh, olhe só para você! Você cresceu bastante! Onde está indo?
 (0555) It's dark - he'll find me in the dark!<==>¡Está oscuro, me encontrará en la oscuridad!-->Está escuro - ele vai me encontrar no escuro!
-(0556)Step 1, dark machine, we have to crawl into the dark machine. And then the screws, tight.  <==>Paso 1, máquina oscura, tenemos que arrastrarnos a la máquina oscura. Y luego los tornillos, apretados.-->Passo 1, a máquina escura, temos que nos rastejar para dentro da máquina escura. E então os parafusos, apertados.  
+(0556)Step 1, dark machine, we have to crawl into the dark machine. And then the screws, tight.  <==>Paso 1, máquina oscura, tenemos que arrastrarnos a la máquina oscura. Y luego los tornillos, apretados.-->Passo 1, a máquina escura, temos que nos arrastar para dentro da máquina escura. E então os parafusos, apertados.  
 (0557)CHEMICAL CAPSULE<==>CÁPSULA QUÍMICA-->CÁPSULA QUÍMICA
 (0558)PAUSE<==>PAUSA-->PAUSA
-(0559)Bring this schematic to the store to unlock the Rivet Gun.<==>Lleva este diagrama al almacén para desbloquear la remachadora.-->Leve esse diagrama até a loja para desbloquear a Arma de Rebites.
-(0560)Prevent the humans from escaping<==>Evita que los humanos huyan.-->Impeça que os humanos escapem
+(0559)Bring this schematic to the store to unlock the Rivet Gun.<==>Lleva este diagrama al almacén para desbloquear la remachadora.-->Leve esse diagrama até a loja para desbloquear a Rebitadora.
+(0560)Prevent the humans from escaping<==>Evita que los humanos huyan.-->Evite que os humanos escapem
 (0561)Lurker<==>Merodeador-->Vagabundo
-(0562)\nStep 1, Dark Machine.  Crawl into the dark machine. Step 2, the screws.  Screws go tight.  Time for another session.  More sessions.   More steps.  Dark Machine.  Cold and cramped.  Hard to breathe.  Hard to breathe.  Screws go tight. Tight tight tight.  <==>Paso 1, máquina oscura. Arrástrate al interior de la máquina oscura. Paso 2, los tornillos. Los tornillos apretados. Hora de otra sesión. Más sesiones. Más pasos. Máquina oscura. Frío y estrecho. Cuesta respirar. Cuesta respirar. Tornillos apretados. Muy, muy apretados.-->\nPasso 1, máquina escura.  rasteje para dentro da máquina escura. Passo 2, os parafusos.  Os parafusos apertados.  Hora de outra sessão.  Mais sessões.  Mais passos. A máquina escura, fria e apertada. Difíciculdade para respirar. Dificuldade para respirar. Os parafusos apertados. Muito, muito apertados.
-(0563)But Daddy doesn't like the machine…Daddy doesn't like it.  It's cold and dark… and the walls are too close! They're too close!  Daddy doesn't like it, daddy doesn't like it son.  No, I don't wanna crawl inside.  It's too close, the walls are too close.<==>Pero a papi no le gusta la máquina... A papi no le gusta. ¡Está fría y oscura... y las paredes se echan encima! ¡Se echan encima! A papi no le gusta, a papi no le gusta, hijo. No, no me quiero arrastrar ahí dentro. Se echan encima, las pareces se echan encima...-->Mas o papai não gosta da máquina... papai não gosta. Está fria e escura... e as paredes estão muito perto! Elas estão muito perto! Papai não gosta, papai não gosta filho. Não, eu não quero rastejar para dentro. Estão muito próximas, as paredes estão muito próximas.
-(0564)No, I'm not ready for the needle again! You have to let me out! I can't breathe! Let me out!<==>¡No, aún no estoy preparado para la inyección! ¡Tiene que dejarme salir! ¡No puedo respirar! ¡Déjeme salir!-->Não, eu não estou pronto para a agulha de novo! Você tem que me deixar sair! Eu não posso respirar! Me deixe sair!
-(0565)Ellie, you need to see him. If you follow the steps, I know you'll see him.  Step 3. You'll see, after Step 3.  No.<==>Ellie, tienes que verlo. Si sigues los pasos, sé que lo verás. Paso 3. Verás, después del paso 3. No.-->Ellie, você precisa vê-lo. Se você seguir os passos, eu sei que você vai vê-lo. Passo 3. Você vai ver, após o Passo 3. Não.
-(0566)Step 3 Ellie.<==>Paso 3, Ellie.-->Passo 3 Ellie.
-(0567)Step four. She'll be waiting. She'll be waiting. She's always waiting. Staring. Asking. I don't know the answer. After the screws, after the needle, she'll be waiting.<==>Paso cuatro. Estará esperando. Estará esperando. Siempre está esperando. Observando. Preguntando. No conozco la respuesta. Después de los tornillos, después de la inyección, ella estará esperando.-->Passo quatro. Ela vai estar esperando. Ela vai estar esperando. Ela sempre estará esperando. Observando. Perguntando. Eu não sei a resposta. Após os parafusos, após a agulha, ela vai estar esperando.
-(0568)Step four. She'll be waiting. <==>Paso cuatro. Estará esperando.-->Passo quatro. Ela vai estar esperando.
-(0569)After the screws, after the needle, she'll be waiting. <==>Después de los tornillos, después de la inyección, ella estará esperando.-->Após os parafusos, após a agulha, ela vai estar esperando.
+(0562)\nStep 1, Dark Machine.  Crawl into the dark machine. Step 2, the screws.  Screws go tight.  Time for another session.  More sessions.   More steps.  Dark Machine.  Cold and cramped.  Hard to breathe.  Hard to breathe.  Screws go tight. Tight tight tight.  <==>Paso 1, máquina oscura. Arrástrate al interior de la máquina oscura. Paso 2, los tornillos. Los tornillos apretados. Hora de otra sesión. Más sesiones. Más pasos. Máquina oscura. Frío y estrecho. Cuesta respirar. Cuesta respirar. Tornillos apretados. Muy, muy apretados.-->\nPasso 1, máquina escura.  Se arraste para dentro da máquina escura. Passo 2, os parafusos.  Os parafusos apertados.  Hora de outra sessão.  Mais sessões.  Mais passos. Máquina escura. Fria e apertada. Difícil de respirar. Difícil de respirar. Parafusos apertados. Muito, muito apertados.
+(0563)But Daddy doesn't like the machine…Daddy doesn't like it.  It's cold and dark… and the walls are too close! They're too close!  Daddy doesn't like it, daddy doesn't like it son.  No, I don't wanna crawl inside.  It's too close, the walls are too close.<==>Pero a papi no le gusta la máquina... A papi no le gusta. ¡Está fría y oscura... y las paredes se echan encima! ¡Se echan encima! A papi no le gusta, a papi no le gusta, hijo. No, no me quiero arrastrar ahí dentro. Se echan encima, las pareces se echan encima...-->Mas o papai não gosta da máquina... papai não gosta. Está fria e escura... e as paredes estão muito perto! Elas estão muito perto! Papai não gosta, papai não gosta filho. Não, eu não quero me arrastar para dentro. Estão muito próximas, as paredes estão muito próximas.
+(0564)No, I'm not ready for the needle again! You have to let me out! I can't breathe! Let me out!<==>¡No, aún no estoy preparado para la inyección! ¡Tiene que dejarme salir! ¡No puedo respirar! ¡Déjeme salir!-->Não, eu ainda não estou preparado para a injeção! Você precisa me deixar sair! Eu não consigo respirar! Me deixe sair!
+(0565)Ellie, you need to see him. If you follow the steps, I know you'll see him.  Step 3. You'll see, after Step 3.  No.<==>Ellie, tienes que verlo. Si sigues los pasos, sé que lo verás. Paso 3. Verás, después del paso 3. No.-->Ellie, você precisa vê-lo. Se você seguir os passos, eu sei que vai vê-lo. Passo 3. Você vai ver, depois do Passo 3. Não.
+(0566)Step 3 Ellie.<==>Paso 3, Ellie.-->Passo 3, Ellie.
+(0567)Step four. She'll be waiting. She'll be waiting. She's always waiting. Staring. Asking. I don't know the answer. After the screws, after the needle, she'll be waiting.<==>Paso cuatro. Estará esperando. Estará esperando. Siempre está esperando. Observando. Preguntando. No conozco la respuesta. Después de los tornillos, después de la inyección, ella estará esperando.-->Passo quatro. Ela vai estar esperando. Ela vai estar esperando. Ela sempre está esperando. Observando. Perguntando. Eu não sei a resposta. Depois dos parafusos, de pois da injeção, ela vai estar esperando.
+(0568)Step four. She'll be waiting. <==>Paso cuatro. Ela vai estar esperando.-->Passo quatro. Ela vai estar esperando.
+(0569)After the screws, after the needle, she'll be waiting. <==>Después de los tornillos, después de la inyección, ella estará esperando.-->Depois dos parafusos, depois da injeção, ela vai estar esperando.
 (0570)No.  Stop saying that.  I'm not.  It's not true.  No no no.  I'm not I'm not.<==>No. Deja de decir eso. No, no es cierto. No, no, no. No lo soy. No lo soy.-->Não. Pare de dizer isso. Eu não sou. Não é verdade. Não não não. Eu não sou eu não sou.
 (0571)I seeeee you!<==>¡Te veooooo!-->Eu te veeeejoo!
-(0572)I can't face it! I thought Ellie could. I had to make her see.  Step 3!<==>¡Yo no puedo hacerle frente! Creí que Ellie podría. Tenía que hacerle ver. ¡Paso 3!-->Eu não posso enfrentá-la! Eu acho que Ellie poderia. Eu tinha que fazê-la ver.  Passo 3!
-(0573)Her! It's what they were afraid of, that I'd face her, destroy the Marker.  But it's too much.  You have to help.  You need to see. Step 3.<==>¡A ella! Eso es lo que temen ellos, que le haga frente, que destruya la Efigie. Pero es demasiado. Tienes que ayudarme. Tienes que ver. Paso 3.-->Ela! É o que eles estavam com medo, de que eu afronte, que destrua o Marker. Mas é demais. Você tem que ajudar. Você precisa ver. Passo 3.
-(0574)Ellie lied!  She won't help.  But you will Isaac, you'll see her after Step 3.<==>¡Ellie mintió! No nos ayudará. Pero tú sí, Isaac, la verás después del paso 3.-->Ellie mentiu! Ela não vai nos ajudar. Mas você vai Isaac, você vai vê-la após o passo 3.
+(0572)I can't face it! I thought Ellie could. I had to make her see.  Step 3!<==>¡Yo no puedo hacerle frente! Creí que Ellie podría. Tenía que hacerle ver. ¡Paso 3!-->Eu não posso enfrentá-la! Eu acho que Ellie poderia. Eu tinha que fazê-la ver. Passo 3!
+(0573)Her! It's what they were afraid of, that I'd face her, destroy the Marker.  But it's too much.  You have to help.  You need to see. Step 3.<==>¡A ella! Eso es lo que temen ellos, que le haga frente, que destruya la Efigie. Pero es demasiado. Tienes que ayudarme. Tienes que ver. Paso 3.-->Ela! É disso que eles tem medo, que eu a enfrente, que destrua o Marker. Mas é demais. Você tem que me ajudar. Você precisa ver. Passo 3.
+(0574)Ellie lied!  She won't help.  But you will Isaac, you'll see her after Step 3.<==>¡Ellie mintió! No nos ayudará. Pero tú sí, Isaac, la verás después del paso 3.-->Ellie mentiu! Ela não vai nos ajudar. Mas você sim, Isaac, você vai vê-la depois do passo 3.
 (0575)Step 3!  Step 3! Oh God...<==>¡Paso 3! ¡Paso 3! Oh, dios...-->Passo 3! Passo 3! Oh Deus...
-(0576)But son…no…no, listen…son, son…I…I...would never…I would never…<==>Pero hijo... no... no, no, escucha, hijo... hijo... Yo, yo... yo nunca... yo nunca haría...-->Mas, filho... não... não, ouça filho..., filho... eu... eu... nunca... eu nunca faria...
-(0577)...I would never, I would never. But son, Daddy's not a murderer! I would never hurt you and Mommy.<==>¡Pero hijo, papá no es un asesino! ¡Nunca os haría daño a ti o a mamá!-->...Eu nunca, eu nunca iria. Mas filho, papai não é um assassino! Eu nunca faria mal a você e a mamãe.
-(0578)Yes he is! You can't see him because you haven't taken the steps! The needle will make you see! Step three! Step three!<==>¡Sí lo es! ¡Tú no puedes verlo porque no has dado los pasos! ¡La aguja te hará ver! ¡Paso tres! ¡Paso tres!-->Sim, é ele! Você não pode vê-lo porque não tomaram os passos! A agulha vai fazer você ver! Passo 3! Passo 3!
-(0579)Step three, then you'll- AAAGHH!<==>¡Paso tres, entonces..., AAAAGH!-->Terceiro passo, então você...- AAAGHH!
-(0580)she'll be waiting...1...2...3...4...staring...asking...after the screws after the needles...step three<==>Ella estará esperando...1...2...3...4... Observando... Preguntando... Después de los tornillos y las inyecciones... Paso tres.-->Ela vai estar esperando... 1... 2... 3... 4... observando... perguntando... depois dos parafusos e a agulha... Passo 3
+(0576)But son…no…no, listen…son, son…I…I...would never…I would never…<==>Pero hijo... no... no, no, escucha, hijo... hijo... Yo, yo... yo nunca... yo nunca haría...-->Mas, filho... não.... não, ouça filho..., filho... eu... eu... nunca... eu nunca faria...
+(0577)...I would never, I would never. But son, Daddy's not a murderer! I would never hurt you and Mommy.<==>¡Pero hijo, papá no es un asesino! ¡Nunca os haría daño a ti o a mamá!-->...Eu nunca faria, eu nunca faria. Mas filho, papai não é um assassino! Eu nunca faria mal a você e à mamãe.
+(0578)Yes he is! You can't see him because you haven't taken the steps! The needle will make you see! Step three! Step three!<==>¡Sí lo es! ¡Tú no puedes verlo porque no has dado los pasos! ¡La aguja te hará ver! ¡Paso tres! ¡Paso tres!-->Sim, é ele! Você não pode vê-lo porque não seguiu os passos! A agulha te fará ver! Passo 3! Passo 3!
+(0579)Step three, then you'll- AAAGHH!<==>¡Paso tres, entonces..., AAAAGH!-->Passo três, então você...- AAAGHH!
+(0580)she'll be waiting...1...2...3...4...staring...asking...after the screws after the needles...step three<==>Ella estará esperando...1...2...3...4... Observando... Preguntando... Después de los tornillos y las inyecciones... Paso tres.-->Ela vai estar esperando... 1... 2... 3... 4... observando... perguntando... depois dos parafusos depois da injeção... Passo 3
 (0581)Isaac!  Isaac!   Look out!<==>¿Isaac? ¡Isaac! ¡Cuidado!-->Isaac!  Isaac!   Cuidado!
-(0582) Isaac?!  He's gone.  Listen, the steps can destroy the Marker.  Step 1, crawl into the dark machine.   Step 2, the screws go tight, all around…<==>¿Isaac? Se ha ido. Escucha, los pasos pueden destruir a la Efigie. Paso uno, arrástrate al interior de la máquina oscura. Paso dos, tornillos apretados, muy apretados...--> Isaac? Ele foi embora. Ouça, os passos podem destruir o Marker. Primeiro passo, rastejar para dentro da máquina escura. Passo 2, os parafusos apertados, muito apertados...
-(0583)Oh God, he's back! NO! No no no no no!<==>¡Oh Dios, ha vuelto! ¡NO! ¡No no no no no!-->Oh Deus, ele está de volta! NÃO! Não não não não, não!
-(0584)I just need you to see what I see, Ellie. I promise it won't hurt…<==>Solo necesito que veas lo que yo veo, Ellie. Te prometo que no te dolerá...-->Eu só preciso de você para ver o que vejo, Ellie. Eu prometo que não vai doer...
-(0585) There you are!  <==>¡Ahí estás!--> Ai está você!  
+(0582) Isaac?!  He's gone.  Listen, the steps can destroy the Marker.  Step 1, crawl into the dark machine.   Step 2, the screws go tight, all around…<==>¿Isaac? Se ha ido. Escucha, los pasos pueden destruir a la Efigie. Paso uno, arrástrate al interior de la máquina oscura. Paso dos, tornillos apretados, muy apretados...--> Isaac? Ele foi embora. Escute, os passos podem destruir o Marker. Passo, se arrastar para dentro da máquina escura. Passo 2, os parafusos apertados, muito apertados...
+(0583)Oh God, he's back! NO! No no no no no!<==>¡Oh Dios, ha vuelto! ¡NO! ¡No no no no no!-->Oh Deus, ele voltou! NÃO! Não não não não, não!
+(0584)I just need you to see what I see, Ellie. I promise it won't hurt…<==>Solo necesito que veas lo que yo veo, Ellie. Te prometo que no te dolerá...-->Eu só preciso que você veja o que eu vejo, Ellie. Prometo que não vai doer...
+(0585) There you are!  <==>¡Ahí estás!--> Aí está você!  
 (0586)You have to face her for me!  <==>¡Habla con ella por mí!-->Você tem que falar com ela por mim! 
-(0587)See her!<==>¡Buscala!-->Veja ela!
-(0588)Alexis, if you get this, I love you.   I would never do anything to hurt you, or our son. After the sessions, I keep seeing you, but...you're so mad, so...angry.   You're scaring me, I want you to stop. What's happening to me? Please come get me...<==>Alexis, si recibes esto, te quiero. Jamás haría nada para heriros a ti o a nuestro hijo. Después de las sesiones, no dejo de verte, pero... estás tan enfadada, tan... furiosa... Me das miedo, quiero que pares. ¿Qué me está pasando? Por favor, ven por mí...-->Alexis, se você receber isso, eu te amo. Eu nunca faria nada para machucá-la, ou ao nosso filho. Após as sessões, eu continuo te vendo, mas... você está tão louca, tão... furiosa. Você está me assustando, eu quero que você pare. O que está acontecendo comigo? Por favor, venha me pegar...
+(0587)See her!<==>¡Buscala!-->Vá atrás dela!
+(0588)Alexis, if you get this, I love you.   I would never do anything to hurt you, or our son. After the sessions, I keep seeing you, but...you're so mad, so...angry.   You're scaring me, I want you to stop. What's happening to me? Please come get me...<==>Alexis, si recibes esto, te quiero. Jamás haría nada para heriros a ti o a nuestro hijo. Después de las sesiones, no dejo de verte, pero... estás tan enfadada, tan... furiosa... Me das miedo, quiero que pares. ¿Qué me está pasando? Por favor, ven por mí...-->Alexis, se você receber isso, eu te amo. Eu nunca faria nada para machucar você, ou o nosso filho. Depois das sessões eu continuo te vendo, mas... você está tão irritada, tão... furiosa. Você está me assustando, eu quero que pare. O que está acontecendo comigo? Por favor, venha me buscar...
 (0589)Tell her I didn't mean to do it! <==>¡Dile que no quise hacerlo!-->Diga a ela que eu não queria fazer isso!
 (0590)Tell her! <==>¡Díselo!-->Diga a ela! 
 (0591)Do you see her, Isaac? Is she waiting? Tell her I'm sorry. TELL HER I'M SORRY.    <==>¿La ves, Isaac? ¿Está esperando? Dile que lo siento. DILE QUE LO SIENTO.-->Você está vendo ela, Isaac? Ela está esperando? Diga a ela que eu sinto muito. DIGA A ELA QUE EU SINTO MUITO.
 (0592)There are four steps! <==>¡Hay cuatro pasos!-->Existem quatro passos!
 (0593)One, two, three, four. <==>Uno, dos, tres, cuatro.-->Um, dois, três, quatro. 
-(0594)Cross my heart and hope to die…<==>Por mi vida... te lo voy a jurar...-->Atravesse o meu coração e espere para morrer...
-(0595)DATA BOARD INSTALLED<==>PANEL DE DATOS INSTALADO-->PAINEL DE DADOS INSTALADOS
+(0594)Cross my heart and hope to die…<==>Por mi vida... te lo voy a jurar...-->Pela minha vida... eu juro a você... 
+(0595)DATA BOARD INSTALLED<==>PANEL DE DATOS INSTALADO-->PAINEL DE DADOS INSTALADO
 (0596)Neo QA Lead<==>Jefe de control de calidad de Neo-->Chefe de Controle de Qualidade de Neo
 (0597)round<==>RONDA-->rodada
 (0598)HAMPERED<==>DIFICULTADES-->DIFICULDADES
 (0599-IGUAIS)BRODIE
 (0600)BROKEN FILTER<==>FILTRO ROTO-->FILTRO QUEBRADO
-(0601)CUT OFF THEIR LIMBS<==>CERCENADLES LAS EXTREMIDADES-->CORTANDO AS SUAS EXTREMIDADES
+(0601)CUT OFF THEIR LIMBS<==>CERCENADLES LAS EXTREMIDADES-->CORTE SUAS EXTREMIDADES
 (0602-IGUAIS)SALLY 1
 (0603-IGUAIS)SALLY 2
 (0604-IGUAIS)SALLY 3
 (0605)LITTLE PARKER<==>EL PEQUEÑO PARKER-->O PEQUENO PARKER
 (0606-IGUAIS)Collin Hennen
-(0607)Plant mines on walls with the Detonator to set up traps for enemies.<==>Coloca minas en las paredes con el detonador para dejar trampas para los enemigos.-->Plante as minas nas paredes com o detonador para montar armadilhas para os inimigos.
+(0607)Plant mines on walls with the Detonator to set up traps for enemies.<==>Coloca minas en las paredes con el detonador para dejar trampas para los enemigos.-->Coloque  minas nas paredes com o detonador para deixar armadilhas para os inimigos.
 (0608-IGUAIS)å
 (0609-IGUAIS)y
 (0610-IGUAIS)Å
 (0611-IGUAIS)Y
-(0612)Oxygen Canister<==>Bote de oxígeno-->Tubos de Óxigênio
+(0612)Oxygen Canister<==>Bote de oxígeno-->Tubo de Óxigênio
 (0613)AUDIO LOG<==>REGISTRO SONORO-->REGISTRO DE ÁUDIO
 (0614)FLAME FUEL<==>COMBUSTIBLE INFLAMABLE-->COMBUSTÍVEL INFLAMÁVEL
 (0615)Medical Supplies<==>Suministros médicos-->Suprimentos Médicos
 (0616)POWER NODE<==>NODO DE ENERGÍA-->NODO DE ENERGIA
 (0617)PLASMA ENERGY<==>ENERGÍA DE PLASMA-->ENERGIA DE PLASMA
-(0618)THERMITE BOMB<==>BOMBA TERMITA-->BOMBA TERMITE
-(0619)TRAM CRTL<==>CONTROL MONORRAÍL-->CONTROLE DO BONDE
+(0618)THERMITE BOMB<==>BOMBA TERMITA-->BOMBA TERMITA
+(0619)TRAM CRTL<==>CONTROL MONORRAÍL-->CONTROLE DO TREM
 (0620)TEXT LOG<==>REGISTRO TEXTUAL-->REGISTRO DE TEXTO
 (0621)VIDEO LOG<==>REGISTRO VISUAL-->REGISTRO DE VÍDEO
 (0622)SCHEMATIC<==>DIAGRAMA-->DIAGRAMA
@@ -962,7 +962,7 @@
 (0962)Power has been restored.<==>Se ha restablecido la electricidad.-->A energia foi restaurada.
 (0963)Plasma cutter released.<==>Cortadora de plasma liberada.-->Cortador de Plama Liberado.
 (0964)Microstore thanks you. Have a pleasant day. Be safe in space!. <==>MicroStore le da las gracias. Tenga un buen día. ¡Cuidado en el espacio!-->Microstore agrade a você. Tenha um bom dia. Cuide-se no espaço!. 
-(0965)Now approaching: Cassini Towers Tram Station. Please remain seated while the tram is in motion.<==>Nos acercamos a la estación de las Torres Cassini. Por favor, permanezcan sentados hasta que el monorraíl se detenga.-->Aproximando-se: Estação de Bondes da Torre Cassini . Permaneçam sentados até o bonde parar.
+(0965)Now approaching: Cassini Towers Tram Station. Please remain seated while the tram is in motion.<==>Nos acercamos a la estación de las Torres Cassini. Por favor, permanezcan sentados hasta que el monorraíl se detenga.-->Aproximando-se: Estação de Bondes da Torre Cassini . Permaneçam sentados até o trem parar.
 (0966)Arriving at…Solar Array Sigma zero five.   <==>Llegando a... panel solar sigma-cero-cinco.-->Chegando ao…Painel Solar Sigma 0-5.   
 (0967)10 kilometers to target… 6 kilometers to target…. 3 kilometers to target ….. Proximity warning.<==>10 kilómetros hasta objetivo... 6 kilómetros hasta objetivo... 3 kilómetros hasta objetivo.... Alerta de proximidad.-->10 km para o alvo… 6 km para o alvo…. 3 km para o alvo ….. Alerta de proximidade.
 (0968)Power malfunction.   Please replace the power unit to use the door.<==>Fallo eléctrico. Sustituya el generador para usar la puerta.-->Falha de energia.   Substitua o gerador de energia para usar a porta.
@@ -1030,7 +1030,7 @@
 (1030)Allison Landers, this is Brandon Lurrach: Thank you for identifying Ishimura archive footage and RIG logs that could potentially contradict the official storyline of its demise at Aegis VII. It is critical that no word of the artifact's recovery ever be surfaced to the public. It is disturbing that such records still exist this many years after the incident. We have locked out your research team's access, and will be replacing them with EarthGov specialists effective immediately. Please contact me once the replacements arrive.<==>Allison Landers, aquí Brandon Lukach. Gracias por identificar las imágenes de archivo y los registros de los DRI del Ishimura que podrían contradecir la declaración oficial de su extinción en Aegis VII. Es de vital importancia que la noticia de la recuperación del artefacto no salga a la luz pública. Es muy preocupante que sigan existiendo estos registros tantos años después del incidente. Hemos bloqueado el acceso a su equipo de investigación, y lo sustituiremos con especialistas del gobierno de la Tierra de inmediato. Póngase en contacto conmigo cuando llegue el reemplazo.-->Allison Landers, aqui é Brandon Lurrach: Obrigado por identificar as imagens dos arquivos e os registros DRI da Ishimura que poderiam contradizer a declaração oficial de sua extinção em Aegis VII. É muito importante que a notícia da recuperação do artefato não seja divulgada ao público. É extremamente preocupante que esse registros ainda existam depois de tantos anos do incidente. Estamos bloqueando o acesso de sua equipe de investigação, e os substituiremos por especialistas do Governo da Terra imediatamente. Entre em contato comigo quando as substituições forem feitas.
 (1031)Franchise Art Director<==>Director de diseño de la franquicia-->Diretor de Arte da Franquia
 (1032-IGUAIS)Fly Sun
-(1033)TRAM CALL<==>MONORRAÍL-->CHAMAR BONDE
+(1033)TRAM CALL<==>MONORRAÍL-->CHAMAR TREM
 (1034)The gravity tethers won't function unless the main centrifuge is operational. Looks like the repair team was in the middle of upgrading the centrifuge unit - I'll have to finish the job.<==>Los anclajes gravitatorios no funcionarán a menos que la centrifugadora principal esté operativa. Parece que el equipo de reparación dejó a medias la mejora de la unidad centrifugadora; tendré que acabar el trabajo.-->Os simuladores de gravidade não funcionaram a menos que a centrífuga principal funcione. Parece que a equipe de reparos deixou o serviço pela metade na unidade de centrífuga - Você terá que finalizar o trabalho.
 (1035)Javelin Gun Schematic<==>Diagrama de cañón jabalina-->Diagrama do Canhão de Dardos
 (1036)Bring this schematic to the store to unlock the Seeker Rifle.<==>Lleva este diagrama al almacén para desbloquear el rifle buscador.-->leve esse diagrama à loja para desbloquear o Rifle Caçador.
@@ -1157,7 +1157,7 @@
 (1157)HACKER SUIT<==>TRAJE DE PIRATEO-->TRAJE DE HACKER
 (1158)GET EXCITED!<==>¡ENTUSIASMO!-->ENTUSIASMO!
 (1159)WE FAILED<==>HEMOS FRACASADO-->FALHAMOS
-(1160)RIVET GUN<==>REMACHADORA-->CORTADORA
+(1160)RIVET GUN<==>REMACHADORA-->REBITADORA
 (1161)primary fire: horizontal line cutter\nalternate fire: timed mine<==>disparo principal: rayo ancho horizontal \ndisparo secundaro: mina temporizada-->Tiro principal: raio de corte horizontal\ndisparo secundário: mina temporizada
 (1162)slows enemy movement <==>Frena a los enemigos-->pare os movimentos dos inimigos
 (1163)Extremely Rare electronic component.  Sell at the store for credits.<==>Componente electrónico muy poco frecuente. Vender en el almacén para obtener créditos.-->Componente eletrônico extremamente raro. Venda-o na loja para ganhar créditos.
@@ -1304,7 +1304,7 @@
 (1304)HOUSE OFFICER\nGordon Mackay\n\nExam Rm 01 [Available]\nExam Rm 02 [Occupied]\nExam Rm 03 [Occupied]\nExam Rm 04 [Available]\nExam Rm 05 [Occupied]\nExam Rm 06 [Occupied]\nExam Rm 07 [Occupied]<==>MÉDICO RESIDENTE\nGordon Mackay\n\nSala de expl. 01 [Disp.]\nSala de expl. 02 [Ocupada]\nSala de expl. 03 [Ocupada]\nSala de expl. 04 [Disp.]\nSala de expl. 05 [Ocupada]\nSala de expl. 06 [Ocupada]\nSala de expl. 07 [Ocupada]-->HOUSE OFFICER\nGordon Mackay\n\nSala de expl. 01 [Disponível]\nSala de expl. 02 [Ocupado]\nSala de expl. 03 [Ocupado]\nSala de expl. 04 [Disponível]\nSala de expl. 05 [Ocupado]\nSala de expl. 06 [Ocupado]\nSala de expl. 07 [Ocupado]
 (1305)HOUSE OFFICER\nKiefer Shanks\n\nBAY 01 [Offline]\nBAY 02 [Occupied]\nBAY 03 [Occupied]\nBAY 04 [Transfer]\nNot admitting at this time.<==>MÉDICO RESIDENTE\nKiefer Shanks\n\nCAMA 01 [Libre]\nCAMA 02 [Libre]\nCAMA 03 [Libre]\nCAMA 04 [Traslado]\nNo admite ingresos ahora mismo.-->HOUSE OFFICER\nKiefer Shanks\n\nBAY 01 [Offline]\nBAY 02 [Ocupado]\nBAY 03 [Ocupado]\nBAY 04 [Transfer]\nNão adimite mais entradas.
 (1306)HOUSE OFFICER\nMark Basedow\n\n09:30 - Low [Rm 501]\n10:30 - Jakes [Rm 502]\n11:00 - Gallun [Rm 501]\n13:30 - Friesner [Rm 502]\n14:00 - Cook [Rm 501]\n14:45 - Barton [Rm 502]\n15:30 - Biggle [Rm 501]<==>MÉDICO RESIDENTE\nMark Basedow\n\n09:30 - Low [Hab. 501]\n10:30 - Jakes [Hab. 502]\n11:00 - Gallun [Hab. 501]\n13:30 - Friner [Hab. 502]\n14:00 - Cook [Hab. 501]\n14:45 - Barton [Hab. 502]\n15:30 - Biggle [Hab. 501]-->HOUSE OFFICER\nMark Basedow\n\n09:30 - Low [Q. 501]\n10:30 - Jakes [Q. 502]\n11:00 - Gallun [Q. 501]\n13:30 - Friesner [Q. 502]\n14:00 - Cook [Q. 501]\n14:45 - Barton [Q. 502]\n15:30 - Biggle [Q. 501]
-(1307)rivet gun<==>Remachadora-->Cortadora
+(1307)rivet gun<==>Remachadora-->rebitadora
 (1308-IGUAIS)1
 (1309)(click [LStick])<==>(hacer clic en [LStick])-->(pressione [LStick])
 (1310)deliver disc to intel room<==>Lleva el disco hasta la sala de inteligencia.-->Leve o disco até a sala de inteligência
@@ -1719,7 +1719,7 @@
 (1719)//Colony<==>//Colonia-->//Colônia
 (1720-IGUAIS)//Ishimura
 (1721)Urban Camo Olive<==>Verde oliva camuflaje urbano-->Verde Oliva de Camuflagem Urbana
-(1722)REPLACED THE TRAM CAR<==>MONORRAÍL SUSTITUIDO-->BONDE SUBSTITUÍDO
+(1722)REPLACED THE TRAM CAR<==>MONORRAÍL SUSTITUIDO-->TREM SUBSTITUÍDO
 (1723-IGUAIS)Christopher Andry
 (1724-IGUAIS)Jason Arpin
 (1725-IGUAIS)Brad Broadhurst
@@ -1978,7 +1978,7 @@
 (1978-IGUAIS)Selvaggia Salvati
 (1979-IGUAIS)Paolo Giovenco
 (1980)Art Director<==>Director artístico-->Diretor artístico
-(1981)TRAM REPAIR<==>REPARACIÓN DEL MONORRAÍL-->REPARAÇÃO DO BONDE
+(1981)TRAM REPAIR<==>REPARACIÓN DEL MONORRAÍL-->REPARAÇÃO DO TREM
 (1982)CONTACT BEAM\nSchematic Acquired\nDownload at the Store<==>LÁSER DE CONTACTO\nDiagrama adquirido\nDescargar en el almacén-->LASER DE CONTATO\nDiagrama Adquirido\nBaixe na Loja
 (1983)You unlocked increased damage for the Javelin Gun<==>Has desbloqueado más daño para el cañón jabalina.-->Você desbloqueou mais dano para a Arma Javelin.
 (1984)Schematic Downloaded:<==>Diagrama descargado:-->Diagrama Baixado:
@@ -2144,7 +2144,7 @@
 (2144)Claw Arm Malfunction! Manual Replacement Required.<==>¡Fallo en el brazo prensor! Necesaria sustitución manual.-->Falha no braço da prensa! Necessária a substituição manual.
 (2145)Claws Attached. Activate Center Console.<==>Pinzas acopladas. Activar consola central.-->Pinças acopladas. Ative o console central.
 (2146)Component of military grade explosive device. Construct at certified Bench.<==>Componente de dispositivo explosivo militar. Fabricar en banco certificado.-->Componente militar de dispositivo explosivo. Fabricar em um Banco autorizado.
-(2147)ACTIVATED THE TRAM<==>MONORRAÍL ACTIVADO-->BONDE ATIVADO
+(2147)ACTIVATED THE TRAM<==>MONORRAÍL ACTIVADO-->TREM ATIVADO
 (2148)Bring this schematic to the store to unlock the Advanced Elite Suit.<==>Lleva este diagrama al almacén para desbloquear el traje avanzado de élite.-->Leve este diagrama até a Loja para desbloquear o Traje de Elite Avançada.
 (2149)Large Air Can Schematic<==>Diagrama de bote de aire grande-->Diagrama de Tanque de Ar Grande
 (2150-IGUAIS)Če¾tina
@@ -2205,8 +2205,8 @@
 (2205)Video Editor<==>Editor de vídeo-->Editor de Vídeo
 (2206)Data board is missing.<==>Falta el panel de datos.-->Painel de dados faltando.
 (2207)Tram damaged! Please repair and try again.<==>¡Sigue dañado! Repáralo e intenta otra vez.-->Bonde danificado! Repare-o e tente novamente.
-(2208)Call tram to access main decks.<==>Llama al monorraíl para acceder a las cubiertas princi.-->Chame o bonde para ir aos deques principais.
-(2209)Tram en route<==>Monorraíl en camino-->Bonde à caminho
+(2208)Call tram to access main decks.<==>Llama al monorraíl para acceder a las cubiertas princi.-->Chame o trem para ir aos deques principais.
+(2209)Tram en route<==>Monorraíl en camino-->Trem à caminho
 (2210)Military-grade assault rifle with a high rate of fire.\n• [c=CUSTOM2] Primary Fire [c=RESET]:  pull and hold [rsbottom] to fire a fully automatic barrage of energy packets.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch a grenade at your target.<==>Rifle de asalto militar con un elevado índice de disparo.\n - [c=CUSTOM2]Disparo principal[c=RESET]: mantén pulsado [rsbottom] para disparar de forma automática paquetes de energía.\n - [c=CUSTOM2]Disparo secundario[c=RESET]: pulsa [rstop] para lanzar una granada.-->Rifle de assalto militar com grande indíce de disparo.\n• [c=CUSTOM2] Tiro Principal [c=RESET]:  segure [rsbottom] para disparar de forma automática grupos de energia.\n• [c=CUSTOM2] Tiro secundário [c=RESET]: aperte [rstop] para lançar uma granada no seu alvo.
 (2211-IGUAIS)1
 (2212-IGUAIS)1
@@ -2220,7 +2220,7 @@
 (2220-IGUAIS)Katrina Strafford
 (2221)REL -5% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a single long-range round.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to toggle zoom mode and increase shot damage.<==>REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un único proyectil de largo alcance.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para cambiar el zoom y aumentar el daño del disparo.-->REC: -5% / VEL: +5%\n• [c=CUSTOM2] Tiro Principal [c=RESET]: aperte [rsbottom] para atirar um único projétil de longo alcance.\n• [c=CUSTOM2] Tiro secundário [c=RESET]: aperte [rstop] para ativar o zoom e aumentar o dano do tiro.
 (2222-IGUAIS)2
-(2223)rivet gun unlocked<==>Remachadora desbloqueada-->Arma de Rebites desbloqueada
+(2223)rivet gun unlocked<==>Remachadora desbloqueada-->Rebitadora desbloqueada
 (2224)CEO<==>Director General-->Diretor Geral
 (2225)round 2 win<==>victoria en ronda 2-->vitória na rodada 2
 (2226)CONTACT BEAM<==>RAYO DE CONTACTO-->RAIO DE CONTATO
@@ -2269,7 +2269,7 @@
 (2269-IGUAIS)ERROR
 (2270)LARGE MED PACK<==>BOTIQUÍN GRANDE-->KIT MÉDICO GRANDE
 (2271)Stop Cannon Control activation<==>Impide la activación del control del cañón.-->Impeça a ativação do controle do canhão
-(2272)Looks like the tram's evacuation protocols have been tripped. I'll have to rewire this one to get it running.<==>Parece que los protocolos de evacuación del monorraíl se han activado. Tendré que arreglar este para ponerlo en marcha.-->Parece que os protocolos de evacuação do bonde foram ativados. Vou ter que regular ele para poder andar novamente.
+(2272)Looks like the tram's evacuation protocols have been tripped. I'll have to rewire this one to get it running.<==>Parece que los protocolos de evacuación del monorraíl se han activado. Tendré que arreglar este para ponerlo en marcha.-->Parece que os protocolos de evacuação do trem foram ativados. Vou ter que regular ele para poder andar novamente.
 (2273-IGUAIS)1
 (2274)Additional Lighting<==>Iluminación adicional-->Iluminação Adicional
 (2275-IGUAIS)0
@@ -2488,7 +2488,7 @@
 (2488)Bring this schematic to the store to unlock the Pulse Rifle.<==>Lleva este diagrama al almacén para desbloquear el rifle de impulsos.-->Leve este diagrama até a Loja para desbloquear o Rifle de Impulso.
 (2489)Honey, it's Mommy. This is what we've been waiting for. Meet us in the Church. Bring everything just like we practiced. We're going to a better place. It won't hurt. I love you. See you soon.<==>Cariño, soy mamá. Esto es lo que estábamos esperando. Reúnete con nosotros en la iglesia. Tráelo todo, tal y como lo ensayamos. Vamos a un lugar mejor. No dolerá. Te quiero. Nos vemos pronto.-->Querido, aqui é a Mamãe. Isso é o que estavamos esperando. Encontre-nos na Igreja. Faça tudo exatamente como nós treinamos. Nós estamos indo para um lugar melhor. Não vai doer nada. Eu te amo. Nos vemos em breve.
 (2490)Honey, it's Mommy. This is what we've been waiting for. Meet us in the Church. Bring everything just like we practiced. We're going to a better place. It won't hurt. I love you. See you soon.<==>Cariño, soy mamá. Esto es lo que estábamos esperando. Reúnete con nosotros en la iglesia. Tráelo todo, tal y como lo ensayamos. Vamos a un lugar mejor. No dolerá. Te quiero. Nos vemos pronto.-->Querido, aqui é a Mamãe. Isso é o que estavamos esperando. Encontre-nos na Igreja. Faça tudo exatamente como nós treinamos. Nós estamos indo para um lugar melhor. Não vai doer nada. Eu te amo. Nos vemos em breve.
-(2491)AGILITY RIVET GUN<==>REMACHADORA DE AGILIDAD-->ARMA DE REBITES DE AGILIDADE
+(2491)AGILITY RIVET GUN<==>REMACHADORA DE AGILIDAD-->REBITADORA DE AGILIDADE
 (2492)ATTACH THRUSTER<==>ACOPLAR PROPULSOR-->ACOPLAR PROPULSOR
 (2493)purchase code<==>Comprar código-->Comprar código
 (2494)You unlocked increased melee damage for the Puker<==>Has desbloqueado más daño cuerpo a cuerpo para el vomitador.-->Você desbloqueou mais dano corporal ao Vomitador.
@@ -2581,7 +2581,7 @@
 (2581)Track numbers will be announced at least 20 minutes before arrival.     Please have a travel pass on your person at all times.      WARNING: Unexpected delays. Thank you for your patience.<==>Los números de vía se anunciarán al menos 20 minutos antes de las llegadas.     Por favor, conserven su billete en todo momento.      ATENCIÓN: retrasos inesperados. Gracias por su paciencia.-->Os números das pistas serão anunciados 20 minutos antes da chegada.     Por favor tenham o bilhete de viagem em mãos o tempo todo. ATENÇÃO: Atrasos inesperados. Obrigado por sua paciência.
 (2582-IGUAIS)[LDUp]
 (2583)The Security Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Pulse Rifle receives a 5% bonus to damage\nPurchase guarantees a minimum of 15 inventory slots and 10% armor. Your RIG retains the highest upgrade of Armor and Inventory.\n<==>El traje de seguridad ofrece una funcionalidad única al portador:\n• [c=CUSTOM3] Bonificación de arma [c=RESET]: 5% adicional al daño del rifle de impulsos. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 10% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.\n-->O Traje de Segurança garante funcionalidades únicas para quem o veste:\n• [c=CUSTOM3] Bonificação em armas [c=RESET]: Rifle de impulso recebe mais 5% de bonus no dano.\nA compra garante um mínimo de 15 slots no inventário e 15% de armadura. Seu DRI mantém a maior melhoria de Armadura e Inventário.\n
-(2584)you now have the ability to equip the rivet gun\nprimary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>Ahora ya puedes equipar la remachadora\ndisparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->Agora você tem a habilidade para equipar a Arma de Rebites\nTiro Principal: rebites de fragmentação\ntiro secundário: proteção reflexiva de granadas
+(2584)you now have the ability to equip the rivet gun\nprimary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>Ahora ya puedes equipar la remachadora\ndisparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->Agora você tem a habilidade para equipar a Rebitadora\nTiro Principal: rebites de fragmentação\ntiro secundário: proteção reflexiva de granadas
 (2585)Programmers<==>Programadores-->Programadores
 (2586)free trial unavailable<==>Versión de prueba gratuita no disponible-->Versão de testes gratuita não disponível
 (2587)Senior Lighters<==>Iluminadores sénior-->Iluminadores Sênior
@@ -3445,7 +3445,7 @@
 (3445-IGUAIS)Jake Kornbluth
 (3446-IGUAIS)Dave Footman
 (3447-IGUAIS)1
-(3448)congratulations!\nyou now have the ability to equip the rivet gun\nprimary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>¡Felicidades!\nAhora puedes equipar la remachadora.\nDisparo principal: roblones de fragmentación.\nDisparo secundario: ráfaga de metralla de proyección.-->Congratulações!\nAgora você tem a habilidade para equipar a Arma de Rebites\nDisparo Principal: rebites de fragmentação\nDisparo Secundário: reflective shrapnel blast
+(3448)congratulations!\nyou now have the ability to equip the rivet gun\nprimary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>¡Felicidades!\nAhora puedes equipar la remachadora.\nDisparo principal: roblones de fragmentación.\nDisparo secundario: ráfaga de metralla de proyección.-->Congratulações!\nAgora você tem a habilidade para equipar a Rebitadora\nDisparo Principal: rebites de fragmentação\nDisparo Secundário: reflective shrapnel blast
 (3449)The Human team must destroy the marker experiments to keep them from falling into the wrong hands.<==>Los humanos deben destruir los experimentos con Efigies para evitar que caigan en las manos equivocadas.-->Os humanos devem destruir os experimentos do marker para evitar que eles caiam em mãos erradas.
 (3450)POWER OFFLINE<==>SIN ENERGÍA-->ENERGIA DESLIGADA
 (3451)Security Gate Motor Control<==>Control motor de la puerta de seguridad-->Controle do Motor do Portão de Segurança
@@ -3916,7 +3916,7 @@
 (3916)Aw Isaac... dammit that hurts. The bastard bit me.<==>Ah, Isaac... Maldita sea, duele. Ese cabrón me ha mordido.-->Aw Isaac... caramba isto dói. Esse bastardo me mordeu.
 (3917)Yeah I'm fine.  But he's stopped talking, and won't look at me. How's it going on your end? And please tell me this plan is going to work!  <==>Sí, estoy bien. Pero él ha dejado de hablar y no me mira. ¿Cómo te va por ahí? ¡Por favor, dime que este plan va a funcionar!-->Sim, eu estou bem.  Mas ele parou de falar, e não olha pra mim. Como está indo em seu fim? E por favor me fale que este plano vai funcionar!  
 (3918)Well good.   They're swarming in through a hole in the Medical Deck.  At least you won't have to go through there.<==>Muy bien. Entran por un agujero de la cubierta médica. Pero no tendrás que ir por ahí.-->Muito bem.   Eles estão infestados mo meio de um buraco no convés Médico.  Pelo menos você não terá que passar lá.
-(3919)Isaac, what are you doing? I thought you said you were heading back up to the tram? Just retrace your steps back up to the tram tunnel.<==>Isaac, ¿qué haces? ¿No volvías al monorraíl? Regresa hasta el túnel del monorraíl.-->Isaac, o que você está fazendo? Eu pensei que você disse que estava voltando para o bonde? Apenas refaça seus passos de volta até o bonde no túnel.
+(3919)Isaac, what are you doing? I thought you said you were heading back up to the tram? Just retrace your steps back up to the tram tunnel.<==>Isaac, ¿qué haces? ¿No volvías al monorraíl? Regresa hasta el túnel del monorraíl.-->Isaac, o que você está fazendo? Eu pensei que você disse que estava voltando para o trem? Apenas refaça seus passos de volta até o bonde no túnel.
 (3920) Isaac, did you find the other Power Cell yet?<==>Isaac, ¿has encontrado ya la otra célula de energía?--> Isaac, você já achou a outra Célula de Energia?
 (3921)Yep.<==>Sí.-->Sim.
 (3922)How's the hunt for a circuit junction going out there?<==>¿Cómo va la búsqueda de la conexión?-->Como está a sua caça pela junção do circuito aí fora?
@@ -3960,7 +3960,7 @@
 (3960)LARGE MED PACK\nSchematic Acquired\nDownload at the Store<==>BOTIQUÍN GRANDE\nDiagrama adquirido\nDescargar en el almacén-->KIT MÉDICO GRANDE\nDiagrama Adquirido\nBaixe na Loja
 (3961)PLASMA ENERGY<==>ENERGÍA DE PLASMA-->ENERGIA DE PLASMA
 (3962-IGUAIS)1
-(3963)TRAM DATABOARD<==>PANEL MONORRAÍL-->PAINEL DO BONDE
+(3963)TRAM DATABOARD<==>PANEL MONORRAÍL-->PAINEL DO TREM
 (3964)page down<==>Av pág-->page down
 (3965)ESCAPE POD PRIMED<==>CÁPSULA ACTIVADA-->CÁPSULA DE FUGA ATIVADA
 (3966)music volume<==>Vol. música-->Vol. música
@@ -4303,7 +4303,7 @@
 (4303)What is step four? Who will be waiting?<==>¿Qué es el paso cuatro? ¿Quién estará esperando?-->Qual é o Passo Quatro? Quem vai estar esperando?
 (4304)He's not gonna make it.  We gotta keep moving.<==>No lo conseguirá. Tenemos que seguir adelante.-->Ele não fará isto.  Temos que nos manter em movimento.
 (4305)Stay here and, uh,  try to get him on his feet.<==>Iré yo. Quédate y... Intenta que se ponga en pie.-->Fique aqui e, uh,  tente deixá-lo ao seus pés.
-(4306)Ellie, I've got the centrifuge on-line. I'm heading back towards the tram station.<==>Ellie, he activado la centrifugadora. Me dirijo de vuelta a la estación de monorraíl.-->Ellie, consegui deixar a centrífuga on-line. Estou voltando para a estação do bonde.
+(4306)Ellie, I've got the centrifuge on-line. I'm heading back towards the tram station.<==>Ellie, he activado la centrifugadora. Me dirijo de vuelta a la estación de monorraíl.-->Ellie, consegui deixar a centrífuga on-line. Estou voltando para a estação do trem.
 (4307)Great.  Let's hope this works. It'll be tight, you ready?<==>Bien. Esperemos que funcione. Haré fuerza. ¿Estás lista?-->Boa.  Vamos esperar que isto funcione. Vai ser dificil, está pronto?
 (4308)Okay, heading in now.<==>Bien, voy allá-->Ok, agora em posição.
 (4309)Why did you do it, Stross?!<==>¡¿Por qué lo has hecho, Stross?!-->Por que você fez isto, Stross?!
@@ -4688,7 +4688,7 @@
 (4688)01/25/2011<==>25/01/2011-->25/01/2011
 (4689-IGUAIS)DUR
 (4690-IGUAIS)Guillaume Bourque
-(4691)Modular circuit board for the tram control computer.<==>Placa madre modular para el ordenador de control de monorraíl.-->Placa-mãe modular para o controlador do bonde.
+(4691)Modular circuit board for the tram control computer.<==>Placa madre modular para el ordenador de control de monorraíl.-->Placa-mãe modular para o controlador do trem.
 (4692)you now have the ability to equip the line gun\nprimary fire: horizontal line cutter\nalternate fire: timed mine<==>Ahora ya puedes equipar el cañón lineal\ndisparo principal: rayo cortador horizontal\ndisparo secundario: mina temporizada-->agora você tem habilidade para equipar a Arma Linear\ntiro principal: raio cortador horizontal\ntiro secundário: mina temporizada
 (4693)Pulse Rounds Schematic<==>Diagrama de cargas de impulsos-->Diagrama das Cargas de Impulso
 (4694-IGUAIS)www.deadspacegame.com
@@ -5017,7 +5017,7 @@
 (5017)Line Ammo Schematic<==>Diagrama de munición lineal-->Diagrama de Munição Linear
 (5018-IGUAIS)0
 (5019)REL -5% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->REC: -5% / VEL: +5%\n• [c=CUSTOM2] Tiro Principal [c=RESET]: aperte [rsbottom] para disparar um raio cortante estreito.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: aperte [rstop] para girar o cortador em 90 graus.
-(5020)You unlocked increased magazine size for the Rivet Gun<==>Has desbloqueado un mayor tamaño del cargador para la remachadora.-->Você desbloqueou o pente aumentado para a Arma de Rebites
+(5020)You unlocked increased magazine size for the Rivet Gun<==>Has desbloqueado un mayor tamaño del cargador para la remachadora.-->Você desbloqueou o pente aumentado para a Rebitadora
 (5021)owned by:<==>Autor de la derrota:-->Derrotado por:
 (5022)primary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>disparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->tiro principal: rebites de fragmentação\ntiro secundário: proteção contra explosão de estilhaços
 (5023)Senior Texture Artist<==>Diseñador de texturas sénior-->Desenhista de Texturas Sênior
@@ -5053,12 +5053,12 @@
 (5053)Look, Isaac, we don't have to be friends. But like it or not, we're stuck together.   Tiedemann's your enemy, not me.    Alright,  I've found you a new route.<==>Mira, Isaac, no tenemos que ser amigos. Pero te guste o no, estamos juntos en esto. Tu enemigo es Tiedemann, no yo. Muy bien, te he encontrado otra ruta.-->Olhe, Isaac, nós não temos que ser amigos. Mas gostando ou não, nós estamos presos juntos. Tiedemann é seu inimigo, não eu. Certo, eu encontrei uma nova rota para você.
 (5054)You're on Titan Station, orbiting Saturn. As for the outbreak… shit, Tiedemann's jamming my signal…<==>Estás en la estación Titán, que orbita Saturno. En cuanto al brote... Mierda, Tiedemann interfiere la señal...-->Você está na Estação Titã, na órbita de Saturno. Quanto a infestação… merda, Tiedemann está interferindo no meu sinal…
 (5055)The ambulance bay is just ahead, you're almost out.<==>La plataforma de ambulancia está ahí, ya casi estás.-->A plataforma de ambulâncias está logo a frente, você está quase lá.
-(5056)Okay, the tram station is just beyond the apartment blocks.<==>La estación de monorraíl está tras los apartamentos.-->Certo, a estação do bonde está logo atrás dos blocos de apartamentos.
+(5056)Okay, the tram station is just beyond the apartment blocks.<==>La estación de monorraíl está tras los apartamentos.-->Certo, a estação do trem está logo atrás dos blocos de apartamentos.
 (5057)Three years.  Tiedemann found you floating in space near Aegis VII and brought you here for study.<==>Tres años. Tiedemann te encontró flotando en el espacio cerca de Aegis VII y te trajo aquí para estudiarte.-->Três anos. Tiedemann te encontrou flutuando no espaço perto do Aegis VII e te trouxe aqui para estudos.
 (5058)The Marker you found imprinted your brain with a self-replicating signal.  The longer you're awake, the more the signal spreads.  It's killing you Isaac.  Tiedemann tried to keep it in check with memory suppressants.<==>La Efigie grabó una señal de reproducción automática en tu cerebro. Cuanto más tiempo estés despierto, más se transmite la señal. Te está matando. Tiedemann intentó controlarla con supresores de memoria.-->O Marker que você descobriu implantou em seu cérebro um sinal auto replicativo. Quanto mais tempo você estiver acordado, mais o sinal se espalha. Isso está matando você Isaac. Tiedemann tentou te controlar com supressores de memória.
-(5059)Only if you reach me in time. Tram Station.  Get moving. <==>Solo si llegas a tiempo. A la estación de monorraíl. Vamos.-->Apenas se você chegar até a mim a tempo. Estação de Bonde. Continue andando. 
+(5059)Only if you reach me in time. Tram Station.  Get moving. <==>Solo si llegas a tiempo. A la estación de monorraíl. Vamos.-->Apenas se você chegar até a mim a tempo. Estação de trem. Continue andando. 
 (5060)You destroyed A Marker, Isaac. Tiedemann built another one.<==>Destruiste una Efigie, Isaac. El gobierno fabricó otra.-->Você destruiu um Marker, Isaac. Tiedemann construiu outro.
-(5061)It's powerful alien technology.  Tiedemann wants that power.  Get to the tram, it'll take you to the Cassini Towers Tram Station.<==>Es una tecnología alienígena muy poderosa. Tiedemann quiere ese poder. Ve al monorraíl, te llevará a la estación de las Torres Cassini.-->É uma tecnologia alienigena poderosa. Tiedemann quer esse poder. Vá até o bonde, ele te levará até a Estação de Bonde das Torres Cassini.
+(5061)It's powerful alien technology.  Tiedemann wants that power.  Get to the tram, it'll take you to the Cassini Towers Tram Station.<==>Es una tecnología alienígena muy poderosa. Tiedemann quiere ese poder. Ve al monorraíl, te llevará a la estación de las Torres Cassini.-->É uma tecnologia alienigena poderosa. Tiedemann quer esse poder. Vá até o trem, ele te levará até a Estação de Bonde das Torres Cassini.
 (5062)What happened?  I thought we lost you!<==>¿Qué pasa? Creí que te habíamos perdido.-->O que aconteceu? Eu pensei que nós tinhamos te perdido!
 (5063)How did you end up there? Hang on. This won't be the most pleasant route, but it'll get you to the Cassini Towers residential sector.   Dammit! Tiedemann has your signal again. Keep moving!<==>¿Cómo has ido a parar ahí? Espera. Este no será un paseo dominical, pero te llevará al sector residencial de las Torres Cassini. ¡Maldita sea...! Tiedemann ha detectado tu señal. ¡Avanza!-->Como você acabou ai? Espere um pouco. Essa não vai ser a rota mais prazerosa, mas vai te levar até o setor residencial das Torres Cassini. Merda! Tiedemann tem o seu sinal novamente. Continue andando!
 (5064)You're very important to them, Isaac…Hold tight, I'll contact you soon!<==>Eres muy importante para ellos, Isaac... ¡Aguanta! Te llamaré enseguida.-->Você é muito importante para eles, Isaac…Aguente firme, irei te contatar logo!
@@ -5106,7 +5106,7 @@
 (5106-IGUAIS)Jesse Dishart
 (5107)Prevent Disc from being delivered to Intel Room<==>Evita que el disco llegue a la sala de inteligencia.-->Impeça que o Disco seja entregue a Sala de Inteligência
 (5108){g} - {v} XP<==>{g} - {v} PE-->{g} - {v} XP
-(5109)Daina's on the opposite end of the Sprawl, and the fastest way across the station is the tram system. I need to get there before this chaos catches up with me.<==>Daina está en el otro lado del Eje, y el medio más rápido de atravesar la estación es el monorraíl. Tengo que llegar allí antes de que este caos se me eche encima.-->Daina está no lado oposto do Eixo, e o caminho mais rápido de toda a estação é o sistema de bonde. Eu preciso chegar lá antes que esse caos me encontre.
+(5109)Daina's on the opposite end of the Sprawl, and the fastest way across the station is the tram system. I need to get there before this chaos catches up with me.<==>Daina está en el otro lado del Eje, y el medio más rápido de atravesar la estación es el monorraíl. Tengo que llegar allí antes de que este caos se me eche encima.-->Daina está no lado oposto do Eixo, e o caminho mais rápido de toda a estação é o sistema de trem. Eu preciso chegar lá antes que esse caos me encontre.
 (5110)Chapter 7<==>Capítulo 7-->Capítulo 7 - Visita Inesperada
 (5111)Well don't be shy about using it.   It will save your life.<==>No seas tímido y úsala. Te salvará la vida.-->Não seja tímido em usá-lo. Isso vai salvar sua vida.
 (5112)CAUTION<==>PRECAUCIÓN-->ATENÇÃO
@@ -5131,7 +5131,7 @@
 (5131)Personal Log: Howard Phillips\nRecord number: 302\n\nI want to go home.  ANTI claims she didn't get a response to my transfer request, but it's the FIFTH one.  How could there be five requests, and no response?  Surely someone is getting them?   Someone is reading them?\n\nI hate to admit it, but the loneliness up here is really more intense than I expected.  I think it's starting to affect me.\n\nThe only good news is that ANTI claims to have authorized my shipment request.  They're supposed to be arriving later today.  But I can't believe anything she tells me.\n\nI've been asking for so long, it's hard to believe they might actually let me have my birds.  Time will tell.  Tonight will tell, actually.<==>Registro personal: Howard Phillips\nNúmero de registro: 302\n\nQuiero irme a casa. ANTI dice que no recibió respuesta a mi solicitud de traslado, pero ya es la QUINTA. ¿Cómo puede haber cinco solicitudes y ninguna respuesta? Alguien tiene que recibirlas, ¿no? Alguien tiene que leerlas.\n\nOdio admitirlo, pero la soledad aquí es mayor de lo que esperaba. Creo que empieza a afectarme.\n\nLa única buena noticia es que ANTI dice que ha autorizado mi pedido. Se supone que llegará hoy. Pero no puedo creer nada de lo que me dice.\n\nLlevo tanto tiempo pidiendo mis pájaros, que me cuesta creer que vayan a dejarme tenerlos. Con el tiempo lo sabré. De hecho, esta noche lo sabré.-->Registro Pessoal: Howard Phillips\nRegistro número: 302\n\nEu quero ir para casa. ANTI diz que não recebeu uma resposta a minha solicitação de transferência, mas é a QUINTA que eu mandei. Como podem existir cinco solicitações, e nenhuma resposta? Alguém deve estar recebendo-as, não?  Alguém está lendo-as?\n\nEu odeio admitir, mas a solidão aqui é mais intensa do que eu esperava. Eu acho que ela esta começando a me afetar.\n\nAs únicas boas noticias são que a ANTI autorizou minha solicitação de carregamento. Eles devem estar chegando hoje ainda. Mas eu não posso acreditar em nada que ela diz.\n\nEu tenho pedido a tanto tempo, é dificil acreditar que eles vão deixar eu ter meus pássaros. O tempo irá dizer. Essa noite irá dizer, na verdade.
 (5132)medium<==>Media-->Médio
 (5133)[RDDown]SYSTEMS ONLINE.<==>[RDDown]SISTEMAS CONECTADOS.-->[RDDown]SISTEMAS ONLINE.
-(5134)You unlocked increased damage for the Rivet Gun<==>Has desbloqueado más daño para la remachadora.-->Você desbloqueou o dano aumentado para a Arma de Rebites
+(5134)You unlocked increased damage for the Rivet Gun<==>Has desbloqueado más daño para la remachadora.-->Você desbloqueou o dano aumentado para a Rebitadora
 (5135-IGUAIS)2
 (5136)Associate Art Director<==>Director de diseño asociado-->Diretor de Artes Associado
 (5137)toxic spit<==>Escupitajo-->cuspe tóxico
@@ -5212,7 +5212,7 @@
 (5212-IGUAIS)Ì
 (5213-IGUAIS)A
 (5214-IGUAIS)J. White
-(5215)   Repair the tram.<==>Repara el monorraíl.-->   Repare o bonde.
+(5215)   Repair the tram.<==>Repara el monorraíl.-->   Repare o trem.
 (5216)A.I. Pack<==>Jauría de I.A.-->Pacote de I.A
 (5217)Senior QA Tester<==>Pruebas de control de calidad sénior-->Testador de Controle de Qualidade Sênior
 (5218)QUARANTINE!<==>¡CUARENTENA!-->QUARENTENA!
@@ -5250,7 +5250,7 @@
 (5250)continue<==>Continuar-->Continuar
 (5251)BASILICA<==>BASÍLICA-->BASÍLICA
 (5252)Are you sure you want to delete %1 on storage device %2?<==>¿Seguro que quieres borrar %1 en el dispositivo de almacenamiento %2?-->Tem certeza que quer apagar %1?
-(5253)rivet gun II<==>remachadora II-->Arma de rebites II
+(5253)rivet gun II<==>remachadora II-->Rebitadora II
 (5254-IGUAIS)Español
 (5255-IGUAIS)Steve Papoutsis
 (5256)STASIS DOOR<==>PUERTA DE ESTABILIZACIÓN-->PORTA DE ESTABILIZAÇÃO
@@ -5371,7 +5371,7 @@
 (5371)select a device<==>Selecciona un dispositivo-->Selecione um Dispositivo
 (5372-IGUAIS)Visceral Games
 (5373)A.I.<==>I.A.-->I.A.
-(5374)rivet gun III<==>remachadora III-->Arma de rebites III
+(5374)rivet gun III<==>remachadora III-->Rebitadora III
 (5375)Finance<==>Finanzas-->Finanças
 (5376)EFFICIENCY CIRCUIT (CAP)<==>EFICACIA DEL CIRCUITO (CAP)-->EFICÁCIA DO CIRCUITO (CAP)
 (5377)This will upgrade your CAPACITY by %g pts.<==>Se mejorará la CAPACIDAD en %g pts.-->Isso irá melhorar sua CAPACIDADE em %g pts.
@@ -5562,7 +5562,7 @@
 (5562-IGUAIS)Mitch Harris
 (5563)The email address is missing.<==>No se ha introducido la dirección de correo electrónico.-->Está faltando o endereço de email .
 (5564)refurbished plasma cutter<==>cortadora de plasma restaurada-->cortador de plasma recondicionado
-(5565)GET TO THE TRAM<==>AL MONORRAÍL-->VÁ ATÉ O BONDE
+(5565)GET TO THE TRAM<==>AL MONORRAÍL-->VÁ ATÉ O TREM
 (5566)ANOTHER NEW ROUTE\n<==>OTRA NUEVA RUTA\n-->OUTRA NOVA ROTA\n
 (5567)TOO FAR GONE<==>DEMASIADO TARDE-->TARDE DEMAIS
 (5568)UNITOLOGISTS - I HATE THESE GUYS<==>UNIÓLOGOS. LOS DETESTO.-->UNITÓLOGOS - ODEIO ESSES CARAS
@@ -5592,7 +5592,7 @@
 (5592)Please read and accept both documents<==>Lee y acepta ambos documentos.-->Por favor leia e aceite os dois documentos
 (5593)controls<==>Controles-->Controles
 (5594)Semi-conductors are valuables scattered about the Sprawl.  Find and sell them for money.<==>Los semiconductores son objetos valiosos repartidos por El Eje. Búscalos y véndelos a cambio de dinero.-->Semi-condutores são objetos valiosos espalhados pelo Eixo. Encontre e os venda por dinheiro.
-(5595)     ISHIMURA TRAM SYSTEM     ISHIMURA TRAM SYSTEM<==>     SISTEMA DE MONORRAÍL DEL ISHIMURA     SISTEMA DE MONORRAÍL DEL ISHIMURA-->     SISTEMA DE BONDE ISHIMURA     SISTEMA DE BONDE ISHIMURA
+(5595)     ISHIMURA TRAM SYSTEM     ISHIMURA TRAM SYSTEM<==>     SISTEMA DE MONORRAÍL DEL ISHIMURA     SISTEMA DE MONORRAÍL DEL ISHIMURA-->     SISTEMA DE TREM ISHIMURA     SISTEMA DE TREM ISHIMURA
 (5596)Welcome to Solar Array Sigma-Zero-Five. Proper identification is required. Please wait here. Watchman… Howard Phillips will be with you shortly.<==>Bienvenido al panel solar sigma-cero-cinco. Identificación obligatoria. Por favor, espere aquí. El vigilante… Howard Phillips estará en breve con usted.-->Bem-vindo ao Painel Solar Sigma-Zero-Cinco. Identificação obrigatória. Por favor aguarde. O Vigilante… Howard Phillips estará com você em breve.
 (5597)RIG authorization recognized. Greetings, Station watchman Howard Phillips. I hope you slept well.<==>Autorización de DRI reconocida. Saludos, vigilante de estación Howard Phillips. ¡Espero que haya dormido bien!-->Autorização de DRI reconhecida. Saudações, vigilante da estação Howard Phillips. Espero que tenha dormido bem.
 (5598)Unauthorized visitor detected. Auto-defenses activated. Station watchman Howard Phillips, please provide verbal access code to authorize your guest.<==>Visitante no autorizado detectado. Defensas automáticas activadas. Vigilante de estación Howard Phillips, proporcione el código de acceso verbal para autorizar a su invitado.-->Visitante não autorizado detectado. Defesas automáticas ativadas. Vigilante da Estação Howard Phillips, por favor diga o código de acesso verbal para autorizar o visitante.
@@ -5781,7 +5781,7 @@
 (5781-IGUAIS)p
 (5782-IGUAIS)É
 (5783-IGUAIS)P
-(5784)REPLACING THE TRAM<==>SUSTITUIR EL MONORRAÍL-->SUBSTITUINDO O MONOTRILHO
+(5784)REPLACING THE TRAM<==>SUSTITUIR EL MONORRAÍL-->SUBSTITUINDO O TREM
 (5785)Human Resources<==>Recursos humanos-->Recursos Humanos
 (5786)STASIS: Use stasis in combat to slow enemies<==>ESTABILIZACIÓN: Usa la estabilización en combate para frenar a los enemigos.-->ESTABILIZAÇÃO: Use a estabelização em combate para retardar os inimigos
 (5787)DIAMOND SEMICONDUCTOR<==>SEMICONDUCTOR DE DIAMANTE-->SEMICONDUTOR DE DIAMANTE
@@ -5859,7 +5859,7 @@
 (5859)A Circuit Node used to upgrade your Rig, Stasis, and Tools at the Bench.\n\nThe CEC advises all workers to keep a Power Node in their inventory to access node-locked doors.<==>Un nodo energético que se utiliza para mejorar el DRI, la estabilización y las herramientas en el banco.\nCEC aconseja a todos los trabajadores que tengan un nodo de energía en su inventario para acceder a puertas bloqueadas.-->Um Nó de Circuito utilizado para atualizar seu DRI, a estabilização, e as ferramentas na bancada.\n\nA CEC aconselha a todos os trabalhadores para manter um Nodo de Energia em seu inventário para acessar as portas bloqueadas.
 (5860)move<==>mover-->mover
 (5861)+health<==>+salud-->+saúde
-(5862)Initiate Tram Repairs<==>Iniciar reparaciones del monorraíl-->Iniciar Reparaçõies do Monotrilho
+(5862)Initiate Tram Repairs<==>Iniciar reparaciones del monorraíl-->Iniciar Reparaçõies do trem 
 (5863)lurker<==>merodeador-->espreitador
 (5864-IGUAIS)Tony Gialdini
 (5865)suit select<==>Selección de traje-->selecionar traje
@@ -6182,10 +6182,10 @@
 (6182)CALL ATTENDANT<==>LLAMAR A AYUDANTE-->CHAMAR ASSISTENTE
 (6183)CEC Employees Only<==>Solo empleados de CEC-->Só Empregados da CEC
 (6184)WARNING: SOLAR ARRAY IS OFFLINE<==>ATENCIÓN: EL PANEL SOLAR ESTÁ DESACTIVADO-->ALERTA: O PAINEL SOLAR ESTÁ DESATIVADO
-(6185)Cartridge of Rapid-ejection Bolts for the Rivet Gun.\n - Inventory Slot Stack Size: 30<==>Cartucho de roblones de eyección rápida para la remachadora.\n - Tamaño del bloque de ranuras de inventario: 30.-->Cartucho de Rebites de Ejeção Rápida para o Rebitador\n - Tamanho do Bloco de  Slot do Inventário: 30
+(6185)Cartridge of Rapid-ejection Bolts for the Rivet Gun.\n - Inventory Slot Stack Size: 30<==>Cartucho de roblones de eyección rápida para la remachadora.\n - Tamaño del bloque de ranuras de inventario: 30.-->Cartucho de Rebites de Ejeção Rápida para a Rebitadora\n - Tamanho do Bloco de  Slot do Inventário: 30
 (6186)Shoot red tip to move objects.<==>Dispara a la espita roja para mover objetos.-->Atire na ponta vermelha para mover objetos.
 (6187-IGUAIS)1,000 Credits
-(6188)   Get to to the Tram Station.<==>Ve a la estación de monorraíl.-->Vá para a Estação de Monotrilho.
+(6188)   Get to to the Tram Station.<==>Ve a la estación de monorraíl.-->Vá para a Estação de trem.
 (6189)escape<==>Huir-->fugir   
 (6190)IMPACT DETECTED<==>IMPACTO DETECTADO-->IMPACTO DETECTADO
 (6191)GUIDANCE SYSTEM MALFUNCTION<==>ERROR EN EL SISTEMA DE GUIADO-->ERRO NO SISTEMA DE ORIENTAÇÃO
@@ -6710,7 +6710,7 @@
 (6710)Technical Art<==>Diseño técnico-->Arte Tecnica
 (6711)MISSION: The government has been conducting experiments with markers and corruption in the government sector labs. These experiments must be shut down. The Humans must infiltrate the government sector labs and destroy the experiments.<==>MISIÓN: El gobierno ha estado realizando experimentos con Efigies y corrupción en los laboratorios del sector gubernamental. Estos experimentos deben detenerse. Los humanos deben infiltrarse en los laboratorios del sector gubernamental y destruir los experimentos.-->MISSÃO: O governo está conduzindo experimentos com Éfigies e corrupção nos laboratórios do setor governamental. Esses experimentos precisam ser impedidos. Os Humanos devem se infiltrar nos laboratorios do setor governamental para destruir os experimentos.
 (6712)deadly space<==>Entorno mortal-->espaço mortal
-(6713)I'm lucky to be alive, but for how long? That tram crash put me close to Daina's location, but I'll have to make it the rest of the way on foot.\n\nI just worry that this dementia will get to me first.<==>Tengo suerte de estar vivo, pero ¿por cuánto tiempo? El choque del monorraíl me ha dejado cerca de la posición de Daina, pero tendré que hacer el resto del camino a pie.\n\nMe preocupa que esta demencia se apodere de mí antes.-->Tenho sorte de estar vivo, mas por quanto tempo ficarei? Aquele acidente no carro elétrico me trouxe para perto da localização de Daina, mas precisarei cobrir o resto do caminho a pé.\n\nMinha única preocupação é que essas coisas não me peguem antes.
+(6713)I'm lucky to be alive, but for how long? That tram crash put me close to Daina's location, but I'll have to make it the rest of the way on foot.\n\nI just worry that this dementia will get to me first.<==>Tengo suerte de estar vivo, pero ¿por cuánto tiempo? El choque del monorraíl me ha dejado cerca de la posición de Daina, pero tendré que hacer el resto del camino a pie.\n\nMe preocupa que esta demencia se apodere de mí antes.-->Tenho sorte de estar vivo, mas por quanto tempo ficarei? Aquele acidente no trem me trouxe para perto da localização de Daina, mas precisarei cobrir o resto do caminho a pé.\n\nMinha única preocupação é que essas coisas não me peguem antes.
 (6714)Log-in Failed<==>Error de inicio de sesión-->Falha ao Logar
 (6715)This feeling in my head - I remember it now. It's what they were doing to me the whole time I've been here.\n\nBut what does it mean? What is Nicole expecting me to do? Why do I feel like I can destroy the Marker, but I have no idea how? There's only one way to find out.<==>Esta sensación en la cabeza..., ahora la recuerdo. Es lo que me estuvieron haciendo todo el tiempo que estuve aquí. \n\n¿Qué significa? ¿Qué esperará Nicole que haga? ¿Por qué siento que puedo destruir la Efigie, pero no tengo ni idea de cómo? Solo hay un modo de averiguarlo.-->Esse pensamento em minha cabeça. Eu lembro agora. É o que eles estavam fazendo comigo durante todo o tempo que estive aqui.\n\nMas o que isso significa? O que Nicole espera que eu faça? Porque sinto que eu deveria destruir a Éfigie, mas não tenho ideia de como fazê-lo? Só existe uma forma de descobrir.
 (6716)Docked near the Sprawl, the Human team must evacuate the Ishimura via the escape pods.<==>Los humanos deben evacuar el Ishimura, acoplado cerca del Eje, en las cápsulas de escape.-->A equipe de Humanos deve evacuar a Ishimura através das capsulas de fuga.
