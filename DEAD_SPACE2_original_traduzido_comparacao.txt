@@ -699,15 +699,15 @@
 (0699-IGUAIS)#
 (0700-IGUAIS)#
 (0701)[LDLeft]TUMBLE     [RDUp]ZOOM IN     [RDLeft]ZOOM OUT     [MenuA]PATHS     [MenuB]EXIT<==>[LDLeft]GIRAR  [RDUp]+ ZOOM  [RDLeft]- ZOOM  [MenuA]RUTAS  [MenuB]SALIR-->[LDLeft]Girar     [RDUp]Zoom +    [RDLeft]Zoom -    [MenuA]Rotas     [MenuB]Sair
-(0702)No!  I'm not leaving my mother!<==>¡No! ¡No pienso abandonar a mi madre!-->Não! Eu não estou deixando a minha mãe!
+(0702)No!  I'm not leaving my mother!<==>¡No! ¡No pienso abandonar a mi madre!-->Não! Eu não vou abandonar minha mãe!
 (0703)Noooooo!  MOM! <==>¡Noooooo! ¡MAMÁ!-->Nãoooooo!  MÃE! 
 (0704-IGUAIS)Bob Zhu
 (0705-IGUAIS)1
 (0706)Testers<==>Pruebas-->Testadores
-(0707)PRIVATE COMMUNICATION\n\nFrom: Overseer\n\nTiedemann,\n    Disappointed in the evacuation decision.\n    Consequences will be dire.\n\nThat is all.<==>COMUNICACIÓN PRIVADA\n\nDe: Supervisor\n\nTiedemann:\n    Estoy decepcionado con la decisión de evacuación.\n    Las consecuencias serán nefastas.\n\nEso es todo.-->COMUNICAÇÃO PRIVADA\n\nDe: Overseer\n\nTiedemann,\nEstou decepcionado com essa decisão de evacuação.\nAs consequências serão terríveis.\n\nIsso é tudo.
+(0707)PRIVATE COMMUNICATION\n\nFrom: Overseer\n\nTiedemann,\n    Disappointed in the evacuation decision.\n    Consequences will be dire.\n\nThat is all.<==>COMUNICACIÓN PRIVADA\n\nDe: Supervisor\n\nTiedemann:\n    Estoy decepcionado con la decisión de evacuación.\n    Las consecuencias serán nefastas.\n\nEso es todo.-->COMUNICAÇÃO PRIVADA\n\nDe: Supervisor\n\nTiedemann,\nEstou decepcionado com a decisão de evacuação.\nAs consequências serão terríveis.\n\nIsso é tudo.
 (0708)disband playgroup<==>disolver grupo de juego-->dissolver o grupo de jogo
 (0709-IGUAIS)20
-(0710)(Mining tool)<==>(Herramienta de minería)-->(Ferramenta de mineiração)
+(0710)(Mining tool)<==>(Herramienta de minería)-->(Ferramenta de mineração)
 (0711)Chief Technical Officer<==>Director técnico-->Diretor Técnico
 (0712)WANTED<==>SE BUSCA-->PROCURADO
 (0713-IGUAIS)Jocelyn Amyot
@@ -716,7 +716,7 @@
 (0716-IGUAIS)Ben Saumure
 (0717-IGUAIS)Ben Saumure
 (0718)///Isaac's controls<==>///Controles de Isaac-->///Controles do Isaac
-(0719)FORGED PLASMA CUTTER<==>CORTADORA DE PLASMA FORJADA-->CORTADOR DE PLASMA FORJADO
+(0719)FORGED PLASMA CUTTER<==>CORTADORA DE PLASMA FORJADA-->CORTADORA DE PLASMA FORJADA
 (0720)Senior QA Manager<==>Jefe de control de calidad sénior-->Chefe de Controle de Qualidade Sênior
 (0721-IGUAIS)STANDTECH
 (0722-IGUAIS)Wabi Sabi Sound, Inc.
@@ -724,18 +724,18 @@
 (0724)reset<==>Restablecer-->resetar
 (0725)+{n}\nKILL<==>+{n}\nBAJA-->+{n}\nMORTE
 (0726)Technical Artist <==>Diseñador técnico-->Artista Técnico 
-(0727)necro setup<==>configuración necromorfa-->Configuração Necromórfica
-(0728)Security Elite Suit Schematic<==>Diagrama de traje de seguridad de élite-->Diagrama do Traje de Segurança Elite
-(0729)ACTIVATE AIR RECYCLE SYSTEM<==>ACTIVAR SISTEMA DE RECICLADO DE OXÍGENO-->ATIVAR SISTEMA DE RECICLAGEM DE ÓXIGÊNIO
+(0727)necro setup<==>configuración necromorfa-->configuração necromórfica
+(0728)Security Elite Suit Schematic<==>Diagrama de traje de seguridad de élite-->Diagrama do Traje de Segurança de Elite
+(0729)ACTIVATE AIR RECYCLE SYSTEM<==>ACTIVAR SISTEMA DE RECICLADO DE OXÍGENO-->ATIVAR SISTEMA DE RECICLAGEM DE OXIGÊNIO 
 (0730-IGUAIS)Extras
 (0731)ENGINEERING SUIT <==>TRAJE DE INGENIERÍA-->TRAJE DE ENGENHARIA 
 (0732)Failed<==>Error-->Erro
 (0733)[LDLeft]TUMBLE<==>[LDLeft]GIRAR-->[LDLeft]Girar
-(0734)Unlocked by special promotion<==>Desbloqueado por promoción especial-->Falha ao bloquear %s.  Sua lista de bloqueios está cheia.
-(0735)OBJECTIVE\nACTIVE<==>OBJETIVO\nACTIVO-->Desbloqueado por promoções especiais
+(0734)Unlocked by special promotion<==>Desbloqueado por promoción especial-->Desbloqueado por promoções especiais
+(0735)OBJECTIVE\nACTIVE<==>OBJETIVO\nACTIVO-->OBJETIVO\nACTIVO
 (0736-IGUAIS)Vsync
 (0737)RIPPER BLADES<==>CUCHILLAS DE SIERRA-->LÂMINAS DE SERRA
-(0738)Adds Stasis effect to your Alt Fire<==>Añade efecto de estabilización al disparo secundario.-->Adiciona o efeito de Estabilidade na seu Tiro Secundário
+(0738)Adds Stasis effect to your Alt Fire<==>Añade efecto de estabilización al disparo secundario.-->Adiciona o efeito de estabilização no seu Disparo Secundário
 (0739-IGUAIS)4
 (0740-IGUAIS)Andrea Baccarin
 (0741-IGUAIS)Oscar Beiroa
@@ -747,12 +747,12 @@
 (0747-IGUAIS)Teo Jenisch
 (0748-IGUAIS)Arsenyi Kiyashko
 (0749-IGUAIS)3
-(0750)Bring this schematic to the store to unlock the Javelin Spears.<==>Lleva este diagrama al almacén para desbloquear las jabalinas.-->Leve esse diagrama até a loja para desbloquear a Javelin Spears.
+(0750)Bring this schematic to the store to unlock the Javelin Spears.<==>Lleva este diagrama al almacén para desbloquear las jabalinas.-->Leve esse diagrama até a loja para desbloquear os dardos.
 (0751)Seeker Rifle Schematic<==>Diagrama de rifle buscador-->Diagrama do Rifle Buscador
 (0752-IGUAIS)EA NATC
 (0753-IGUAIS)1
-(0754)We've finally caught a break! There's a transport here in CEC, and we can use it to get to Government Sector. I just need to get to it and prepare it for use.<==>¡Por fin un respiro! Aquí, en CEC, hay un transporte que podemos utilizar para ir al sector gubernamental. Solo necesito llegar hasta él y prepararlo.-->Nós finalmente tivemos uma pausa! Há um transporte aqui na CEC, e nós podemos usá-lo para chegar ao Setor Governamental. Eu só preciso chegar a ele e prepará-lo para o uso.
-(0755)Remote industrial saw.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to tether a blade in a short radius from the saw.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to eject a blade from the saw at high velocity.<==>Sierra industrial remota.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para anclar una cuchilla en un radio corto.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una cuchilla desde la sierra a gran velocidad.-->Serra industrial remota.\n• [c=CUSTOM2] Tiro Principal [c=RESET]: aperte [rsbottom] para lançar uma lâmina em um curto raio.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: aperte [rstop] para ejetar uma lâmina da serra em alta velocidade.
+(0754)We've finally caught a break! There's a transport here in CEC, and we can use it to get to Government Sector. I just need to get to it and prepare it for use.<==>¡Por fin un respiro! Aquí, en CEC, hay un transporte que podemos utilizar para ir al sector gubernamental. Solo necesito llegar hasta él y prepararlo.-->Finalmente tivemos uma pausa! Há um transporte aqui na CEC, e nós podemos usá-lo para ir ao Setor Governamental. Eu só preciso chegar até ele e prepará-lo para usarmos.
+(0755)Remote industrial saw.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to tether a blade in a short radius from the saw.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to eject a blade from the saw at high velocity.<==>Sierra industrial remota.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para anclar una cuchilla en un radio corto.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una cuchilla desde la sierra a gran velocidad.-->Serra industrial remota.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para segurar uma lâmina em um raio curto.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar uma lâmina da serra em grande velocidade.
 (0756)CLEARED GAME<==>PARTIDA COMPLETADA-->PARTIDA COMPLETADA
 (0757)create playgroup<==>Crear grupo de juego-->Criar um grupo de jogo
 (0758)POISON CAPSULE<==>CÁPSULA DE VENENO-->CÁPSULA DE VENENO
@@ -762,19 +762,19 @@
 (0762-IGUAIS)Jesse Blake
 (0763-IGUAIS)Ren Bao Hong
 (0764-IGUAIS)Salil Nair
-(0765)You unlocked increased magazine size for the Seeker Rifle<==>Has desbloqueado un mayor tamaño del cargador para el rifle buscador.-->Você desbloqueou um aumento de tamanho do carregador para o Rifle Buscador
-(0766)Explosive Device created from Thermite and a Shock Pad.<==>Dispositivo explosivo creado con termita y un detonador.-->Dispositivo Explosivo criado a partir de termite e um detonador.
+(0765)You unlocked increased magazine size for the Seeker Rifle<==>Has desbloqueado un mayor tamaño del cargador para el rifle buscador.-->Você desbloqueou um maior tamanho do carregador para o Rifle Buscador
+(0766)Explosive Device created from Thermite and a Shock Pad.<==>Dispositivo explosivo creado con termita y un detonador.-->Dispositivo explosivo criado com termita e um detonador.
 (0767-IGUAIS)Walter Huang
 (0768-IGUAIS)Leo Lee
 (0769-IGUAIS)Phil Maynard
 (0770-IGUAIS)Michael Noonan
 (0771-IGUAIS)Rohith Ravindranath
-(0772)FOOD FILTER<==>FILTRO ALIMENT.-->FILTRO ALIMENTAR
+(0772)FOOD FILTER<==>FILTRO ALIMENT.-->FILTRO ALIMENTO
 (0773)Activate\ngravity<==>Activar\ngravedad-->Ativar\ngravidade
 (0774-IGUAIS)Erika Peterson
 (0775)load game<==>Cargar partida-->Carregar jogo
 (0776)Sound Design Lead<==>Jefe de diseño de sonido-->Chefe de Design de Som
-(0777)JAVELIN GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN JABALINA\nDiagrama adquirido\nDescargar en el almacén-->ARMA DE DARDOS\nDiagrama adquirido\nBaixe na Loja
+(0777)JAVELIN GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN JABALINA\nDiagrama adquirido\nDescargar en el almacén-->CANHÃO DE DARDOS\nDiagrama adquirido\nBaixe na Loja
 (0778)settings<==>Opciones-->Configurações
 (0779)Technical Director<==>Dirección técnica-->Diretor Técnico
 (0780)CLAW DISENGAGED<==>PINZA DESACOPLADA-->GARRA DESACOPLADA
@@ -800,7 +800,7 @@
 (0800)Stasis Offline<==>Estabilización desactivado-->Estabilização Offline
 (0801)COMPOUND ENTRANCE<==>ENTRADA AL RECINTO-->SALÃO DE ENTRADA
 (0802)protect<==>Proteger-->proteger
-(0803)javelin gun<==>Cañón jabalina-->arma de dardos
+(0803)javelin gun<==>Cañón jabalina-->canhão de dardos
 (0804)HEAVY DUTY LINE GUN<==>CAÑÓN LINEAL INDUSTRIAL-->CANHÃO LINEAL INDUSTRIAL
 (0805)Alert: Fire detected in the Hallway Beta 3.  Fire suppression system activating.   Please verify your personal air supply to avoid suffocation in the event of a prolonged cycle.<==>Alerta: detectado fuego en el vestíbulo beta 3. Activando sistema de extinción de incendios. Por favor, compruebe su suministro personal de aire para evitar asfixiarse en caso de ciclo prolongado.-->Alerta: Fogo detectado no Corredor Beta 3. Ativando sistema de supressão de incêndios. Por favor, verifique o seu suprimento de ar pessoal para evitar sufocamento, no caso de um ciclo prolongado.
 (0806)Entering Vacuum.<==>Entrando en vacío.-->Entrando no vácuo.
@@ -1980,7 +1980,7 @@
 (1980)Art Director<==>Director artístico-->Diretor artístico
 (1981)TRAM REPAIR<==>REPARACIÓN DEL MONORRAÍL-->REPARAÇÃO DO TREM
 (1982)CONTACT BEAM\nSchematic Acquired\nDownload at the Store<==>LÁSER DE CONTACTO\nDiagrama adquirido\nDescargar en el almacén-->LASER DE CONTATO\nDiagrama Adquirido\nBaixe na Loja
-(1983)You unlocked increased damage for the Javelin Gun<==>Has desbloqueado más daño para el cañón jabalina.-->Você desbloqueou mais dano para a Arma Javelin.
+(1983)You unlocked increased damage for the Javelin Gun<==>Has desbloqueado más daño para el cañón jabalina.-->Você desbloqueou mais dano para o canhão de dardos.
 (1984)Schematic Downloaded:<==>Diagrama descargado:-->Diagrama Baixado:
 (1985)[Seems like everyone was trying to pack in a hurry.]<==>[Parece que tenían prisa por hacer las maletas.]-->[Parece que tinham pressa em fazer as malas.]
 (1986)Click [LStick]<==>Haz clic en [LStick]-->Aperte [LStick]
@@ -2381,7 +2381,7 @@
 (2381-IGUAIS)_
 (2382-IGUAIS)_
 (2383)Pulse Rifle Schematic<==>Diagrama de rifle de impulsos-->Diagrama do rifle de impulso
-(2384)javelin gun<==>cañón jabalina-->arma javelin
+(2384)javelin gun<==>cañón jabalina-->canhão de dardos
 (2385)[MenuA]CONTINUE<==>[MenuA]CONTINUAR-->[MenuA]CONTINUAR
 (2386-IGUAIS)Ashley Liu
 (2387)Primary Fire DAM +10% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to deploy a single proximity mine.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to disarm the last deployed mine for recovery.<==>DÑO disparo principal: +10% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para colocar una sola mina de proximidad.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para desarmar la última mina de proximidad activada para su recuperación.-->DANO do Tiro Principal: +10% / VEL: +5%\n• [c=CUSTOM2] Tiro Principal [c=RESET]: aperte [rsbottom] para plantar uma única mina de proximidade.\n• [c=CUSTOM2] Tiro secundário [c=RESET]: aperte [rstop] para desarmar a última mina plantada para recuperação.
@@ -3422,7 +3422,7 @@
 (3422)KEY SUBJECTS<==>SUJETOS CLAVE-->SUJEITOS CHAVE
 (3423)ORDERLY TPS REPORT: 1411<==>INFORME SISTEMATIZADO TPS: 1411-->INFORME SISTEMATIZADO TPS: 1411
 (3424)ZEALOT SUIT<==>TRAJE DE FANÁTICO-->ROUPA DE FANÁTICO
-(3425)You unlocked increased magazine size for the Javelin Gun<==>Has desbloqueado un mayor tamaño del cargador para el cañón jabalina.-->Você desbloqueou um tamanho aumentado para o carregador da Arma Javelin
+(3425)You unlocked increased magazine size for the Javelin Gun<==>Has desbloqueado un mayor tamaño del cargador para el cañón jabalina.-->Você desbloqueou um tamanho aumentado para o carregador do canhão de dardos
 (3426)DETONATOR MINES<==>MINAS DE DETONACIÓN-->MINAS DE DETONAÇÃO
 (3427)waiting for players...<==>Esperando a jugadores...-->Esperando jogadores...
 (3428)Advanced Elite Suit<==>TRAJE AVANZADO DE ÉLITE-->Roupa de Elite Avançada
@@ -3510,7 +3510,7 @@
 (3510)Caps<==>Bloq Mayús-->Caps
 (3511)Caps<==>Bloq Mayús-->Caps
 (3512)SOLDIER SUIT<==>TRAJE DE SOLDADO-->TRAJE DE SOLDADO
-(3513)Equipping this suit will give the wearer the following benefits:\n• 15% damage bonus to Javelin Gun.\nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>La equipación de este traje ofrecerá a quien lo lleve las siguientes ventajas:\n• 15% más de daño con el cañón jabalina.\nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->Equipando esse traje dará ao portador os seguintes benefícios:\n• 15% a mais de danos com o Canhão Javelin.\nSua compra garante no mínimo 25 slots no inventário e 25% de blindagem. Seu DRI conserva a maior melhoria de Blindagem e Inventário.
+(3513)Equipping this suit will give the wearer the following benefits:\n• 15% damage bonus to Javelin Gun.\nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>La equipación de este traje ofrecerá a quien lo lleve las siguientes ventajas:\n• 15% más de daño con el cañón jabalina.\nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->Equipando esse traje dará ao portador os seguintes benefícios:\n• 15% a mais de danos com o canhão de dardos.\nSua compra garante no mínimo 25 slots no inventário e 25% de blindagem. Seu DRI conserva a maior melhoria de Blindagem e Inventário.
 (3514)I'm trying! He's bleeding too much! My hands are slipping! Oh my God, what could have done this to him?<==>¡Lo intento! ¡Sangra demasiado! ¡Se me resbalan las manos! ¡Oh, dios, ¿qué ha podido hacerle esto?!-->Estou tentando! Ele está sangrando muito! Minhas mãos estão escorregando! Oh meu Deus, o que poderia ter feito isso com ele?
 (3515)Grandma B?  This is Christina.  Little Parker can't wait to see you, he's all pink and warm with excitement.  Okay, that's cause  I just fed him, but I know he's excited to see you . Troy and I should be there first thing in the morning, there's maintenance on the TST tonight, so change of plans.  Sorry!  Love you tons, see you soon.<==>¿Abuela B? Soy Christina. El pequeño Parker está deseando verte, está todo sonrosado y espabilado de la emoción. Bueno, es porque le acabo de dar de comer, pero sé que está deseando verte. Troy y yo llegaremos a primera hora de la mañana. Esta noche hay tareas de mantenimiento en el ETT, así que hay cambio de planes. ¡Lo siento! Te quiero mucho, nos vemos pronto.-->Vovó B? Aqui é Christina. O pequeno Parker deseja te ver, ele tá todo rosado e nervoso de emoção. Certo, é porque ele acabou de comer, mas eu sei que ele tá querendo te ver. Troy e eu vamos chegar logo de manhã, há tarefas de manutenção esta noite na ETT, portando há mudanças de planos. Desculpe! Te amo muito, logo nos veremos.
 (3516)Technical Art Directors<==>Directores de diseño técnico-->Diretores de Desenho Técnico
@@ -6458,7 +6458,7 @@
 (6458-IGUAIS)0
 (6459-IGUAIS)2
 (6460)Senior Studio Operations Director<==>Director de operaciones de estudio sénior-->Diretor Sênior De operações De Estúdio
-(6461)TRIAGE JAVELIN GUN<==>CAÑÓN JABALINA DE SELECCIÓN-->TRIAGE JAVELIN GUN
+(6461)TRIAGE JAVELIN GUN<==>CAÑÓN JABALINA DE SELECCIÓN-->TRIAGE CANHÃO DE DARDOS
 (6462)Don't come any closer!  You're not getting in!    I'm not opening this door for anyone, I don't care what your security clearance is or what your orders are.  I'm armed!  I'll fucking kill you if you try to get in!   I mean it!   Just stay away from my door!<==>¡No te acerques más! ¡No vas a entrar! ¡No abriré la puerta a nadie, no me importan ni tus órdenes ni tu autorización de seguridad! ¡Estoy armado! ¡Te mataré si intentas entrar! ¡Te lo juro! ¡Aléjate de mi puerta!-->Não se aproxime! Você não entrará aqui! Eu não vou abrir essa porta para ninguém, eu não me importo o que o seu certificado de segurança diz, ou que suas ordens são. Eu estou armado! Eu vou te matar se você tentar entrar! E que se foda ! Basta ficar longe da minha porta!
 (6463)Senior Level Designer<==>Diseñador de niveles sénior-->Designer De Nívels Sênior
 (6464)HACKER CONTACT BEAM<==>RAYO DE CONTACTO DE PIRATEO-->FEIXE DE CONTATO HACKER
@@ -6797,7 +6797,7 @@
 (6797)Elevator to Fuel Mega Storage<==>Ascensor a megaalmacén de combustible-->Elevador para o Mega Deposito de Combustivel
 (6798)Fuel Mega Storage<==>Megaalmacén de combustible-->Mega Deposito de Combustivel
 (6799)evacuate via the escape pods<==>Huye en una cápsula de escape.-->evacue usando as transportadoras
-(6800)you now have the ability to equip the javelin gun\nprimary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>Ahora ya puedes equipar el cañón jabalina\ndisparo principal: jabalina explosiva\ndisparo secundario: detonación de la última jabalina disparada-->você agora possui a habilidade de equipar a arma javelin\ndisparo primário: javelin explosivo\ndisparo alternativo: detona o ultimo javelin disparado
+(6800)you now have the ability to equip the javelin gun\nprimary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>Ahora ya puedes equipar el cañón jabalina\ndisparo principal: jabalina explosiva\ndisparo secundario: detonación de la última jabalina disparada-->você agora possui a habilidade de equipar o canhão de dardosn\ndisparo primário: javelin explosivo\ndisparo alternativo: detona o ultimo javelin disparado
 (6801)LISTEN<==>ACTIVAR-->ESCUTE
 (6802)high<==>Alta-->alto
 (6803)Handheld Graviton Accelerator.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] for a short range, high powered blast of kinetic energy with wide area of effect.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] for a long range, tight radius energy projection.<==>Acelerador de gravitones portátil.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar una potente ráfaga de energía cinética de corto alcance con un gran radio de acción.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una proyección de energía de largo alcance y radio de acción ajustado.-->Acelerador de Gravidade de Mão.\n• [c=CUSTOM2] Tiro Primário [c=RESET]: pressione [rsbottom] para disparar uma onda de impacto de energia cinetica\kinetic com uma grande area de efeito.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: pressione [rstop] para uma projeção de energia de longo alcance.
