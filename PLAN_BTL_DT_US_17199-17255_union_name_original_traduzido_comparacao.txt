@@ -1,0 +1,57 @@
+(0001)dummy<==>Sufijos-->dummy
+(0002-IGUAIS)union_name
+(0003-IGUAIS)union_name
+(0004-IGUAIS)union_name
+(0005-IGUAIS)union_name
+(0006-IGUAIS)union_name
+(0007)Tropa\nunion_name<==>Unidad\nunion_name-->union_name\n e sua tropa
+(0008)union_name\nGang<==>Equipo\nunion_name-->union_name\n e sua guangue
+(0009)Tropa\n union_name <==>Unidad de\nunion_name-->union_name\n e sua tropa
+(0010)Esquadrão\n union_name<==>Escuadrón de\nunion_name-->union_name\n e seu esquadrão
+(0011)union_name\n's Section<==>Comando de\nunion_name-->union_name\n e seu comando
+(0012)Divisão\n union_name<==>División de\nunion_name-->union_name\n e sua divisão
+(0013)Divisão\n union_name<==>División de\nunion_name-->union_name\n e sua divisão
+(0014)union_name\n's Fraternity<==>Tropas de\nunion_name-->union_name\n e sua irmandade
+(0015)union_name\n's Coalition<==>Coalición de\nunion_name-->union_name\n e sua coalisão
+(0016)union_name\n's Bunch<==>Cuadrilla de\nunion_name-->union_name\n e seu bando
+(0017)union_name\n's Order<==>Orden de\nunion_name-->union_name\n e sua ordem
+(0018)union_name\n's Detachment Force<==>Destacamento de\nunion_name-->union_name\n e seu destacamento
+(0019)union_name\n's Kamikaze Tropa<==>Escuadrón suicida de\nunion_name-->union_name\n e seu esquadrão suicida
+(0020)union_name\n's Bodyguards<==>Guardaespaldas de\nunion_name-->union_name\n e seus guarda-costas
+(0021)union_name\n's Guerillas<==>Guerrilleros de\nunion_name-->union_name\n e seus guerrilheiros
+(0022)union_name\n's Tribe<==>Tribu de\nunion_name-->union_name\n e sua tribo
+(0023)union_name\n's Faction<==>Defensores de\nunion_name-->union_name\n e sua facção
+(0024)union_name\n's Pack<==>Milicias de\nunion_name-->union_name\n e suas milícias
+(0025)union_name\n's Clan<==>Clan de\nunion_name-->union_name\n e seu clã
+(0026)union_name\n's Gang<==>Banda de\nunion_name-->union_name\n e sua gangue
+(0027)union_name\n's Troupe<==>Compañía de\nunion_name-->union_name\n e sua trupe
+(0028)union_name\n's Cartel<==>union_name\ny asociados-->union_name\n e seus associados
+(0029)union_name\n's Sect<==>Sicarios de\nunion_name-->union_name\n e sua seita
+(0030)union_name\n's Network<==>Hombres de\nunion_name-->union_name\n e seus homens
+(0031)union_name\n's Class<==>Tropa de\nunion_name-->union_name\n e sua tropa
+(0032)union_name\n's Crowd<==>Peña de\nunion_name-->union_name\n e sua platéia
+(0033)union_name\n's Mob<==>Seguidores de\nunion_name-->union_name\n e seus seguidores
+(0034)union_name\n's League<==>Liga de\nunion_name-->union_name\n e sua liga
+(0035)union_name\n's Alliance<==>Alianza de\nunion_name-->union_name\n e sua aliança
+(0036)union_name\n's Associates<==>Socios de\nunion_name-->union_name\n e seus associados
+(0037)union_name\n's Corporation<==>Agrupación de\nunion_name-->union_name\n e sua corporação
+(0038)Grupo\n union_name<==>Sindicato de\nunion_name-->union_name\n e seu grupo
+(0039)union_name\n's Team<==>Equipo\nunion_name-->union_name\n e sua equipe
+(0040)Grupo\n union_name<==>Grupo de\nunion_name-->union_name\n e seu grupo
+(0041)union_name\n's Community<==>Comunidad de\nunion_name-->union_name\n e sua comunidade
+(0042)union_name\n's Club<==>Club de\nunion_name-->union_name\n e seu clube
+(0043)union_name\n's Family<==>Familiares de\nunion_name-->union_name\n e sua família
+(0044)union_name\n's Friends<==>Amigos de\nunion_name-->union_name\n e seus amigos
+(0045)union_name\n's Fellows<==>union_name\ny compañeros-->union_name\n e companheiros
+(0046)union_name\nand co.<==>union_name\ny compañía-->union_name\n e companhia
+(0047)union_name\nand friends<==>union_name\ny sus amigos-->union_name\n e amigos
+(0048)union_name\nand buddies<==>union_name\ny sus colegas-->union_name\n e colegas
+(0049)union_name\nand henchmen<==>union_name\ny sus secuaces-->union_name\n e capangas
+(0050)union_name\nand relatives<==>union_name\ny su familia-->union_name\n e parentes
+(0051)Grupo\n union_name<==>Grupo de\nunion_name-->union_name\n e grupo
+(0052)union_name\n's Buds<==>union_name\ny sus muchachos-->union_name\n e colegas
+(0053)union_name\n's Circle<==>Círculo de\nunion_name-->union_name\n e seu círculo
+(0054)union_name\n's Crew<==>union_name\ny su equipo-->union_name\n e sua equipe
+(0055)union_name\n's Clique<==>Camarilla de\nunion_name-->union_name\n e seu grupo
+(0056)union_name\n's Party<==>Elegidos de\nunion_name-->union_name\n e seu grupo
+(0057)union_name\n's Organization<==>Cártel de\nunion_name-->union_name\n e sua organização

@@ -1,0 +1,57 @@
+dummy
+union_name
+union_name
+union_name
+union_name
+union_name
+union_name\n e sua tropa
+union_name\n e sua guangue
+union_name\n e sua tropa
+union_name\n e seu esquadrão
+union_name\n e seu comando
+union_name\n e sua divisão
+union_name\n e sua divisão
+union_name\n e sua irmandade
+union_name\n e sua coalisão
+union_name\n e seu bando
+union_name\n e sua ordem
+union_name\n e seu destacamento
+union_name\n e seu esquadrão suicida
+union_name\n e seus guarda-costas
+union_name\n e seus guerrilheiros
+union_name\n e sua tribo
+union_name\n e sua facção
+union_name\n e suas milícias
+union_name\n e seu clã
+union_name\n e sua gangue
+union_name\n e sua trupe
+union_name\n e seus associados
+union_name\n e sua seita
+union_name\n e seus homens
+union_name\n e sua tropa
+union_name\n e sua platéia
+union_name\n e seus seguidores
+union_name\n e sua liga
+union_name\n e sua aliança
+union_name\n e seus associados
+union_name\n e sua corporação
+union_name\n e seu grupo
+union_name\n e sua equipe
+union_name\n e seu grupo
+union_name\n e sua comunidade
+union_name\n e seu clube
+union_name\n e sua família
+union_name\n e seus amigos
+union_name\n e companheiros
+union_name\n e companhia
+union_name\n e amigos
+union_name\n e colegas
+union_name\n e capangas
+union_name\n e parentes
+union_name\n e grupo
+union_name\n e colegas
+union_name\n e seu círculo
+union_name\n e sua equipe
+union_name\n e seu grupo
+union_name\n e seu grupo
+union_name\n e sua organização
