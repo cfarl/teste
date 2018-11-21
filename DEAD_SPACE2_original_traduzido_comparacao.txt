@@ -948,61 +948,61 @@
 (0948)Priming completed, stage 1.<==>Detonación completada, fase 1.-->Detonação concluída, fase 1
 (0949)Priming initiated, stage 2.<==>Detonación iniciada, fase 2.-->Detonação iniciada, fase 2.
 (0950)Final priming complete.   Awaiting targeting data.<==>Detonación final completada. A la espera de datos sobre el blanco.-->Detonação final concluída. Aguardando dados sobre o alvo.
-(0951)Disc confirmed.   Downloading targeting data.  Data confirmed.  Engaging Solar Beam, full power.<==>Disco confirmado. Descargando datos del blanco. Datos confirmados. Activando haz solar, a máxima potencia.-->Disco confirmado. Baixando dados do alvo. Dados confirmados. Ativando luz solar, potência máxima.
-(0952)Initiating repairs.   Stand by.<==>Iniciando reparaciones. Manténgase a la espera.-->Iniciando reparos. Espere.
-(0953)Cycle interrupted.   Please install a new repair unit to continue.<==>Ciclo interrumpido. Instale una nueva unidad de reparación para continuar.-->Ciclo interrompido. Instale um novo reparo parta poder continuar.
-(0954)Repair cycle complete.  Ventilation can now be activated.<==>Ciclo de reparación completado. Ya se puede activar la ventilación.-->Ciclo de reparação competado.A ventilação agora pode ser ativada.
-(0955)Ventilation cycle activated.   Clearing hazard. (beat)  Hazard is cleared.   Lifting quarantine.<==>Ciclo de ventilación activado. Eliminando amenaza. Amenaza eliminada. Levantando cuarentena.-->Ciclo de ventilação ativado. Eliminando Ameaça. (beat) Ameaça eliminada. Iniciando quarentena.
-(0956)Downloading Security codes, one moment please.<==>Descargando códigos de seguridad; un momento, por favor.-->Baixando código de segurança, um momento, por favor.
+(0951)Disc confirmed.   Downloading targeting data.  Data confirmed.  Engaging Solar Beam, full power.<==>Disco confirmado. Descargando datos del blanco. Datos confirmados. Activando haz solar, a máxima potencia.-->Disco confirmado. Baixando dados do alvo. Dados confirmados. Ativando feixe solar, potência máxima.
+(0952)Initiating repairs.   Stand by.<==>Iniciando reparaciones. Manténgase a la espera.-->Iniciando reparos. Aguarde.
+(0953)Cycle interrupted.   Please install a new repair unit to continue.<==>Ciclo interrumpido. Instale una nueva unidad de reparación para continuar.-->Ciclo interrompido. Instale uma nova umidade de reparo para continuar.
+(0954)Repair cycle complete.  Ventilation can now be activated.<==>Ciclo de reparación completado. Ya se puede activar la ventilación.-->Ciclo de reparação concluído. A ventilação já pode ser ativada.
+(0955)Ventilation cycle activated.   Clearing hazard. (beat)  Hazard is cleared.   Lifting quarantine.<==>Ciclo de ventilación activado. Eliminando amenaza. Amenaza eliminada. Levantando cuarentena.-->Ciclo de ventilação ativado. Eliminando Ameaça. Ameaça eliminada. Iniciando quarentena.
+(0956)Downloading Security codes, one moment please.<==>Descargando códigos de seguridad; un momento, por favor.-->Baixando códigos de segurança, um momento, por favor.
 (0957)Download complete.   Disc delivered.<==>Descarga completa. Disco entregado.-->Download completo. Disco entregue.
-(0958)Disc received, reading codes.   Access granted.<==>Disco recibido, leyendo códigos. Acceso autorizado.-->Disco recebido, lendo códigos. Acesso garantido.
-(0959)Warning:  Fuel core detonation in 1 minute.<==>Alerta: detonación del núcleo de combustible en 1 minuto.-->Alerta:  Detonação do núcleo de combustível em 1 minuto.
-(0960)Deleting %1. Please don't turn off your Xbox 360 console.<==>Borrando %1. No apagues tu consola.-->Deletando %1. Por favor, não desligue o seu Xbox 360.
+(0958)Disc received, reading codes.   Access granted.<==>Disco recibido, leyendo códigos. Acceso autorizado.-->Disco recebido, lendo códigos. Acesso autorizado.
+(0959)Warning:  Fuel core detonation in 1 minute.<==>Alerta: detonación del núcleo de combustible en 1 minuto.-->Alerta:  detonação do núcleo de combustível em 1 minuto.
+(0960)Deleting %1. Please don't turn off your Xbox 360 console.<==>Borrando %1. No apagues tu consola.-->Deletando %1. Por favor, não desligue seu console Xbox 360.
 (0961)Power has been restored.<==>Se ha restablecido la electricidad.-->A energia foi restaurada.
 (0962)Power has been restored.<==>Se ha restablecido la electricidad.-->A energia foi restaurada.
-(0963)Plasma cutter released.<==>Cortadora de plasma liberada.-->Cortador de Plama Liberado.
-(0964)Microstore thanks you. Have a pleasant day. Be safe in space!. <==>MicroStore le da las gracias. Tenga un buen día. ¡Cuidado en el espacio!-->Microstore agrade a você. Tenha um bom dia. Cuide-se no espaço!. 
-(0965)Now approaching: Cassini Towers Tram Station. Please remain seated while the tram is in motion.<==>Nos acercamos a la estación de las Torres Cassini. Por favor, permanezcan sentados hasta que el monorraíl se detenga.-->Aproximando-se: Estação de Bondes da Torre Cassini . Permaneçam sentados até o trem parar.
+(0963)Plasma cutter released.<==>Cortadora de plasma liberada.-->Cortadora de Plama liberado.
+(0964)Microstore thanks you. Have a pleasant day. Be safe in space!. <==>MicroStore le da las gracias. Tenga un buen día. ¡Cuidado en el espacio!-->Microstore te agradece. Tenha um bom dia. Cuide-se no espaço!. 
+(0965)Now approaching: Cassini Towers Tram Station. Please remain seated while the tram is in motion.<==>Nos acercamos a la estación de las Torres Cassini. Por favor, permanezcan sentados hasta que el monorraíl se detenga.-->Estamos nos aproximando da estação de trem das Torre Cassini . Permaneçam sentados até o trem parar.
 (0966)Arriving at…Solar Array Sigma zero five.   <==>Llegando a... panel solar sigma-cero-cinco.-->Chegando ao…Painel Solar Sigma 0-5.   
-(0967)10 kilometers to target… 6 kilometers to target…. 3 kilometers to target ….. Proximity warning.<==>10 kilómetros hasta objetivo... 6 kilómetros hasta objetivo... 3 kilómetros hasta objetivo.... Alerta de proximidad.-->10 km para o alvo… 6 km para o alvo…. 3 km para o alvo ….. Alerta de proximidade.
-(0968)Power malfunction.   Please replace the power unit to use the door.<==>Fallo eléctrico. Sustituya el generador para usar la puerta.-->Falha de energia.   Substitua o gerador de energia para usar a porta.
+(0967)10 kilometers to target… 6 kilometers to target…. 3 kilometers to target ….. Proximity warning.<==>10 kilómetros hasta objetivo... 6 kilómetros hasta objetivo... 3 kilómetros hasta objetivo.... Alerta de proximidad.-->10 km até o destino… 6 km até o destino…. 3 km até o destino ….. Alerta de proximidade.
+(0968)Power malfunction.   Please replace the power unit to use the door.<==>Fallo eléctrico. Sustituya el generador para usar la puerta.-->Falha elétrica.   Substitua o gerador de energia para usar a porta.
 (0969)Engaging auxillary power systems.<==>Activando sistemas auxiliares de energía.-->Ativando sistemas auxiliares de energia.
-(0970)Repair cycle complete.  Ventilation can now be activated.<==>Ciclo de reparación completado. Ya se puede activar la ventilación.-->Ciclo de reparação completado.  A ventilação pode ser ativada.
+(0970)Repair cycle complete.  Ventilation can now be activated.<==>Ciclo de reparación completado. Ya se puede activar la ventilación.-->Ciclo de reparação concluído.  A ventilação já pode ser ativada.
 (0971)Downloading Security codes, one moment please.<==>Descargando códigos de seguridad; un momento, por favor.-->Baixando códigos de segurança, um momento por favor.
 (0972)Download complete.   Disc delivered.<==>Descarga completa. Disco entregado.-->Download completado.   Disco entregue.
-(0973)Disc received, reading codes.   Access granted.<==>Disco recibido, leyendo códigos. Acceso autorizado.-->Disco recebido, lendo código.   Acesso autorizado.
-(0974)Warning:  Fuel core detonation in 1 minute.<==>Alerta: detonación del núcleo de combustible en 1 minuto.-->Alerta:  Detonação do Núcle de combutível em 1min.
-(0975)Warning:  Fuel core detonation in 30 seconds<==>Alerta: detonación del núcleo de combustible en 30 segundos.-->Alerta:  Detonação do Núcle de combutível em 30s.
+(0973)Disc received, reading codes.   Access granted.<==>Disco recibido, leyendo códigos. Acceso autorizado.-->Disco recebido, lendo códigos.   Acesso autorizado.
+(0974)Warning:  Fuel core detonation in 1 minute.<==>Alerta: detonación del núcleo de combustible en 1 minuto.-->Alerta: detonação do núcleo de combutível em 1 minuto.
+(0975)Warning:  Fuel core detonation in 30 seconds<==>Alerta: detonación del núcleo de combustible en 30 segundos.-->Alerta:  detonação do núcleo de combutível em 30 segundos.
 (0976)GRAVITY CONTROL<==>CONTROL GRAVEDAD-->CONTROLE DE GRAVIDADE
-(0977)Ah, crap, he's down, he's down get it before it's too late.<==>Mierda, ha caído, ha caído, cogedlo antes de que sea tarde.-->Ah, merda, ele caiu, pegue-o ante que sej atarde demais.
+(0977)Ah, crap, he's down, he's down get it before it's too late.<==>Mierda, ha caído, ha caído, cogedlo antes de que sea tarde.-->Ah, merda, ele caiu, ele caiu. Pegue-o antes que seja tarde demais.
 (0978) We've got it, watch for ambushes, these things are hunting us.<==>Ya está, ojo a las emboscadas, esas cosas nos quieren dar caza.--> Chegamos, cuidado com as armadilhas, essas coisas estão nos caçando.
 (0979) PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!<==>El Ishimura--> PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
 (0980)Lighting<==>Iluminación-->Iluminação
 (0981)USG Ishimura Store & Exchange<==>Almacén e intercambio del USG Ishimura-->Armazém e intercâmbio da USG Ishimura
-(0982)Warning:  Fuel core detonation in 10 seconds…9…8..7..6…5…4…3….2..1…detonation.<==>Alerta: detonación del núcleo de combustible en 10 segundos. 9..., 8..., 7..., 6..., 5..., 4..., 3..., 2..., 1..., detonación.-->Alerta: Detonação do Núcleo de Combustível em 10 segundo…9…8..7..6…5…4…3….2..1…detonação.
+(0982)Warning:  Fuel core detonation in 10 seconds…9…8..7..6…5…4…3….2..1…detonation.<==>Alerta: detonación del núcleo de combustible en 10 segundos. 9..., 8..., 7..., 6..., 5..., 4..., 3..., 2..., 1..., detonación.-->Alerta: detonação do NÚCLEO de combustível em 10 segundos…9…8..7..6…5…4…3….2..1…detonação.
 (0983)Reset initiated.   Please stand by.<==>Reinicio activado. Manténgase a la espera.-->Reinício ativado. Aguarde um momento.
-(0984)Circuit breaker reset cycle complete.   Power has been restored.<==>Ciclo de reinicio del circuito completado. Se ha restablecido la electricidad.-->Ciclo de reinício do circuíto completado. A energia foi restaurada.
-(0985)Disc confirmed.  Coordinate download in progress.<==>Disco confirmado. Descarga de coordenadas en curso.-->Disco confirmado. Download das cordenadas em progresso.
-(0986)Priming initiated, stage 1.<==>Detonación iniciada, fase 1.-->Detonação iniciada, estágio 1.
-(0987)Final priming complete.   Awaiting targeting data.<==>Detonación final completada. A la espera de datos sobre el blanco.-->Detonação final completada. Aguardando dados do alvo.
-(0988)Disc confirmed.   Downloading targeting data.  Data confirmed.  Engaging Solar Beam, full power.<==>Disco confirmado. Descargando datos del blanco. Datos confirmados. Activando haz solar, a máxima potencia.-->Disco confirmado. Baixando dados do alvo.  Dados confirmados.  Iniciando o painel solar, potência total.
-(0989)Proton Accelerator recognized.   Shock Mine configuration initiated.<==>Acelerador de protones reconocido. Configuración de mina expansiva iniciada.-->Acelerador de Prótons Reconhecido. Configuração da Mina de Extração iniciada.
-(0990)Klystron component recognized.  Shock Mine compatibility confirmed, configuring now.<==>Componente klistrón reconocido. Compatibilidad con mina expansiva confirmada. Configurando.-->Component Klystron reconhecido. Compatibilidade com a Mina de Extração, configurando
-(0991)Linac component recognized.   Shock Mine complete.   Charge cycle initiated.    Stand-by to evacuate.<==>Componente linac reconocido. Mina expansiva completa. Ciclo de carga iniciado. Prepárense para la evacuación.-->Component Linac reconhecido. Mina de Extração completada. Ciclo de carga iniciado. Aguardando a evacuação.
-(0992)Warning:  Workbench structural integrity at 75%.   The Shock Mine will fail if the bench integrity falls to zero.<==>Alerta: integridad estructural del banco de trabajo al 75%. La mina expansiva no se activará si la integridad del banco llega a cero.-->Alerta: Integrida estrutural da Bancada de Trabalho em 75%. A mina de extração não se ativará se a integridade chegar a zero.
-(0993)Warning:  Workbench structural integrity now at  50%.   <==>Alerta: integridad estructural del banco de trabajo al 50%.-->Alerta: Integrida estrutural da Bancada de Trabalho agora em  50%.   
-(0994)Warning:  Workbench structural integrity now at  25%.   <==>Alerta: integridad estructural del banco de trabajo al 25%.-->Alerta: Integrida estrutural da Bancada de Trabalho em  25%.   
-(0995)Warning:  Workbench structural integrity has failed.   The Shock Mine has been deactivated.<==>Alerta: integridad estructural del banco se ha perdido. La mina expansiva se ha desactivado.-->Alerta: Integrida estrutural da Bancada de Trabalho destruída. A mina de extração foi desativada.
+(0984)Circuit breaker reset cycle complete.   Power has been restored.<==>Ciclo de reinicio del circuito completado. Se ha restablecido la electricidad.-->Ciclo de reinício do circuito concluído. A energia foi restaurada.
+(0985)Disc confirmed.  Coordinate download in progress.<==>Disco confirmado. Descarga de coordenadas en curso.-->Disco confirmado. Download das coordenadas em curso.
+(0986)Priming initiated, stage 1.<==>Detonación iniciada, fase 1.-->Detonação iniciada, fase 1.
+(0987)Final priming complete.   Awaiting targeting data.<==>Detonación final completada. A la espera de datos sobre el blanco.-->Detonação final concluída. Aguardando dados do alvo.
+(0988)Disc confirmed.   Downloading targeting data.  Data confirmed.  Engaging Solar Beam, full power.<==>Disco confirmado. Descargando datos del blanco. Datos confirmados. Activando haz solar, a máxima potencia.-->Disco confirmado. Baixando dados do alvo.  Dados confirmados.  Ativando feixe solar, potência máxima.
+(0989)Proton Accelerator recognized.   Shock Mine configuration initiated.<==>Acelerador de protones reconocido. Configuración de mina expansiva iniciada.-->Acelerador de prótons reconhecido.Configuração da mina expansiva iniciada.
+(0990)Klystron component recognized.  Shock Mine compatibility confirmed, configuring now.<==>Componente klistrón reconocido. Compatibilidad con mina expansiva confirmada. Configurando.-->Component Klystron reconhecido. Compatibilidade com a mina expansiva confirmada. Configurando. 
+(0991)Linac component recognized.   Shock Mine complete.   Charge cycle initiated.    Stand-by to evacuate.<==>Componente linac reconocido. Mina expansiva completa. Ciclo de carga iniciado. Prepárense para la evacuación.-->Componente Linac reconhecido. Mina expansiva completa. Ciclo de carga iniciado. Preparem-se para a evacuação.
+(0992)Warning:  Workbench structural integrity at 75%.   The Shock Mine will fail if the bench integrity falls to zero.<==>Alerta: integridad estructural del banco de trabajo al 75%. La mina expansiva no se activará si la integridad del banco llega a cero.-->Alerta: integridade estrutural da bancada de trabalho em 75%. A mina expansiva não será ativada se a integridade do banco chegar a zero.
+(0993)Warning:  Workbench structural integrity now at  50%.   <==>Alerta: integridad estructural del banco de trabajo al 50%.-->Alerta: integridade estrutural da bancada de trabalho agora em 50%.   
+(0994)Warning:  Workbench structural integrity now at  25%.   <==>Alerta: integridad estructural del banco de trabajo al 25%.-->Alerta: integridade estrutural da bancada de trabalho agora em 25%.   
+(0995)Warning:  Workbench structural integrity has failed.   The Shock Mine has been deactivated.<==>Alerta: integridad estructural del banco se ha perdido. La mina expansiva se ha desactivado.-->Alerta: a integridade estrutural da bancada de trabalho foi perdida. A mina expansiva foi desativada.
 (0996)1 minute to detonation.<==>1 minuto para la detonación.-->1 minuto para a detonação
 (0997)30 seconds to detonation.<==>30 segundos para la detonación.-->30 segundos para a detonação.
 (0998)15 seconds to detonation.<==>15 segundos para la detonación.-->15 segundos para a detonação.
-(0999)Okay everyone, 15 minutes for recess!  Play nice!<==>¡De acuerdo, 15 minutos de recreo! ¡Portaos bien!-->De acordo, 15 minutos para o intervalo!  Divirtam-se!
-(1000)Recess is over!<==>¡Se acabó el recreo!-->Fim do Intervalo!
-(1001)Warning:  structural integrity at 75%.   <==>Alerta: integridad estructural al 75%.-->Alerta: Integrida estrutural em 75%.   
-(1002)Warning:  structural integrity now at  50%.   <==>Alerta: integridad estructural al 50%.-->Alerta: Integrida estrutural agora em  50%.   
-(1003)Warning:  structural integrity now at  25%.   <==>Alerta: integridad estructural al 25%.-->Alerta: Integrida estrutural em  25%.   
-(1004)Warning:  structural integrity has failed.   <==>Alerta: la integridad estructural se ha perdido.-->Alerta: Integrida estrutural zerada.   
-(1005)Entering Zero-Gravity.<==>Entrando en gravedad cero.-->Entrando em Gravidade Zero.
+(0999)Okay everyone, 15 minutes for recess!  Play nice!<==>¡De acuerdo, 15 minutos de recreo! ¡Portaos bien!-->De acordo, 15 minutos de intervalo!  Divirtam-se!
+(1000)Recess is over!<==>¡Se acabó el recreo!-->Fim do intervalo!
+(1001)Warning:  structural integrity at 75%.   <==>Alerta: integridad estructural al 75%.-->Alerta: integridade estrutural em 75%.   
+(1002)Warning:  structural integrity now at  50%.   <==>Alerta: integridad estructural al 50%.-->Alerta: integridade estrutural agora em  50%.   
+(1003)Warning:  structural integrity now at  25%.   <==>Alerta: integridad estructural al 25%.-->Alerta: integridade estrutural agora em  25%.   
+(1004)Warning:  structural integrity has failed.   <==>Alerta: la integridad estructural se ha perdido.-->Alerta: a integridade estrutural foi perdida.   
+(1005)Entering Zero-Gravity.<==>Entrando en gravedad cero.-->Entrando na Gravidade Zero.
 (1006)Exiting Zero-Gravity.<==>Saliendo de gravedad cero.-->Saindo da Gravidade Zero.
 (1007)Primary Fire DAM +10% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>DÑO disparo principal: +10% / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->DANOS do disparo Principal +10% / REC -5%\n• [c=CUSTOM2] Tiro Principal [c=RESET]: pressione [rsbottom] para dispara um raio cortador estreito.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: pressione [rstop] para girar a cortadora em 90 graus.
 (1008)Help EA improve products, services and user experience by sharing usage information such as game statistics, settings, feature preferences and incident or event data. This information will not be shared with any third party in a way that can personally identify you.<==>Ayuda a EA a mejorar sus productos y servicios, y la experiencia de los usuarios compartiendo información de uso, como tus estadísticas, tu configuración y tus preferencias de juego, y de incidencias. Esta información no se compartirá con terceros de ningún modo que permita identificarte personalmente.-->Ajude a EA a melhorar seus produtos, serviços e a experiência do usuário compartilhando informções conosco, bem como suas estatíscas, configuração, preferências e incidências de jogo. Essas informações não seram enviadas a empresas parceiras de modo que possam lhe identificar.
@@ -4176,7 +4176,7 @@
 (4176)Yes it will.  Tell Stross to hold on, here we go…<==>Así es. Dile a Stross que aguante, allá vamos...-->Sim, vai.  Diga a Stross para se segurar, lá vamos nós…
 (4177)Ugh! Uh! Go! Go! Go!<==>¡Agh! ¡Uh! ¡Vamos! ¡Vamos! ¡Vamos!-->Agh! Uh! Vai! Vai! Vai!
 (4178)Oh. God. Come on.<==>Oh dios, vamos.-->Oh. Deus. Vamos.
-(4179)He's using the solar beam! We have to stop the transport! Now!<==>¡Va a utilizar el haz solar! ¡Hay que detener el transporte! ¡Ahora! ¡Uh!-->Ele está usando o raio solar! Temos que parar o transporte! Agora!
+(4179)He's using the solar beam! We have to stop the transport! Now!<==>¡Va a utilizar el haz solar! ¡Hay que detener el transporte! ¡Ahora! ¡Uh!-->Ele está usando o feixe solar! Temos que parar o transporte! Agora!
 (4180)Back us up!  Back us up to that station!<==>¡Cúbrenos! ¡Hasta esa estación!-->Cubra-nos!  Cubra-nos até esta estação!
 (4181)Just do it, Ellie! Hurry!  Uh!  The Ishimura. If the gravity tethers are still functional I can-<==>¡Tú hazlo, rápido! ¡Uh! El Ishimura. Si los anclajes gravitatorios siguen operativos...-->Apenas o faça, Ellie! Depressa!  Ei!  A Ishimura. Se as âncoras gravitacionais ainda estiver funcionando eu posso...
 (4182)If I can line up the tracks for a few seconds you should be able to get the Transport across. Stay ready, and take care of Stross.<==>Si consigo alinear las vías unos segundos podrías hacer cruzar el transporte. Prepárate, y cuida de Stross.-->Se eu puder alinhar as faixas por alguns segundos, você deverá ser capaz de conseguir cruzar o Transporte. Fique pronto, e cuide de Stross.
