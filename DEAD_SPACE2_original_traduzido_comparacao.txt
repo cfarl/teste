@@ -323,7 +323,7 @@
 (0323-IGUAIS)Robert Foster
 (0324)kinesis<==>cinética-->Cinética
 (0325)TEACHER REPORT: 3rd semester, 381-3\n\nI know kids are supposed to have a vivid imagination, but this is getting ridiculous. Nearly half of my class has imaginary friends now, claiming that it's their deceased grandmother or something. Normally, this wouldn't be a problem, but it's getting harder and harder to get these kids to concentrate. This semester, I've sent more students to the time out chair than I have in all my twelve years of teaching. Maybe these kids are having trouble at home. I've also noticed parental involvement steadily decreasing this semester.\n\n-Walter Blake \nThird Grade Educational Instructor<==>INFORME DEL PROFESOR: 3er semestre, 381-3\n\nSé que es normal que los niños tengan una imaginación desbordante, pero esto ya roza lo ridículo. Casi la mitad de los alumnos de mi clase tiene amigos imaginarios, y dicen que son sus difuntas abuelas y cosas parecidas. Normalmente, esto no supondría un problema, pero cada vez resulta más difícil conseguir que esos niños se concentren. Este semestre he enviado a más estudiantes a la silla de aislamiento que en mis 12 años como docente. Puede que estos alumnos estén teniendo problemas en casa. También he notado un descenso continuado de la implicación de los padres durante este semestre.\n\n-Walter Blake \nInstructor educativo de tercer curso-->REGISTRO DO PROFESSOR: 3º semestre, 381-3\n\nEu sei que é normal que as crianças tenha uma imaginação fértil, mas isso já está ficando ridículo. Quase metade dos alunos da minha classe tem amigos imaginários, e dizem que são sua avó falecida ou coisa parecida. Normalmente, isso não seria um problema, mas está ficando cada vez mais difícil de conseguir que essas crianças se concentrem. Nesse semestre, enviei mais estudantes para cadeira de isolamento que em todos os meus 12 anos como docente. Talvez essas crianças estejam tendo problemas em casa. Também notei que o envolvimento dos pais continua a diminuir gradativamente esse semestre.\n\n-Walter Blake \nInstrutor Educacional do Terceiro Grau
-(0326)The Solar Array powered the Sprawl long before its fusion reactors were installed. If I can get to the Base Station, I should be able to jumpstart the array and transfer some energy to the Transport Hub.<==>El panel solar alimentaba El Eje antes de que se instalaran los reactores de fusión. Si logro llegar a la estación base, debería poder poner en marcha el panel y transferir algo de energía al nodo de transporte.-->O painel solar alimentava o Eixo muito antes da instalação dos reatores de fusão. Se eu puder chegar à Estação Base, posso conseguir colocar o painel em funcionamento e transferir alguma energia para o Módulo de Transporte.
+(0326)The Solar Array powered the Sprawl long before its fusion reactors were installed. If I can get to the Base Station, I should be able to jumpstart the array and transfer some energy to the Transport Hub.<==>El panel solar alimentaba El Eje antes de que se instalaran los reactores de fusión. Si logro llegar a la estación base, debería poder poner en marcha el panel y transferir algo de energía al nodo de transporte.-->O painel solar alimentava o Eixo muito antes da instalação dos reatores de fusão. Se eu puder chegar à Estação Base, posso conseguir colocar o painel em funcionamento e transferir alguma energia para o centro de transporte.
 (0327)Tiger Camo Viral Blue<==>Azul viral camuflaje tigre-->Azul Viral Camuflagem Tigre
 (0328-IGUAIS).
 (0329)The Ishimura medical deck, Isaac. These were my last hours.  Frightened, cold, alone.  Well, go on Isaac. Don't be shy.<==>La cubierta médica del Ishimura, Isaac. Fueron mis últimos momentos. Asustada, fría, sola. Bien, adelante Isaac. No seas tímido.-->A sala médica da Ishimura, Isaac. Foram meus últimos momentos. Assustada, com frio, sozinha. Bem, siga em frente, Isaac. Não seja tímido.
@@ -625,12 +625,12 @@
 (0625)CURRENCY<==>DIVISA-->DIVISA
 (0626)LINE RACKS<==>MUNICIÓN LINEAL-->MUNIÇÃO LINEAR
 (0627)--:--  3063 CASSINI TOWERS          CANCE  -----<==>--:--  TORRES CASSINI 3063          CANC.  ------->--:--  TORRES CASSINI 3063         CANC.  -----
-(0628)06:05  3224 GAMMA HUB               DELAY  ALPHA<==>06:05  NODO GAMMA 3224              RETR.  ALFA-->06:05  NODO GAMA 3224            ATRAS.  ALPHA
+(0628)06:05  3224 GAMMA HUB               DELAY  ALPHA<==>06:05  NODO GAMMA 3224              RETR.  ALFA-->06:05  CENTRO GAMA 3224            ATRAS.  ALPHA
 (0629)06:55  9001 TITAN ELEMENTARY        DELAY  ALPHA<==>06:55  PRIMARIA TITÁN 9001          RETR.  ALFA-->06:55  PRIMÁRIA TITÃ 9001          ATRAS.  ALPHA
-(0630)--:--  5783 BETA HUB                CANCE  -----<==>--:--  NODO BETA 5783               CANC.  ------->--:--  NODO BETA 5783            CANC.  -----
+(0630)--:--  5783 BETA HUB                CANCE  -----<==>--:--  NODO BETA 5783               CANC.  ------->--:--  CENTRO BETA 5783            CANC.  -----
 (0631)--:--  4366 ALTMAN PLAZA            CANCE  -----<==>--:--  PLAZA ALTMAN 4366            CANC.  ------->--:--  PLAZA ALTMAN 4366           CANC.  -----
 (0632)--:--  2242 SPOKE TRANSFER          CANCE  -----<==>--:--  CAMBIO DE RADIAL 242         CANC.  ------->--:--  RAIO DE TRANFER. 2242       CANC.  -----
-(0633)08:15  2243 GAMMA HUB RB352         DELAY  OMEGA<==>08:15  NODO GAMMA RB352 2243        RETR.  OMEGA-->08:15  NODO GAMMA RB352 224      ATRAS.  OMEGA
+(0633)08:15  2243 GAMMA HUB RB352         DELAY  OMEGA<==>08:15  NODO GAMMA RB352 2243        RETR.  OMEGA-->08:15  CENTRO GAMMA RB352 224      ATRAS.  OMEGA
 (0634)--:--  4333 TITAN HEIGHTS           CANCE  -----<==>--:--  CUMBRES TITÁN 4333           CANC.  ------->--:--  CUMES TITAN 4333           CANC.  -----
 (0635)--:--  CONCOURSE DIST CENTRAL       CANCE  -----<==>--:--  CONCOURSE DIST. CENTRAL      CANC.  ------->--:--  CONCURSO DIST. CENTRAL      CANC.  -----
 (0636-IGUAIS)4
@@ -1418,26 +1418,26 @@
 (1418)a/v settings<==>Configuración A/V-->Configurar A/V
 (1419)EVERYTHING YOU NEED TO BE PREPARED FOR CONVERGENCE<==>TODO LO QUE NECESITAS PARA ESTAR LISTO PARA LA CONVERGENCIA-->TUDO QUE VOCÊ PRECISA PARA ESTAR PRONTO PARA A CONVERGÊNCIA
 (1420)subtitles<==>Subtítulos-->Legendas
-(1421)Listen up, this is Sorensen from CEC.   Cut off their limbs!  It's the only way they go down!  It's their limbs, that's the secret!  Comms are down, we can't get a broadcast out, so tell everyone you see!  <==>Atención, aquí Sorenson, de CEC. ¡Cercenadles las extremidades! ¡Es la única forma de abatirlos! ¡Sus extremidades son el punto débil! ¡Hemos perdido las comunicaciones, no podemos transmitir, así que contádselo a todo el que veáis!-->Ouça, aqui é Sorensen do CEC.   Corte os seus membros! É a única maneira de derrubá-los!  Seus membros são seu seu ponto fraco!  Estamos perdendo a comunicação, e não podemos transmitir sempre, então avise a todos que ver!
-(1422)Strategically Dismember Your Friends In Multiplayer<==>Cercena estratégicamente a tus amigos en Multijugador-->Desmebre Estratégicamente seus Adversários no Multi-Jogador
+(1421)Listen up, this is Sorensen from CEC.   Cut off their limbs!  It's the only way they go down!  It's their limbs, that's the secret!  Comms are down, we can't get a broadcast out, so tell everyone you see!  <==>Atención, aquí Sorenson, de CEC. ¡Cercenadles las extremidades! ¡Es la única forma de abatirlos! ¡Sus extremidades son el punto débil! ¡Hemos perdido las comunicaciones, no podemos transmitir, así que contádselo a todo el que veáis!-->Atenção, aqui é Sorensen, do CEC.   Corte seus membros! É a única maneira de abatê-los!  Seus membros são seu ponto fraco!  Perdemos as comunicações, não podemos transmitir, então diga isso a todos que encontrar!
+(1422)Strategically Dismember Your Friends In Multiplayer<==>Cercena estratégicamente a tus amigos en Multijugador-->Desmebre estrategicamente seus amigos no modo de vários jogadores
 (1423)any map<==>Cualquier mapa-->qualquer mapa
 (1424)ANY MAP<==>CUALQUIER MAPA-->QUALQUER MAPA
-(1425)pack<==>jauría-->pacote
-(1426)Boris, you read me? The warehouse filter's been broken for 3 days.  THREE DAYS no one cares about us.  Damn supervisors, do you think they'd let those layoffs leave them breathing their own stink for 3 days?  Me and the guys worked out a deal with gamma sector repair shift, they'll sneak over here on their lunch break and help us out.  I need you to ghost out their RIG's while they're here.  Call me and confirm.  Hatchins out.<==>Boris, ¿me recibes? El filtro del almacén lleva 3 días roto. Hace TRES DÍAS que nadie se preocupa de nosotros. Malditos supervisores, ¿tú crees que a esos les dejarían respirando su propio hedor durante 3 días? Los chicos y yo hemos hecho un trato con el turno de reparación del sector gamma; vendrán hasta aquí en la hora de la comida y nos ayudarán a salir. Necesito que hagas desaparecer sus DRI mientras están aquí. Llámame para confirmar. Hatchins, corto.-->Boris, está me ouvindo? O filtro do armazém quebrou faz três dias.  Há três dias que ninguém se preocupa conosco.  Porra de supervisores, você acha que eles se deixariam cheirando seu próprio fedor por três dias?  Eu e os caras fizemos uma proposta com o turno de raparção do setor de gamma, eles viriam aqui sorrateiramente em sua hora de almoço e nos ajudariam a sair.  Preciso que você faça os DRI deles desaparecer enquanto estiverem aqui.  Me chame para confirmar.  Hatchins, câmbio.
-(1427)Where did those patients go?<==>¿Dónde están esos pacientes?-->Onde é que os pacientes vão?
+(1425)pack<==>jauría-->bando
+(1426)Boris, you read me? The warehouse filter's been broken for 3 days.  THREE DAYS no one cares about us.  Damn supervisors, do you think they'd let those layoffs leave them breathing their own stink for 3 days?  Me and the guys worked out a deal with gamma sector repair shift, they'll sneak over here on their lunch break and help us out.  I need you to ghost out their RIG's while they're here.  Call me and confirm.  Hatchins out.<==>Boris, ¿me recibes? El filtro del almacén lleva 3 días roto. Hace TRES DÍAS que nadie se preocupa de nosotros. Malditos supervisores, ¿tú crees que a esos les dejarían respirando su propio hedor durante 3 días? Los chicos y yo hemos hecho un trato con el turno de reparación del sector gamma; vendrán hasta aquí en la hora de la comida y nos ayudarán a salir. Necesito que hagas desaparecer sus DRI mientras están aquí. Llámame para confirmar. Hatchins, corto.-->Boris, está me ouvindo? O filtro do armazém quebrou faz três dias.  Faz três dias que ninguém se preocupa conosco.  Malditos supervisores, você acha que eles ficariam respirando seu próprio fedor durante três dias?  Eu e os garotos fizemos um trato com o turno de reparação do setor gamma; eles virão aqui na sua hora de almoço e nos ajudarão a sair.  Preciso que você faça os DRI deles desaparecer enquanto estiverem aqui.  Me ligue para confirmar.  Hatchins, desligo.
+(1427)Where did those patients go?<==>¿Dónde están esos pacientes?-->Para onde esses pacientes foram?
 (1428)Tests? What kind of tests?<==>¿Pruebas? ¿Qué clase de pruebas?-->Testes? Que tipo de testes?
-(1429)      Disable the security mainframe.<==>Desactiva el ordenador central de seguridad.-->      Desabilite o Servidor da Segurança.
+(1429)      Disable the security mainframe.<==>Desactiva el ordenador central de seguridad.-->      Desative o servidor da segurança.
 (1430-IGUAIS)Robert Kyle
 (1431-IGUAIS)Eduardo Rivera Sanchez
 (1432-IGUAIS)1
-(1433)Senior Technical Artist<==>Diseñador técnico sénior-->Artista Sênior Técnico
-(1434)Free Trial Already Activated<==>Versión de prueba gratuita ya activada-->Versão de Teste Gratuita Ativada
+(1433)Senior Technical Artist<==>Diseñador técnico sénior-->Artista Técnico Sênior 
+(1434)Free Trial Already Activated<==>Versión de prueba gratuita ya activada-->Versão de teste gratuita ativada
 (1435)Lighters<==>Iluminadores-->Iluminadores
-(1436)Unlocked by special promotion<==>Desbloqueado por promoción especial-->Desbloqueado por Promoção Especial
+(1436)Unlocked by special promotion<==>Desbloqueado por promoción especial-->Desbloqueado por promoção especial
 (1437-IGUAIS)1
 (1438)deliver<==>Entregar-->Entregar
-(1439)page up<==>Re pág-->page up
-(1440)toggle climbing<==>activar/desact. subida-->Alternar Subida
+(1439)page up<==>Re pág-->subir
+(1440)toggle climbing<==>activar/desact. subida-->alternar subida
 (1441)Chapter 1<==>Capítulo 1-->Capítulo 1:\nDemência
 (1442)Chapter 2<==>Capítulo 2-->Capítulo 2:\nEpidemia
 (1443)Chapter 3<==>Capítulo 3-->Capítulo 3:\nSem Volta
@@ -1454,25 +1454,25 @@
 (1454)Chapter 14<==>Capítulo 14-->Capítulo 14:\nLuz no Fim do Túnel
 (1455)Chapter 15<==>Capítulo 15-->Capítulo 15:\nFim da Linha
 (1456)Chapter 16<==>Capítulo 16-->Capítulo 16
-(1457)Press [RDUp] when stasis is low.<==>Pulsa [RDUp] para recuperar estabilización.-->Pressione [RDUp] para recuperar a estabilização.
-(1458)This is Gabe Weller.    If anyone finds this, our chain of command has broken, starting at the top. Tiedemann's order to "kill all key subjects" is lunacy, he means to kill all the patients in the hospital!  I'm abandoning orders and heading there now to defend Lexine.  I need help stopping Captain Forrester before he can reach her.  Don't listen to Tiedemann, he's lost it.   Weller out.<==>Soy Gabe Weller. Si alguien encuentra esto, informo de que la cadena de mando se ha roto desde lo más alto. La orden de Tiedemann de "matar a todos los sujetos clave" es una locura; ¡lo que quiere es matar a todos los pacientes del hospital! No tengo intención de cumplir las órdenes y me dirigiré hacia allí para proteger a Lexine. Necesito ayuda para detener al capitán Forrester antes de que la encuentre. No escuchéis a Tiedemann. Se ha vuelto loco. Weller, corto.-->Aqui é Gabe Weller. Se alguém encontrar isso, a nossa cadeia de comando quebrou, começando pelo topo. A ordem de Tiedemann de "matar todos os sujeitos importantes" é uma loucura, ele quer matar todos os doentes no hospital!  Estou desobedecendo as ordens e indo lá para defender Lexine.  Preciso de ajuda para parar Capitão Forrester antes que ele alcance-a.  Não ouça Tiedemann, ele está perdido.   Câmbio.
-(1459)This is Gabe Weller.    If anyone finds this, our chain of command has broken, starting at the top. Tiedemann's order to "kill all key subjects" is lunacy, he means to kill all the patients in the hospital!  I'm abandoning orders and heading there now to defend Lexine.  I need help stopping Captain Forrester before he can reach her.  Don't listen to Tiedemann, he's lost it.   Weller out.<==>Soy Gabe Weller. Si alguien encuentra esto, informo de que la cadena de mando se ha roto desde lo más alto. La orden de Tiedemann de "matar a todos los sujetos clave" es una locura; ¡lo que quiere es matar a todos los pacientes del hospital! No tengo intención de cumplir las órdenes y me dirigiré hacia allí para proteger a Lexine. Necesito ayuda para detener al capitán Forrester antes de que la encuentre. No escuchéis a Tiedemann. Se ha vuelto loco. Weller, corto.-->Aqui é Gabe Weller. Se alguém encontrar isso, a nossa cadeia de comando quebrou, começando pelo topo. A ordem de Tiedemann de "matar todos os sujeitos importantes" é uma loucura, ele quer matar todos os doentes no hospital!  Estou desobedecendo as ordens e indo lá para defender Lexine.  Preciso de ajuda para parar Capitão Forrester antes que ele alcance-a.  Não ouça Tiedemann, ele está perdido.   Câmbio.
+(1457)Press [RDUp] when stasis is low.<==>Pulsa [RDUp] para recuperar estabilización.-->Pressione [RDUp] para recuperar estabilização.
+(1458)This is Gabe Weller.    If anyone finds this, our chain of command has broken, starting at the top. Tiedemann's order to "kill all key subjects" is lunacy, he means to kill all the patients in the hospital!  I'm abandoning orders and heading there now to defend Lexine.  I need help stopping Captain Forrester before he can reach her.  Don't listen to Tiedemann, he's lost it.   Weller out.<==>Soy Gabe Weller. Si alguien encuentra esto, informo de que la cadena de mando se ha roto desde lo más alto. La orden de Tiedemann de "matar a todos los sujetos clave" es una locura; ¡lo que quiere es matar a todos los pacientes del hospital! No tengo intención de cumplir las órdenes y me dirigiré hacia allí para proteger a Lexine. Necesito ayuda para detener al capitán Forrester antes de que la encuentre. No escuchéis a Tiedemann. Se ha vuelto loco. Weller, corto.-->Aqui é Gabe Weller. Se alguém encontrar isso, informo que a cadeia de comando se rompeu, começando pelo topo. A ordem de Tiedemann de "matar todos os sujeitos chave" é uma loucura, ele quer matar todos os pacientes do hospital!  Não tenho a intenção de seguir as ordens e estou indo proteger a Lexine.  Preciso de ajuda para deter o capitão Forrester antes que ele a encontre.  Não escutem o Tiedemann, ele está louco.   Weller, desligo.
+(1459)This is Gabe Weller.    If anyone finds this, our chain of command has broken, starting at the top. Tiedemann's order to "kill all key subjects" is lunacy, he means to kill all the patients in the hospital!  I'm abandoning orders and heading there now to defend Lexine.  I need help stopping Captain Forrester before he can reach her.  Don't listen to Tiedemann, he's lost it.   Weller out.<==>Soy Gabe Weller. Si alguien encuentra esto, informo de que la cadena de mando se ha roto desde lo más alto. La orden de Tiedemann de "matar a todos los sujetos clave" es una locura; ¡lo que quiere es matar a todos los pacientes del hospital! No tengo intención de cumplir las órdenes y me dirigiré hacia allí para proteger a Lexine. Necesito ayuda para detener al capitán Forrester antes de que la encuentre. No escuchéis a Tiedemann. Se ha vuelto loco. Weller, corto.-->Aqui é Gabe Weller. Se alguém encontrar isso, informo que a cadeia de comando se rompeu, começando pelo topo. A ordem de Tiedemann de "matar todos os sujeitos chave" é uma loucura, ele quer matar todos os pacientes do hospital!  Não tenho a intenção de seguir as ordens e estou indo proteger a Lexine.  Preciso de ajuda para deter o capitão Forrester antes que ele a encontre.  Não escutem o Tiedemann, ele está louco.   Weller, desligo.
 (1460)QA Software Engineers<==>Ingenieros de software de control de calidad-->Engenheiros de Software do Controle de Qualidade
 (1461-IGUAIS)Brian Bartram
 (1462-IGUAIS)Patrick Lipo
 (1463-IGUAIS)Ben Walker
 (1464)Global Product Manager<==>Jefe de producto global-->Gerente de Produto Global
 (1465)HAZARD LINE GUN<==>CAÑÓN LINEAL DE RIESGO-->CANHÃO LINEAR DE RISCO
-(1466)You have {n} save(s) remaining.\nAre you sure you want to save?<==>Te queda(n) {n} guardado(s).\n¿Seguro que quieres guardar?-->Você tem {n} salvamentos(s) restando.\nTem certeza que deseja salvar?
-(1467)ENGINES FIRING<==>MOTORES ACT.-->MOTOR À COMBUSTÃO
+(1466)You have {n} save(s) remaining.\nAre you sure you want to save?<==>Te queda(n) {n} guardado(s).\n¿Seguro que quieres guardar?-->Você ainda tem {n} salvamentos(s).\nTem certeza que deseja salvar?
+(1467)ENGINES FIRING<==>MOTORES ACT.-->MOTOR FUNCIONANDO
 (1468-IGUAIS)Alex Muscat
-(1469)Purchase new items here.  They will be added to your Inventory.  See description below for details.<==>Aquí puedes comprar objetos nuevos. Se añadirán a tu inventario. Consulta la descripción que aparece a continuación para obtener más información.-->Compre novos ítens aqui.  Eles serão adicionados ao seu inventário.  Veja a descrição para ter mais detalhes.
+(1469)Purchase new items here.  They will be added to your Inventory.  See description below for details.<==>Aquí puedes comprar objetos nuevos. Se añadirán a tu inventario. Consulta la descripción que aparece a continuación para obtener más información.-->Compre novos itens aqui.  Eles serão adicionados ao seu inventário.  Veja a descrição abaixo para obter mais informações.
 (1470)FEEDING SYSTEM OFFLINE<==>SISTEMA DE ALIMENTACIÓN DESCONECTADO-->SISTEMA DE ALIMENTAÇÃO DESLIGADO
 (1471-IGUAIS)1
-(1472)re-enter vent<==>volver a entrar en conducto-->Volte a entrar no duto
+(1472)re-enter vent<==>volver a entrar en conducto-->entre novamente no duto
 (1473-IGUAIS)Craig Simon
-(1474)default human controller map<==>Mapa de mando humano-->Mapa padrão do controle humano
-(1475)Holleran Transport Hub<==>Nodo de transporte Holleran-->Concentrador de Transporte Holleran
+(1474)default human controller map<==>Mapa de mando humano-->Mapa padrão de controle humano
+(1475)Holleran Transport Hub<==>Nodo de transporte Holleran-->Centro de Transporte Holleran
 (1476-IGUAIS)Nigel Kay
 (1477-IGUAIS)Glen Stuart
 (1478)///achievements<==>///Logros-->///Conquistas
@@ -1531,25 +1531,25 @@
 (1531-IGUAIS)Federico Torchitti
 (1532-IGUAIS)Patricio Zain
 (1533-IGUAIS)Damian Zanzero
-(1534)open the containment shield in the final marker lab<==>Abre el escudo de contención del último laboratorio de Efigie.-->Abra o escudo de contenção do último laboratório da Marker.
+(1534)open the containment shield in the final marker lab<==>Abre el escudo de contención del último laboratorio de Efigie.-->Abra o escudo de contenção do último laboratório do Marker.
 (1535)extras<==>Extras-->Extras
 (1536)Tiedemann, this evacuation is illegal, you KNOW THAT.<==>Tiedemann, esta evacuación es ilegal. YA LO SABE.-->Tiedemann, essa evacuação é ilegal, você SABE DISSO.
-(1537)I don't need a lecture from you, and you know I'm right.  Project protocol specifically forbids evacuation in the event of a breach!<==>No me dé charlas, sabe que tengo razón. ¡El protocolo del proyecto prohíbe expresamente la evacuación en caso de ruptura!-->Não preciso de um sermão seu, sei que estou certo.  O protocolo do Projeto proíbe expressamente a evacuação em caso de ruptura!
+(1537)I don't need a lecture from you, and you know I'm right.  Project protocol specifically forbids evacuation in the event of a breach!<==>No me dé charlas, sabe que tengo razón. ¡El protocolo del proyecto prohíbe expresamente la evacuación en caso de ruptura!-->Não preciso de uma lição de moral, você sabe que tenho razão.  O protocolo do projeto proíbe expressamente a evacuação em caso de ruptura!
 (1538)Very well sir.<==>Muy bien, señor.-->Muito bem senhor.
-(1539) RIG sync to Shuttle Gambodia, now.  Lars out.<==>Sincronización de DRI con el transbordador Gambodia, ahora. Lars, corto.--> Sincronização do DRI com o Transportador do Gambodia, agora.  Lars, câmbio.
+(1539) RIG sync to Shuttle Gambodia, now.  Lars out.<==>Sincronización de DRI con el transbordador Gambodia, ahora. Lars, corto.--> Sincronização do DRI com o transportador Gambodia, agora.  Lars, desligo.
 (1540-IGUAIS)1
-(1541)Cannot retrieve information from the Xbox LIVE Marketplace. Please check your connection and try again.<==>No se puede recuperar la información del Bazar Xbox LIVE. Comprueba tu conexión y vuelve a intentarlo.-->Não foi possível conectar na Xbox Live. É possivel que o conteúdo adicional do modo jogador único não esteja disponível. Por favor, tente novamente mais tarde.
+(1541)Cannot retrieve information from the Xbox LIVE Marketplace. Please check your connection and try again.<==>No se puede recuperar la información del Bazar Xbox LIVE. Comprueba tu conexión y vuelve a intentarlo.-->Não foi possível conectar na Xbox Live Marketplace. Verifique sua conexão e tente novamente.
 (1542-IGUAIS)0
-(1543)PLEASE RESPECT THE SANCTITY AND QUIET THIS ROOM PROVIDES<==>RESPETE LA SANTIDAD Y TRANQUILIDAD DE ESTA SALA-->POR FAVOR, RESPEITE A SANTIDADE E A TRANQUILIDADE DESTE QUARTO 
+(1543)PLEASE RESPECT THE SANCTITY AND QUIET THIS ROOM PROVIDES<==>RESPETE LA SANTIDAD Y TRANQUILIDAD DE ESTA SALA-->RESPEITE A SANTIDADE E TRANQUILIDADE DESSA SALA 
 (1544)Points<==>Puntos-->Pontos
-(1545)Rack of Charged Ion Gas for the Line Gun.\n - Inventory Slot Stack Size: 6<==>Munición para el cañón lineal.\n- Tamaño del bloque de ranuras de inventario: 6-->Cartucho de Carga de Gás Íon do Canhão Linear \n - Tamanho do Bloco de Slots do Inventário: 6
-(1546)Compressed Energy Charge for the Handheld Graviton Accelerator.\n - Inventory Slot Stack Size: 15<==>Carga de energía comprimida para el acelerador de gravitones portátil.\n - Tamaño del bloque de ranuras de inventario: 15-->Carga de Energia Comprimida para o Acelerador Gravitacional Portátil.\n - Tamanho do Bloco de slots do Inventário: 15
-(1547)Are you sure you want to leave the game lobby?<==>¿Seguro que quieres salir del punto del encuentro?-->Tem certeza que deseja sair do ponto de encontro do jogo?
+(1545)Rack of Charged Ion Gas for the Line Gun.\n - Inventory Slot Stack Size: 6<==>Munición para el cañón lineal.\n- Tamaño del bloque de ranuras de inventario: 6-->Munição para o Canhão Linear \n - Tamanho do bloco de espaços de inventário: 6
+(1546)Compressed Energy Charge for the Handheld Graviton Accelerator.\n - Inventory Slot Stack Size: 15<==>Carga de energía comprimida para el acelerador de gravitones portátil.\n - Tamaño del bloque de ranuras de inventario: 15-->Carga de energia comprimida para o acelerador gravitacional portátil.\n - Tamanho do bloco de espaços de inventário: 15
+(1547)Are you sure you want to leave the game lobby?<==>¿Seguro que quieres salir del punto del encuentro?-->Tem certeza que deseja sair do ponto de encontro?
 (1548)+{n}\nHEAL<==>+{n}\nCURACIÓN-->+{n}\nCURA
 (1549)PARTY CRASHER<==>PARTY CRASHER3Åàe-->GRUPO DE COLISÃO
-(1550)Unable to connect to the EA Servers. Please try again later.<==>No se ha podido conectar con los servidores de EA. Inténtalo de nuevo más tarde.-->Incapaz de conectar aos Servidores da EA. Tente novamente mais tarde.
-(1551)Repairs in Progress.  Please Stand By.<==>Reparación en curso. Espere.-->Reparos em progresso.  Por favor, aguarde.
-(1552)QTY<==>CANT.-->QTDE.
+(1550)Unable to connect to the EA Servers. Please try again later.<==>No se ha podido conectar con los servidores de EA. Inténtalo de nuevo más tarde.-->Não foi possível conectar aos servidores da EA. Tente novamente mais tarde.
+(1551)Repairs in Progress.  Please Stand By.<==>Reparación en curso. Espere.-->Reparos em curso.  Por favor aguarde.
+(1552)QTY<==>CANT.-->QTDE
 (1553)Welcome to your workstation \nSgt. Armand Fattouh.\nYou have 3 unread messages///\n\nPlease select an option.\n-launch Securiscope 2.0\n-launch EG Sprawl Watch\n-exit HRSPPLVR\n-sync your RIG<==>Bienvenido a su terminal de trabajo, \nSgto. Armand Fattouh.\nTiene 3 mensajes pendientes.///\n\nSeleccione una opción.\n-iniciar Securiscope 2.0\n-iniciar Ejevigilancia GT\n-salir de HRSPPLVR\n-sincronizar DRI-->Bem vindo a sau estação de tarbalho \nSgt. Armand Fattouh.\nVocê tem 3 mensagens não lidas///\n\nSelecione uma opção.\n-inciar Securiscope 2.0\n-iniciar EG Sprawl Watch\n-sair do HRSPPLVR\n-sincronizar seu DRI
 (1554)SCHEMATIC TEMP<==>DIAGRAMA TEMPORAL-->DIAGRAMA TEMPORÁRIO
 (1555)CANISTERS<==>BOTES-->CILINDROS
@@ -2354,7 +2354,7 @@
 (2354)Computer Mainframe Access<==>Acceso al ordenador central-->Acesso ao computador central
 (2355)To Solar Array Control Pod<==>A cápsula de control del panel solar-->Para Cápsula de Controle do Painel Solar
 (2356)Solar Array Control Pod<==>Cápsula de control del panel solar-->Cápsula de Controle do Painel Solar
-(2357)Transport Hub<==>Nodo de transporte-->Nódulo de Transporte
+(2357)Transport Hub<==>Nodo de transporte-->Centro de Transporte
 (2358)Solar Array Elevator<==>Ascensor del panel solar-->Elevador do Painel Solar
 (2359)Solar Array Elevator<==>Ascensor del panel solar-->Elevador do Painel Solar
 (2360)primary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>disparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->tiro principal: cortadora mineral de grande energia\ntiro secundário: campo de orientação do raio
@@ -3037,7 +3037,7 @@
 (3037)ASTEROID RELEASE<==>LANZAMIENTO DE ASTEROIDE-->LANÇAMENTO DO ASTEROIDE
 (3038)Animation Director<==>Director de animación-->Diretor de Animação
 (3039)Special Thanks<==>Agradecimiento especial-->Agradecimentos Especiais
-(3040)If there's really a Marker in Government Sector, and I'm the one responsible for creating it, then I have to find a way to destroy it.\n\nI need to get to Government Sector before it's too late. With all the shuttles gone, the Sprawl Transport Hub is my best bet.<==>Si de verdad hay una Efigie en el sector gubernamental y yo soy el responsable de su creación, tendré que buscar el modo de destruirla.\n\nTengo que llegar al sector gubernamental antes de que sea demasiado tarde. A falta de transbordadores, el nodo de transporte del Eje es mi mejor opción.-->Se há realmente um marcador no Setor Governamental, e eu sou o único responsável por sua criação, então eu tenho que encontrar uma maneira de destruí-lo.\n\nPreciso chegar ao Setor Governamental, antes que seja tarde demais. Com todos os transportadores em falta, a expansão de Transporte de Alastro é a minha melhor aposta.
+(3040)If there's really a Marker in Government Sector, and I'm the one responsible for creating it, then I have to find a way to destroy it.\n\nI need to get to Government Sector before it's too late. With all the shuttles gone, the Sprawl Transport Hub is my best bet.<==>Si de verdad hay una Efigie en el sector gubernamental y yo soy el responsable de su creación, tendré que buscar el modo de destruirla.\n\nTengo que llegar al sector gubernamental antes de que sea demasiado tarde. A falta de transbordadores, el nodo de transporte del Eje es mi mejor opción.-->Se há realmente um marcador no Setor Governamental, e eu sou o único responsável por sua criação, então eu tenho que encontrar uma maneira de destruí-lo.\n\nPreciso chegar ao Setor Governamental, antes que seja tarde demais. Com todos os transportadores em falta, a expansão de centro de Transporte é a minha melhor aposta.
 (3041-IGUAIS)Joel Petersen
 (3042-IGUAIS)Julian Giardinelli
 (3043-IGUAIS)Luis Alonso
@@ -3441,7 +3441,7 @@
 (3441)QUICK MAP<==>MAPA-->MAPA
 (3442)SG{s} - chapter {c}<==>PG{s} - capítulo {c}-->PG{s} - capítulo {c}
 (3443)Multiplayer content has been unlocked.<==>Se ha desbloqueado contenido multijugador.-->Novo conteúdo desbloqueado.
-(3444)Restore power to the Transport Hub.<==>Restablece la energía en el nodo de transporte.-->Restabeleça a energia para a Área de Transporte.
+(3444)Restore power to the Transport Hub.<==>Restablece la energía en el nodo de transporte.-->Restabeleça a energia para a centro de Transporte.
 (3445-IGUAIS)Jake Kornbluth
 (3446-IGUAIS)Dave Footman
 (3447-IGUAIS)1
@@ -3685,7 +3685,7 @@
 (3685-IGUAIS)`
 (3686-IGUAIS)`
 (3687)Holy shit Isaac!<==>¡Mierda, Isaac!-->Puta merda, Isaac!
-(3688)We just made it into this crossover tube when the beam hit!  Isaac, those things are still heading for the Transport Hub.  They're wrecking everything in their path!<==>¡De milagro! ¡Nos metimos en este tubo de conexión cuando el haz se disparó! ¡Isaac, esas cosas avanzan hacia el nodo de transporte! ¡Y destrozan lo que encuentran a su paso!-->Nos metemos neste tubo de conexão quando esta viga disparou!  Isaac, aquelas coisas ainda estão seguindo para o Cubo de Transporte.  Eles estão destruindo tudo que entrar pelos seus caminhos!
+(3688)We just made it into this crossover tube when the beam hit!  Isaac, those things are still heading for the Transport Hub.  They're wrecking everything in their path!<==>¡De milagro! ¡Nos metimos en este tubo de conexión cuando el haz se disparó! ¡Isaac, esas cosas avanzan hacia el nodo de transporte! ¡Y destrozan lo que encuentran a su paso!-->Nos metemos neste tubo de conexão quando esta viga disparou!  Isaac, aquelas coisas ainda estão seguindo para o centro de Transporte.  Eles estão destruindo tudo que entrar pelos seus caminhos!
 (3689)Right outside! Hurry!<==>¡Aquí fuera! ¡Deprisa!-->Lá fora! Depressa!
 (3690)Isaac! This way! The train is this way.<==>¡Isaac! ¡Por aquí! El tren está por aquí.-->Isaac! Por aqui! O trem é por aqui.
 (3691)Oh shit!<==>¡Oh! ¡Joder!-->Ah droga!
@@ -3766,7 +3766,7 @@
 (3766)Isaac…<==>Isaac...-->Isaac…
 (3767)...you bastard…<==>... Cabrón...-->...seu bastardo…
 (3768)Isaac, it's Ellie. I've found someone. Another survivor. He says he knows you. I said stand still!<==>Isaac, soy Ellie. He encontrado a alguien. Otro superviviente. Dice que te conoce. ¡He dicho que quieto!-->Isaac, é o Ellie. Eu encontrei alguém. Outro sobrevivente. Ele disse que te conhece. Eu disse pra ele ficar parado!
-(3769)Shit. Ok, Isaac. I'll march him to the hub but if he does anything stupid, ANYTHING, I will shoot him.<==>¡Mierda! Vale, Isaac. Le llevaré hacia el nodo, pero si hace cualquier estupidez, LO QUE SEA, le pego un tiro.-->Merda. Ok, Isaac. Vou levá-lo ao nódulo, mas se ele fizer qualquer coisa estúpida, QUALQUER COISA, eu atiro nele.
+(3769)Shit. Ok, Isaac. I'll march him to the hub but if he does anything stupid, ANYTHING, I will shoot him.<==>¡Mierda! Vale, Isaac. Le llevaré hacia el nodo, pero si hace cualquier estupidez, LO QUE SEA, le pego un tiro.-->Merda. Ok, Isaac. Vou levá-lo ao centro, mas se ele fizer qualquer coisa estúpida, QUALQUER COISA, eu atiro nele.
 (3770)That figures.<==>No me extraña.-->Que figuras.
 (3771)This is going to be trouble.<==>Esto nos causará problemas.-->Isto vai ser um problema.
 (3772)Shit!<==>¡Mierda!-->Merda!
@@ -4520,7 +4520,7 @@
 (4520)ACCESS DENIED<==>ACCESO DENEGADO-->ACESSO NEGADO
 (4521)change difficulty<==>Cambiar dificultad-->mudar dificuldade
 (4522)You've unlocked credits that can be spent at the in-game store.<==>Has desbloqueado créditos que puedes gastar en el almacén del juego.-->Você desbloqueou créditos que podem ser gastos na loja do jogo.
-(4523)Shit! The Transport Hub is destroyed. The only way out of this mess is to escape into the CEC Facility!<==>¡Mierda! El nodo de transporte está destruido. ¡El único modo de salir de este caos es huyendo a la instalación de CEC!-->Merda! O Nódulo do Transporte está destruído. O único meio de sair dessa bagunça é fugir pela Instalação do CEC!
+(4523)Shit! The Transport Hub is destroyed. The only way out of this mess is to escape into the CEC Facility!<==>¡Mierda! El nodo de transporte está destruido. ¡El único modo de salir de este caos es huyendo a la instalación de CEC!-->Merda! O centro do Transporte está destruído. O único meio de sair dessa bagunça é fugir pela Instalação do CEC!
 (4524)top<==>Arriba-->cima
 (4525)Top<==>Arriba-->Cima
 (4526)Secondary Fire DAM +5% / REL -10%\n• [c=CUSTOM2] Primary Fire [c=RESET]:  pull and hold [rsbottom] to fire a fully automatic barrage of energy packets.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch a grenade at your target.<==>DÑO disparo secundario: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para disparar un aluvión automático de paquetes de energía.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzarle una granada a tu objetivo.-->DANO do Tiro Secundário: +5% / REC: -10%\n• [c=CUSTOM2] Tiro Principal [c=RESET]:  mantenha [rsbottom] para atirar uma barragem automática de pacotes de energia.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: aperte [rstop] para lançar uma granada em seu alvo.
@@ -5155,17 +5155,17 @@
 (5155-IGUAIS)Jody Valdes
 (5156-IGUAIS)Nicolas Viau
 (5157)Checkpoint<==>Control-->Checkpoint
-(5158)To Public Areas and Transport Hub<==>A zonas públicas y nodo de transporte-->Para as Áreas Públicas e o Nódulo de Transporte
+(5158)To Public Areas and Transport Hub<==>A zonas públicas y nodo de transporte-->Para as Áreas Públicas e o centro de Transporte
 (5159)MALFUNCTION<==>FALLO DEL SISTEMA-->FALHA DO SISTEMA
 (5160)Hyperion Hall Apartments<==>Apartamentos Pabellón Hyperion-->Apartamentos Salão Hyperion Hall
 (5161)Secure Storage<==>Almacén seguro-->Loja Segura
-(5162)To Public Areas and Transport Hub<==>A zonas públicas y nodo de transporte-->Para as Áreas Públicas e o Nódulo de Transporte
+(5162)To Public Areas and Transport Hub<==>A zonas públicas y nodo de transporte-->Para as Áreas Públicas e o centro de Transporte
 (5163)Maintenance Elevator Room<==>Sala del ascensor auxiliar-->Sala de Elevador de Serviço
 (5164)Maintenance Elevator<==>Ascensor auxiliar-->Elevador de Serviço
 (5165)Concourse Supply Storage<==>Almacén de suministro de The Concourse-->Loja de Suprimentos do Concourse
 (5166)Maintenance Access to Concourse<==>Acceso de mantenimiento a The Concourse-->Acesso de Manutenção ao Concourse
 (5167)ACCESS DENIED<==>ACCESO DENEGADO-->ACESSO NEGADO
-(5168)Transport Hub<==>Nodo de transporte-->Módulo de Transporte
+(5168)Transport Hub<==>Nodo de transporte-->Centro de Transporte
 (5169)Solar Energy Collector Works<==>Obras del acumulador de energía solar-->Obras do Acumulador de Energia Solar
 (5170)MALFUNCTION<==>FALLO DEL SISTEMA-->FALHA DO SISTEMA
 (5171)CEC Facility<==>Instalación de CEC-->Instalação da CEC
@@ -5910,7 +5910,7 @@
 (5910-IGUAIS)Inna Cherneykina
 (5911-IGUAIS)Rachel Cross
 (5912-IGUAIS)Vivian WeiChun Ding
-(5913)Ellie and Stross are in here somewhere. We got separated after the Transport Hub was destroyed. Ellie works for CEC, and knows this facility well, so they should be safe for a while.\n\nAs for my own safety, I'm not so sure...<==>Ellie y Stross andan por aquí. Nos separamos después de que se destruyera el nodo de transporte. Ellie trabaja para CEC y conoce bien esta instalación, así que deberían estar a salvo durante un rato.\n\nDe mi propia seguridad no estoy tan seguro...-->Ellie e Stross está aqui em algum lugar. Nos separamos após o Eixo do Transportador ser destruído. Ellie trabalha para a CEC, e conhece bem esta instalação, por isso devem estar seguros por um tempo.\n\nDa minha própria segurança, eu não tenho tanta certeza...
+(5913)Ellie and Stross are in here somewhere. We got separated after the Transport Hub was destroyed. Ellie works for CEC, and knows this facility well, so they should be safe for a while.\n\nAs for my own safety, I'm not so sure...<==>Ellie y Stross andan por aquí. Nos separamos después de que se destruyera el nodo de transporte. Ellie trabaja para CEC y conoce bien esta instalación, así que deberían estar a salvo durante un rato.\n\nDe mi propia seguridad no estoy tan seguro...-->Ellie e Stross está aqui em algum lugar. Nos separamos após o centro de transporte ser destruído. Ellie trabalha para a CEC, e conhece bem esta instalação, por isso devem estar seguros por um tempo.\n\nDa minha própria segurança, eu não tenho tanta certeza...
 (5914)start matchmaking<==>Iniciar Matchmaking-->Procurar partida
 (5915) Dan Morris<==> Dan Morris--> Dan Morris
 (5916-IGUAIS)Mindwalk Studios
@@ -6453,7 +6453,7 @@
 (6453)Are you sure you want to quit?  Choosing 'Yes' will remove all players from the match and end the session. You will lose your multiplayer progress.<==>¿Seguro que quieres salir? Si eliges "Sí" se retirará a todos los jugadores de la partida y se finalizará la sesión. Perderás todos tus progresos de multijugador.-->Tem certeza que quer sair?  Escolhendo 'Sim' irá remover todos os players da partida e irá encerrar a seção. E você irá perder todo o progresso no multiplayer.
 (6454)AUDIO TRANSMISSION<==>TRANSM. DE AUDIO-->TRANSMISÃO DE ÁUDIO
 (6455-IGUAIS)1
-(6456)      Welcome to Shopping Warren A14: Holleran Transport Hub, Titan Elementary School, Toy Toy, Fashion Kid, Trixie's<==>      Bienvenido a Compras Warren A14: Nodo de transporte alfa, Escuela de Enseñanza Primaria Titán, Juega juega, Niños fashion, Trixie's-->      Bem-vindo ao shopping Warren A14: Holleran Transport Hub, Titan Elementary School, Toy Toy, Fashion Kid, Trixie's
+(6456)      Welcome to Shopping Warren A14: Holleran Transport Hub, Titan Elementary School, Toy Toy, Fashion Kid, Trixie's<==>      Bienvenido a Compras Warren A14: Nodo de transporte alfa, Escuela de Enseñanza Primaria Titán, Juega juega, Niños fashion, Trixie's-->      Bem-vindo ao shopping Warren A14: Holleran Transport centro, Titan Elementary School, Toy Toy, Fashion Kid, Trixie's
 (6457-IGUAIS)1
 (6458-IGUAIS)0
 (6459-IGUAIS)2
@@ -6853,7 +6853,7 @@
 (6853)After lunch, enjoy our 4th graders' performance of "Galactilot"<==>Después de la comida, los alumnos de 4º curso representarán "Galactilot"-->Após o almoço, assista a atuação da quarta série de "Galactilot"  
 (6854)Enjoy your lunch! Eat your green pellets.<==>¡Disfrutad de la comida! Comeos las píldoras verdes.-->Desfrute do almoço! Coma as pelotas verdes.
 (6855)Playground Warning: No teacher on Duty<==>Alerta en el patio: no hay ningún profesor vigilando-->Aviso do Playground: Nenhum professor Trabalhando
-(6856)To Transport Hub.    Do not board train without parental supervision.<==>A nodo de transporte. Prohibido subir al tren sin supervisión paterna.-->A estação de Transporte. Proibido subir a bordo sem a supervisão dos pais.
+(6856)To Transport Hub.    Do not board train without parental supervision.<==>Para o centro de transporte. Prohibido subir al tren sin supervisión paterna.-->A estação de Transporte. Proibido subir a bordo sem a supervisão dos pais.
 (6857-IGUAIS)Make Us Whole Make Us Whole Make Us Whole Make Us Whole Make Us Whole Make Us Whole
 (6858)Snare Government Sector with the Ishimura's gravity tethers.<==>Atrapa el sector gubernamental con los anclajes gravitatorios del Ishimura.-->Capture o Setor Governamental com a ancora gravitaciona da Ishimura.
 (6859)///audio<==>///Sonido-->///audio
