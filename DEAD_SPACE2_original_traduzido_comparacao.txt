@@ -1550,54 +1550,54 @@
 (1550)Unable to connect to the EA Servers. Please try again later.<==>No se ha podido conectar con los servidores de EA. Inténtalo de nuevo más tarde.-->Não foi possível conectar aos servidores da EA. Tente novamente mais tarde.
 (1551)Repairs in Progress.  Please Stand By.<==>Reparación en curso. Espere.-->Reparos em curso.  Por favor aguarde.
 (1552)QTY<==>CANT.-->QTDE
-(1553)Welcome to your workstation \nSgt. Armand Fattouh.\nYou have 3 unread messages///\n\nPlease select an option.\n-launch Securiscope 2.0\n-launch EG Sprawl Watch\n-exit HRSPPLVR\n-sync your RIG<==>Bienvenido a su terminal de trabajo, \nSgto. Armand Fattouh.\nTiene 3 mensajes pendientes.///\n\nSeleccione una opción.\n-iniciar Securiscope 2.0\n-iniciar Ejevigilancia GT\n-salir de HRSPPLVR\n-sincronizar DRI-->Bem vindo a sau estação de tarbalho \nSgt. Armand Fattouh.\nVocê tem 3 mensagens não lidas///\n\nSelecione uma opção.\n-inciar Securiscope 2.0\n-iniciar EG Sprawl Watch\n-sair do HRSPPLVR\n-sincronizar seu DRI
-(1554)SCHEMATIC TEMP<==>DIAGRAMA TEMPORAL-->DIAGRAMA TEMPORÁRIO
+(1553)Welcome to your workstation \nSgt. Armand Fattouh.\nYou have 3 unread messages///\n\nPlease select an option.\n-launch Securiscope 2.0\n-launch EG Sprawl Watch\n-exit HRSPPLVR\n-sync your RIG<==>Bienvenido a su terminal de trabajo, \nSgto. Armand Fattouh.\nTiene 3 mensajes pendientes.///\n\nSeleccione una opción.\n-iniciar Securiscope 2.0\n-iniciar Ejevigilancia GT\n-salir de HRSPPLVR\n-sincronizar DRI-->Bem vindo à sua estação de tarbalho, \nSgt. Armand Fattouh.\nVocê tem 3 mensagens não lidas.///\n\nSelecione uma opção.\n-iniciar Securiscope 2.0\n-iniciar EG Sprawl Watch\n-sair do HRSPPLVR\n-sincronizar seu DRI
+(1554)SCHEMATIC TEMP<==>DIAGRAMA TEMPORAL-->DIAGRAMA TEMPORAL
 (1555)CANISTERS<==>BOTES-->CILINDROS
 (1556)LINE GUN<==>CAÑÓN LINEAL-->CANHÃO LINEAR
 (1557)Project Manager<==>Jefe de proyecto-->Gerente de Projeto
 (1558-IGUAIS)5
-(1559)ARMOR<==>BLINDAJE-->ARMADURA
-(1560)Warning! Power drain in progress. Gravity systems and life support going off-line.<==>¡Alerta! Se está produciendo una pérdida de energía. Los sistemas de gravedad y de soporte vital se están desconectando.-->Atenção! Está produzindo uma perda de energia. Os sistemas de gravidade e de suporte de vida estão desligados.
-(1561)Warning:  There is an obstruction in the tram tunnel ahead.  Please disembark at the Medical Deck. You may use an alternate route.  A service technician has been notified of the delay.<==>Alerta: hay un obstáculo en el túnel del monorraíl. Desembarque en la cubierta médica. Puede seguir una ruta alternativa. Hemos notificado a un técnico de servicio del retraso.-->Alerta:   Há uma obstrução no túnel elétrico à frente. Por favor, desembarque na Cobertura da Medicina. Você pode usar uma rota alternativa. Um técnico de serviço foi notificado do atraso.
-(1562)Ishimura system status:  Gravity and Life support are on reserve power.  All primary systems are offline.    Main centrifuge is offline for repair order 8836.<==>Estado del sistema del Ishimura: la gravedad y el soporte vital están en reserva. Los sistemas primarios están desconectados. La centrifugadora principal está inactiva y pendiente de reparación, orden 8836.-->Estado do Sitema da Ishimura:  A Gravidade e o Suporte Vital estão nas reservas de energia.  Sistemas primérios desligados. A centrífuga principal está desligada para reparos, ordem 8836.
-(1563)Ishimura system status:  Gravity and Life support are on reserve power.  All primary systems are offline.    Main centrifuge is offline for repair order 8836.<==>Estado del sistema del Ishimura: la gravedad y el soporte vital están en reserva. Los sistemas primarios están desconectados. La centrifugadora principal está inactiva y pendiente de reparación, orden 8836.-->Estado do Sitema da Ishimura:  A Gravidade e o Suporte Vital estão nas reservas de energia.  Sistemas primérios desligados. A centrífuga principal está desligada para reparos, ordem 8836.
-(1564)Ejection sequence initiated.  Launch in 3 … 2 … 1.  Launch.<==>Secuencia de eyección iniciada. Lanzamiento en 3..., 2..., 1. Despegue. -->Sequência de Ejetamento Iniciada.  Lançando em 3 … 2 … 1.  Lançado.
-(1565)Proximity warning.  Impact detected.  Guidance system malfunction.  <==>Alerta de proximidad. Alerta: impacto detectado. Error en el sistema de guiado.-->Alerta de Proximidade.  Impacto Detectado.  Erro no Sistema de Guia.  
-(1566)All guidance systems off line. <==>Todos los sistemas de guiado desactivados.-->Sistemas de Guia desligados. 
-(1567)Brace for impact.<==>Prepárense para el impacto.-->Preparem-se para o Impacto.
-(1568)Gravity and Life support on reserve power. Primary systems offline.  Main centrifuge offline for repairs.<==>Gravedad y soporte vital en reserva. Sistemas primarios desconectados. Centrifugadora principal inactiva y pendiente de reparación.-->A Gravidade e o Suporte Vital estão nas reservas de energia.  Sistemas primérios desligados.  A centrífuga principal está desligada para reparos.
-(1569)Gravity tethers engaged…<==>Anclajes gravitatorios acoplados...-->Amarras Gravitacionais Acopladas…
-(1570)Unexpected obstruction ahead.  Shutting down.   Welcome to the Medical Deck.<==>Obstrucción inesperada más adelante. Cerrando. Bienvenido a la cubierta médica.-->Obstrução Inesperada à frente.  Desligando.   Bem vindo à Cobertura Médica.
+(1559)ARMOR<==>BLINDAJE-->BLINDAGEM 
+(1560)Warning! Power drain in progress. Gravity systems and life support going off-line.<==>¡Alerta! Se está produciendo una pérdida de energía. Los sistemas de gravedad y de soporte vital se están desconectando.-->Atenção! Está ocoorrendo uma perda de energia. Os sistemas de gravidade e suporte vital estão sendo desligados.
+(1561)Warning:  There is an obstruction in the tram tunnel ahead.  Please disembark at the Medical Deck. You may use an alternate route.  A service technician has been notified of the delay.<==>Alerta: hay un obstáculo en el túnel del monorraíl. Desembarque en la cubierta médica. Puede seguir una ruta alternativa. Hemos notificado a un técnico de servicio del retraso.-->Alerta:   Há uma obstrução no túnel do trem. Desembarque na cobertura médica. Você pode usar uma rota alternativa. Um técnico de serviço foi notificado do atraso.
+(1562)Ishimura system status:  Gravity and Life support are on reserve power.  All primary systems are offline.    Main centrifuge is offline for repair order 8836.<==>Estado del sistema del Ishimura: la gravedad y el soporte vital están en reserva. Los sistemas primarios están desconectados. La centrifugadora principal está inactiva y pendiente de reparación, orden 8836.-->Estado do sistema da Ishimura:  a gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrífuga principal está desligada para reparos, ordem 8836.
+(1563)Ishimura system status:  Gravity and Life support are on reserve power.  All primary systems are offline.    Main centrifuge is offline for repair order 8836.<==>Estado del sistema del Ishimura: la gravedad y el soporte vital están en reserva. Los sistemas primarios están desconectados. La centrifugadora principal está inactiva y pendiente de reparación, orden 8836.-->Estado do sistema da Ishimura:  a gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrífuga principal está desligada para reparos, ordem 8836.
+(1564)Ejection sequence initiated.  Launch in 3 … 2 … 1.  Launch.<==>Secuencia de eyección iniciada. Lanzamiento en 3..., 2..., 1. Despegue. -->Sequência de lançamento Iniciada.  Lançamento em 3 … 2 … 1.  Lançado.
+(1565)Proximity warning.  Impact detected.  Guidance system malfunction.  <==>Alerta de proximidad. Alerta: impacto detectado. Error en el sistema de guiado.-->Alerta de proximidade.  Impacto detectado.  Erro no sistema de condução.  
+(1566)All guidance systems off line. <==>Todos los sistemas de guiado desactivados.-->Sistemas de condução desligados. 
+(1567)Brace for impact.<==>Prepárense para el impacto.-->Preparem-se para o impacto.
+(1568)Gravity and Life support on reserve power. Primary systems offline.  Main centrifuge offline for repairs.<==>Gravedad y soporte vital en reserva. Sistemas primarios desconectados. Centrifugadora principal inactiva y pendiente de reparación.-->A gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrífuga principal está desligada para reparos. 
+(1569)Gravity tethers engaged…<==>Anclajes gravitatorios acoplados...-->Travas gravitacionais acopladas…
+(1570)Unexpected obstruction ahead.  Shutting down.   Welcome to the Medical Deck.<==>Obstrucción inesperada más adelante. Cerrando. Bienvenido a la cubierta médica.-->Obstrução inesperada mais à frente.  Desligando.   Bem vindo à cobertura médica.
 (1571)Warning:  The Engineering deck has not completed final clean-up and decontamination.<==>Alerta: la cubierta de ingeniería no ha completado la limpieza y la descontaminación finales.-->Alerta:   A Cobertura de Engenharia não completou a limpeza e descontaminação finais.
-(1572)Additional Sound Design<==>Diseño de sonido adicional-->Designe Adicional de Áudio
-(1573)The downloadable content '%1' is corrupt and cannot be used. Please try downloading it again.<==>La descarga de contenido "%1" está dañada y no se puede utilizar. Prueba a descargarla otra vez.-->O Conteúdo Baixável '%1' está corrompido e não pode ser usado. Tente baixar novamente.
+(1572)Additional Sound Design<==>Diseño de sonido adicional-->Design de Áudio Adicional
+(1573)The downloadable content '%1' is corrupt and cannot be used. Please try downloading it again.<==>La descarga de contenido "%1" está dañada y no se puede utilizar. Prueba a descargarla otra vez.-->O conteúdo descarregável '%1' está corrompido e não pode ser usado. Tente baixar novamente.
 (1574)HEAVY DUTY CONTACT BEAM<==>RAYO DE CONTACTO INDUSTRIAL-->RAIO DE CONTATO INDUSTRIAL
 (1575-IGUAIS)Sara Breitkreutz
 (1576-IGUAIS)Sarah Grigsby
 (1577)Sarah Tempas, for putting up with me.<==>Sarah Tempas, por aguantarme-->Sarah Tempas, por me aturar.
-(1578)Sarah, for her patience and understanding. Love u!<==>Sarah, por su paciencia y comprensión. ¡Te quiero!-->Sarah, por sua paciência e compreensão. Te amo!
+(1578)Sarah, for her patience and understanding. Love u!<==>Sarah, por su paciencia y comprensión. ¡Te quiero!-->Sarah, pela sua paciência e compreensão. Te amo!
 (1579)Sevonne for all your love and support<==>Sevonne por todo tu amor y tu apoyo-->Sevonne por todo seu amor e apoio
-(1580)Shanghai misses Jack!<==>¡Shanghai extraña a Jack!-->Xangai perde Jack!
+(1580)Shanghai misses Jack!<==>¡Shanghai extraña a Jack!-->Xangai sente saudades de Jack!
 (1581)Sheila Dean and our Betta Lu<==>Sheila Dean y nuestra Betta Lu-->Sheila Dean e nossa Lu Betta
 (1582-IGUAIS)Shianna Huynh
-(1583)Shout out to all my HO-mies!<==>¡Un saludo a todos mis colegas!-->Um salve a todos os meus Colegas!
+(1583)Shout out to all my HO-mies!<==>¡Un saludo a todos mis colegas!-->Um cumprimento a todos meus colegas!
 (1584)Sinead and Victor Hayes<==>Sinead y Victor Hayes-->Sinead e Victor Hayes
 (1585)South Van Awesome<==>South Van Genio-->South Van Awesome
 (1586)Special thanks to Becky and Apollo Roosevelt<==>Agradecimientos especiales a Becky y Apollo Roosevelt-->Um agradecimento especial a Becky e Roosevelt Apollo
-(1587)Special thanks to mom, yost and jericho<==>Agradecimientos especiales a mamá, yost y jericho-->Um agradecimento especial a Yost mãe, e Jericó
-(1588)Special Thanks to my brain<==>Agradecimiento especial a mi cerebro-->Agradecimentos especiais ao meu cérebro
-(1589)Special thanks to my girlfriend, Sara.<==>Agradecimiento especial a mi novia, Sara-->Um agradecimento especial a minha namorada, Sara.
-(1590)Special Thanks: Crossie,  Minou  & Baby<==>Agradecimientos especiales: Crossie, Minou y Baby-->Agradecimentos especiais: Minou crossie & Baby
+(1587)Special thanks to mom, yost and jericho<==>Agradecimientos especiales a mamá, yost y jericho-->Agradecimentos especiais a minha mãe, Yost e Jericó
+(1588)Special Thanks to my brain<==>Agradecimiento especial a mi cerebro-->Um agradecimento especial ao meu cérebro
+(1589)Special thanks to my girlfriend, Sara.<==>Agradecimiento especial a mi novia, Sara-->Um agradecimento especial para minha namorada, Sara.
+(1590)Special Thanks: Crossie,  Minou  & Baby<==>Agradecimientos especiales: Crossie, Minou y Baby-->Agradecimentos especiais: Crossie, Minou & Baby
 (1591)Stacey D. Vandermeer, Ava Colette and Lea Coryn.<==>Stacey D. Vandermeer, Ava Colette y Lea Coryn. -->Stacey Vandermeer D., Colette Ava e Coryn Lea.
 (1592)Steve & Brycen Johnson<==>Steve y Brycen Johnson-->Steve & Johnson Brycen
-(1593)Taewoong Kwon & Shinyoung Jang for all your love<==>Taewoong Kwon y Shinyoung Jang por todo vuestro amor-->Taewoong Kwon & Jang Shinyoung para todo o seu amor
+(1593)Taewoong Kwon & Shinyoung Jang for all your love<==>Taewoong Kwon y Shinyoung Jang por todo vuestro amor-->Taewoong Kwon & Jang Shinyoung para todo seu amor
 (1594)Tanya Gascoigne & Family<==>Tanya Gascoigne y familia-->Tanya Gascoigne & Família
-(1595)Thank you Jonjon and Eloisa for being there! =)<==>¡Gracias por estar ahí, Jonjon y Eloisa! =)-->Obrigado Jonjon e Eloisa para estar lá! =)
-(1596)Thank you to my wife Nancy and my son Max<==>Gracias a mi esposa Nancy y a mi hijo Max-->Obrigado à minha mulher Nancy e meu filho Max
-(1597)Thank you to those who are no longer with us.<==>Gracias a los que ya no están con nosotros.-->Obrigado a aqueles que não estão mais conosco.
-(1598)Thanks 2 my girlfriend for giving me my little boy<==>Gracias a mi novia por darme a mi pequeño-->Graças 2 minha namorada por me dar o meu menino
-(1599)Thanks all for helping make Shanghai our new home!<==>¡Gracias a todos por ayudar a hacer de Shanghai nuestro nuevo hogar!-->Obrigado a todos por ajudar a tornar Xangai nossa nova casa!
-(1600)Thanks and love to Rach, Lily and Hamish<==>Agradecimientos y amor para Rach, Lily y Hamish-->Obrigado e amor a Rach, Lily e Hamish
+(1595)Thank you Jonjon and Eloisa for being there! =)<==>¡Gracias por estar ahí, Jonjon y Eloisa! =)-->Obrigado Jonjon e Eloisa para estarem aí! =)
+(1596)Thank you to my wife Nancy and my son Max<==>Gracias a mi esposa Nancy y a mi hijo Max-->Obrigado à minha esposa Nancy e meu filho Max
+(1597)Thank you to those who are no longer with us.<==>Gracias a los que ya no están con nosotros.-->Obrigado áqueles que não estão mais conosco.
+(1598)Thanks 2 my girlfriend for giving me my little boy<==>Gracias a mi novia por darme a mi pequeño-->Obrigado à minha namorada por me dar meu pequeno
+(1599)Thanks all for helping make Shanghai our new home!<==>¡Gracias a todos por ayudar a hacer de Shanghai nuestro nuevo hogar!-->Obrigado a todos por ajudar a fazer  de Xangai nossa nova casa!
+(1600)Thanks and love to Rach, Lily and Hamish<==>Agradecimientos y amor para Rach, Lily y Hamish-->Agradecimentos e amor a Rach, Lily e Hamish
 (1601)Thanks Colleen, I'd be your wingman any day!<==>¡Gracias Colleen, soy tu copiloto siempre que quieras!-->Graças Colleen, eu seria seu braço direito em qualquer dia!
 (1602)Thanks Dad, Mom, Mayuri, Ayush, and Ashi<==>Gracias, papá, mamá, Mayuri, Ayush y Ashi-->Obrigado, pai, mãe, Ayush, Mayuri e Ashi
 (1603)Thanks everyone! Make sure you swim together first<==>¡Gracias a todos! Aseguraos de nadar juntos antes-->Obrigado a todos! Certifique-se de nadar juntos em primeiro lugar
