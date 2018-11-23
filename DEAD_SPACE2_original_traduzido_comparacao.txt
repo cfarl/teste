@@ -1701,24 +1701,24 @@
 (1701)DETONATOR<==>DETONADOR-->DETONADOR
 (1702-IGUAIS)Christopher Jett
 (1703-IGUAIS)Rafael Sabino
-(1704)Unlock Security Doors<==>Desbloquea las puertas de seguridad.-->Desbloqueie as Portas de Segurança
+(1704)Unlock Security Doors<==>Desbloquea las puertas de seguridad.-->Desbloqueia as portas de segurança
 (1705){g} (default)<==>{g} (predet.)-->{g} (padrão)
-(1706)Gravity Tethers: ENGAGED<==>Anclajes gravitatorios: ACTIVADOS-->travas de Gravidade: CONECTADO
+(1706)Gravity Tethers: ENGAGED<==>Anclajes gravitatorios: ACTIVADOS-->Travas Gravitacionais: ACTIVADAS
 (1707)You unlocked increased damage for the Force Gun<==>Has desbloqueado más daño para el cañón de energía.-->Você desbloqueou mais danos para o Canhão de Energia
 (1708)Senior Producer<==>Productor sénior-->Produtor Sênior
 (1709-IGUAIS)EA Canada
-(1710)//Engines<==>//Motores-->//Motorea
-(1711)//Engineering Deck<==>//Cubierta de ingeniería -->//Cobertura da Engenharia
-(1712)//Hydroponics<==>//Sistema hidropónico-->//Hidroponia
-(1713)//Cargo Hold<==>//Compartimento de carga-->//Compartimento de Carga
-(1714)//Mining Deck<==>//Cubierta de extracción-->//Cobertura de Extração
-(1715)//Flight Deck<==>//Cubierta de vuelo-->//Cobertura de Voo
-(1716)//Science/Medical Deck<==>//Cubierta médica/científica-->//Cobertura Médica/Científica
-(1717)//Crew Deck<==>//Cubierta de la tripulación-->//Cobertura da Tripulação
+(1710)//Engines<==>//Motores-->//Motores
+(1711)//Engineering Deck<==>//Cubierta de ingeniería -->//Cobertura da engenharia
+(1712)//Hydroponics<==>//Sistema hidropónico-->//Sistema hidropônico
+(1713)//Cargo Hold<==>//Compartimento de carga-->//Compartimento de carga
+(1714)//Mining Deck<==>//Cubierta de extracción-->//Cobertura de extração
+(1715)//Flight Deck<==>//Cubierta de vuelo-->//Cobertura de voo
+(1716)//Science/Medical Deck<==>//Cubierta médica/científica-->//Cobertura médica/científica
+(1717)//Crew Deck<==>//Cubierta de la tripulación-->//Cobertura da tripulação
 (1718)//Bridge<==>//Puente-->//Ponte
 (1719)//Colony<==>//Colonia-->//Colônia
 (1720-IGUAIS)//Ishimura
-(1721)Urban Camo Olive<==>Verde oliva camuflaje urbano-->Verde Oliva de Camuflagem Urbana
+(1721)Urban Camo Olive<==>Verde oliva camuflaje urbano-->Verde oliva de camuflagem urbana
 (1722)REPLACED THE TRAM CAR<==>MONORRAÍL SUSTITUIDO-->TREM SUBSTITUÍDO
 (1723-IGUAIS)Christopher Andry
 (1724-IGUAIS)Jason Arpin
@@ -1729,12 +1729,12 @@
 (1729-IGUAIS)Douglas Kodaseet
 (1730-IGUAIS)Will Lafleur
 (1731-IGUAIS)Michial Lawrence
-(1732)Sounds of crying and heavy breathing for about 10 seconds. Then a scream.<==>Sonidos de llanto y respiraciones ahogadas durante 10 segundos seguidos de un grito.-->Sons de choro e respiração pesada por cerca de 10 segundos. Em seguida, um grito.
-(1733)Sounds of crying and heavy breathing for about 10 seconds. Then a scream.<==>Sonidos de llanto y respiraciones ahogadas durante 10 segundos seguidos de un grito.-->Sons de choro e respiração pesada por cerca de 10 segundos. Em seguida, um grito.
+(1732)Sounds of crying and heavy breathing for about 10 seconds. Then a scream.<==>Sonidos de llanto y respiraciones ahogadas durante 10 segundos seguidos de un grito.-->Sons de choro e respiração pesada durante 10 segundos. Em seguida, um grito.
+(1733)Sounds of crying and heavy breathing for about 10 seconds. Then a scream.<==>Sonidos de llanto y respiraciones ahogadas durante 10 segundos seguidos de un grito.-->Sons de choro e respiração pesada durante 10 segundos. Em seguida, um grito.
 (1734)rpm<==>r. p. m.-->rpm
 (1735)DEFAULTS<==>PREDETERMINADOS-->PADRÕES
-(1736)Detonator Schematic<==>Diagrama de detonador-->Diagrama do Detonador
-(1737)Are you sure you want to quit?  You will lose any unsaved data.<==>¿Seguro que quieres salir?\nPerderás todos los datos no guardados.-->Tem certeza de que deseja sair? Você perderá todos os dados não salvos.
+(1736)Detonator Schematic<==>Diagrama de detonador-->Diagrama do detonador
+(1737)Are you sure you want to quit?  You will lose any unsaved data.<==>¿Seguro que quieres salir?\nPerderás todos los datos no guardados.-->Tem certeza de que deseja sair? Você vai perder todos os dados não salvos.
 (1738-IGUAIS)Nicolas Acosta Barruti
 (1739-IGUAIS)Nadia Aimasso
 (1740-IGUAIS)David Beltrame
@@ -1744,19 +1744,19 @@
 (1744-IGUAIS)Juan Chaves
 (1745-IGUAIS)Julian Chayle
 (1746-IGUAIS)Esteban Coria
-(1747)Urban Camo Viral Yellow<==>Amarillo viral camuflaje urbano-->Amarelo Viral de Camuflagem Urbano
+(1747)Urban Camo Viral Yellow<==>Amarillo viral camuflaje urbano-->Amarelo viral de camuflagem urbano
 (1748)LARGE AIR CAN\nSchematic Acquired\nDownload at the Store<==>BOTE DE AIRE GRANDE\nDiagrama adquirido\nDescargar en el almacén-->CILINDRO DE AR GRANDE\nDiagrama Adquirido\nBaixar na Loja
-(1749)primary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>disparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->Tiro principal: cortador de minerais de alta energia\nTiro alternativo: troca a posição do feixe
-(1750)primary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>disparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->Tiro principal: cortador de minerais de alta energia\nTiro alternativo: troca a posição do feixe
-(1751)TITAN STATION\nCHURCH OF UNITOLOGY\n\nCome hear the truth about Unitology.   See our rich history, hear about the compelling truths hidden for centuries, and learn about the glorious unity that awaits us all.   The church is always open to the curious, so come check out our extended tour hours during Saturnal Periapsis, alone or with a group!    We never turn anyone away.   Altman be praised.<==>ESTACIÓN TITÁN\nIGLESIA DE LA UNIOLOGÍA\n\nVengan y oigan la verdad sobre la Uniología. Contemplen nuestra riqueza histórica, escuchen las fascinantes verdades ocultas durante siglos y conozcan la gloriosa unidad que nos espera a todos. La iglesia está siempre abierta para los curiosos, ¡consulten los horarios de las visitas ampliadas, individuales o en grupo, durante la periapsis saturnina! Jamás excluimos a nadie. Alabado sea Altman.-->ESTAÇÃO TITAN\nIGREJA DA UNITOLOGIA\n\Venham e descubram a verdade sobre a Unitologia.   Veja a nossa rica história, ouça sobre as convincente verdades escondidas durante séculos, e aprenda sobre a unidade gloriosa que espera por todos nós. A igreja está sempre aberta para os curiosos, então venha conferir nossas horas de visitas ampliadas durante o Saturnal periapsis, sozinho ou com um grupo! Jamais excluiríamos alguém. Altman está abalado.
-(1752)prevent the destruction of the final marker<==>Evita la destrucción de la última Efigie.-->impeça a destruição da última marker
-(1753)The server is unable to redeem this code at this time, please try again later.<==>El servidor no puede canjear ese código en este momento. Vuelve a intentarlo más tarde.-->O servidor não é capaz de recuperar este código no momento, por favor, tente novamente mais tarde.
+(1749)primary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>disparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->Disparo principal: cortadora de mineral de grande energia\nDisparo alternativo: muda a orientação do feixe
+(1750)primary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>disparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->Disparo principal: cortadora de mineral de grande energia\nDisparo alternativo: muda a orientação do feixe
+(1751)TITAN STATION\nCHURCH OF UNITOLOGY\n\nCome hear the truth about Unitology.   See our rich history, hear about the compelling truths hidden for centuries, and learn about the glorious unity that awaits us all.   The church is always open to the curious, so come check out our extended tour hours during Saturnal Periapsis, alone or with a group!    We never turn anyone away.   Altman be praised.<==>ESTACIÓN TITÁN\nIGLESIA DE LA UNIOLOGÍA\n\nVengan y oigan la verdad sobre la Uniología. Contemplen nuestra riqueza histórica, escuchen las fascinantes verdades ocultas durante siglos y conozcan la gloriosa unidad que nos espera a todos. La iglesia está siempre abierta para los curiosos, ¡consulten los horarios de las visitas ampliadas, individuales o en grupo, durante la periapsis saturnina! Jamás excluimos a nadie. Alabado sea Altman.-->ESTAÇÃO TITAN\nIGREJA DA UNITOLOGIA\n\Venham e escutem a verdade sobre a Unitologia.   Contemplem nossa riqueza história, escutem sobre as fascinantes verdades ocultas durante séculos, e conheçam a gloriosa unidade que nos espera. A igreja está sempre aberta para os curiosos, consultem os horários das visitas ampliadas, individuais ou em grupo, durante a periapsis saturnina! Jamais excluímos alguém. Louvado seja Altman.
+(1752)prevent the destruction of the final marker<==>Evita la destrucción de la última Efigie.-->impeça a destruição do último marker
+(1753)The server is unable to redeem this code at this time, please try again later.<==>El servidor no puede canjear ese código en este momento. Vuelve a intentarlo más tarde.-->O servidor não é capaz de recuperar esse código no momento, por favor, tente novamente mais tarde.
 (1754)test [Start] test [Select] TEST [LStick] 123 [RStick] TEST 123 [LStick3] 123 [RStick3] 123 [select] TEST [start] test <==>test [Start] test [Select] TEST [LStick] 123 [RStick] TEST 123 [LStick3] 123 [RStick3] 123 [select] TEST [start] test -->test [Start] test [Select] TEST [LStick] 123 [RStick] TEST 123 [LStick3] 123 [RStick3] 123 [select] TEST [start] test 
-(1755)temporary inv text for schematic<==>Texto temporal para diagrama-->Texto temporário para o diagrama
-(1756)Wide-beamed slicer with timed mines.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a wide energy beam.  Can slice many objects at once.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a timed energy mine.<==>Arma trituradora de rayo ancho con minas temporizadas.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo de energía ancho. Muy útil para cortar varios objetos a la vez.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para disparar una mina de energía temporizada.-->Arma triturado de raio horizontal com minas programadas.\n• [c=CUSTOM2] Tiro Principal [c=RESET]: pressione [rsbottom] para disparar um raio de energia horizontal.  Pode cortar vários alvos de uma só vez.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: pressione [rstop] para disparar uma mina programada.
-(1757)Hand Cannon<==>CAÑÓN HAND-->Hand Cannon
-(1758)Welcome to Titan Station Transit....TST!\n- CEC commuter passes are available now at the new discounted rate.\n- Student discounts require valid enrollment records in your RIG.\n- EarthGov secure and EarthGov private lanes board every hour, blue trains only.\n\n3 major spokes connect Public and Government sectors.\nSpoke Trains depart every 15 minutes during the hours of:\n   0600 - 1000\n   1600 - 1900\nSpoke Trains depart every half hour during non-rush hours.\n\nPublic Sector trains connect Alpha through Epsilon sectors, in a loop that services the shard and star side of each sector.\nPublic Sector trains depart each station every 15 minutes.<==>Bienvenido a la Estación de Tránsito Titán o... ¡ETT!\n- La nueva tarifa rebajada de los abonos de CEC ya está en vigor.\n- Para descuentos de estudiantes, es necesario disponer de registros de matriculación válidos en el DRI.\n- Las rutas Gobierno de la Tierra seguro y Gobierno de la Tierra privado admiten pasajeros cada hora; solo trenes azules.\n\n3 rutas radiales principales conectan los sectores público y gubernamental.\nLos trenes radiales salen cada 15 minutos entre las siguientes horas:\n   0600 - 1000\n   1600 - 1900\nLos trenes radiales salen cada media hora durante las horas valle.\n\nLos trenes del sector público conectan los sectores alfa a épsilon en un bucle que cubre los dos lados de cada sector.\nLos trenes del sector público salen de todas las estaciones cada 15 minutos.-->Bem vindo a Estação de Trânsito Titan....ETT!\n- As tarifas de viagem do CEC estão com uma nova taxa de desconto.\n- Descontos para estudantes exigem registros de inscrição válido no seu DRI.\n- As rotas seguras e privadas do Governo Terrestre aceitam passageiros a toda hora, somente bondes azuis.\n\n3 as rotas radias conectam os setores Público e Governamental.\nBondes radias partem a cada 15 minutos durante as horas de:\n   0600 - 1000\n   1600 - 1900\nBondes Radias partem a cada trinta minutos com não está na hora do rush.\n\nOs Bonde do Setor Público se conectam ao Setor Alpha através do Epsilon, em um loop que ajuda ambos os lados dos setores.\nOs Bondes do Setor Público saem de todas as estações a cada 15 minutos.
-(1759)QA Assistant Leads<==>Ayudantes del jefe de control de calidad-->Líderes Assitentes no Controle de Qualidade
+(1755)temporary inv text for schematic<==>Texto temporal para diagrama-->Texto temporário para diagrama
+(1756)Wide-beamed slicer with timed mines.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a wide energy beam.  Can slice many objects at once.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a timed energy mine.<==>Arma trituradora de rayo ancho con minas temporizadas.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo de energía ancho. Muy útil para cortar varios objetos a la vez.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para disparar una mina de energía temporizada.-->Arma trituradora de raio horizontal com minas temporizadas.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um raio de energia horizontal.  Muito útil para cortar vários objetos de uma só vez.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar uma mina de energia temporizada.
+(1757)Hand Cannon<==>CAÑÓN HAND-->Canhão Manual
+(1758)Welcome to Titan Station Transit....TST!\n- CEC commuter passes are available now at the new discounted rate.\n- Student discounts require valid enrollment records in your RIG.\n- EarthGov secure and EarthGov private lanes board every hour, blue trains only.\n\n3 major spokes connect Public and Government sectors.\nSpoke Trains depart every 15 minutes during the hours of:\n   0600 - 1000\n   1600 - 1900\nSpoke Trains depart every half hour during non-rush hours.\n\nPublic Sector trains connect Alpha through Epsilon sectors, in a loop that services the shard and star side of each sector.\nPublic Sector trains depart each station every 15 minutes.<==>Bienvenido a la Estación de Tránsito Titán o... ¡ETT!\n- La nueva tarifa rebajada de los abonos de CEC ya está en vigor.\n- Para descuentos de estudiantes, es necesario disponer de registros de matriculación válidos en el DRI.\n- Las rutas Gobierno de la Tierra seguro y Gobierno de la Tierra privado admiten pasajeros cada hora; solo trenes azules.\n\n3 rutas radiales principales conectan los sectores público y gubernamental.\nLos trenes radiales salen cada 15 minutos entre las siguientes horas:\n   0600 - 1000\n   1600 - 1900\nLos trenes radiales salen cada media hora durante las horas valle.\n\nLos trenes del sector público conectan los sectores alfa a épsilon en un bucle que cubre los dos lados de cada sector.\nLos trenes del sector público salen de todas las estaciones cada 15 minutos.-->Bem vindo à Estação de Trânsito Titan....ETT!\n- A nova tarifa com descontos do CEC está em vigor.\n- Para descontos de estudantes é necessário dispor de registros de matrícula válidos no DRI.\n- As rotas seguras e privadas do Governo da Terra admitem passageiros a cada hora; somente trens azuis.\n\n3 as rotas radiais conectam os setores público e governamental.\nOs trens radiais saem a cada 15 minutos entre as seguintes horas:\n   0600 - 1000\n   1600 - 1900\nOs trens radiais saem a cada meia hora durante as outras horas.\n\nOs trens do setor público conectam os Setores Alpha E Epsilon, em um percurso que cobre os lados de cada setor.\nOs trens do setor público saem de todas as estações a cada 15 minutos.
+(1759)QA Assistant Leads<==>Ayudantes del jefe de control de calidad-->Ajudantes do Chefe de Controle de Qualidade
 (1760-IGUAIS)Bernardo Colmegna
 (1761-IGUAIS)Julian  De Nicola
 (1762-IGUAIS)Federico Alvarez Diaz
