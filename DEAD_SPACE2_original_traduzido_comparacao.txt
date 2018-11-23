@@ -67,7 +67,7 @@
 (0067)BLOODY JAVELIN GUN<==>CAÑÓN JABALINA SANGRIENTO-->CANHÃO DE DARDOS SANGRENTO
 (0068)+{n}\nKILL STREAK 10<==>+{n}\n10 BAJAS-->+{n}\n10 BAIXAS
 (0069)+{n}\nKILL STREAK 20<==>+{n}\n20 BAJAS-->+{n}\n20 BAIXAS
-(0070)   Activate the gravity tethers.<==>Activa los anclajes gravitatorios.-->   Ative as âncoras gravitacionais.
+(0070)   Activate the gravity tethers.<==>Activa los anclajes gravitatorios.-->   Ative as travas gravitacionais.
 (0071-IGUAIS)2
 (0072)Telekinetic Surgical\nBinding Active<==>Inmovilización quirúrgica\ntelequinética activa-->Imobilização Cirúrgica\nCinética Ativa
 (0073)Lead Environment Artists<==>Jefes de diseño de entornos-->Chefe de Artes de Ambientes
@@ -186,7 +186,7 @@
 (0186)Lead Gameplay Animator<==>Jefe de animación de juego-->Chefe de Animação do Jogo
 (0187)MAINTENANCE BAY KEY<==>LLAVE MANTENIMIENTO-->CHAVE DA PLATAFORMA DE MANUTENÇÃO
 (0188)destroy<==>Destruir-->destruir
-(0189)Government Sector is still slipping away! I need to activate the gravity tethers to snare it and realign it with the Sprawl. That should give Ellie and Stross enough time to get across.<==>¡El sector gubernamental sigue fuera de nuestro alcance! Necesito activar los anclajes gravitatorios para atraparlo y realinearlo con El Eje. Eso debería darles a Ellie y Stross suficiente tiempo para cruzar.-->O Setor Governamental continua fora do nosso alcance! Preciso ativar as âncoras gravitacionais para amarrá-lo e realinhar com o Eixo. Isso deveria dar a Ellie e ao Stross um tempo suficiente para atravessar.
+(0189)Government Sector is still slipping away! I need to activate the gravity tethers to snare it and realign it with the Sprawl. That should give Ellie and Stross enough time to get across.<==>¡El sector gubernamental sigue fuera de nuestro alcance! Necesito activar los anclajes gravitatorios para atraparlo y realinearlo con El Eje. Eso debería darles a Ellie y Stross suficiente tiempo para cruzar.-->O Setor Governamental continua fora do nosso alcance! Preciso ativar as travas gravitacionais para amarrá-lo e realinhar com o Eixo. Isso deveria dar a Ellie e ao Stross um tempo suficiente para atravessar.
 (0190)Secondary Fire DAM +10% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] for a short range, high powered blast of kinetic energy with wide area of effect.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] for a long range, tight radius energy projection.<==>DÑO disparo secundario: +10% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar una potente ráfaga de energía cinética de corto alcance con un gran radio de acción.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar energía de largo alcance y radio ajustado.-->DANO do disparo secundário +10% / VEL. +5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar uma potente rajada de energia cinética de curto alcance e com um grande raio de ação.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: pressione [rstop] para lançar energia de longo alcance e raio ajustado. 
 (0191)Rendezvous with Daina's team.<==>Reunión con el equipo de Daina.-->Encontro com a equipe de Daina.
 (0192)TWINKLE, TWINKLE<==>ESTRELLITA-->BRILHA, BRILHA
@@ -1659,43 +1659,43 @@
 (1659)PLAYGROUP<==>GRUPO DE JUEGO-->GRUPO DE JOGO
 (1660)QA<==>Control de calidad-->Controle de Qualidade
 (1661)[MenuB]Back<==>[MenuB]Atrás-->[MenuB]Voltar
-(1662)Hacker Contact Beam Schematic<==>Diagrama de rayo de contacto de pirateo-->Diagrama do Raio de Contato Hackeado
+(1662)Hacker Contact Beam Schematic<==>Diagrama de rayo de contacto de pirateo-->Diagrama de raio de contato hacker
 (1663)invite Xbox LIVE Party<==>Invitar a Xbox LIVE Party-->invite Xbox LIVE Party
 (1664)//visuals<==>//Objetos visuales-->//visuais
-(1665)Captain Mathius' RIG, containing his access codes.<==>DRI del capitán Mathius que contiene sus códigos de acceso.-->DRI do Captain Mathius, contendo os códigos de acesso.
-(1666)You must be signed into an Xbox LIVE enabled gamer profile to access online content.<==>Para acceder al contenido online, es necesario iniciar sesión con un perfil de jugador con Xbox LIVE habilitado.-->Você deve estar conectado à Xbox Live para ter acesso aos conteúdos online.
+(1665)Captain Mathius' RIG, containing his access codes.<==>DRI del capitán Mathius que contiene sus códigos de acceso.-->DRI do capitão Mathius, contendo seus códigos de acesso.
+(1666)You must be signed into an Xbox LIVE enabled gamer profile to access online content.<==>Para acceder al contenido online, es necesario iniciar sesión con un perfil de jugador con Xbox LIVE habilitado.-->Você deve estar conectado na Xbox Live para ter acesso ao conteúdo online.
 (1667)RESTORED<==>ACTIVADO-->RESTAURADO
 (1668)name<==>Nombre-->Nome
 (1669)Chemical mixture with an alien DNA sample.<==>Compuesto químico con una muestra de ADN alienígena.-->Mistura química com uma amostra de DNA alienígena.
-(1670)Watch this space for upcoming announcements<==>Consulta próximos anuncios en este espacio.-->Veja neste local os próximos anúncios
+(1670)Watch this space for upcoming announcements<==>Consulta próximos anuncios en este espacio.-->Veja nesse local os próximos anúncios
 (1671)+{n} TRIPLE KILL<==>+{n} BAJA TRIPLE-->+{n} MORTE TRIPLA
-(1672)[RDLeft]EA Account [RDUp]Xbox LIVE Party [RDDown]select [RDRight]back<==>[RDLeft]Cuenta EA [RDUp]Xbox LIVE Party [RDDown]Seleccionar [RDRight]Atrás-->[RDLeft]EA Account [RDUp]Xbox LIVE Party [RDDown]select [RDRight]back
-(1673)aim (pull and hold)<==>apuntar (mantener pulsado)-->mirar (pressione e segure)
+(1672)[RDLeft]EA Account [RDUp]Xbox LIVE Party [RDDown]select [RDRight]back<==>[RDLeft]Cuenta EA [RDUp]Xbox LIVE Party [RDDown]Seleccionar [RDRight]Atrás-->[RDLeft]Conta EA [RDUp]Xbox LIVE Party [RDDown]Selecionar [RDRight]Voltar
+(1673)aim (pull and hold)<==>apuntar (mantener pulsado)-->mirar (mantenha pressionado)
 (1674-IGUAIS)Bryan Neider
-(1675)You can move items from the Inventory here.<==>Puedes mover objetos desde el inventario.-->Você pode mover os itens do inventário aqui.
+(1675)You can move items from the Inventory here.<==>Puedes mover objetos desde el inventario.-->Você pode mover itens do inventário para cá.
 (1676)Stasis Recharge<==>Estabilización-->Recarga de Estabilização
 (1677)Current<==>Actual-->Atual
-(1678)QA Director<==>Director de control de calidad-->Diretor do Controle de Qualidade
-(1679)Starting Stasis energy<==>Iniciando energía de estabilización-->Inciando energia de Estabilização
-(1680)You unlocked increased health for the Puker<==>Has desbloqueado más salud para el vomitador.-->Você desbloqueou mais saúde para o Puker
+(1678)QA Director<==>Director de control de calidad-->Diretor de Controle de Qualidade
+(1679)Starting Stasis energy<==>Iniciando energía de estabilización-->Iniciando energia de estabilização
+(1680)You unlocked increased health for the Puker<==>Has desbloqueado más salud para el vomitador.-->Você desbloqueou mais saúde para o vomitador
 (1681-IGUAIS)2
 (1682)reload<==>recargar-->Recarregar
 (1683)Audio Engineering<==>Ingeniería de sonido-->Engenharia de Áudio
 (1684-IGUAIS)Susan Santos
-(1685)KEY ITEMS<==>OBJ. CLAVE-->ÍTENS PRINCIPAIS
-(1686)Exit to 360 Dashboard? OR Continue without saving?<==>¿Salir a Interfaz Xbox? ¿O continuar sin guardar?-->Animação adicional
-(1687)Additional Animation<==>Animación adicional-->Tiro Secundário DAN +5% / REL -5%\n• [c=CUSTOM2] Tiro Primário [c=RESET]: pressione [rsbottom] para disparar um raio lateral de energia.  Pode cortar vários alvos de uma  só vez.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: pressione [rsbottom] para disparar uma mina de energia programada.
-(1688)Secondary Fire DAM +5% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a wide energy beam.  Can slice many objects at once.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a timed energy mine.<==>DÑO disparo secundario: +5% / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo de energía ancho. Muy útil para cortar varios objetos a la vez.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para disparar una mina de energía temporizada.-->Laboratório de Masterização
-(1689)EARS Mastering Lab<==>Laboratorio de masterización-->TRAJE DE SEGURANÇA DO GOVERNO
-(1690)EARTHGOV SECURITY SUIT<==>TRAJE DE SEGURIDAD DEL GOBIERNO-->Criar ID da EA
+(1685)KEY ITEMS<==>OBJ. CLAVE-->ITENS PRINCIPAIS
+(1686)Exit to 360 Dashboard? OR Continue without saving?<==>¿Salir a Interfaz Xbox? ¿O continuar sin guardar?-->Sair para a interface do Xbox? Ou continue sem salvar? 
+(1687)Additional Animation<==>Animación adicional-->Animação adicional
+(1688)Secondary Fire DAM +5% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a wide energy beam.  Can slice many objects at once.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a timed energy mine.<==>DÑO disparo secundario: +5% / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo de energía ancho. Muy útil para cortar varios objetos a la vez.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para disparar una mina de energía temporizada.-->DANO Disparo Secundário +5% / REC -5%\n• [c=CUSTOM2] Disparo Primário [c=RESET]: pressione [rsbottom] para disparar um raio espesso de energia.  Muito útil para cortar vários objetos de uma vez.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rsbottom] para disparar uma mina de energia temporizada. 
+(1689)EARS Mastering Lab<==>Laboratorio de masterización-->Laboratório de Masterização
+(1690)EARTHGOV SECURITY SUIT<==>TRAJE DE SEGURIDAD DEL GOBIERNO-->TRAJE DE SEGURANÇA DO GOVERNO
 (1691-IGUAIS)Spark Chen
 (1692-IGUAIS)Joe Xu
-(1693)Beginning Full Diagnostic Scan<==>Comenzando escáner de diagnóstico completo-->Iniciando Escaner de completo de Diagnóstico
-(1694)Tiedemann's severed Government Sector from the rest of the Sprawl! It's slipping away, and so are my chances of destroying the Marker.\n\nBut I have a plan. The Ishimura's gravity tethers are strong enough to hold an entire planetary hemisphere - I should be able to use them to snare Government Sector long enough to get across.<==>¡Tiedemann ha separado el sector gubernamental del resto del Eje! Se está alejando, y con él, mis posibilidades de destruir la Efigie.\n\nPero tengo un plan. Los anclajes gravitatorios del Ishimura son lo bastante fuertes como para atraer un hemisferio planetario entero, debería poder usarlos para atrapar el sector gubernamental el tiempo suficiente como para acceder a él.-->Tiedemann separou o Setor Governamental do resto do Sprawl! Está se perdendo,  e essas são as minhas chances de destruir a Marker.\n\nMas eu tenho um plano. As amarras de Gravidade da Ishimura é forte o suficiente para manter todo um hemisfério do planeta - eu deveria ser capaz de usá-los para atrapalhar o Setor Governamental por tempo suficiente para atravessar.
-(1695)Human Boosters<==>Impulsores humanos-->Human Boosters
+(1693)Beginning Full Diagnostic Scan<==>Comenzando escáner de diagnóstico completo-->Iniciando escaner de diagnóstico
+(1694)Tiedemann's severed Government Sector from the rest of the Sprawl! It's slipping away, and so are my chances of destroying the Marker.\n\nBut I have a plan. The Ishimura's gravity tethers are strong enough to hold an entire planetary hemisphere - I should be able to use them to snare Government Sector long enough to get across.<==>¡Tiedemann ha separado el sector gubernamental del resto del Eje! Se está alejando, y con él, mis posibilidades de destruir la Efigie.\n\nPero tengo un plan. Los anclajes gravitatorios del Ishimura son lo bastante fuertes como para atraer un hemisferio planetario entero, debería poder usarlos para atrapar el sector gubernamental el tiempo suficiente como para acceder a él.-->Tiedemann separou o setor governamental do resto do Eixo! Está se afastando,  e com ele minhas chances de destruir o Marker.\n\nMas tenho um plano. As travas gravitacionais da Ishimura são forte o suficiente para segurar todo um hemisfério do planeta - eu deveria usá-los para distrair o setor governamental por tempo suficiente para poder atravessar.
+(1695)Human Boosters<==>Impulsores humanos-->Impulsores humanos
 (1696)Escape the hospital.<==>Huye del hospital.-->Fuja do hospital.
 (1697)extras<==>Extras-->Extras
-(1698)Continue free trial ({h} hours remaining).<==>Continúa con la versión de prueba gratuita (quedan {h} horas).-->Continuar na versão de teste gratuita nas ({h} horas restantes).
+(1698)Continue free trial ({h} hours remaining).<==>Continúa con la versión de prueba gratuita (quedan {h} horas).-->Continuar com a versão de teste gratuita nas ({h} horas restantes).
 (1699)FORGED LINE GUN<==>CAÑÓN LINEAL FORJADO-->CANHÃO LINEAR FORJADO
 (1700-IGUAIS)1
 (1701)DETONATOR<==>DETONADOR-->DETONADOR
@@ -1703,7 +1703,7 @@
 (1703-IGUAIS)Rafael Sabino
 (1704)Unlock Security Doors<==>Desbloquea las puertas de seguridad.-->Desbloqueie as Portas de Segurança
 (1705){g} (default)<==>{g} (predet.)-->{g} (padrão)
-(1706)Gravity Tethers: ENGAGED<==>Anclajes gravitatorios: ACTIVADOS-->Amarras de Gravidade: CONECTADO
+(1706)Gravity Tethers: ENGAGED<==>Anclajes gravitatorios: ACTIVADOS-->travas de Gravidade: CONECTADO
 (1707)You unlocked increased damage for the Force Gun<==>Has desbloqueado más daño para el cañón de energía.-->Você desbloqueou mais danos para o Canhão de Energia
 (1708)Senior Producer<==>Productor sénior-->Produtor Sênior
 (1709-IGUAIS)EA Canada
@@ -3436,7 +3436,7 @@
 (3436)WARNING: ZERO GRAVITY AREA<==>ATENCIÓN: ZONA DE GRAVEDAD CERO-->ATENÇÃO: ZONA DE GRAVIDADE ZERO
 (3437)Trains Delayed. Limited Service Available.<==>Trenes retrasados. Servicio limitado disponible.-->Trens Atrasados. Serviço limitado disponível.
 (3438)MALFUNCTION: Elevator Disengaged at Lower Deck<==>FALLO DEL SISTEMA: Ascensor desacoplado en la cubierta inferior-->FALHA DO SISTEMA: Elevador desacoplado na Plataforma Inferior
-(3439)Elevator Online: Gravity Tethers Active<==>Ascensor operativo: anclajes gravitatorios activos-->Elevador Online: Correntes de Gravidade Ativas
+(3439)Elevator Online: Gravity Tethers Active<==>Ascensor operativo: anclajes gravitatorios activos-->Elevador Online: travas de Gravidade Ativas
 (3440)      Next Stop: Shopping Warren A14. Home of Titan Elementary School. Go Space Tigers!<==>      Próxima parada: Compras Warren A14. Hogar de la Escuela de Enseñanza Primaria Titán. ¡Aúpa, Tigres espaciales!-->      Próxima Parada: Shopping Warren A14. Casa da Escola Elementar Titan. Vão Tigres Espaciais!
 (3441)QUICK MAP<==>MAPA-->MAPA
 (3442)SG{s} - chapter {c}<==>PG{s} - capítulo {c}-->PG{s} - capítulo {c}
@@ -3479,7 +3479,7 @@
 (3479-IGUAIS)Andrew Hill
 (3480)   Investigate the obstruction.<==>Investiga la obstrucción.-->   Investigue a obstrução.
 (3481)KLYSTRON<==>KLISTRÓN-->KLYSTRON
-(3482)Tethers must be deactivated<==>Los anclajes deben estar desactivados-->As âncoras devem ser desativadas
+(3482)Tethers must be deactivated<==>Los anclajes deben estar desactivados-->As travas devem ser desativadas
 (3483-IGUAIS)Niall Hayes
 (3484-IGUAIS)Paul Mathus
 (3485-IGUAIS)David Yee
@@ -4178,11 +4178,11 @@
 (4178)Oh. God. Come on.<==>Oh dios, vamos.-->Oh. Deus. Vamos.
 (4179)He's using the solar beam! We have to stop the transport! Now!<==>¡Va a utilizar el haz solar! ¡Hay que detener el transporte! ¡Ahora! ¡Uh!-->Ele está usando o feixe solar! Temos que parar o transporte! Agora!
 (4180)Back us up!  Back us up to that station!<==>¡Cúbrenos! ¡Hasta esa estación!-->Cubra-nos!  Cubra-nos até esta estação!
-(4181)Just do it, Ellie! Hurry!  Uh!  The Ishimura. If the gravity tethers are still functional I can-<==>¡Tú hazlo, rápido! ¡Uh! El Ishimura. Si los anclajes gravitatorios siguen operativos...-->Apenas o faça, Ellie! Depressa!  Ei!  A Ishimura. Se as âncoras gravitacionais ainda estiver funcionando eu posso...
+(4181)Just do it, Ellie! Hurry!  Uh!  The Ishimura. If the gravity tethers are still functional I can-<==>¡Tú hazlo, rápido! ¡Uh! El Ishimura. Si los anclajes gravitatorios siguen operativos...-->Apenas o faça, Ellie! Depressa!  Ei!  A Ishimura. Se as travas gravitacionais ainda estiver funcionando eu posso...
 (4182)If I can line up the tracks for a few seconds you should be able to get the Transport across. Stay ready, and take care of Stross.<==>Si consigo alinear las vías unos segundos podrías hacer cruzar el transporte. Prepárate, y cuida de Stross.-->Se eu puder alinhar as faixas por alguns segundos, você deverá ser capaz de conseguir cruzar o Transporte. Fique pronto, e cuide de Stross.
 (4183)Stick around. I'm full of bad ideas.<==>No te vayas. Tengo un montón de malas ideas.-->Fique por perto. Estou cheio de más idéias.
 (4184)You're not going to break me.<==>No me doblegarás.-->Você não vai me enrolar.
-(4185)Ellie? I'm almost to the Captain's Nest to activate the tethers.<==>¿Ellie? Casi estoy en el refugio del capitán para activar los anclajes.-->Ellie? Estou quase no Ninho do Capitão para ativar as âncoras.
+(4185)Ellie? I'm almost to the Captain's Nest to activate the tethers.<==>¿Ellie? Casi estoy en el refugio del capitán para activar los anclajes.-->Ellie? Estou quase no Ninho do Capitão para ativar as travas.
 (4186)No, just go! I'll use one of the escape pods and meet you there! Now go!<==>¡No, tú vete! ¡Yo iré por una de las cápsulas de escape y te encontraré allí! ¡Vete ya!-->Não, apenas vá! Vou usar uma das cápsulas de fuga e te encontro lá! Agora vai!
 (4187)Time to go…<==>Hora de irse...-->Hora de partir…
 (4188)I don't know. I don't know what you are, okay?<==>No lo sé. No sé lo que eres.-->Eu não sei. Eu não sei o que você é, ok?
@@ -4482,7 +4482,7 @@
 (4482)Yeah, I see tube paths on the floating components.   I think I can match them up with the right sockets. <==>Sí, veo conexiones de tubos en los componentes que flotan. Creo que puedo encajarlos en sus tomas.-->Sim, eu vejo conexões de tubos sobre os componetes flutuantes.   Eu acho que posso combiná-los com os soquetes da direita.   
 (4483)I know, I'm going as fast as I can.  Look, I'll contact you when I'm done.<==>Lo sé, voy lo más rápido que puedo. Oye, te llamaré cuando termine.-->Eu sei, estou indo o mais rápido que eu posso.  Olha, Entrarei em contato com você quando terminar.
 (4484)What? Oh shit. Are you okay?<==>¿Qué? Mierda. ¿Estás bien?-->O quê? Oh merda. Você está bem?
-(4485)I'm almost there. I'm headed to the bridge now to activate the gravity tethers.<==>Ya casi estoy. Me dirijo al puente para activar los anclajes gravitatorios.-->Estou quase lá. Esto indo para a ponte para ativar as âncoras gravitacionais.
+(4485)I'm almost there. I'm headed to the bridge now to activate the gravity tethers.<==>Ya casi estoy. Me dirijo al puente para activar los anclajes gravitatorios.-->Estou quase lá. Esto indo para a ponte para ativar as travas gravitacionais.
 (4486)Crap. <==>Mierda.-->Merda. 
 (4487)Alright, I'm on my way back up.<==>Muy bien, ya voy de vuelta.-->Tudo bem, estou retomando o meu caminho.
 (4488)No, still looking.  Just one more, right?<==>No, sigo buscando. Solo queda una, ¿verdad?-->Não, ainda estou procurando.  Só mais um, tudo bem?
@@ -4659,7 +4659,7 @@
 (4659)Are you sure you want to overwrite %1 on storage device %2?<==>¿Seguro que quieres sobrescribir %1 en el dispositivo de almacenamiento %2?-->Tem certeza que quer substituir %1?
 (4660-IGUAIS)1
 (4661)Travel<==>Viaje-->Viagem
-(4662)Gravity Tethers: OFFLINE<==>Anclajes gravitatorios: DESACTIVADOS-->Âncoras Gravitacionais: OFFLINE
+(4662)Gravity Tethers: OFFLINE<==>Anclajes gravitatorios: DESACTIVADOS-->travas Gravitacionais: OFFLINE
 (4663)prevent the delivery of the linac<==>Evita que el linac llegue al banco de trabajo.-->evite que o linac chegue ao seu destino
 (4664)Unlocked at level 16<==>Desbloqueado en el nivel 16-->Desbloqueado no nível 16
 (4665)AIR<==>AIRE-->AR
@@ -5230,7 +5230,7 @@
 (5230)It does, and it is. Goodbye, Clarke.<==>Sí tiene, y lo es. Adiós, Clarke.-->Sim tem, e é. Adeus, Clarke.
 (5231)In another situation, I might admire your persistence, Mr. Clarke. But this is bigger than you and bigger than the lives of everyone on this station.<==>En otras circunstancias admiraría tu tenacidad, Clarke, pero todo esto te supera a ti y a todos los habitantes de esta estación.-->Em outra situação, eu admiraria sua persistência, Sr. Clarke. Mas isso é maior que você e maior que qualquer um que viva nessa estação.
 (5232)It looks like this ends here. At this point, it's all just… dead weight.<==>Parece que esto es el fin. Llegados a este punto, el resto es... lastre.-->Parece que tudo acaba aqui. Nesse ponto, tudo é apenas um… peso morto.
-(5233)Clarke! You idiot! Those gravity tethers will tear the whole moon apart! Cl…<==>¡Clarke! ¡CLARKE! ¡Idiota! ¡Esos anclajes gravitatorios harán pedazos el satélite entero! Clar...-->Clarke! Seu idiota! Essas Âncoras Gravitacionais irão fazer o satélite inteiro em pedaços! Cl…
+(5233)Clarke! You idiot! Those gravity tethers will tear the whole moon apart! Cl…<==>¡Clarke! ¡CLARKE! ¡Idiota! ¡Esos anclajes gravitatorios harán pedazos el satélite entero! Clar...-->Clarke! Seu idiota! Essas travas Gravitacionais irão fazer o satélite inteiro em pedaços! Cl…
 (5234)I don't know what Providence protects you, Clarke, but it ends here. I have two hundred armed security personnel… Every entrance is covered! Even if you do get in, you won't get far.<==>No sé qué clase de providencia te protege, Clarke, pero, aquí llega a su fin. Dispongo de doscientos efectivos de seguridad armados. Todas las entradas están cubiertas. Aunque consiguieras entrar, no llegarías muy lejos.-->Eu não sei qual Providência te proteje, Clarke, mas isso acaba aqui. Eu tenho duzentos seguranças pessoais armados… Todas as entradas estão cobertas! Mesmo se você entrar, não irá muito longe.
 (5235)Y-you compromised the compound, you… idiot! If any of them reach the Marker…<==>¡Has puesto en peligro el recinto, idiota! Si alguno de ellos llega a la Efigie...-->V...você comprometeu a instalação, seu… idiota! Se algum deles alcançar o Marker…
 (5236)Fall back! Fall back to the Marker chamber! We have to seal it off!<==>¡Atrás! ¡Replegaos a la cámara de la Efigie! ¡Tenemos que sellarla!-->Recuem! Recuem para a câmara do Marker! Nós temos que sela-la!
@@ -5473,7 +5473,7 @@
 (5473)Production Babies<==>Bebés de producción-->Bebês da Produção
 (5474)ENTER?<==>¿ENTRAR?-->ENTRAR?
 (5475)Purchase, sell, and store your items.<==>Vende, compra y almacena tus objetos.-->Compre, venda, e guarde seus itens.
-(5476)Centrifuge is online! To get the gravity tethers fired up, I'll have to hustle to the Bridge Deck, where the controls are located.<==>¡Centrifugadora en marcha! Para activar los anclajes gravitatorios, tendré que ir a la cubierta del puente, que es donde están los controles.-->A centrifuga está ligada! Para ativar as âncoras gravitacionais, eu vou ter que ir até o Deck da Ponte, onde estão localizados os controles.
+(5476)Centrifuge is online! To get the gravity tethers fired up, I'll have to hustle to the Bridge Deck, where the controls are located.<==>¡Centrifugadora en marcha! Para activar los anclajes gravitatorios, tendré que ir a la cubierta del puente, que es donde están los controles.-->A centrifuga está ligada! Para ativar as travas gravitacionais, eu vou ter que ir até o Deck da Ponte, onde estão localizados os controles.
 (5477)We lost him!  He dropped the data disc!  Get it!<==>¡Lo hemos perdido! ¡Ha soltado el disco! ¡Cogedlo!-->Nós o perdemos! Ele derrubou o disco de dados! Peguem-no!
 (5478)We've got to take out as many of them as we can before they  reach the public sector!<==>Bien, ¡Proteged el núcleo, no les dejéis destruirlo, tenemos 1 minuto!-->Nós temos que acabar com a maioria deles que conseguirmos antes que eles alcancem o setor público!
 (5479)Oh shit!  The second unit's down!  Only one left!<==>¡Joder! ¡La segunda unidad no va! ¡Solo queda una!-->Merda! A segunda unidade já era! Apenas uma restando!
@@ -5620,7 +5620,7 @@
 (5620)CONFIRM<==>CONFIRMAR-->CONFIRMAR
 (5621)%s has been added to your friends list.<==>Se ha añadido a %s a tu lista de amigos.-->foi adicionado %s à sua lista de amigos.
 (5622-IGUAIS)Isaac Clarke
-(5623)I can't go anywhere until this elevator is fixed. Zero G is enabled, and the magnetic tethers seem to be functioning. I just need to move the elevator into position somehow...<==>No puedo ir a ningún sitio hasta que este ascensor esté arreglado. La gravedad cero está activada y los anclajes magnéticos parecen funcionar. Solo necesito mover el ascensor a su posición de alguna forma...-->Não posso ir a lugar nenhum até esse elevador esteja consertado. A gravidade Zero está ativada, e as correntes magnéticas parecem estar funcionando. Eu só preciso mover o elevador para sua posição de alguma forma...
+(5623)I can't go anywhere until this elevator is fixed. Zero G is enabled, and the magnetic tethers seem to be functioning. I just need to move the elevator into position somehow...<==>No puedo ir a ningún sitio hasta que este ascensor esté arreglado. La gravedad cero está activada y los anclajes magnéticos parecen funcionar. Solo necesito mover el ascensor a su posición de alguna forma...-->Não posso ir a lugar nenhum até esse elevador esteja consertado. A gravidade Zero está ativada, e as travas magnéticas parecem estar funcionando. Eu só preciso mover o elevador para sua posição de alguma forma...
 (5624)Start a new game<==>Empieza una nueva partida.-->Comece um novo jogo
 (5625)MOVEMENT<==>MOVIMIENTO-->MOVIMENTO
 (5626-IGUAIS)2
@@ -5796,7 +5796,7 @@
 (5796)Use Kinesis on GRIP enabled objects.<==>Utiliza la cinética con objetos que tengan el símbolo GRIP.-->Use a cinética em objetos que tenham o símbolo GRIP.
 (5797-IGUAIS)Colin Boswell
 (5798)Shoot lockdown switch to stop decompression.<==>Dispara al interruptor de bloqueo para detener la descompresión.-->Atire no interruptor de bloqueio para parar a descompressão.
-(5799)Activate Gravity Tethers?<==>¿Activar anclajes gravitatorios?-->Ativar Correntes Gravitacionais?
+(5799)Activate Gravity Tethers?<==>¿Activar anclajes gravitatorios?-->Ativar travas Gravitacionais?
 (5800)SOLAR ARRAY HALO EXIT<==>SALIDA DEL HALO DEL PANEL SOLAR-->SAÍDA DE HALO DO PAINEL SOLAR
 (5801)Test Speakers<==>Comprobar altavoces-->Teste de Alto-falantes
 (5802)destroy the detonator<==>Destruye el detonador.-->Destrua o detonador
@@ -6064,7 +6064,7 @@
 (6064)ALMOST GOT YOU 2<==>CASI CASI 2-->QUASE TE PEGOU 2
 (6065)ALMOST GOT YOU 3<==>CASI CASI 3-->QUASE TE PEGOU 3
 (6066)Load Chemical Agents<==>Cargar agentes químicos-->Carregar Agentes Químicos
-(6067)The Ishimura has been space-docked at the Sprawl for three years. Before I can fire up the gravity tethers, I have to get on board.<==>El Ishimura lleva atracado en El Eje tres años. Para poder activar los anclajes gravitatorios, tengo que subir a bordo.-->A Ishimura está ancorado no Sprawl por três anos. Antes que eu possa ativar as âncoras gravitacionais, tenho que subir a bordo.
+(6067)The Ishimura has been space-docked at the Sprawl for three years. Before I can fire up the gravity tethers, I have to get on board.<==>El Ishimura lleva atracado en El Eje tres años. Para poder activar los anclajes gravitatorios, tengo que subir a bordo.-->A Ishimura está ancorado no Sprawl por três anos. Antes que eu possa ativar as travas gravitacionais, tenho que subir a bordo.
 (6068)TRIAGE SUIT<==>TRAJE DE SELECCIÓN-->TRAJE DE SELAÇÃO
 (6069)RIVET BOLTS<==>ROBLONES-->PARAFUSOS REBITES
 (6070)PROGRESS REPORT 4<==>PROGRESS REPORT 45Åàeå£-->PROGRESS REPORT 4
@@ -6103,7 +6103,7 @@
 (6103)MAKE FOR THE BRIDGE<==>RUMBO AL PUENTE-->RUMO A PONTE
 (6104)TICK TOCK<==>TIC TAC-->TIC TAC
 (6105)CAPTAIN'S NEST<==>REFUGIO DEL CAPITÁN-->REFÚGIO DO CAPITÃO
-(6106)TETHERS ENGAGED<==>ANCLAJES ACTIVADOS-->ÂNCORAS ATIVADAS
+(6106)TETHERS ENGAGED<==>ANCLAJES ACTIVADOS--TRAVAS ATIVADAS
 (6107)HERE THEY COME<==>¡AQUÍ VIENEN!-->AQUI VEM ELES
 (6108)STROSS STRESS<==>EL ESTRÉS DE STROSS-->O STRESS DE STROSS
 (6109)CENTRIFUGE HINT<==>PISTA DE CENTRIFUGADORA-->DICA DE CENTRIFUGADORA
@@ -6855,7 +6855,7 @@
 (6855)Playground Warning: No teacher on Duty<==>Alerta en el patio: no hay ningún profesor vigilando-->Aviso do Playground: Nenhum professor Trabalhando
 (6856)To Transport Hub.    Do not board train without parental supervision.<==>Para o centro de transporte. Prohibido subir al tren sin supervisión paterna.-->A estação de Transporte. Proibido subir a bordo sem a supervisão dos pais.
 (6857-IGUAIS)Make Us Whole Make Us Whole Make Us Whole Make Us Whole Make Us Whole Make Us Whole
-(6858)Snare Government Sector with the Ishimura's gravity tethers.<==>Atrapa el sector gubernamental con los anclajes gravitatorios del Ishimura.-->Capture o Setor Governamental com a ancora gravitaciona da Ishimura.
+(6858)Snare Government Sector with the Ishimura's gravity tethers.<==>Atrapa el sector gubernamental con los anclajes gravitatorios del Ishimura.-->Capture o Setor Governamental com a trava gravitacional da Ishimura.
 (6859)///audio<==>///Sonido-->///audio
 (6860)acquire<==>Adquirir-->adquirir
 (6861)LINE RACKS\nSchematic Acquired\nDownload at the Store<==>MUNICIÓN LINEAL\nDiagrama adquirido\nDescargar en el almacén-->MUNIÇÃO LINEAR\nEsquemas Adquiridos\nFaça o Download na Loja
