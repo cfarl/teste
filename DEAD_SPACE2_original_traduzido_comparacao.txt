@@ -1899,7 +1899,7 @@
 (1899-IGUAIS)Chuck Beaver
 (1900-IGUAIS)Credit 21
 (1901-IGUAIS)Credit 22
-(1902)VIDEOLOG\nDELETED<==>REGISTRO VISUAL\nELIMINADO-->REGISTRO VISUAL\nAPAGADO
+(1902)VIDEOLOG\nDELETED<==>REGISTRO VISUAL\nELIMINADO-->REGISTRO VISUAL\nELIMINADO
 (1903-IGUAIS)1
 (1904)[MenuA]CONTINUE [MenuB]BACK<==>[MenuA]CONTINUAR [MenuB]ATRÁS-->[MenuA]CONTINUAR [MenuB]VOLTAR
 (1905)Senior Director Online Marketing<==>Director de marketing online sénior-->Diretor de Marketing Online Sênior
@@ -1915,7 +1915,7 @@
 (1915)CLONE INSTALL<==>INSTALACIÓN DE CLONES-->INSTALAÇÃO DE CLONES
 (1916)CLONE HARVEST<==>COSECHA DE CLONES-->COLHEITA DE CLONES
 (1917)BOIL AWAY<==>VOLATILIZACIÓN-->EVAPORAÇÃO
-(1918)DELAYED<==>RETRASADO-->ADIADA
+(1918)DELAYED<==>RETRASADO-->ATRASADO
 (1919-IGUAIS)Rami Khayyat
 (1920-IGUAIS)James DeGuzman
 (1921)///select difficulty<==>///Seleccionar dificultad-->///Selecionar dificuldade
@@ -1925,20 +1925,20 @@
 (1925)Engineering Elite Suit<==>TRAJE DE INGEN. DE ELITE-->Traje de Engenheiro de Elite
 (1926-IGUAIS)Æ
 (1927-IGUAIS)U
-(1928)Heavy damage energy projector.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] to charge a high intensity blast, then release.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a blast of kinetic energy into the ground to push away all nearby objects.<==>Proyector de energía de gran daño.\n• [c=CUSTOM2] Disp. principal [c=RESET]: mantén pulsado [rsbottom] para cargar el disparo y suelta para disparar.\n• [c=CUSTOM2] Disp. secundario [c=RESET]: pulsa [rstop] para disparar energía cinética al suelo.-->Projetor de energia de alto dano.\n• [c=CUSTOM2] Tiro Principal [c=RESET]: segure [rsbottom] para carregar um tiro de alta intensidade e solte para atirar.\n• [c=CUSTOM2] Tiro secundário [c=RESET]: aperte [rstop] para atirar uma explosão de energia cinética no chão para afastar todos os objetos próximos.
-(1929)I don't know who the hell needs a whole roll of toilet paper to wipe their ass, but I'm gonna kick their ass if I ever find them.  This is the 5th week in a row that some jackass has clogged the toilets in here.  We're in space for crying out loud, if this plumbing gets jacked, someone has to space walk and get a helmet full of crap to clean it out.  KNOCK IT OFF.<==>No sé quién diablos necesita un rollo de papel higiénico entero para limpiarse el culo, pero si lo descubro, se lo pateo. Esta es la quinta semana seguida que algún gilipollas atasca los retretes. Estamos en el espacio, por el amor de Dios, si las cañerías se atascan, alguien tiene que darse un paseo espacial y llenarse el casco de mierda para desatascarlas. YA ESTÁ BIEN.-->Eu não sei quem diabos precisa de um rolo inteiro de papel higiênico para limpar a bunda, mas vou chutar a sua bunda se eu te encontrar. Essa é a 5ª semana seguida que algum idiota entope o banheiro aqui. Nós estamos no espaço, pelo amor de Deus, se este encanamento estourar, alguém vai ter que passear no espaço e pegar um capacete cheio de merda para limpar isso lá fora.  PAREM COM ISSO.
-(1930)Primary Fire DUR +1 sec / Secondary Fire DAM +10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to tether a blade in a short radius from the saw.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to eject a blade from the saw at high velocity.<==>DUR disparo principal: +1 seg. / DÑO disparo secundario: +10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para anclar una cuchilla en un radio corto.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una cuchilla desde la sierra a gran velocidad.-->DUR. do Tiro Principal: +1 seg / DANO do Tiro secundário: +10%\n• [c=CUSTOM2] Tiro Principal [c=RESET]: aperte [rsbottom] para amarrar uma lâmina em um curto raio da serra.\n• [c=CUSTOM2] Tiro secundário [c=RESET]: aperte [rstop] para ejetar uma lâmina da serra em alta velocidade.
+(1928)Heavy damage energy projector.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] to charge a high intensity blast, then release.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a blast of kinetic energy into the ground to push away all nearby objects.<==>Proyector de energía de gran daño.\n• [c=CUSTOM2] Disp. principal [c=RESET]: mantén pulsado [rsbottom] para cargar el disparo y suelta para disparar.\n• [c=CUSTOM2] Disp. secundario [c=RESET]: pulsa [rstop] para disparar energía cinética al suelo.-->Projetor de energia de grande dano.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: segure [rsbottom] para carregar o disparo e solte para disparar.\n• [c=CUSTOM2] Disparo secundário [c=RESET]: pressione [rstop] para disparar uma carga de energia cinética no chão. 
+(1929)I don't know who the hell needs a whole roll of toilet paper to wipe their ass, but I'm gonna kick their ass if I ever find them.  This is the 5th week in a row that some jackass has clogged the toilets in here.  We're in space for crying out loud, if this plumbing gets jacked, someone has to space walk and get a helmet full of crap to clean it out.  KNOCK IT OFF.<==>No sé quién diablos necesita un rollo de papel higiénico entero para limpiarse el culo, pero si lo descubro, se lo pateo. Esta es la quinta semana seguida que algún gilipollas atasca los retretes. Estamos en el espacio, por el amor de Dios, si las cañerías se atascan, alguien tiene que darse un paseo espacial y llenarse el casco de mierda para desatascarlas. YA ESTÁ BIEN.-->Eu não sei quem diabos precisa de um rolo inteiro de papel higiênico para limpar a bunda, mas se eu descubro quem é, chuto sua bunda. Essa é a quinta semana seguida que algum idiota entope o banheiro aqui. Nós estamos no espaço, pelo amor de Deus, se esse encanamento estourar, alguém vai ter que passear no espaço e pegar um capacete cheio de merda para limpar a bagunça.  PAREM COM ISSO.
+(1930)Primary Fire DUR +1 sec / Secondary Fire DAM +10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to tether a blade in a short radius from the saw.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to eject a blade from the saw at high velocity.<==>DUR disparo principal: +1 seg. / DÑO disparo secundario: +10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para anclar una cuchilla en un radio corto.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una cuchilla desde la sierra a gran velocidad.-->DUR do disparo principal: +1 seg / DANO do disparo secundário: +10%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: aperte [rsbottom] para lançar uma lâmina da serra a grande velocidade. \n• [c=CUSTOM2] Disparo secundário [c=RESET]: Pressione [rstop] para lançar uma lâmina da serra em graande velocidade.
 (1931){g} here is the email used for your EA Account:<==>{g}, aquí tienes el correo electrónico asociado a tu cuenta EA:-->{g} aqui está o email utilizado para sua Conta EA:
-(1932)quit lobby<==>Salir de punto de encuentro-->Fechar Sala
-(1933)The Contact Beam is the most powerful weapon, but requires a charge for each shot.<==>El rayo de contacto es el arma más potente, pero requiere una carga por cada disparo.-->O Raio de Contato é a arma mais poderosa, mas requer uma carga para cada disparo.
+(1932)quit lobby<==>Salir de punto de encuentro-->Sair do ponto de encontro
+(1933)The Contact Beam is the most powerful weapon, but requires a charge for each shot.<==>El rayo de contacto es el arma más potente, pero requiere una carga por cada disparo.-->O raio de contatoé a arma mais poderosa de todas, mas requer uma carga para cada disparo.
 (1934)prevent the delivery of the repair unit<==>Evita que la unidad de reparación llegue a su destino.-->evite que a unidade de reparos chegue ao seu destino
 (1935)SEEKER SHELLS\nSchematic Acquired\nDownload at the Store<==>PROYECTILES BUSCADORES\nDiagrama adquirido\nDescargar en el almacén-->ESCUDOS BUSCADORES\nDiagrama Adquirido\nBaixe na Loja
 (1936)Detonator<==>Detonador-->Detonador
 (1937)Schematic type temp<==>Tipo de diagrama temporal-->Tipo de diagrama temporal
 (1938)Hacker Suit Schematic<==>Diagrama de traje de pirateo-->Diagrama do Traje Hacker
 (1939)FEEDING PROCESS INITIATED<==>PROCESO DE ALIMENTACIÓN INICIADO-->PROCESSO DE ALIMENTAÇÃO INICIADO
-(1940)LARGE CURRENCY<==>DIVISA GRANDE-->GRANDE ACEITAÇÃO
-(1941)Bring this schematic to the store to unlock the Detonator Mines.<==>Lleva este diagrama al almacén para desbloquear las minas de detonación.-->Leve este diagrama até a Loja para desbloquear as Minas de Detonação.
+(1940)LARGE CURRENCY<==>DIVISA GRANDE-->GRANDE CAPITAL
+(1941)Bring this schematic to the store to unlock the Detonator Mines.<==>Lleva este diagrama al almacén para desbloquear las minas de detonación.-->Leve esse diagrama até a loja para desbloquear as minas de detonação.
 (1942-IGUAIS)5.1 Surround
 (1943)Solid Red<==>Rojo liso-->Vermelho Liso
 (1944-IGUAIS)4
