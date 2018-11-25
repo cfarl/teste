@@ -1810,55 +1810,55 @@
 (1810-IGUAIS)Andrew Boyd
 (1811)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado ao matar quem o carrega
 (1812-IGUAIS)1
-(1813)Detonator Mine Schematic<==>Diagrama de mina de detonación-->Diagrama do Detonador de Minas
-(1814)Secondary Fire DAM +10% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a wide energy beam.  Can slice many objects at once.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a timed energy mine.<==>DÑO disparo secundario: +10% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo de energía ancho. Muy útil para cortar varios objetos a la vez. \n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para disparar una mina de energía temporizada.-->Tiro Secundário, DAN +10% / SPD +5%\n• [c=CUSTOM2] Tiro Principal [c=RESET]: pressione [rsbottom] para disparar um feixe lateral de energia.  Muito útil para o corte de vários alvos de uma vez.\n• [c=CUSTOM2] Tiro Secundário [c=RESET]: pressione [rstop] para disparar uma mina de energia programada.
-(1815)you now have the ability to equip the plasma cutter\nprimary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>Ahora ya puedes equipar la cortadora de plasma\ndisparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->Agora você pode equipar o cortador a plasma\nTiro Principal: corte mineral de alta energia\nTiro Alternativo: alterna a orientação do feixe
-(1816)Full Screen<==>Pantalla completa-->Tela-Cheia
+(1813)Detonator Mine Schematic<==>Diagrama de mina de detonación-->Diagrama de mina de detonação
+(1814)Secondary Fire DAM +10% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a wide energy beam.  Can slice many objects at once.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a timed energy mine.<==>DÑO disparo secundario: +10% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo de energía ancho. Muy útil para cortar varios objetos a la vez. \n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para disparar una mina de energía temporizada.-->DANO disparo secundário +10% / VEL +5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um largo raio de energia.  Muito útil para cortar vários objetos de uma vez.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar uma mina de energia temporizada.
+(1815)you now have the ability to equip the plasma cutter\nprimary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>Ahora ya puedes equipar la cortadora de plasma\ndisparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->Você agora pode equipar a cortadora de plasma\nDisparo Principal: cortadora de mineral de grande energia\nDisparo secundário: alterna a orientação do raio
+(1816)Full Screen<==>Pantalla completa-->Tela cheia
 (1817-IGUAIS)Claudio Alvaro
 (1818)rig<==>DRI-->DRI
 (1819)run<==>correr-->correr
 (1820-IGUAIS)Dean Grandquist
 (1821)Animators<==>Animadores-->Animadores
-(1822)MISSION: Trapped in the Titan Mines and surrounded by Necromorphs, Tiedemann's security forces attempt to stop the outbreak by constructing a Shockmine.<==>MISIÓN: Atrapadas en las minas Titán y rodeadas por necromorfos, las fuerzas de seguridad de Tiedemann intentan detener el brote mediante la construcción de una mina expansiva.-->MISSÃO: Preso em Minas Titan e rodeado por Necromorphs, as forças de segurança de Tiedemann tentaram deter o surto na construção de uma Mina Extratora.
+(1822)MISSION: Trapped in the Titan Mines and surrounded by Necromorphs, Tiedemann's security forces attempt to stop the outbreak by constructing a Shockmine.<==>MISIÓN: Atrapadas en las minas Titán y rodeadas por necromorfos, las fuerzas de seguridad de Tiedemann intentan detener el brote mediante la construcción de una mina expansiva.-->MISSÃO: Preso nas Minas Titan e rodeado por necromorfos, as forças de segurança de Tiedemann tentam deter a epidemia por meio da construção de uma mina expansiva.
 (1823)PATROL SUIT<==>TRAJE DE PATRULLA-->TRAJE DE PATRULHA
 (1824-IGUAIS)$
 (1825-IGUAIS)m
 (1826-IGUAIS)$
 (1827-IGUAIS)M
-(1828)Bring this schematic to the store to unlock the Detonator.<==>Lleva este diagrama al almacén para desbloquear el detonador.-->Leve este diagrama à loja para desbloquear o Detonador.
+(1828)Bring this schematic to the store to unlock the Detonator.<==>Lleva este diagrama al almacén para desbloquear el detonador.-->Leve este diagrama à loja para desbloquear o detonador.
 (1829)video_log_6_5<==>video_log_6_53Åàe-->video_log_6_5
 (1830-IGUAIS)Bryan E. Woods
 (1831)mp suit<==>traje mj-->Traje MP
 (1832)REPAIR UNIT<==>UNIDAD DE REPARACIÓN-->UNIDADE DE REPARAÇÃO
-(1833)INSERT COMPOUND<==>INTRODUCIR COMPUESTO-->INSERIR COMPOSTO
-(1834)NANO-CIRCUIT REPAIR<==>REPARACIÓN DE NANOCIRCUITO-->NANO-CIRCUITO DE REPARO
+(1833)INSERT COMPOUND<==>INTRODUCIR COMPUESTO-->INTRODUZIR COMPOSTO
+(1834)NANO-CIRCUIT REPAIR<==>REPARACIÓN DE NANOCIRCUITO-->REPARAÇÃO DE NANO-CIRCUITO 
 (1835-IGUAIS)v.4.1\nFIRMWARE 2.051B
 (1836)Removed from Session<==>Eliminado de la sesión-->Eliminado da sessão
-(1837)single player<==>Un jugador-->Um Jogador
-(1838)--:--  9271 GALILEO SQUARE          CANCE  -----<==>--:--  PLAZA GALILEO 9271           CANC.  ------->--:-- PRAÇA GALILEO  9271       CANCELAR  -----
+(1837)single player<==>Un jugador-->Um jogador
+(1838)--:--  9271 GALILEO SQUARE          CANCE  -----<==>--:--  PLAZA GALILEO 9271           CANC.  ------->--:-- PRAÇA GALILEO  9271       CANC.  -----
 (1839-IGUAIS)0
-(1840)Unlocked by special promotion<==>Desbloqueado por promoción especial-->Desbloqueado por Promoção ERspecial
+(1840)Unlocked by special promotion<==>Desbloqueado por promoción especial-->Desbloqueado por promoção especial
 (1841)Arrivals<==>Llegadas-->Chegadas
 (1842)Visuals<==>Objetos visuales-->Visuais
-(1843)Watch this space for upcoming announcements<==>Consulta próximos anuncios en este espacio.-->Veja os próximos anúncios neste espaço
+(1843)Watch this space for upcoming announcements<==>Consulta próximos anuncios en este espacio.-->Veja nesse espaço os próximos anúncios 
 (1844)activate<==>Activar-->Ativar
-(1845)Real space.  Real terror.  Real foam.\n• [c=CUSTOM2] Primary Fire [c=RESET]: press [rsbottom] to take down the bad guys.<==>Espacio real. Terror real. Espuma real.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para acabar con los malos.-->Espaço Real. Terror Real. Espuma Real.\n• [c=CUSTOM2] Tiro Principal [c=RESET]: pressione [rsbottom] para acabar com os inimigos.
+(1845)Real space.  Real terror.  Real foam.\n• [c=CUSTOM2] Primary Fire [c=RESET]: press [rsbottom] to take down the bad guys.<==>Espacio real. Terror real. Espuma real.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para acabar con los malos.-->Espaço Real. Terror Real. Espuma Real.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para acabar com os inimigos.
 (1846)quit<==>Salir-->Sair
 (1847-IGUAIS)5
 (1848)Free Trial Expired<==>Versión de prueba gratuita caducada-->Versão de Testes Expirada
 (1849)EMERGENCY SHUTTLE RECALL<==>ANULACIÓN DEL TRANSBORDADOR DE EMERGENCIA-->ANULAÇÃO DO TRANSPOTADOR DE EMERGÊNCIA
-(1850)OVERRIDE SHUTTLE CONTROLS<==>ANULAR CONTROLES DEL TRANSBORDADOR-->BURLAR OS CONTROLES DO TRANSPORTADOR
+(1850)OVERRIDE SHUTTLE CONTROLS<==>ANULAR CONTROLES DEL TRANSBORDADOR-->ANULAR CONTROLES DO TRANSPORTADOR
 (1851)REMOTE PILOTING SHUTTLE<==>CONTROL REMOTO DEL TRANSBORDADOR-->CONTROLE REMOTO DO TRANSPORTADOR
 (1852)SHUTTLE DOCKED<==>TRANSBORDADOR ACOPLADO-->TRANSPORTADOR ACOPLADO
-(1853)Items sold<==>Objetos vendidos-->Ítens vendido
-(1854)Move items here from your Inventory to store them for later use.  Sell items here for additional credits.  Move items from the Safe back to your Inventory as needed.<==>Mueve objetos aquí desde tu inventario para almacenarlos hasta que los necesites. Vende objetos aquí para conseguir más créditos. Mueve objetos de la caja fuerte al inventario según los vayas necesitando.-->Mova para cá os itens do seu inventário para armazená-los para uso posterior.  Venda itens aqui para ganhar créditos. Mova os itens do cofre para seu inventário, conforme necessário.
+(1853)Items sold<==>Objetos vendidos-->Itens vendidos
+(1854)Move items here from your Inventory to store them for later use.  Sell items here for additional credits.  Move items from the Safe back to your Inventory as needed.<==>Mueve objetos aquí desde tu inventario para almacenarlos hasta que los necesites. Vende objetos aquí para conseguir más créditos. Mueve objetos de la caja fuerte al inventario según los vayas necesitando.-->Mova para cá os itens do seu inventário para armazená-los para uso posterior.  Venda itens aqui para conseguir mais créditos. Mova os itens do cofre para seu inventário, conforme necessário.
 (1855-IGUAIS)2
 (1856)Sets the target on fire when shot<==>Prende fuego al objetivo.-->Trava o tiro no alvo quando ativado
-(1857)The Privacy Policy explains what personal and non-personal information EA collects, where that information is stored, and how EA may process, use and share that information.<==>La Política de privacidad explica qué tipo de información personal y no personal recopila EA, dónde se almacena esa información y cómo puede procesar, utilizar y compartir EA esa información.-->A Política de Privacidade explica que tipo de informações pessoais e não pessoais são coletadas pela EA, se essa informação é armazenada e como a EA pode processar, utilizar e compartilhar elas.
+(1857)The Privacy Policy explains what personal and non-personal information EA collects, where that information is stored, and how EA may process, use and share that information.<==>La Política de privacidad explica qué tipo de información personal y no personal recopila EA, dónde se almacena esa información y cómo puede procesar, utilizar y compartir EA esa información.-->A Política de privacidade explica que tipo de informações pessoais e não pessoais são coletadas pela EA, se essa informação é armazenada e como a EA pode processar, utilizar e compartilhar essas informações.
 (1858)[What the hell...]<==>[¡Qué demonios...!]-->[Mas que diabos...]
 (1859-IGUAIS)Mario Valle
 (1860-IGUAIS)Jaap Tuinman
-(1861)short ranged puke & alternate fire snare <==>Vómito de corto alcance y atrapamiento secundario.-->Vômito de curto alcance e laço como secundário 
+(1861)short ranged puke & alternate fire snare <==>Vómito de corto alcance y atrapamiento secundario.-->Vômito de curto alcance paralisação secundária
 (1862-IGUAIS)ò
 (1863-IGUAIS)j
 (1864)redeem code<==>Canjear código-->Recuperar código
@@ -1876,11 +1876,11 @@
 (1876-IGUAIS)PROPERTY RECLAIMATION
 (1877)defend<==>Defender-->Defender
 (1878)credits description<==>descripción de créditos-->Descrição dos créditos
-(1879)Bring this schematic to the store to unlock the Medium Air Can.<==>Lleva este diagrama al almacén para desbloquear el bote de aire mediano.-->Leve este diagrama à loja para desbloquear o Tubo de Ar Médio.
+(1879)Bring this schematic to the store to unlock the Medium Air Can.<==>Lleva este diagrama al almacén para desbloquear el bote de aire mediano.-->Leve este diagrama à loja para desbloquear o cilindro de ar médio.
 (1880-IGUAIS)2
 (1881)//empty//<==>//libre//-->//vazio//
 (1882)SEEKER SHELLS<==>PROYECTILES BUSCADORES-->PROJÉTEIS BUSCADORES
-(1883)The email address and password do not match.<==>La dirección de correo electrónico y la contraseña no concuerdan.-->O endereço de email e senha não combinam.
+(1883)The email address and password do not match.<==>La dirección de correo electrónico y la contraseña no concuerdan.-->O endereço de email e senha não estão corretas.
 (1884-IGUAIS)[Lstick] + [RDDown]
 (1885)Stop<==>PARAR-->Parar
 (1886)Scanning<==>Escaneando...-->Escaneando
