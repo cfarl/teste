@@ -637,7 +637,7 @@
 (0637)Production Interns<==>Becarios de producción-->Produção interna
 (0638)credits<==>Créditos-->créditos
 (0639)Medium air canister that replenishes the air meter.<==>Bote de aire mediano que recarga el indicador de oxígeno.-->Tubo de ar médio que recarrega o indicador de oxigênio.
-(0640)pack<==>jauría-->pacote 
+(0640)pack<==>jauría-->matilha 
 (0641)+{n} TEAM OBJECTIVE<==>+{n} OBJETIVO DE EQUIPO-->+{n} OBJETIVO DA EQUIPE
 (0642)Restores Stasis Energy.\n- Inventory Slot Stack Size: 3\nPress [rdup] to use instantly, or select from your RIG's inventory.<==>Restablece la energía de estabilización.\n- Tamaño del bloque de ranuras de inventario: 3\nPulsa [rdup] para usarla al instante o selecciónala en el inventario de DRI.-->Restaura a energia de estabilização.\n- Tamanho do bloco de encaixes no inventário: 3\nPressione [rdup] para usar imediatamente, ou selecionar no inventário do seu DRI.
 (0643)Javelin Spear Schematic<==>Diagrama de jabalina-->Diagrama de Dardo
@@ -897,7 +897,7 @@
 (0897)Warning:  Reactor containment failure.   A reactor breach is now in progress.   Evacuate immediately, all personnel, all civilians.  This is not a drill.<==>Alerta: contención del reactor desestabilizada. Ruptura de reactor iniciada. Se ordena la evacuación inmediata de todo el personal y de todos los civiles. Esto no es un simulacro.-->Alerta: contenção do reator desestabilizada. Ruptura de reator iniciada. É necessária a evacuação imediata de todo o pessoal e todos os civis. Isso não é uma simulação.
 (0898)Your stasis module will also recharge automatically over time.<==>Su módulo de estabilización se recarga automáticamente con el paso del tiempo.-->Seu módulo de estabilização se recarrega automaticamente com o passar do tempo.
 (0899)Warning: The tank storage area has exceeded the heat threshold. Tank storage detonation in 10, 9, 8, 7, 6, 5, 4, 3, 2, 1.<==>Alerta: la zona de almacenamiento de tanques ha superado el umbral térmico. Explosión del tanque de almacenamiento en 10, 9, 8, 7, 6, 5, 4, 3, 2, 1.-->Alerta: a área de armazenamento de tanques ultrapassou o limiar térmico. Explosão do tanque de armazenamento em 10, 9, 8, 7, 6, 5, 4, 3, 2, 1.
-(0900)You unlocked increased melee damage for the Pack<==>Has desbloqueado más daño cuerpo a cuerpo para la jauría.-->Você desbloqueou mais dano corpo a corpo para o pacote.
+(0900)You unlocked increased melee damage for the Pack<==>Has desbloqueado más daño cuerpo a cuerpo para la jauría.-->Você desbloqueou mais dano corpo a corpo para a matilha.
 (0901)Slasher<==>Rajador-->Estripador
 (0902)LEVEL 01<==>NIVEL 01-->NÍVEL 01
 (0903)LEVEL 02<==>NIVEL 02-->NÍVEL 02
@@ -1422,7 +1422,7 @@
 (1422)Strategically Dismember Your Friends In Multiplayer<==>Cercena estratégicamente a tus amigos en Multijugador-->Desmebre estrategicamente seus amigos no modo de vários jogadores
 (1423)any map<==>Cualquier mapa-->qualquer mapa
 (1424)ANY MAP<==>CUALQUIER MAPA-->QUALQUER MAPA
-(1425)pack<==>jauría-->pacote 
+(1425)pack<==>jauría-->matilha 
 (1426)Boris, you read me? The warehouse filter's been broken for 3 days.  THREE DAYS no one cares about us.  Damn supervisors, do you think they'd let those layoffs leave them breathing their own stink for 3 days?  Me and the guys worked out a deal with gamma sector repair shift, they'll sneak over here on their lunch break and help us out.  I need you to ghost out their RIG's while they're here.  Call me and confirm.  Hatchins out.<==>Boris, ¿me recibes? El filtro del almacén lleva 3 días roto. Hace TRES DÍAS que nadie se preocupa de nosotros. Malditos supervisores, ¿tú crees que a esos les dejarían respirando su propio hedor durante 3 días? Los chicos y yo hemos hecho un trato con el turno de reparación del sector gamma; vendrán hasta aquí en la hora de la comida y nos ayudarán a salir. Necesito que hagas desaparecer sus DRI mientras están aquí. Llámame para confirmar. Hatchins, corto.-->Boris, está me ouvindo? O filtro do armazém quebrou faz três dias.  Faz três dias que ninguém se preocupa conosco.  Malditos supervisores, você acha que eles ficariam respirando seu próprio fedor durante três dias?  Eu e os garotos fizemos um trato com o turno de reparação do setor gamma; eles virão aqui na sua hora de almoço e nos ajudarão a sair.  Preciso que você faça os DRI deles desaparecer enquanto estiverem aqui.  Me ligue para confirmar.  Hatchins, desligo.
 (1427)Where did those patients go?<==>¿Dónde están esos pacientes?-->Para onde esses pacientes foram?
 (1428)Tests? What kind of tests?<==>¿Pruebas? ¿Qué clase de pruebas?-->Avaliações? Que tipo de avaliações?
@@ -2528,7 +2528,7 @@
 (2528)Use Kinesis to launch canisters.<==>Utiliza la cinética para lanzar botes.-->Use a Cinética para lançar tubos.
 (2529)We're on our way to Government Sector, but the real task still lies ahead: destroying the Marker.\n\nStross says he knows how to do it, but his grip on reality is slipping. If I lose him, then this whole journey will have been for nothing.<==>Vamos de camino al sector gubernamental, pero todavía tenemos por delante la misión más importante: destruir la Efigie.\n\nStross dice que sabe cómo hacerlo, pero su mente está cada vez más lejos de la realidad. Si lo pierdo, todo este viaje habrá sido en vano.-->Estamos a caminho do Setor Governamental, mas ainda temos à frente a missão mais importante: destruir o Marker.\n\nStross disse que sabe como fazer isso, mas sua mente está cada vez mais distante da realidade. Se eu perdê-lo, então toda essa jornada terá sido em vão.
 (2530)Large Med Pack Schematic<==>Diagrama de botiquín grande-->Diagrama do kit médico grande
-(2531)Pack<==>Jauría-->Pacote 
+(2531)Pack<==>Jauría-->Matilha 
 (2532-IGUAIS)Chase Swanson
 (2533-IGUAIS)Jonathan Yan
 (2534-IGUAIS)23
@@ -2557,7 +2557,7 @@
 (2557-IGUAIS)11506
 (2558)ACCESSING CARGO<==>ACCESO A LA CARGA-->ACESSANDO CARGA
 (2559)CARGO DELIVERED<==>CARGA ENTREGADA-->CARGA ENTREGUE
-(2560)You unlocked increased health for the Pack<==>Has desbloqueado más salud para la jauría.-->Você desbloqueou mais saúde para o pacote.
+(2560)You unlocked increased health for the Pack<==>Has desbloqueado más salud para la jauría.-->Você desbloqueou mais saúde para a matilha.
 (2561)Cannot accept invites from this console<==>No se pueden aceptar invitaciones de esta consola.-->Não é possível aceitar convites desse sistema.
 (2562)zealot<==>Extremo-->Extremo
 (2563)You must save your progress to unlock New Game + mode.<==>Debes guardar tus progresos para poder desbloquear el modo Nueva partida +.-->Você deve salvar seu progresso para desbloquear o modo Novo Jogo+.
@@ -2700,7 +2700,7 @@
 (2700)Compliance Leads<==>Jefes de validación-->Chefes de Validação
 (2701)GO TO MEDICAL<==>A LA CUBIERTA MÉDICA-->VÁ AO MÉDICO
 (2702)Weller's Escape<==>La huida de Weller-->A fuga de Weller
-(2703)You unlocked increased paired damage for the Pack<==>Has desbloqueado más daño cuerpo a cuerpo para la jauría.-->Você desbloqueou mais dano corpo-a-corpo para o pacote.
+(2703)You unlocked increased paired damage for the Pack<==>Has desbloqueado más daño cuerpo a cuerpo para la jauría.-->Você desbloqueou mais dano corpo-a-corpo para a matilha.
 (2704)Animation<==>Animación-->Animação
 (2705-IGUAIS)Credits_MKTG_AP_MktgM
 (2706-IGUAIS)Credits_MKTG_PR_VP
@@ -2866,7 +2866,7 @@
 (2866)AGILITY PULSE RIFLE<==>RIFLE DE IMPULSOS DE AGILIDAD-->RIFLE DE IMPULSOS DE AGILIDADE
 (2867)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado por matar o portador
 (2868-IGUAIS)Jamie Helman
-(2869)You unlocked increased stasis thaw time for the Pack<==>Has desbloqueado más tiempo de descongelación de la estabilización para la jauría.-->Você desbloqueou mais tempo de descongelamento para a estabilização do pacote.
+(2869)You unlocked increased stasis thaw time for the Pack<==>Has desbloqueado más tiempo de descongelación de la estabilización para la jauría.-->Você desbloqueou mais tempo de descongelamento para a estabilização da matilha.
 (2870)temp 73°<==>temp. 28°-->temp. 28°
 (2871)gravity 9.78033<==>gravedad 9,78033-->gravidade 9.78033
 (2872-IGUAIS)ERTS 85.56
@@ -3009,13 +3009,13 @@
 (3009-IGUAIS)Scott Swearingen
 (3010)Downloadable suits, weapons, and weapon skins that enhance the Dead Space¬ 2 experience.<==>Trajes, armas y revestimientos de armas descargables que mejoran la experiencia de Dead Space¬ 2.-->Trajes, armas e revestimentos de armas para download que melhoram a experiência do Dead Space¬ 2.
 (3011)+{n}\nKILL STREAK 5<==>+{n}\n5 BAJAS-->+{n}\n5 MORTES
-(3012)As a pack or lurker jump and pull [RSBottom] to initiate an execution on a Human.<==>Como jauría o merodeador, salta y pulsa [RSBottom] para iniciar la ejecución de un humano.-->Como pacote ou espreitador pule e pressione [RSBottom] para iniciar a execução de um humano
+(3012)As a pack or lurker jump and pull [RSBottom] to initiate an execution on a Human.<==>Como jauría o merodeador, salta y pulsa [RSBottom] para iniciar la ejecución de un humano.-->Como matilha ou espreitador pule e pressione [RSBottom] para iniciar a execução de um humano
 (3013)As a spitter or puker, charge and pull [RSBottom] to initiate an execution on a Human.<==>Como escupidor o vomitador, acelera y pulsa [RSBottom] para iniciar la ejecución de un humano.-->Como cuspidor ou vomitador, acelere e pressione [RSBottom] para iniciar a execução de um humano
 (3014)Press [RDRight] as a Human to use a quick-heal if you have a med pack.<==>Pulsa [RDRight] como Humano para utilizar la curación rápida si tienes un botiquín.-->Pressione [RDRight] como um humano para utilizar a cura rápida se tiver um kit médico.
 (3015)Humans spawn with a full health pack in their inventory.<==>Los humanos aparecen con un botiquín completo en su inventario.-->Os humanos aparecem com um kit de saúde no seu inventário.
 (3016)Pick up ammo and health pick-ups from the floor to replenish your quick-heal and ammo for all weapons.<==>Recoge munición y unidades de salud del suelo para reponer tu botiquín de curación rápida y la munición de todas tus armas.-->Recolha munição e saúde do chão para repor seu kit de saúde e munição para todas as armas.
 (3017)The lurker can walk on walls and ceilings.  Press [RDRight] to activate the ability to wall walk.<==>El merodeador puede caminar por paredes y techos. Pulsa [RDRight] para activar la habilidad de caminar por las paredes.-->O espreitador pode caminhar por paredes e tetos. Pressione [RDRight] para ativar a habilidade de andar pelas paredes.
-(3018)The lurker and pack can jump allowing them to traverse levels more easily than other classes.<==>El merodeador y la jauría pueden saltar, lo que les permite atravesar niveles con más facilidad que a otras especies.-->O espreitador e o pacote podem saltar, o que lhes permite atravessar os níveis com mais facilidade que outras espécies.
+(3018)The lurker and pack can jump allowing them to traverse levels more easily than other classes.<==>El merodeador y la jauría pueden saltar, lo que les permite atravesar niveles con más facilidad que a otras especies.-->O espreitador e a matilha podem saltar, o que lhes permite atravessar os níveis com mais facilidade que outras espécies.
 (3019)As a lurker, walk up a wall to align all 3 aiming reticules onto a human to deal maximum damage.<==>Como merodeador, sube por una pared para alinear las 3 retículas de modo que apunten a un humano para causar el máximo daño.-->Como um espreitador, suba por uma parede para alinhar as 3 retículas de modo que apontem para um humano para causar o máximo de dano.
 (3020)As a necromorph, strategic spawn vent selection can give you an advantage. <==>Como necromorfo, la selección de conductos estratégicos de aparición puede suponer una ventaja.-->Como necromorfo, a seleção de dutos estratégicos para aparecer pode dar a você uma vantagem.
 (3021)leave playgroup<==>Abandonar-->Sair do grupo de jogo
@@ -3706,7 +3706,7 @@
 (3706)I… I don't know.  Something must be blocking the track.<==>No... No sé. Parece que algo obstruye la vía.-->Eu… eu não sei.  Algo deve estar bloqueando o caminho.
 (3707-IGUAIS)~
 (3708-IGUAIS)~
-(3709)pack<==>jauría-->pacote 
+(3709)pack<==>jauría-->matilha 
 (3710)w/l<==>v/d-->c/l
 (3711)Animators<==>Animadores-->Animadores
 (3712)Kids Gone Crazy<==>LOCURA INFANTIL-->As Crianças Enlouqueceram
@@ -6581,7 +6581,7 @@
 (6581)Use TK on pick-up items in MP to quickly acquire them.<==>En el modo multijugador, usa la cinética sobre los objetos para recogerlos rápidamente.-->Use o TK em items que podem ser recolhidos para pega-los rápidamente.
 (6582)Don't forget to use the alternate fire on each of your weapons.<==>No olvides usar el disparo secundario de cada una de tus armas.-->Não esqueça de usar o disparo alternativo existente em cada arma.
 (6583)As you level up in Multiplayer you will unlock new weapons, upgrades, as well as suit skins.<==>A medida que subas de nivel en Multijugador, desbloquearás nuevas armas, mejoras y revestimientos de trajes.-->Ao passo que seu nível no Multijogador sobre você desbloqueará novas armas, melhorias com também novas blindagems.
-(6584)The Pack has a very effective melee, slash away!<==>La jauría tiene un ataque cuerpo a cuerpo muy eficaz: ¡reparte tajos!-->O pacote tem um ataque muito efetivo, estraça-lhe os!
+(6584)The Pack has a very effective melee, slash away!<==>La jauría tiene un ataque cuerpo a cuerpo muy eficaz: ¡reparte tajos!-->A matilha tem um ataque muito efetivo, estraça-lhe os!
 (6585)Stasis is crucial in MP - fire it at your enemies to slow them down and then dismember at will.<==>La estabilización resulta crucial en el modo multijugador; utilízala contra tus enemigos para frenarlos y cercenarlos a tu antojo.-->Estase é crucial no Multijogador - atire-a nos seus inimigos para deixa-los mais lentos de forma a poder desmembra-los.
 (6586)pause menu<==>menú de pausa-->menu de pausa
 (6587-IGUAIS)Ian Patterson
@@ -6632,7 +6632,7 @@
 (6632)FIRE (AIM MODE)\nPUNCH<==>DISPARAR (MODO AP.)\nPUÑETAZO-->DISPARAR (AIM MODE)\nSOCAR
 (6633)prime the detonator<==>Activa el detonador.-->inicie o detonador
 (6634)Your Online Pass is already active.<==>Tu pase online ya está activo.-->Seu Passe Online já está ativo.
-(6635)pack<==>jauría-->pacote 
+(6635)pack<==>jauría-->matilha 
 (6636)Drop<==>Soltar-->Largar
 (6637)STASIS PACK<==>CARGA DE ESTABIL.-->CARGA DE ESTABILIZAÇÃO
 (6638)Stasis<==>Estabilización-->Estabilização
