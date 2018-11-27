@@ -192,12 +192,12 @@
 (0192)TWINKLE, TWINKLE<==>ESTRELLITA-->BRILHA, BRILHA
 (0193)CHASED AWAY<==>PERSECUCIÓN-->PERSEGUIÇÃO 
 (0194)I'M BACK<==>HE VUELTO-->EU VOLTEI
-(0195)REFUELING THE DRILL<==>REPOSTAJE DEL TALADRO-->REABASTECENDO A PERFURADORA
+(0195)REFUELING THE DRILL<==>REPOSTAJE DEL TALADRO-->REABASTECENDO A ESCAVADEIRA
 (0196)COCKPIT<==>CABINA-->CABINE
-(0197)DRILL RIDE CHAT\n<==>CONVERSACIÓN EN EL TALADRO\n-->CONVERSA NA PERFURADORA\n
-(0198)DRILL POWER CELL HINT<==>PISTA DE CÉLULA DE ENERGÍA DEL TALADRO-->DICA DA CÉLULA DE ENERGIA DA PERFURADORA
+(0197)DRILL RIDE CHAT\n<==>CONVERSACIÓN EN EL TALADRO\n-->CONVERSA NA ESCAVADEIRA\n
+(0198)DRILL POWER CELL HINT<==>PISTA DE CÉLULA DE ENERGÍA DEL TALADRO-->DICA DA CÉLULA DE ENERGIA DA ESCAVADEIRA
 (0199)CIRCUIT JUNCTION HINT<==>PISTA DE CONEXIÓN-->DICA DE CONEXÃO
-(0200)DRILL HACK HINT<==>PISTA DE PIRATEO DEL TALADRO-->DICA DO HACK DA PERFURADORA
+(0200)DRILL HACK HINT<==>PISTA DE PIRATEO DEL TALADRO-->DICA DO HACK DA ESCAVADEIRA
 (0201)New Save<==>Nueva partida guardada-->Novo jogo salvo
 (0202)Punch or stomp corpses to reveal items.<==>Golpea o pisa cadáveres para descubrir objetos.-->Golpeie ou pise nos cadáveres para descobrir itens
 (0203) PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!<==>El panel solar--> PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
@@ -370,21 +370,21 @@
 (0370)You can't stop what's coming!<==>¡No puedes parar lo que viene!-->Você não pode parar o que está vindo!
 (0371)You unlocked increased paired damage for the Spitter<==>Has desbloqueado más daño conjunto para el escupidor.-->Você desbloqueou mais dano em conjunto para o Cuspidor.
 (0372)scanning the Xbox LIVE Marketplace...<==>examinando Bazar Xbox LIVE...-->pesquisando Loja da Xbox Live...
-(0373)DRILL ROOM AMBIENT 1<==>AMBIENTE DE SALA DE TALADRO 1-->AMBIENTE DA SALA DA PERFURADORA 1
-(0374)DRILL ROOM AMBIENT 2<==>AMBIENTE DE SALA DE TALADRO 2-->AMBIENTE DA SALA DA PERFURADORA 2
-(0375)DRILL ROOM AMBIENT 3<==>AMBIENTE DE SALA DE TALADRO 3-->AMBIENTE DA SALA DA PERFURADORA 3
-(0376)DRILL ROOM AMBIENT 4<==>AMBIENTE DE SALA DE TALADRO 4-->AMBIENTE DA SALA DA PERFURADORA 4
-(0377)DRILL ROOM AMBIENT 5<==>AMBIENTE DE SALA DE TALADRO 5-->AMBIENTE DA SALA DA PERFURADORA 5
-(0378)DRILL ROOM AMBIENT 1<==>AMBIENTE DE SALA DE TALADRO 1-->AMBIENTE DA SALA DA PERFURADORA 1
-(0379)DRILL ROOM AMBIENT 2<==>AMBIENTE DE SALA DE TALADRO 2-->AMBIENTE DA SALA DA PERFURADORA 2
-(0380)DRILL ROOM AMBIENT 3<==>AMBIENTE DE SALA DE TALADRO 3-->AMBIENTE DA SALA DA PERFURADORA 3
-(0381)DRILL BANTER 1<==>CHARLA DE TALADRO 1-->CONVERSA DA PERFURADORA 1
-(0382)DRILL BANTER 2<==>CHARLA DE TALADRO 2-->CONVERSA DA PERFURADORA 2
-(0383)DRILL BANTER 3<==>CHARLA DE TALADRO 3-->CONVERSA DA PERFURADORA 3
-(0384)DRILL BANTER 4<==>CHARLA DE TALADRO 4-->CONVERSA DA PERFURADORA 4
-(0385)DRILL BANTER 5<==>CHARLA DE TALADRO 5-->CONVERSA DA PERFURADORA 5
-(0386)DRILL BANTER 6<==>CHARLA DE TALADRO 6-->CONVERSA DA PERFURADORA 6
-(0387)DRILL BANTER 7<==>CHARLA DE TALADRO 7-->CONVERSA DA PERFURADORA 7
+(0373)DRILL ROOM AMBIENT 1<==>AMBIENTE DE SALA DE TALADRO 1-->AMBIENTE DA SALA DA ESCAVADEIRA 1
+(0374)DRILL ROOM AMBIENT 2<==>AMBIENTE DE SALA DE TALADRO 2-->AMBIENTE DA SALA DA ESCAVADEIRA 2
+(0375)DRILL ROOM AMBIENT 3<==>AMBIENTE DE SALA DE TALADRO 3-->AMBIENTE DA SALA DA ESCAVADEIRA 3
+(0376)DRILL ROOM AMBIENT 4<==>AMBIENTE DE SALA DE TALADRO 4-->AMBIENTE DA SALA DA ESCAVADEIRA 4
+(0377)DRILL ROOM AMBIENT 5<==>AMBIENTE DE SALA DE TALADRO 5-->AMBIENTE DA SALA DA ESCAVADEIRA 5
+(0378)DRILL ROOM AMBIENT 1<==>AMBIENTE DE SALA DE TALADRO 1-->AMBIENTE DA SALA DA ESCAVADEIRA 1
+(0379)DRILL ROOM AMBIENT 2<==>AMBIENTE DE SALA DE TALADRO 2-->AMBIENTE DA SALA DA ESCAVADEIRA 2
+(0380)DRILL ROOM AMBIENT 3<==>AMBIENTE DE SALA DE TALADRO 3-->AMBIENTE DA SALA DA ESCAVADEIRA 3
+(0381)DRILL BANTER 1<==>CHARLA DE TALADRO 1-->CONVERSA DA ESCAVADEIRA 1
+(0382)DRILL BANTER 2<==>CHARLA DE TALADRO 2-->CONVERSA DA ESCAVADEIRA 2
+(0383)DRILL BANTER 3<==>CHARLA DE TALADRO 3-->CONVERSA DA ESCAVADEIRA 3
+(0384)DRILL BANTER 4<==>CHARLA DE TALADRO 4-->CONVERSA DA ESCAVADEIRA 4
+(0385)DRILL BANTER 5<==>CHARLA DE TALADRO 5-->CONVERSA DA ESCAVADEIRA 5
+(0386)DRILL BANTER 6<==>CHARLA DE TALADRO 6-->CONVERSA DA ESCAVADEIRA 6
+(0387)DRILL BANTER 7<==>CHARLA DE TALADRO 7-->CONVERSA DA ESCAVADEIRA 7
 (0388)Attention:  Tour guide staff.   Please remember to keep all visitors in your sight at all times.  The indoctrination centers are strictly off limits to the casual public.   Remember, be the light in the room for those who walk in darkness!<==>Atención, personal de visitas guiadas: recuerden mantener a las visitas vigiladas en todo momento. Los centros de adoctrinamiento están estrictamente cerrados al público ocasional. ¡Y no olviden ser la luz de los que caminan en la oscuridad!-->Atenção: pessoal das visitas guiadas. Não se esqueçam de manter todos os visitantes vigiados em todo momento. Os centros de doutrinação estão estritamente proibidos para o público casual. E não se esqueçam, sejam a luz dos que caminham na escuridão!
 (0389-IGUAIS)2
 (0390)Rivet Gun Schematic<==>Diagrama de remachadora-->Diagrama da Rebitadeira
@@ -445,7 +445,7 @@
 (0445)Remember to Sync Your Rig<==>Recuerde sincronizar su DRI-->Lembre-se de sincronizar seu DRI
 (0446)Remember to Sync Your Rig<==>Recuerde sincronizar su DRI-->Lembre-se de sincronizar seu DRI
 (0447)Authorized Technicians Only<==>Solo técnicos autorizados-->Somente técnicos autorizados
-(0448)WARNING: ACTIVE DRILLING<==>ATENCIÓN: TALADRO ACTIVO-->AVISO: PERFURAÇÃO ATIVA
+(0448)WARNING: ACTIVE DRILLING<==>ATENCIÓN: TALADRO ACTIVO-->AVISO: ESCAVADEIRA ATIVA
 (0449)Lead Engineer<==>Ingeniero jefe-->Engenheiro chefe
 (0450-IGUAIS)ü
 (0451-IGUAIS)n
@@ -852,7 +852,7 @@
 (0852)Find weak points to disable firewalls.<==>Busque puntos débiles para desactivar cortafuegos-->Encontre pontos fracos para desativar firewalls.
 (0853)Foreign contaminant detected.<==>Contaminación extraña detectada.-->Contaminação estrangeira detectada.
 (0854)Warning:  Damage detected to Marker structure in Lab 2.     Structural failure is imminent.<==>Alerta: se han detectado daños en la estructura de la Efigie en el laboratorio 2. El fallo estructural es inminente.-->Alerta: foram detectados danos na estrutura do Marker no Laboratório 2. A falha estrutural é iminente.
-(0855)Hazard Warning:  Plasma drills heads are active and floating free in this area.   Please use Thrusters to move drill heads to a safer location.<==>Alerta de peligro: las cabezas del taladro de plasma están activas y suspendidas en esta área. Utilice los propulsores para trasladar las cabezas de taladro a una ubicación segura.-->Alerta de perigo: as cabeças das perfuradoras de plasma estão ativas e suspensas nessa área. Por favor, utilize os propulsores para mover as cabeças de perfuradoras para um local mais seguro.
+(0855)Hazard Warning:  Plasma drills heads are active and floating free in this area.   Please use Thrusters to move drill heads to a safer location.<==>Alerta de peligro: las cabezas del taladro de plasma están activas y suspendidas en esta área. Utilice los propulsores para trasladar las cabezas de taladro a una ubicación segura.-->Alerta de perigo: as cabeças das escavadeira de plasma estão ativas e suspensas nessa área. Por favor, utilize os propulsores para mover as cabeças de escavadeira para um local mais seguro.
 (0856)Incoming Call.<==>Llamada entrante.-->Recebendo Chamada.
 (0857)Incoming Transmission<==>Transmisión entrante-->Recebendo Transmissão
 (0858)Kinesis is advisable when attempting to install, uninstall or move power units.<==>La cinética es recomendable para instalar, desinstalar o mover generadores.-->A cinética é recomendada quando se tenta instalar, desinstalar ou mover unidades de energia.
@@ -1407,7 +1407,7 @@
 (1407-IGUAIS)9
 (1408-IGUAIS)(
 (1409-IGUAIS)(
-(1410)The drill might just be our ticket out of here! Now, if only it would start up...<==>¡El taladro podría constituir nuestro pasaporte para salir de aquí! Si se pusiese en marcha...-->A perfuradora pode ser nosso passaporte para sairmos daqui! Agora, isso se ela funcionar...
+(1410)The drill might just be our ticket out of here! Now, if only it would start up...<==>¡El taladro podría constituir nuestro pasaporte para salir de aquí! Si se pusiese en marcha...-->A escavadeira pode ser nosso passaporte para sairmos daqui! Agora, isso se ela funcionar...
 (1411)Bring this schematic to the store to unlock the Ripper Blades.<==>Lleva este diagrama al almacén para desbloquear la carga de sierra trituradora.-->Leve esse diagrama até a loja para desbloquear a serra trituradora.
 (1412)CANCEL<==>CANCELAR-->CANCELAR
 (1413)Activation acknowledged.  I'm en route to target zero.  Stand by for further reports.<==>Activación confirmada. De camino al objetivo cero. Seguiré informando.-->Ativação confirmada.  Estou a caminho do objetivo zero.  Aguarde por novas informações.
@@ -2231,7 +2231,7 @@
 (2231-IGUAIS)DEMO
 (2232)Bring this schematic to the store to unlock the Rivet Bolts.<==>Lleva este diagrama al almacén para desbloquear los roblones.-->Leve esse diagrama até a loja para desbloquear os rebites.
 (2233)LOCKED DOOR<==>PUERTA BLOQUEADA-->PORTA BLOQUEADA
-(2234)   Ride the drill to Government Sector.<==>Ve en el taladro al sector gubernamental.-->   Dirija a furadeira até o Setor Governamental.
+(2234)   Ride the drill to Government Sector.<==>Ve en el taladro al sector gubernamental.-->   Conduza a escavadeira até o Setor Governamental.
 (2235-IGUAIS)Brian West
 (2236)escape<==>Huida-->Fuga
 (2237-IGUAIS)176
@@ -3268,7 +3268,7 @@
 (3268-IGUAIS)5.1 surround
 (3269)Store Updated:<==>Almacén actualizado:-->Loja atualizada:
 (3270)United Spacefaring Guild History series\n\nTITAN STATION:  CONQUERING A MOON, PART 2 of 2\n\nA large colony was established on Titan to study the moon's every seismic detail and prepare it for disassembly.   As the operation got under way, the orbital platforms that assisted with the work became the prototypes for the planetcrackers that would soon follow.\n\nTitan was sucessfully "cracked" and harvested, only slightly behind schedule.   It was a major boost for the then-beleaguered population on Earth, who believed their extinction from lack of resources was imminent.\n\nTitan's harvest was halted before the entire moon was dissembled, leaving the small shard where the original colony had started.   From here, the station grew in leaps and bounds as the new era of planetcracking got underway, serving as both a critical research outpost, and with the advent of shockpoint drives, a way station for all planetcracking missions going forward.\n\nIt is now whimsically known as the Sprawl, for having done just that over the many years of its operation.<==>Serie Historia del Gremio Unido de los Viajes Espaciales\n\nESTACIÓN TITÁN: LA CONQUISTA DE UNA LUNA, PARTE 2 de 2\n\nEn Titán se estableció una gran colonia cuya misión era estudiar todos los detalles sísmicos de la luna y prepararla para la explotación. Las plataformas orbitales utilizadas para llevar a cabo la operación se convirtieron en prototipos para las extractoras planetarias que aparecerían poco después.\n\nLa extracción de Titán se completó con un ligero retraso y resultó muy importante para la, en aquel momento, hostigada población de la Tierra, que creía que su extinción era inminente debido a la escasez de recursos.\n\nLa extracción de Titán se detuvo antes de que la luna se hubiese explotado por completo, dejando solo el pequeño fragmento en el que se había asentado la colonia original. A partir de ahí, la estación fue creciendo a medida que la nueva era de la extracción planetaria se iba consolidando, y se convirtió en una importante base de investigación y, con la llegada de los motores de distorsión, en una estación de escala para todas las misiones de extracción planetaria que se llevaran a cabo.\n\nPrecisamente por eso, hoy en día se la conoce como El Eje.-->Série Histórica do Grêmio Unido das Viagens Espacias\n\nESTAÇÃO TITÃ: A CONQUISTANDO DE UMA LUA, PARTE 2 de 2\n\nUma grande colônia foi estabelecida em Titã para estudar todos os detalhe sísmicos da lua e prepará-la para a exploração. As plataformas orbitais utilizadas para viabilizar a operação se converteram em protótipos para as extratoras planetárias que apareceriam um pouco depois.\n\nA extração de Titã se completou com um ligeiro atraso e foi muito importante para a então sitiada população da Terra, que acreditava que sua extinção era eminente devido à escassez de recursos.\n\nA extração de Titã foi interrompida antes que a lua tivesse sido explorada por completo, deixando apenas o pequeno fragmento onde a colônia original havia iniciado. A partir daí, a estação foi crescendo na medida em que a nova era de extração planetária ia se consolidando, e se converteu em uma importante base de pesquisas, e com a chegada dos motores de distorção, se tornou uma estação de escala para todas as missões de extração planetária que se iniciavam.\n\nExatamente por isso, hoje em dia ela é conhecida como o Eixo.
-(3271)   Fix the drill.<==>Arregla el taladro.-->   Conserte a furadeira.
+(3271)   Fix the drill.<==>Arregla el taladro.-->   Conserte a escavadeira.
 (3272)[LDLeft]NAVIGATE    [MenuA]SELECT    [RDUP]RESPEC    [MenuB]EXIT<==>[LDLeft]NAVEGAR    [MenuA]SELEC.    [RDUP]REESPEC.    [MenuB]SALIR-->[LDLeft]NAVEGAR    [MenuA]SELECIONAR    [RDUP]REFAZER    [MenuB]SAIR
 (3273)FULLY VESTED MEMBERS ONLY<==>SOLO MIEMBROS INVESTIDOS-->APENAS MEMBROS INVESTIDOS
 (3274)BOMB<==>BOMBA-->BOMBA
@@ -3745,7 +3745,7 @@
 (3745)There's a lift on the other side. I'll turn around and you can get on.<==>Hay un ascensor al otro lado. Daré la vuelta y podrás subir.-->Há um elevador do outro lado. Darei a volta e você poderá subir.
 (3746)Alrighty, let's see what this beast can do…<==>Veamos de lo que es capaz esta bestia...-->Tudo bem, vamos ver o que esta besta pode fazer…
 (3747)Looks like we've reached the foundation pylons of the Government Sector.  <==>Hemos llegado a las columnas de cimentación del sector gubernamental.-->Parece que chegamos até as colunas da fundação do Setor Governamental.  
-(3748)Straight ahead.  We do have a giant drill. <==>Todo recto. Tenemos un taladro gigante.-->Siga em frente.  Nós temos uma perfuradora gigante. 
+(3748)Straight ahead.  We do have a giant drill. <==>Todo recto. Tenemos un taladro gigante.-->Siga em frente.  Nós temos uma escavadeira gigante. 
 (3749)Well, we can compare bruises later. But at least we made it, right?  And this is most definitely government sector - and I'm guessing that Marker of yours is behind that huge door over there.<==>Sí, bueno, luego nos comparamos las heridas. Lo conseguimos, ¿no? Seguro que esto es el sector gubernamental, y supongo que la Efigie se encuentra detrás de esa enorme puerta.-->Bem, podemos comparar feridas depois. Mas pelo menos conseguimos, certo?  E isto é definitivamente o setor governamental - e suponho que o Marker está atrás daquela grande porta.
 (3750)Alright, I'll meet you halfway.<==>Nos vemos en el medio.-->Tudo bem, vejo vocês no meio.
 (3751)No, guidance systems are out… but life support's on-line. Comms too…<==>No, los sistemas de guía no funcionan... pero el soporte vital está activo. Las comunicaciones también…-->Não, os sistemas de orientação estão desativados… mas o suporte vital está on-line. As comunicações também…
@@ -4436,7 +4436,7 @@
 (4436)Whoa Stross!  What are you doing?!<==>Stross,  ¿Qué haces?-->Whoa, Stross!  O que está fazendo?!
 (4437)Stross, it's me!  <==>¡Stross, soy yo!-->Stross, sou eu!  
 (4438)Stross!<==>¡Stross!-->Stross!
-(4439)I'm not running anymore. I know what I have to do.  Well, this drill is a stroke of good luck, finally.  Why don't you get up to the cab try to get it started. I'll look for the other power cell.<==>Yo ya no huyo. Sé lo que tengo que hacer. Con este taladro hemos tenido un golpe de suerte. Por qué no subes a la cabina e intentas activarlo. Buscaré la otra célula de energía.-->Eu não estou mais correndo. Eu sei o que eu tenho que fazer.  Bem, esse exercício foi um golpe de sorte, finalmente.  Por que você não vai até a cabine e tente ativá-lo? Vou procurar por outra célula de energia.
+(4439)I'm not running anymore. I know what I have to do.  Well, this drill is a stroke of good luck, finally.  Why don't you get up to the cab try to get it started. I'll look for the other power cell.<==>Yo ya no huyo. Sé lo que tengo que hacer. Con este taladro hemos tenido un golpe de suerte. Por qué no subes a la cabina e intentas activarlo. Buscaré la otra célula de energía.-->Eu não estou mais correndo. Eu sei o que eu tenho que fazer.  Bem, esse escavadeira foi um golpe de sorte, finalmente.  Por que você não vai até a cabine e tente ativá-lo? Vou procurar por outra célula de energia.
 (4440)At least you were in the cockpit…<==>Al menos tú estabas en la cabina.-->Pelo menos você esteve na cabine…
 (4441)Dammit! There's more of them out here. I'll try to keep them off us.<==>¡Maldita sea! Ahí hay más cosas de esas. Intentaré mantenerlas alejadas.-->Caramba! Há mais deles aqui. Vou tentar mantê-los longe de nós.
 (4442)Oh, yeah.  Good times.<==>Ah, sí. Estoy de maravilla.-->Ah, sim.  Bem pensado.
@@ -5855,7 +5855,7 @@
 (5855-IGUAIS)7
 (5856-IGUAIS)&
 (5857-IGUAIS)&
-(5858)I hope Ellie knows where she's going - this drill is our only chance to get to Government Sector in one piece.<==>Espero que Ellie sepa adónde va. Este taladro es nuestra única oportunidad para llegar al sector gubernamental de una pieza.-->Espero que Ellie saiba aonde ela vai. Esta perfuradora é a nossa única chance de chegar ao Setor Governamental em uma peça.
+(5858)I hope Ellie knows where she's going - this drill is our only chance to get to Government Sector in one piece.<==>Espero que Ellie sepa adónde va. Este taladro es nuestra única oportunidad para llegar al sector gubernamental de una pieza.-->Espero que Ellie saiba aonde ela vai. Essa escavadeira é a nossa única chance de chegar ao Setor Governamental em uma peça.
 (5859)A Circuit Node used to upgrade your Rig, Stasis, and Tools at the Bench.\n\nThe CEC advises all workers to keep a Power Node in their inventory to access node-locked doors.<==>Un nodo energético que se utiliza para mejorar el DRI, la estabilización y las herramientas en el banco.\nCEC aconseja a todos los trabajadores que tengan un nodo de energía en su inventario para acceder a puertas bloqueadas.-->Um Nó de Circuito utilizado para atualizar seu DRI, a estabilização, e as ferramentas na bancada.\n\nA CEC aconselha a todos os trabalhadores para manter um Nodo de Energia em seu inventário para acessar as portas bloqueadas.
 (5860)move<==>mover-->mover
 (5861)+health<==>+salud-->+saúde
