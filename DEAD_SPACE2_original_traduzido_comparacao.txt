@@ -387,7 +387,7 @@
 (0387)DRILL BANTER 7<==>CHARLA DE TALADRO 7-->CONVERSA DA PERFURADORA 7
 (0388)Attention:  Tour guide staff.   Please remember to keep all visitors in your sight at all times.  The indoctrination centers are strictly off limits to the casual public.   Remember, be the light in the room for those who walk in darkness!<==>Atención, personal de visitas guiadas: recuerden mantener a las visitas vigiladas en todo momento. Los centros de adoctrinamiento están estrictamente cerrados al público ocasional. ¡Y no olviden ser la luz de los que caminan en la oscuridad!-->Atenção: pessoal das visitas guiadas. Não se esqueçam de manter todos os visitantes vigiados em todo momento. Os centros de doutrinação estão estritamente proibidos para o público casual. E não se esqueçam, sejam a luz dos que caminham na escuridão!
 (0389-IGUAIS)2
-(0390)Rivet Gun Schematic<==>Diagrama de remachadora-->Diagrama da Rebitadora
+(0390)Rivet Gun Schematic<==>Diagrama de remachadora-->Diagrama da Rebitadeira
 (0391)Crawl slowly through maintenance vents.<==>Arrástrate lentamente por los conductos de ventilación.-->Rasteje lentamente pelos dutos de ventilação.
 (0392)Senior Video Artist<==>Diseñador de vídeo sénior-->Artista de Vídeo Sênior
 (0393)Press [RDRight]<==>Pulsa [RDRight].-->Pressione [RDRight]
@@ -556,7 +556,7 @@
 (0556)Step 1, dark machine, we have to crawl into the dark machine. And then the screws, tight.  <==>Paso 1, máquina oscura, tenemos que arrastrarnos a la máquina oscura. Y luego los tornillos, apretados.-->Passo 1, a máquina escura, temos que nos arrastar para dentro da máquina escura. E então os parafusos, apertados.  
 (0557)CHEMICAL CAPSULE<==>CÁPSULA QUÍMICA-->CÁPSULA QUÍMICA
 (0558)PAUSE<==>PAUSA-->PAUSA
-(0559)Bring this schematic to the store to unlock the Rivet Gun.<==>Lleva este diagrama al almacén para desbloquear la remachadora.-->Leve esse diagrama até a loja para desbloquear a rebitadora.
+(0559)Bring this schematic to the store to unlock the Rivet Gun.<==>Lleva este diagrama al almacén para desbloquear la remachadora.-->Leve esse diagrama até a loja para desbloquear a rebitadeira.
 (0560)Prevent the humans from escaping<==>Evita que los humanos huyan.-->Evite que os humanos escapem
 (0561)Lurker<==>Merodeador-->Espreitador
 (0562)\nStep 1, Dark Machine.  Crawl into the dark machine. Step 2, the screws.  Screws go tight.  Time for another session.  More sessions.   More steps.  Dark Machine.  Cold and cramped.  Hard to breathe.  Hard to breathe.  Screws go tight. Tight tight tight.  <==>Paso 1, máquina oscura. Arrástrate al interior de la máquina oscura. Paso 2, los tornillos. Los tornillos apretados. Hora de otra sesión. Más sesiones. Más pasos. Máquina oscura. Frío y estrecho. Cuesta respirar. Cuesta respirar. Tornillos apretados. Muy, muy apretados.-->\nPasso 1, máquina escura.  Se arraste para dentro da máquina escura. Passo 2, os parafusos.  Os parafusos apertados.  Hora de outra sessão.  Mais sessões.  Mais passos. Máquina escura. Fria e apertada. Difícil de respirar. Difícil de respirar. Parafusos apertados. Muito, muito apertados.
@@ -1157,7 +1157,7 @@
 (1157)HACKER SUIT<==>TRAJE DE PIRATEO-->TRAJE HACKER
 (1158)GET EXCITED!<==>¡ENTUSIASMO!-->ENTUSIASMO!
 (1159)WE FAILED<==>HEMOS FRACASADO-->FALHAMOS
-(1160)RIVET GUN<==>REMACHADORA-->REBITADORA
+(1160)RIVET GUN<==>REMACHADORA-->REBITADEIRA
 (1161)primary fire: horizontal line cutter\nalternate fire: timed mine<==>disparo principal: rayo ancho horizontal \ndisparo secundaro: mina temporizada-->Disparo principal: raio de corte horizontal\ndisparo secundário: mina temporizada
 (1162)slows enemy movement <==>Frena a los enemigos-->desacelera os movimentos dos inimigos
 (1163)Extremely Rare electronic component.  Sell at the store for credits.<==>Componente electrónico muy poco frecuente. Vender en el almacén para obtener créditos.-->Componente eletrônico extremamente raro. Venda na loja para obter créditos.
@@ -1304,7 +1304,7 @@
 (1304)HOUSE OFFICER\nGordon Mackay\n\nExam Rm 01 [Available]\nExam Rm 02 [Occupied]\nExam Rm 03 [Occupied]\nExam Rm 04 [Available]\nExam Rm 05 [Occupied]\nExam Rm 06 [Occupied]\nExam Rm 07 [Occupied]<==>MÉDICO RESIDENTE\nGordon Mackay\n\nSala de expl. 01 [Disp.]\nSala de expl. 02 [Ocupada]\nSala de expl. 03 [Ocupada]\nSala de expl. 04 [Disp.]\nSala de expl. 05 [Ocupada]\nSala de expl. 06 [Ocupada]\nSala de expl. 07 [Ocupada]-->MÉDICO RESIDENTE\nGordon Mackay\n\nSala de expl. 01 [Disponível]\nSala de expl. 02 [Ocupada]\nSala de expl. 03 [Ocupada]\nSala de expl. 04 [Disponível]\nSala de expl. 05 [Ocupada]\nSala de expl. 06 [Ocupada]\nSala de expl. 07 [Ocupada]
 (1305)HOUSE OFFICER\nKiefer Shanks\n\nBAY 01 [Offline]\nBAY 02 [Occupied]\nBAY 03 [Occupied]\nBAY 04 [Transfer]\nNot admitting at this time.<==>MÉDICO RESIDENTE\nKiefer Shanks\n\nCAMA 01 [Libre]\nCAMA 02 [Libre]\nCAMA 03 [Libre]\nCAMA 04 [Traslado]\nNo admite ingresos ahora mismo.-->MÉDICO RESIDENTE\nKiefer Shanks\n\nCAMA 01 [Livre]\nCAMA 02 [Ocupada]\nCAMA 03 [Ocupada]\nCAMA 04 [Translado]\nNão admite mais ingressos agora mesmo.
 (1306)HOUSE OFFICER\nMark Basedow\n\n09:30 - Low [Rm 501]\n10:30 - Jakes [Rm 502]\n11:00 - Gallun [Rm 501]\n13:30 - Friesner [Rm 502]\n14:00 - Cook [Rm 501]\n14:45 - Barton [Rm 502]\n15:30 - Biggle [Rm 501]<==>MÉDICO RESIDENTE\nMark Basedow\n\n09:30 - Low [Hab. 501]\n10:30 - Jakes [Hab. 502]\n11:00 - Gallun [Hab. 501]\n13:30 - Friner [Hab. 502]\n14:00 - Cook [Hab. 501]\n14:45 - Barton [Hab. 502]\n15:30 - Biggle [Hab. 501]-->MÉDICO RESIDENTE\nMark Basedow\n\n09:30 - Low [Hab. 501]\n10:30 - Jakes [Hab. 502]\n11:00 - Gallun [Hab. 501]\n13:30 - Friesner [Hab. 502]\n14:00 - Cook [Hab. 501]\n14:45 - Barton [Hab. 502]\n15:30 - Biggle [Hab. 501]
-(1307)rivet gun<==>Remachadora-->rebitadora
+(1307)rivet gun<==>Remachadora-->rebitadeira
 (1308-IGUAIS)1
 (1309)(click [LStick])<==>(hacer clic en [LStick])-->(pressione [LStick])
 (1310)deliver disc to intel room<==>Lleva el disco hasta la sala de inteligencia.-->Leve o disco até a sala de inteligência
@@ -1329,7 +1329,7 @@
 (1329-IGUAIS)Craig Matchett
 (1330-IGUAIS)Collin Stiner
 (1331-IGUAIS)Omz Velasco
-(1332)Pneumatic spear launcher with electrical charge.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to launch a javelin.  Caution: danger of impalement.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to electrify the last javelin that was launched.<==>Disparador neumático de lanzas con carga eléctrica.\n - [c=CUSTOM2]Disparo principal[c=RESET]: pulsa [rsbottom] para disparar una jabalina. Precaución: peligro de empalamiento.\n - [c=CUSTOM2]Disparo secundario[c=RESET]: pulsa [rstop] para electrizar la última jabalina disparada.-->Disparador pneumático de lanças com carga elétrica.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um dardo.  Cuidado: risco de empalamento.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para eletrizar o último dardo disparado.
+(1332)Pneumatic spear launcher with electrical charge.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to launch a javelin.  Caution: danger of impalement.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to electrify the last javelin that was launched.<==>Disparador neumático de lanzas con carga eléctrica.\n - [c=CUSTOM2]Disparo principal[c=RESET]: pulsa [rsbottom] para disparar una jabalina. Precaución: peligro de empalamiento.\n - [c=CUSTOM2]Disparo secundario[c=RESET]: pulsa [rstop] para electrizar la última jabalina disparada.-->Disparador pneumático de dardos com carga elétrica.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um dardo.  Cuidado: risco de empalamento.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para eletrizar o último dardo disparado.
 (1333)stats<==>Estadísticas-->Estatísticas
 (1334)free trial expired<==>versión de prueba gratuita caducada-->Versão de avaliação gratuita expirada
 (1335-IGUAIS)ATM
@@ -1349,7 +1349,7 @@
 (1349-IGUAIS)Marcel Elsner
 (1350)Vintage Elite<==>Vintage de élite-->Vintage de Elite
 (1351-IGUAIS)INTERSTELLAR TOOLS OF THE TRADE\n\nThe Demise of Schofield Tools\n\nTurmoil in the mining industry today as veteran equipment maker Schofield Tools was found guilty on all counts of fraud and mutiny.  Mutiny is not usually applicable in commercial cases, but due to the extreme penetration of Schofield Tool's products throughout the USG fleet, a "defacto" exception was made by Guild courts.\nTrouble started earlier last year when Schofield Tools was purchased by the Arnold Conglomerate in a hostile takeover.  Almost immediately, minor clauses in Guild contracts were controversially re-interpreted to the tune of trillions of credits owed the Conglomerate.  The conflict quickly escalated to the charge of mutiny.\nThen, as reported last month, the Arnold Conglomerate vanished overnight in a puff of accounting irregularities.  Arnold officials have since vanished, leaving Schofield Tools holding the bag for the fraud charges.\nThe courts have ordered Schofield Tools to divest all assets to Timson Tools, their closest Guild-licensed competitor.  The only asset allowed to remain in the hands of Schofield Tools will be their small pinecone production facility on Uranus.
-(1352)Electrocution Spears for the Javelin Gun.\n - Inventory Slot Stack Size: 10<==>Lanzas de electrocución para el cañón jabalina.\n - Tamaño de bloque de ranuras de inventario: 10-->Lanças de eletrocussão do Canhão De Dardos.\n - Tamanho do bloco de espaços de inventário: 10
+(1352)Electrocution Spears for the Javelin Gun.\n - Inventory Slot Stack Size: 10<==>Lanzas de electrocución para el cañón jabalina.\n - Tamaño de bloque de ranuras de inventario: 10-->Dardos de eletrocussão do Canhão De Dardos.\n - Tamanho do bloco de espaços de inventário: 10
 (1353)BATCH MIXER<==>MEZCLADORA-->MESCLADORA
 (1354)Ellie!  Your hatch is being blocked by a giant tentacle.  It's wrapped around a big chemical tank.<==>¡Ellie! Un tentáculo gigante bloquea tu escotilla. Está enrollado alrededor de un gran depósito químico.-->Ellie! Um tentáculo gigante está bloqueando sua escotilha. Está enrolado ao redor de um grande tanque de produtos químicos.
 (1355)LINE GUN<==>CAÑÓN LINEAL-->CANHÃO LINEAR
@@ -1905,7 +1905,7 @@
 (1905)Senior Director Online Marketing<==>Director de marketing online sénior-->Diretor de Marketing Online Sênior
 (1906)Senior Online Marketing Manager<==>Jefe de marketing online sénior-->Chefe de Marketing Online Sênior
 (1907-IGUAIS)1
-(1908)Texture Artist<==>Diseñador de texturas-->Desenhista de Texturas
+(1908)Texture Artist<==>Diseñador de texturas-->Artista de Texturas
 (1909)create account error<==>Error de creación de cuenta-->Erro na criação da conta
 (1910)Connection Error<==>Error de conexión-->Erro de conexão
 (1911)PROTON ACCELERATOR<==>ACELERADOR DE PROTONES-->ACELERADOR DE PRÓTONS
@@ -2220,7 +2220,7 @@
 (2220-IGUAIS)Katrina Strafford
 (2221)REL -5% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a single long-range round.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to toggle zoom mode and increase shot damage.<==>REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un único proyectil de largo alcance.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para cambiar el zoom y aumentar el daño del disparo.-->REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um único projétil de longo alcance.\n• [c=CUSTOM2] Disparo secundário [c=RESET]: pressione [rstop] para mudar o zoom e aumentar o dano do disparo.
 (2222-IGUAIS)2
-(2223)rivet gun unlocked<==>Remachadora desbloqueada-->Rebitadora desbloqueada
+(2223)rivet gun unlocked<==>Remachadora desbloqueada-->Rebitadeira desbloqueada
 (2224)CEO<==>Director General-->Diretor Geral
 (2225)round 2 win<==>victoria en ronda 2-->vitória na segunda rodada
 (2226)CONTACT BEAM<==>RAYO DE CONTACTO-->RAIO DE CONTATO
@@ -2488,7 +2488,7 @@
 (2488)Bring this schematic to the store to unlock the Pulse Rifle.<==>Lleva este diagrama al almacén para desbloquear el rifle de impulsos.-->Leve esse diagrama até a loja para desbloquear o rifle de impulsos.
 (2489)Honey, it's Mommy. This is what we've been waiting for. Meet us in the Church. Bring everything just like we practiced. We're going to a better place. It won't hurt. I love you. See you soon.<==>Cariño, soy mamá. Esto es lo que estábamos esperando. Reúnete con nosotros en la iglesia. Tráelo todo, tal y como lo ensayamos. Vamos a un lugar mejor. No dolerá. Te quiero. Nos vemos pronto.-->Querido, aqui é a mamãe. Isso é o que estávamos esperando. Encontre-nos na Igreja. Traga tudo, tal como ensaiamos. Estamos indo para um lugar melhor. Não vai doer nada. Eu te amo. Nos vemos em breve.
 (2490)Honey, it's Mommy. This is what we've been waiting for. Meet us in the Church. Bring everything just like we practiced. We're going to a better place. It won't hurt. I love you. See you soon.<==>Cariño, soy mamá. Esto es lo que estábamos esperando. Reúnete con nosotros en la iglesia. Tráelo todo, tal y como lo ensayamos. Vamos a un lugar mejor. No dolerá. Te quiero. Nos vemos pronto.-->Querido, aqui é a mamãe. Isso é o que estávamos esperando. Encontre-nos na Igreja. Traga tudo, tal como ensaiamos. Estamos indo para um lugar melhor. Não vai doer nada. Eu te amo. Nos vemos em breve.
-(2491)AGILITY RIVET GUN<==>REMACHADORA DE AGILIDAD-->REBITADORA DE AGILIDADE
+(2491)AGILITY RIVET GUN<==>REMACHADORA DE AGILIDAD-->Rebitadeira DE AGILIDADE
 (2492)ATTACH THRUSTER<==>ACOPLAR PROPULSOR-->ACOPLAR PROPULSOR
 (2493)purchase code<==>Comprar código-->Comprar código
 (2494)You unlocked increased melee damage for the Puker<==>Has desbloqueado más daño cuerpo a cuerpo para el vomitador.-->Você desbloqueou mais dano corporal para o vomitador.
@@ -2581,7 +2581,7 @@
 (2581)Track numbers will be announced at least 20 minutes before arrival.     Please have a travel pass on your person at all times.      WARNING: Unexpected delays. Thank you for your patience.<==>Los números de vía se anunciarán al menos 20 minutos antes de las llegadas.     Por favor, conserven su billete en todo momento.      ATENCIÓN: retrasos inesperados. Gracias por su paciencia.-->Os números das vias são anunciados pelo menos 20 minutos antes das chegadas.     Por favor tenham o bilhete de viagem em mãos o tempo todo.      ATENÇÃO: Atrasos inesperados. Obrigado pela sua paciência.
 (2582-IGUAIS)[LDUp]
 (2583)The Security Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Pulse Rifle receives a 5% bonus to damage\nPurchase guarantees a minimum of 15 inventory slots and 10% armor. Your RIG retains the highest upgrade of Armor and Inventory.\n<==>El traje de seguridad ofrece una funcionalidad única al portador:\n• [c=CUSTOM3] Bonificación de arma [c=RESET]: 5% adicional al daño del rifle de impulsos. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 10% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.\n-->O Traje de Segurança oferece uma funcionalidade únicas para quem o usa:\n• [c=CUSTOM3] Bonificação de armas [c=RESET]: 5% de dano adicional do rifle de impulsos.\nA compra garante um mínimo de 15 espaços de inventário e 10% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.\n
-(2584)you now have the ability to equip the rivet gun\nprimary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>Ahora ya puedes equipar la remachadora\ndisparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->Você agora pode equipar a Rebitadora\ndisparo principal: rebites de fragmentação\ndisparo secundário: rajada de estilhaços de projeção
+(2584)you now have the ability to equip the rivet gun\nprimary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>Ahora ya puedes equipar la remachadora\ndisparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->Você agora pode equipar a Rebitadeira\ndisparo principal: rebites de fragmentação\ndisparo secundário: rajada de estilhaços de projeção
 (2585)Programmers<==>Programadores-->Programadores
 (2586)free trial unavailable<==>Versión de prueba gratuita no disponible-->Versão de avaliação não disponível
 (2587)Senior Lighters<==>Iluminadores sénior-->Iluminadores Sênior
@@ -2997,11 +2997,11 @@
 (2997-IGUAIS)0
 (2998-IGUAIS)ç
 (2999-IGUAIS)i
-(3000)This code has already been redeemed and is no longer valid. Please purchase another code.<==>Este código ya se ha canjeado y no es válido. Adquiere otro código.-->Esse código já foi redimido e não é mais válido. Por favor, compre outro código.
+(3000)This code has already been redeemed and is no longer valid. Please purchase another code.<==>Este código ya se ha canjeado y no es válido. Adquiere otro código.-->Esse código já foi utilizado e não é mais válido. Por favor, adquira outro código.
 (3001-IGUAIS)Ç
 (3002-IGUAIS)I
 (3003)Oxygen in use.<==>Oxígeno en uso-->Oxigênio em uso.
-(3004)Monitor Air Quality Control<==>Control del monitor de calidad del aire-->Monitor de Controle de Qualidade do Ar
+(3004)Monitor Air Quality Control<==>Control del monitor de calidad del aire-->Controle do Monitor de Qualidade do Ar
 (3005-IGUAIS)John Fitzgibbons
 (3006-IGUAIS)Seth Marinello
 (3007-IGUAIS)Warren Price
@@ -3009,15 +3009,15 @@
 (3009-IGUAIS)Scott Swearingen
 (3010)Downloadable suits, weapons, and weapon skins that enhance the Dead Space¬ 2 experience.<==>Trajes, armas y revestimientos de armas descargables que mejoran la experiencia de Dead Space¬ 2.-->Trajes, armas e revestimentos de armas para download que melhoram a experiência do Dead Space¬ 2.
 (3011)+{n}\nKILL STREAK 5<==>+{n}\n5 BAJAS-->+{n}\n5 MORTES
-(3012)As a pack or lurker jump and pull [RSBottom] to initiate an execution on a Human.<==>Como jauría o merodeador, salta y pulsa [RSBottom] para iniciar la ejecución de un humano.-->Como pacote ou espreitador pule e aperte [RSBottom] para iniciar uma execução de um humano
-(3013)As a spitter or puker, charge and pull [RSBottom] to initiate an execution on a Human.<==>Como escupidor o vomitador, acelera y pulsa [RSBottom] para iniciar la ejecución de un humano.-->como cuspidor ou pacote, acelere e aperte [RSBottom] para iniciar uma execução de um humano
-(3014)Press [RDRight] as a Human to use a quick-heal if you have a med pack.<==>Pulsa [RDRight] como Humano para utilizar la curación rápida si tienes un botiquín.-->Aperte [RDRight] como um humano para utilizar uma rápida cura se você tiver um pacote de med.
-(3015)Humans spawn with a full health pack in their inventory.<==>Los humanos aparecen con un botiquín completo en su inventario.-->Os humanos nascer com um pacote cheio de saúde no seu inventário.
-(3016)Pick up ammo and health pick-ups from the floor to replenish your quick-heal and ammo for all weapons.<==>Recoge munición y unidades de salud del suelo para reponer tu botiquín de curación rápida y la munición de todas tus armas.-->No solo você poderá encontrar munições para todas as suas armas e pacotes de cura rápida.
-(3017)The lurker can walk on walls and ceilings.  Press [RDRight] to activate the ability to wall walk.<==>El merodeador puede caminar por paredes y techos. Pulsa [RDRight] para activar la habilidad de caminar por las paredes.-->O espreitador pode andar em paredes e tetos. Aperte [RDRight] para ativar a capacidade de parede andar.
-(3018)The lurker and pack can jump allowing them to traverse levels more easily than other classes.<==>El merodeador y la jauría pueden saltar, lo que les permite atravesar niveles con más facilidad que a otras especies.-->O espreitador e o pacote pode saltar, o que lhes permite atravessar os níveis mais facilmente que outras classes.
-(3019)As a lurker, walk up a wall to align all 3 aiming reticules onto a human to deal maximum damage.<==>Como merodeador, sube por una pared para alinear las 3 retículas de modo que apunten a un humano para causar el máximo daño.-->Como um espreitador, suba uma parede para alinhar todas as 3 retículas de pontaria com um humano para causar dano máximo.
-(3020)As a necromorph, strategic spawn vent selection can give you an advantage. <==>Como necromorfo, la selección de conductos estratégicos de aparición puede suponer una ventaja.-->Como Necromorphs, selecione estratégicamente um lugar para renascer que vá te dar vantagem.
+(3012)As a pack or lurker jump and pull [RSBottom] to initiate an execution on a Human.<==>Como jauría o merodeador, salta y pulsa [RSBottom] para iniciar la ejecución de un humano.-->Como pacote ou espreitador pule e pressione [RSBottom] para iniciar a execução de um humano
+(3013)As a spitter or puker, charge and pull [RSBottom] to initiate an execution on a Human.<==>Como escupidor o vomitador, acelera y pulsa [RSBottom] para iniciar la ejecución de un humano.-->Como cuspidor ou vomitador, acelere e pressione [RSBottom] para iniciar a execução de um humano
+(3014)Press [RDRight] as a Human to use a quick-heal if you have a med pack.<==>Pulsa [RDRight] como Humano para utilizar la curación rápida si tienes un botiquín.-->Pressione [RDRight] como um humano para utilizar a cura rápida se tiver um kit médico.
+(3015)Humans spawn with a full health pack in their inventory.<==>Los humanos aparecen con un botiquín completo en su inventario.-->Os humanos aparecem com um kit de saúde no seu inventário.
+(3016)Pick up ammo and health pick-ups from the floor to replenish your quick-heal and ammo for all weapons.<==>Recoge munición y unidades de salud del suelo para reponer tu botiquín de curación rápida y la munición de todas tus armas.-->Recolha munição e saúde do chão para repor seu kit de saúde e munição para todas as armas.
+(3017)The lurker can walk on walls and ceilings.  Press [RDRight] to activate the ability to wall walk.<==>El merodeador puede caminar por paredes y techos. Pulsa [RDRight] para activar la habilidad de caminar por las paredes.-->O espreitador pode caminhar por paredes e tetos. Pressione [RDRight] para ativar a habilidade de andar pelas paredes.
+(3018)The lurker and pack can jump allowing them to traverse levels more easily than other classes.<==>El merodeador y la jauría pueden saltar, lo que les permite atravesar niveles con más facilidad que a otras especies.-->O espreitador e o pacote podem saltar, o que lhes permite atravessar os níveis com mais facilidade que outras espécies.
+(3019)As a lurker, walk up a wall to align all 3 aiming reticules onto a human to deal maximum damage.<==>Como merodeador, sube por una pared para alinear las 3 retículas de modo que apunten a un humano para causar el máximo daño.-->Como um espreitador, suba por uma parede para alinhar as 3 retículas de modo que apontem para um humano para causar o máximo de dano.
+(3020)As a necromorph, strategic spawn vent selection can give you an advantage. <==>Como necromorfo, la selección de conductos estratégicos de aparición puede suponer una ventaja.-->Como necromorfo, a seleção de dutos estratégicos para aparecer pode dar a você uma vantagem.
 (3021)leave playgroup<==>Abandonar-->Sair do grupo de jogo
 (3022-IGUAIS)Nassim Ait-Kaci
 (3023-IGUAIS)Kevin Bolen
@@ -3027,17 +3027,17 @@
 (3027-IGUAIS)Bill Rudolph
 (3028-IGUAIS)Sean Vora
 (3029)In Progress...<==>En curso...-->Em Progresso...
-(3030)Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:<==>Se permiten la redistribución y el uso en formatos binario y de código fuente, con o sin modificación, siempre que se cumplan las siguientes condiciones:-->Redistribuição e utilização do código fonte e binário, com ou sem modificação, são permitidas desde que as seguintes condições:
-(3031)• Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.<==>• Las redistribuciones del código fuente deben conservar la anterior información de copyright, esta lista de condiciones y la siguiente exención de responsabilidad.-->• As redistribuições do código fonte devem conservar a informação da copyright, esta lista de condições e a seguinte isenção de responsabilidade.
-(3032)• Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.<==>• Las redistribuciones en formato binario deben reproducir la anterior información de copyright, esta lista de condiciones y la siguiente exención de responsabilidad en la documentación o en otros materiales incluidos en la distribución.-->• As redistribuições em forma binária devem reproduzir a informação da copyright, esta lista de condições e a seguinte isenção de responsabilidade na documentação e/ou outros materiais fornecidos com a distribuição.
-(3033)• Neither the name of the Xiph.org Foundation nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.<==>• Ni el nombre de Xiph.org Foundation ni los nombres de sus colaboradores pueden utilizarse para respaldar o promocionar productos derivados de este software sin una autorización específica previa por escrito.-->• Nem o nome da Fundação Xiph.org nem os nomes de seus colaboradores podem ser usados para endossar ou promover produtos derivados deste software sem permissão prévia por escrito.
-(3034)THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE FOUNDATION OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<==>ESTE SOFTWARE LO PROPORCIONAN LOS TITULARES DEL COPYRIGHT Y SUS COLABORADORES "TAL CUAL", Y QUEDA EXCLUIDA CUALQUIER GARANTÍA EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS DE COMERCIALIZACIÓN Y ADECUACIÓN PARA UN FIN CONCRETO. LA FUNDACIÓN Y SUS COLABORADORES NO SERÁN EN NINGÚN CASO RESPONSABLES DE NINGÚN DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O CONSECUENCIAL (INCLUIDOS, ENTRE OTROS, EL APROVISIONAMIENTO DE SERVICIOS O BIENES SUSTITUIDOS; LA PÉRDIDA DE USO, DATOS O BENEFICIOS O EL CIERRE DE NEGOCIO), SEA CUAL SEA LA CAUSA O LA SUPUESTA RESPONSABILIDAD, INCLUSO EN LOS CASOS DE INCUMPLIMIENTO DE CONTRATO, RESPONSABILIDAD ESTRICTA O AGRAVIO (INCLUIDA LA NEGLIGENCIA O NO) DERIVADOS EN MODO ALGUNO DEL USO DE ESTE SOFTWARE, AUNQUE SE LES HAYA AVISADO DE LA POSIBILIDAD DE DICHO DAÑO.-->ESTE SOFTWARE É FORNECIDO PELOS TITULARES DA COPYRIGHT E SEUS COLABORADORES "TAL QUAL", E QUALQUER GARANTIA EXPRESSA OU IMPLÍCITA, INCLUINDO, ENTRE OUTRAS, AS GARANTIAS DE COMERCIALIZAÇÃO E ADEQUAÇÃO PARA UMA FINALIDADE ESPECÍFICA. EM NENHUMA HIPÓTESE, A FUNDAÇÃO OU COLABOLADORES SERÃO RESPONSÁVEIS POR QUAISQUER DANOS DIRETOS, INDIRETOS, ESPECIAIS, EXEMPLARES OU CONSEQUÊNCIAL (INCLUINDO, MAS NÃO SE LIMITANDO À AQUISIÇÃO DE BENS OU SERVIÇOS, PERDA DE USO, DADOS OU LUCROS OU INTERRUPÇÃO DE NEGÓCIOS) CAUSADOS E SOB QUALQUER TEORIA DE RESPONSABILIDADE, SEJA EM CONTRATO, RESPONSABILIDADE OBJETIVA OU (INCLUINDO NEGLIGÊNCIA OU NÃO) DECORRENTE DE QUALQUER MANEIRA DO USO DO SOFTWARE, MESMO QUE DA POSSIBILIDADE DE TAIS DANOS.
+(3030)Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:<==>Se permiten la redistribución y el uso en formatos binario y de código fuente, con o sin modificación, siempre que se cumplan las siguientes condiciones:-->É permitia a redistribuição e uso em formatos binário e código fonte, com ou sem modificação, desde que cumpridas as seguintes condições:
+(3031)• Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.<==>• Las redistribuciones del código fuente deben conservar la anterior información de copyright, esta lista de condiciones y la siguiente exención de responsabilidad.-->• As redistribuições do código fonte devem conservar a informação da copyright, essa lista de condições e a seguinte isenção de responsabilidade.
+(3032)• Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.<==>• Las redistribuciones en formato binario deben reproducir la anterior información de copyright, esta lista de condiciones y la siguiente exención de responsabilidad en la documentación o en otros materiales incluidos en la distribución.-->• As redistribuições em formato binário devem reproduzir a informação da copyright, essa lista de condições e a seguinte isenção de responsabilidade na documentação e/ou outros materiais fornecidos com a distribuição.
+(3033)• Neither the name of the Xiph.org Foundation nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.<==>• Ni el nombre de Xiph.org Foundation ni los nombres de sus colaboradores pueden utilizarse para respaldar o promocionar productos derivados de este software sin una autorización específica previa por escrito.-->• Nem o nome da Fundação Xiph.org nem os nome de seus colaboradores podem ser utilizados para apoiar ou promover produtos derivados desse software sem autorização prévia por escrito.
+(3034)THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE FOUNDATION OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<==>ESTE SOFTWARE LO PROPORCIONAN LOS TITULARES DEL COPYRIGHT Y SUS COLABORADORES "TAL CUAL", Y QUEDA EXCLUIDA CUALQUIER GARANTÍA EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS DE COMERCIALIZACIÓN Y ADECUACIÓN PARA UN FIN CONCRETO. LA FUNDACIÓN Y SUS COLABORADORES NO SERÁN EN NINGÚN CASO RESPONSABLES DE NINGÚN DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O CONSECUENCIAL (INCLUIDOS, ENTRE OTROS, EL APROVISIONAMIENTO DE SERVICIOS O BIENES SUSTITUIDOS; LA PÉRDIDA DE USO, DATOS O BENEFICIOS O EL CIERRE DE NEGOCIO), SEA CUAL SEA LA CAUSA O LA SUPUESTA RESPONSABILIDAD, INCLUSO EN LOS CASOS DE INCUMPLIMIENTO DE CONTRATO, RESPONSABILIDAD ESTRICTA O AGRAVIO (INCLUIDA LA NEGLIGENCIA O NO) DERIVADOS EN MODO ALGUNO DEL USO DE ESTE SOFTWARE, AUNQUE SE LES HAYA AVISADO DE LA POSIBILIDAD DE DICHO DAÑO.-->ESSE SOFTWARE É FORNECIDO PELOS TITULARES DA COPYRIGHT E SEUS COLABORADORES "TAL QUAL", E QUALQUER GARANTIA EXPRESSA OU IMPLÍCITA, INCLUINDO, ENTRE OUTRAS, AS GARANTIAS DE COMERCIALIZAÇÃO E ADEQUAÇÃO PARA UMA FINALIDADE ESPECÍFICA. EM NENHUMA HIPÓTESE, A FUNDAÇÃO OU COLABOLADORES SERÃO RESPONSÁVEIS POR QUAISQUER DANOS DIRETOS, INDIRETOS, ESPECIAIS, EXEMPLARES OU CONSEQUÊNCIAL (INCLUINDO, MAS NÃO SE LIMITANDO À AQUISIÇÃO DE BENS OU SERVIÇOS, PERDA DE USO, DADOS OU LUCROS OU INTERRUPÇÃO DE NEGÓCIOS) CAUSADOS E SOB QUALQUER TEORIA DE RESPONSABILIDADE, SEJA EM CONTRATO, RESPONSABILIDADE OBJETIVA OU (INCLUINDO NEGLIGÊNCIA OU NÃO) DECORRENTE DE QUALQUER MANEIRA DO USO DO SOFTWARE, MESMO QUE DA POSSIBILIDADE DE TAIS DANOS.
 (3035)NAV CARD<==>CARTA DE NAVEGACIÓN-->CARTA DE NAVEGAÇÃO
-(3036)Allow EA to share my information with selected partners<==>Permitir a EA compartir mis datos con socios seleccionados.-->Permitir que a EA compartilhe minhas informações com parceiros selecionados
-(3037)ASTEROID RELEASE<==>LANZAMIENTO DE ASTEROIDE-->LANÇAMENTO DO ASTEROIDE
+(3036)Allow EA to share my information with selected partners<==>Permitir a EA compartir mis datos con socios seleccionados.-->Permitir que a EA compartilhe meus dados com parceiros selecionados.
+(3037)ASTEROID RELEASE<==>LANZAMIENTO DE ASTEROIDE-->LANÇAMENTO DE ASTEROIDE
 (3038)Animation Director<==>Director de animación-->Diretor de Animação
 (3039)Special Thanks<==>Agradecimiento especial-->Agradecimentos Especiais
-(3040)If there's really a Marker in Government Sector, and I'm the one responsible for creating it, then I have to find a way to destroy it.\n\nI need to get to Government Sector before it's too late. With all the shuttles gone, the Sprawl Transport Hub is my best bet.<==>Si de verdad hay una Efigie en el sector gubernamental y yo soy el responsable de su creación, tendré que buscar el modo de destruirla.\n\nTengo que llegar al sector gubernamental antes de que sea demasiado tarde. A falta de transbordadores, el nodo de transporte del Eje es mi mejor opción.-->Se há realmente um marcador no Setor Governamental, e eu sou o único responsável por sua criação, então eu tenho que encontrar uma maneira de destruí-lo.\n\nPreciso chegar ao Setor Governamental, antes que seja tarde demais. Com todos os transportadores em falta, a expansão de centro de Transporte é a minha melhor aposta.
+(3040)If there's really a Marker in Government Sector, and I'm the one responsible for creating it, then I have to find a way to destroy it.\n\nI need to get to Government Sector before it's too late. With all the shuttles gone, the Sprawl Transport Hub is my best bet.<==>Si de verdad hay una Efigie en el sector gubernamental y yo soy el responsable de su creación, tendré que buscar el modo de destruirla.\n\nTengo que llegar al sector gubernamental antes de que sea demasiado tarde. A falta de transbordadores, el nodo de transporte del Eje es mi mejor opción.-->Se existe de verdade um Marker no Setor Governamental, e eu sou o único responsável pela sua criação, então terei que encontrar uma maneira de destruí-lo.\n\nTenho de chegar ao Setor Governamental antes que seja tarde demais. Com a falta de transportadores, o centro de transporte do Eixo é minha melhor opção.
 (3041-IGUAIS)Joel Petersen
 (3042-IGUAIS)Julian Giardinelli
 (3043-IGUAIS)Luis Alonso
@@ -3051,20 +3051,20 @@
 (3051-IGUAIS)Ryan Church
 (3052-IGUAIS)Todd Arnold
 (3053-IGUAIS)Yannick Simard
-(3054)4 Nessa Isaac Kaan Hilal & my loving family<==>Para Nessa, Isaac, Kaan, Hilal y mi familia-->Para Nessa, Isaac, Kaan Hilal e minha adorável familia
-(3055-IGUAIS)A mi Chiquilla
+(3054)4 Nessa Isaac Kaan Hilal & my loving family<==>Para Nessa, Isaac, Kaan, Hilal y mi familia-->Para Nessa, Isaac, Kaan, Hilal e minha família
+(3055-IGUAIS)A mi Chiquilla-->para minha garotinha
 (3056-IGUAIS)À mon beau Bidouwa
 (3057-IGUAIS)À mon Poussin que j'aime pluche! xx
-(3058)A Sara, ma famille, mes amis & homies. I Love you!<==>A Sara, ma famille, mes amis y colegas. ¡Os quiero!-->A Sara, ma famille, mes amis e colegas. Eu amo vocês!
+(3058)A Sara, ma famille, mes amis & homies. I Love you!<==>A Sara, ma famille, mes amis y colegas. ¡Os quiero!-->Para Sara, minha família, meus amigos e colegas. Eu amo vocês!
 (3059)Alejandro, Lohan and Kekoa Gil.<==>Alejandro, Lohan y Kekoa Gil.-->Alejandro, Lohan e Kekoa Gil.
-(3060)All game devs who met with hard times this year<==>Todos los desarrolladores de juegos que han pasado momentos difíciles este año-->Todos os desenvolvedores de jogos que passaram tempos difíceis esse ano
+(3060)All game devs who met with hard times this year<==>Todos los desarrolladores de juegos que han pasado momentos difíciles este año-->Todos os desenvolvedores de jogos que passaram momentos difíceis nesse ano
 (3061)Anelle, Isaiah, Jordan & introducing Lucia Jackson<==>Anelle, Isaiah, Jordan y la nueva Lucia Jackson-->Anelle, Isaiah, Jordan e a nova Lucia Jackson
 (3062)Annie Yeoh, Zeon Lee and Madelyn<==>Annie Yeoh, Zeon Lee y Madelyn-->Annie Yeoh, Zeon Lee e Madelyn
 (3063)Arden, Carter, and Jen Woldman<==>Arden, Carter y Jen Woldman-->Arden, Carter, e Jen Woldman
 (3064)Aviva and Killa<==>Aviva y Killa-->Aviva e Killa
-(3065)Bam, Opi, and The Fatness<==>Bam, Opi y La Grasa-->Bam, Opi, e a Adiposidade
-(3066)Big Thanks to Michelle, Ashley, Jessica & Jaz LvU<==>Muchas gracias a Michelle, Ashley, Jessica y Jaz. Os quiero.-->Um Grande Obrigado a Michelle, Ashley, Jessica e Jaz LvU
-(3067)Brenda & Baby Buster<==>Brenda y el pequeño Buster-->Brenda e Baby Buster
+(3065)Bam, Opi, and The Fatness<==>Bam, Opi y La Grasa-->Bam, Opi, e a gordura
+(3066)Big Thanks to Michelle, Ashley, Jessica & Jaz LvU<==>Muchas gracias a Michelle, Ashley, Jessica y Jaz. Os quiero.-->Muito obrigado a Michelle, Ashley, Jessica e Jaz LvU
+(3067)Brenda & Baby Buster<==>Brenda y el pequeño Buster-->Brenda e o pequeno Buster
 (3068-IGUAIS)Bronwyn Barry
 (3069)Buddy, Ben and Casey<==>Buddy, Ben y Casey-->Buddy, Ben e Casey
 (3070)Cat and new baby Mia<==>Cat y su nueva hija Mia-->Cat e sua nova filha Mia
@@ -3074,67 +3074,67 @@
 (3074)Chewy and Hillel. The worst cats ever<==>Chewy y Hillel. Los peores gatos del mudo-->Chewy e Hillel. Os piores gatos do mundo.
 (3075)Chris Coveney & Party Shark<==>Chris Coveney y Party Shark-->Chris Coveney e Party Shark
 (3076)Christina Pan and Jakey Ushijima<==>Christina Pan y Jakey Ushijima-->Christina Pan e Jakey Ushijima
-(3077)Christine for being patient! <3 To the FANS!<==>¡Christine por ser paciente! ¡<3 a los FANS!-->Christine por ser paciênte! <3 Para os FÃNS!
-(3078)Dad, Mom, Lindsay & Aubrey for the love & support<==>Papá, mamá, Lindsay y Aubrey por su amor y su apoyo-->Pai, Mãe, Lindsay e Aubrey pelo seu amor e apoio
+(3077)Christine for being patient! <3 To the FANS!<==>¡Christine por ser paciente! ¡<3 a los FANS!-->Christine por ser paciente! <3 Para os FÃS!
+(3078)Dad, Mom, Lindsay & Aubrey for the love & support<==>Papá, mamá, Lindsay y Aubrey por su amor y su apoyo-->Papai, Mamãe, Lindsay e Aubrey pelo seu amor e seu apoio
 (3079)Daniel Gagne at Spoutnik Alma<==>Daniel Gagne de Spoutnik Alma-->Daniel Gagne de Spoutnik Alma
 (3080-IGUAIS)Dario Martinez
-(3081)Equipping this suit will give the wearer the following benefits:\n• 15% increase in health restored by Med Packs.\nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>La equipación de este traje ofrecerá a quien lo lleve las siguientes ventajas:\n• aumento del 15% en la salud restablecida por los botiquines\nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->Equipando este Traje irá dar ao portador as seguintes vantagens:\n• 15% de aumento na saúde restabelecida pelos tubos\nSua compra garante um mínimo de 25 espaços no inventário e 25% de blindagem. Seu DRI mantém a maior melhora de Blindagens e Inventário.
-(3082)Debra, Luka, Kenji & Tomiko for the love & support<==>Debra, Luka, Kenji y Tomiko por su amor y su apoyo-->Debra, Luka, Kenji e Tomiko pelo o amor e seu apoio
+(3081)Equipping this suit will give the wearer the following benefits:\n• 15% increase in health restored by Med Packs.\nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>La equipación de este traje ofrecerá a quien lo lleve las siguientes ventajas:\n• aumento del 15% en la salud restablecida por los botiquines\nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->Equipar esse traje irá dar ao portador os seguintes benefícios:\n• 15% de aumento na saúde restabelecida pelos kits médicos\nSua compra garante um mínimo de 25 espaços de inventário e 25% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
+(3082)Debra, Luka, Kenji & Tomiko for the love & support<==>Debra, Luka, Kenji y Tomiko por su amor y su apoyo-->Debra, Luka, Kenji e Tomiko pelo seu amor e apoio
 (3083-IGUAIS)Dédicace à mon amour de Gicrabe :) Je t'aime.
 (3084-IGUAIS)Dr.J.Pronk
-(3085)DS2 team: love u all & much love to my hubby/cat!<==>Equipo de DS2: ¡os quiero a todos, y mucho amor para mi marido/gato!-->Equipe do DS2: Eu amo a todos e muito o meu marido/gato!
+(3085)DS2 team: love u all & much love to my hubby/cat!<==>Equipo de DS2: ¡os quiero a todos, y mucho amor para mi marido/gato!-->Equipe do DS2: Eu amo todos vocês, e muito amor para o meu marido/gato!
 (3086-IGUAIS)Eleni Nikitas
 (3087)Family, friends, and Isaac Clarke<==>Familia, amigos e Isaac Clarke-->Família, amigos, e Isaac Clarke
-(3088)For my friends: Shaloami??<==>Para mis amigos: Shaloami??-->Para os meus amigos: Shaloami??
-(3089)Friends, family, and all lolcats<==>Amigos, familia y todos los lolcats-->Amigos, família, e à todos os lolcats
-(3090)From ashes to a rising Phoenix at EA Shanghai ,Thx<==>De las cenizas a un fénix en EA Shanghai, gracias-->Se levantando das cinzas da Fênix em EA Shanghai ,Obrgiado
+(3088)For my friends: Shaloami??<==>Para mis amigos: Shaloami??-->Para meus amigos: Shaloami??
+(3089)Friends, family, and all lolcats<==>Amigos, familia y todos los lolcats-->Amigos, família e a todos os lolcats
+(3090)From ashes to a rising Phoenix at EA Shanghai ,Thx<==>De las cenizas a un fénix en EA Shanghai, gracias-->Das cinzas se levanta uma fênix na EA Shanghai, obrigado
 (3091)Gabrielle, JC & Max<==>Gabrielle, JC y Max-->Gabrielle, JC e Max
 (3092)Helene & Lydie. Team Kveik & Raffen.<==>Helene & Lydie. Equipo Kveik & Raffen.-->Helene e Lydie. Equipe Kveik e Raffen.
-(3093)Honored to join DS2 I learned a lot, thx everyone！<==>Ha sido un honor participar en DS2 He aprendido mucho, ¡gracias a todos！-->Tem sido uma honra em participar do DS2, aprendi muito, obrigados a todos!
+(3093)Honored to join DS2 I learned a lot, thx everyone！<==>Ha sido un honor participar en DS2 He aprendido mucho, ¡gracias a todos！-->Tem sido uma honra participar do DS2. Aprendi muito, obrigado a todos!
 (3094)I <3 Usui Takumi & Sebastian Michaelis \('~`;)/<==>I <3 Usui Takumi y Sebastian Michaelis \('~`;)/-->I <3 Usui Takumi e Sebastian Michaelis \('~`;)/
-(3095)I know DS2 will do well and we've only just begun <==>Sé que DS2 tendrá éxito y no hemos hecho más que empezar-->Eu sei que DS2 terá êxito e estamos apenas começamos
-(3096)I love all the girls in this game<==>Adoro a todas las chicas de este juego-->Eu adoro todas as garotas desse jogo
-(3097)I love horror games, Dead Space is my favorite!<==>Me encantan los juegos de terror, ¡y Dead Space es mi favorito!-->Eu adoro jogos de terror, Dead Space é o meu favorito!
-(3098)I love my DS2 family members, great job everyone! <==>Adoro a los miembros de mi familia de DS2, ¡buen trabajo, chicos!-->Eu adoro a minha família do DS2, bom trabalho galera! 
-(3099)I love you Crystal, Kai, and Koa<==>Os quiero, Crystal, Kai y Koa-->Eu amo vocês Crystal, Kai, e Koa
-(3100)I'm proud for the beautiful days & I learned a lot<==>Me enorgullezco de los preciosos días vividos y he aprendido mucho-->Tenho orgulho dos dias vividos e eu aprendi muito
-(3101)It took DS1/2, but I finally have a girlfriend  <==>Hizo falta pasar por DS1/2, pero por fin tengo novia-->Demorou o DS1/2, mas finalmente eu tenho uma namorada
-(3102)Joanne Diep and Hong Family Bro <3<==>Joanne Diep y mi hermano de la familia Hong <3-->Joanne Diep e meu Irmão da Família Hong <3
+(3095)I know DS2 will do well and we've only just begun <==>Sé que DS2 tendrá éxito y no hemos hecho más que empezar-->Eu sei que DS2 terá êxito e não fizemos mais do que apenas começamos
+(3096)I love all the girls in this game<==>Adoro a todas las chicas de este juego-->Eu amo todas as garotas desse jogo
+(3097)I love horror games, Dead Space is my favorite!<==>Me encantan los juegos de terror, ¡y Dead Space es mi favorito!-->Eu amo jogos de terror, Dead Space é meu favorito!
+(3098)I love my DS2 family members, great job everyone! <==>Adoro a los miembros de mi familia de DS2, ¡buen trabajo, chicos!-->Eu amo todos os membros da minha família de DS2, bom trabalho pessoal! 
+(3099)I love you Crystal, Kai, and Koa<==>Os quiero, Crystal, Kai y Koa-->Eu amo vocês; Crystal, Kai, e Koa
+(3100)I'm proud for the beautiful days & I learned a lot<==>Me enorgullezco de los preciosos días vividos y he aprendido mucho-->Tenho orgulho dos maravilhosos dias vividos e aprendi muito
+(3101)It took DS1/2, but I finally have a girlfriend  <==>Hizo falta pasar por DS1/2, pero por fin tengo novia-->Demorou o DS1/2, mas finalmente tenho uma namorada
+(3102)Joanne Diep and Hong Family Bro <3<==>Joanne Diep y mi hermano de la familia Hong <3-->Joanne Diep e meu irmão da família Hong <3
 (3103)Joe Reeder and the Eyeball kids B and Z. Love you<==>Joe Reeder y el dúo Eyeball, B y Z. Os quiero.-->Joe Reeder e a dupla Eyeball, B e Z. Amo vocês.
 (3104)Johnnie, Camile, Edison, Trevor & Remy Brooks<==>Johnnie, Camile, Edison, Trevor y Remy Brooks-->Johnnie, Camile, Edison, Trevor e Remy Brooks
 (3105)Laura Walker, Aidan Walker, and Heaven Steed<==>Laura Walker, Aidan Walker y Heaven Steed-->Laura Walker, Aidan Walker, e Heaven Steed
 (3106)Lisa Mumbach and Brodie Mumbach<==>Lisa Mumbach y Brodie Mumbach-->Lisa Mumbach e Brodie Mumbach
-(3107)Look for my Lanzhou mien in SFO! Coming soon!<==>¡Atención a mi Lanzhou mien en SFO! ¡Próximamente!-->Olhe para o meu Lanzhou mien em SFO! Em breve!
-(3108)Looking 4 a way out from the dark and nothingness<==>En busca de una salida de la oscuridad y la insignificancia-->Procurando por uma saída da escuridão e do nada
-(3109)Lorna, zoe, and rzo! Love you guys!<==>Lorna, zoe y rzo! ¡Os quiero!-->Lorna, zoe, e rzo! Eu amo vocês galera!
-(3110)love & thanks to Joy & Nathaniel<==>Mi amor y mi agradecimiento a Joy y Nathaniel-->Muito Amor e Agradecimento a Joy e Nathaniel
-(3111)Love 2 Michal, Mina, Hootz, Nir, Guy, Family!<==>¡Amor para Michal, Mina, Hootz, Nir, Guy y mi familia!-->Um  abraço para Michal, Mina, Hootz, Nir, Guy, e minha Família!
-(3112)Love to Becs, Lyssa and Arnie!<==>¡Amor para Becs, Lyssa y Arnie!-->Um abraço para Becs, Lyssa e Arnie!
-(3113)Lovely Ariri, family and friends<==>La encantadora Ariri, familia y amigos-->A adorável Ariri, família e amigos
-(3114)LVU - Nadya, Katya, Mom, Dad, Candice, Ray & Tony!<==>¡Os quiero, Nadya, Katya, mamá, papá, Candice, Ray y Tony!-->Eu amo a - Nadya, Katya, Mãe, Pai, Candice, Ray e Tony!
+(3107)Look for my Lanzhou mien in SFO! Coming soon!<==>¡Atención a mi Lanzhou mien en SFO! ¡Próximamente!-->Procurem pelo meu Lanzhou mien em SFO! Em breve!
+(3108)Looking 4 a way out from the dark and nothingness<==>En busca de una salida de la oscuridad y la insignificancia-->Em busca de uma saída para a escuridão e a insignificância
+(3109)Lorna, zoe, and rzo! Love you guys!<==>Lorna, zoe y rzo! ¡Os quiero!-->Lorna, zoe, e rzo! Eu amo vocês!
+(3110)love & thanks to Joy & Nathaniel<==>Mi amor y mi agradecimiento a Joy y Nathaniel-->Meu amor e agradecimentos a Joy e Nathaniel
+(3111)Love 2 Michal, Mina, Hootz, Nir, Guy, Family!<==>¡Amor para Michal, Mina, Hootz, Nir, Guy y mi familia!-->Com amor para Michal, Mina, Hootz, Nir, Guy e minha Família!
+(3112)Love to Becs, Lyssa and Arnie!<==>¡Amor para Becs, Lyssa y Arnie!-->Com amor para Becs, Lyssa e Arnie!
+(3113)Lovely Ariri, family and friends<==>La encantadora Ariri, familia y amigos-->Para a adorável Ariri, família e amigos
+(3114)LVU - Nadya, Katya, Mom, Dad, Candice, Ray & Tony!<==>¡Os quiero, Nadya, Katya, mamá, papá, Candice, Ray y Tony!-->Eu amo vocês, Nadya, Katya, Mamãe, Papai, Candice, Ray e Tony!
 (3115-IGUAIS)M1.0 & MLE2.0
 (3116)Margie and Ashley for keeping me smiling<==>Margie y Ashley por mantenerme sonriente-->Margie e Ashley por me manter sorridente
 (3117)Mellie and Bartok<==>Mellie y Bartok-->Mellie e Bartok
 (3118-IGUAIS)Merci au jeux vidéo d'exister
-(3119)Michelle Powers for all the love and adventures!<==>¡Michelle Powers por todo su amor y por las aventuras!-->Michelle Powers por todo o seu amor e as aventuras!
+(3119)Michelle Powers for all the love and adventures!<==>¡Michelle Powers por todo su amor y por las aventuras!-->Michelle Powers por todo seu amor e pelas aventuras!
 (3120)Molly Ten Broeck for the continued love and ideas.<==>Molly Ten Broeck por su continuo amor y sus ideas.-->Molly Ten Broeck pelo seu contínuo amor e suas idéias.
-(3121)Mom, Sissy, and Youn Joung<==>Mamá, Sissy y Youn Joung-->Mãe, Sissy, e Youn Joung
-(3122)My high-fiving fiancee Meghan, for being awesome<==>Mi alentadora prometida, Meghan, por ser fantástica-->Minha incentivada prometida Meghan, por ser fantástica
-(3123)My love and gratitude to Michèle Lefebvre<==>Mi amor y mi gratitud a Michèle Lefebvre-->O meu carinho e minha gratidão à Michèle Lefebvre
+(3121)Mom, Sissy, and Youn Joung<==>Mamá, Sissy y Youn Joung-->Mamãe, Sissy, e Youn Joung
+(3122)My high-fiving fiancee Meghan, for being awesome<==>Mi alentadora prometida, Meghan, por ser fantástica-->Minha encorajadora fiadora Meghan, por ser fantástica
+(3123)My love and gratitude to Michèle Lefebvre<==>Mi amor y mi gratitud a Michèle Lefebvre-->Meu amor e minha gratidão à Michèle Lefebvre
 (3124)Nicholas & Thomas: For all the missed birthdays.<==>Nicholas y Thomas: por todos los cumpleaños perdidos.-->Nicholas e Thomas: Por todos os aniversários perdidos.
 (3125)Nina and Lazer Ignacio<==>Nina y Lazer Ignacio-->Nina e Lazer Ignacio
 (3126)Papoutsis and Elliott family  <==>La familia Papoutsis y Elliott-->À família Papoutsis e Elliott  
 (3127)Please don't kill me in my sleep!<==>¡Por favor, no me matéis mientras duermo!-->Por favor, não me mate enquanto eu durmo!
-(3128)Renee Rodriguez for being patient<==>Renee Rodriguez por ser paciente-->Renee Rodriguez por ser paciênte
+(3128)Renee Rodriguez for being patient<==>Renee Rodriguez por ser paciente-->Renee Rodriguez por ser paciente
 (3129)Respect frm communication, communicate frm respect<==>Respeta desde la comunicación, comunícate desde el respeto-->Respeito desde a comunicação, comunica-se desde o respeito
-(3130)Ricki, Baby Dylan, Mom, miss you Winston <3<==>Ricki, mamá, el bebé Dylan, te extrañamos, Winston <3-->Ricki, Baby Dylan, Mãe, sinto sua falta Winston <3
+(3130)Ricki, Baby Dylan, Mom, miss you Winston <3<==>Ricki, mamá, el bebé Dylan, te extrañamos, Winston <3-->Ricki, mamãe, o bebê Dylan, sinto sua falta, Winston <3
 (3131)Ruhi, Ravidranath, Pammi, Pooja and Sudhir!<==>¡Ruhi, Ravidranath, Pammi, Pooja y Sudhir!-->Ruhi, Ravidranath, Pammi, Pooja e Sudhir!
 (3132)play time<==>tiempo-->tempo
 (3133)Gravity Controls<==>Control de gravedad-->Controle de Gravidade
 (3134)Calibrating Repair Unit<==>Calibrando unidad de reparación-->Calibrando unidade de reparação
 (3135)Engineering<==>Ingeniería-->Engenharia
-(3136)Ammo and health are very scarce and enemies will brutalize you.<==>La munición y la salud son muy escasas, y los ataques enemigos serán brutales.-->Munição e saúde são muito escassos e os ataques inimigos irão brutalizar você.
-(3137)Aim and press [RDUp]<==>Apunta y pulsa [RDUp].-->Mire e aperte [RDUp]
+(3136)Ammo and health are very scarce and enemies will brutalize you.<==>La munición y la salud son muy escasas, y los ataques enemigos serán brutales.-->Munição e saúde são muito escassos e os ataques inimigos serão brutais.
+(3137)Aim and press [RDUp]<==>Apunta y pulsa [RDUp].-->Mire e pressione [RDUp]
 (3138-IGUAIS)20
 (3139)//extras<==>//Extras-->//Extras
 (3140-IGUAIS)ã
@@ -3145,22 +3145,22 @@
 (3145)///controls<==>///Controles-->///Controles
 (3146-IGUAIS)Scott Ferguson
 (3147)Escape to Ellie's ship.<==>Huye a la nave de Ellie.-->Escape para a nave da Ellie.
-(3148)guard<==>Custodiar-->Custodiar
+(3148)guard<==>Custodiar-->guardar
 (3149)///leaderboard<==>///Marcador-->///Marcador
-(3150)Proximity mine deployment tool.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to deploy a single proximity mine.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to disarm the last deployed mine for recovery.<==>Herramienta de activación de minas de proximidad.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para colocar una sola mina de proximidad.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para desarmar la última mina de proximidad activada para su recuperación.-->Ferramenta de ativação das minas de aproximidades.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: aperte [rsbottom] para implantar uma única mina de aproximidade.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: aperte [rstop] para desarmar a última mina implantado para a recuperação.
+(3150)Proximity mine deployment tool.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to deploy a single proximity mine.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to disarm the last deployed mine for recovery.<==>Herramienta de activación de minas de proximidad.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para colocar una sola mina de proximidad.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para desarmar la última mina de proximidad activada para su recuperación.-->Ferramenta de ativação de minas de proximidade.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para implantar uma única mina de proximidade.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para desarmar a última mina de proximidade implantada, para sua recuperação.
 (3151-IGUAIS)Jonathan Beyer
 (3152-IGUAIS)Jeff Karp
-(3153)Patient<==>Paciente-->Paciênte
+(3153)Patient<==>Paciente-->Paciente
 (3154)+{n} QUAD KILL<==>+{n} BAJA CUÁD.-->+{n} MORTE QUAD.
 (3155)Directors Online Marketing<==>Directores de marketing online-->Diretores de Marketing Online
 (3156-IGUAIS)64
-(3157-IGUAIS)Death is only the beginning. We are all one in the eternal flame of release.
-(3158-IGUAIS)Believe in the truth of unification. Elevate your life to a new plane of enlightenment.
-(3159-IGUAIS)The light of the universe shines through us. Take the first step to your rebirth.
-(3160-IGUAIS)Join us in paradise. Be one with all. Bring light through the darkness.
-(3161)You unlocked increased magazine size for the Pulse Rifle<==>Has desbloqueado un mayor tamaño del cargador para el rifle de impulsos.-->Foi desbloqueado, o aumentou do tamanho do carregador para o Rifle de Impulsos.
+(3157-IGUAIS)Death is only the beginning. We are all one in the eternal flame of release.-->A morte é apenas o começo. Estamos todos na chama eterna da liberação.
+(3158-IGUAIS)Believe in the truth of unification. Elevate your life to a new plane of enlightenment.-->Acredite na verdade da unificação. Eleve sua vida a um novo plano de
+(3159-IGUAIS)The light of the universe shines through us. Take the first step to your rebirth.-->A luz do universo brilha por meio de nós. Dê o primeiro passo para seu renascimento.
+(3160-IGUAIS)Join us in paradise. Be one with all. Bring light through the darkness.-->Una-se a nós no paraíso. Seja um conosco. Traga luz à escuridão.
+(3161)You unlocked increased magazine size for the Pulse Rifle<==>Has desbloqueado un mayor tamaño del cargador para el rifle de impulsos.-->Você desbloqueou um aumento no tamanho do carregador para o rifle de impulsos.
 (3162)HAZARD LINE GUN<==>CAÑÓN LINEAL DE RIESGO-->CANHÃO LINEAR DE RISCO
-(3163)SAFE<==>CAJA FUERTE-->BAÚ
+(3163)SAFE<==>CAJA FUERTE-->COFRE
 (3164-IGUAIS)5
 (3165-IGUAIS)5
 (3166-IGUAIS)Holden Hume
@@ -3171,18 +3171,18 @@
 (3171)Security<==>Seguridad-->Segurança
 (3172)lurker<==>merodeador-->Espreitador
 (3173)AGILITY ADVANCED SUIT<==>TRAJE AVANZADO DE AGILIDAD-->TRAJE AVANÇADO DE AGILIDADE
-(3174)Critical engine component.<==>Componente mecánico vital.-->Componente mecânico vital
+(3174)Critical engine component.<==>Componente mecánico vital.-->Componente mecânico vital.
 (3175)Director of Finance<==>Director de finanzas-->Diretor de Finanças
 (3176-IGUAIS)1
-(3177)Changing difficulty now will disable certain achievements, are you sure you want to continue?<==>Si cambias la dificultad ahora, se desactivarán determinados logros, ¿seguro que quieres continuar?-->Tem certeza que quer mudar a dificuldade?
-(3178)I hope you're happy. I never wanted to come here, but you had to drag us to this shithole. And now look what's happened. My baby girl turned into *sobs* something... I had to *breaking into sobs*...how could you...how could you leave us alone? Do you hear me? I HAD TO KILL MY BABY GIRL!<==>Espero que estés feliz. Yo nunca quise venir aquí, pero tú tenías que arrastrarnos. Y ahora mira lo que ha pasado. Mi pequeña se ha convertido en *llanto* algo... He tenido que *sollozos*... ¿Cómo pudiste?... ¿Cómo pudiste dejarnos solas? ¿Me oyes? ¡HE TENIDO QUE MATAR A MI PEQUEÑA!-->Espero que você esteja feliz. Eu nunca quis vir aqui, mas você tinha que arrastar-nos para esta merda. E agora veja o que aconteceu. Minha menina se transformou em algo *soluço*... eu tive que *soluço* como você poderia... como você poderia nos deixar sozinhas? Você pode me ouvir? EU TIVE QUE MATAR A MINHA FILHINHA!
-(3179)I hope you're happy. I never wanted to come here, but you had to drag us to this shithole. And now look what's happened. My baby girl turned into *sobs* something... I had to *breaking into sobs*...how could you...how could you leave us alone? Do you hear me? I HAD TO KILL MY BABY GIRL!<==>Espero que estés feliz. Yo nunca quise venir aquí, pero tú tenías que arrastrarnos. Y ahora mira lo que ha pasado. Mi pequeña se ha convertido en *llanto* algo... He tenido que *sollozos*... ¿Cómo pudiste?... ¿Cómo pudiste dejarnos solas? ¿Me oyes? ¡HE TENIDO QUE MATAR A MI PEQUEÑA!-->Espero que você esteja feliz. Eu nunca quis vir aqui, mas você tinha que arrastar-nos para esta merda. E agora veja o que aconteceu. Minha menina se transformou em algo *soluço*... eu tive que *soluço* como você poderia... como você poderia nos deixar sozinhas? Você pode me ouvir? EU TIVE QUE MATAR A MINHA FILHINHA!
+(3177)Changing difficulty now will disable certain achievements, are you sure you want to continue?<==>Si cambias la dificultad ahora, se desactivarán determinados logros, ¿seguro que quieres continuar?-->Se mudar a dificuldade agora, serão desativadas algumas conquistas. Tem certeza que quer continuar?
+(3178)I hope you're happy. I never wanted to come here, but you had to drag us to this shithole. And now look what's happened. My baby girl turned into *sobs* something... I had to *breaking into sobs*...how could you...how could you leave us alone? Do you hear me? I HAD TO KILL MY BABY GIRL!<==>Espero que estés feliz. Yo nunca quise venir aquí, pero tú tenías que arrastrarnos. Y ahora mira lo que ha pasado. Mi pequeña se ha convertido en *llanto* algo... He tenido que *sollozos*... ¿Cómo pudiste?... ¿Cómo pudiste dejarnos solas? ¿Me oyes? ¡HE TENIDO QUE MATAR A MI PEQUEÑA!-->Espero que você esteja feliz. Eu nunca quis vir aqui, mas você tinha que nos arrastar para essa merda. E agora veja o que aconteceu. Minha menina se transformou em *soluço* uma coisa... eu tive que *soluço*... como você pôde... como você pôde nos deixar sozinhas? Você está me ouvindo? EU TIVE QUE MATAR A MINHA GAROTINHA!
+(3179)I hope you're happy. I never wanted to come here, but you had to drag us to this shithole. And now look what's happened. My baby girl turned into *sobs* something... I had to *breaking into sobs*...how could you...how could you leave us alone? Do you hear me? I HAD TO KILL MY BABY GIRL!<==>Espero que estés feliz. Yo nunca quise venir aquí, pero tú tenías que arrastrarnos. Y ahora mira lo que ha pasado. Mi pequeña se ha convertido en *llanto* algo... He tenido que *sollozos*... ¿Cómo pudiste?... ¿Cómo pudiste dejarnos solas? ¿Me oyes? ¡HE TENIDO QUE MATAR A MI PEQUEÑA!-->Espero que você esteja feliz. Eu nunca quis vir aqui, mas você tinha que nos arrastar para essa merda. E agora veja o que aconteceu. Minha menina se transformou em *soluço* uma coisa... eu tive que *soluço*... como você pôde... como você pôde nos deixar sozinhas? Você está me ouvindo? EU TIVE QUE MATAR A MINHA GAROTINHA!
 (3180)move camera<==>Mover cámara-->Mover Câmera
-(3181)VP, EA Entertainment Licensing<==>Vicepresidente de licencias de EA Entertainment-->Vice-Presidente de Licenciamento da EA Entertainment
+(3181)VP, EA Entertainment Licensing<==>Vicepresidente de licencias de EA Entertainment-->Vice-Presidente de Licenças da EA Entertainment
 (3182)INFORMATION<==>INFORMACIÓN-->INFORMAÇÃO
 (3183)Closed<==>Cerrado-->Fechado
 (3184)WW SQE Manager<==>Director de SQE mundial-->Diretor de SQE Mundial
-(3185)You unlocked increased damage for the Seeker Rifle<==>Has desbloqueado más daño para el rifle buscador.-->Você desbloqueou mais dano para o Rifle Buscador.
+(3185)You unlocked increased damage for the Seeker Rifle<==>Has desbloqueado más daño para el rifle buscador.-->Você desbloqueou mais dano para o rifle buscador.
 (3186-IGUAIS)0
 (3187-IGUAIS)1
 (3188-IGUAIS)2
@@ -3193,7 +3193,7 @@
 (3193-IGUAIS)7
 (3194-IGUAIS)8
 (3195-IGUAIS)9
-(3196)The storage device was removed during use. Save failed.<==>El dispositivo de almacenamiento fue extraído durante su uso. Error al guardar.-->O dispositivo de armazenamento foi removido durante o uso. Falha ao salvar dados.
+(3196)The storage device was removed during use. Save failed.<==>El dispositivo de almacenamiento fue extraído durante su uso. Error al guardar.-->O dispositivo de armazenamento foi removido durante o uso. Erro ao salvar.
 (3197)input 1<==>Entrada 1-->Entrada 1
 (3198)LOADED<==>CARGADO-->CARREGADO
 (3199)LOADER CONTROL<==>CONTROL CARGADOR-->CONTROLE DO CARREGADOR
@@ -3209,7 +3209,7 @@
 (3209-IGUAIS)Daryl Smolen
 (3210-IGUAIS)Brad Trosin
 (3211-IGUAIS)Lisandro Dorfman
-(3212)Ellie and Stross came through a different entrance than me; the fastest way to get to their location is to take a shortcut through Hydrogen Processing.<==>Ellie y Stross no entraron por el mismo sitio que yo; el modo más rápido de llegar a su posición es atajando por el procesamiento de hidrógeno.-->Ellie e Stross vieram por uma entrada diferente da minha; a rota mais rápida para a localização deles é pegando um atalho pelo Processamento de Hidrogênio.
+(3212)Ellie and Stross came through a different entrance than me; the fastest way to get to their location is to take a shortcut through Hydrogen Processing.<==>Ellie y Stross no entraron por el mismo sitio que yo; el modo más rápido de llegar a su posición es atajando por el procesamiento de hidrógeno.-->Ellie e Stross não vieram pelo mesmo lugar que eu; o jeito mais rápida de chegar onde estão é pegando um atalho pelo processamento de hidrogênio.
 (3213-IGUAIS)01
 (3214-IGUAIS)04
 (3215)ONLINE<==>CONECTADO-->CONECTADO
@@ -3219,10 +3219,10 @@
 (3219)//calibrating...\n//..... \n//ready<==>//ajustando...\n//..... \n//listo-->//ajustando...\n//..... \n//pronto
 (3220)DNA SYSTEM OFFLINE<==>SISTEMA DE ADN DESCONECTADO-->SISTEMA DE DNA DESCONECTADO
 (3221)RESTOCK SAFETY CIRCUIT (REL)<==>RESTABLECER CIRCUITO DE SEGURIDAD (REC)-->RESTABELECER CIRCUITO DE SEGURANÇA (REC)
-(3222)This will upgrade your RELOAD by %g sec.<==>Se mejorará la RECARGA en %g seg.-->Isso irá melhorar sua RECARGA em %g seg.
+(3222)This will upgrade your RELOAD by %g sec.<==>Se mejorará la RECARGA en %g seg.-->Isso vai melhorar sua RECARGA em %g seg.
 (3223-IGUAIS)1
-(3224)prevent the humans from activating the control room terminals<==>Evita que los humanos activen los terminales de la sala de control.-->Evite que os humanos ativem os terminais da sala de controle.
-(3225)ranged attack<==>Ataque a distancia-->Ataque a distância
+(3224)prevent the humans from activating the control room terminals<==>Evita que los humanos activen los terminales de la sala de control.-->Impeça que os humanos ativem os terminais da sala de controle.
+(3225)ranged attack<==>Ataque a distancia-->Ataque à distância
 (3226-IGUAIS)Ash Huang
 (3227-IGUAIS)Steve Kody
 (3228-IGUAIS)Ed Molina
@@ -3234,9 +3234,9 @@
 (3234)resc/asst<==>resc./ay.-->resg./ajuda
 (3235)Version<==>Versión-->Versão
 (3236)Confirm\nRefueling<==>Confirmar\nrecarga-->Confirmar\nRecarregar
-(3237)Wide-beamed slicer with timed mines.\n• [c=CUSTOM2] Primary Fire [c=RESET]: press [rsbottom] to fire a wide energy beam.  Can slice many objects at once.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a timed energy mine.<==>Arma trituradora de rayo ancho con minas temporizadas.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo de energía ancho. Muy útil para cortar varios objetos a la vez.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para disparar una mina de energía temporizada.-->Arma trituradora de raio amplo com minas temporizadas.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: aperte [rsbottom] para disparar um raio amplo de energia. Pode cortar vários objetos de uma vez.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: aperte [rstop] para disparar uma mina de energia temporizada.
-(3238)Tiger Camo Red<==>Rojo camuflaje tigre-->Camuflagem de Tigre Vermelha
-(3239)Your selected storage device has either been changed or is no longer available. You will need to select a storage device to be able to save or load games.<==>El dispositivo de almacenamiento seleccionado ha cambiado o ya no está disponible. Tienes que seleccionar un dispositivo de almacenamiento para poder guardar o cargar partidas.-->Seu dispositivo de armazenagem foi trocado ou não está mais disponível.Você precisa selecionar um dispositivo de armazenagem, para poder salvar ou carregar jogos..
+(3237)Wide-beamed slicer with timed mines.\n• [c=CUSTOM2] Primary Fire [c=RESET]: press [rsbottom] to fire a wide energy beam.  Can slice many objects at once.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a timed energy mine.<==>Arma trituradora de rayo ancho con minas temporizadas.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo de energía ancho. Muy útil para cortar varios objetos a la vez.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para disparar una mina de energía temporizada.-->Arma trituradora de raio amplo com minas temporizadas.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um raio amplo de energia. Muito útil para cortar vários objetos de uma só vez.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar uma mina de energia temporizada.
+(3238)Tiger Camo Red<==>Rojo camuflaje tigre-->Vermelho Camuflagem Tigre 
+(3239)Your selected storage device has either been changed or is no longer available. You will need to select a storage device to be able to save or load games.<==>El dispositivo de almacenamiento seleccionado ha cambiado o ya no está disponible. Tienes que seleccionar un dispositivo de almacenamiento para poder guardar o cargar partidas.-->O dispositivo de armazenamento selecionado foi trocado ou não está mais disponível. Você precisa selecionar um dispositivo de armazenamento para poder salvar ou carregar jogos.
 (3240)DTK Industries<==>Industrias DTK-->Indústrias DTK
 (3241-IGUAIS)1
 (3242-IGUAIS)Mariska Van Bokhoven
@@ -3244,8 +3244,8 @@
 (3244-IGUAIS)1
 (3245)Kills<==>Bajas-->Mortes
 (3246)IT Leader<==>Jefe de TI-->Chefe de TI
-(3247)Aim and pull [RSBottom]<==>Apunta y pulsa [RSBottom].-->Mire e aperte [RSBottom]
-(3248)STASIS PACK<==>CARGA DE ESTABILIZACIÓN-->PACOTE DE ESTABILIZAÇÃO
+(3247)Aim and pull [RSBottom]<==>Apunta y pulsa [RSBottom].-->Mire e pressione [RSBottom]
+(3248)STASIS PACK<==>CARGA DE ESTABILIZACIÓN-->CARGA DE ESTABILIZAÇÃO
 (3249)sort<==>ordenar-->ordenar
 (3250)Sort<==>Ordenar-->Ordenar
 (3251-IGUAIS)1
@@ -3254,23 +3254,23 @@
 (3254){n}\nSUICIDE<==>{n}\nSUICIDIO-->{n}\nSUICIDIO
 (3255-IGUAIS)Alvi Islamaj
 (3256)A.I. Divider Head<==>Cabeza divisora de I.A.-->Cabeça Divisora de I.A.
-(3257)The Agility Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: Stasis duration is increased by 10%. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de agilidad ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de estabilización [c=RESET]: aumento del 10% en la duración de la estabilización. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->A Roupa de Agilidade garante funcionalidades únicas a quem a veste:\n• [c=CUSTOM3] Bônus de Estabilizaçãos [c=RESET]: Duração da estabilização é aumentada por 10%. \nSua compra garante um mínimo de 15 espaços no inventório e 15% de blindagem. Seu DRI mantém a maior melhoria de blindagem e Inventório.
-(3258)Urban Camo Viral White<==>Blanco viral camuflaje urbano-->Camuflagem Urbana Branca Viral
+(3257)The Agility Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: Stasis duration is increased by 10%. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de agilidad ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de estabilización [c=RESET]: aumento del 10% en la duración de la estabilización. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O traje de agilidade oferece uma funcionalidade única para quem o usa:\n• [c=CUSTOM3] Bônus de Estabilização [c=RESET]: aumento de 10% na duração da estabilização. \nSua compra garante um mínimo de 15 espaços no inventário e 15% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
+(3258)Urban Camo Viral White<==>Blanco viral camuflaje urbano-->Branco Viral Camuflagem Urbana
 (3259-IGUAIS)1
 (3260-IGUAIS)1
-(3261)TPS REPORT: Crypt Ops Temperature\nCrypt Officer: Sizzle, Jay\n\nThe software glitch that caused the thaw and loss of 2 bodies last week has returned.   We were able to switch the majority of section 1 over to manual  control before any significant rise in temperature.   I still suspect the EarthGov officers that were denied access to the crypt last week are somehow responsible.   It may prove to be otherwise, but the timing of their visit and the error is too coincidental.\n\nWe will reformat the operating system tonight, eliminating any chance of possible infectious software.   I'll pull a triple shift to ensure all goes well.\n\nSizzle out.<==>INFORME DE TPS: temperatura de las operaciones en la cripta\nOficial de cripta: Sizzle, Jay\n\nEl fallo de software que provocó la descongelación y la pérdida de 2 cuerpos la semana pasada se ha repetido. Conseguimos pasar la mayoría de la sección 1 a control manual antes de que se produjese cualquier subida significativa de la temperatura. Sigo sospechando que los oficiales del gobierno de la Tierra a los que se les denegó el acceso a la cripta la semana pasada tienen algo que ver. Podría no ser así, pero la coincidencia temporal entre su visita y el error es demasiada casualidad.\n\nReformatearemos el sistema operativo esta noche y eliminaremos cualquier posible software infeccioso. Realizaré un turno triple para asegurarme de que todo va bien.\n\nSizzle, corto.-->RELATÓRIO DE TPS: Temperatura das operações na Crípta\nOficial de Crípta: Sizzle, Jay\n\nA falha no software que provocou o descongelamento e perda de 2 corpos na semana passada se repetiu. Nós fomos capazes de transferir a maioria da seção 1 ao controle manual antes de qualquer aumento significante da temperatura. Continuo suspeitando que os oficiais do Governo da Terra que tiveram o acesso a cripta negado na semana passada são responsáveis de alguma maneira. Pode ser que não, mas a coincidência temporal entre sua visita e o erro é grande.\n\nNós vamos re-formatar o sistema operacional essa noite, eliminando qualquer chance de possível software infeccioso. Vou realizar um turno triplo para assegurar-me que tudo vá bem.\n\nSizzle desliga.
-(3262)VFX Artists<==>Diseñadores de efectos visuales-->Desenhistas de Efeitos Visuais
+(3261)TPS REPORT: Crypt Ops Temperature\nCrypt Officer: Sizzle, Jay\n\nThe software glitch that caused the thaw and loss of 2 bodies last week has returned.   We were able to switch the majority of section 1 over to manual  control before any significant rise in temperature.   I still suspect the EarthGov officers that were denied access to the crypt last week are somehow responsible.   It may prove to be otherwise, but the timing of their visit and the error is too coincidental.\n\nWe will reformat the operating system tonight, eliminating any chance of possible infectious software.   I'll pull a triple shift to ensure all goes well.\n\nSizzle out.<==>INFORME DE TPS: temperatura de las operaciones en la cripta\nOficial de cripta: Sizzle, Jay\n\nEl fallo de software que provocó la descongelación y la pérdida de 2 cuerpos la semana pasada se ha repetido. Conseguimos pasar la mayoría de la sección 1 a control manual antes de que se produjese cualquier subida significativa de la temperatura. Sigo sospechando que los oficiales del gobierno de la Tierra a los que se les denegó el acceso a la cripta la semana pasada tienen algo que ver. Podría no ser así, pero la coincidencia temporal entre su visita y el error es demasiada casualidad.\n\nReformatearemos el sistema operativo esta noche y eliminaremos cualquier posible software infeccioso. Realizaré un turno triple para asegurarme de que todo va bien.\n\nSizzle, corto.-->RELATÓRIO DE TPS: temperatura das operações na cripta\nOficial de Crípta: Sizzle, Jay\n\nA falha de software que provocou o descongelamento e perda de 2 corpos na semana passada aconteceu de novo. Conseguimos transferir a maioria da seção 1 para o controle manual antes que fosse produzido qualquer aumento significativo da temperatura. Continuo suspeitando que os oficiais do Governo da Terra que tiveram o acesso negado à cripta negado na semana passada são responsáveis de alguma maneira. Pode ser que não, mas a coincidência temporal entre sua visita e o erro é muito grande.\n\nVamos reformatar o sistema operacional essa noite, eliminando qualquer chance de um possível software malicioso. Vou fazer um turno triplo para me assegurar que tudo corra bem.\n\nSizzle, desligo.
+(3262)VFX Artists<==>Diseñadores de efectos visuales-->Artistas de Efeitos Visuais
 (3263-IGUAIS)0
-(3264)%1 requires downloadable content that is missing and cannot be used.<==>%1 necesita una descarga de contenido que falta y no se puede utilizar.-->Falha no carregamento.O save do jogo requer conteúdo externo que está ausente ou corrompido.
+(3264)%1 requires downloadable content that is missing and cannot be used.<==>%1 necesita una descarga de contenido que falta y no se puede utilizar.-->%1 precisa de um conteúdo adicional que não pode ser encontrado, ou que não pode ser utilizado.
 (3265-IGUAIS)Ömer Baristiran
 (3266-IGUAIS)Patricia Kallusch
 (3267-IGUAIS)Veronika Sarossy
 (3268-IGUAIS)5.1 surround
 (3269)Store Updated:<==>Almacén actualizado:-->Loja atualizada:
-(3270)United Spacefaring Guild History series\n\nTITAN STATION:  CONQUERING A MOON, PART 2 of 2\n\nA large colony was established on Titan to study the moon's every seismic detail and prepare it for disassembly.   As the operation got under way, the orbital platforms that assisted with the work became the prototypes for the planetcrackers that would soon follow.\n\nTitan was sucessfully "cracked" and harvested, only slightly behind schedule.   It was a major boost for the then-beleaguered population on Earth, who believed their extinction from lack of resources was imminent.\n\nTitan's harvest was halted before the entire moon was dissembled, leaving the small shard where the original colony had started.   From here, the station grew in leaps and bounds as the new era of planetcracking got underway, serving as both a critical research outpost, and with the advent of shockpoint drives, a way station for all planetcracking missions going forward.\n\nIt is now whimsically known as the Sprawl, for having done just that over the many years of its operation.<==>Serie Historia del Gremio Unido de los Viajes Espaciales\n\nESTACIÓN TITÁN: LA CONQUISTA DE UNA LUNA, PARTE 2 de 2\n\nEn Titán se estableció una gran colonia cuya misión era estudiar todos los detalles sísmicos de la luna y prepararla para la explotación. Las plataformas orbitales utilizadas para llevar a cabo la operación se convirtieron en prototipos para las extractoras planetarias que aparecerían poco después.\n\nLa extracción de Titán se completó con un ligero retraso y resultó muy importante para la, en aquel momento, hostigada población de la Tierra, que creía que su extinción era inminente debido a la escasez de recursos.\n\nLa extracción de Titán se detuvo antes de que la luna se hubiese explotado por completo, dejando solo el pequeño fragmento en el que se había asentado la colonia original. A partir de ahí, la estación fue creciendo a medida que la nueva era de la extracción planetaria se iba consolidando, y se convirtió en una importante base de investigación y, con la llegada de los motores de distorsión, en una estación de escala para todas las misiones de extracción planetaria que se llevaran a cabo.\n\nPrecisamente por eso, hoy en día se la conoce como El Eje.-->Histórico das viagens espacias\n\nESTAÇÃO TITÃ: CONQUISTANDO A LUA, PARTE 2 de 2\n\nUma grande colônia foi estabelecida em Titã para estudar cada detalhe sísmico e prepará-la para exploração. Plataformas orbitais utilizadas para efetuar a operação tornaram-se protótipos das extratoras planetárias que apareceram logo em seguida.\n\nA extração de Titã se completou com um ligeiro atraso e foi muito imortante para a então sitiada população da Terra, que acreditava que sua extinção era eminente devido a falta de recursos.\n\nA extração de Titã foi interrompida antes que a lua tivesse sido totalmente extraída, deixando apenas o pequeno fragmento onde a colônia original havia iniciado. A partir daí, a estação foi crescendo na medida que a nova era de extração planetária ia se consolidando, servindo como base de pesquisas, e com a chegada dos motores de distorção, se tornou uma estação de escala para todas as missões de extração planetária que se iniciavam.\n\nExatamente por isso, hoje ela é conhecida como: O Eixo.
-(3271)   Fix the drill.<==>Arregla el taladro.-->   Fix the drill.
+(3270)United Spacefaring Guild History series\n\nTITAN STATION:  CONQUERING A MOON, PART 2 of 2\n\nA large colony was established on Titan to study the moon's every seismic detail and prepare it for disassembly.   As the operation got under way, the orbital platforms that assisted with the work became the prototypes for the planetcrackers that would soon follow.\n\nTitan was sucessfully "cracked" and harvested, only slightly behind schedule.   It was a major boost for the then-beleaguered population on Earth, who believed their extinction from lack of resources was imminent.\n\nTitan's harvest was halted before the entire moon was dissembled, leaving the small shard where the original colony had started.   From here, the station grew in leaps and bounds as the new era of planetcracking got underway, serving as both a critical research outpost, and with the advent of shockpoint drives, a way station for all planetcracking missions going forward.\n\nIt is now whimsically known as the Sprawl, for having done just that over the many years of its operation.<==>Serie Historia del Gremio Unido de los Viajes Espaciales\n\nESTACIÓN TITÁN: LA CONQUISTA DE UNA LUNA, PARTE 2 de 2\n\nEn Titán se estableció una gran colonia cuya misión era estudiar todos los detalles sísmicos de la luna y prepararla para la explotación. Las plataformas orbitales utilizadas para llevar a cabo la operación se convirtieron en prototipos para las extractoras planetarias que aparecerían poco después.\n\nLa extracción de Titán se completó con un ligero retraso y resultó muy importante para la, en aquel momento, hostigada población de la Tierra, que creía que su extinción era inminente debido a la escasez de recursos.\n\nLa extracción de Titán se detuvo antes de que la luna se hubiese explotado por completo, dejando solo el pequeño fragmento en el que se había asentado la colonia original. A partir de ahí, la estación fue creciendo a medida que la nueva era de la extracción planetaria se iba consolidando, y se convirtió en una importante base de investigación y, con la llegada de los motores de distorsión, en una estación de escala para todas las misiones de extracción planetaria que se llevaran a cabo.\n\nPrecisamente por eso, hoy en día se la conoce como El Eje.-->Série Histórica do Grêmio Unido das Viagens Espacias\n\nESTAÇÃO TITÃ: A CONQUISTANDO DE UMA LUA, PARTE 2 de 2\n\nUma grande colônia foi estabelecida em Titã para estudar todos os detalhe sísmicos da lua e prepará-la para a exploração. As plataformas orbitais utilizadas para viabilizar a operação se converteram em protótipos para as extratoras planetárias que apareceriam um pouco depois.\n\nA extração de Titã se completou com um ligeiro atraso e foi muito importante para a então sitiada população da Terra, que acreditava que sua extinção era eminente devido à escassez de recursos.\n\nA extração de Titã foi interrompida antes que a lua tivesse sido explorada por completo, deixando apenas o pequeno fragmento onde a colônia original havia iniciado. A partir daí, a estação foi crescendo na medida em que a nova era de extração planetária ia se consolidando, e se converteu em uma importante base de pesquisas, e com a chegada dos motores de distorção, se tornou uma estação de escala para todas as missões de extração planetária que se iniciavam.\n\nExatamente por isso, hoje em dia ela é conhecida como o Eixo.
+(3271)   Fix the drill.<==>Arregla el taladro.-->   Conserte a furadeira.
 (3272)[LDLeft]NAVIGATE    [MenuA]SELECT    [RDUP]RESPEC    [MenuB]EXIT<==>[LDLeft]NAVEGAR    [MenuA]SELEC.    [RDUP]REESPEC.    [MenuB]SALIR-->[LDLeft]NAVEGAR    [MenuA]SELECIONAR    [RDUP]REFAZER    [MenuB]SAIR
-(3273)FULLY VESTED MEMBERS ONLY<==>SOLO MIEMBROS INVESTIDOS-->APENAS MEMBROS COMPLETAMENTE VESTIDOS
+(3273)FULLY VESTED MEMBERS ONLY<==>SOLO MIEMBROS INVESTIDOS-->APENAS MEMBROS INVESTIDOS
 (3274)BOMB<==>BOMBA-->BOMBA
 (3275-IGUAIS)1
 (3276)[RDRight]Back<==>[RDRight]Atrás-->[RDRight]Voltar
@@ -3278,13 +3278,13 @@
 (3278)Tunnel 1<==>Túnel 1-->Túnel 1
 (3279)Tunnel 2<==>Túnel 2-->Túnel 2
 (3280)Tunnel 3<==>Túnel 3-->Túnel 3
-(3281)Concept Artist<==>Diseñador de arte conceptual-->Desenhista de Arte Conceitual
-(3282)Attn: Reception desk\n\nPlease refer all registrants complaining of anxiety and/or psychological problems to the other hospitals in the area.  We're booked and running low on mood-elevating medications.  With the recent CEC layoffs and the increased tensions between Unitologists and EarthGov, I thought that was enough of a spike in cases.  This new wave is something entirely different.\n\nDr. Brian Alpers\nDepartment of Psychology<==>Para: Recepción\n\nPor favor, envíen a todos los pacientes que se quejen de problemas de ansiedad y/o psicológicos a los otros hospitales de la zona. Estamos saturados y andamos escasos de medicamentos reguladores del humor. Creía que con los recientes despidos de CEC y el aumento de las tensiones entre los uniólogos y el gobierno de la Tierra, ya había aumentado suficiente el número de casos. Esta nueva oleada es algo completamente distinto.\n\nDr. Brian Alpers\nDepartamento de Psicología-->Para: Recepção\n\nPor favor, enviem a todos os pacientes que se queixam de problemas de ansiedade e/ou psicológicos aos outros hospitais da zona. Nós estamos saturados e com medicamentos reguladores de humor escassos. Com as recentes demissões da CEC e o aumento das tensões com os unitólogos e o Governo da Terra, aumentaram muito o número de casos. Essa nova onda é algo completamente diferente..\n\nDr. Brian Alpers\nDepartamento de Psicologia
+(3281)Concept Artist<==>Diseñador de arte conceptual-->Artista de Arte Conceitual
+(3282)Attn: Reception desk\n\nPlease refer all registrants complaining of anxiety and/or psychological problems to the other hospitals in the area.  We're booked and running low on mood-elevating medications.  With the recent CEC layoffs and the increased tensions between Unitologists and EarthGov, I thought that was enough of a spike in cases.  This new wave is something entirely different.\n\nDr. Brian Alpers\nDepartment of Psychology<==>Para: Recepción\n\nPor favor, envíen a todos los pacientes que se quejen de problemas de ansiedad y/o psicológicos a los otros hospitales de la zona. Estamos saturados y andamos escasos de medicamentos reguladores del humor. Creía que con los recientes despidos de CEC y el aumento de las tensiones entre los uniólogos y el gobierno de la Tierra, ya había aumentado suficiente el número de casos. Esta nueva oleada es algo completamente distinto.\n\nDr. Brian Alpers\nDepartamento de Psicología-->Para: Recepção\n\nPor favor, enviem a todos os pacientes que se queixam de problemas de ansiedade e/ou psicológicos aos outros hospitais da zona. Estamos saturados e com escassez de medicamentos reguladores de humor. Eu acreditava que com as recentes demissões da CEC e o aumento da tensão entre os unitólogos e o governo da Terra, já havia aumentado suficientemente o número de casos. Essa nova onda é algo completamente diferente.\n\nDr. Brian Alpers\nDepartamento de Psicologia
 (3283-IGUAIS)Beth Pielert
 (3284-IGUAIS)Beth Pielert
 (3285)Compositor/Motion Graphics<==>Compositor/Gráficos de movimiento-->Compositor/Gráficos de Movimento
-(3286-IGUAIS)MEDIC ASSIST
-(3287)Looks like the Ishimura has been decommissioned. Bad news for me - most of its functions are probably offline. I need to check the ship's status before I can continue.<==>Parece que el Ishimura ha sido retirado del servicio. La mala noticia para mí es que probablemente la mayoría de sus funciones estén desactivadas. Tengo que comprobar el estado de la nave antes de continuar.-->Parece que a Ishimura foi retirada de serviço. Más noticias para mim, a maioria de suas funções estarão desligadas. Eu preciso verificar o estado da nave antes de continuar.
+(3286-IGUAIS)MEDIC ASSIST-->ASSISTÊNCIA MÉDICA
+(3287)Looks like the Ishimura has been decommissioned. Bad news for me - most of its functions are probably offline. I need to check the ship's status before I can continue.<==>Parece que el Ishimura ha sido retirado del servicio. La mala noticia para mí es que probablemente la mayoría de sus funciones estén desactivadas. Tengo que comprobar el estado de la nave antes de continuar.-->Parece que a Ishimura foi retirada de serviço. A má notícia para mim é que provavelmente a maioria de suas funções estão desativadas. Tenho que verificar o estado da nave antes de continuar.
 (3288)RESTORE HEALTH<==>RESTABLECER SALUD-->RESTAURAR SAÚDE
 (3289-IGUAIS)Ben Swanson
 (3290-IGUAIS)Jay Frechette
@@ -3293,10 +3293,10 @@
 (3293)Solar Array 1<==>Panel solar 1-->Painel Solar 1
 (3294)Solar Array 2<==>Panel solar 2-->Painel Solar 2
 (3295)Solar Array 3<==>Panel solar 3-->Painel Solar 3
-(3296)This will upgrade your RANGE by %g pts<==>Se mejorará el ALCANCE en %g pts.-->Isso irá melhorar seu ALCANCE por %g pts.
+(3296)This will upgrade your RANGE by %g pts<==>Se mejorará el ALCANCE en %g pts.-->Isso vai melhorar o ALCANCE em %g pts.
 (3297)Music Composed and Conducted by<==>Música compuesta y dirigida por-->Música Composta e Dirigida por
-(3298)Decontamination complete.<==>Descontaminación completada.-->Descontaminação completa.
-(3299)It appears you already have an EA Account using this email address.<==>Parece que ya tienes una cuenta EA con esa dirección de correo electrónico.-->Parece que você já tem uma Conta EA usando esse endereço de email.
+(3298)Decontamination complete.<==>Descontaminación completada.-->Descontaminação concluída.
+(3299)It appears you already have an EA Account using this email address.<==>Parece que ya tienes una cuenta EA con esa dirección de correo electrónico.-->Parece que você já tem uma conta EA usando esse mesmo endereço de email.
 (3300){t} win round {r}<==>Equipo ganador de la ronda {r}: {t}-->{t} ganhou a rodada {r}
 (3301)%1 already exists on storage device %2. Saving again with this name will overwrite the previously saved game. Are you sure you wish to proceed?<==>Ya existe %1 en el dispositivo de almacenamiento %2. Si vuelves a guardar con el mismo nombre, sobrescribirás la partida guardada anteriormente. ¿Seguro que quieres continuar?-->%1 já existe. Salvando novamente com esse nome ira sobrescrever o jogo salvo anteriormente. Você tem certeza que quer continuar?
 (3302)Reach the Solar Array<==>Alcanza el panel solar.-->Alcance o Painel Solar
@@ -3367,7 +3367,7 @@
 (3367)Your gamer profile does not have the correct permissions to access Xbox LIVE functionality.<==>Tu perfil de jugador no tiene los permisos necesarios para acceder a las funciones de Xbox LIVE.-->Seu perfil de jogador não possui as permissões corretas para acessar as funcionalidades da Xbox LIVE.
 (3368)Chapter 3<==>Capítulo 3-->Capítulo 3 - Sem Volta
 (3369-IGUAIS)15
-(3370)UI Artists<==>Diseñadores de IU-->Desenhistas de IU
+(3370)UI Artists<==>Diseñadores de IU-->Artistas de IU
 (3371-IGUAIS)Christoph Betschart
 (3372-IGUAIS)Jamie Silverman
 (3373)DECONTAMINATION PROCESS START<==>DESCONTAMINANDO-->DESCONTAMINANDO
@@ -3445,7 +3445,7 @@
 (3445-IGUAIS)Jake Kornbluth
 (3446-IGUAIS)Dave Footman
 (3447-IGUAIS)1
-(3448)congratulations!\nyou now have the ability to equip the rivet gun\nprimary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>¡Felicidades!\nAhora puedes equipar la remachadora.\nDisparo principal: roblones de fragmentación.\nDisparo secundario: ráfaga de metralla de proyección.-->Congratulações!\nVocê agora pode equipar a Rebitadora\nDisparo Principal: rebites de fragmentação\nDisparo Secundário: reflective shrapnel blast
+(3448)congratulations!\nyou now have the ability to equip the rivet gun\nprimary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>¡Felicidades!\nAhora puedes equipar la remachadora.\nDisparo principal: roblones de fragmentación.\nDisparo secundario: ráfaga de metralla de proyección.-->Congratulações!\nVocê agora pode equipar a Rebitadeira\nDisparo Principal: rebites de fragmentação\nDisparo Secundário: reflective shrapnel blast
 (3449)The Human team must destroy the marker experiments to keep them from falling into the wrong hands.<==>Los humanos deben destruir los experimentos con Efigies para evitar que caigan en las manos equivocadas.-->Os humanos devem destruir os experimentos do marker para evitar que eles caiam em mãos erradas.
 (3450)POWER OFFLINE<==>SIN ENERGÍA-->ENERGIA DESLIGADA
 (3451)Security Gate Motor Control<==>Control motor de la puerta de seguridad-->Controle do Motor do Portão de Segurança
@@ -4032,7 +4032,7 @@
 (4032)quick match<==>Partida rápida-->partida rápida
 (4033-IGUAIS)1
 (4034)Technical Artists<==>Diseñadores técnicos-->Artistas Técnicos
-(4035)Production Designer<==>Diseñador de producción-->Desenhista de Produção
+(4035)Production Designer<==>Diseñador de producción-->Designer de Produção
 (4036)Recruiting<==>Contratación-->Recrutamento
 (4037-IGUAIS)Jim Cummings
 (4038-IGUAIS)Liu Hui Yuan
@@ -4861,7 +4861,7 @@
 (4861)Attention Shift Workers: All persons are subject to search upon exiting the mines.  Mineral resources, precious or otherwise, will be confiscated.<==>Atención, trabajadores: todas las personas serán registradas al salir de las minas. Cualquier recurso mineral, precioso o no, quedará confiscado.-->Atenção, trabalhadores: Todas as pessoas estão sujeitas a serem revistadas ao sairem das minas. Recursos minerais, preciosos ou não, serão confiscados.
 (4862)Attention Shift Workers: Be mindful of the nearest survival chamber.  These are your only hope of survival should a cave-in occur.<==>Atención, trabajadores: recuerden dónde está la cámara de supervivencia más próxima. Constituye su única esperanza de sobrevivir en caso de derrumbe.-->Atenção, trabalhadores: Lembrem-se onde está a câmara de sobrevivência mais próxima. Elas são a única esperança de sobrevivência em caso de desmoronamento.
 (4863)Attention Shift Workers: Your work practices are being monitored at all times.   Please show pride in your work.<==>Atención, trabajadores: sus prácticas laborales se supervisan en todo momento. Enorgullézcanse de su trabajo.-->Atenção, trabalhadores: Suas práticas no trabalho estão sendo monitoradas todo o tempo. Por favor mostre orgulho pelo seu trabalho.
-(4864)Senior Character Artists<==>Diseñadores de personajes sénior-->Desenhista de Personagens Sênior
+(4864)Senior Character Artists<==>Diseñadores de personajes sénior-->Artista de Personagens Sênior
 (4865)RELAY CIRCUIT (SPD)<==>RELÉ (VEL)-->CIRCUITO DE TRANSMISSÃO (VEL)
 (4866)This will upgrade your SPEED by %g sec.<==>Se mejorará la VELOCIDAD en %g seg.-->Isso irá melhorar sua VELOCIDADE em %g seg.
 (4867)prevent the destruction of the power junction<==>Evita la destrucción de la caja de derivación de energía.-->Evite a destruição da caixa de força
@@ -4959,7 +4959,7 @@
 (4959)CLAMP CONTROL<==>CONTROL ABRAZADERA-->CONTROLE DA PRENSA
 (4960)HEAVY DUTY VINTAGE SUIT<==>TRAJE VINTAGE INDUSTRIAL-->TRAJE VINTAGE INDUSTRIAL
 (4961)Stasis meter recharges slowly over time.<==>La estabilización se recarga con el tiempo.-->A barra de Estabilização recarrega com o passar do tempo.
-(4962)Technical Artists<==>Diseñadores técnicos-->Desenhistas Técnicos
+(4962)Technical Artists<==>Diseñadores técnicos-->Artistas Técnicos
 (4963)We're set, cover each other or we will never make it.<==>Ya estamos, cubrámonos o jamás lo conseguiremos.-->Estamos prontos, cubram-se ou nunca iremos conseguir.
 (4964)Alright, we're gonna blow this place and take as many out as we can!<==>¡Bien, vamos a hacer estallar este lugar y a cargarnos a cuantos podamos!-->Certo, nós vamos destruir esse lugar e resgatar o máximo que conseguirmos!
 (4965)Yep.<==>Sí.-->Sim.
@@ -5017,10 +5017,10 @@
 (5017)Line Ammo Schematic<==>Diagrama de munición lineal-->Diagrama de Munição Linear
 (5018-IGUAIS)0
 (5019)REL -5% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: aperte [rsbottom] para disparar um raio cortante estreito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: aperte [rstop] para girar o cortador em 90 graus.
-(5020)You unlocked increased magazine size for the Rivet Gun<==>Has desbloqueado un mayor tamaño del cargador para la remachadora.-->Você desbloqueou o pente aumentado para a Rebitadora
+(5020)You unlocked increased magazine size for the Rivet Gun<==>Has desbloqueado un mayor tamaño del cargador para la remachadora.-->Você desbloqueou o pente aumentado para a Rebitadeira
 (5021)owned by:<==>Autor de la derrota:-->Derrotado por:
 (5022)primary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>disparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->Disparo Principal: rebites de fragmentação\nDisparo Secundário: proteção contra explosão de estilhaços
-(5023)Senior Texture Artist<==>Diseñador de texturas sénior-->Desenhista de Texturas Sênior
+(5023)Senior Texture Artist<==>Diseñador de texturas sénior-->Artista de Texturas Sênior
 (5024)TST<==>ETT-->ETT
 (5025)QUARTERLY REPORT<==>INFORME TRIMESTRAL-->RELATÓRIO TRIMESTRAL
 (5026)TITAN PART 1<==>TITÁN PARTE 1-->TITÃ PARTE 1
@@ -5131,7 +5131,7 @@
 (5131)Personal Log: Howard Phillips\nRecord number: 302\n\nI want to go home.  ANTI claims she didn't get a response to my transfer request, but it's the FIFTH one.  How could there be five requests, and no response?  Surely someone is getting them?   Someone is reading them?\n\nI hate to admit it, but the loneliness up here is really more intense than I expected.  I think it's starting to affect me.\n\nThe only good news is that ANTI claims to have authorized my shipment request.  They're supposed to be arriving later today.  But I can't believe anything she tells me.\n\nI've been asking for so long, it's hard to believe they might actually let me have my birds.  Time will tell.  Tonight will tell, actually.<==>Registro personal: Howard Phillips\nNúmero de registro: 302\n\nQuiero irme a casa. ANTI dice que no recibió respuesta a mi solicitud de traslado, pero ya es la QUINTA. ¿Cómo puede haber cinco solicitudes y ninguna respuesta? Alguien tiene que recibirlas, ¿no? Alguien tiene que leerlas.\n\nOdio admitirlo, pero la soledad aquí es mayor de lo que esperaba. Creo que empieza a afectarme.\n\nLa única buena noticia es que ANTI dice que ha autorizado mi pedido. Se supone que llegará hoy. Pero no puedo creer nada de lo que me dice.\n\nLlevo tanto tiempo pidiendo mis pájaros, que me cuesta creer que vayan a dejarme tenerlos. Con el tiempo lo sabré. De hecho, esta noche lo sabré.-->Registro Pessoal: Howard Phillips\nRegistro número: 302\n\nEu quero ir para casa. ANTI diz que não recebeu uma resposta a minha solicitação de transferência, mas é a QUINTA que eu mandei. Como podem existir cinco solicitações, e nenhuma resposta? Alguém deve estar recebendo-as, não?  Alguém está lendo-as?\n\nEu odeio admitir, mas a solidão aqui é mais intensa do que eu esperava. Eu acho que ela esta começando a me afetar.\n\nAs únicas boas noticias são que a ANTI autorizou minha solicitação de carregamento. Eles devem estar chegando hoje ainda. Mas eu não posso acreditar em nada que ela diz.\n\nEu tenho pedido a tanto tempo, é dificil acreditar que eles vão deixar eu ter meus pássaros. O tempo irá dizer. Essa noite irá dizer, na verdade.
 (5132)medium<==>Media-->Médio
 (5133)[RDDown]SYSTEMS ONLINE.<==>[RDDown]SISTEMAS CONECTADOS.-->[RDDown]SISTEMAS ONLINE.
-(5134)You unlocked increased damage for the Rivet Gun<==>Has desbloqueado más daño para la remachadora.-->Você desbloqueou o dano aumentado para a Rebitadora
+(5134)You unlocked increased damage for the Rivet Gun<==>Has desbloqueado más daño para la remachadora.-->Você desbloqueou o dano aumentado para a Rebitadeira
 (5135-IGUAIS)2
 (5136)Associate Art Director<==>Director de diseño asociado-->Diretor de Artes Associado
 (5137)toxic spit<==>Escupitajo-->cuspe tóxico
@@ -5250,7 +5250,7 @@
 (5250)continue<==>Continuar-->Continuar
 (5251)BASILICA<==>BASÍLICA-->BASÍLICA
 (5252)Are you sure you want to delete %1 on storage device %2?<==>¿Seguro que quieres borrar %1 en el dispositivo de almacenamiento %2?-->Tem certeza que quer apagar %1?
-(5253)rivet gun II<==>remachadora II-->Rebitadora II
+(5253)rivet gun II<==>remachadora II-->Rebitadeira II
 (5254-IGUAIS)Español
 (5255-IGUAIS)Steve Papoutsis
 (5256)STASIS DOOR<==>PUERTA DE ESTABILIZACIÓN-->PORTA DE ESTABILIZAÇÃO
@@ -5371,13 +5371,13 @@
 (5371)select a device<==>Selecciona un dispositivo-->Selecione um Dispositivo
 (5372-IGUAIS)Visceral Games
 (5373)A.I.<==>I.A.-->I.A.
-(5374)rivet gun III<==>remachadora III-->Rebitadora III
+(5374)rivet gun III<==>remachadora III-->Rebitadeira III
 (5375)Finance<==>Finanzas-->Finanças
 (5376)EFFICIENCY CIRCUIT (CAP)<==>EFICACIA DEL CIRCUITO (CAP)-->EFICÁCIA DO CIRCUITO (CAP)
 (5377)This will upgrade your CAPACITY by %g pts.<==>Se mejorará la CAPACIDAD en %g pts.-->Isso irá melhorar sua CAPACIDADE em %g pts.
 (5378)STOMP<==>PISOTÓN-->PISADA
 (5379)STORE<==>ALMACÉN-->ARMAZÉM
-(5380)Senior Level Designer<==>Diseñador de niveles sénior-->Desenhista de Níveis Sênior
+(5380)Senior Level Designer<==>Diseñador de niveles sénior-->Designer de Níveis Sênior
 (5381-IGUAIS)1
 (5382)The transport's ready - now I just need to pick up Ellie and Stross.<==>El transporte está listo, ahora solo necesito recoger a Ellie y Stross.-->O transporte está pronto - agora eu só preciso pegar Ellie e Stross.
 (5383)Titan Station Elementary<==>Escuela de primaria de la estación Titán-->Escola Primária da Estação Titã
@@ -5663,7 +5663,7 @@
 (5663)Audio<==>Sonido-->Áudio
 (5664)UI Programmers<==>Programadores de IU-->Programadores de IU
 (5665)QA Project Lead<==>Jefe de proyecto de control de calidad-->Chefe de Projeto de Controle de Qualidade
-(5666)JAVELIN SPEARS\nSchematic Acquired\nDownload at the Store<==>JABALINAS\nDiagrama adquirido\nDescargar en el almacén-->LANÇA DARDOS\nDiagrama Adquirido\nBaixar no Armazém
+(5666)JAVELIN SPEARS\nSchematic Acquired\nDownload at the Store<==>JABALINAS\nDiagrama adquirido\nDescargar en el almacén-->DARDOS\nDiagrama Adquirido\nBaixar no Armazém
 (5667)Rendezvous with Ellie.<==>Reúnete con Ellie.-->Encontre-se com Ellie.
 (5668-IGUAIS)Brandon Lukach
 (5669-IGUAIS)LINAC
@@ -6182,7 +6182,7 @@
 (6182)CALL ATTENDANT<==>LLAMAR A AYUDANTE-->CHAMAR ASSISTENTE
 (6183)CEC Employees Only<==>Solo empleados de CEC-->Só Empregados da CEC
 (6184)WARNING: SOLAR ARRAY IS OFFLINE<==>ATENCIÓN: EL PANEL SOLAR ESTÁ DESACTIVADO-->ALERTA: O PAINEL SOLAR ESTÁ DESATIVADO
-(6185)Cartridge of Rapid-ejection Bolts for the Rivet Gun.\n - Inventory Slot Stack Size: 30<==>Cartucho de roblones de eyección rápida para la remachadora.\n - Tamaño del bloque de ranuras de inventario: 30.-->Cartucho de Rebites de Ejeção Rápida para a Rebitadora\n - Tamanho do Bloco de  espaço do Inventário: 30
+(6185)Cartridge of Rapid-ejection Bolts for the Rivet Gun.\n - Inventory Slot Stack Size: 30<==>Cartucho de roblones de eyección rápida para la remachadora.\n - Tamaño del bloque de ranuras de inventario: 30.-->Cartucho de Rebites de Ejeção Rápida para a Rebitadeira\n - Tamanho do Bloco de  espaço do Inventário: 30
 (6186)Shoot red tip to move objects.<==>Dispara a la espita roja para mover objetos.-->Atire na ponta vermelha para mover objetos.
 (6187-IGUAIS)1,000 Credits
 (6188)   Get to to the Tram Station.<==>Ve a la estación de monorraíl.-->Vá para a Estação de trem.
@@ -6458,7 +6458,7 @@
 (6458-IGUAIS)0
 (6459-IGUAIS)2
 (6460)Senior Studio Operations Director<==>Director de operaciones de estudio sénior-->Diretor Sênior De operações De Estúdio
-(6461)TRIAGE JAVELIN GUN<==>CAÑÓN JABALINA DE SELECCIÓN-->TRIAGE CANHÃO DE DARDOS
+(6461)TRIAGE JAVELIN GUN<==>CAÑÓN JABALINA DE SELECCIÓN-->CANHÃO DE DARDOS DE TRIAGEM
 (6462)Don't come any closer!  You're not getting in!    I'm not opening this door for anyone, I don't care what your security clearance is or what your orders are.  I'm armed!  I'll fucking kill you if you try to get in!   I mean it!   Just stay away from my door!<==>¡No te acerques más! ¡No vas a entrar! ¡No abriré la puerta a nadie, no me importan ni tus órdenes ni tu autorización de seguridad! ¡Estoy armado! ¡Te mataré si intentas entrar! ¡Te lo juro! ¡Aléjate de mi puerta!-->Não se aproxime! Você não entrará aqui! Eu não vou abrir essa porta para ninguém, eu não me importo o que o seu certificado de segurança diz, ou que suas ordens são. Eu estou armado! Eu vou te matar se você tentar entrar! E que se foda ! Basta ficar longe da minha porta!
 (6463)Senior Level Designer<==>Diseñador de niveles sénior-->Designer De Nívels Sênior
 (6464)HACKER CONTACT BEAM<==>RAYO DE CONTACTO DE PIRATEO-->FEIXE DE CONTATO HACKER
@@ -6637,7 +6637,7 @@
 (6637)STASIS PACK<==>CARGA DE ESTABIL.-->CARGA DE ESTABILIZAÇÃO
 (6638)Stasis<==>Estabilización-->Estabilização
 (6639)Chairman Donovan, this is Doctor Brooks. I've said this many times, and I'll say it again.   I don't like the secrecy behind the new labs they've installed in the psych wing.    It's been three years, and we don't have the faintest clue what's going on.   Such secrecy has no place in an open and free society.  Their networks are so isolated that we can't even tell they have one, let alone sift through it to see if anything unethical is taking place right under our noses.  If we don't get some traction on this soon, I'm going to go to Tiedemann, and insist on  formal review of these policies. - Dr Brooks out.<==>Presidente Donovan, soy el Doctor Brooks. Lo he dicho muchas veces, y lo repito ahora. No me gusta el secretismo que rodea a los laboratorios que han instalado en el ala de psiquiatría. Han pasado ya tres años y no tenemos ni la más mínima idea de lo que sucede allí. Tanto secretismo es inaceptable en una sociedad libre y moderna. Sus redes están tan aisladas que ni siquiera podemos asegurar si tienen alguna, y mucho menos discernir si realizan alguna tarea de carácter inmoral delante de nuestras narices.\n\nSi la situación no cambia pronto, acudiré a Tiedemann e insistiré en que lleve a cabo una revisión formal de sus políticas.\n\nBrooks, corto.-->Presidente Donovan, aqui é o Doutor Brooks. Eu disse várias vezes, e direi novamente. Não me agrada o mistério por trás do novo laborátorio que eles instalaram na ala psiquiátrica. Fazem três anos, e não temos a minima ideia do que está acontecendo. Tal segredo não tem lugar em um sociedade tão aberta e livre. A rede deles é tão isolada que nem ao menos podemos dizer se eles tem uma, deixe-nos examiná-la minuciosamente para vermos se não há nada antiético acontecendo debaixo de nossos narizes. Se não obtivermos resposta sobre isso logo, irei até Tiedemann, e insistirei na revisão formal dessas politícas. Dr. Brooks.
-(6640)Primary Fire DAM +10% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to launch a javelin.  Caution: danger of impalement.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to electrify the last javelin that was launched.<==>DÑO disparo principal: +10% / REC: -5%\n - [c=CUSTOM2]Disparo principal[c=RESET]: pulsa [rsbottom] para disparar una jabalina. Precaución: peligro de empalamiento.\n - [c=CUSTOM2]Disparo secundario[c=RESET]: pulsa [rstop] para electrizar la última jabalina disparada.-->Disparo Primário DAM +10% / REL -5%\n• [c=CUSTOM2] Tiro Primario [c=RESET]: pressione [rsbottom] para lançar um javelin.  Cuidado: perifo de empalamento.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para eletrificar o último javelin que foi disparado.
+(6640)Primary Fire DAM +10% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to launch a javelin.  Caution: danger of impalement.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to electrify the last javelin that was launched.<==>DÑO disparo principal: +10% / REC: -5%\n - [c=CUSTOM2]Disparo principal[c=RESET]: pulsa [rsbottom] para disparar una jabalina. Precaución: peligro de empalamiento.\n - [c=CUSTOM2]Disparo secundario[c=RESET]: pulsa [rstop] para electrizar la última jabalina disparada.-->Disparo Primário DAM +10% / REL -5%\n• [c=CUSTOM2] Tiro Primario [c=RESET]: pressione [rsbottom] para lançar um dardo.  Cuidado: perigo de empalamento.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para eletrificar o último dardo disparado.
 (6641)VP Global Marketing Visceral Games<==>Vicepresidente de marketing global de Visceral Games-->Gerente de Marketing Global da Visceral Games
 (6642)Primary Fire CHG -0.1 sec / Secondary Fire DAM +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] to charge a high intensity blast, then release.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a blast of kinetic energy into the ground to push away all nearby objects.<==>CRG disparo principal: -0,1 seg. / DÑO disparo secundario: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para cargar el disparo y suelta para disparar.\n• [c=CUSTOM2] Disp. secundario [c=RESET]: pulsa [rstop] para disparar energía cinética al suelo.-->Disparo Primário CHG -0.1 sec / Disparo Secundário DAM +5%\n• [c=CUSTOM2] Disparo Primário [c=RESET]: pressione e segure [rsbottom] para carregar uma onda de impacto de alta intensidade, e então solte.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar uma onda de impacto de energia cinetica\kinetic no chão para agastar todos os objetos que estejam próximos.
 (6643)MESSAGE FROM NICOLE<==>MENSAJE DE NICOLE-->MENSAGEM DE NICOLE
@@ -6797,7 +6797,7 @@
 (6797)Elevator to Fuel Mega Storage<==>Ascensor a megaalmacén de combustible-->Elevador para o Mega Deposito de Combustivel
 (6798)Fuel Mega Storage<==>Megaalmacén de combustible-->Mega Deposito de Combustivel
 (6799)evacuate via the escape pods<==>Huye en una cápsula de escape.-->evacue usando as transportadoras
-(6800)you now have the ability to equip the javelin gun\nprimary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>Ahora ya puedes equipar el cañón jabalina\ndisparo principal: jabalina explosiva\ndisparo secundario: detonación de la última jabalina disparada-->você agora possui a habilidade de equipar o canhão de dardosn\ndisparo primário: javelin explosivo\ndisparo alternativo: detona o ultimo javelin disparado
+(6800)you now have the ability to equip the javelin gun\nprimary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>Ahora ya puedes equipar el cañón jabalina\ndisparo principal: jabalina explosiva\ndisparo secundario: detonación de la última jabalina disparada-->você agora possui a habilidade de equipar o canhão de dardosn\ndisparo primário: dardo explosivo\ndisparo alternativo: detona o ultimo dardo disparado
 (6801)LISTEN<==>ACTIVAR-->ESCUTE
 (6802)high<==>Alta-->alto
 (6803)Handheld Graviton Accelerator.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] for a short range, high powered blast of kinetic energy with wide area of effect.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] for a long range, tight radius energy projection.<==>Acelerador de gravitones portátil.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar una potente ráfaga de energía cinética de corto alcance con un gran radio de acción.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una proyección de energía de largo alcance y radio de acción ajustado.-->Acelerador de Gravidade de Mão.\n• [c=CUSTOM2] Disparo Primário [c=RESET]: pressione [rsbottom] para disparar uma onda de impacto de energia cinetica\kinetic com uma grande area de efeito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para uma projeção de energia de longo alcance.
