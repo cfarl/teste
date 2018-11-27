@@ -2849,41 +2849,41 @@
 (2849)Primary Fire DAM +5% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] for a short range, high powered blast of kinetic energy with wide area of effect.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] for a long range, tight radius energy projection.<==>DÑO disparo principal: +5% / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar una potente ráfaga de energía cinética de corto alcance con un gran radio de acción.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar energía de largo alcance y radio ajustado.-->DANO Disparo Primário +5% / REC -5%\n• [c=CUSTOM2] Disparo Primário [c=RESET]: pressione [rsbottom] para disparar uma potente rajada de energia cinética de curto alcance, com um grande raio de efeito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar energia de longo alcance e raio ajustado.
 (2850)recharge stasis<==>recargar estabilización-->recarregar estabilização
 (2851)Additional Programming<==>Programación adicional-->Programação adicional
-(2852)Items put in storage<==>Objetos almacenados-->Objetos armazenados
+(2852)Items put in storage<==>Objetos almacenados-->Itens armazenados
 (2853-IGUAIS)TAKE OUR BODIES
-(2854)Displays oxygen level when entering a vacuum.<==>Muestra el nivel de oxígeno al entrar en una zona de vacío.-->Exibe o nível de oxigênio ao entrar em um vácuo.
+(2854)Displays oxygen level when entering a vacuum.<==>Muestra el nivel de oxígeno al entrar en una zona de vacío.-->Exibe o nível de oxigênio ao entrar em uma zona de vácuo.
 (2855)OXYGEN RECHARGE<==>OXÍGENO-->RECARGA DE OXIGÊNIO
 (2856)Unlocked at level 36<==>Desbloqueado en el nivel 36-->Desbloqueado no nível 36
 (2857)DISMEMBERMENT<==>DESMEMBRAMIENTO-->DESMEMBRAMENTO
-(2858)sign in<==>Iniciar sesión-->sign in
-(2859)primary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>disparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->Disparo Primário: rebites de fragmentação\nDisparo Secundário: explosão refletiva de metralha
-(2860)primary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>disparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->Disparo Primário: rebites de fragmentação\nDisparo Secundário: explosão refletiva de metralha
-(2861)deliver the linac to the workbench<==>Lleva el linac hasta el banco de trabajo.-->entregue o linac à bancada de trabalho
+(2858)sign in<==>Iniciar sesión-->iniciar sessão
+(2859)primary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>disparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->Disparo Primário: rebites de fragmentação\nDisparo Secundário: rajada de estilhaços de projeção
+(2860)primary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>disparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->Disparo Primário: rebites de fragmentação\nDisparo Secundário: rajada de estilhaços de projeção
+(2861)deliver the linac to the workbench<==>Lleva el linac hasta el banco de trabajo.-->Leve o linac até a bancada de trabalho
 (2862-IGUAIS)Jeffrey Wood
 (2863)//corrupt//<==>//dañado//-->//danificado//
 (2864-IGUAIS)© 2010 Electronic Arts Inc.
-(2865)If Tiedemann and this AI program think they can lock me in here, they're sorely mistaken.\n\nThe program is probably controlled by the array's security mainframe. I need to find a way to disable it.<==>Si Tiedemann y este programa de IA creen que pueden encerrarme aquí, están muy equivocados.\n\nEl programa estará controlado seguramente por el ordenador central de seguridad del panel. Tengo que hallar el modo de desactivarlo.-->Se Tiedemann e este programa IA pensam que podem me trancar aqui, eles estão muito enganados.\n\nO programa é provavelmente controlado pelo computador central da matriz de segurança. Eu preciso encontrá-lo e desabilitá-lo.
+(2865)If Tiedemann and this AI program think they can lock me in here, they're sorely mistaken.\n\nThe program is probably controlled by the array's security mainframe. I need to find a way to disable it.<==>Si Tiedemann y este programa de IA creen que pueden encerrarme aquí, están muy equivocados.\n\nEl programa estará controlado seguramente por el ordenador central de seguridad del panel. Tengo que hallar el modo de desactivarlo.-->Se Tiedemann e este programa IA pensam que podem me manter preso aqui, eles estão muito enganados.\n\nO programa é provavelmente controlado pelo computador central da matriz de segurança. Eu preciso encontrar um modo de desativá-lo.
 (2866)AGILITY PULSE RIFLE<==>RIFLE DE IMPULSOS DE AGILIDAD-->RIFLE DE IMPULSOS DE AGILIDADE
 (2867)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado por matar o portador
 (2868-IGUAIS)Jamie Helman
 (2869)You unlocked increased stasis thaw time for the Pack<==>Has desbloqueado más tiempo de descongelación de la estabilización para la jauría.-->Você desbloqueou mais tempo de descongelamento para a estabilização do pacote.
-(2870)temp 73°<==>temp. 28°-->Temp. 28°
-(2871)gravity 9.78033<==>gravedad 9,78033-->Gravidade 9.78033
+(2870)temp 73°<==>temp. 28°-->temp. 28°
+(2871)gravity 9.78033<==>gravedad 9,78033-->gravidade 9.78033
 (2872-IGUAIS)ERTS 85.56
 (2873-IGUAIS)hrs-pp-lvr
 (2874)[RDLeft]ZOOM OUT<==>[RDLeft]ALEJAR CÁMARA-->[RDLeft] - Zoom
-(2875)Press [RDDown]<==>Pulsa [RDDown].-->Aperte [RDDown]
+(2875)Press [RDDown]<==>Pulsa [RDDown].-->Pressione [RDDown]
 (2876)Additional Animation<==>Animación adicional-->Animação Adicional
 (2877)MELEE<==>GOLPEAR-->GOLPEAR
-(2878)Graphic Quality<==>Calidad de gráficos-->Qualidade dos Gráficos
-(2879)No Storage Device Selected. Continue without Saving?<==>No hay dispositivo de almacenamiento seleccionado. ¿Continuar sin guardar?-->Nenhum dispositivo de armazenamento selecionado. Continuar sem salvar?
+(2878)Graphic Quality<==>Calidad de gráficos-->Qualidade Gráfica
+(2879)No Storage Device Selected. Continue without Saving?<==>No hay dispositivo de almacenamiento seleccionado. ¿Continuar sin guardar?-->Nenhum dispositivo de armazenamento foi selecionado. Continuar sem salvar?
 (2880-IGUAIS)0
-(2881)Dr. Heidi Latchford Research Summary Organic Material analysis: There are several shocking findings relating to the sludge-like material found throughout the Ishimura. First, it is human DNA. Second, and far more disturbing, it re-animates in the presence of a Marker signal. The only conclusion we can come to is that the entire Ishimura crew was infected and "reconstructed", and then fell into a soupy DNA-sludge when the Aegis VII Marker was destroyed.<==>Dra. Heidi Latchford, resumen de investigación de análisis de materia orgánica: hemos realizado hallazgos sorprendentes relacionados con el material residual que encontramos por todo el Ishimura. En primer lugar, se trata de ADN humano. Después, algo mucho más inquietante, cobra vida en presencia de una señal de la Efigie. La única conclusión que podemos extraer es que la tripulación del Ishimura al completo se infectó, se "reconvirtió" y se transformó en un residuo caldoso de ADN cuando la Efigie de Aegis VII fue destruida.-->Dra. Heidi Latchford. Resumo da investigação. Análise de matéria orgânica. Fizemos descobertas surpreendentes relacionadas com o material residual encontrado em toda a Ishimura. Primeiro, era DNA humano. Em segundo lugar, e muito mais perturbador, reanima-se na presença de um sinal do Marker. A única conclusão que podemos chegar é que a tripulação da Ishimura estava infectada, foi "reconstruída", e se transformou em um resíduo caldoso de DNA quando o Marker de Aegis VII foi destruído.
+(2881)Dr. Heidi Latchford Research Summary Organic Material analysis: There are several shocking findings relating to the sludge-like material found throughout the Ishimura. First, it is human DNA. Second, and far more disturbing, it re-animates in the presence of a Marker signal. The only conclusion we can come to is that the entire Ishimura crew was infected and "reconstructed", and then fell into a soupy DNA-sludge when the Aegis VII Marker was destroyed.<==>Dra. Heidi Latchford, resumen de investigación de análisis de materia orgánica: hemos realizado hallazgos sorprendentes relacionados con el material residual que encontramos por todo el Ishimura. En primer lugar, se trata de ADN humano. Después, algo mucho más inquietante, cobra vida en presencia de una señal de la Efigie. La única conclusión que podemos extraer es que la tripulación del Ishimura al completo se infectó, se "reconvirtió" y se transformó en un residuo caldoso de ADN cuando la Efigie de Aegis VII fue destruida.-->Dra. Heidi Latchford,  resumo de investigação de análise de matéria orgânica. Fizemos descobertas surpreendentes relacionadas com o material residual que encontramos em toda a Ishimura. Em primeiro lugar, se trata de DNA humano. Em segundo, e isso é muito mais perturbador, ele se reanima na presença de um sinal do Marker. A única conclusão que podemos chegar é que toda tripulação da Ishimura foi infectada e "reconstruída", e se transformou em um resíduo caldoso de DNA quando o Marker de Aegis VII foi destruído.
 (2882)next unlock at level<==>siguiente desbloqueo en el nivel-->próximo desbloqueio no nível
 (2883)processing...<==>procesando...-->processando...
 (2884)visuals<==>Objetos visuales-->Gráficos
 (2885)video_log_6_7<==>video_log_6_73Åàe-->video_log_6_7
-(2886)Review EA's Terms of Service and Privacy Policy<==>Revisar los Términos de servicio y la Política de privacidad de EA-->Termos de serviço e Política da EA
+(2886)Review EA's Terms of Service and Privacy Policy<==>Revisar los Términos de servicio y la Política de privacidad de EA-->Revisar os Termos de serviço e Política de privacidade  da EA
 (2887)ELLIE'S EYE<==>EL OJO DE ELLIE-->O OLHO DE ELLIE
 (2888-IGUAIS)Nik Chauvin
 (2889-IGUAIS)Mike Gaiptman
@@ -2894,10 +2894,10 @@
 (2894)STASIS<==>ESTABIL.-->ESTABIL.
 (2895)STASIS OBJECTS<==>ESTABIL. CON OBJETOS-->ESTABIL. DE OBJETOS
 (2896-IGUAIS)Melissa Ojeda
-(2897)Praise Altman, there is progress towards our holy goal.   EarthGov's constant pecking at our every slight infraction of every obscure rule is about to be paid back in full.  Their security measures will fall, and their unholy work will consume them like a tidal wave, cleansing the world of their filth.   And the makers <NOTE: not "Markers"> shall be ours.<==> Alabado sea Altman, hay progreso en torno a nuestro sagrado objetivo. Todas las intromisiones del gobierno de la Tierra hasta en la más mínima infracción de todas esas opacas normas habrá merecido la pena. Sus medidas de seguridad fracasarán y sus esfuerzos impíos se consumirán, llevados por la marea, liberando al mundo de su inmundicia. Y los creadores serán nuestros.-->Altman seja louvado, há um progresso em direção ao nosso objetivo sagrado. Todas as interferências do governo da Terra, mesmo na menor violação de todas essas regras absurdas, terá valido a pena. Suas medidas de segurança vão cair, e seus trabalhos profanos se consumirão como uma onda, limpando o mundo de sua imundície. E os criadores serão nossos.
+(2897)Praise Altman, there is progress towards our holy goal.   EarthGov's constant pecking at our every slight infraction of every obscure rule is about to be paid back in full.  Their security measures will fall, and their unholy work will consume them like a tidal wave, cleansing the world of their filth.   And the makers <NOTE: not "Markers"> shall be ours.<==> Alabado sea Altman, hay progreso en torno a nuestro sagrado objetivo. Todas las intromisiones del gobierno de la Tierra hasta en la más mínima infracción de todas esas opacas normas habrá merecido la pena. Sus medidas de seguridad fracasarán y sus esfuerzos impíos se consumirán, llevados por la marea, liberando al mundo de su inmundicia. Y los creadores serán nuestros.-->Altman seja louvado, há um progresso em torno do nosso objetivo sagrado. Todas as intromissões do governo da Terra, até mesmo na menor violação de todas essas regras absurdas, terá valido a pena. Suas medidas de segurança vão fracassar, e seus esforços ímpios se consumirão como uma onda, liberando ao mundo sua imundície. E os criadores seremos nós.
 (2898)Oxygen Station Deactivated<==>Estación de oxígeno desactivada-->Estação de Oxigêneo Desativada
 (2899)EA TERMS OF SERVICE<==>TÉRMINOS DE SERVICIO DE EA-->TERMOS DE SERVIÇO DA EA 
-(2900)ENGINES READY\nPLEASE CONFIRM IGNITION<==>MOTORES PREPARADOS\nCONFIRME IGNIC.-->MOTORES PRONTOS\nCONFIRMAR IGNIÇÃO
+(2900)ENGINES READY\nPLEASE CONFIRM IGNITION<==>MOTORES PREPARADOS\nCONFIRME IGNIC.-->MOTORES PREPARADOS\nCONFIRMAR IGNIÇÃO
 (2901)CIRCUIT BOARD<==>PLACA DE CIRCUITOS-->PLACA DE CIRCUITOS
 (2902)RESET<==>RESTABLECER-->RESETAR
 (2903)combat score<==>Puntuación de combate-->Pontuação de Combate
