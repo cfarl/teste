@@ -3298,11 +3298,11 @@
 (3298)Decontamination complete.<==>Descontaminación completada.-->Descontaminação concluída.
 (3299)It appears you already have an EA Account using this email address.<==>Parece que ya tienes una cuenta EA con esa dirección de correo electrónico.-->Parece que você já tem uma conta EA usando esse mesmo endereço de email.
 (3300){t} win round {r}<==>Equipo ganador de la ronda {r}: {t}-->{t} ganhou a rodada {r}
-(3301)%1 already exists on storage device %2. Saving again with this name will overwrite the previously saved game. Are you sure you wish to proceed?<==>Ya existe %1 en el dispositivo de almacenamiento %2. Si vuelves a guardar con el mismo nombre, sobrescribirás la partida guardada anteriormente. ¿Seguro que quieres continuar?-->%1 já existe. Salvando novamente com esse nome ira sobrescrever o jogo salvo anteriormente. Você tem certeza que quer continuar?
-(3302)Reach the Solar Array<==>Alcanza el panel solar.-->Alcance o Painel Solar
-(3303)Activate Cannon Control<==>Activa el control del cañón.-->Ativar o Controle do Canhão
+(3301)%1 already exists on storage device %2. Saving again with this name will overwrite the previously saved game. Are you sure you wish to proceed?<==>Ya existe %1 en el dispositivo de almacenamiento %2. Si vuelves a guardar con el mismo nombre, sobrescribirás la partida guardada anteriormente. ¿Seguro que quieres continuar?-->%1 já existe no dispositivo de armazenamento %2. Se voltar a salvar com o mesmo nome você vai sobrescrever o jogo salvo anteriormente. Tem certeza que quer continuar?
+(3302)Reach the Solar Array<==>Alcanza el panel solar.-->Alcance o painel solar
+(3303)Activate Cannon Control<==>Activa el control del cañón.-->Ativar o controle do canhão
 (3304-IGUAIS)1
-(3305)These are the items you are currently carrying.  Sell any items you don't want for credits to spend in the Shop, or move them to the Safe to open up Inventory slots.<==>Estos son los objetos que llevas ahora mismo. Vende cualquier objeto que no quieras a cambio de créditos para gastar en la tienda, o muévelos a la caja fuerte para liberar espacio en el inventario.-->Esses são os itens que você está carregando no momento. Venda qualquer item que você não deseja para ganhar créditos para gastar no Armazém, ou mova-os para o Cofre para liberar espaço no seu Inventório.
+(3305)These are the items you are currently carrying.  Sell any items you don't want for credits to spend in the Shop, or move them to the Safe to open up Inventory slots.<==>Estos son los objetos que llevas ahora mismo. Vende cualquier objeto que no quieras a cambio de créditos para gastar en la tienda, o muévelos a la caja fuerte para liberar espacio en el inventario.-->Esses são os itens que você está carregando no momento. Venda qualquer item que você não queira para ganhar créditos que podem ser gastos na loja, ou mova-os para o cofre para liberar espaço no seu inventário.
 (3306)Tools<==>Herramientas-->Ferramentas
 (3307-IGUAIS)Visceral Games Montreal
 (3308)Engineering<==>Ingeniería-->Engenharia
@@ -3317,12 +3317,12 @@
 (3317-IGUAIS)Chu Jia Qi
 (3318-IGUAIS)Zhang Ran
 (3319)SVP Global Marketing EA Games Label<==>Vicepresidente de marketing global sénior del sello EA Games-->Vice-Presidente de Marketing Global Sênior da Marca EA Games
-(3320)Reload from your last hard core save game?<==>¿Volver a cargar a partir de la última partida imposible guardada?-->Recarregar seu último jogo salvo da dificuldade Impossível?
+(3320)Reload from your last hard core save game?<==>¿Volver a cargar a partir de la última partida imposible guardada?-->Recarregar seu último jogo salvo da dificuldade impossível?
 (3321)yes, decline<==>Sí, rechazar-->Sim, negar
 (3322)AIR<==>AIRE-->AR
-(3323)Not enough credits<==>No tienes créditos suficientes-->Não tem créditos suficiente
-(3324)Flight Crews one and two, please stand-by. We are approaching Aegis VII. Entering orbit in t-minus two minutes and counting.<==>Tripulaciones uno y dos, preparadas. Nos aproximamos a Aegis VII. Entraremos en órbita en dos minutos y contando.-->Tripulações um e dois, por favor se preparem. Nós estamos nos aproximando da Aegis VII. Entrando na órbita em dois minutos e contando.
-(3325)Crypt Sergeant Khoury reporting. Direct orders today from Vested Member Odwick, fully paid, to clear all of Crypt bays  2 and 3 for new arrivals.   Martyrs, actually, he said.   The covert operations are about to start.  We may get as many EarthGov bodies in here as we do Church Operatives.  We can only hope.   And we need to be ready in 12 hours. I've authorized disgorgement of bays 2 and 3 to the Castle of Spirits mortuary ship, tethered at docking arm Theta 9.   It will take at least 12 hours to float all the caskets along the outer hull route, even with all the tugs in operation.  Looks like Earth Gov is about to get a big dose of what they've been handing out lately. - Altman Be Praised.<==>Informe del sargento de la cripta Khoury. Tenemos órdenes directas del miembro investido Odwick, de abono completo, de despejar las plataformas de la cripta 2 y 3 para próximas llegadas. Mártires, en realidad, según dijo. Las operaciones encubiertas están a punto de empezar. Puede que haya tantas unidades del gobierno de la Tierra como operativos de la iglesia. Solo podemos tener esperanza. Debemos estar listos en 12 horas. He autorizado la eyección de las plataformas 2 y 3 a la nave funeraria del Castillo de los Espíritus, anclada al brazo de ensamblaje Theta 9. Serán necesarias 12 horas para llevar flotando todos los féretros por la ruta exterior del casco, incluso con todos los remolques en funcionamiento.   Parece que el gobierno de la Tierra está a punto de recibir una buena dosis de la misma medicina que estaba administrando. Alabado sea Altman. -->Sargento da Crípta Khoury informando. Ordens diretas do membro investido Odwick, completamente pago, para limpar as plataformas da Cripta 2 e 3 para novas chegadas. Martires, na verdade, ele disse. As operações secretas estão para começar. Pode ser que tenhamos tantas unidades do Governo da Terra como Operativos da Igreja aqui. Nós só podemos ter esperanças. E nós precisariamos estar preparados em 12 hores. Eu autorizei a ejeção das baias 2 e 3 para a nave funerária Castelo dos Espirítos, ancorando no braço de desembarque Theta 9. Serão necessárias ao menos 12 horas para flutuar todos os caixões para a rota da fuselagem exterior, mesmo com todos os rebocadores em operação. Parece que o Governo da Terra está perto de receber uma grande dose do mesmo remédio que eles tem usado. - Altman seja louvado.
+(3323)Not enough credits<==>No tienes créditos suficientes-->Não tem créditos suficientes
+(3324)Flight Crews one and two, please stand-by. We are approaching Aegis VII. Entering orbit in t-minus two minutes and counting.<==>Tripulaciones uno y dos, preparadas. Nos aproximamos a Aegis VII. Entraremos en órbita en dos minutos y contando.-->Tripulações um e dois, estejam preparadas. Estamos nos aproximando da Aegis VII. Entrando em órbita em dois minutos e contando.
+(3325)Crypt Sergeant Khoury reporting. Direct orders today from Vested Member Odwick, fully paid, to clear all of Crypt bays  2 and 3 for new arrivals.   Martyrs, actually, he said.   The covert operations are about to start.  We may get as many EarthGov bodies in here as we do Church Operatives.  We can only hope.   And we need to be ready in 12 hours. I've authorized disgorgement of bays 2 and 3 to the Castle of Spirits mortuary ship, tethered at docking arm Theta 9.   It will take at least 12 hours to float all the caskets along the outer hull route, even with all the tugs in operation.  Looks like Earth Gov is about to get a big dose of what they've been handing out lately. - Altman Be Praised.<==>Informe del sargento de la cripta Khoury. Tenemos órdenes directas del miembro investido Odwick, de abono completo, de despejar las plataformas de la cripta 2 y 3 para próximas llegadas. Mártires, en realidad, según dijo. Las operaciones encubiertas están a punto de empezar. Puede que haya tantas unidades del gobierno de la Tierra como operativos de la iglesia. Solo podemos tener esperanza. Debemos estar listos en 12 horas. He autorizado la eyección de las plataformas 2 y 3 a la nave funeraria del Castillo de los Espíritus, anclada al brazo de ensamblaje Theta 9. Serán necesarias 12 horas para llevar flotando todos los féretros por la ruta exterior del casco, incluso con todos los remolques en funcionamiento.   Parece que el gobierno de la Tierra está a punto de recibir una buena dosis de la misma medicina que estaba administrando. Alabado sea Altman. -->Informe do sargento da cripta Khoury. Temos ordens diretas do membro investido Odwick, de abono completo, para limpar as plataformas das crIptas 2 e 3 para as próximas chegadas. Mártires, na verdade, segundo foi dito. As operações secretas estão para começar. Pode ser que tenhamos tantas unidades do governo da Terra como operativos da Igreja. Nós só podemos ter esperanças. Devemos estar prontos em 12 horas. Eu autorizei a ejeção das plataformas 2 e 3 para a nave funerária do Castelo dos Espirítos, ancorada no braço de desembarque Theta 9. Serão necessárias ao menos 12 horas para levar flutuando todos os caixões pela rota da fuselagem exterior, mesmo com todos os rebocadores em operação. Parece que o governo da Terra está a ponto de receber uma boa dose do mesmo remédio que eles estavam usando. - Altman seja louvado.
 (3326)CEC PORTHOLE<==>PORTILLA DE CEC-->VIGIA DA CEC
 (3327)ANTIQUATED<==>ANTICUADO-->ANTIQUADO
 (3328)STROSS' EPISODE<==>EPISODIO DE STROSS-->EPISÓDIO DO STROSS
@@ -3332,21 +3332,21 @@
 (3332)Unlocked at level 41<==>Desbloqueado en el nivel 41-->Desbloqueado no nível 41
 (3333)TANKS TWO<==>TANQUES DOS-->TANQUES DOIS
 (3334)THE HATCH<==>LA ESCOTILLA-->A ESCOTILHA
-(3335)THRESHER HINT<==>PISTA DE TRILLADORA-->PISTA DA BATEDEIRA
-(3336)VALVE HATCH HINT<==>PISTA DE ESCOTILLA DE VÁLVULA-->PISTA DA VALVULA DA ESCOTILHA
+(3335)THRESHER HINT<==>PISTA DE TRILLADORA-->PISTA DA DEBULHADORA
+(3336)VALVE HATCH HINT<==>PISTA DE ESCOTILLA DE VÁLVULA-->PISTA DA ESCOTILHA DE VÁLVULA 
 (3337)GEAR PUZZLE 01<==>ROMPECABEZAS DE ENGRANAJE 01-->ENIGMA DA ENGRENAGEM 01
 (3338)GEAR PUZZLE 02<==>ROMPECABEZAS DE ENGRANAJE 02-->ENIGMA DA ENGRENAGEM 02
 (3339)OBSTRUCTION GONE<==>ADIÓS OBSTRUCCIÓN-->SEM OBSTRUÇÃO
 (3340)CEC ESCAPE<==>HUIDA DE CEC-->FUGA DA CEC
-(3341)TRIPOD HINT<==>PISTA DE TRÍPEDO-->PISTA DO TRICAPSULA
+(3341)TRIPOD HINT<==>PISTA DE TRÍPEDO-->PISTA DO TRIPOD
 (3342)INDOCTRINATION<==>ADOCTRINAMIENTO-->DOUTRINAMENTO
 (3343-IGUAIS)Mitch Lockhart
 (3344)SHUTDOWN<==>DESCONEXIÓN-->DESCONEXÃO
 (3345)Chapter 8<==>Capítulo 8-->Capítulo 8 - Engenharia Espacial
 (3346)Global Online Studio<==>Estudio online global-->Estudio Online Global
-(3347)Communication array offline.<==>Antena de comunicaciones desconectada.-->Antena de comunicações desligadas.
+(3347)Communication array offline.<==>Antena de comunicaciones desconectada.-->Antena de comunicação desconectada.
 (3348)Shows progress as you move around dishes<==>Muestra los progresos al desplazarte por las parabólicas-->Mostra os progressos enquanto você anda pelas parabólicas
-(3349)Communications array re-aligned. Activate console<==>Antena de comunicaciones realineada. Activar consola-->Antenas de comunicação re-alinhadas. Ativar console
+(3349)Communications array re-aligned. Activate console<==>Antena de comunicaciones realineada. Activar consola-->Antena de comunicação realinhada. Ativar console
 (3350-IGUAIS)Kevin Kimball
 (3351)PRIME ESCAPE POD<==>ACTIVAR CÁPSULA-->ATIVAR CÁPSULA DE FUGA
 (3352-IGUAIS)4
@@ -3354,17 +3354,17 @@
 (3354)Secutiry Layer 1 engaged\nLoopback initiated<==>Nivel de seguridad 1 activado\nBucle invertido iniciado-->Nível de segurança 1 ativado\nLoopback iniciado
 (3355)Secutiry Layer 2 engaged\nLoopback initiated<==>Nivel de seguridad 2 activado\nBucle invertido iniciado-->Nível de segurança 2 ativado\nLoopback iniciado
 (3356)Secutiry Layer 3 engaged\nLoopback initiated<==>Nivel de seguridad 3 activado\nBucle invertido iniciado-->Nível de segurança 3 ativado\nLoopback iniciado
-(3357)   Activate the centrifuge.<==>Activa la centrifugadora.-->   Ativar a centrifuga.
-(3358)TEXT LOG FOUND.\nPress [Select] to read.<==>REGISTRO DE TEXTO ENCONTRADO.\nPulsa [Select] para leerlo.-->REGISTRO DE TEXTO ENCONTRADO.\nAperte [Select] para ler.
+(3357)   Activate the centrifuge.<==>Activa la centrifugadora.-->   Ativar a centrífuga.
+(3358)TEXT LOG FOUND.\nPress [Select] to read.<==>REGISTRO DE TEXTO ENCONTRADO.\nPressione [Select] para ler.-->REGISTRO DE TEXTO ENCONTRADO.\nPressione [Select] para ler.
 (3359)long ranged, charged fire<==>Largo alcance, fuego cargado.-->Longo alcance, fogo carregado
 (3360)ATMOSPHERIC PURITY LEVEL<==>NIVEL DE PUREZA ATMOSFÉRICA-->NÍVEL DE PUREZA ATMOSFÉRICA
-(3361)This device does not have enough space to save into an empty slot. Overwrite an existing slot or select a new device.<==>El dispositivo no tiene espacio suficiente para guardar en una ranura vacía. Sobrescribe una ranura existente o selecciona un dispositivo nuevo.-->Esse dispositivo não tem espaço suficiente para salvar. Sobrescreva um dado existente ou selecione um novo dispositivo.
+(3361)This device does not have enough space to save into an empty slot. Overwrite an existing slot or select a new device.<==>El dispositivo no tiene espacio suficiente para guardar en una ranura vacía. Sobrescribe una ranura existente o selecciona un dispositivo nuevo.-->O dispositivo não tem espaço suficiente para salvar em um espaço vazio. Sobrescreva um espaço existente ou selecione um novo dispositivo.
 (3362-IGUAIS)Fernando Castillo
-(3363)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado por matar o portador
+(3363)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado ao matar o portador
 (3364)line gun<==>Cañón lineal-->Canhão Linear
-(3365)SESSION IN PROGRESS<==>SESIÓN EN CURSO-->SESSÃO EM PROGRESSO
+(3365)SESSION IN PROGRESS<==>SESIÓN EN CURSO-->SESSÃO EM CURSO
 (3366)BENCH<==>MEJORAS-->MELHORIAS
-(3367)Your gamer profile does not have the correct permissions to access Xbox LIVE functionality.<==>Tu perfil de jugador no tiene los permisos necesarios para acceder a las funciones de Xbox LIVE.-->Seu perfil de jogador não possui as permissões corretas para acessar as funcionalidades da Xbox LIVE.
+(3367)Your gamer profile does not have the correct permissions to access Xbox LIVE functionality.<==>Tu perfil de jugador no tiene los permisos necesarios para acceder a las funciones de Xbox LIVE.-->Seu perfil de jogador não possui as permissões necessárias  para acessar as funcionalidades da Xbox LIVE.
 (3368)Chapter 3<==>Capítulo 3-->Capítulo 3 - Sem Volta
 (3369-IGUAIS)15
 (3370)UI Artists<==>Diseñadores de IU-->Artistas de IU
@@ -3372,11 +3372,11 @@
 (3372-IGUAIS)Jamie Silverman
 (3373)DECONTAMINATION PROCESS START<==>DESCONTAMINANDO-->DESCONTAMINANDO
 (3374-IGUAIS)1
-(3375)Restores Stasis Energy.<==>Restablece la energía de estabilización.-->Restaurar a energia de Estabilização.
+(3375)Restores Stasis Energy.<==>Restablece la energía de estabilización.-->Restaurar a energia de estabilização.
 (3376-IGUAIS)1
 (3377)Hard Core Mode<==>Modo Imposible-->Modo Impossível
-(3378)solar array<==>El panel solar-->Painel Solar
-(3379)solar array<==>El panel solar-->Painel Solar
+(3378)solar array<==>El panel solar-->painel solar
+(3379)solar array<==>El panel solar-->painel solar
 (3380)Localization<==>Localización-->Localização
 (3381-IGUAIS)Iñaki Valladares
 (3382-IGUAIS)Hervé Trouilh
@@ -3394,9 +3394,9 @@
 (3394-IGUAIS)Samuel Drake Worch
 (3395)SO MUCH LOSS<==>SO MUCH LOSS3Åàe-->SO MUCH LOSS
 (3396)new game +<==>Nueva partida +-->Novo Jogo +
-(3397)press and hold<==>mantener pulsado-->aperte e segure
-(3398)QA Compliance Specialists<==>Especialistas de validación de control de calidad-->Especialista de validação do Controle de Qualidade
-(3399)Test Manager<==>Jefe de pruebas-->Chefe de Testes
+(3397)press and hold<==>mantener pulsado-->mantenha pressionado
+(3398)QA Compliance Specialists<==>Especialistas de validación de control de calidad-->Especialistas de validação de controle de qualidade
+(3399)Test Manager<==>Jefe de pruebas-->Gerente de Testes
 (3400)custom<==>Personaliz.-->Personalizado
 (3401-IGUAIS)1
 (3402)CONTACT ENERGY\nSchematic Acquired\nDownload at the Store<==>ENERGÍA DE CONTACTO\nDiagrama adquirido\nDescargar en el almacén-->ENERGIA DE CONTATO\nDiagrama adquirido\nBaixe no armazém
