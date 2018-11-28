@@ -3432,48 +3432,48 @@
 (3432)DNA Identity Scan Required<==>Escáner de ADN obligatorio-->Sondagem de DNA obrigatória
 (3433)WARNING:  POWER GRID UNSTABLE<==>ATENCIÓN: RED ELÉCTRICA INESTABLE-->ATENÇÃO: REDE ELÉTRICA INSTÁVEL
 (3434)Caution! Delicate Equipment!<==>¡Precaución! ¡Equipo delicado!-->Cuidado! Equipamento Delicado!
-(3435)Authorized Engineers Only<==>Solo ingenieros autorizados-->Somente Engenheiros Autorizados
+(3435)Authorized Engineers Only<==>Solo ingenieros autorizados-->Somente engenheiros autorizados
 (3436)WARNING: ZERO GRAVITY AREA<==>ATENCIÓN: ZONA DE GRAVEDAD CERO-->ATENÇÃO: ZONA DE GRAVIDADE ZERO
 (3437)Trains Delayed. Limited Service Available.<==>Trenes retrasados. Servicio limitado disponible.-->Trens Atrasados. Serviço limitado disponível.
-(3438)MALFUNCTION: Elevator Disengaged at Lower Deck<==>FALLO DEL SISTEMA: Ascensor desacoplado en la cubierta inferior-->FALHA DO SISTEMA: Elevador desacoplado na Plataforma Inferior
-(3439)Elevator Online: Gravity Tethers Active<==>Ascensor operativo: anclajes gravitatorios activos-->Elevador Online: travas de Gravidade Ativas
-(3440)      Next Stop: Shopping Warren A14. Home of Titan Elementary School. Go Space Tigers!<==>      Próxima parada: Compras Warren A14. Hogar de la Escuela de Enseñanza Primaria Titán. ¡Aúpa, Tigres espaciales!-->      Próxima Parada: Shopping Warren A14. Casa da Escola Elementar Titã. Vão Tigres Espaciais!
+(3438)MALFUNCTION: Elevator Disengaged at Lower Deck<==>FALLO DEL SISTEMA: Ascensor desacoplado en la cubierta inferior-->FALHA DO SISTEMA: Elevador desacoplado na plataforma inferior
+(3439)Elevator Online: Gravity Tethers Active<==>Ascensor operativo: anclajes gravitatorios activos-->Elevador Operante: travas de gravidade ativas
+(3440)      Next Stop: Shopping Warren A14. Home of Titan Elementary School. Go Space Tigers!<==>      Próxima parada: Compras Warren A14. Hogar de la Escuela de Enseñanza Primaria Titán. ¡Aúpa, Tigres espaciales!-->      Próxima Parada: Shopping Warren A14. Lugar da Escola de Ensino  Primário de Titã. Vão, Tigres Espaciais!
 (3441)QUICK MAP<==>MAPA-->MAPA
 (3442)SG{s} - chapter {c}<==>PG{s} - capítulo {c}-->PG{s} - capítulo {c}
-(3443)Multiplayer content has been unlocked.<==>Se ha desbloqueado contenido multijugador.-->Novo conteúdo desbloqueado.
-(3444)Restore power to the Transport Hub.<==>Restablece la energía en el nodo de transporte.-->Restabeleça a energia para a centro de Transporte.
+(3443)Multiplayer content has been unlocked.<==>Se ha desbloqueado contenido multijugador.-->Novo conteúdo para vários jogadores desbloqueado.
+(3444)Restore power to the Transport Hub.<==>Restablece la energía en el nodo de transporte.-->Restabeleça a energia no centro de transporte.
 (3445-IGUAIS)Jake Kornbluth
 (3446-IGUAIS)Dave Footman
 (3447-IGUAIS)1
-(3448)congratulations!\nyou now have the ability to equip the rivet gun\nprimary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>¡Felicidades!\nAhora puedes equipar la remachadora.\nDisparo principal: roblones de fragmentación.\nDisparo secundario: ráfaga de metralla de proyección.-->Congratulações!\nVocê agora pode equipar a Rebitadeira\nDisparo Principal: rebites de fragmentação\nDisparo Secundário: reflective shrapnel blast
-(3449)The Human team must destroy the marker experiments to keep them from falling into the wrong hands.<==>Los humanos deben destruir los experimentos con Efigies para evitar que caigan en las manos equivocadas.-->Os humanos devem destruir os experimentos do marker para evitar que eles caiam em mãos erradas.
-(3450)POWER OFFLINE<==>SIN ENERGÍA-->ENERGIA DESLIGADA
-(3451)Security Gate Motor Control<==>Control motor de la puerta de seguridad-->Controle do Motor do Portão de Segurança
-(3452)Open Security Gate?<==>¿Abrir puerta de seguridad?-->Abrir Portas de Segurança?
-(3453)Security Gates Opened.<==>Puerta de seguridad abierta-->Portas de Segurança Abertas.
-(3454)Sermon Database\nAdministrative\nSecurity Control\nHuman Resources<==>Base de datos de sermones\nAdministración\nControl de seguridad\nRecursos humanos-->Banco de Dados de Sermões\nAdministração\nControle de Segurança\nHuman Resources
+(3448)congratulations!\nyou now have the ability to equip the rivet gun\nprimary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>¡Felicidades!\nAhora puedes equipar la remachadora.\nDisparo principal: roblones de fragmentación.\nDisparo secundario: ráfaga de metralla de proyección.-->Parabéns!\nVocê agora pode equipar a rebitadeira\nDisparo Principal: rebites de fragmentação\nDisparo Secundário: rajada de estilhaços de projeção
+(3449)The Human team must destroy the marker experiments to keep them from falling into the wrong hands.<==>Los humanos deben destruir los experimentos con Efigies para evitar que caigan en las manos equivocadas.-->A equipe dos humanos deve destruir os experimentos com Markers para evitar que eles caiam em mãos erradas.
+(3450)POWER OFFLINE<==>SIN ENERGÍA-->SEM ENERGIA
+(3451)Security Gate Motor Control<==>Control motor de la puerta de seguridad-->Controle do motor da porta de segurança
+(3452)Open Security Gate?<==>¿Abrir puerta de seguridad?-->Abrir porta de segurança?
+(3453)Security Gates Opened.<==>Puerta de seguridad abierta-->Porta de segurança aberta.
+(3454)Sermon Database\nAdministrative\nSecurity Control\nHuman Resources<==>Base de datos de sermones\nAdministración\nControl de seguridad\nRecursos humanos-->Base de dados de sermões\nAdministração\nControle de Segurança\nRecursos humanos
 (3455-IGUAIS)ù
 (3456-IGUAIS)c
 (3457-IGUAIS)Ù
 (3458-IGUAIS)C
 (3459-IGUAIS)© 2011 Electronic Arts Inc.
 (3460-IGUAIS)Justin Olivares
-(3461)PLEASE REMAIN STILL<==>POR FAVOR, NO SE MUEVA-->POR FAVOR NÃO SE MOVA
+(3461)PLEASE REMAIN STILL<==>POR FAVOR, NO SE MUEVA-->POR FAVOR, NÃO SE MOVA
 (3462)Release payload 8772?<==>¿Lanzar carga 8772?-->Lançar carga 8772?
 (3463)Additional Production<==>Producción adicional-->Produção Adicional
-(3464)aim assist<==>Ayuda para apuntar-->Assistência de Mira
+(3464)aim assist<==>Ayuda para apuntar-->Ajuda para mirar
 (3465-IGUAIS)1
 (3466)Rig In Use\nPlease Wait<==>DRI en uso\nEspera-->DRI em Uso\nPor favor aguarde
-(3467)Time spent walking<==>Tiempo caminado-->Tempo gasto caminhando
-(3468) Clarke! Take him down!<==>¡Es Clarke, acabad con él!--> Clarke! Acabe com ele!
-(3469)Over a hundred dead on the colony. Most from violent crimes, suicides.<==>Más de un centenar de muertos en la colonia. La mayoría por crímenes violentos o suicidios.-->Mais de uma centena de mortos na colônia. A maioria por crimes violentos ou suicídio.
-(3470)I don't know, I was just glad to get the hell out of there. It's like they're all going crazy down there.<==>No lo sé, yo me alegré de largarme de allí. Todos parecían estar volviéndose locos.-->Eu não sei, estava apenas feliz por ter caído fora dalí. Todos pareciam estar loucos lá.
-(3471) He declared evac before we could stop him.  He knew the risks when he signed the papers to put the Project here.  Well, maybe not all the risks, but enough of them.   Now that the shit's hit the fan, he can't face the deal he made.   He'll have hell to pay, assuming he survives.   Meet the senior staff at the shuttle bay once all your people are out Sergeant.<==>Declaró la evacuación antes de que pudiésemos detenerlo.  Conocía los riesgos cuando firmó los papeles para traer el proyecto aquí. Es posible que no todos, pero sí los suficientes. Y ahora que todo se ha desmadrado, no puede dar la cara. Le va a costar caro, si es que sobrevive. Reúnase con el personal superior en la plataforma del transbordador en cuanto su gente haya salido, sargento.--> Ele declarou a evacuação antes que pudéssemos detê-lo. Ele sabia dos riscos quando assinou os papéis para trazer o projeto pra cá. Bem, talvez não todos os riscos, mas a maioria deles. Agora que a merda voou pelo ventilador, ele não consegue dar as caras. Ele vai pagar caro, se ele sobreviver. Reúna-se com o superior na plataforma do transportador quando todo o seu pessoal tiver saído, Sargento.
-(3472)primary fire: conical force blast\nalternate fire: condensed force blast<==>disparo principal: ráfaga de energía cónica\ndisparo secundario: ráfaga de energía condensada-->Disparo Principal: explosão cônica de energia\nDisparo Secundário: explosão condensada de energia
-(3473)primary fire: conical force blast\nalternate fire: condensed force blast<==>disparo principal: ráfaga de energía cónica\ndisparo secundario: ráfaga de energía condensada-->Disparo Principal: explosão cônica de energia\nDisparo Secundário: explosão condensada de energia
-(3474)USG ISHIMURA\nAEROSPACE ENGINEERING DEPT\nSHUTTLE REPAIRS INVOICE\nMISSION DAY TWO: \n- Faulty fore gyro, vessel USG-ISH-S03. Replaced, now functional.\nMISSION DAY THREE: \n- Faulty 4D scope, vessel USG-ISH-S01. Still in repair.\nMISSION DAY FOUR: \n- Damaged landing repulsors, vessel USG-ISH-S05. Complete replacement, now functional.\n- Damaged fore and left-fore viewports, vessel USG-ISH-S04. Replaced, now functional.\nMISSION DAY FIVE:\n- Damaged booster collar, vessel USG-ISH-S05. Repaired, now functional.\nENGINEER'S NOTE\nWRIGHT, J.F. (2nd ENGINEER, MAINTENANCE BAY)<==>USG ISHIMURA\nDEPARTAMENTO DE INGENIERÍA AEROESPACIAL\nFACTURA DE REPARACIÓN DEL TRANSBORDADOR\nDÍA DE MISIÓN DOS: \n- Giroscopio frontal defectuoso, nave USG-ISH-S03. Sustituido. Ya funciona.\nDÍA DE MISIÓN TRES: \n- Campo de visión en 4D defectuoso, nave USG-ISH-S01. En reparación.\nDÍA DE MISIÓN CUATRO: \n- Propulsores de aterrizaje dañados, nave USG-ISH-S05. Sustitución completa. Ya funcionan.\n- Visores delantero central y delantero izquierdo dañados, nave USG-ISH-S04. Sustituidos. Ya funcionan.\nDÍA DE MISIÓN CINCO:\n- Cuello de propulsión con daños, nave USG-ISH-S05. Reparado. Ya funciona.\nNOTA DEL INGENIERO\nWRIGHT, J.F. (2º INGENIERO, PLATAFORMA DE MANTENIMIENTO)-->USG ISHIMURA\nDEPARTAMENTO DE ENGENHARIA AEROESPACIAL\nFATURA DE REPARAÇÃO DO TRANSPORTADOR\nDIA DOIS DA MISSÃO: \n- Giroscópio frontal defeituoso, nave USG-ISH-S03. Substituído, agora funciona.\nDIA TRÊS DA MISSÃO: \n- Campo de visão em 4D defeituoso, nave USG-ISH-S01. Em reparação.\nDIA QUATRO DA MISSÃO: \n- Propulsores de aterrissagem danificados, nave USG-ISH-S05. Subistituição completa, agora funciona.\n- Visores dianteiro e dianteiro esquerdo danificados, nave USG-ISH-S04. Substituído, agora funciona.\nDIA CINCO DA MISSÃO:\n- Colar de propulsão dfanificado, nave USG-ISH-S05. Reparado, agora funciona.\nNOTA DO ENGENHEIRO\nWRIGHT, J.F. (2º ENGENHEIRO, PLATAFORMA DE MANUTENÇÃO)
+(3467)Time spent walking<==>Tiempo caminado-->Tempo caminhando
+(3468) Clarke! Take him down!<==>¡Es Clarke, acabad con él!--> É o Clarke! Acabe com ele!
+(3469)Over a hundred dead on the colony. Most from violent crimes, suicides.<==>Más de un centenar de muertos en la colonia. La mayoría por crímenes violentos o suicidios.-->Mais de uma centena de mortos na colônia. A maioria por crimes violentos ou suicídios.
+(3470)I don't know, I was just glad to get the hell out of there. It's like they're all going crazy down there.<==>No lo sé, yo me alegré de largarme de allí. Todos parecían estar volviéndose locos.-->Eu não sei, só estava feliz de ter caído fora dali. Todos pareciam estar ficando loucos lá.
+(3471) He declared evac before we could stop him.  He knew the risks when he signed the papers to put the Project here.  Well, maybe not all the risks, but enough of them.   Now that the shit's hit the fan, he can't face the deal he made.   He'll have hell to pay, assuming he survives.   Meet the senior staff at the shuttle bay once all your people are out Sergeant.<==>Declaró la evacuación antes de que pudiésemos detenerlo.  Conocía los riesgos cuando firmó los papeles para traer el proyecto aquí. Es posible que no todos, pero sí los suficientes. Y ahora que todo se ha desmadrado, no puede dar la cara. Le va a costar caro, si es que sobrevive. Reúnase con el personal superior en la plataforma del transbordador en cuanto su gente haya salido, sargento.--> Ele declarou a evacuação antes que pudéssemos detê-lo. Ele sabia dos riscos quando assinou os papéis para trazer o projeto para cá. Bem, talvez não todos os riscos, mas a maioria deles. E agora que a merda bateu no ventilador, ele não consegue dar as caras. Ele vai pagar caro, se sobreviver. Encontre o pessoal superior na plataforma do transportador quando todo o seu pessoal tiver saído, sargento.
+(3472)primary fire: conical force blast\nalternate fire: condensed force blast<==>disparo principal: ráfaga de energía cónica\ndisparo secundario: ráfaga de energía condensada-->Disparo Principal: rajada de energia cônica\nDisparo Secundário: rajada de energia condensada
+(3473)primary fire: conical force blast\nalternate fire: condensed force blast<==>disparo principal: ráfaga de energía cónica\ndisparo secundario: ráfaga de energía condensada-->Disparo Principal: rajada de energia cônica\nDisparo Secundário: rajada de energia condensada
+(3474)USG ISHIMURA\nAEROSPACE ENGINEERING DEPT\nSHUTTLE REPAIRS INVOICE\nMISSION DAY TWO: \n- Faulty fore gyro, vessel USG-ISH-S03. Replaced, now functional.\nMISSION DAY THREE: \n- Faulty 4D scope, vessel USG-ISH-S01. Still in repair.\nMISSION DAY FOUR: \n- Damaged landing repulsors, vessel USG-ISH-S05. Complete replacement, now functional.\n- Damaged fore and left-fore viewports, vessel USG-ISH-S04. Replaced, now functional.\nMISSION DAY FIVE:\n- Damaged booster collar, vessel USG-ISH-S05. Repaired, now functional.\nENGINEER'S NOTE\nWRIGHT, J.F. (2nd ENGINEER, MAINTENANCE BAY)<==>USG ISHIMURA\nDEPARTAMENTO DE INGENIERÍA AEROESPACIAL\nFACTURA DE REPARACIÓN DEL TRANSBORDADOR\nDÍA DE MISIÓN DOS: \n- Giroscopio frontal defectuoso, nave USG-ISH-S03. Sustituido. Ya funciona.\nDÍA DE MISIÓN TRES: \n- Campo de visión en 4D defectuoso, nave USG-ISH-S01. En reparación.\nDÍA DE MISIÓN CUATRO: \n- Propulsores de aterrizaje dañados, nave USG-ISH-S05. Sustitución completa. Ya funcionan.\n- Visores delantero central y delantero izquierdo dañados, nave USG-ISH-S04. Sustituidos. Ya funcionan.\nDÍA DE MISIÓN CINCO:\n- Cuello de propulsión con daños, nave USG-ISH-S05. Reparado. Ya funciona.\nNOTA DEL INGENIERO\nWRIGHT, J.F. (2º INGENIERO, PLATAFORMA DE MANTENIMIENTO)-->USG ISHIMURA\nDEPARTAMENTO DE ENGENHARIA AEROESPACIAL\nFATURA DE REPARAÇÃO DO TRANSPORTADOR\nDIA DOIS DA MISSÃO: \n- Giroscópio frontal com defeito, nave USG-ISH-S03. Substituído. Já está funcionando.\nDIA TRÊS DA MISSÃO: \n- Campo de visão em 4D com defeito, nave USG-ISH-S01. Em reparação.\nDIA QUATRO DA MISSÃO: \n- Propulsores de aterrissagem danificados, nave USG-ISH-S05. Substituição completa. Já está funcionando.\n- Visores dianteiro central e dianteiro esquerdo danificados, nave USG-ISH-S04. Substituído, agora funciona.\nDIA CINCO DA MISSÃO:\n- Colar de propulsão dfanificado, nave USG-ISH-S05. Reparado. Já está funcionando.\nNOTA DO ENGENHEIRO\nWRIGHT, J.F. (2º ENGENHEIRO, PLATAFORMA DE MANUTENÇÃO)
 (3475-IGUAIS)EA Tiburon
-(3476)CRAWL<==>ARRASTRARSE-->ARRASTAR
+(3476)CRAWL<==>ARRASTRARSE-->ARRASTAR-SE
 (3477)casual<==>Fácil-->Fácil
 (3478-IGUAIS)1
 (3479-IGUAIS)Andrew Hill
@@ -3490,35 +3490,36 @@
 (3490-IGUAIS)Î
 (3491-IGUAIS)D
 (3492)Visual Effects<==>Efectos visuales-->Efeitos Visuais
-(3493)Urban Camo Blue<==>Azul camuflaje urbano-->Camuflagem Azul Urbana
+(3493)Urban Camo Blue<==>Azul camuflaje urbano-->Azul Camuflagem Urbana
 (3494-IGUAIS)VMC Montreal
-(3495)Aim and press [RDRight] to grab GRIP enabled objects.<==>Apunta y pulsa [RDRight] para atrapar objetos con el símbolo GRIP.-->Aponte e aperte [RDRight] para pegar objetos com o símbolo GRIP.
+(3495)Aim and press [RDRight] to grab GRIP enabled objects.<==>Apunta y pulsa [RDRight] para atrapar objetos con el símbolo GRIP.-->Mire e pressione [RDRight] para pegar objetos com o símbolo GRIP.
 (3496)Stereo<==>Estéreo-->Estéreo
 (3497)OBJECTIVES<==>OBJETIVOS-->OBJETIVOS
 (3498-IGUAIS)0
 (3499)NAV CARD 1<==>CARTA DE NAVEGACIÓN 1-->CARTA DE NAVEGACÃO 1
 (3500-IGUAIS)2
-(3501)Loading %1. Please don't turn off your Xbox 360 console.<==>Cargando %1. No apagues tu consola.-->Carregando %1. Por favor não desligue o seu Xbox 360.
-(3502)override security doors<==>Anula las puertas de seguridad.-->Anule as portas de segurança
+(3501)Loading %1. Please don't turn off your Xbox 360 console.<==>Cargando %1. No apagues tu consola.-->Carregando %1. Por favor não desligue seu console Xbox 360.
+(3502)override security doors<==>Anula las puertas de seguridad.-->Libere as portas de segurança
 (3503-IGUAIS)Robert Walton
 (3504-IGUAIS)1
 (3505-IGUAIS)2
-(3506)Shots fired<==>Disparos efectuados-->Disparos Efetuados
+(3506)Shots fired<==>Disparos efectuados-->Disparos efetuados
 (3507)P  R  O  C  E  S  S  I  N  G<==>P  R  O  C  E  S  A  N  D  O-->P  R  O  C  E  S  S  A  N  D  O
 (3508)Caps<==>Bloq Mayús-->Caps
 (3509)Caps<==>Bloq Mayús-->Caps
 (3510)Caps<==>Bloq Mayús-->Caps
 (3511)Caps<==>Bloq Mayús-->Caps
 (3512)SOLDIER SUIT<==>TRAJE DE SOLDADO-->TRAJE DE SOLDADO
-(3513)Equipping this suit will give the wearer the following benefits:\n• 15% damage bonus to Javelin Gun.\nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>La equipación de este traje ofrecerá a quien lo lleve las siguientes ventajas:\n• 15% más de daño con el cañón jabalina.\nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->Equipando esse traje dará ao portador os seguintes benefícios:\n• 15% a mais de danos com o canhão de dardos.\nSua compra garante no mínimo 25 espaços no inventário e 25% de blindagem. Seu DRI conserva a maior melhoria de Blindagem e Inventário.
+(3513)Equipping this suit will give the wearer the following benefits:\n• 15% damage bonus to Javelin Gun.\nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>La equipación de este traje ofrecerá a quien lo lleve las siguientes ventajas:\n• 15% más de daño con el cañón jabalina.\nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->Ao equipar esse traje o portador terá os seguintes benefícios:\n• 15% a mais de danos com o canhão de dardos.\nSua compra garante um mínimo de 25 espaços de inventário e 25% de blindagem. Seu DRI conserva a maior melhoria de blindagem e inventário.
 (3514)I'm trying! He's bleeding too much! My hands are slipping! Oh my God, what could have done this to him?<==>¡Lo intento! ¡Sangra demasiado! ¡Se me resbalan las manos! ¡Oh, dios, ¿qué ha podido hacerle esto?!-->Estou tentando! Ele está sangrando muito! Minhas mãos estão escorregando! Oh meu Deus, o que poderia ter feito isso com ele?
-(3515)Grandma B?  This is Christina.  Little Parker can't wait to see you, he's all pink and warm with excitement.  Okay, that's cause  I just fed him, but I know he's excited to see you . Troy and I should be there first thing in the morning, there's maintenance on the TST tonight, so change of plans.  Sorry!  Love you tons, see you soon.<==>¿Abuela B? Soy Christina. El pequeño Parker está deseando verte, está todo sonrosado y espabilado de la emoción. Bueno, es porque le acabo de dar de comer, pero sé que está deseando verte. Troy y yo llegaremos a primera hora de la mañana. Esta noche hay tareas de mantenimiento en el ETT, así que hay cambio de planes. ¡Lo siento! Te quiero mucho, nos vemos pronto.-->Vovó B? Aqui é Christina. O pequeno Parker deseja te ver, ele tá todo rosado e nervoso de emoção. Certo, é porque ele acabou de comer, mas eu sei que ele tá querendo te ver. Troy e eu vamos chegar logo de manhã, há tarefas de manutenção esta noite na ETT, portando há mudanças de planos. Desculpe! Te amo muito, logo nos veremos.
-(3516)Technical Art Directors<==>Directores de diseño técnico-->Diretores de Desenho Técnico
+(3515)Grandma B?  This is Christina.  Little Parker can't wait to see you, he's all pink and warm with excitement.  Okay, that's cause  I just fed him, but I know he's excited to see you . Troy and I should be there first thing in the morning, there's maintenance on the TST tonight, so change of plans.  Sorry!  Love you tons, see you soon.<==>¿Abuela B? Soy Christina. El pequeño Parker está deseando verte, está todo sonrosado y espabilado de la emoción. Bueno, es porque le acabo de dar de comer, pero sé que está deseando verte. Troy y yo llegaremos a primera hora de la mañana. Esta noche hay tareas de mantenimiento en el ETT, así que hay cambio de planes. ¡Lo siento! Te quiero mucho, nos vemos pronto.-->Vovó B? Aqui é Christina. O pequeno Parker está querendo te ver, ele está todo corado e nervoso de emoção. Bem, é porque ele acabou de comer, mas eu sei que ele tá querendo te ver. Troy e eu vamos chegar de manhã bem cedo. Essa noite vai haver tarefas de manutenção na ETT, por isso a mudança de planos. Desculpe! Te amo muito, logo nos veremos.
+(3516)Technical Art Directors<==>Directores de diseño técnico-->Diretores de Arte Técnica 
 (3517)Vintage Elite Suit<==>TRAJE VINTAGE DE ÉLITE-->Traje Vintage de Elite
 (3518)Additional Writing<==>Guión adicional-->Redação Adicional
 (3519-IGUAIS)0
 (3520-IGUAIS)1
-(3521)Digital Portfolio Manager<==>Gestor de cartera digital-->Gestor de Portfolio Digital
+(3521)Digital Portfolio Manager<==>Gestor de cartera digital-->Gestor de Portfólio
+ Digital
 (3522-IGUAIS)0
 (3523)Lighting Lead<==>Jefe de iluminación-->Chefe de Iluminação
 (3524)Rendezvous with Ellie and Stross.<==>Reúnete con Ellie y Stross.-->Reúna-se com Ellie e Stross.
@@ -5019,7 +5020,7 @@
 (5019)REL -5% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: aperte [rsbottom] para disparar um raio cortante estreito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: aperte [rstop] para girar o cortador em 90 graus.
 (5020)You unlocked increased magazine size for the Rivet Gun<==>Has desbloqueado un mayor tamaño del cargador para la remachadora.-->Você desbloqueou o pente aumentado para a Rebitadeira
 (5021)owned by:<==>Autor de la derrota:-->Derrotado por:
-(5022)primary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>disparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->Disparo Principal: rebites de fragmentação\nDisparo Secundário: proteção contra explosão de estilhaços
+(5022)primary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>disparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->Disparo Principal: rebites de fragmentação\nDisparo Secundário: rajada de estilhaços de projeção
 (5023)Senior Texture Artist<==>Diseñador de texturas sénior-->Artista de Texturas Sênior
 (5024)TST<==>ETT-->ETT
 (5025)QUARTERLY REPORT<==>INFORME TRIMESTRAL-->RELATÓRIO TRIMESTRAL
