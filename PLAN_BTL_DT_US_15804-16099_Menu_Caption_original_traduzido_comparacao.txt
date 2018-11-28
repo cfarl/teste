@@ -1,6 +1,6 @@
 (0001)Menu Caption dummy<==>Rótulos de los menús-->Menu Caption dummy
 (0002)Current Location<==>Ubicación actual-->Localização Atual
-(0003)Held<==>Uds.-->Possui
+(0003)Held<==>Uds.-->Unidades
 (0004)Equipment<==>Equipo-->Equipamento
 (0005)Accessories<==>Accesorios-->Acessórios
 (0006)Type<==>Tipo-->Tipo
@@ -119,7 +119,7 @@
 (0119)Intellect<==>Inteligencia-->Inteligência 
 (0120)Speed<==>Velocidad-->Velocidade 
 (0121)Default<==>Por defecto-->Valor padrão 
-(0122)Held<==>Uds.-->Possui
+(0122)Held<==>Uds.-->Unidades
 (0123)Level<==>Nivel-->Nível 
 (0124)Size<==>Tamaño-->Tamanho
 (0125)Attack Power [ATK]<==>Poder físico (PF)-->Poder de Ataque [ATQ]
@@ -195,7 +195,7 @@
 (0195)Dismiss Soldier<==>Despedir soldado-->Despedir Soldado
 (0196)Guild Tasks<==>Pruebas del gremio-->Tarefas da Guilda
 (0197)Don't display warning<==>No mostrar aviso.-->Não mostrar aviso
-(0198)00\nCheck reserve units<==>00\nVer personajes en reserva-->00\nVer membros do grupo na reserva
+(0198)00\nCheck reserve units<==>00\nVer personajes en reserva-->00\nVer membros na reserva
 (0199)00\nCheck unit's status<==>00\nVer personaje-->00\nVer status do membro do grupo
 (0200)00\nSort items<==>00\nOrdenar objetos-->00\nOrdenar itens 
 (0201)00\nSort reserve leaders<==>00\nOrdenar líderes en reserva-->00\nOrdenar líderes na reserva
@@ -234,7 +234,7 @@
 (0234)00\nHide unequippable gear<==>00\nOcultar equipo no asignable-->00\nOcultar equipamento não utilizável
 (0235)00\nShow unequippable gear<==>00\nMostrar equipo no asignable-->00\nMostrar equipamento não utilizável
 (0236)00\nSell in bulk<==>00\nAñadir al lote-->00\nVender em lote
-(0237)00\nSell this in bulk<==>00\nVender lote-->00\nVender lote
+(0237)00\nSell this in bulk<==>00\nVender lote-->00\nVender em lote
 (0238)00\nDon't sell this in bulk<==>00\nRetirar del lote-->00\nRemover do lote
 (0239)00\nQuit without bulk-selling<==>00\nAnular venta por lotes-->00\nCancelar venda em lote
 (0240)00\nChange unit order<==>00\nCambiar orden de personajes-->00\nMudar ordem dos membros do grupo
@@ -265,7 +265,7 @@
 (0265)Battle Unions<==>Unidades-->Grupos
 (0266)Soldiers<==>Soldados-->Soldados
 (0267)Sold out<==>Agotado-->Esgotado
-(0268)None<==>N/A-->Nenhum
+(0268)None<==>N/A-->Nada
 (0269)Equip<==>Asignar-->Equipar
 (0270)Don't equip<==>No asignar-->Não equipar
 (0271)Sell<==>Vender-->Vender

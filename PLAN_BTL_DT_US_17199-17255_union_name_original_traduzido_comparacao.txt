@@ -5,7 +5,7 @@
 (0005-IGUAIS)union_name
 (0006-IGUAIS)union_name
 (0007)Tropa\nunion_name<==>Unidad\nunion_name-->union_name\n e sua tropa
-(0008)union_name\nGang<==>Equipo\nunion_name-->union_name\n e sua guangue
+(0008)union_name\nGang<==>Equipo\nunion_name-->union_name\n e sua gangue
 (0009)Tropa\n union_name <==>Unidad de\nunion_name-->union_name\n e sua tropa
 (0010)Esquadrão\n union_name<==>Escuadrón de\nunion_name-->union_name\n e seu esquadrão
 (0011)union_name\n's Section<==>Comando de\nunion_name-->union_name\n e seu comando
@@ -46,10 +46,10 @@
 (0046)union_name\nand co.<==>union_name\ny compañía-->union_name\n e companhia
 (0047)union_name\nand friends<==>union_name\ny sus amigos-->union_name\n e amigos
 (0048)union_name\nand buddies<==>union_name\ny sus colegas-->union_name\n e colegas
-(0049)union_name\nand henchmen<==>union_name\ny sus secuaces-->union_name\n e capangas
-(0050)union_name\nand relatives<==>union_name\ny su familia-->union_name\n e parentes
-(0051)Grupo\n union_name<==>Grupo de\nunion_name-->union_name\n e grupo
-(0052)union_name\n's Buds<==>union_name\ny sus muchachos-->union_name\n e colegas
+(0049)union_name\nand henchmen<==>union_name\ny sus secuaces-->union_name\n e seus capangas
+(0050)union_name\nand relatives<==>union_name\ny su familia-->union_name\n e sua familia
+(0051)Grupo\n union_name<==>Grupo de\nunion_name-->union_name\n e seu grupo
+(0052)union_name\n's Buds<==>union_name\ny sus muchachos-->union_name\n e seus colegas
 (0053)union_name\n's Circle<==>Círculo de\nunion_name-->union_name\n e seu círculo
 (0054)union_name\n's Crew<==>union_name\ny su equipo-->union_name\n e sua equipe
 (0055)union_name\n's Clique<==>Camarilla de\nunion_name-->union_name\n e seu grupo

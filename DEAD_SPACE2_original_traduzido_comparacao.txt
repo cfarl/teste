@@ -3399,37 +3399,37 @@
 (3399)Test Manager<==>Jefe de pruebas-->Gerente de Testes
 (3400)custom<==>Personaliz.-->Personalizado
 (3401-IGUAIS)1
-(3402)CONTACT ENERGY\nSchematic Acquired\nDownload at the Store<==>ENERGÍA DE CONTACTO\nDiagrama adquirido\nDescargar en el almacén-->ENERGIA DE CONTATO\nDiagrama adquirido\nBaixe no armazém
+(3402)CONTACT ENERGY\nSchematic Acquired\nDownload at the Store<==>ENERGIA DE CONTACTO\nDiagrama adquirido\nDescargar en el almacén-->ENERGIA DE CONTATO\nDiagrama adquirido\nBaixe no loja
 (3403)WEAPONS<==>ARMAS-->ARMAS
-(3404)Senior QA Project Lead<==>Jefe de proyecto de control de calidad sénior-->Chefe de Projeto do Controle de Qualidade Sênior
-(3405)ELITE SECURITY SUIT<==>TRAJE DE SEGURIDAD DE ÉLITE-->ROUPA DE SEGURANÇA DE ELITE
+(3404)Senior QA Project Lead<==>Jefe de proyecto de control de calidad sénior-->Líder de Projeto de Controle de Qualidade Sênior
+(3405)ELITE SECURITY SUIT<==>TRAJE DE SEGURIDAD DE ÉLITE-->TRAJE DE SEGURANÇA DE ELITE
 (3406)new game+<==>Nueva partida +-->Novo Jogo +
-(3407)A.I. Slasher<==>Rajador de I.A.-->A.I. Estripador
-(3408)FALL BACK<==>REPLIEGUE-->RECUAR
+(3407)A.I. Slasher<==>Rajador de I.A.-->Estripador de A.I. 
+(3408)FALL BACK<==>REPLIEGUE-->RETROCEDER
 (3409)LIGHTS OUT 1<==>FUERA LUCES 1-->SEM LUZES 1
-(3410)SAFETY IN NUMBERS<==>SUPERIORIDAD NUMÉRICA-->SEGURANÇA EM NÚMEROS
+(3410)SAFETY IN NUMBERS<==>SUPERIORIDAD NUMÉRICA-->SUPERIORIDADE NUMÉRICA
 (3411)A DESPERATE PLAN<==>UN PLAN DESESPERADO-->UM PLANO DESESPERADO
 (3412)LIGHTS OUT 2<==>FUERA LUCES 2-->SEM LUZES 2
-(3413)are you sure?<==>¿Continuar?-->Está certo disso?
+(3413)are you sure?<==>¿Continuar?-->Você tem certeza?
 (3414-IGUAIS)307
-(3415)Engineer<==>Ingeniero-->Engenehiro
+(3415)Engineer<==>Ingeniero-->Engenheiro
 (3416)Thank you.\nHave a nice day.<==>Gracias.\nQue tenga un buen día.-->Obrigado.\nTenha um bom dia.
-(3417)Bomb constructed at the Bench.  Warning: Volatile contents. Please move slowly.<==>Bomba fabricada en el banco. Atención: contenidos volátiles. Mover despacio.-->Bomba fabricado no Banco. Aviso: Conteúdos voláteis. Por favor mova-se devagar.
+(3417)Bomb constructed at the Bench.  Warning: Volatile contents. Please move slowly.<==>Bomba fabricada en el banco. Atención: contenidos volátiles. Mover despacio.-->Bomba fabricado na bancada de trabalho. Atenção: conteúdos voláteis. Mover devagar.
 (3418-IGUAIS)Matthew Brown
-(3419)You unlocked increased damage for the Pulse Rifle<==>Has desbloqueado más daño para el rifle de impulsos.-->Você desbloqueou mais dano para o Rifle de Impulso
+(3419)You unlocked increased damage for the Pulse Rifle<==>Has desbloqueado más daño para el rifle de impulsos.-->Você desbloqueou mais dano para o rifle de impulsos. 
 (3420-IGUAIS)HEISENBERG
 (3421)ANXIETY SPIKE<==>PICO DE ANSIEDAD-->PICO DE ANSIEDADE
 (3422)KEY SUBJECTS<==>SUJETOS CLAVE-->SUJEITOS CHAVE
 (3423)ORDERLY TPS REPORT: 1411<==>INFORME SISTEMATIZADO TPS: 1411-->INFORME SISTEMATIZADO TPS: 1411
 (3424)ZEALOT SUIT<==>TRAJE DE FANÁTICO-->TRAJE EXTREMO
-(3425)You unlocked increased magazine size for the Javelin Gun<==>Has desbloqueado un mayor tamaño del cargador para el cañón jabalina.-->Você desbloqueou um tamanho aumentado para o carregador do canhão de dardos
+(3425)You unlocked increased magazine size for the Javelin Gun<==>Has desbloqueado un mayor tamaño del cargador para el cañón jabalina.-->Você desbloqueou um maior tamanho para o carregador do canhão de dardos. 
 (3426)DETONATOR MINES<==>MINAS DE DETONACIÓN-->MINAS DE DETONAÇÃO
-(3427)waiting for players...<==>Esperando a jugadores...-->Esperando jogadores...
-(3428)Advanced Elite Suit<==>TRAJE AVANZADO DE ÉLITE-->Roupa de Elite Avançada
-(3429)WARNING: SOLAR ARRAY IS OFFLINE<==>ATENCIÓN: EL PANEL SOLAR ESTÁ DESACTIVADO-->ATENÇÃO: PAINEL SOLAR DESCONECTADO
-(3430)WARNING: ZERO GRAVITY AREA<==>ATENCIÓN: ZONA DE GRAVEDAD CERO-->ATENÇÃO: ZONA DE GRAVIDADE ZERO
-(3431)WARNING: SOLAR ARRAY IS OFFLINE<==>ATENCIÓN: EL PANEL SOLAR ESTÁ DESACTIVADO-->ATENÇÃO: PAINEL SOLAR DESATIVADO
-(3432)DNA Identity Scan Required<==>Escáner de ADN obligatorio-->Scan de Identidade de DNA Necessária
+(3427)waiting for players...<==>Esperando a jugadores...-->Aguardando jogadores...
+(3428)Advanced Elite Suit<==>TRAJE AVANZADO DE ÉLITE-->Traje Avançado de Elite 
+(3429)WARNING: SOLAR ARRAY IS OFFLINE<==>ATENCIÓN: EL PANEL SOLAR ESTÁ DESACTIVADO-->ATENÇÃO: O PAINEL SOLAR ESTÁ DESATIVADO
+(3430)WARNING: ZERO GRAVITY AREA<==>ATENCIÓN: ZONA DE GRAVEDAD CERO-->ATENÇÃO: ÁREA DE GRAVIDADE ZERO
+(3431)WARNING: SOLAR ARRAY IS OFFLINE<==>ATENCIÓN: EL PANEL SOLAR ESTÁ DESACTIVADO-->ATENÇÃO: O PAINEL SOLAR ESTÁ DESATIVADO
+(3432)DNA Identity Scan Required<==>Escáner de ADN obligatorio-->Sondagem de DNA obrigatória
 (3433)WARNING:  POWER GRID UNSTABLE<==>ATENCIÓN: RED ELÉCTRICA INESTABLE-->ATENÇÃO: REDE ELÉTRICA INSTÁVEL
 (3434)Caution! Delicate Equipment!<==>¡Precaución! ¡Equipo delicado!-->Cuidado! Equipamento Delicado!
 (3435)Authorized Engineers Only<==>Solo ingenieros autorizados-->Somente Engenheiros Autorizados
