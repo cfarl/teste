@@ -1,6 +1,6 @@
 Menu Caption dummy
 Localização Atual
-Possui
+Unidades
 Equipamento
 Acessórios
 Tipo
@@ -119,7 +119,7 @@ Força
 Inteligência 
 Velocidade 
 Valor padrão 
-Possui
+Unidades
 Nível 
 Tamanho
 Poder de Ataque [ATQ]
@@ -195,7 +195,7 @@ Recrutar Soldado
 Despedir Soldado
 Tarefas da Guilda
 Não mostrar aviso
-00\nVer membros do grupo na reserva
+00\nVer membros na reserva
 00\nVer status do membro do grupo
 00\nOrdenar itens 
 00\nOrdenar líderes na reserva
@@ -228,13 +228,13 @@ Continuar
 00\nConverter em componentes
 00\nAnular reserva
 00\nVer status do solicitante
-00\nSelecionar dispositivo de armazenamento
+00\nSelecionar armazenamento
 00\nValor padrão
 00\nSair sem salvar
 00\nOcultar equipamento não utilizável
 00\nMostrar equipamento não utilizável
 00\nVender em lote
-00\nVender lote
+00\nVender em lote
 00\nRemover do lote
 00\nCancelar venda em lote
 00\nMudar ordem dos membros do grupo
@@ -265,7 +265,7 @@ Soldados na Reserva
 Grupos
 Soldados
 Esgotado
-Nenhum
+Vazio
 Equipar
 Não equipar
 Vender

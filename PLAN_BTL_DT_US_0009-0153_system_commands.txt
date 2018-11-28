@@ -107,7 +107,7 @@ Define o nível de brilho da tela.
 Define as configurações de legendas.
 Altera as configurações para o mapa de navegação. Fixo indica orientação fixa. Definido para girar, o mapa vai se mover para a direção em que o Rush estiver olhando.
 Ajusta o volume principal.
-Ajusta o volume da música de fundo. Essa opção não afeta o volume a música de fundo nas cenas de eventos.
+Ajusta o volume da música de fundo. Essa opção não afeta o volume da música de fundo nas cenas de eventos.
 Ajusta o volume dos efeitos sonoros. Essa opção não afeta o volume dos efeitos sonoros nas cenas de eventos.
 Ajusta o volume dos diálogos. Essa opção não afeta o volume das vozes nas cenas de eventos.
 Define o controle do eixo horizontal da câmera.\nNormal\nvai virar a câmera na mesma direção em que o direcional direito foi pressionado, enquanto\nInvertido\nvai virar na direção contrária.

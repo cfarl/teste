@@ -5,14 +5,14 @@ union_name
 union_name
 union_name
 union_name\n e sua tropa
-union_name\n e sua guangue
+union_name\n e sua gangue
 union_name\n e sua tropa
 union_name\n e seu esquadrão
 union_name\n e seu comando
 union_name\n e sua divisão
 union_name\n e sua divisão
 union_name\n e sua irmandade
-union_name\n e sua coalisão
+union_name\n e sua coalizão
 union_name\n e seu bando
 union_name\n e sua ordem
 union_name\n e seu destacamento
@@ -46,10 +46,10 @@ union_name\n e companheiros
 union_name\n e companhia
 union_name\n e amigos
 union_name\n e colegas
-union_name\n e capangas
-union_name\n e parentes
-union_name\n e grupo
-union_name\n e colegas
+union_name\n e seus capangas
+union_name\n e sua família
+union_name\n e seu grupo
+union_name\n e seus colegas
 union_name\n e seu círculo
 union_name\n e sua equipe
 union_name\n e seu grupo
