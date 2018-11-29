@@ -3801,172 +3801,172 @@
 (3800)Isaac, take my hand!<==>¡Isaac, coge mi mano!-->Isaac, pegue minha mão!
 (3801)Shut the hatch!  Shut the hatch!<==>¡Cierra la escotilla! ¡Cierra la escotilla!-->Feche a escotiha!  Feche a escotilha!
 (3802)What?<==>¿Qué?-->O quê?
-(3803)Isaac, Stross is starting to worry me, listen…<==>Isaac, Stross empieza a preocuparme, escucha...-->Isaac, Stross já está me preocupando, ouça…
+(3803)Isaac, Stross is starting to worry me, listen…<==>Isaac, Stross empieza a preocuparme, escucha...-->Isaac, Stross já está começando a me preocupar, ouça…
 (3804)Stross! He's not real!<==>¡Stross! ¡No es real!-->Stross! Ele não é real!
-(3805)Stross, put down the screwdriver!  Argh!<==>¡Stross, suelta ese destornillador! ¡Argh!-->Stross, abaixe essa chave de fenda!  Argh!
-(3806)This is the last stand!<==>Es el último bastión.-->Este é o meu útimo aviso!
-(3807)Piece of shit, come on...<==>Vamos, pedazo de mierda...-->Pedaço de merda, vamos lá...
-(3808)You wanna piece of me, huh? <==>¿Quieres joderme, eh?-->Você quer um pedaço de mim, hein? 
-(3809)What? What? I'm still here, huh, come on!<==>¿Qué? ¿Qué? Sigo aquí, ¡vamos!-->O que? O quê? Ainda estou aqui, hein, vamos lá!
-(3810)Yeah, come on I dare ya! Come on!<==>¿Sí? ¡Vamos, ven si te atreves! ¡Vamos!-->Sim, Vamos, me acerte! Vamos!
-(3811)Yeah, you like that, huh? You like it! Well, come and get it!<==>¡Eso es, vamos, ven y trágate esto, a ver si te gusta!-->Sim, você gosta disto, hein? Você gosta disso! Bem, venha e pegue-o!
-(3812)Yeah, come on! You like this! Come and get it!<==>¡Eso es, vamos, ven y trágate esto!-->Sim, vamos lá! Você gosta disto! Venha e pegue-o!
-(3813)He looks… twitchy. I don't trust him. Don't move!<==>Parece... nervioso. No me fío de él. ¡No te muevas!-->Ele parece meio… nervoso. Eu não confio nele. Não se mexa!
-(3814)Isaac, I'll try to open the CEC door on your level, hold on! <==>Isaac, intentaré abrir la puerta de CEC en tu planta, ¡aguanta!-->Isaac, vou tentar abrir a porta CEC do seu nível, segure-se! 
-(3815)Piece of shit Lock.  I'm giving it my codes but it's not working.<==>Maldita cerradura. Introduzco mis códigos, pero no funciona.-->Fechadura de merda.  Estou colocando os meus códigos, mas não está funcionando.
-(3816)Yes, I'm authorized for this!  Open up you bastard!<==>¡Sí, tengo autorización! ¡Ábrete, asquerosa!-->Sim, Tenho autorização!  Abra, bastarda!
-(3817)There! It's open!  Isaac, go!<==>¡Eso es! ¡Abierta! ¡Isaac, vamos!-->Isso! Está aberta!  Isaac, vamos!
-(3818)Go Isaac! You can't stop them all! Go!<==>¡Vamos, Isaac! ¡No puedes detenerlos a todos! ¡Vamos!-->Vamos Isaac! Você não podde parar todos eles! Vamos!
-(3819)Main power - ON<==>Encendido: activado.-->Alimentação Principal - ON
+(3805)Stross, put down the screwdriver!  Argh!<==>¡Stross, suelta ese destornillador! ¡Argh!-->Stross, solte essa chave de fenda!  Argh!
+(3806)This is the last stand!<==>Es el último bastión.-->Essa é a útima resistência!
+(3807)Piece of shit, come on...<==>Vamos, pedazo de mierda...-->Vamos, pedaço de merda...
+(3808)You wanna piece of me, huh? <==>¿Quieres joderme, eh?-->Você quer um pedaço de mim, hã? 
+(3809)What? What? I'm still here, huh, come on!<==>¿Qué? ¿Qué? Sigo aquí, ¡vamos!-->O que? O quê? Ainda estou aqui, hã, vamos lá!
+(3810)Yeah, come on I dare ya! Come on!<==>¿Sí? ¡Vamos, ven si te atreves! ¡Vamos!-->Sim, vamos, vem se te atreves! Vamos!
+(3811)Yeah, you like that, huh? You like it! Well, come and get it!<==>¡Eso es, vamos, ven y trágate esto, a ver si te gusta!-->Sim, você gosta disto, hã? Você gosta disso! Bem, venha pegar!
+(3812)Yeah, come on! You like this! Come and get it!<==>¡Eso es, vamos, ven y trágate esto!-->Isso, vamos lá! Você gosta disso! Venha venha pegar!
+(3813)He looks… twitchy. I don't trust him. Don't move!<==>Parece... nervioso. No me fío de él. ¡No te muevas!-->Ele parece meio… nervoso. Eu não confio nele. Não se mova!
+(3814)Isaac, I'll try to open the CEC door on your level, hold on! <==>Isaac, intentaré abrir la puerta de CEC en tu planta, ¡aguanta!-->Isaac, vou tentar abrir a porta de CEC no seu nível, aguente firme! 
+(3815)Piece of shit Lock.  I'm giving it my codes but it's not working.<==>Maldita cerradura. Introduzco mis códigos, pero no funciona.-->Fechadura de merda.  Estou colocando meus códigos, mas não está funcionando.
+(3816)Yes, I'm authorized for this!  Open up you bastard!<==>¡Sí, tengo autorización! ¡Ábrete, asquerosa!-->Sim, tenho autorização!  Abra, desgraçada!
+(3817)There! It's open!  Isaac, go!<==>¡Eso es! ¡Abierta! ¡Isaac, vamos!-->Isso! Abriu!  Isaac, vamos!
+(3818)Go Isaac! You can't stop them all! Go!<==>¡Vamos, Isaac! ¡No puedes detenerlos a todos! ¡Vamos!-->Vamos, Isaac! Você não pode deter todos eles! Vamos!
+(3819)Main power - ON<==>Encendido: activado.-->Alimentação Principal - ativada 
 (3820)...auxiliary systems - booting up…<==>... Sistemas auxiliares, iniciando...-->...sistemas auxiliares - iniciando…
-(3821)   Get to the Cassini Residential Sector.<==>Ve al sector residencial Cassini.-->   Venha para o Setor Residencial Cassini.
+(3821)   Get to the Cassini Residential Sector.<==>Ve al sector residencial Cassini.-->   Vá até o setor residencial Cassini.
 (3822)...main engines - fueling confirmed...<==>... Motores principales... Repostaje confirmado...-->...motores principais - abastecimento confirmado...
-(3823)Huh, I think this bird might fly.<==>Eh, parece que este pájaro puede volar.-->Huh, acho que este pássaro pode voar.
+(3823)Huh, I think this bird might fly.<==>Eh, parece que este pájaro puede volar.-->Eh, parece que esse pássaro pode voar.
 (3824)Oh, looks like the Nav is shot though.<==>El sistema de navegación tiene un disparo.-->Oh, parece que o sistema de navegação está comprometido.
 (3825)Watch the debris!<==>¡Cuidado con los escombros!-->Cuidado com os escombros!
 (3826)Isaac!<==>¡Isaac!-->Isaac!
-(3827) (panicking) Kaleb, come on!  More are moving in ahead of us!  I can see them!<==>¡Kaleb, vamos! ¡Hay más por delante! ¡Puedo verlos!--> (em pânico) Kaleb, vamos!  Tem mais se movendo em nossa frente!  Eu posso vê-los!
+(3827) (panicking) Kaleb, come on!  More are moving in ahead of us!  I can see them!<==>¡Kaleb, vamos! ¡Hay más por delante! ¡Puedo verlos!--> (em pânico) Kaleb, vamos!  Tem mais à nossa frente!  Eu posso vê-los!
 (3828)Kaleb, NOW!<==>¡Kaleb, AHORA!-->Kaleb, AGORA!
-(3829)Here comes the transport, everybody get ready in case there's more.<==>Aquí viene el transporte. Que todo el mundo esté preparado por si hay más.-->Aí vem o transporte, fiquem todos preparados no caso de haver mais.
-(3830)Kaleb, it's more of them!   Shoot them!  SHOOT THEM!<==>¡Kaleb, hay más! ¡Dispárales! ¡DISPÁRALES!-->Kaleb, há mais!   Atire neles!  ATIRE NELES!
-(3831)Yes we are.<==>Sí lo haremos.-->Sim, nós estamos.
+(3829)Here comes the transport, everybody get ready in case there's more.<==>Aquí viene el transporte. Que todo el mundo esté preparado por si hay más.-->Aí vem o transporte, estejam todos preparados, no caso de ter mais.
+(3830)Kaleb, it's more of them!   Shoot them!  SHOOT THEM!<==>¡Kaleb, hay más! ¡Dispárales! ¡DISPÁRALES!-->Kaleb, tem mais!   Atire neles!  ATIRE NELES!
+(3831)Yes we are.<==>Sí lo haremos.-->Sim, nós faremos.
 (3832)No, get up Kaleb, just a few more meters!<==>¡No, levántate Kaleb, unos pocos metros más!-->Não, levante-se Kaleb, apenas mais alguns metros!
-(3833-IGUAIS)No, Kaleb... Kaleb.
-(3834)Ellie:   Two should be enough to move it back onto the mag rail.  Shoot the red tips to ignite them.<==>Ellie: Con dos debería bastar para desplazarlo hacia el raíl magnético. Dispara a las boquillas rojas para activarlos.-->Ellie:   Dois devem ser o suficiente para movê-lo de volta para o trilho magnético.  Atire nos bicos vermelhos para ativá-los.
-(3835) No, I don't have some magic panel that opens all the doors in the Sprawl.  Is his body around there anywhere?  Maybe you can use it to fool the door?<==>No, no tengo ningún panel mágico que abre todas las puertas del Eje. ¿Ves su cuerpo por alguna parte? ¿Quizá puedas usarlo para burlar a la puerta?--> Não, eu não tenho nenhum painel mágico que abra todas as portas do Eixo.  Vê seu corpo em algum lugar?  Talvez você possa usá-lo para enganar a porta?
-(3836)Try configuring the fuses to match the floor diagram.  That should bring up the command podium.   I used Kinesis on the fuses.<==>Configura los fusibles para que coincidan con el diagrama del suelo. Así aparecerá la tarima de control. Ya he usado la cinética con los fusibles.-->Tente configurar os fusíveis para coincidir com o diagrama de chão.  Isto deve trazer até o pódio de comando.   Eu usei Cinése sobre os fusíveis.
-(3837)It's strange, but yes.<==>Es extraño, pero sí.-->Isto é estranho, mas sim.
-(3838)Isaac, okay I can see the Array from here.   It looks like you need to go to the outer dishes and find a way to drag their beams onto the center column.<==>Isaac, desde aquí veo el panel. Tendrás que aproximarte a las parabólicas exteriores y conseguir desplazar los haces hacia la columna central.-->Isaac, ok eu posso ver a Matriz daqui.   Parece que você precisa ir até as parabólicas exteriores e encontrar um jeito de desviar seus raios para a coluna central.
-(3839)I know, you'll have to stasis the machines to create an opening to fly through.<==>Lo sé. Usa la estabilización con las máquinas para crear una abertura para pasar.-->Eu sei, você terá a estabilidade das máquinas para criar uma abertura para passar.
-(3840) There should be thrusters stored in there somewhere, the ones with the red tips.   Use one to force the door open.<==>Debería haber propulsores guardados en alguna parte, son los que tienen las boquillas rojas. Usa uno para forzar la apertura de la puerta.--> Deve haver propulsores armazenados em algum lugar, uns com pontas vermelhas.   Use um para forçar a abertura da porta.
-(3841)Really?  It won't work unless all the cooling tubes are connected.<==>¿Si? No funcionará si los tubos de refrigeración no se conectan.-->Sério?  Não vai funcionar se os tubos de refrigeração não estarem conectados.
-(3842)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isto aumentará o dano do DISPARO SECUNDÁRIO
+(3833-IGUAIS)No, Kaleb... Kaleb.-->Não, Kaleb... Kaleb.
+(3834)Ellie:   Two should be enough to move it back onto the mag rail.  Shoot the red tips to ignite them.<==>Ellie: Con dos debería bastar para desplazarlo hacia el raíl magnético. Dispara a las boquillas rojas para activarlos.-->Ellie:   Dois devem ser suficiente para deslocá-lo de volta ao trilho magnético.  Atire nos pontas vermelhos para ativá-los.
+(3835) No, I don't have some magic panel that opens all the doors in the Sprawl.  Is his body around there anywhere?  Maybe you can use it to fool the door?<==>No, no tengo ningún panel mágico que abre todas las puertas del Eje. ¿Ves su cuerpo por alguna parte? ¿Quizá puedas usarlo para burlar a la puerta?--> Não, eu não tenho nenhum painel mágico que abre todas as portas do Eixo.  Está vendo seu corpo em algum lugar?  Talvez você possa usá-lo para enganar a porta?
+(3836)Try configuring the fuses to match the floor diagram.  That should bring up the command podium.   I used Kinesis on the fuses.<==>Configura los fusibles para que coincidan con el diagrama del suelo. Así aparecerá la tarima de control. Ya he usado la cinética con los fusibles.-->Tente ajustar os fusíveis para que coincidam com o diagrama no chão.  Assim deve aparecer a plataforma de controle.   Eu já usei a cinética nos fusíveis.
+(3837)It's strange, but yes.<==>Es extraño, pero sí.-->É estranho, mas sim.
+(3838)Isaac, okay I can see the Array from here.   It looks like you need to go to the outer dishes and find a way to drag their beams onto the center column.<==>Isaac, desde aquí veo el panel. Tendrás que aproximarte a las parabólicas exteriores y conseguir desplazar los haces hacia la columna central.-->Isaac, estou vendo o painel daqui.   Você terá de se aproximar das parabólicas exteriores e conseguir um jeito de direcionar os raios para a coluna central.
+(3839)I know, you'll have to stasis the machines to create an opening to fly through.<==>Lo sé. Usa la estabilización con las máquinas para crear una abertura para pasar.-->Eu sei, você vai ter de usar a estabilização nas máquinas para criar uma abertura para passar.
+(3840) There should be thrusters stored in there somewhere, the ones with the red tips.   Use one to force the door open.<==>Debería haber propulsores guardados en alguna parte, son los que tienen las boquillas rojas. Usa uno para forzar la apertura de la puerta.--> Deveria haver propulsores armazenados em algum lugar, são os que tem pontas vermelhas.   Use um para forçar a abertura da porta.
+(3841)Really?  It won't work unless all the cooling tubes are connected.<==>¿Si? No funcionará si los tubos de refrigeración no se conectan.-->Sério?  Não vai funcionar se os tubos de refrigeração não estiverem conectados.
+(3842)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isso vai aumentar o dano do DISPARO SECUNDÁRIO
 (3843-IGUAIS)Mark Van Ryswyk
-(3844)Holo-card containing shuttle navigation data.<==>Tarjeta holográfica que contiene información de navegación del transbordador.-->Cartão holográfico contendo dados de navegação de transporte.
+(3844)Holo-card containing shuttle navigation data.<==>Tarjeta holográfica que contiene información de navegación del transbordador.-->Cartão holográfico contendo dados de navegação do transportador.
 (3845)FLAMETHROWER\nSchematic Acquired\nDownload at the Store<==>LANZALLAMAS\nDiagrama adquirido\nDescargar en el almacén-->LANÇA-CHAMAS\nDiagrama adquirido\nBaixe na Loja
 (3846-IGUAIS)1
 (3847)CALL?<==>¿LLAMAR?-->CHAMAR?
 (3848)Chapter 10<==>Capítulo 10-->Capítulo 10 - Pesadelo Revivido
 (3849)previously on Dead Space¬<==>Anteriormente en Dead Space¬-->Anteriormente em Dead Space¬
-(3850) You'd better hurry, the Gov Sec is getting further away by the minute.<==>Date prisa, el sector gubernamental se aleja por momentos.--> É melhor você se apressar, o Setor Governamental está ficando cada vez mais longe.
-(3851)Isaac, did you find the other Power Cell yet?<==>Isaac, ¿has encontrado ya la otra célula de energía?-->Isaac, você já achou a outra Célula de Energia?
-(3852)Hmm, I'm having trouble getting it to recognize the new junction.<==>Mmm... No es fácil hacer que reconozca la nueva conexión.-->Hmm, estou tendo dificuldades para fazer reconhecer a nova junção.
-(3853)Yeah okay, I'll keep working on it from up here.<==>Bien, vale, yo seguiré intentándolo desde aquí.-->Pois bem, vou continuar trabalhando daqui de cima.
-(3854)Yeah okay, I'll keep working on it from up here.<==>Bien, vale, yo seguiré intentándolo desde aquí.-->Pois bem, vou continuar trabalhando daqui de cima.
+(3850) You'd better hurry, the Gov Sec is getting further away by the minute.<==>Date prisa, el sector gubernamental se aleja por momentos.--> É melhor você se apressar, o setor governamental está ficando cada vez mais distante.
+(3851)Isaac, did you find the other Power Cell yet?<==>Isaac, ¿has encontrado ya la otra célula de energía?-->Isaac, você já achou a outra célula de energia?
+(3852)Hmm, I'm having trouble getting it to recognize the new junction.<==>Mmm... No es fácil hacer que reconozca la nueva conexión.-->Hmm, estou tendo dificuldades para que reconheça a nova conexão.
+(3853)Yeah okay, I'll keep working on it from up here.<==>Bien, vale, yo seguiré intentándolo desde aquí.-->Pois bem, vou continuar tentando daqui.
+(3854)Yeah okay, I'll keep working on it from up here.<==>Bien, vale, yo seguiré intentándolo desde aquí.-->Pois bem, vou continuar tentando daqui .
 (3855-IGUAIS)<vocal react>
 (3856)Shit!<==>¡Mierda!-->Merda!
-(3857)…oh God, they're heading this way!  Run Stross, RUN! <==>... ¡Oh, dios, vienen hacia aquí! ¡Corre, Stross! ¡CORRE!-->…oh Deus, eles estão vindo pra cá!  Corra Stross, CORRA! 
-(3858)Twitchy, let's move!  Move!<==>¡Tembleque, en marcha! ¡Vamos!-->Rápido, Vamos!  Mova-se!
+(3857)…oh God, they're heading this way!  Run Stross, RUN! <==>... ¡Oh, dios, vienen hacia aquí! ¡Corre, Stross! ¡CORRE!-->…oh Deus, eles estão vindo para cá!  Corre Stross, CORRE! 
+(3858)Twitchy, let's move!  Move!<==>¡Tembleque, en marcha! ¡Vamos!-->Rápido, vamos!  Mova-se!
 (3859)Here they come!<==>¡Aquí vienen!-->Lá vem eles!
-(3860)They're everywhere!<==>¡Están por todas partes!-->Eles estão em toda parte!
-(3861)Stross, look out!<==>¡Stross, cuidado!-->Stross, olhe pra fora!
-(3862)I can't hold them back!<==>¡No puedo contenerlos!-->Eu não posso segurá-los!
-(3863)I need some help up here!<==>¡Necesito ayuda aquí!-->Eu preciso de alguma ajuda aqui!
+(3860)They're everywhere!<==>¡Están por todas partes!-->Estão por toda parte!
+(3861)Stross, look out!<==>¡Stross, cuidado!-->Stross, cuidado!
+(3862)I can't hold them back!<==>¡No puedo contenerlos!-->Não posso contê-los!
+(3863)I need some help up here!<==>¡Necesito ayuda aquí!-->Preciso de ajuda aqui!
 (3864)Get behind me!<==>¡Detrás de mí!-->Fique atrás de mim!
-(3865)Where do they keep coming from?<==>¿De dónde demonios salen?-->De onde é que eles continuam vindo?
+(3865)Where do they keep coming from?<==>¿De dónde demonios salen?-->De onde é que eles vem?
 (3866)They keep coming!<==>¡No paran de venir!-->Eles continuam vindo!
 (3867)Stay back!<==>¡No te muevas!-->Afaste-se!
-(3868)There's too many!<==>¡Son demasiados!-->Há muitos!
+(3868)There's too many!<==>¡Son demasiados!-->São muitos!
 (3869)Stay behind me!<==>¡Detrás de mí!-->Fique atrás de mim!
-(3870)There's more coming from over there!<==>¡Están viniendo más de allí!-->Há mais vindo de lá!
-(3871)They're coming from both sides!<==>¡Vienen por ambos lados!-->Eles estão vindo de ambos os lados!
-(3872)I can't stop them all!<==>¡No puedo con todos!-->Eu não posso parar todos eles!
+(3870)There's more coming from over there!<==>¡Están viniendo más de allí!-->Há mais vindo dali!
+(3871)They're coming from both sides!<==>¡Vienen por ambos lados!-->Estão vindo dos dois lados!
+(3872)I can't stop them all!<==>¡No puedo con todos!-->Não posso com todos!
 (3873-IGUAIS)<vocal react>
-(3874)That was really unpleasant.<==>Ha sido bastante desagradable.-->Isso foi realmente desagradável.
-(3875)These bastards are everywhere…<==>Esos cabrones están por todas partes.-->Esses bastardos estão por toda parte…
+(3874)That was really unpleasant.<==>Ha sido bastante desagradable.-->Isso foi bastante desagradável.
+(3875)These bastards are everywhere…<==>Esos cabrones están por todas partes.-->Esses desgraçados estão por toda parte…
 (3876)The mines are swarming with these things.<==>Las minas están infestadas de esas cosas.-->As minas estão infestadas dessas coisas.
-(3877)If there're this many down here, how many do we think are above us?<==>Si hay tantos aquí abajo, ¿cuántos crees que habrá arriba?-->Se há tantos aqui embaixo, quantos acha que tem acima de nós?
-(3878)Hang on. We're coming up on more of that stuff. Sorry…<==>Espera. Subimos al encuentro de más cosas de esas. Lo siento...-->Segurem-se. Estamos chegando perto de mais uma dessas coisas. Desculpe…
-(3879)You okay out there?<==>¿Estás bien ahí?-->Você está bem aí fora?
-(3880)They're climbing up the sides!<==>¡Suben por los laterales!-->Eles estão subindo pelos lados!
+(3877)If there're this many down here, how many do we think are above us?<==>Si hay tantos aquí abajo, ¿cuántos crees que habrá arriba?-->Se há tantos aqui embaixo, quantos acha que terá lá em cima?
+(3878)Hang on. We're coming up on more of that stuff. Sorry…<==>Espera. Subimos al encuentro de más cosas de esas. Lo siento...-->Aguente firme. Estamos indo de mais dessas coisas. Desculpe…
+(3879)You okay out there?<==>¿Estás bien ahí?-->Tudo bem aí?
+(3880)They're climbing up the sides!<==>¡Suben por los laterales!-->Eles estão subindo pelas laterais!
 (3881)I can't.<==>No puedo.-->Não posso.
-(3882)Holy shit, Isaac, look out!  It's headed for YOU!<==>¡Mierda, ten cuidado, Isaac! ¡Va a por  Ti!-->Puta merda, Isaac, cuidado!  Está controlado por VOCÊ!
-(3883) Isaac, are you alright?   I think that's all of them, for now…<==>Isaac, ¿estás bien? Creo que ya no hay más, por ahora...--> Isaac, você está bem?   Eu acho que já foram todos, por enquanto…
-(3884)No more?   That can't be all of them.<==>¿No hay más? Eso no puede ser.-->Não há mais?  Isto não pode ser tudo.
-(3885)Is… that all of them?<==>¿Ya..., no hay más?-->Será que… já foram todos?
+(3882)Holy shit, Isaac, look out!  It's headed for YOU!<==>¡Mierda, ten cuidado, Isaac! ¡Va a por  Ti!-->Puta merda, Isaac, tenha cuidado!  Está atrás de VOCÊ!
+(3883) Isaac, are you alright?   I think that's all of them, for now…<==>Isaac, ¿estás bien? Creo que ya no hay más, por ahora...--> Isaac, você está bem?   Eu acho que não tem mais, por enquanto…
+(3884)No more?   That can't be all of them.<==>¿No hay más? Eso no puede ser.-->Não tem mais?  Não pode ser.
+(3885)Is… that all of them?<==>¿Ya..., no hay más?-->Será que… não tem mais?
 (3886)Come on, I know there's more of you.<==>Vamos, sé que sois más.-->Vamos lá, eu sei que você consegue.
-(3887)Sneaky little bastards, I can hear you.<==>Cabrones escurridizos, os oigo.-->Pequenos bastardos sorrateiros, eu posso ouvir vocês.
-(3888)Just stop hiding you little freaks.<==>Dejad de escondeos, engendros.-->Apenas parem de se esconder pequenas aberrações.
-(3889)Yeah yeah, I see you down there.  <==>Sí, sí, ahí abajo.-->Sim, sim, eu vejo vocês ai embaixo.  
-(3890)Ugh, this silence is worse than anything.<==>Agh, este silencio es lo peor.-->Ugh, este silêncio é pior do que nada.
-(3891)Two should be enough to move it back onto the mag rail.  Shoot the red tips to ignite them.<==>Dos los desplazarían hacia el raíl magnético. Dispara a las boquillas para activarlos.-->Dois deve ser o suficiente para movê-lo de volta para o trilho magnético.  Atire nos bicos vermelhos para ativá-los.
-(3892)No, I don't have some magic panel that opens all the doors in the Sprawl.  Is his body around there somewhere?  Maybe you can use it to fool the door?<==>No, no tengo ningún panel mágico que abre todas las puertas del Eje. ¿Ves su cuerpo por alguna parte? ¿Quizá puedas usarlo para burlar a la puerta?-->Não, eu não tenho nenhum painel mágico que abra todas as portas do Eixo.  Vê seu corpo em algum lugar?  Talvez você possa usá-lo para enganar a porta?
-(3893)Try configuring the fuses to match the floor diagram.  That should bring up the command podium.   I used Kinesis on the fuses.<==>Configura los fusibles para que coincidan con el diagrama del suelo. Así aparecerá la tarima de control. Ya he usado la cinética con los fusibles.-->Tente configurar os fusíveis para coincidir com o diagrama de chão.  Isto deve trazer até o pódio de comando.   Eu usei Cinése sobre os fusíveis.
-(3894)It's strange, but yes.<==>Es extraño, pero sí.-->Isto é estranho, mas sim.
-(3895)Isaac, okay I can see the Array from here.   It looks like you need to go to the outer dishes and find a way to drag their beams onto the center column.<==>Isaac, desde aquí veo el panel. Tendrás que aproximarte a las parabólicas exteriores y conseguir desplazar los haces hacia la columna central.-->Isaac, ok eu posso ver a Matriz daqui.   Parece que você precisa ir até as parabólicas exteriores e encontrar um jeito de desviar seus raios para a coluna central.
-(3896)A big tank?  Nitrogen Trichloride.  Those explode if they overheat!<==>¿Un gran depósito? Tricloruro de nitrógeno. ¡Eso explotará si se sobrecalienta!-->Um tanque grande?  Tricloreto de nitrogênio.  Isto explodirá se sobreaquecer!
-(3897)How's the big tank explosion going?<==>¿Cómo vas con la explosión del depósito?-->Como está indo com a explosão de um tanque grande?
-(3898)There should be explosive canisters near you?  Launch a few at the tank, that should do it.<==>Deberías tener botes explosivos cerca. Lanza algunos al depósito, eso funcionará.-->Deve haver tubos explosivos perto de você?  Lance um pouco no tanque, isto funcionará.
-(3899)What?! Are you crazy? That one in the middle? If you set that off it will incinerate everything in here!<==>¡¿Qué?! ¿Estás loco? ¿Ese del medio? ¡Si lo activas carbonizará todo lo que hay aquí!-->O quê?! Você está louco? Aquele no meio? Se você decidir ativá-lo isto irá incendiar tudo o que há aqui!
+(3887)Sneaky little bastards, I can hear you.<==>Cabrones escurridizos, os oigo.-->Pequenos desgraçados sorrateiros, posso ouvir vocês.
+(3888)Just stop hiding you little freaks.<==>Dejad de escondeos, engendros.-->Parem de se esconder, suas pequenas aberrações.
+(3889)Yeah yeah, I see you down there.  <==>Sí, sí, ahí abajo.-->Sim, sim, vejo vocês aí embaixo.  
+(3890)Ugh, this silence is worse than anything.<==>Agh, este silencio es lo peor.-->Ugh, esse silêncio é o pior.
+(3891)Two should be enough to move it back onto the mag rail.  Shoot the red tips to ignite them.<==>Dos los desplazarían hacia el raíl magnético. Dispara a las boquillas para activarlos.-->Dois devem ser suficiente para deslocá-lo de volta ao trilho magnético.  Atire nos pontas vermelhos para ativá-los.
+(3892)No, I don't have some magic panel that opens all the doors in the Sprawl.  Is his body around there somewhere?  Maybe you can use it to fool the door?<==>No, no tengo ningún panel mágico que abre todas las puertas del Eje. ¿Ves su cuerpo por alguna parte? ¿Quizá puedas usarlo para burlar a la puerta?-->Não, eu não tenho nenhum painel mágico que abra todas as portas do Eixo. Está vendo seu corpo em algum lugar?  Talvez você possa usá-lo para enganar a porta?
+(3893)Try configuring the fuses to match the floor diagram.  That should bring up the command podium.   I used Kinesis on the fuses.<==>Configura los fusibles para que coincidan con el diagrama del suelo. Así aparecerá la tarima de control. Ya he usado la cinética con los fusibles.-->Tente ajustar os fusíveis para que coincidam com o diagrama no chão.  Assim deve aparecer a plataforma de controle.   Eu já usei a cinética nos fusíveis.
+(3894)It's strange, but yes.<==>Es extraño, pero sí.-->É estranho, mas sim.
+(3895)Isaac, okay I can see the Array from here.   It looks like you need to go to the outer dishes and find a way to drag their beams onto the center column.<==>Isaac, desde aquí veo el panel. Tendrás que aproximarte a las parabólicas exteriores y conseguir desplazar los haces hacia la columna central.-->Isaac, estou vendo o painel daqui.   Você terá de se aproximar das parabólicas exteriores e conseguir um jeito de direcionar os raios para a coluna central.
+(3896)A big tank?  Nitrogen Trichloride.  Those explode if they overheat!<==>¿Un gran depósito? Tricloruro de nitrógeno. ¡Eso explotará si se sobrecalienta!-->Um grande depósito?  Tricloreto de nitrogênio.  Isso vai explodir se sobreaquecer!
+(3897)How's the big tank explosion going?<==>¿Cómo vas con la explosión del depósito?-->Como está indo com a explosão do depósito?
+(3898)There should be explosive canisters near you?  Launch a few at the tank, that should do it.<==>Deberías tener botes explosivos cerca. Lanza algunos al depósito, eso funcionará.-->Deve ter tubos explosivos aí perto.  Lance alguns no tanque, isso vai funcionar.
+(3899)What?! Are you crazy? That one in the middle? If you set that off it will incinerate everything in here!<==>¡¿Qué?! ¿Estás loco? ¿Ese del medio? ¡Si lo activas carbonizará todo lo que hay aquí!-->O quê?! Você está louco? Aquele no meio? Se você ativá-lo vai incinerar tudo que há aqui!
 (3900)Look out, there's more coming from holes in the walls.<==>Cuidado, de los agujeros de las paredes salen más.-->Cuidado, há mais vindo dos buracos nas paredes.
-(3901)I know, you'll have to stasis the machines to create an opening to fly through.<==>Lo sé. Usa la estabilización con las máquinas para crear una abertura para pasar.-->Eu sei, você terá a estabilidade das máquinas para criar uma abertura para passar.
-(3902)There should be thrusters stored in there somewhere, the ones with the red tips.   Use one to force the door open.<==>Tiene que haber propulsores, son los que tienen las boquillas rojas. Fuerza la apertura de la puerta con uno.-->Deve haver propulsores armazenados em algum lugar, uns com pontas vermelhas.   Use um para forçar a abertura da porta.
-(3903)No surprise there.<==>¡Qué sorpresa!-->Não há surpresa nisso.
-(3904)Isaac, I've logged into the Transport maintenance records.  It says the primary gearbox is offline?   Does that make any sense for what you're seeing up there?<==>Isaac, he accedido a los registros de mantenimiento de transporte. Dicen que la caja de engranajes principal está inactiva. ¿Tiene eso algún sentido con lo que ves ahí?-->Isaac, eu já acessei os registros de manuntenção dos Transportes.  Dizem que a caixa de engrenagem principal está offline?   Isto faz algum sentido para o que você está vendo aí em cima?
-(3905)That worked, we're moving again.   We'll wait for you up ahead.<==>Ha funcionado, nos movemos. Te esperaremos más adelante.-->Isso funcionou, estamos nos movendo novamente.   Vamos esperar por você lá na frente.
-(3906)This whole place is going to blow!   Get up here, fast! Isaac!<==>¡Todo esto va a explotar! ¡Sube aquí, rápido! ¡Isaac!-->Este lugar inteiro vai explodir!   Suba aqui, rápido! Isaac!
+(3901)I know, you'll have to stasis the machines to create an opening to fly through.<==>Lo sé. Usa la estabilización con las máquinas para crear una abertura para pasar.-->Eu sei, você terá de usar a estabilização naa máquinas para criar uma abertura para passar.
+(3902)There should be thrusters stored in there somewhere, the ones with the red tips.   Use one to force the door open.<==>Tiene que haber propulsores, son los que tienen las boquillas rojas. Fuerza la apertura de la puerta con uno.-->Deveria haver propulsores armazenados em algum lugar, são os que tem pontas vermelhas.   Use um para forçar a abertura da porta.
+(3903)No surprise there.<==>¡Qué sorpresa!-->Isso não é nenhuma surpresa.
+(3904)Isaac, I've logged into the Transport maintenance records.  It says the primary gearbox is offline?   Does that make any sense for what you're seeing up there?<==>Isaac, he accedido a los registros de mantenimiento de transporte. Dicen que la caja de engranajes principal está inactiva. ¿Tiene eso algún sentido con lo que ves ahí?-->Isaac, acessei os registros de manuntenção de transporte.  Eles dizem que a caixa de engrenagem principal está inativa.   Isso faz algum sentido para o que você está vendo aí?
+(3905)That worked, we're moving again.   We'll wait for you up ahead.<==>Ha funcionado, nos movemos. Te esperaremos más adelante.-->Funcionou, estamos nos movendo novamente.   Vamos esperar por você lá na frente.
+(3906)This whole place is going to blow!   Get up here, fast! Isaac!<==>¡Todo esto va a explotar! ¡Sube aquí, rápido! ¡Isaac!-->Esse lugar inteiro vai explodir!   Suba aqui, rápido! Isaac!
 (3907)Kaleb, it's more of them!   Shoot them!  SHOOT THEM!<==>¡Kaleb, hay más! ¡Dispárales! ¡DISPÁRALES!-->Kaleb, tem mais!   Atire neles!  ATIRE NELES!
 (3908)Kaleb, NOW!<==>¡Kaleb, AHORA!-->Kaleb, AGORA!
 (3909)Are you okay? You sound a little nervous.<==>¿Estás bien? Pareces algo nervioso.-->Você está bem? Você parece um pouco nervoso.
 (3910)What?<==>¿Qué?-->O quê?
 (3911)Is it safe?<==>¿Es seguro?-->É seguro?
-(3912)Isaac!  Isaac, they're swarming into the ship!<==>¡Isaac! ¡Isaac, están invadiendo la nave!-->Isaac!  Isaac, eles estão infestadas na nave!
-(3913)Just be careful.<==>Ten cuidado.-->Apenas tenha cuidado.
-(3914)Really?  It won't work unless all the cooling tubes are connected.<==>¿Si? No funcionará si los tubos de refrigeración no se conectan.-->Sério?  Não vai funcionar se os tubos de refrigeração não estarem conectados.
-(3915)You'd better hurry, the Gov Sec is getting further away by the minute.<==>Rápido, el sector gubernamental se aleja por momentos.-->É melhor você se apressar, o Setor Governamental está ficando cada vez mais longe.
-(3916)Aw Isaac... dammit that hurts. The bastard bit me.<==>Ah, Isaac... Maldita sea, duele. Ese cabrón me ha mordido.-->Aw Isaac... caramba isto dói. Esse bastardo me mordeu.
-(3917)Yeah I'm fine.  But he's stopped talking, and won't look at me. How's it going on your end? And please tell me this plan is going to work!  <==>Sí, estoy bien. Pero él ha dejado de hablar y no me mira. ¿Cómo te va por ahí? ¡Por favor, dime que este plan va a funcionar!-->Sim, eu estou bem.  Mas ele parou de falar, e não olha pra mim. Como está indo em seu fim? E por favor me fale que este plano vai funcionar!  
-(3918)Well good.   They're swarming in through a hole in the Medical Deck.  At least you won't have to go through there.<==>Muy bien. Entran por un agujero de la cubierta médica. Pero no tendrás que ir por ahí.-->Muito bem.   Eles estão infestados mo meio de um buraco na plataforma Médico.  Pelo menos você não terá que passar lá.
-(3919)Isaac, what are you doing? I thought you said you were heading back up to the tram? Just retrace your steps back up to the tram tunnel.<==>Isaac, ¿qué haces? ¿No volvías al monorraíl? Regresa hasta el túnel del monorraíl.-->Isaac, o que você está fazendo? Eu pensei que você disse que estava voltando para o trem? Apenas refaça seus passos de volta até o bonde no túnel.
-(3920) Isaac, did you find the other Power Cell yet?<==>Isaac, ¿has encontrado ya la otra célula de energía?--> Isaac, você já achou a outra Célula de Energia?
+(3912)Isaac!  Isaac, they're swarming into the ship!<==>¡Isaac! ¡Isaac, están invadiendo la nave!-->Isaac!  Isaac, eles estão invadindo a nave!
+(3913)Just be careful.<==>Ten cuidado.-->Tenha cuidado.
+(3914)Really?  It won't work unless all the cooling tubes are connected.<==>¿Si? No funcionará si los tubos de refrigeración no se conectan.-->Sério?  Não vai funcionar se os tubos de refrigeração não estiverem conectados.
+(3915)You'd better hurry, the Gov Sec is getting further away by the minute.<==>Rápido, el sector gubernamental se aleja por momentos.-->É melhor se apressar, o setor governamental está ficando cada vez mais longe.
+(3916)Aw Isaac... dammit that hurts. The bastard bit me.<==>Ah, Isaac... Maldita sea, duele. Ese cabrón me ha mordido.-->Aw Isaac... caramba, como isso dói. Esse desgraçado me mordeu.
+(3917)Yeah I'm fine.  But he's stopped talking, and won't look at me. How's it going on your end? And please tell me this plan is going to work!  <==>Sí, estoy bien. Pero él ha dejado de hablar y no me mira. ¿Cómo te va por ahí? ¡Por favor, dime que este plan va a funcionar!-->Sim, estou bem.  Mas ele parou de falar, e não olha pra mim. Como está indo por aí? Por favor, me diga que esse plano vai funcionar!  
+(3918)Well good.   They're swarming in through a hole in the Medical Deck.  At least you won't have to go through there.<==>Muy bien. Entran por un agujero de la cubierta médica. Pero no tendrás que ir por ahí.-->Muito bem.   Eles estão entrando por um buraco na plataforma médica.  Mas você não terá que passar por ali.
+(3919)Isaac, what are you doing? I thought you said you were heading back up to the tram? Just retrace your steps back up to the tram tunnel.<==>Isaac, ¿qué haces? ¿No volvías al monorraíl? Regresa hasta el túnel del monorraíl.-->Isaac, o que você está fazendo? Eu pensei que você disse que estava voltando para o trem? Volte ao túnel do trem. 
+(3920) Isaac, did you find the other Power Cell yet?<==>Isaac, ¿has encontrado ya la otra célula de energía?--> Isaac, você já encontrou a outra célula de energia?
 (3921)Yep.<==>Sí.-->Sim.
-(3922)How's the hunt for a circuit junction going out there?<==>¿Cómo va la búsqueda de la conexión?-->Como está a sua caça pela junção do circuito aí fora?
-(3923)The spinny thing up there should have one inside it.<==>Esa cosa giratoria de ahí seguro que tiene una dentro.-->Tem um coisa estranha lá em cima.
+(3922)How's the hunt for a circuit junction going out there?<==>¿Cómo va la búsqueda de la conexión?-->Como está a busca pela conexão do circuito?
+(3923)The spinny thing up there should have one inside it.<==>Esa cosa giratoria de ahí seguro que tiene una dentro.-->Essa coisa giratória aí deve ter uma dentro.
 (3924-IGUAIS)7
-(3925)Otherwise known as a Bercolite 300 seismic coring stabilizer.   It spins.   Spinny thing.<==>También conocida como estabilizador de núcleo sísmico Bercolite 300. Gira. Cosa giratoria.-->Também conhecido como estabilizador de perfuração sísmico Bercolite 300.   Ele gira.   Coisa estranha.
-(3926)Hmm, I'm having trouble getting it to recognize the new junction.<==>Mmm... No es fácil hacer que reconozca la nueva conexión.-->Hmm, estou tendo dificuldades para fazer reconhecer a nova junção.
+(3925)Otherwise known as a Bercolite 300 seismic coring stabilizer.   It spins.   Spinny thing.<==>También conocida como estabilizador de núcleo sísmico Bercolite 300. Gira. Cosa giratoria.-->Também conhecido como estabilizador de núcleo sísmico Bercolite 300.   Ele gira.   Coisa giratória.
+(3926)Hmm, I'm having trouble getting it to recognize the new junction.<==>Mmm... No es fácil hacer que reconozca la nueva conexión.-->Hmm, estou tendo problemas para fazer com que reconheça a nova conexão.
 (3927)Yeah, see what you can do.<==>Sí, a ver qué puedes hacer.-->Sim, veja o que você pode fazer.
-(3928)Isaac, there's a gunship docked here! <==>¡Isaac, hay una nave acoplada aquí!-->Isaac, há um caça acoplado aqui! 
-(3929)Not that I can tell!  Isaac, do you hear me? We're going to make it out of here alive!<==>¡No que yo vea! Isaac, ¿me oyes? ¡Saldremos con vida de aquí!-->Não é o que posso dizer!  Isaac, você está me ouvindo? Nós vamos conseguir sair daqui vivos!
+(3928)Isaac, there's a gunship docked here! <==>¡Isaac, hay una nave acoplada aquí!-->Isaac, há uma nave acoplada aqui! 
+(3929)Not that I can tell!  Isaac, do you hear me? We're going to make it out of here alive!<==>¡No que yo vea! Isaac, ¿me oyes? ¡Saldremos con vida de aquí!-->Não que eu possa ver!  Isaac, você está me ouvindo? Nós vamos sair vivos daqui!
 (3930)...No thanks to twitchy here.<==>...No gracias al tembleque este.-->...Não graças ao nervosinho aqui.
-(3931)Stross, through the door. Now!<==>¡Stross, por la puerta, AHORA!-->Stross, pela porta. Agora!
+(3931)Stross, through the door. Now!<==>¡Stross, por la puerta, AHORA!-->Stross, pela porta. AGORA!
 (3932-IGUAIS)Chuck Beaver
 (3933-IGUAIS)Rich Briggs
 (3934-IGUAIS)Shereif Fattouh
 (3935-IGUAIS)Cate Latchford
 (3936-IGUAIS)Scott Probst
 (3937-IGUAIS)Tammy Schachter
-(3938)concept art<==>Arte conceptual-->arte conceitual
+(3938)concept art<==>Arte conceptual-->Arte conceitual
 (3939)power node unlocked!<==>¡nodo de energía desbloqueado!-->nodo de energia desbloqueado!
 (3940)Concept Artists<==>Diseñadores de concepto-->Artistas Conceituais
 (3941)Collectible completion: {g}<==>porcentaje de objetos recogidos: {g}-->Total de objetos recolhidos: {g}
 (3942-IGUAIS)Robert Vernick
-(3943)No Connection<==>Sin conexión-->Sem Conexão
-(3944)EXIT TO ALTMAN PLAZA<==>SALIDA A LA PLAZA ALTMAN-->SAÍDA PARA ALTMAN PLAZA
+(3943)No Connection<==>Sin conexión-->Sem conexão
+(3944)EXIT TO ALTMAN PLAZA<==>SALIDA A LA PLAZA ALTMAN-->SAÍDA PARA A PRAÇA ALTMAN 
 (3945)Chapter 1<==>Capítulo 1-->Capítulo 1 - Demência
 (3946-IGUAIS)0
-(3947)DETONATOR MINES\nSchematic Acquired\nDownload at the Store<==>MINAS DE DETONACIÓN\nDiagrama adquirido\nDescargar en el almacén-->MINAS DE DETONAÇÃO\nDiagrama Adquirido\nBaixe na Loja
+(3947)DETONATOR MINES\nSchematic Acquired\nDownload at the Store<==>MINAS DE DETONACIÓN\nDiagrama adquirido\nDescargar en el almacén-->MINAS DE DETONAÇÃO\nDiagrama adquirido\nBaixe na Loja
 (3948-IGUAIS)1
 (3949-IGUAIS)Alex Lindsay
 (3950-IGUAIS)Mark Wayland
 (3951-IGUAIS)Mark Wayland
 (3952-IGUAIS)Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww Wwww
-(3953)UPGRADE NODE<==>NODO DE MEJORA-->NÓ DE ATUALIZAÇÃO
+(3953)UPGRADE NODE<==>NODO DE MEJORA-->NÓ DE MELHORIA
 (3954)+execution damage<==>+daño de ejecución-->+dano de execução
 (3955-IGUAIS)Konrad Dunton
 (3956-IGUAIS)T.J. Holleran
-(3957)destroy the initial marker<==>Destruye la primera Efigie.-->destrua o Marker inicial
+(3957)destroy the initial marker<==>Destruye la primera Efigie.-->Destrua o primeiro Marker
 (3958)email<==>E-mail-->email
 (3959)increased paired damage<==>mayor daño conjunto-->maior dano conjunto
-(3960)LARGE MED PACK\nSchematic Acquired\nDownload at the Store<==>BOTIQUÍN GRANDE\nDiagrama adquirido\nDescargar en el almacén-->KIT MÉDICO GRANDE\nDiagrama Adquirido\nBaixe na Loja
+(3960)LARGE MED PACK\nSchematic Acquired\nDownload at the Store<==>BOTIQUÍN GRANDE\nDiagrama adquirido\nDescargar en el almacén-->KIT MÉDICO GRANDE\nDiagrama adquirido\nBaixe na loja
 (3961)PLASMA ENERGY<==>ENERGÍA DE PLASMA-->ENERGIA DE PLASMA
 (3962-IGUAIS)1
 (3963)TRAM DATABOARD<==>PANEL MONORRAÍL-->PAINEL DO TREM
-(3964)page down<==>Av pág-->page down
+(3964)page down<==>Av pág-->prox. página
 (3965)ESCAPE POD PRIMED<==>CÁPSULA ACTIVADA-->CÁPSULA DE FUGA ATIVADA
 (3966)music volume<==>Vol. música-->Vol. música
-(3967)All I could get for you are these sleeping pills. People have been hoarding the good stuff - it's getting hard to find. God, I'd kill for something to numb this headache!<==>Solo he conseguido estas pastillas para dormir. La gente se ha ido guardando todo lo bueno, es difícil encontrar algo. ¡Dios, mataría por un calmante para la cabeza!-->Tudo o que eu consegui são essas pílulas para dormir. As pessoas foram acumulando coisas boas - está ficando difícil de encontrar. Deus, eu mataria por um calmante para esta dor de cabeça!
-(3968)I don't know but I heard this is how it started on the colony. Look, do you want the pills or not? I need a buyer today.<==>No lo sé, pero he oído que así empezó todo en la colonia. Mira, ¿quieres las pastillas o no? Necesito venderlas hoy.-->Eu não sei mas ouvi dizer que é assim que começou na colônia. Olha, você quer os comprimidos ou não? Preciso vendê-las hoje.
+(3967)All I could get for you are these sleeping pills. People have been hoarding the good stuff - it's getting hard to find. God, I'd kill for something to numb this headache!<==>Solo he conseguido estas pastillas para dormir. La gente se ha ido guardando todo lo bueno, es difícil encontrar algo. ¡Dios, mataría por un calmante para la cabeza!-->Tudo que consegui foram esses comprimidos para dormir. As pessoas estavam guardando as coisas boas - está ficando difícil encontrar. Deus, eu mataria por um remédio para essa dor de cabeça!
+(3968)I don't know but I heard this is how it started on the colony. Look, do you want the pills or not? I need a buyer today.<==>No lo sé, pero he oído que así empezó todo en la colonia. Mira, ¿quieres las pastillas o no? Necesito venderlas hoy.-->Não sei bem, mas ouvi dizer que tudo começou na colônia. Olha, você quer os comprimidos ou não? Preciso vendê-los hoje.
 (3969)Doctor! We have more than a dozen wounded colonists arriving in five minutes!<==>¡Doctor! ¡Nos llega más de una decena de colonos heridos dentro de cinco minutos!-->Doutor! Temos mais de uma dúzia de colonos feridos chegando em cinco minutos!
 (3970)We don't know. Communications with the colony are down. We can't reach anybody.<==>No lo sabemos. Hemos perdido la comunicación con la colonia. No podemos contactar con nadie.-->Nós não sabemos. Perdemos as comunicações com a colônia. Não podemos contactar com ninguém.
 (3971)Go away!  Get away from the door!   They'll get in if you open it!  Don't you dare open that door!   JUST GET AWAY!  GET AWAY FROM THE DOOR! <==>¡Fuera de ahí! ¡No os acerquéis a esa puerta! ¡Entrarán si la abrís! ¡Ni se os ocurra abrirla! ¡FUERA! ¡ALEJAOS DE ESA PUERTA!-->Vá embora!  Afaste-se da porta!   Eles vão entrar se você abri-la!  Não se atreva a abrir esta porta!   APENAS AFASTE-SE!  AFASTE-SE DESTA PORTA! 
