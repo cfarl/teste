@@ -4169,34 +4169,34 @@
 (4168)You unlocked increased magazine size for the Force Gun<==>Has desbloqueado un mayor tamaño del cargador para el cañón de energía.-->Você desbloqueou um maior tamanho do carregador para o canhão de energia
 (4169)Confirm<==>Confirmar-->Confirmar
 (4170)CALL TRAM?<==>¿LLAMAR?-->CHAMAR?
-(4171)Ionized Gas Cartridge for the Plasma Cutter.\n - Inventory Slot Stack Size: 25<==>Munición para la cortadora de plasma.\n- Tamaño del bloque de ranuras de inventario: 25\n-->Cartucho de Gás Ionizado para o Cortador de Plasma.\n - Tamanho do Bloco de espaços do Inventário: 25
-(4172)That's where all this started, Ellie.  Everything that's happening here happened on that ship. I saw it, I was…onboard when it happ… happened.<==>Ahí empezó todo, Ellie. Lo que está pasando aquí pasó antes en esa nave. Yo lo vi, yo estaba... a bordo cuando suced...-->É aí que tudo começou, Ellie.  Tudo o que está acontecendo aqui começou naquela nave. Eu vi isso, Eu estava…à bordo dele quando acon… aconteceu.
+(4171)Ionized Gas Cartridge for the Plasma Cutter.\n - Inventory Slot Stack Size: 25<==>Munición para la cortadora de plasma.\n- Tamaño del bloque de ranuras de inventario: 25\n-->Munição para a Cortadora de Plasma.\n - Tamanho do bloco de espaços de inventário: 25
+(4172)That's where all this started, Ellie.  Everything that's happening here happened on that ship. I saw it, I was…onboard when it happ… happened.<==>Ahí empezó todo, Ellie. Lo que está pasando aquí pasó antes en esa nave. Yo lo vi, yo estaba... a bordo cuando suced...-->Foi aí que tudo começou, Ellie.  O que está acontecendo aqui também aconteceu nessa nave. Eu vi isso, eu estava…à bordo quando acon… aconteceu.
 (4173)Hey, what's happening?<==>Eh, ¿qué ocurre?-->Ei, o que está acontecendo?
 (4174)Stay here.  I'll take a look.<==>Quédate aquí. Iré a echar un vistazo.-->Fique aqui.  Vou dar uma olhada.
-(4175)Ok, Ellie! Get ready, one more!<==>¡Vale, Ellie! ¡Prepárate, uno más!-->Ok, Ellie! Prepare-se, mais um!
-(4176)Yes it will.  Tell Stross to hold on, here we go…<==>Así es. Dile a Stross que aguante, allá vamos...-->Sim, vai.  Diga a Stross para se segurar, lá vamos nós…
+(4175)Ok, Ellie! Get ready, one more!<==>¡Vale, Ellie! ¡Prepárate, uno más!-->Ok, Ellie! Prepare-se, aí vem mais um!
+(4176)Yes it will.  Tell Stross to hold on, here we go…<==>Así es. Dile a Stross que aguante, allá vamos...-->É isso.  Diga a Stross para aguentar, estamos indo... 
 (4177)Ugh! Uh! Go! Go! Go!<==>¡Agh! ¡Uh! ¡Vamos! ¡Vamos! ¡Vamos!-->Agh! Uh! Vai! Vai! Vai!
 (4178)Oh. God. Come on.<==>Oh dios, vamos.-->Oh. Deus. Vamos.
-(4179)He's using the solar beam! We have to stop the transport! Now!<==>¡Va a utilizar el haz solar! ¡Hay que detener el transporte! ¡Ahora! ¡Uh!-->Ele está usando o feixe solar! Temos que parar o transporte! Agora!
-(4180)Back us up!  Back us up to that station!<==>¡Cúbrenos! ¡Hasta esa estación!-->Cubra-nos!  Cubra-nos até esta estação!
-(4181)Just do it, Ellie! Hurry!  Uh!  The Ishimura. If the gravity tethers are still functional I can-<==>¡Tú hazlo, rápido! ¡Uh! El Ishimura. Si los anclajes gravitatorios siguen operativos...-->Apenas o faça, Ellie! Depressa!  Ei!  A Ishimura. Se as travas gravitacionais ainda estiver funcionando eu posso...
-(4182)If I can line up the tracks for a few seconds you should be able to get the Transport across. Stay ready, and take care of Stross.<==>Si consigo alinear las vías unos segundos podrías hacer cruzar el transporte. Prepárate, y cuida de Stross.-->Se eu puder alinhar as faixas por alguns segundos, você deverá ser capaz de conseguir cruzar o Transporte. Fique pronto, e cuide de Stross.
-(4183)Stick around. I'm full of bad ideas.<==>No te vayas. Tengo un montón de malas ideas.-->Fique por perto. Estou cheio de más idéias.
+(4179)He's using the solar beam! We have to stop the transport! Now!<==>¡Va a utilizar el haz solar! ¡Hay que detener el transporte! ¡Ahora! ¡Uh!-->Ele está usando o feixe solar! Temos que deter o transporte! Agora!
+(4180)Back us up!  Back us up to that station!<==>¡Cúbrenos! ¡Hasta esa estación!-->Cubra-nos!  Cubra-nos até essa estação!
+(4181)Just do it, Ellie! Hurry!  Uh!  The Ishimura. If the gravity tethers are still functional I can-<==>¡Tú hazlo, rápido! ¡Uh! El Ishimura. Si los anclajes gravitatorios siguen operativos...-->Faça isso, Ellie! Depressa!  Ei!  A Ishimura. Se as travas gravitacionais ainda estiverem funcionando eu posso...
+(4182)If I can line up the tracks for a few seconds you should be able to get the Transport across. Stay ready, and take care of Stross.<==>Si consigo alinear las vías unos segundos podrías hacer cruzar el transporte. Prepárate, y cuida de Stross.-->Se eu conseguir alinhar as vias por alguns segundos, você poderá conseguir cruzar o Transporte. Se prepare, e cuide de Stross.
+(4183)Stick around. I'm full of bad ideas.<==>No te vayas. Tengo un montón de malas ideas.-->Fique por perto. Estou tendo um monte de más idéias.
 (4184)You're not going to break me.<==>No me doblegarás.-->Você não vai me enrolar.
-(4185)Ellie? I'm almost to the Captain's Nest to activate the tethers.<==>¿Ellie? Casi estoy en el refugio del capitán para activar los anclajes.-->Ellie? Estou quase no Ninho do Capitão para ativar as travas.
-(4186)No, just go! I'll use one of the escape pods and meet you there! Now go!<==>¡No, tú vete! ¡Yo iré por una de las cápsulas de escape y te encontraré allí! ¡Vete ya!-->Não, apenas vá! Vou usar uma das cápsulas de fuga e te encontro lá! Agora vai!
+(4185)Ellie? I'm almost to the Captain's Nest to activate the tethers.<==>¿Ellie? Casi estoy en el refugio del capitán para activar los anclajes.-->Ellie? Estou quase na cabine do capitão para ativar as travas.
+(4186)No, just go! I'll use one of the escape pods and meet you there! Now go!<==>¡No, tú vete! ¡Yo iré por una de las cápsulas de escape y te encontraré allí! ¡Vete ya!-->Não, você vai! Vou usar uma das cápsulas de fuga e te encontro lá! Agora vai!
 (4187)Time to go…<==>Hora de irse...-->Hora de partir…
-(4188)I don't know. I don't know what you are, okay?<==>No lo sé. No sé lo que eres.-->Eu não sei. Eu não sei o que você é, ok?
-(4189)I'm away! Ellie? Did you make it?<==>¡Estoy fuera! ¿Ellie? ¿Lo conseguisteis?-->Eu estou fora! Ellie? Você fez isto?
+(4188)I don't know. I don't know what you are, okay?<==>No lo sé. No sé lo que eres.-->Eu não sei. Eu não sei quem você é, ok?
+(4189)I'm away! Ellie? Did you make it?<==>¡Estoy fuera! ¿Ellie? ¿Lo conseguisteis?-->Estou fora! Ellie? Você conseguiu?
 (4190)Stross! No!!!<==>¡Stross! ¡¡No!!-->Stross! Não!!!
 (4191)Stroooossss!!!<==>¡¡¡Stroooossss!!!-->Stroooossss!!!
-(4192)Stross! God dammit!<==>¡Stross! ¡Maldita sea!-->Stross! Deus, caramba!
+(4192)Stross! God dammit!<==>¡Stross! ¡Maldita sea!-->Stross! Droga!
 (4193)Oh God, Ellie!<==>¡Oh, dios, Ellie!-->Oh Deus, Ellie!
-(4194)Shut up! Just shut… up! The Marker… It was you… you made him do it! You made me kill him, didn't you?<==>¡Cállate! ¡Tú... cállate! La Efigie... ¡Fuiste tú...  le obligaste a hacerlo! Tú me obligaste a matarlo, ¿verdad?-->Cale a boca! Apenas cale a… boca! O Marker… Foi você… você fez isto! Você me fez matá-lo, não é?
+(4194)Shut up! Just shut… up! The Marker… It was you… you made him do it! You made me kill him, didn't you?<==>¡Cállate! ¡Tú... cállate! La Efigie... ¡Fuiste tú...  le obligaste a hacerlo! Tú me obligaste a matarlo, ¿verdad?-->Cala a boca! Só cale a… boca! O Marker… Foi você… você me obrigou a fazer isso! Você me obrigou a matá-lo, não foi? 
 (4195)You're nothing… you can't hurt me… you are not real… you can't… hurt… me…<==>No eres nada... No puedes hacerme daño... No eres real... No... puedes... hacerme... daño...-->Você não pode… você não pode me ferir… você não é real… Você não pode… me… ferir…
-(4196)Cause you were my everything. And if I let you go, I got nothing left. <==>Porque lo eras todo para mí. Y si te dejo ir, no me quedará nada.-->Porque você era tudo para mim. E se eu deixar você ir, eu não tenho nada. 
+(4196)Cause you were my everything. And if I let you go, I got nothing left. <==>Porque lo eras todo para mí. Y si te dejo ir, no me quedará nada.-->Porque você era tudo para mim. E se eu deixar você ir, não me restará nada. 
 (4197)Stross is dead, Ellie. <==>Stross ha muerto, Ellie.-->Stross está morto, Ellie. 
-(4198)Stross couldn't lead us to the Marker. He was running away from his guilt.<==>Stross no podía conducirnos a la Efigie. Huía de su propia culpa.-->Stross não poderia nos levar ao Marker. Ele está fugindo da culpa.
+(4198)Stross couldn't lead us to the Marker. He was running away from his guilt.<==>Stross no podía conducirnos a la Efigie. Huía de su propia culpa.-->Stross não podia nos levar até o Marker. Ele estava fugindo da sua própria culpa.
 (4199)Yeah, the circuit junction shorted out.  I'll have to find another one.<==>Se ha producido un cortocircuito en la conexión. Tendré que encontrar otra.-->Sim, a junção do circuito é curta.  Vou ter que encontrar outro.
 (4200)I'll look.  Any luck up there?<==>Echaré un vistazo. ¿Todo bien por ahí?-->Vou procurar.  Alguma sorte aí em cima?
 (4201)Right.<==>Bien.-->Certo.
