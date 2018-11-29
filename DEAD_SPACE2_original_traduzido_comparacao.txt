@@ -4,7 +4,7 @@
 (0004)EMERGENCY<==>URGENCIAS-->EMERGÊNCIA
 (0005)TRIAGE<==>ADMISIÓN-->TRIAGEM
 (0006)SURGERY<==>CIRUGÍA-->CIRURGIA
-(0007)DETONATOR GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN DETONADOR\nDiagrama adquirido\nDescargar en el almacén-->ARMA DETONADORA\nDiagrama Adquirido\nBaixe na Loja
+(0007)DETONATOR GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN DETONADOR\nDiagrama Adquirido\nDescargar en el almacén-->ARMA DETONADORA\nDiagrama Adquirido\nBaixe na Loja
 (0008)We're getting conflicting reports from the colony. Can you say again?<==>Hemos recibido informes de conflictos en la colonia. ¿Podéis repetir?-->Estamos recebendo relatos de conflitos na colônia. Você pode repetir?
 (0009)God, what's happening down there?<==>Oh, dios, ¿qué ocurre ahí abajo?-->Meu Deus, o que está acontecendo ali?
 (0010)This is flight team EG-9 to Control. We have completed the fly-by. There's nothing left. I repeat, Titan Station has been completely destroyed.<==>Aquí equipo de vuelo EG-9 a control. Hemos completado el reconocimiento. No queda nada. Repito, la estación Titán ha quedado completamente destruida.-->Aqui é a equipe de voo EG-9 para Controle. Nós completamos o reconhecimento. Não restou nada. Repito, a estação Titã foi completamente destruída.
@@ -128,9 +128,9 @@
 (0128-IGUAIS)N/A
 (0129)LOAD?<==>¿CARGAR?-->CARREGAR?
 (0130)CHOOSE WEAPON/ NAVIGATE INVENTORY<==>ELEGIR ARMA/ NAVEGAR POR INVENTARIO-->ESCOLHER ARMA/ NAVEGAR PELO INVENTÁRIO
-(0131)ARCTIC SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD DEL ÁRTICO\nDiagrama adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA DO ÁRTICO\nDiagrama adquirido\nBaixe na Loja
-(0132)RIOT SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD ANTIDISTURBIOS\nDiagrama adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA ANTI-REBELIÕES\nDiagrama adquirido\nBaixe na Loja
-(0133)SOLDIER SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SOLDADO\nDiagrama adquirido\nDescargar en el almacén-->TRAJE DE SOLDADO\nDiagrama adquirido\nBaixe na Loja
+(0131)ARCTIC SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD DEL ÁRTICO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA DO ÁRTICO\nDiagrama Adquirido\nBaixe na Loja
+(0132)RIOT SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD ANTIDISTURBIOS\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA ANTI-REBELIÕES\nDiagrama Adquirido\nBaixe na Loja
+(0133)SOLDIER SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SOLDADO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SOLDADO\nDiagrama Adquirido\nBaixe na Loja
 (0134)SANCTUARY<==>SANTUARIO-->SANTUÁRIO
 (0135)MARKER LASERS ONLINE<==>LÁSERES DE LA EFIGIE ACTIVADOS-->LASERS DO MARKER ATIVADOS
 (0136)   Get to the Solar Array Base Station.<==>Ve a la estación base del panel solar.-->   Vá até a estação base do painel solar.
@@ -156,7 +156,7 @@
 (0156)[LDLeft]NAVIGATE<==>[LDLeft]NAVEGAR-->[LDLeft]NAVEGAR
 (0157-IGUAIS)Patrick O'Keefe
 (0158)Additional Engineering<==>Ingeniería adicional-->Engenharia Adicional
-(0159)HACKER SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE PIRATEO\nDiagrama adquirido\nDescargar en el almacén-->TRAJE HACKER\nDiagrama adquirido\nBaixe na Loja
+(0159)HACKER SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE PIRATEO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE HACKER\nDiagrama Adquirido\nBaixe na Loja
 (0160-IGUAIS)Jamie Milman
 (0161)name<==>nombre-->nome
 (0162)friends only<==>Solo Amigos-->Somente amigos
@@ -420,7 +420,7 @@
 (0420-IGUAIS)4
 (0421-IGUAIS)Plasma Ammo
 (0422)Artists<==>Diseñadores-->Artistas
-(0423)RIPPER BLADES\nSchematic Acquired\nDownload at the Store<==>CUCHILLAS DE SIERRA TRITURADORA\nDiagrama adquirido\nDescargar en el almacén-->LÂMINAS DE SERRA TRITURADORA\nDiagrama adquirido\nBaixe na Loja
+(0423)RIPPER BLADES\nSchematic Acquired\nDownload at the Store<==>CUCHILLAS DE SIERRA TRITURADORA\nDiagrama Adquirido\nDescargar en el almacén-->LÂMINAS DE SERRA TRITURADORA\nDiagrama Adquirido\nBaixe na Loja
 (0424-IGUAIS)1
 (0425)NAV CARD 3<==>CARTA DE NAVEGACIÓN 3-->CARTA DE NAVEGAÇÃO 3
 (0426)[RDUp]ZOOM IN<==>[RDUp]ACERCAR-->[RDUp]Zoom
@@ -478,7 +478,7 @@
 (0478)Vice President, Group COO<==>Vicepresidente y director de operaciones del grupo-->Vice-Presidente, Grupo COO
 (0479)primary fire: conical force blast\nalternate fire: condensed force blast<==>disparo principal: ráfaga de energía cónica\ndisparo secundario: ráfaga de energía condensada-->Disparo principal: rajada de energia cônica\ndisparo secundário: rajada de energia condensada
 (0480-IGUAIS)Patrick C. Payne
-(0481)POWER NODE\nSchematic Acquired\nDownload at the Store<==>NODO DE ENERGÍA\nDiagrama adquirido\nDescargar en el almacén-->NODO DE ENERGIA\nDiagrama adquirido\nBaixe na Loja
+(0481)POWER NODE\nSchematic Acquired\nDownload at the Store<==>NODO DE ENERGÍA\nDiagrama Adquirido\nDescargar en el almacén-->NODO DE ENERGIA\nDiagrama Adquirido\nBaixe na Loja
 (0482)Character Artists<==>Diseñadores de personajes-->Artistas de PersonagenS
 (0483)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado por matar o portador
 (0484)unmute<==>Activar sonido-->Ativa o som
@@ -651,7 +651,7 @@
 (0651)RIPPER<==>SIERRA TRITURADORA-->SERRA TRITURADORA
 (0652)USG ISHIMURA\nStore & Exchange<==>USG ISHIMURA\nAlmacén e intercambio-->USG ISHIMURA\nLoja e Intercâmbio
 (0653)Holo-card containing shuttle navigation data.<==>Tarjeta holográfica que contiene información de navegación del transbordador.-->Cartão holográfico que contém dados de navegação do transportador.
-(0654)PULSE ROUNDS\nSchematic Acquired\nDownload at the Store<==>CARGAS DE IMPULSOS\nDiagrama adquirido\nDescargar en el almacén-->CARGAS DE IMPULSOS\nDiagrama adquirido\nBaixe na Loja
+(0654)PULSE ROUNDS\nSchematic Acquired\nDownload at the Store<==>CARGAS DE IMPULSOS\nDiagrama Adquirido\nDescargar en el almacén-->CARGAS DE IMPULSOS\nDiagrama Adquirido\nBaixe na Loja
 (0655-IGUAIS)Mark Pragelas
 (0656-IGUAIS)1600 x 1200, 85Hz
 (0657)Online Pass is unavailable for purchase at this time.<==>El pase online no está disponible para compra en este momento.-->O Passe Online não está disponível para compra nesse momento.
@@ -774,7 +774,7 @@
 (0774-IGUAIS)Erika Peterson
 (0775)load game<==>Cargar partida-->Carregar jogo
 (0776)Sound Design Lead<==>Jefe de diseño de sonido-->Chefe de Design de Som
-(0777)JAVELIN GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN JABALINA\nDiagrama adquirido\nDescargar en el almacén-->CANHÃO DE DARDOS\nDiagrama adquirido\nBaixe na Loja
+(0777)JAVELIN GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN JABALINA\nDiagrama Adquirido\nDescargar en el almacén-->CANHÃO DE DARDOS\nDiagrama Adquirido\nBaixe na Loja
 (0778)settings<==>Opciones-->Configurações
 (0779)Technical Director<==>Dirección técnica-->Diretor Técnico
 (0780)CLAW DISENGAGED<==>PINZA DESACOPLADA-->GARRA DESACOPLADA
@@ -1044,7 +1044,7 @@
 (1044)spitter<==>escupidor-->cuspidor
 (1045)Start a new game from a cleared game. Suits and weapons from your prior playthrough will be available in the first Store.<==>Empieza una nueva partida a partir de una partida completada. El inventario de la partida completada anterior estará disponible en la Caja fuerte del primer almacén.-->Inicia um novo jogo a partir de um jogo finalizado. Trajes e armas do jogo anterior estarão disponíveis na primeira loja.
 (1046)There is not enough free space on storage device %1.<==>No hay suficiente espacio libre en el dispositivo de almacenamiento %1.-->Não há espaço livre suficiente no dispositivo de armazenamento %1.
-(1047)STASIS PACK\nSchematic Acquired\nDownload at the Store<==>CARGA DE ESTABILIZACIÓN\nDiagrama adquirido\nDescargar en el almacén-->CARGA DE ESTABILIZAÇÃO\nDiagrama Adquirido\nBaixar na Loja
+(1047)STASIS PACK\nSchematic Acquired\nDownload at the Store<==>CARGA DE ESTABILIZACIÓN\nDiagrama Adquirido\nDescargar en el almacén-->CARGA DE ESTABILIZAÇÃO\nDiagrama Adquirido\nBaixar na Loja
 (1048-IGUAIS)7
 (1049)Database Administrator<==>Administrador de base de datos-->Administrador de Base de Dados
 (1050)RIG<==>DRI-->DRI
@@ -1745,7 +1745,7 @@
 (1745-IGUAIS)Julian Chayle
 (1746-IGUAIS)Esteban Coria
 (1747)Urban Camo Viral Yellow<==>Amarillo viral camuflaje urbano-->Amarelo viral de camuflagem urbano
-(1748)LARGE AIR CAN\nSchematic Acquired\nDownload at the Store<==>BOTE DE AIRE GRANDE\nDiagrama adquirido\nDescargar en el almacén-->TUBO DE AR GRANDE\nDiagrama Adquirido\nBaixar na Loja
+(1748)LARGE AIR CAN\nSchematic Acquired\nDownload at the Store<==>BOTE DE AIRE GRANDE\nDiagrama Adquirido\nDescargar en el almacén-->TUBO DE AR GRANDE\nDiagrama Adquirido\nBaixar na Loja
 (1749)primary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>disparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->Disparo principal: cortadora de mineral de grande energia\nDisparo alternativo: muda a orientação do feixe
 (1750)primary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>disparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->Disparo principal: cortadora de mineral de grande energia\nDisparo alternativo: muda a orientação do feixe
 (1751)TITAN STATION\nCHURCH OF UNITOLOGY\n\nCome hear the truth about Unitology.   See our rich history, hear about the compelling truths hidden for centuries, and learn about the glorious unity that awaits us all.   The church is always open to the curious, so come check out our extended tour hours during Saturnal Periapsis, alone or with a group!    We never turn anyone away.   Altman be praised.<==>ESTACIÓN TITÁN\nIGLESIA DE LA UNIOLOGÍA\n\nVengan y oigan la verdad sobre la Uniología. Contemplen nuestra riqueza histórica, escuchen las fascinantes verdades ocultas durante siglos y conozcan la gloriosa unidad que nos espera a todos. La iglesia está siempre abierta para los curiosos, ¡consulten los horarios de las visitas ampliadas, individuales o en grupo, durante la periapsis saturnina! Jamás excluimos a nadie. Alabado sea Altman.-->ESTAÇÃO TITÃ\nIGREJA DA UNITOLOGIA\n\Venham e escutem a verdade sobre a Unitologia.   Contemplem nossa riqueza história, escutem sobre as fascinantes verdades ocultas durante séculos, e conheçam a gloriosa unidade que nos espera. A igreja está sempre aberta para os curiosos, consultem os horários das visitas ampliadas, individuais ou em grupo, durante a periapsis saturnina! Jamais excluímos alguém. Louvado seja Altman.
@@ -1932,7 +1932,7 @@
 (1932)quit lobby<==>Salir de punto de encuentro-->Sair do ponto de encontro
 (1933)The Contact Beam is the most powerful weapon, but requires a charge for each shot.<==>El rayo de contacto es el arma más potente, pero requiere una carga por cada disparo.-->O raio de contatoé a arma mais poderosa de todas, mas requer uma carga para cada disparo.
 (1934)prevent the delivery of the repair unit<==>Evita que la unidad de reparación llegue a su destino.-->evite que a unidade de reparos chegue ao seu destino
-(1935)SEEKER SHELLS\nSchematic Acquired\nDownload at the Store<==>PROYECTILES BUSCADORES\nDiagrama adquirido\nDescargar en el almacén-->ESCUDOS BUSCADORES\nDiagrama Adquirido\nBaixe na Loja
+(1935)SEEKER SHELLS\nSchematic Acquired\nDownload at the Store<==>PROYECTILES BUSCADORES\nDiagrama Adquirido\nDescargar en el almacén-->ESCUDOS BUSCADORES\nDiagrama Adquirido\nBaixe na Loja
 (1936)Detonator<==>Detonador-->Detonador
 (1937)Schematic type temp<==>Tipo de diagrama temporal-->Tipo de diagrama temporal
 (1938)Hacker Suit Schematic<==>Diagrama de traje de pirateo-->Diagrama do Traje Hacker
@@ -1979,7 +1979,7 @@
 (1979-IGUAIS)Paolo Giovenco
 (1980)Art Director<==>Director artístico-->Diretor de Artes
 (1981)TRAM REPAIR<==>REPARACIÓN DEL MONORRAÍL-->REPARAÇÃO DO TREM
-(1982)CONTACT BEAM\nSchematic Acquired\nDownload at the Store<==>LÁSER DE CONTACTO\nDiagrama adquirido\nDescargar en el almacén-->LASER DE CONTATO\nDiagrama Adquirido\nBaixe na Loja
+(1982)CONTACT BEAM\nSchematic Acquired\nDownload at the Store<==>LÁSER DE CONTACTO\nDiagrama Adquirido\nDescargar en el almacén-->LASER DE CONTATO\nDiagrama Adquirido\nBaixe na Loja
 (1983)You unlocked increased damage for the Javelin Gun<==>Has desbloqueado más daño para el cañón jabalina.-->Você desbloqueou mais dano para o canhão de dardos.
 (1984)Schematic Downloaded:<==>Diagrama descargado:-->Diagrama Baixado:
 (1985)[Seems like everyone was trying to pack in a hurry.]<==>[Parece que tenían prisa por hacer las maletas.]-->[Parece que estavam com pressa em fazer as malas.]
@@ -2544,7 +2544,7 @@
 (2544-IGUAIS)Enrico Tamburini
 (2545)increased weapon damage<==>mayor daño del arma-->maior dano da arma
 (2546)The specified password or email address is invalid.<==>La contraseña o la dirección de correo electrónico especificadas no son válidas.-->A senha especificada ou endereço de email está inválido.
-(2547)FLAME FUEL\nSchematic Acquired\nDownload at the Store<==>COMBUSTIBLE DE LANZALLAMAS\nDiagrama adquirido\nDescargar en el almacén-->COMBUSTÍVEL DO LANÇA-CHAMAS\nDiagrama Adquirido\nBaixe na loja
+(2547)FLAME FUEL\nSchematic Acquired\nDownload at the Store<==>COMBUSTIBLE DE LANZALLAMAS\nDiagrama Adquirido\nDescargar en el almacén-->COMBUSTÍVEL DO LANÇA-CHAMAS\nDiagrama Adquirido\nBaixe na Loja
 (2548-IGUAIS)Dead Space¬ Ignition
 (2549)Either your account has been disabled or access to this game has been disabled.\nIf you have any questions regarding your account, please visit support.ea.com<==>O tu cuenta o el acceso a este juego se han desactivado.\nSi tienes cualquier pregunta sobre tu cuenta, visita support.ea.com.-->Sua conta ou seu acesso a esse jogo foi desativado.\nSe você tiver alguma pergunta sobre sua conta, por favor visite support.ea.com
 (2550)Director of Advertising <==>Director de publicidad-->Diretor de Publicidade 
@@ -2802,7 +2802,7 @@
 (2802-IGUAIS)Credits_QAOS_Leads
 (2803-IGUAIS)Credits_QAOS_Test
 (2804-IGUAIS)Credits_Blank_Line
-(2805)SEEKER RIFLE\nSchematic Acquired\nDownload at the Store<==>RIFLE BUSCADOR\nDiagrama adquirido\nDescargar en el almacén-->RIFLE BUSCADOR\nDiagrama Adquirido\nBaixe na Loja
+(2805)SEEKER RIFLE\nSchematic Acquired\nDownload at the Store<==>RIFLE BUSCADOR\nDiagrama Adquirido\nDescargar en el almacén-->RIFLE BUSCADOR\nDiagrama Adquirido\nBaixe na Loja
 (2806)promotion granted<==>Ascenso concedido-->Promoção concedida
 (2807)CAPACITY<==>CAPACIDAD-->CAPACIDADE
 (2808)Franchise Executive Producer<==>Productor ejecutivo de la franquicia-->Produtor Executivo da Franquia
@@ -3399,7 +3399,7 @@
 (3399)Test Manager<==>Jefe de pruebas-->Gerente de Testes
 (3400)custom<==>Personaliz.-->Personalizado
 (3401-IGUAIS)1
-(3402)CONTACT ENERGY\nSchematic Acquired\nDownload at the Store<==>ENERGIA DE CONTACTO\nDiagrama adquirido\nDescargar en el almacén-->ENERGIA DE CONTATO\nDiagrama adquirido\nBaixe no loja
+(3402)CONTACT ENERGY\nSchematic Acquired\nDownload at the Store<==>ENERGIA DE CONTACTO\nDiagrama Adquirido\nDescargar en el almacén-->ENERGIA DE CONTATO\nDiagrama Adquirido\nBaixe no loja
 (3403)WEAPONS<==>ARMAS-->ARMAS
 (3404)Senior QA Project Lead<==>Jefe de proyecto de control de calidad sénior-->Líder de Projeto de Controle de Qualidade Sênior
 (3405)ELITE SECURITY SUIT<==>TRAJE DE SEGURIDAD DE ÉLITE-->TRAJE DE SEGURANÇA DE ELITE
@@ -3843,7 +3843,7 @@
 (3842)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isso vai aumentar o dano do DISPARO SECUNDÁRIO
 (3843-IGUAIS)Mark Van Ryswyk
 (3844)Holo-card containing shuttle navigation data.<==>Tarjeta holográfica que contiene información de navegación del transbordador.-->Cartão holográfico contendo dados de navegação do transportador.
-(3845)FLAMETHROWER\nSchematic Acquired\nDownload at the Store<==>LANZALLAMAS\nDiagrama adquirido\nDescargar en el almacén-->LANÇA-CHAMAS\nDiagrama adquirido\nBaixe na Loja
+(3845)FLAMETHROWER\nSchematic Acquired\nDownload at the Store<==>LANZALLAMAS\nDiagrama Adquirido\nDescargar en el almacén-->LANÇA-CHAMAS\nDiagrama Adquirido\nBaixe na Loja
 (3846-IGUAIS)1
 (3847)CALL?<==>¿LLAMAR?-->CHAMAR?
 (3848)Chapter 10<==>Capítulo 10-->Capítulo 10 - Pesadelo Revivido
@@ -3945,7 +3945,7 @@
 (3944)EXIT TO ALTMAN PLAZA<==>SALIDA A LA PLAZA ALTMAN-->SAÍDA PARA A PRAÇA ALTMAN 
 (3945)Chapter 1<==>Capítulo 1-->Capítulo 1 - Demência
 (3946-IGUAIS)0
-(3947)DETONATOR MINES\nSchematic Acquired\nDownload at the Store<==>MINAS DE DETONACIÓN\nDiagrama adquirido\nDescargar en el almacén-->MINAS DE DETONAÇÃO\nDiagrama adquirido\nBaixe na Loja
+(3947)DETONATOR MINES\nSchematic Acquired\nDownload at the Store<==>MINAS DE DETONACIÓN\nDiagrama Adquirido\nDescargar en el almacén-->MINAS DE DETONAÇÃO\nDiagrama Adquirido\nBaixe na Loja
 (3948-IGUAIS)1
 (3949-IGUAIS)Alex Lindsay
 (3950-IGUAIS)Mark Wayland
@@ -3958,7 +3958,7 @@
 (3957)destroy the initial marker<==>Destruye la primera Efigie.-->Destrua o primeiro Marker
 (3958)email<==>E-mail-->email
 (3959)increased paired damage<==>mayor daño conjunto-->maior dano conjunto
-(3960)LARGE MED PACK\nSchematic Acquired\nDownload at the Store<==>BOTIQUÍN GRANDE\nDiagrama adquirido\nDescargar en el almacén-->KIT MÉDICO GRANDE\nDiagrama adquirido\nBaixe na loja
+(3960)LARGE MED PACK\nSchematic Acquired\nDownload at the Store<==>BOTIQUÍN GRANDE\nDiagrama Adquirido\nDescargar en el almacén-->KIT MÉDICO GRANDE\nDiagrama Adquirido\nBaixe na Loja
 (3961)PLASMA ENERGY<==>ENERGÍA DE PLASMA-->ENERGIA DE PLASMA
 (3962-IGUAIS)1
 (3963)TRAM DATABOARD<==>PANEL MONORRAÍL-->PAINEL DO TREM
@@ -3967,33 +3967,33 @@
 (3966)music volume<==>Vol. música-->Vol. música
 (3967)All I could get for you are these sleeping pills. People have been hoarding the good stuff - it's getting hard to find. God, I'd kill for something to numb this headache!<==>Solo he conseguido estas pastillas para dormir. La gente se ha ido guardando todo lo bueno, es difícil encontrar algo. ¡Dios, mataría por un calmante para la cabeza!-->Tudo que consegui foram esses comprimidos para dormir. As pessoas estavam guardando as coisas boas - está ficando difícil encontrar. Deus, eu mataria por um remédio para essa dor de cabeça!
 (3968)I don't know but I heard this is how it started on the colony. Look, do you want the pills or not? I need a buyer today.<==>No lo sé, pero he oído que así empezó todo en la colonia. Mira, ¿quieres las pastillas o no? Necesito venderlas hoy.-->Não sei bem, mas ouvi dizer que tudo começou na colônia. Olha, você quer os comprimidos ou não? Preciso vendê-los hoje.
-(3969)Doctor! We have more than a dozen wounded colonists arriving in five minutes!<==>¡Doctor! ¡Nos llega más de una decena de colonos heridos dentro de cinco minutos!-->Doutor! Temos mais de uma dúzia de colonos feridos chegando em cinco minutos!
-(3970)We don't know. Communications with the colony are down. We can't reach anybody.<==>No lo sabemos. Hemos perdido la comunicación con la colonia. No podemos contactar con nadie.-->Nós não sabemos. Perdemos as comunicações com a colônia. Não podemos contactar com ninguém.
-(3971)Go away!  Get away from the door!   They'll get in if you open it!  Don't you dare open that door!   JUST GET AWAY!  GET AWAY FROM THE DOOR! <==>¡Fuera de ahí! ¡No os acerquéis a esa puerta! ¡Entrarán si la abrís! ¡Ni se os ocurra abrirla! ¡FUERA! ¡ALEJAOS DE ESA PUERTA!-->Vá embora!  Afaste-se da porta!   Eles vão entrar se você abri-la!  Não se atreva a abrir esta porta!   APENAS AFASTE-SE!  AFASTE-SE DESTA PORTA! 
-(3972)Mom, unlock the door!  WE HAVE TO GET OUT<==>¡Mamá, abre la puerta! TENEMOS QUE SALIR.-->Mãe, destranque a porta!  TEMOS QUE SAIR
-(3973)They're coming INSIDE mom!  In the vents!  Listen!<==>¡Van a ENTRAR, mamá! ¡En los conductos! ¡Escucha!-->Eles vão ENTRAR mãe!  Nos dutos!  Ouça!
-(3974)OH MY GOD!  MOM!  OPEN THE DOOR! OPEN THE DOOR!<==>¡OH! ¡DIOS MÍO! ¡MAMÁ! ¡ABRE LA PUERTA! ¡ABRE LA PUERTA!-->OH MEU DEUS!  MÃE!  ABRA A PORTA! ABRA A PORTA!
+(3969)Doctor! We have more than a dozen wounded colonists arriving in five minutes!<==>¡Doctor! ¡Nos llega más de una decena de colonos heridos dentro de cinco minutos!-->Doutor! Está chegando mais de uma dúzia de colonos feridos dentro de cinco minutos!
+(3970)We don't know. Communications with the colony are down. We can't reach anybody.<==>No lo sabemos. Hemos perdido la comunicación con la colonia. No podemos contactar con nadie.-->Nós não sabemos. Perdemos as comunicações com a colônia. Não podemos contactar ninguém.
+(3971)Go away!  Get away from the door!   They'll get in if you open it!  Don't you dare open that door!   JUST GET AWAY!  GET AWAY FROM THE DOOR! <==>¡Fuera de ahí! ¡No os acerquéis a esa puerta! ¡Entrarán si la abrís! ¡Ni se os ocurra abrirla! ¡FUERA! ¡ALEJAOS DE ESA PUERTA!-->Vá embora!  Fique longe dessa porta!   Eles vão entrar se você a abrir!  Não se atreva a abrir essa porta!   VÁ EMBORA!  FIQUE LONGE DESSA PORTA! 
+(3972)Mom, unlock the door!  WE HAVE TO GET OUT<==>¡Mamá, abre la puerta! TENEMOS QUE SALIR.-->Mamãe, destranque a porta!  TEMOS QUE SAIR
+(3973)They're coming INSIDE mom!  In the vents!  Listen!<==>¡Van a ENTRAR, mamá! ¡En los conductos! ¡Escucha!-->Eles vão ENTRAR mamãe!  Pelos dutos!  Escute!
+(3974)OH MY GOD!  MOM!  OPEN THE DOOR! OPEN THE DOOR!<==>¡OH! ¡DIOS MÍO! ¡MAMÁ! ¡ABRE LA PUERTA! ¡ABRE LA PUERTA!-->OH MEU DEUS!  MAMÃE!  ABRE A PORTA! ABRE A PORTA!
 (3975)Gameplay Engineers<==>Ingenieros de juego-->Engenheiros de Jogabilidade
 (3976)Pick Up<==>Recoger-->Pegar
-(3977)Tiger Camo Military<==>Militar camuflaje tigre-->Camuflagem Militar Tigre
-(3978)Please check-in and wait until you are called.<==>Regístrese y espere a que le llamen-->Por favor registre-se e aguarde até que seja chamado.
+(3977)Tiger Camo Military<==>Militar camuflaje tigre-->Militar Camuflagem Tigre
+(3978)Please check-in and wait until you are called.<==>Regístrese y espere a que le llamen-->Registre-se e aguarde até que seja chamado.
 (3979-IGUAIS)1
 (3980)//new game<==>//Nueva partida-->//novo jogo
 (3981-IGUAIS)7
-(3982)System Secure\nOverride failed<==>Sistema seguro\nAnulación fallida-->Sistema Seguro\nAnulação falhada
+(3982)System Secure\nOverride failed<==>Sistema seguro\nAnulación fallida-->Sistema Seguro\nCancelamento falhou
 (3983)Redeeming Entitlement<==>Canjeando derecho-->Resgatando direito
-(3984)Increased damage when aiming through scope.<==>Se aumentará el daño al usar zoom.-->Aumentará o dano ao usar a mira.
-(3985)(multiplayer)<==>(multijugador)-->(multijogador)
+(3984)Increased damage when aiming through scope.<==>Se aumentará el daño al usar zoom.-->O dano será aumentado ao usar a mira.
+(3985)(multiplayer)<==>(multijugador)-->(vários jogadores)
 (3986)TUTORIAL MENU<==>MENÚ-->MENU TUTORIAL
-(3987)You've unlocked new items! You can find them in the store.<==>¡Has desbloqueado nuevos objetos! Puedes encontrarlos en el almacén.-->Você desbloqueou novos itens! Você pode encontrá-los na loja.
+(3987)You've unlocked new items! You can find them in the store.<==>¡Has desbloqueado nuevos objetos! Puedes encontrarlos en el almacén.-->Você desbloqueou novos itens! Eles podem ser encontrados na loja.
 (3988-IGUAIS)1
-(3989)Tiger Camo Viral White<==>Blanco viral camuflaje tigre-->Camuflagem Tigre Branco Viral
+(3989)Tiger Camo Viral White<==>Blanco viral camuflaje tigre-->Branco Viral Camuflagem Tigre
 (3990)Hard Core Mode<==>Modo Imposible-->Modo Impossível
 (3991)Quick Match attempt failed to find a match.<==>No se ha podido encontrar una partida mediante la opción de partida rápida.-->Não foi possível encontrar uma partida na opção Partida Rápida.
 (3992-IGUAIS)15
 (3993)SHOCKPOINT RIPPER<==>SIERRA DE DISTORSIÓN-->SERRA DE DISTORÇÃO
-(3994)LINE GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN LINEAL\nDiagrama adquirido\nDescargar en el almacén-->CANHÃO LINEAR\nDiagrama Adquirido\nBaixe na Loja
-(3995)      Welcome to The Concourse! Enjoy your shopping experience!<==>      ¡Bienvenido a The Concourse! ¡Disfrute de sus compras!-->      Bem-vindo ao Saguão! Aproveite a sua experiência de compra!
+(3994)LINE GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN LINEAL\nDiagrama Adquirido\nDescargar en el almacén-->CANHÃO LINEAR\nDiagrama Adquirido\nBaixe na Loja
+(3995)      Welcome to The Concourse! Enjoy your shopping experience!<==>      ¡Bienvenido a The Concourse! ¡Disfrute de sus compras!-->      Bem-vindo ao Concourse! Aproveite suas compras!
 (3996)PATIENT SUIT<==>TRAJE DE PACIENTE-->TRAJE DE PACIENTE
 (3997)GOLD SEMICONDUCTOR<==>SEMICONDUCTOR DE ORO-->SEMICONDUTOR DE OURO
 (3998-IGUAIS)Credits_Title
@@ -4005,28 +4005,28 @@
 (4004-IGUAIS)Credits_ArtD
 (4005-IGUAIS)Credits_ProductionD
 (4006-IGUAIS)Credits_AudioD
-(4007)This will upgrade your MINE by %g pts.<==>Se mejorará la MINA en %g pts.-->Isto irá atualizar sua MINA em %g pts.
+(4007)This will upgrade your MINE by %g pts.<==>Se mejorará la MINA en %g pts.-->Isso vai atualizar sua MINA em %g pts.
 (4008)SHOOTING RANGE CONTROLS<==>CONTROLES DE ALCANCE DE DISPARO-->CONTROLES DE ALCANCE DE DISPARO
-(4009)High energy mineral cutter.<==>Cortadora de mineral de gran energía.-->Cortador Mineral de alta energia.
-(4010)Altman's Footsteps\nA publication for the followers of Michael Altman\n\nWe, the children of the Marker, grow tired of the oppressive, thinly-veiled attacks from EarthGov on our rights to worship as we please.  Reduced hours of operation for the Church, fire marshal restrictions on the size of revival events, permits needed to distribute literature.   These are all poorly concealed attempts to quash the Truth.  OUR TRUTH.   And they will not succeed.   The blasphemous, short-sighted, reckless, destructive and hopeless path that EarthGov has us on is a dead end.  One that only Unitology has the answer to.  Altman has foreseen it, and we are blessed to execute it.  Prepare yourselves brothers and sisters, Convergence is nigh.<==>Los pasos de Altman\nUna publicación para los seguidores de Michael Altman\n\nNosotros, los hijos de la Efigie, nos cansamos de los opresivos ataques, apenas disimulados, del gobierno de La Tierra a nuestro derecho de libre adoración.  Reducción del horario de actividad de la Iglesia, restricciones oficiales de la duración de los actos de renacimiento, necesidad de permisos para la distribución de literatura... Todos son intentos mal camuflados de acallar la verdad. NUESTRA VERDAD. Y no lo lograrán. Las medidas blasfemas, cortas de miras, temerarias, destructivas e inútiles que el gobierno de la Tierra nos ha impuesto constituyen un callejón sin salida. Uno para el que solo la Uniología tiene la respuesta. Altman lo predijo y nosotros tenemos el privilegio de ejecutarlo. Preparaos, hermanos y hermanas, la Convergencia está próxima.-->Os Passos de Altman\nUma publicação para os seguidores de Michael Altman\n\nNós, os filhos do Marker, nos cansamos dos opressivos ataques dissimulados do Governo da Terra sobre nossos direitos de adorar o que quisermos.  Redução do horário de atividade da Igreja, restrições oficiais da duração dos eventos de renascimento, autorizações necessárias para distribuir literatura.   Essas são todas temtativas mal camufladas para anular a Verdade.  A NOSSA VERDADE.   E eles não terão sucesso.   As medidas blasfemas, cortes de mira, destrutivas e inúteis, que o Governo da Terra nos colocou é um beco sem saída.  Um só da Unitologia que tem a resposta disto.  Altman previu isto, e nós temos o privilégio de executá-lo.  Preparem-se irmãos e irmãs, a Convergência está próxima.
-(4011)You unlocked increased melee damage for the Spitter<==>Has desbloqueado más daño cuerpo a cuerpo para el escupidor.-->Você desbloqueou mais danos corpo-à-corpo para o Cuspidor
-(4012)ALL OBJECTIVES\nCOMPLETE<==>TODOS LOS OBJETIVOS\nCOMPLETADOS-->TODOS OS OBJETIVOS\nCOMPLETADOS
-(4013)EARTHGOV PULSE RIFLE<==>RIFLE DE IMPULSOS DEL GOBIERNO-->RIFLE DE IMPULSO DO GOVERNO DA TERRA
+(4009)High energy mineral cutter.<==>Cortadora de mineral de gran energía.-->Cortadora de mineral de grande energia.
+(4010)Altman's Footsteps\nA publication for the followers of Michael Altman\n\nWe, the children of the Marker, grow tired of the oppressive, thinly-veiled attacks from EarthGov on our rights to worship as we please.  Reduced hours of operation for the Church, fire marshal restrictions on the size of revival events, permits needed to distribute literature.   These are all poorly concealed attempts to quash the Truth.  OUR TRUTH.   And they will not succeed.   The blasphemous, short-sighted, reckless, destructive and hopeless path that EarthGov has us on is a dead end.  One that only Unitology has the answer to.  Altman has foreseen it, and we are blessed to execute it.  Prepare yourselves brothers and sisters, Convergence is nigh.<==>Los pasos de Altman\nUna publicación para los seguidores de Michael Altman\n\nNosotros, los hijos de la Efigie, nos cansamos de los opresivos ataques, apenas disimulados, del gobierno de La Tierra a nuestro derecho de libre adoración.  Reducción del horario de actividad de la Iglesia, restricciones oficiales de la duración de los actos de renacimiento, necesidad de permisos para la distribución de literatura... Todos son intentos mal camuflados de acallar la verdad. NUESTRA VERDAD. Y no lo lograrán. Las medidas blasfemas, cortas de miras, temerarias, destructivas e inútiles que el gobierno de la Tierra nos ha impuesto constituyen un callejón sin salida. Uno para el que solo la Uniología tiene la respuesta. Altman lo predijo y nosotros tenemos el privilegio de ejecutarlo. Preparaos, hermanos y hermanas, la Convergencia está próxima.-->Os Passos de Altman\nUma publicação para os seguidores de Michael Altman\n\nNós, os filhos do Marker, nos cansamos dos opressivos ataques, apenas dissimulados, do governo da Terra contra nosso direito de livre adoração.  Redução do horário de atividade da Igreja, restrições oficiais da duração dos atos de renascimento, necessidade de autorização para distribuição de literatura...   Tudo isso são tentativas mal camufladas de silenciar a verdade.  A NOSSA VERDADE.   E eles não terão sucesso.   As medidas blasfemas, míopes, temerárias, destrutivas e inúteis que o governo da Terra nos impôs levam a um beco sem saída.  Um para o qual só a Unitologia tem a resposta.  Altman previu isso, e nós temos o privilégio de executá-lo.  Preparem-se irmãos e irmãs, a Convergência está próxima.
+(4011)You unlocked increased melee damage for the Spitter<==>Has desbloqueado más daño cuerpo a cuerpo para el escupidor.-->Você desbloqueou mais danos corpo-a-corpo para o cuspidor.
+(4012)ALL OBJECTIVES\nCOMPLETE<==>TODOS LOS OBJETIVOS\nCOMPLETADOS-->TODOS OBJETIVOS\nCONCLUÍDOS
+(4013)EARTHGOV PULSE RIFLE<==>RIFLE DE IMPULSOS DEL GOBIERNO-->RIFLE DE IMPULSOS DO GOVERNO DA TERRA
 (4014)spitter<==>escupidor-->cuspidor
-(4015)primary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>disparo principal: jabalina explosiva \ndisparo secundaro: detona la última jabalina disparada-->Disparo Principal: dardo explosivo\nDisparo Secundário: detone o último dardo disparado
-(4016)primary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>disparo principal: jabalina explosiva \ndisparo secundaro: detona la última jabalina disparada-->Disparo Principal: dardo explosivo\nDisparo Secundário: detone o último dardo disparado
-(4017)Online Pass is non-transferable.  Online features can be discontinued at any time with 30-days' notice at http://www.ea.com/2/service-updates.<==>El pase online es intransferible. Las funciones online pueden dejar de estar disponibles en cualquier momento, transcurridos 30 días de la publicación de un aviso en http://www.ea.com/2/service-updates.-->Passe Online é intransferível.  Recursos Online podem ser interrompidos a qualquer momento com uma antecedência de 30 dias após a publicação do aviso http://www.ea.com/2/service-updates.
-(4018)ALL POINTS BULLETIN\nFrom: Hans Tiedemann\nDirector of Operations\nEarth Government Colonial Alliance\n\nTo: All active security units, Public Sector, Titan Station\n\nSubject: Project Telomere, termination of fugitives\n\n1. All "Key Subject" designates of Project Telomere are to be terminated immediately.\n2. Any escaping subjects are fugitive status.   Their recovery and termination take priority over all other standing or procedural orders until further notice.\nCurrently outstanding fugitives:\n   a. Stross, Nolan. PTPID: 5\n   b. Clarke, Isaac. PTPID: 4\n3.  Do not leave your posts under any circumstances until this order is rescinded.<==>BOLETÍN INFORMATIVO\nDe: Hans Tiedemann\nDirector de operaciones\nAlianza colonial del gobierno de la Tierra\n\nPara: Todas las unidades de seguridad activas, sector público, estación Titán\n\nAsunto: Proyecto Telómero, aniquilación de fugitivos\n\n1. Todos los denominados "sujetos clave" del Proyecto Telómero deben ser aniquilados de inmediato.\n2. Cualquier sujeto huido se considera un fugitivo. Su captura y aniquilación adquieren prioridad sobre cualquier otra orden pendiente o de procedimiento hasta nuevo aviso.\nFugitivos actuales destacados:\n   a. Stross, Nolan. PTPID: 5\n   b. Clarke, Isaac. PTPID: 4\n3.  No abandonen sus puestos bajo ninguna circunstancia hasta que esta orden se rescinda.-->BOLETIM INFORMATIVO\nDe: Hans Tiedemann\nDiretor de Operações\nAliança Colonial do Governo da Terra\n\nPara: Todas as unidades de segurança ativas, Setor Público, Estação Titã\n\nAssunto: Projeto Telômero, aniquilação de fugitivos\n\n1. Todos os designados "Sujeitos Chave" do Projeto Telômero devem ser aniquilados imediatamente.\n2. Qualquer fuga do sujeito o considera um foragido.   Sua captura e exterminio têm prioridade sobre todas as outras ordens pendentes e de procedimento até novo aviso.\nFugitivos atualmente em circulação:\n   a. Stross, Nolan. PTPID: 5\n   b. Clarke, Isaac. PTPID: 4\n3.  Não deixem seus postos sob nenhuma circunstância, até esta ordem ser revogada.
-(4019)Help!  Help me!  Can you hear me?  Is anyone out there?   I'm trapped in here!   I think I hear something in my vent!   Oh my God, what's happening?  Where is everyone?   I can't get out!  <==>¡Ayuda! ¡Ayúdenme! ¿Pueden oírme? ¿Hay alguien ahí? ¡Estoy atrapada! ¡Creo que oigo algo en el conducto! ¡Oh, Dios, ¿qué está pasando?! ¿Dónde están todos? ¡No puedo salir!-->Ajuda!  Me ajude!  Você pode me ouvir?  Tem alguém aí?   Estou preso aqui!   Acho que ouvi algo nos dutos!   Oh meu Deus, o que está acontecendo?  Cadê todo mundo?   Eu não posso sair!  
+(4015)primary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>disparo principal: jabalina explosiva \ndisparo secundaro: detona la última jabalina disparada-->disparo principal: dardo explosivo\ndisparo secundário: detona o último dardo disparado
+(4016)primary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>disparo principal: jabalina explosiva \ndisparo secundaro: detona la última jabalina disparada-->disparo principal: dardo explosivo\ndisparo secundário: detona o último dardo disparado
+(4017)Online Pass is non-transferable.  Online features can be discontinued at any time with 30-days' notice at http://www.ea.com/2/service-updates.<==>El pase online es intransferible. Las funciones online pueden dejar de estar disponibles en cualquier momento, transcurridos 30 días de la publicación de un aviso en http://www.ea.com/2/service-updates.-->O passe Online é intransferível.  As funções online podem deixar de estar disponíveis a qualquer momento, transcorridos 30 dias da publicação de um aviso em http://www.ea.com/2/service-updates.
+(4018)ALL POINTS BULLETIN\nFrom: Hans Tiedemann\nDirector of Operations\nEarth Government Colonial Alliance\n\nTo: All active security units, Public Sector, Titan Station\n\nSubject: Project Telomere, termination of fugitives\n\n1. All "Key Subject" designates of Project Telomere are to be terminated immediately.\n2. Any escaping subjects are fugitive status.   Their recovery and termination take priority over all other standing or procedural orders until further notice.\nCurrently outstanding fugitives:\n   a. Stross, Nolan. PTPID: 5\n   b. Clarke, Isaac. PTPID: 4\n3.  Do not leave your posts under any circumstances until this order is rescinded.<==>BOLETÍN INFORMATIVO\nDe: Hans Tiedemann\nDirector de operaciones\nAlianza colonial del gobierno de la Tierra\n\nPara: Todas las unidades de seguridad activas, sector público, estación Titán\n\nAsunto: Proyecto Telómero, aniquilación de fugitivos\n\n1. Todos los denominados "sujetos clave" del Proyecto Telómero deben ser aniquilados de inmediato.\n2. Cualquier sujeto huido se considera un fugitivo. Su captura y aniquilación adquieren prioridad sobre cualquier otra orden pendiente o de procedimiento hasta nuevo aviso.\nFugitivos actuales destacados:\n   a. Stross, Nolan. PTPID: 5\n   b. Clarke, Isaac. PTPID: 4\n3.  No abandonen sus puestos bajo ninguna circunstancia hasta que esta orden se rescinda.-->BOLETIM INFORMATIVO\nDe: Hans Tiedemann\nDiretor de Operações\nAliança Colonial do Governo da Terra\n\nPara: Todas as unidades de segurança ativas, setor público, estação Titã\n\nAssunto: Projeto Telômero, aniquilação de fugitivos\n\n1. Todos os denominados "sujeitos chave" do Projeto Telômero devem ser aniquilados de imediato.\n2. Qualquer sujeito que escapou é considerado fugitivo.   Sua captura e aniquilação têm prioridade sobre qualquer outra ordem pendente ou de procedimento até novo aviso.\nFugitivos em destaque:\n   a. Stross, Nolan. PTPID: 5\n   b. Clarke, Isaac. PTPID: 4\n3.  Não abandonem seus postos sob nenhuma circunstância, até que essa ordem seja revogada.
+(4019)Help!  Help me!  Can you hear me?  Is anyone out there?   I'm trapped in here!   I think I hear something in my vent!   Oh my God, what's happening?  Where is everyone?   I can't get out!  <==>¡Ayuda! ¡Ayúdenme! ¿Pueden oírme? ¿Hay alguien ahí? ¡Estoy atrapada! ¡Creo que oigo algo en el conducto! ¡Oh, Dios, ¿qué está pasando?! ¿Dónde están todos? ¡No puedo salir!-->Socorro!  Alguém me ajude!  Alguém está me ouvindo?  Tem alguém aí?   Estou presa aqui!   Acho que ouvi algo nos dutos!   Oh meu Deus, o que está acontecendo?  Onde está todo mundo?   Não consigo sair!  
 (4020-IGUAIS)5
 (4021)SCHEMATICS<==>DIAGRAMAS-->DIAGRAMAS
-(4022)Art Leads<==>Jefes de diseño-->Artistas Chefes
-(4023)Art Specialist<==>Especialista de diseño-->Artistas Especialistas
+(4022)Art Leads<==>Jefes de diseño-->Chefes de Artiste
+(4023)Art Specialist<==>Especialista de diseño-->Especialistas de Artes
 (4024-IGUAIS)Nancy Fong
 (4025-IGUAIS)1
-(4026)Senior QA Project Lead<==>Jefe de proyecto de control de calidad sénior-->Chefe do Controle de Qualidade Sênior
+(4026)Senior QA Project Lead<==>Jefe de proyecto de control de calidad sénior-->Chefe do Projeto de Controle de Qualidade Sênior
 (4027)CAPTAIN'S RIG<==>DRI DEL CAPITÁN-->DRI DO CAPITÃO
-(4028)//cleared game//<==>//Completada//-->//jogo limpo//
+(4028)//cleared game//<==>//Completada//-->//jogo concluído//
 (4029-IGUAIS)16
 (4030-IGUAIS)0
 (4031-IGUAIS)0
@@ -4038,95 +4038,95 @@
 (4037-IGUAIS)Jim Cummings
 (4038-IGUAIS)Liu Hui Yuan
 (4039)Who are you?<==>¿Quién eres?-->Quem é você?
-(4040)Why?  What's going on?<==>¿Por qué? ¿Qué sucede?-->Po quê? O que está acontecendo?
+(4040)Why?  What's going on?<==>¿Por qué? ¿Qué sucede?-->Por quê? O que está acontecendo?
 (4041)No, no, it's ok. It's ok. How you doing?<==>No, no, está bien. Está bien. ¿Cómo te va?-->Não, não, está tudo bem. Está tudo bem. Como está indo?
-(4042)Well enjoy it while it lasts. You know they're going to decommission her next year.<==>Disfrútalo mientras dure. El año que viene la retirarán del servicio.-->Bem, aproveite enquanto dura. Você sabe que ano que vem eles vão encerrar o serviço.
+(4042)Well enjoy it while it lasts. You know they're going to decommission her next year.<==>Disfrútalo mientras dure. El año que viene la retirarán del servicio.-->Bem, aproveite enquanto dura. Você sabe que ano que vem eles vão retirá-la do serviço.
 (4043)For what?<==>¿Por qué?-->Por quê?
-(4044)Well, just remember, I'm giving you up for six months so you can do this.<==>Recuerda que te he dejado ir seis meses para que puedas hacer esto.-->Bem, apenas lembre, que eu deixei você por seis meses para que você pudesse fazer isto.
-(4045)Isaac? Isaac? Can you hear me? I'll call you as soon as I can okay?<==>¿Isaac? ¿Isaac? ¿Me oyes? ¡Te llamaré en cuanto pueda! ¿Vale?-->Isaac? Isaac? Você pode me ouvir? Vou te chamar assim que possível, ok?
-(4046)I fell into a Surgery Pit, I'm locked in.<==>He caído en una sala de cirugía. Estoy encerrado.-->Eu caí em uma Sala de Cirurgia, estou trancado nela.
+(4044)Well, just remember, I'm giving you up for six months so you can do this.<==>Recuerda que te he dejado ir seis meses para que puedas hacer esto.-->Bem, lembre-se que estou te dando seis meses para que possa fazer isso.
+(4045)Isaac? Isaac? Can you hear me? I'll call you as soon as I can okay?<==>¿Isaac? ¿Isaac? ¿Me oyes? ¡Te llamaré en cuanto pueda! ¿Vale?-->Isaac? Isaac? Você está me ouvindo? Vou te ligar assim que puder, ok?
+(4046)I fell into a Surgery Pit, I'm locked in.<==>He caído en una sala de cirugía. Estoy encerrado.-->Eu caí em uma sala de cirurgia. Estou preso nela.
 (4047)I'll look around.<==>Echaré un vistazo.-->Vou dar uma olhada.
-(4048)Daina, there's a security lockdown!  I'm trapped!<==>¡Daina, hay un bloqueo de seguridad! ¡Estoy atrapado!-->Daina, há uma trava de segurança!  Estou preso!
+(4048)Daina, there's a security lockdown!  I'm trapped!<==>¡Daina, hay un bloqueo de seguridad! ¡Estoy atrapado!-->Daina, há um bloqueio de segurança!  Estou preso!
 (4049)Look, I don't need your help.<==>Mira, no necesito tu ayuda.-->Olha, eu não preciso da sua ajuda.
 (4050)aw shit.  <==>Joder.-->Ah, merda.  
-(4051)Daina?  Daina! Okay, you're right.  I do need your help.   Talk to me.<==>¿Daina? ¡Daina! Vale, tienes razón. Necesito tu ayuda. Háblame.-->Daina?  Daina! Ok, você está certa.  Eu preciso da sua ajuda.   Fale comigo.
-(4052)Oh yeah..<==>Eso es...-->Oh sim..
+(4051)Daina?  Daina! Okay, you're right.  I do need your help.   Talk to me.<==>¿Daina? ¡Daina! Vale, tienes razón. Necesito tu ayuda. Háblame.-->Daina?  Daina! Tudo bem, você tem razão.  Preciso da sua ajuda.   Fale comigo.
+(4052)Oh yeah..<==>Eso es...-->Ah sim...
 (4053)Where , where am I?<==>¿Dónde, dónde estoy?-->Onde, onde eu estou?
 (4054)Holy Shit!<==>¡Mierda!-->Puta Merda!
-(4055)Jeezus that thing was angry. Daina?  I'm out of the hospital.<==>Madre mía, esa cosa estaba cabreada. ¿Daina? Salgo del hospital.-->Jeesus, esta coisa estava com raiva. Daina?  Estou fora do hospital.
-(4056)Hang on. I need more answers.  How long have I been here?  <==>Espera. Necesito más respuestas. ¿Cuánto tiempo llevo aquí?-->Segurem-se. Preciso de mais respostas.  Há quanto tempo estou aqui?  
-(4057)Why can't I remember anything?<==>¿Por qué no recuerdo nada?-->Por que não consigo lembrar de nada?
-(4058)You said you could fix it, right?<==>Has dicho que podías arreglarlo.-->Você disse que poderia concertá-lo, certo?
-(4059)Listen to me man!<==>¡Escúcheme!-->Me ouça cara!
-(4060)Listen to me!<==>¡Escúcheme!-->Me ouça!
-(4061)We can both get out of here. Just, just cut me out of this straightjacket!<==>Podemos salir de aquí. Solo... ¡Quíteme esta camisa de fuerza!-->Nós dois podemos sair daqui. Apenas,... corte esta camisa de força!
-(4062)Take it easy buddy... just take it easy.<==>Tranquilícese, amigo... Tranquilícese.-->Acalme-se, amigo... apenas acalme-se.
-(4063)Daina, I need a new route.<==>Daina, necesito otra ruta.-->Daina, eu preciso de uma nova rota.
-(4064)Unscheduled stop. Where am I?<==>Parada imprevista. ¿Dónde estoy?-->Parada não programada. Onde estou?
-(4065)Everything's going to hell and they're still chasing me?<==>¿Todo está a punto de irse al infierno, y aún van a por mí?-->Tudo está indo para o inferno e eles ainda estão me perseguindo?
-(4066)Daina, some crazy guy keeps contacting me. I saw him back at the hospital.<==>Daina, hay un tipo raro que se pone en contacto conmigo. Lo vi en el hospital.-->Daina, algum louco mantém contato comigo. Eu o vi em volta do hospital.
+(4055)Jeezus that thing was angry. Daina?  I'm out of the hospital.<==>Madre mía, esa cosa estaba cabreada. ¿Daina? Salgo del hospital.-->Meu Deus, essa coisa estava nervosa. Daina?  Saí do hospital.
+(4056)Hang on. I need more answers.  How long have I been here?  <==>Espera. Necesito más respuestas. ¿Cuánto tiempo llevo aquí?-->Espere. Preciso de mais respostas.  Há quanto tempo estou aqui?  
+(4057)Why can't I remember anything?<==>¿Por qué no recuerdo nada?-->Por que não consigo me lembrar de nada?
+(4058)You said you could fix it, right?<==>Has dicho que podías arreglarlo.-->Você disse que poderia consertá-lo, certo?
+(4059)Listen to me man!<==>¡Escúcheme!-->Ei, escute o que estou dizendo!
+(4060)Listen to me!<==>¡Escúcheme!-->Escute o que estou dizendo!
+(4061)We can both get out of here. Just, just cut me out of this straightjacket!<==>Podemos salir de aquí. Solo... ¡Quíteme esta camisa de fuerza!-->Nós dois podemos sair daqui. Só... tire de mim essa camisa de força!
+(4062)Take it easy buddy... just take it easy.<==>Tranquilícese, amigo... Tranquilícese.-->Fique calmo, amigo... fique calmo.
+(4063)Daina, I need a new route.<==>Daina, necesito otra ruta.-->Daina, preciso de uma outra rota.
+(4064)Unscheduled stop. Where am I?<==>Parada imprevista. ¿Dónde estoy?-->Parada imprevista. Onde estou?
+(4065)Everything's going to hell and they're still chasing me?<==>¿Todo está a punto de irse al infierno, y aún van a por mí?-->Está tudo indo para o inferno e eles ainda estão me perseguindo?
+(4066)Daina, some crazy guy keeps contacting me. I saw him back at the hospital.<==>Daina, hay un tipo raro que se pone en contacto conmigo. Lo vi en el hospital.-->Daina, um sujeito maluco está entrando em contato comigo. Eu o vi no hospital.
 (4067)Yeah? Well, I think he wants something.<==>¿Sí? Bueno, creo que quiere algo.-->Sim? Bem, acho que ele quer alguma coisa.
-(4068)I'll be careful.<==>Tendré cuidado.-->Serei cuidadoso.
-(4069)Daina, I thought you were routing me to residential. This looks like… a Unitology recruitment center?  Am I still on track? <==>Daina, creía que me enviabas al sector residencial. Esto parece... un centro de reclutamiento de la Uniología. ¿Voy bien?-->Daina, eu pensei que você estava me encaminhando para o residencial. Isto parece ser… um centro de recrutamento de Unitologia?  Estou no caminho certo? 
-(4070)Daina! Tiedemann's soldiers have found me! They're tracking me in some sort of gunship!<==>¡Daina! ¡Los soldados de Tiedemann me han encontrado! ¡Me siguen en una especie de nave!-->Daina! Soldados Tiedemann me encontraram! Eles estão atrás de mim em algum tipo de nave!
+(4068)I'll be careful.<==>Tendré cuidado.-->Tomarei cuidado.
+(4069)Daina, I thought you were routing me to residential. This looks like… a Unitology recruitment center?  Am I still on track? <==>Daina, creía que me enviabas al sector residencial. Esto parece... un centro de reclutamiento de la Uniología. ¿Voy bien?-->Daina, pensei que você estava me encaminhando para o residencial. Isso parece... um centro de recrutamento da Unitologia?  Estou no caminho certo? 
+(4070)Daina! Tiedemann's soldiers have found me! They're tracking me in some sort of gunship!<==>¡Daina! ¡Los soldados de Tiedemann me han encontrado! ¡Me siguen en una especie de nave!-->Daina! Os soldados de Tiedemann me encontraram! Eles estão me seguindo em alguma espécie de nave!
 (4071)Daina, what the hell route is this?<==>Daina, ¿qué clase de ruta es esta?-->Daina, que diabos de caminho é esse?
-(4072)Fly against the flow of the garbage.  Wonderful.<==>Avanzar contra el tráfico de residuos. Fantástico.-->Avance contra o fluxo dos resíduos.  Maravilha.
+(4072)Fly against the flow of the garbage.  Wonderful.<==>Avanzar contra el tráfico de residuos. Fantástico.-->Avançar contra o tráfico de resíduos.  Fantástico.
 (4073)Daina?  The Church of Unitology?  Why here?<==>¿Daina? ¿La Iglesia de la Uniología? ¿Por qué aquí?-->Daina?  A Igreja da Unitologia?  Por que aqui?
-(4074)No, Daina, we shouldn't be in here.  This is the last place we want to be right now…<==>No, Daina, no deberíamos estar aquí. Este es el último lugar en el que queremos estar ahora mismo...-->Não, Daina, não deveríamos estar aqui.  Este é o último lugar onde quero estar agora…
+(4074)No, Daina, we shouldn't be in here.  This is the last place we want to be right now…<==>No, Daina, no deberíamos estar aquí. Este es el último lugar en el que queremos estar ahora mismo...-->Não, Daina, não deveríamos estar aqui.  Esse é o último lugar onde queremos estar agora...
 (4075)Stross. Yes I see the symbols. <==>Stross. Sí, veo los símbolos.-->Stross. Sim, eu vejo os símbolos. 
-(4076)Work together?  Who's them? You mean Tiedemann?  Stross?  Work with me Stross!<==>¿Colaborar? ¿Quiénes son ellos? ¿Te refieres a Tiedemann? ¿Stross? ¡Contéstame, Stross!-->Colaborar?  Quem são eles? Quer dizer, Tiedemann?  Stross?  Me responda Stross!
-(4077)Dammit!<==>¡Maldita sea!-->Caramba!
-(4078)Daina I'm locked out. There's something in the church. It broke the door!<==>Daina, estoy encerrado. Hay algo en la Iglesia. ¡Ha roto la puerta!-->Daina estou trancado. Há algo na igreja. Ele quebrou a porta!
-(4079) Daina you still with me? I've reached the top of the church.<==>Daina, ¿sigues ahí? Estoy en lo alto de la iglesia.--> Daina você ainda está comigo? Eu já atingi o topo da igreja.
-(4080)No, but I think I've seen it.<==>No, pero me parece verla.-->Não, mas eu acho que eu vi.
+(4076)Work together?  Who's them? You mean Tiedemann?  Stross?  Work with me Stross!<==>¿Colaborar? ¿Quiénes son ellos? ¿Te refieres a Tiedemann? ¿Stross? ¡Contéstame, Stross!-->Colaborar?  Quem são eles? Você quer dizer, Tiedemann?  Stross?  Me responda Stross!
+(4077)Dammit!<==>¡Maldita sea!-->Droga!
+(4078)Daina I'm locked out. There's something in the church. It broke the door!<==>Daina, estoy encerrado. Hay algo en la Iglesia. ¡Ha roto la puerta!-->Daina, estou preso. Há algo na igreja. Ele quebrou a porta!
+(4079) Daina you still with me? I've reached the top of the church.<==>Daina, ¿sigues ahí? Estoy en lo alto de la iglesia.--> Daina você ainda está comigo? Estou no topo da igreja.
+(4080)No, but I think I've seen it.<==>No, pero me parece verla.-->Não, mas eu acho que a vi.
 (4081)Nicole...?<==>¿Nicole...?-->Nicole...?
 (4082)Right.  thanks.<==>Bien. Gracias.-->Certo.  Obrigado.
 (4083)Holy shiiiiiiiiiiiiiiiit!<==>¡Jodeeeeeeeeeeeeeeeer!-->Puta Meeeeeeeeeerda!
 (4084)I don't understand.  What steps?<==>No entiendo nada. ¿Qué pasos?-->Eu não entendo.  Quais passos?
-(4085)Oh God, Ellie!<==>¡Oh, dios, Ellie!-->Oh Bom, Ellie!
-(4086)Stross!  What are you…Hey!…Stop!<==>¡Stross! ¿Qué estás...? ¡Eh!... ¡Para!-->Stross!  O que você está…Ei!…Pare!
-(4087)Stross, Stop it!  It's me!  It's Isaac!<==>¡Stross, para! ¡Soy yo! ¡Soy Isaac!-->Stross, Pare com isso!  Sou eu!  O Isaac!
+(4085)Oh God, Ellie!<==>¡Oh, dios, Ellie!-->Oh, deus, Ellie!
+(4086)Stross!  What are you…Hey!…Stop!<==>¡Stross! ¿Qué estás...? ¡Eh!... ¡Para!-->Stross!  O que você está...Ei!...Pare!
+(4087)Stross, Stop it!  It's me!  It's Isaac!<==>¡Stross, para! ¡Soy yo! ¡Soy Isaac!-->Stross, pare com isso!  Sou eu!  Isaac!
 (4088)Stross! STROSS!<==>¡Stross! ¡STROSS!-->Stross! STROSS!
-(4089)You sure this is the right way? How can you tell where you're going?<==>¿Seguro que es por aquí? ¿Cómo puedes saber a dónde vas?-->Tem certeza que este é o caminho certo? Você pode me dizer para onde estamos indo?
-(4090)Daina, the door to the ER doesn't recognize me.  It's closing before I can get through.<==>Daina, la puerta de urgencias no me reconoce. Se cierra antes de dejarme pasar.-->Daina, a porta de Emergência não me reconhece.  Está fechando antes que eu possa entrar.
-(4091)Stasis.  Got it, thanks.<==>Estabilización. Entendido, gracias.-->Estabilização.  Entendi, obrigado.
-(4092)I know.  I've had a lot of pracice.<==>Lo sé. Ya tengo práctica.-->Eu sei.  Eu tenho prática.
+(4089)You sure this is the right way? How can you tell where you're going?<==>¿Seguro que es por aquí? ¿Cómo puedes saber a dónde vas?-->Tem certeza que esse é o caminho certo? Você pode saber para onde estamos indo?
+(4090)Daina, the door to the ER doesn't recognize me.  It's closing before I can get through.<==>Daina, la puerta de urgencias no me reconoce. Se cierra antes de dejarme pasar.-->Daina, a porta de emergência não me reconhece.  Está fechando antes de me deixar passar.
+(4091)Stasis.  Got it, thanks.<==>Estabilización. Entendido, gracias.-->Estabilização.  Entendido, obrigado.
+(4092)I know.  I've had a lot of pracice.<==>Lo sé. Ya tengo práctica.-->Eu sei.  Já tenho prática na coisa.
 (4093)Thanks.<==>Gracias.-->Obrigado.
-(4094)What the fuck?<==>¿Qué cojones...?-->Que porra é essa?
+(4094)What the fuck?<==>¿Qué cojones...?-->Que droga é essa?
 (4095)Holy shit!<==>¡Mierda!-->Puta Merda!
-(4096)Whoa, are you…hold on…let me….oh shit!  FUCK!  <==>Eh, ¿estás...? Espera... Déjame... ¡Oh, mierda! ¡JODER!-->Uau, você está…espere…me deixe….Oh merda!  PORRA!  
+(4096)Whoa, are you…hold on…let me….oh shit!  FUCK!  <==>Eh, ¿estás...? Espera... Déjame... ¡Oh, mierda! ¡JODER!-->Uoa, você está...espera...me deixe...Ah, merda!  PORRA!  
 (4097)Hey!  Hey!  <==>¡Eh! ¡Eh!-->Ei!  Ei!  
 (4098)Perfect!<==>¡Genial!-->Perfeito!
-(4099)It's not.<==>No.-->Isto não.
-(4100)Dammit!<==>¡Maldita sea!-->Caramba!
+(4099)It's not.<==>No.-->Não.
+(4100)Dammit!<==>¡Maldita sea!-->Droga!
 (4101)Not now!<==>¡Ahora no!-->Agora não!
-(4102)Alright, I look for them.<==>Vale, los buscaré.-->Tudo bem, os buscarei.
-(4103)Daina? I think I've found the exit but it's way above me. Gravity controls are locked out. Daina? -- Fuck!<==>¿Daina? Creo que he encontrado la salida, pero está fuera de mi alcance. Los controles de gravedad están bloqueados. ¿Daina? Maldita sea.-->Daina? Eu acho que encontrei a saída, mas está longe de mim. Os controles de gravidade estão bloqueados. Daina? -- Porra!
+(4102)Alright, I look for them.<==>Vale, los buscaré.-->Tudo bem, eu vou atrás deles.
+(4103)Daina? I think I've found the exit but it's way above me. Gravity controls are locked out. Daina? -- Fuck!<==>¿Daina? Creo que he encontrado la salida, pero está fuera de mi alcance. Los controles de gravedad están bloqueados. ¿Daina? Maldita sea.-->Daina? Acho que encontrei a saída, mas está fora do meu alcance. Os controles de gravidade estão bloqueados. Daina? -- Droga!
 (4104)Faster, Ellie! Faster!<==>¡Más rápido, Ellie! ¡Rápido!-->Mais rápido, Ellie! Mais rápido!
 (4105)Now what? Change of plans?<==>¿Y ahora qué? ¿Cambio de planes?-->E agora? Mudança de planos?
-(4106)primary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>disparo principal: jabalina explosiva \ndisparo secundaro: detona la última jabalina disparada-->Disparo Principal: dardo explosivo\nDisparo Secundário: detone o último dardo disparado
+(4106)primary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>disparo principal: jabalina explosiva \ndisparo secundaro: detona la última jabalina disparada-->disparo principal: dardo explosivo\ndisparo secundário: detona o último dardo disparado
 (4107-IGUAIS)Fathom
-(4108)IGNITION SEQUENCE INITIATED\nPLEASE STAND BY...<==>SECUENCIA DE IGNICIÓN ACTIVADA.\nESPERE.-->SEQÜÊNCIA DE IGNIÇÃO INICIADO\nPOR FAVOR ESPERE...
+(4108)IGNITION SEQUENCE INITIATED\nPLEASE STAND BY...<==>SECUENCIA DE IGNICIÓN ACTIVADA.\nESPERE.-->SEQUÊNCIA DE IGNIÇÃO INICIADA\nPOR FAVOR AGUARDE...
 (4109)Unlocked at level 45<==>Desbloqueado en el nivel 45-->Desbloqueado no nível 45
-(4110)FIND THE DATA BOARD<==>BUSCA EL PANEL DE DATOS-->ENCONTRE A PLACA DE DADOS
-(4111)Flamethrower Schematic<==>Diagrama de lanzallamas-->Diagrama de Lança-chamas
+(4110)FIND THE DATA BOARD<==>BUSCA EL PANEL DE DATOS-->ENCONTRE O PAINEL DE DADOS
+(4111)Flamethrower Schematic<==>Diagrama de lanzallamas-->Diagrama do Lança-chamas
 (4112)Senior Core Engineers<==>Ingenieros de núcleo sénior-->Engenheiros de Núcleo Senior
-(4113)Press [LDLeft]<==>Pulsa [LDLeft].-->Aperte [LDLeft]
+(4113)Press [LDLeft]<==>Pulsa [LDLeft].-->Pressione [LDLeft]
 (4114)Unable to delete %1.<==>Imposible borrar %1.-->Impossível excluir %1.
 (4115-IGUAIS)1
 (4116)Hold A<==>Hold A1Å-->Segure A
-(4117)Why are you doing this? Why can't everyone leave me alone?<==>¿Por qué haces esto? ¿Por qué no me deja en paz todo el mundo?-->Por que você está fazendo isto? Por que ninguém pode me deixar sozinho?
+(4117)Why are you doing this? Why can't everyone leave me alone?<==>¿Por qué haces esto? ¿Por qué no me deja en paz todo el mundo?-->Por que você está fazendo isso? Por que todo mundo não me deixa em paz?
 (4118)What are you talking about?<==>¿De qué diablos hablas?-->Do que você está falando?
-(4119)You people are unbelievable. Just give me the fucking cure and let me go.<==>Estáis como cabras. Dame la maldita cura y deja que me vaya.-->Vocês são inácreditáveis. Apenas me dê a porra da cura e me deixe ir.
-(4120)Take it easy. I'm not going to hurt you…<==>No te preocupes. No te haré daño...-->Não se preocupe. Eu não vou te machucar…
-(4121)Look, I think we got off to a bad start here. I'm Isaac.<==>Oye, creo que hemos empezado con mal pie. Soy Isaac.-->Olha, eu acho que tivemos um mal começo aqui. Eu sou Isaac.
-(4122)I'm trying to get to the Transport Hub. I need to get to the Government Sector.<==>Intento llegar al nodo de transporte. Debo acudir al sector gubernamental.-->Estou tentando chegar ao Centro de Transporte. Eu preciso chegar ao Setor Governamental.
-(4123)Hey I can help you. Besides, we got a better chance if we stick together. Don't you agree?<==>Eh, puedo ayudarte. Tendremos más probabilidades si avanzamos juntos. ¿No estás de acuerdo?-->Ei, eu posso te ajudar. Além disso, temos uma chance melhor se ficarmos juntos. Não concorda?
-(4124)I'm not listening to this. You may fool Stross, but I know you're not real.<==>No pienso escucharte. Puede que engañes a Stross, pero sé que no eres real.-->Eu não estou ouvindo isto. Você pode enganar Stross, mas eu sei que você não é real.
-(4125) You're just a hallucination! Stross knows how to destroy you!  He knows how to destroy the Marker. We will destroy you!<==>¡Eres una alucinación! Stross sabe cómo acabar contigo. Sabe cómo destruir la Efigie. Te vamos a destruir.--> Você é apenas uma alucinação! Stross sabe como te destruir!  Ele sabe como destruir o Marker. Nós vamos te destruir!
+(4119)You people are unbelievable. Just give me the fucking cure and let me go.<==>Estáis como cabras. Dame la maldita cura y deja que me vaya.-->Vocês são inacreditáveis. Só me dê a maldita cura e me deixe ir.
+(4120)Take it easy. I'm not going to hurt you…<==>No te preocupes. No te haré daño...-->Não se preocupe. Eu não vou te machucar...
+(4121)Look, I think we got off to a bad start here. I'm Isaac.<==>Oye, creo que hemos empezado con mal pie. Soy Isaac.-->Olha, eu acho que começamos com o pé esquerdo. Eu sou Isaac.
+(4122)I'm trying to get to the Transport Hub. I need to get to the Government Sector.<==>Intento llegar al nodo de transporte. Debo acudir al sector gubernamental.-->Estou tentando chegar ao centro de transporte. Preciso chegar no setor governamental.
+(4123)Hey I can help you. Besides, we got a better chance if we stick together. Don't you agree?<==>Eh, puedo ayudarte. Tendremos más probabilidades si avanzamos juntos. ¿No estás de acuerdo?-->Ei, eu posso te ajudar. Além disso, temos mais chances se formos juntos. Não concorda?
+(4124)I'm not listening to this. You may fool Stross, but I know you're not real.<==>No pienso escucharte. Puede que engañes a Stross, pero sé que no eres real.-->Eu não estou te ouvindo. Você pode ter enganado Stross, mas eu sei que não é real.
+(4125) You're just a hallucination! Stross knows how to destroy you!  He knows how to destroy the Marker. We will destroy you!<==>¡Eres una alucinación! Stross sabe cómo acabar contigo. Sabe cómo destruir la Efigie. Te vamos a destruir.--> Você é só uma alucinação! Stross sabe como acabar com você.  Ele sabe como destruir o Marker. Nós vamos te destruir!
 (4126)Wait, you're CEC?<==>Espera, ¿eres de CEC?-->Espere, você é da CEC?
 (4127)Engineer.<==>Ingeniero.-->Engenheiro.
-(4128)Are you insane? You cut off power to life support! There may be other survivors over here!<==>¿Estás loco? ¡Has cortado la electricidad del soporte vital! ¡Puede que haya más supervivientes!-->Você está louco? Você cortou a energia de suporte vital! Pode haver outros sobreviventes aqui!
+(4128)Are you insane? You cut off power to life support! There may be other survivors over here!<==>¿Estás loco? ¡Has cortado la electricidad del soporte vital! ¡Puede que haya más supervivientes!-->Você ficou louco? Você cortou a energia do suporte vital! Pode haver outros sobreviventes aqui!
 (4129)Ellie... Do you know what a marker is?<==>Ellie... ¿Tú sabes lo que es una Efigie?-->Ellie... Você sabe o que é um Marker?
 (4130)Yes it's real. Tiedemann made one using codes, patterns stored in our heads...mine and Stross. Everything that's happening on this station is happening because of that Marker. I have to get to it and destroy it and I need Stross to tell me how.<==>Sí, existe. Tiedemann fabricó una con códigos, patrones almacenados en mi cabeza y en la de Stross. Lo que pasa en esta estación se debe a esa Efigie. Debo acceder a ella y destruirla y necesito que Stross me diga cómo.-->Sim, isto é real. Tiedemann fez um usando códigos, padrões armazenados em minha cabeça...e na de Stross. Tudo o que está acontecendo nesta estação está acontecendo por causa desse Marker. Eu tenho que chegar à ele e destruí-lo e eu preciso que Stross me diga como.
 (4131)Will you help me?<==>¿Me vas a ayudar?-->Você vai me ajudar?
@@ -4578,7 +4578,7 @@
 (4577)Ellie's alive, and she's here!<==>¡Ellie está viva, y está aquí!-->Ellie está viva, e está aqui!
 (4578)Done<==>Terminado-->Feito
 (4579)Done<==>Terminado-->Feito
-(4580)This will upgrade your HIT POINTS by %g pts.<==>Se mejorarán los PUNTOS DE RESISTENCIA en %g pts.-->Isto irá atualizar seus PONTOS DE RESISTÊNCIA por %g pts.
+(4580)This will upgrade your HIT POINTS by %g pts.<==>Se mejorarán los PUNTOS DE RESISTENCIA en %g pts.-->Isso vai atualizar seus PONTOS DE RESISTÊNCIA por %g pts.
 (4581)off<==>No-->Não
 (4582)DECK B: PROCESSING<==>CUBIERTA B: PROCESAMIENTO-->PLATAFORMA B: PROCESSANDO
 (4583-IGUAIS)Tal Peleg
@@ -4738,7 +4738,7 @@
 (4737)Rear Left<==>Trasero izquierdo-->Traseiro Esquerdo
 (4738)Rear Right<==>Trasero derecho-->Traseiro Direito
 (4739)Use [LDLeft] with Locator to find Save Stations and more.<==>Usa [LDLeft] en el localizador para buscar otros puntos del mapa.-->Use [LDLeft] com o Localizador para encontrar Estações de Salvamento e mais coisas.
-(4740)FORCE ENERGY\nSchematic Acquired\nDownload at the Store<==>CARGA DE CAÑÓN DE ENERGÍA\nDiagrama adquirido\nDescargar en el almacén-->CARGA DO CANHÃO DE ENERGIA\nDiagrama Adquirido\nBaixe na Loja
+(4740)FORCE ENERGY\nSchematic Acquired\nDownload at the Store<==>CARGA DE CAÑÓN DE ENERGÍA\nDiagrama Adquirido\nDescargar en el almacén-->CARGA DO CANHÃO DE ENERGIA\nDiagrama Adquirido\nBaixe na Loja
 (4741)Saving %1. Please don't turn off your Xbox 360 console.<==>Guardando %1. No apagues la consola.-->Salvando %1. Por Favor não desligue o Xbox 360.
 (4742)OBJECTIVE\nCOMPLETE<==>OBJETIVO\nCOMPLETADO-->OBJETIVO\nCONCLUÍDO
 (4743)Golan, this is Hedrick.   You really don't hear anything when you're cleaning these bathrooms?  Every shift, I swear, I hear something in the walls, like a scratching noise.   When I stop moving, it stops.  When I move again, it waits a bit, then comes back.   Today, it followed me around, right under my feet, like it was stalking me. I... I...  I can't take this man.   This ship is cursed.  It is a bad, bad omen that it's here. I'm putting in for a transfer, you should too.<==>Golan, aquí Hedrick. ¿En serio no oyes nada cuando limpias esos baños? En todos los turnos, te lo juro, oigo cosas en las paredes, como alguien rascando. Si dejo de moverme, se detiene. Me vuelvo a mover, espera un poco, y vuelve a empezar. Hoy me siguió hasta donde yo iba, justo bajo mis pies, como si me acechara. No lo soporto, tío. Esta nave está maldita. Aquí hay una maldición. Voy a solicitar un traslado, y tú también deberías.-->Golan, aqui é o Hedrick. Você realmente não ouve nada quando está limpando esses banheiros?  Em todos os turnos, eu juro, ouço alguma coisa nas paredes, como se fosse um arranhão.   Quando eu fico parado, ele pára.  Quando eu me movo novamente, ele espera um pouco, então volta.   Hoje, ele me seguiu por ai, bem debaixo dos meus pés, como se estivesse me observando. Eu... Eu...  Eu não aguento isso cara. Essa nave é amaldiçoada.  Isso é ruim, é um mal presságio que está aqui. Eu estou pedindo transferência, e você deveria fazer o mesmo.
@@ -4761,10 +4761,10 @@
 (4760-IGUAIS)0
 (4761-IGUAIS)Ian Milham
 (4762)War Torn<==>Desgastado-->Desgastado
-(4763)ENGINEERING SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE INGENIERÍA\nDiagrama adquirido\nDescargar en el almacén-->TRAJE DE ENGENHEIRO\nDiagrama Adquirido\nBaixe na Loja
-(4764)SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD\nDiagrama adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA\nDiagrama Adquirido\nBaixe na Loja
-(4765)VINTAGE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE VINTAGE\nDiagrama adquirido\nDescargar en el almacén-->TRAJE VINTAGE\nDiagrama Adquirido\nBaixe na Loja
-(4766)ADVANCED SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE AVANZADO\nDiagrama adquirido\nDescargar en el almacén-->TRAJE AVANÇADA\nDiagrama Adquirido\nBaixe na Loja
+(4763)ENGINEERING SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE INGENIERÍA\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE ENGENHEIRO\nDiagrama Adquirido\nBaixe na Loja
+(4764)SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA\nDiagrama Adquirido\nBaixe na Loja
+(4765)VINTAGE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE VINTAGE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE VINTAGE\nDiagrama Adquirido\nBaixe na Loja
+(4766)ADVANCED SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE AVANZADO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE AVANÇADA\nDiagrama Adquirido\nBaixe na Loja
 (4767)Contact me about EA products, news and events.<==>Recibir información de productos, noticias y eventos de EA.-->Receber informações sobre produtos EA, notícias e eventos.
 (4768)ALT<==>SEC-->SEC
 (4769)OPEN / INTERACT<==>ABRIR / INTERACTUAR-->ABRIR / INTERAGIR
@@ -5255,7 +5255,7 @@
 (5254-IGUAIS)Español
 (5255-IGUAIS)Steve Papoutsis
 (5256)STASIS DOOR<==>PUERTA DE ESTABILIZACIÓN-->PORTA DE ESTABILIZAÇÃO
-(5257)FORCE GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN DE ENERGÍA\nDiagrama adquirido\nDescargar en el almacén-->CANHÃO DE ENERGIA\nDiagrama Adquirido\nBaixe na Loja
+(5257)FORCE GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN DE ENERGÍA\nDiagrama Adquirido\nDescargar en el almacén-->CANHÃO DE ENERGIA\nDiagrama Adquirido\nBaixe na Loja
 (5258)///brightness<==>///Brillo-->//Brilho
 (5259-IGUAIS)1
 (5260)GRIP SYMBOL<==>SÍMBOLO GRIP-->SÍMBOLO GRIP
@@ -5336,7 +5336,7 @@
 (5335-IGUAIS)1
 (5336-IGUAIS)!
 (5337-IGUAIS)!
-(5338)HACKER CONTACT BEAM\nSchematic Acquired\nDownload at the Store<==>RAYO DE CONTACTO DE PIRATEO\nDiagrama adquirido\nDescargar en el almacén-->RAIO DE CONTATO HACKER\nDiagrama Adquirido\nBaixe na Loja
+(5338)HACKER CONTACT BEAM\nSchematic Acquired\nDownload at the Store<==>RAYO DE CONTACTO DE PIRATEO\nDiagrama Adquirido\nDescargar en el almacén-->RAIO DE CONTATO HACKER\nDiagrama Adquirido\nBaixe na Loja
 (5339)Line Gun Schematic<==>Diagrama de cañón lineal-->Diagrama do Canhão Linear
 (5340-IGUAIS)0
 (5341)///downloads<==>///descargas-->//Downloads
@@ -5664,7 +5664,7 @@
 (5663)Audio<==>Sonido-->Áudio
 (5664)UI Programmers<==>Programadores de IU-->Programadores de IU
 (5665)QA Project Lead<==>Jefe de proyecto de control de calidad-->Chefe de Projeto de Controle de Qualidade
-(5666)JAVELIN SPEARS\nSchematic Acquired\nDownload at the Store<==>JABALINAS\nDiagrama adquirido\nDescargar en el almacén-->DARDOS\nDiagrama Adquirido\nBaixar no Armazém
+(5666)JAVELIN SPEARS\nSchematic Acquired\nDownload at the Store<==>JABALINAS\nDiagrama Adquirido\nDescargar en el almacén-->DARDOS\nDiagrama Adquirido\nBaixar no Armazém
 (5667)Rendezvous with Ellie.<==>Reúnete con Ellie.-->Encontre-se com Ellie.
 (5668-IGUAIS)Brandon Lukach
 (5669-IGUAIS)LINAC
@@ -5834,7 +5834,7 @@
 (5833-IGUAIS))
 (5834) PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!<==>Las minas Titán--> PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
 (5835)Oxygen Station Active<==>Estación de oxígeno activa-->Estação de Oxigênio Ativa
-(5836)MEDIUM MED PACK\nSchematic Acquired\nDownload at the Store<==>BOTIQUÍN MEDIANO\nDiagrama adquirido\nDescargar en el almacén-->KIT MÉDICO MÉDIO\nDiagrama Adquirido\nBaixar no Armazém
+(5836)MEDIUM MED PACK\nSchematic Acquired\nDownload at the Store<==>BOTIQUÍN MEDIANO\nDiagrama Adquirido\nDescargar en el almacén-->KIT MÉDICO MÉDIO\nDiagrama Adquirido\nBaixar no Armazém
 (5837)Lead Gameplay Designer<==>Jefe de diseño de juego-->Chefe de Design do Jogo
 (5838)Find a route to Government Sector.<==>Busca una ruta al sector gubernamental.-->Encontre uma rota para o Setor Governamental.
 (5839)SYSTEM OFFLINE<==>SISTEMA DESCONECTADO-->SISTEMA DESCONECTADO
@@ -5945,7 +5945,7 @@
 (5944)[LDLeft]Navigate<==>[LDLeft]Navegar-->[LDLeft]Navegar
 (5945)GAME STARTS IN<==>LA PARTIDA COMIENZA EN-->A PARTID COMEÇA EM
 (5946)Seeker Shells Schematic<==>Diagrama de proyectiles buscadores-->Diagrama de Projéteis Buscadores
-(5947)RIPPER\nSchematic Acquired\nDownload at the Store<==>SIERRA TRITURADORA\nDiagrama adquirido\nDescargar en el almacén-->SERRA TRITURADORA\nDiagrama Adquirido\nBaixe no Armazém
+(5947)RIPPER\nSchematic Acquired\nDownload at the Store<==>SIERRA TRITURADORA\nDiagrama Adquirido\nDescargar en el almacén-->SERRA TRITURADORA\nDiagrama Adquirido\nBaixe no Armazém
 (5948)Get to the escape pod.<==>Ve a la cápsula de escape.-->Vá para a cápsula de fuga.
 (5949)Maintenance Mode\nSystem Off Line<==>Modo mantenimiento\nSistema apagado-->Modo de Manutenção\nSistema Desconectado
 (5950)MINING ACCESS KEY<==>LLAVE ACCESO EXTRACCIÓN-->CHAVE DE ACESSO À EXTRAÇÃO
@@ -5974,10 +5974,10 @@
 (5973)Cassini Apartments<==>Apartamentos Cassini-->Apartamentos Cassini
 (5974)Marikina Towers<==>Torres Marikina-->Torres Marikina
 (5975)Aiden Young Plaza<==>Plaza Aiden Young-->Praça Aiden Young
-(5976)ENGINEERING ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE INGENIERÍA DE ÉLITE\nDiagrama adquirido\nDescargar en el almacén-->TRAJE DE ENGENHARIA DE ELITE\nDiagrama Adquirido\nBaixe no Armazém
-(5977)SECURITY ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD DE ÉLITE\nDiagrama adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA DE ELITE\nDiagrama Adquirido\nBaixe no Armazém
-(5978)VINTAGE ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE VINTAGE DE ÉLITE\nDiagrama adquirido\nDescargar en el almacén-->TRAJE VINTAGE DE ELITE\nDiagrama Adquirido\nBaixe no Armazém
-(5979)ADVANCED ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE AVANZADO DE ÉLITE\nDiagrama adquirido\nDescargar en el almacén-->TRAJE AVANÇADO DE ELITE\nDiagrama Adquirido\nBaixe no Armazém
+(5976)ENGINEERING ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE INGENIERÍA DE ÉLITE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE ENGENHARIA DE ELITE\nDiagrama Adquirido\nBaixe no Armazém
+(5977)SECURITY ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD DE ÉLITE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA DE ELITE\nDiagrama Adquirido\nBaixe no Armazém
+(5978)VINTAGE ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE VINTAGE DE ÉLITE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE VINTAGE DE ELITE\nDiagrama Adquirido\nBaixe no Armazém
+(5979)ADVANCED ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE AVANZADO DE ÉLITE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE AVANÇADO DE ELITE\nDiagrama Adquirido\nBaixe no Armazém
 (5980)A shock mine should do it.   There's plenty of parts down here.<==>Una mina expansiva servirá. Aquí hay un montón de piezas.-->Uma mina explosiva servirá.   Tem um monte de peças aqui em baixo.
 (5981)And stay together this time.<==>Y esta vez no os separéis.-->E desta vez fiquem juntos.
 (5982)I hope this works, I don't wanna end up one of them.<==>Espero que funcione. No quiero acabar como ellos.-->Espero que isso funcione. Eu não quero acabar como um deles.
@@ -6702,7 +6702,7 @@
 (6701)current level<==>Nivel actual-->current level
 (6702)Gravity\nactivated<==>Gravedad\nactivada-->Gravidade\nativada
 (6703)rotate camera<==>Rotar cámara-->girar camera
-(6704)PULSE RIFLE\nSchematic Acquired\nDownload at the Store<==>RIFLE DE IMPULSOS\nDiagrama adquirido\nDescargar en el almacén-->RIFLE DE PULSO\nEsquemas Adquiridos\nFaça o Download na Loja
+(6704)PULSE RIFLE\nSchematic Acquired\nDownload at the Store<==>RIFLE DE IMPULSOS\nDiagrama Adquirido\nDescargar en el almacén-->RIFLE DE PULSO\nEsquemas Adquiridos\nFaça o Download na Loja
 (6705)Processing load\nPlease stand by<==>Procesando carga.\nEspere.-->Processando carga\nPor favor aguarde
 (6706-IGUAIS)1
 (6707-IGUAIS)Jim Cummings
@@ -6859,7 +6859,7 @@
 (6858)Snare Government Sector with the Ishimura's gravity tethers.<==>Atrapa el sector gubernamental con los anclajes gravitatorios del Ishimura.-->Capture o Setor Governamental com a trava gravitacional da Ishimura.
 (6859)///audio<==>///Sonido-->///audio
 (6860)acquire<==>Adquirir-->adquirir
-(6861)LINE RACKS\nSchematic Acquired\nDownload at the Store<==>MUNICIÓN LINEAL\nDiagrama adquirido\nDescargar en el almacén-->MUNIÇÃO LINEAR\nEsquemas Adquiridos\nFaça o Download na Loja
+(6861)LINE RACKS\nSchematic Acquired\nDownload at the Store<==>MUNICIÓN LINEAL\nDiagrama Adquirido\nDescargar en el almacén-->MUNIÇÃO LINEAR\nEsquemas Adquiridos\nFaça o Download na Loja
 (6862-IGUAIS)John Edwards
 (6863-IGUAIS)1
 (6864)An EA account record with a conflicting name already exists. For Xbox LIVE accounts, the user cannot play EA games online until he or she contacts Microsoft technical support to change the gamertag.<==>Ya está registrada una cuenta EA con un nombre que provoca un conflicto. Para las cuentas de Xbox LIVE, el usuario no podrá jugar a juegos de EA online hasta contactar con el servicio técnico de Microsoft para cambiar el gamertag.-->Impossivel criar ID de usuario/EA ID devido ao email/displayname já existir.
