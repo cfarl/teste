@@ -1031,7 +1031,7 @@
 (1031)Franchise Art Director<==>Director de diseño de la franquicia-->Diretor de Arte da Franquia
 (1032-IGUAIS)Fly Sun
 (1033)TRAM CALL<==>MONORRAÍL-->CHAMAR TREM
-(1034)The gravity tethers won't function unless the main centrifuge is operational. Looks like the repair team was in the middle of upgrading the centrifuge unit - I'll have to finish the job.<==>Los anclajes gravitatorios no funcionarán a menos que la centrifugadora principal esté operativa. Parece que el equipo de reparación dejó a medias la mejora de la unidad centrifugadora; tendré que acabar el trabajo.-->As travas gravitacionais não funcionarão a menos que a centrífuga principal esteja operante. Parece que a equipe de reparos deixou pela metade o serviço de melhoria da unidade centrifugadora - você vai ter que terminar o trabalho.
+(1034)The gravity tethers won't function unless the main centrifuge is operational. Looks like the repair team was in the middle of upgrading the centrifuge unit - I'll have to finish the job.<==>Los anclajes gravitatorios no funcionarán a menos que la centrifugadora principal esté operativa. Parece que el equipo de reparación dejó a medias la mejora de la unidad centrifugadora; tendré que acabar el trabajo.-->As travas gravitacionais não funcionarão a menos que a centrifugadora principal esteja operante. Parece que a equipe de reparos deixou pela metade o serviço de melhoria da unidade centrifugadora - você vai ter que terminar o trabalho.
 (1035)Javelin Gun Schematic<==>Diagrama de cañón jabalina-->Diagrama do Canhão de Dardos
 (1036)Bring this schematic to the store to unlock the Seeker Rifle.<==>Lleva este diagrama al almacén para desbloquear el rifle buscador.-->Leve esse diagrama à loja para desbloquear o rifle buscador.
 (1037-IGUAIS)Shari Bryant
@@ -1559,13 +1559,13 @@
 (1559)ARMOR<==>BLINDAJE-->BLINDAGEM 
 (1560)Warning! Power drain in progress. Gravity systems and life support going off-line.<==>¡Alerta! Se está produciendo una pérdida de energía. Los sistemas de gravedad y de soporte vital se están desconectando.-->Atenção! Está ocoorrendo uma perda de energia. Os sistemas de gravidade e suporte vital estão sendo desligados.
 (1561)Warning:  There is an obstruction in the tram tunnel ahead.  Please disembark at the Medical Deck. You may use an alternate route.  A service technician has been notified of the delay.<==>Alerta: hay un obstáculo en el túnel del monorraíl. Desembarque en la cubierta médica. Puede seguir una ruta alternativa. Hemos notificado a un técnico de servicio del retraso.-->Alerta:   Há uma obstrução no túnel do trem. Desembarque na plataforma médica. Você pode usar uma rota alternativa. Um técnico de serviço foi notificado do atraso.
-(1562)Ishimura system status:  Gravity and Life support are on reserve power.  All primary systems are offline.    Main centrifuge is offline for repair order 8836.<==>Estado del sistema del Ishimura: la gravedad y el soporte vital están en reserva. Los sistemas primarios están desconectados. La centrifugadora principal está inactiva y pendiente de reparación, orden 8836.-->Estado do sistema da Ishimura:  a gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrífuga principal está desligada para reparos, ordem 8836.
-(1563)Ishimura system status:  Gravity and Life support are on reserve power.  All primary systems are offline.    Main centrifuge is offline for repair order 8836.<==>Estado del sistema del Ishimura: la gravedad y el soporte vital están en reserva. Los sistemas primarios están desconectados. La centrifugadora principal está inactiva y pendiente de reparación, orden 8836.-->Estado do sistema da Ishimura:  a gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrífuga principal está desligada para reparos, ordem 8836.
+(1562)Ishimura system status:  Gravity and Life support are on reserve power.  All primary systems are offline.    Main centrifuge is offline for repair order 8836.<==>Estado del sistema del Ishimura: la gravedad y el soporte vital están en reserva. Los sistemas primarios están desconectados. La centrifugadora principal está inactiva y pendiente de reparación, orden 8836.-->Estado do sistema da Ishimura:  a gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrifugadora principal está desligada para reparos, ordem 8836.
+(1563)Ishimura system status:  Gravity and Life support are on reserve power.  All primary systems are offline.    Main centrifuge is offline for repair order 8836.<==>Estado del sistema del Ishimura: la gravedad y el soporte vital están en reserva. Los sistemas primarios están desconectados. La centrifugadora principal está inactiva y pendiente de reparación, orden 8836.-->Estado do sistema da Ishimura:  a gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrifugadora principal está desligada para reparos, ordem 8836.
 (1564)Ejection sequence initiated.  Launch in 3 ... 2 ... 1.  Launch.<==>Secuencia de eyección iniciada. Lanzamiento en 3..., 2..., 1. Despegue. -->Sequência de lançamento Iniciada.  Lançamento em 3 ... 2 ... 1.  Lançado.
 (1565)Proximity warning.  Impact detected.  Guidance system malfunction.  <==>Alerta de proximidad. Alerta: impacto detectado. Error en el sistema de guiado.-->Alerta de proximidade.  Impacto detectado.  Erro no sistema de condução.  
 (1566)All guidance systems off line. <==>Todos los sistemas de guiado desactivados.-->Sistemas de condução desligados. 
 (1567)Brace for impact.<==>Prepárense para el impacto.-->Preparem-se para o impacto.
-(1568)Gravity and Life support on reserve power. Primary systems offline.  Main centrifuge offline for repairs.<==>Gravedad y soporte vital en reserva. Sistemas primarios desconectados. Centrifugadora principal inactiva y pendiente de reparación.-->A gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrífuga principal está desligada para reparos. 
+(1568)Gravity and Life support on reserve power. Primary systems offline.  Main centrifuge offline for repairs.<==>Gravedad y soporte vital en reserva. Sistemas primarios desconectados. Centrifugadora principal inactiva y pendiente de reparación.-->A gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrifugadora principal está desligada para reparos. 
 (1569)Gravity tethers engaged...<==>Anclajes gravitatorios acoplados...-->Travas gravitacionais acopladas...
 (1570)Unexpected obstruction ahead.  Shutting down.   Welcome to the Medical Deck.<==>Obstrucción inesperada más adelante. Cerrando. Bienvenido a la cubierta médica.-->Obstrução inesperada mais à frente.  Desligando.   Bem vindo à plataforma médica.
 (1571)Warning:  The Engineering deck has not completed final clean-up and decontamination.<==>Alerta: la cubierta de ingeniería no ha completado la limpieza y la descontaminación finales.-->Alerta:   A plataforma de engenharia não completou a limpeza e descontaminação finais.
@@ -2062,7 +2062,7 @@
 (2062)take your chances <==>Arriésgate.-->Arrisque-se
 (2063)Control Center<==>Centro de control-->Centro de Controle
 (2064)Decon Chamber<==>Cámara desinfección-->Câmara de Desinfecção
-(2065)Centrifuge Room<==>Sala de la centrifugadora-->Sala da centrífuga
+(2065)Centrifuge Room<==>Sala de la centrifugadora-->Sala da centrifugadora
 (2066)Warning: Authorized personnel only.<==>Alerta: solo personal autorizado-->Alerta: somente pessoal autorizado.
 (2067)Clean yourself up. You stink.<==>Aséese. Apesta.-->Limp-se. Você esta fedendo.
 (2068)Whoa it's spinning. I'm getting dizzy!<==>¡Esto gira! ¡Me estoy mareando!-->Isso gira! Estou ficando enjoado!
@@ -2833,7 +2833,7 @@
 (2833)Online<==>Conectado-->Conectado
 (2834)DevTest QA Project Leads<==>Jefes de proyecto de control de calidad de desarrollo-->Líderes do Projeto de Controle de Qualidade de Desenvolvimento
 (2835)(spitter/puker only)<==>(solo escupidor/vomitador)-->(apenas cuspidor/vomitador)
-(2836)CENTRIFUGE<==>CENTRIFUGADORA-->CENTRÍFUGA
+(2836)CENTRIFUGE<==>CENTRIFUGADORA-->CENTRIFUGADORA
 (2837)TEACHER REPORT: 3rd semester, 381-3\n\nI know kids are supposed to have a vivid imagination, but this is getting ridiculous. Nearly half of my class has imaginary friends now, claiming that it's their deceased grandmother or something. Normally, this wouldn't be a problem, but it's getting harder and harder to get these kids to concentrate. This semester, I've sent more students to the time out chair than I have in all my twelve years of teaching. Maybe these kids are having trouble at home. I've also noticed parental involvement steadily decreasing this semester.\n\n-Walter Blake \nThird Grade Educational Instructor<==>INFORME DEL PROFESOR: 3er semestre, 381-3\n\nSé que es normal que los niños tengan una imaginación desbordante, pero esto ya roza lo ridículo. Casi la mitad de los alumnos de mi clase tiene amigos imaginarios, y dicen que son sus difuntas abuelas y cosas parecidas. Normalmente, esto no supondría un problema, pero cada vez resulta más difícil conseguir que esos niños se concentren. Este semestre he enviado a más estudiantes a la silla de aislamiento que en mis 12 años como docente. Puede que estos alumnos estén teniendo problemas en casa. También he notado un descenso continuado de la implicación de los padres durante este semestre.\n\n-Walter Blake \nInstructor educativo de tercer curso-->RELATÓRIO DO PROFESSOR: 3° Semestre, 381-3\n\nEu sei que é normal as crianças terem uma imaginação fértil, mas isso já está ficando ridículo. Quase metade dos alunos da minha classe agora tem amigos imaginários, e dizem são sua avó falecida ou coisa parecida. Normalmente, isso não seria um problema, mas está ficando cada vez mais difícil fazer que essas crianças se concentrem. Esse semestre mandei mais estudantes para a cadeira de isolamento que em todos meus 12 anos como docente. Talvez essas crianças estejam tendo problemas em casa. Também notei que o envolvimento dos pais diminuiu paulatinamente esse semestre.\n\n-Walter Blake \nInstrutor Educacional do Terceiro Grau
 (2838)Press [RSTop] to loot corpses and containers.<==>Pulsa [RSTop] para saquear cadáveres y contenedores.-->Pressione [RSTop] para saquear cadáveres e recipientes.
 (2839)classic<==>Clásico-->Clássico
@@ -3354,7 +3354,7 @@
 (3354)Secutiry Layer 1 engaged\nLoopback initiated<==>Nivel de seguridad 1 activado\nBucle invertido iniciado-->Nível de segurança 1 ativado\nLoopback iniciado
 (3355)Secutiry Layer 2 engaged\nLoopback initiated<==>Nivel de seguridad 2 activado\nBucle invertido iniciado-->Nível de segurança 2 ativado\nLoopback iniciado
 (3356)Secutiry Layer 3 engaged\nLoopback initiated<==>Nivel de seguridad 3 activado\nBucle invertido iniciado-->Nível de segurança 3 ativado\nLoopback iniciado
-(3357)   Activate the centrifuge.<==>Activa la centrifugadora.-->   Ativar a centrífuga.
+(3357)   Activate the centrifuge.<==>Activa la centrifugadora.-->   Ativar a centrifugadora.
 (3358)TEXT LOG FOUND.\nPress [Select] to read.<==>REGISTRO DE TEXTO ENCONTRADO.\nPressione [Select] para ler.-->REGISTRO DE TEXTO ENCONTRADO.\nPressione [Select] para ler.
 (3359)long ranged, charged fire<==>Largo alcance, fuego cargado.-->Longo alcance, fogo carregado
 (3360)ATMOSPHERIC PURITY LEVEL<==>NIVEL DE PUREZA ATMOSFÉRICA-->NÍVEL DE PUREZA ATMOSFÉRICA
@@ -3785,7 +3785,7 @@
 (3784)It's getting worse.<==>La cosa empeora.-->Está ficando cada vez pior.
 (3785)There's an Industrial Transport upstairs. Runs on the same spoke as the commuter train. It should get us to the government sector. One of us will have to deploy it from the gear house.<==>Hay un transporte industrial arriba. Circula por el mismo radio que el tren urbano, debería conducirnos al sector gubernamental. Hay que ponerlo en marcha desde el puente.-->Há um transporte Industrial acima daqui. Ele faz o mesmo trajeto do trem de passageiros, e deve nos levar ao setor governamental. Um de nós vai ter que colocá-lo para funcionar.
 (3786)Okay.  I've almost got us disconnected from the mag-rail.  Keep me posted.<==>Bien. Casi nos he desconectado del raíl magnético. Mantenme al tanto.-->Ok. Quase nos desconectei do trilho magnético.  Me mantenha informado.
-(3787)Alright.  The centrifuge looks spooled to full power from here.<==>Bien. La centrifugadora parece funcionar a máxima potencia.-->Tudo bem.  A centrífuga parece funcionar com potência máxima a partir daqui.
+(3787)Alright.  The centrifuge looks spooled to full power from here.<==>Bien. La centrifugadora parece funcionar a máxima potencia.-->Tudo bem.  A centrifugadora parece funcionar com potência máxima a partir daqui.
 (3788)All set. I'll wait for your signal.<==>Todo listo. Espero tu señal.-->Tudo pronto. Vou esperar pelo seu sinal.
 (3789)You owe me an eye, you bastard!<==>¡Me debes un ojo!-->Você me deve um olho, seu desgraçado!
 (3790)Isaac, he's run off, deeper into the mines!<==>¡Isaac, se ha escapado, ha entrado en las minas!-->Isaac, ele fugiu, entrou nas minas!
@@ -4396,88 +4396,88 @@
 (4395)Daina, your fucking route didn't work.  There's a security lockdown!<==>Daina, tu ruta no ha funcionado. ¡Hay un bloqueo de seguridad!-->Daina, sua rota não funcionou.  Há um bloqueio de segurança!
 (4396)Look, I don't need your help.<==>Mira, no necesito tu ayuda.-->Olha, eu não preciso da sua ajuda.
 (4397)Aw shit.  <==>Joder.-->Ah, merda.  
-(4398)Daina?  Daina!  Okay, you're right.  I do need your help.   Talk to me.<==>¿Daina? ¡Daina! Vale, tienes razón. Necesito tu ayuda. Háblame.-->Daina?  Daina! Ok, você está certa.  Eu preciso da sua ajuda.   Fale comigo.
+(4398)Daina?  Daina!  Okay, you're right.  I do need your help.   Talk to me.<==>¿Daina? ¡Daina! Vale, tienes razón. Necesito tu ayuda. Háblame.-->Daina?  Daina! Ok, você está certa.  Preciso da sua ajuda.   Fale comigo.
 (4399)Fine. So where the hell am I?  How did another necromorph outbreak get started?<==>Vale. ¿Dónde coño estoy? ¿Cómo se ha desatado otro brote de necromorfos?-->Bem. Então, onde diabos eu estou?  Como começou outro surto de necromorfos?
-(4400)Okay, I'm past the Morgue.  How much further?<==>Vale, he pasado la morgue. ¿Cuánto falta?-->Ok, eu passei do Necrotério.  Falta muito?
+(4400)Okay, I'm past the Morgue.  How much further?<==>Vale, he pasado la morgue. ¿Cuánto falta?-->Ok, passei pelo necrotério.  Quanto falta?
 (4401)Isaac:  Alright.<==>Isaac: Vale.-->Isaac:  Tudo bem.
-(4402)Jeezus that thing was angry. Daina?  I'm out of the hospital.<==>Madre mía, esa cosa estaba cabreada. ¿Daina? Salgo del hospital.-->Jeesus, esta coisa estava com raiva. Daina?  Estou fora do hospital.
-(4403)Hang on. I need more answers.  How long have I been here?  <==>Espera. Necesito más respuestas. ¿Cuánto tiempo llevo aquí?-->Segurem-se. Preciso de mais respostas.  Há quanto tempo estou aqui?  
-(4404)Why can't I remember anything?<==>¿Por qué no recuerdo nada?-->Por que não consigo lembrar de nada?
-(4405)You said you could fix it, right?<==>Has dicho que podías arreglarlo.-->Eu disse que eu poderia concertá-lo, certo?
+(4402)Jeezus that thing was angry. Daina?  I'm out of the hospital.<==>Madre mía, esa cosa estaba cabreada. ¿Daina? Salgo del hospital.-->Meu Deus, essa coisa estava nervosa. Daina?  Saí do hospital.
+(4403)Hang on. I need more answers.  How long have I been here?  <==>Espera. Necesito más respuestas. ¿Cuánto tiempo llevo aquí?-->Espere. Preciso de mais respostas.  Há quanto tempo estou aqui?  
+(4404)Why can't I remember anything?<==>¿Por qué no recuerdo nada?-->Por que não consigo me lembrar de nada?
+(4405)You said you could fix it, right?<==>Has dicho que podías arreglarlo.-->Eu disse que eu poderia consertá-lo, certo?
 (4406)Who are you?<==>¿Quién eres?-->Quem é você?
-(4407)I don't know what you're talking about.   Why are you calling me?!<==>No sé de qué estás hablando. ¡¿Para qué me llamas?!-->Eu não sei do que você está falando.   Por que você está me chamando?!
-(4408)ah Fuck!<==>¡Ah, joder!-->Ah, Porra!
-(4409)There are necromorphs everywhere, is the entire Sprawl infected?!  How did this happen? The Marker was destroyed Daina, I destroyed it!<==>Hay necromorfos por todas partes. ¡¿Está infectado todo El Eje?! ¿Es posible? ¡La Efigie fue destruida, Daina! ¡Yo la destruí!-->Há necromorfos em todo canto, todo o Eixo está infectado?!  Como isso aconteceu? O Marker foi destruido, Daina, eu o destruí!
-(4410)Daina, I need a new route.<==>Daina, necesito otra ruta.-->Daina, eu preciso de uma nova rota.
-(4411)Unscheduled stop. Where am I?<==>Parada imprevista. ¿Dónde estoy?-->Parada não programada. Onde eu estou?
+(4407)I don't know what you're talking about.   Why are you calling me?!<==>No sé de qué estás hablando. ¡¿Para qué me llamas?!-->Não sei do que você está falando.   Por que você está me chamando?!
+(4408)ah Fuck!<==>¡Ah, joder!-->Ah, droga!
+(4409)There are necromorphs everywhere, is the entire Sprawl infected?!  How did this happen? The Marker was destroyed Daina, I destroyed it!<==>Hay necromorfos por todas partes. ¡¿Está infectado todo El Eje?! ¿Es posible? ¡La Efigie fue destruida, Daina! ¡Yo la destruí!-->Há necromorfos por toda parte, todo o Eixo está infectado?!  Como isso aconteceu? O Marker foi destruído, Daina, eu o destruí!
+(4410)Daina, I need a new route.<==>Daina, necesito otra ruta.-->Daina, preciso de uma outra rota.
+(4411)Unscheduled stop. Where am I?<==>Parada imprevista. ¿Dónde estoy?-->Parada imprevista. Onde estou?
 (4412)Okay.<==>Bien.-->Ok.
 (4413)protect the detonator<==>Protege el detonador.-->Proteja o detonador
-(4414)ALT. FIRE (AIM MODE)\nCURB STOMP<==>DISPARO SEC. (MODO AP.)\nPISOTÓN-->TIRO SEC. (MODO MIRA)\nPISOTEADO
+(4414)ALT. FIRE (AIM MODE)\nCURB STOMP<==>DISPARO SEC. (MODO AP.)\nPISOTÓN-->DISPARO SEC. (MODO MIRA)\nPISADA
 (4415-IGUAIS)1
-(4416)Dismember, Impale, And Stomp Your Way Across The Sprawl<==>Cercena, empala y pisa para avanzar hacia El Eje-->Desmembre, Empale, e Pise para avançar no Eixo
-(4417)Primary Fire DUR +1 sec / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to tether a blade in a short radius from the saw.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to eject a blade from the saw at high velocity.<==>DUR disparo principal: +1 seg. / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para anclar una cuchilla en un radio corto.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una cuchilla desde la sierra a gran velocidad.-->DUR. do Disparo Principal: +1 seg / REC: -5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: aperte [rsbottom] para amarrar uma lâmina em um curto raio da serra.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: aperte [rstop] para ejetar uma lâmina da serra em alta velocidade.
-(4418)Hey Daina, there's this crazy guy that keeps contacting me. I saw him back at the hospital.<==>Eh, Daina, hay un tipo raro que se pone en contacto conmigo. Lo vi en el hospital.-->Ei Daina, algum cara louco mantém contato comigo. Eu o vi em volta do hospital.
-(4419)Yeah? Why was he there?  What does he want?<==>¿Sí? ¿Por qué estaba allí? ¿Qué quiere?-->Sim? Por que ele estava lá?  O que ele quer?
-(4420)Okay, I'll be careful.<==>Tendré cuidado.-->Ok, vou ser cuidadoso.
-(4421)Daina, I thought you were routing me to residential. This looks like... a Unitology recruitment center?  Am I still on track? <==>Daina, creía que me enviabas al sector residencial. Esto parece... un centro de reclutamiento de la Uniología. ¿Voy bien?-->Daina, eu pensei que você estava me encaminhando para o residencial. Isto parece ser... um centro de recrutamento de Unitologia?  Estou no caminho certo? 
-(4422)Daina! Tiedemann's soldiers have found me! They're tracking me in some sort of gunship!<==>¡Daina! ¡Los soldados de Tiedemann me han encontrado! ¡Me siguen en una especie de nave!-->Daina! Soldados Tiedemann me encontraram! Eles estão atrás de mim em algum tipo de nave!
-(4423)Daina, what the hell route is this?<==>Daina, ¿qué clase de ruta es esta?-->Daina, que diabos de caminho é esse?
-(4424)Fly against the flow of the garbage.  Wonderful.<==>Avanzar contra el tráfico de residuos. Fantástico.-->Avance contra o fluxo dos resíduos.  Maravilha.
+(4416)Dismember, Impale, And Stomp Your Way Across The Sprawl<==>Cercena, empala y pisa para avanzar hacia El Eje-->Desmembre, empale, e pise para avançar até o Eixo
+(4417)Primary Fire DUR +1 sec / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to tether a blade in a short radius from the saw.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to eject a blade from the saw at high velocity.<==>DUR disparo principal: +1 seg. / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para anclar una cuchilla en un radio corto.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una cuchilla desde la sierra a gran velocidad.-->DUR. do disparo principal: +1 seg / REC: -5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para amarrar uma lâmina em um curto raio da serra.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar uma lâmina da serra em grande velocidade.
+(4418)Hey Daina, there's this crazy guy that keeps contacting me. I saw him back at the hospital.<==>Eh, Daina, hay un tipo raro que se pone en contacto conmigo. Lo vi en el hospital.-->Ei Daina, tem um doido que está entrando em contato comigo. Eu o vi no hospital.
+(4419)Yeah? Why was he there?  What does he want?<==>¿Sí? ¿Por qué estaba allí? ¿Qué quiere?-->Sim? Por que ele estava ali?  O que ele quer?
+(4420)Okay, I'll be careful.<==>Tendré cuidado.-->Ok, vou tomar cuidado.
+(4421)Daina, I thought you were routing me to residential. This looks like... a Unitology recruitment center?  Am I still on track? <==>Daina, creía que me enviabas al sector residencial. Esto parece... un centro de reclutamiento de la Uniología. ¿Voy bien?-->Daina, pensei que você estava me enviando para o setor residencial. Isso parece... um centro de recrutamento da Unitologia?  Estou no caminho certo? 
+(4422)Daina! Tiedemann's soldiers have found me! They're tracking me in some sort of gunship!<==>¡Daina! ¡Los soldados de Tiedemann me han encontrado! ¡Me siguen en una especie de nave!-->Daina! Os soldados de Tiedemann me encontraram! Eles estão me seguindo em algum tipo de nave!
+(4423)Daina, what the hell route is this?<==>Daina, ¿qué clase de ruta es esta?-->Daina, que diabos de rota é essa?
+(4424)Fly against the flow of the garbage.  Wonderful.<==>Avanzar contra el tráfico de residuos. Fantástico.-->Avançar contra o tráfico de resíduos.  Fantástico.
 (4425)Daina?  The Church of Unitology?  Why here?<==>¿Daina? ¿La Iglesia de la Uniología? ¿Por qué aquí?-->Daina?  A Igreja da Unitologia?  Por que aqui?
-(4426)No Daina, we shouldn't be in here.  This is the last place we want to be right now.<==>No, Daina, no deberíamos estar aquí. Es el último lugar en el que queremos estar...-->Não, Daina, não deveríamos estar aqui.  Este é o último lugar onde quero estar agora.
-(4427)Dammit!  Figures<==>¡Mierda! Era de esperar-->Caramba!  Só podia
-(4428)Daina I'm locked out. There's something in the church. It broke the door!<==>Daina, estoy encerrado. Hay algo en la Iglesia. ¡Ha roto la puerta!-->Daina estou trancado. Há algo na igreja. Ele quebrou a porta!
-(4429) Daina you still with me? I've reached the top of the church.<==>Daina, ¿sigues ahí? Estoy en lo alto de la iglesia.--> Daina você ainda está comigo? Eu já atingi o topo da igreja.
-(4430)No, but I think I've seen it.<==>No, pero me parece verla.-->Não, mas eu acho que eu vi.
-(4431)A coffin?  Why do you know that?<==>¿Un ataúd? ¿Cómo lo sabes?-->Um caixão?  Como você sabe disso?
+(4426)No Daina, we shouldn't be in here.  This is the last place we want to be right now.<==>No, Daina, no deberíamos estar aquí. Es el último lugar en el que queremos estar...-->Não, Daina, não deveríamos estar aqui.  Esse é o último lugar onde queremos estar agora.
+(4427)Dammit!  Figures<==>¡Mierda! Era de esperar-->Droga!  Era de se esperar
+(4428)Daina I'm locked out. There's something in the church. It broke the door!<==>Daina, estoy encerrado. Hay algo en la Iglesia. ¡Ha roto la puerta!-->Daina, estou preso. Há algo na igreja. Ele quebrou a porta!
+(4429) Daina you still with me? I've reached the top of the church.<==>Daina, ¿sigues ahí? Estoy en lo alto de la iglesia.--> Daina você ainda está comigo? Estou no topo da igreja.
+(4430)No, but I think I've seen it.<==>No, pero me parece verla.-->Não, mas eu acho que a vi.
+(4431)A coffin?  Why do you know that?<==>¿Un ataúd? ¿Cómo lo sabes?-->Um caixão?  Como sabe disso?
 (4432)Right.  thanks.<==>Bien. Gracias.-->Certo.  Obrigado.
-(4433)Daina?! You're a Unitologist? Of course you are. Why did I trust you?<==>¡¿Daina?! ¿Eres de la Uniología? Claro que lo eres. ¿Por qué confié en ti?-->Daina?! Você é uma Uniologista? É claro que você é. Por que confiei em você?
-(4434)What do you want Stross? Look, it's over.  All my plans just blew out the window.<==>¿Qué quieres, Stross? Escucha, se acabó. Todos mis planes acaban de irse al garete.-->O que você quer Stross? Olha, está tudo bem. Todos os meus planos simplesmente foram pro espaço.
+(4433)Daina?! You're a Unitologist? Of course you are. Why did I trust you?<==>¡¿Daina?! ¿Eres de la Uniología? Claro que lo eres. ¿Por qué confié en ti?-->Daina?! Você é uma Unitologista? É claro que é. Por que confiei em você?
+(4434)What do you want Stross? Look, it's over.  All my plans just blew out the window.<==>¿Qué quieres, Stross? Escucha, se acabó. Todos mis planes acaban de irse al garete.-->O que você quer, Stross? Veja, acabou. Todos meus planos acabaram de ir para o espaço.
 (4435)I don't understand.  <==>No lo entiendo.-->Eu não entendo.  
-(4436)Whoa Stross!  What are you doing?!<==>Stross,  ¿Qué haces?-->Whoa, Stross!  O que está fazendo?!
+(4436)Whoa Stross!  What are you doing?!<==>Stross,  ¿Qué haces?-->Whoa, Stross!  O que você está fazendo?!
 (4437)Stross, it's me!  <==>¡Stross, soy yo!-->Stross, sou eu!  
 (4438)Stross!<==>¡Stross!-->Stross!
-(4439)I'm not running anymore. I know what I have to do.  Well, this drill is a stroke of good luck, finally.  Why don't you get up to the cab try to get it started. I'll look for the other power cell.<==>Yo ya no huyo. Sé lo que tengo que hacer. Con este taladro hemos tenido un golpe de suerte. Por qué no subes a la cabina e intentas activarlo. Buscaré la otra célula de energía.-->Eu não estou mais correndo. Eu sei o que eu tenho que fazer.  Bem, esse escavadeira foi um golpe de sorte, finalmente.  Por que você não vai até a cabine e tente ativá-lo? Vou procurar por outra célula de energia.
-(4440)At least you were in the cockpit...<==>Al menos tú estabas en la cabina.-->Pelo menos você esteve na cabine...
-(4441)Dammit! There's more of them out here. I'll try to keep them off us.<==>¡Maldita sea! Ahí hay más cosas de esas. Intentaré mantenerlas alejadas.-->Caramba! Há mais deles aqui. Vou tentar mantê-los longe de nós.
+(4439)I'm not running anymore. I know what I have to do.  Well, this drill is a stroke of good luck, finally.  Why don't you get up to the cab try to get it started. I'll look for the other power cell.<==>Yo ya no huyo. Sé lo que tengo que hacer. Con este taladro hemos tenido un golpe de suerte. Por qué no subes a la cabina e intentas activarlo. Buscaré la otra célula de energía.-->Eu não estou mais correndo. Eu sei o que tenho que fazer.  Essa escavadeira foi um golpe de sorte.  Por que você não vai até a cabine e tente ativá-la? Vou procurar outra célula de energia.
+(4440)At least you were in the cockpit...<==>Al menos tú estabas en la cabina.-->Pelo menos você estava na cabine...
+(4441)Dammit! There's more of them out here. I'll try to keep them off us.<==>¡Maldita sea! Ahí hay más cosas de esas. Intentaré mantenerlas alejadas.-->Droga! Tem mais dessas coisas aqui. Vou tentar mantê-los longe de nós.
 (4442)Oh, yeah.  Good times.<==>Ah, sí. Estoy de maravilla.-->Ah, sim.  Bem pensado.
-(4443)I'll try to keep them off! You just steer clear of those walls.<==>¡Intentaré mantenerlos a raya! Tú aléjate de los muros.-->Vou tentar mantê-los longe de nós! Apenas fique longe dessas paredes.
-(4444)You sure this is the right way? How can you tell where you're going?<==>¿Seguro que es por aquí? ¿Cómo puedes saber a dónde vas?-->Tem certeza que este é o caminho certo? Você pode dizer para onde está indo?
-(4445)Daina, the door to the ER doesn't recognize me.  It's closing before I can get through.<==>Daina, la puerta de urgencias no me reconoce. Se cierra antes de dejarme pasar.-->Daina, a porta de Emergência não me reconhece.  Está fechando antes que eu possa entrar.
-(4446)Stasis.  Got it, thanks.<==>Estabilización. Entendido, gracias.-->Estabilidade.  Entendi, obrigado.
-(4447)I know.  I've had a lot of practice.<==>Lo sé. Ya tengo práctica.-->Eu sei.  Eu tenho prática.
+(4443)I'll try to keep them off! You just steer clear of those walls.<==>¡Intentaré mantenerlos a raya! Tú aléjate de los muros.-->Vou tentar mantê-los longe de nós! Você fique longe das paredes.
+(4444)You sure this is the right way? How can you tell where you're going?<==>¿Seguro que es por aquí? ¿Cómo puedes saber a dónde vas?-->Você tem certeza que esse é o caminho certo? Você pode saber para onde está indo?
+(4445)Daina, the door to the ER doesn't recognize me.  It's closing before I can get through.<==>Daina, la puerta de urgencias no me reconoce. Se cierra antes de dejarme pasar.-->Daina, a porta de emergência não me reconhece.  Ela está fechando antes de me deixar passar.
+(4446)Stasis.  Got it, thanks.<==>Estabilización. Entendido, gracias.-->Estabilização.  Entendi, obrigado.
+(4447)I know.  I've had a lot of practice.<==>Lo sé. Ya tengo práctica.-->Eu sei.  Tenho prática no assunto.
 (4448)Thanks.<==>Gracias.-->Obrigado.
 (4449)Yeah, it's a good tactic.   I've got one.<==>Sí, es una buena táctica. Tengo una.-->Sim, é uma boa tática.   Tenho uma.
 (4450)Holy shit!<==>¡Mierda!-->Puta Merda!
-(4451)Whoa, hey. Hey! Holy shit! Ah, FUCK!<==><Gritos>-->Whoa, ei. Ei! Puta Merda! Ah, FODA-SE!
+(4451)Whoa, hey. Hey! Holy shit! Ah, FUCK!<==><Gritos>-->Whoa, ei. Ei! Puta Merda! Ah, DROGA! 
 (4452)Hey!  Hey!  <==>¡Eh! ¡Eh!-->Ei!  Ei!  
-(4453)Ellie, there are thrusters already in place on the underside of the Elevator Pod.   How much force do they yield?<==>Ellie, los propulsores están colocados en la parte baja de la cápsula del ascensor. ¿Cuánta fuerza generan?-->Ellie, os propulsores já estão colocados no inferior da Cápsula do Elevador.   Quanta força geram?
+(4453)Ellie, there are thrusters already in place on the underside of the Elevator Pod.   How much force do they yield?<==>Ellie, los propulsores están colocados en la parte baja de la cápsula del ascensor. ¿Cuánta fuerza generan?-->Ellie, os propulsores já estão colocados na parte de baixo da cápsula do elevador.   Quanta força eles geram?
 (4454)Red tips.   Got it, thanks.<==>Boquillas rojas. Vale, gracias.-->Pontas vermelhas.   Entendi, obrigado.
-(4455)Ellie, the door in here only opens for Howard Phillips, the station keeper.  But he's dead.  Can you open it?<==>Ellie, el único que puede abrir esta puerta es Howard Phillips, el guardia de la estación. Pero está muerto. ¿Puedes abrirla?-->Ellie, esta porta só abre para Howard Phillips, o guarda da estação.  Mas ele está morto.  Você pode abri-la?
-(4456)Use his body to fool the door, okay, I'll give it a shot.<==>Utilizar su cuerpo para engañar a la puerta, vale. Lo intentaré.-->Use seu corpo para enganar a porta, ok, vou tentar.
-(4457)Hey Ellie, I need to get this mainframe offline. I'm inside the core.<==>Eh, Ellie, tengo que desconectar el ordenador central. Estoy en el núcleo.-->Ei Ellie, eu preciso desconectar este computador principal. Estou dentro do núcleo.
-(4458)What, so you're saying you've done this before?<==>¿Quieres decir que esto ya lo has hecho antes?-->O quê, então está dizendo que você já fez isto antes?
-(4459)Hm.  Tell me about it sometime.  But not now.   Kinesis, Fuses, match the floor panel, got it.  Thanks.<==>Mmm... Ya me lo contarás en otro momento, ahora no. Cinética, fusibles, coincidir con el panel del suelo. Entendido, gracias.-->Mmm. Me conte isto outro dia.  Agora não.   Cinética, Fusíveis, combine com o painel do chão, entendeu.  Obrigado.
-(4460)Okay, I'm on it.<==>Vale, estoy en ello.-->Ok, eu estou nele.
+(4455)Ellie, the door in here only opens for Howard Phillips, the station keeper.  But he's dead.  Can you open it?<==>Ellie, el único que puede abrir esta puerta es Howard Phillips, el guardia de la estación. Pero está muerto. ¿Puedes abrirla?-->Ellie, o único que pode abrir essa porta é Howard Phillips, o guarda da estação.  Mas ele está morto.  Você pode abri-la?
+(4456)Use his body to fool the door, okay, I'll give it a shot.<==>Utilizar su cuerpo para engañar a la puerta, vale. Lo intentaré.-->Use seu corpo para enganar a porta. Certo, vou tentar.
+(4457)Hey Ellie, I need to get this mainframe offline. I'm inside the core.<==>Eh, Ellie, tengo que desconectar el ordenador central. Estoy en el núcleo.-->Ei Ellie, preciso desconectar o computador central. Estou dentro do núcleo.
+(4458)What, so you're saying you've done this before?<==>¿Quieres decir que esto ya lo has hecho antes?-->O quê, então está dizendo que já fez isto antes?
+(4459)Hm.  Tell me about it sometime.  But not now.   Kinesis, Fuses, match the floor panel, got it.  Thanks.<==>Mmm... Ya me lo contarás en otro momento, ahora no. Cinética, fusibles, coincidir con el panel del suelo. Entendido, gracias.-->Mmm. Me conte isso outro dia.  Agora não.   Cinética, fusíveis, coincidir com o painel do chão. Entendido.  Obrigado.
+(4460)Okay, I'm on it.<==>Vale, estoy en ello.-->Ok, estou nele.
 (4461)Perfect!<==>¡Genial!-->Perfeito!
-(4462)It's not.<==>No.-->Isto não.
-(4463)Explosive canisters, I'll look for them, thanks.<==>Botes explosivos, los buscaré, gracias.-->Tubos explosivos, vou procurá-los, obrigado.
-(4464)Ellie, this is a death trap!<==>¡Ellie, esto es una trampa mortal!-->Ellie, esta é uma armadilha mortal!
+(4462)It's not.<==>No.-->Não.
+(4463)Explosive canisters, I'll look for them, thanks.<==>Botes explosivos, los buscaré, gracias.-->Tubos explosivos, vou procurar por eles, obrigado.
+(4464)Ellie, this is a death trap!<==>¡Ellie, esto es una trampa mortal!-->Ellie, isso é uma armadilha mortal!
 (4465)Alright, this is going to be tricky.<==>Bien, esto no va a ser fácil.-->Tudo bem, isso vai ser complicado.
-(4466)Ellie, another hatch valve is sealed shut.   I can't get through.<==>Ellie, hay otra escotilla de válvula cerrada. No puedo pasar.-->Ellie, há outra escotilha de válvula selada.   Eu não consigo atravessar.
+(4466)Ellie, another hatch valve is sealed shut.   I can't get through.<==>Ellie, hay otra escotilla de válvula cerrada. No puedo pasar.-->Ellie, há outra escotilha de válvula selada.   Eu não consigo passar.
 (4467)Alright, alright I'll look for them.<==>Vale, vale, los buscaré.-->Tudo bem, tudo bem, vou procurá-los.
-(4468)Okay Ellie, I found the transport, but there's a problem with the release mechanism.<==>Vale, Ellie, he encontrado el transporte, pero hay un problema con el mecanismo de arranque.-->Ok Ellie, encontrei o transporte, mas há um problema com o mecanismo de liberação.
-(4469)Yeah.  I'll let you know when it's fixed.<==>Sí. Te avisaré cuando esté arreglado.-->Sim.  Vou te avisar quando estiver concertado.
-(4470)I think so, looks like I just need to find some spare parts.<==>Creo que sí, parece que debo buscar piezas de repuesto.-->Acho que sim, parece que eu só preciso encontrar algumas partes de reposição.
-(4471)Alright, I see you.  I'll meet you there.<==>Vale, te veo. Nos encontramos allí.-->Tudo bem, depois nos vemos.  Eu vou te encontrar lá.
+(4468)Okay Ellie, I found the transport, but there's a problem with the release mechanism.<==>Vale, Ellie, he encontrado el transporte, pero hay un problema con el mecanismo de arranque.-->Tudo bem, Ellie, encontrei o transporte, mas há um problema com o mecanismo de arranque.
+(4469)Yeah.  I'll let you know when it's fixed.<==>Sí. Te avisaré cuando esté arreglado.-->Sim.  Te aviso quando estiver consertado.
+(4470)I think so, looks like I just need to find some spare parts.<==>Creo que sí, parece que debo buscar piezas de repuesto.-->Acho que sim, parece que só preciso encontrar algumas peças de reposição.
+(4471)Alright, I see you.  I'll meet you there.<==>Vale, te veo. Nos encontramos allí.-->Tudo bem, nos vemos depois.  Eu vou te encontro lá.
 (4472)Faster, Ellie! Faster!<==>¡Más rápido, Ellie! ¡Rápido!-->Mais rápido, Ellie! Mais rápido!
-(4473)Ellie, I'm in. There should still be a computer in the flight lounge. I can check the ship's status from there.<==>Ellie, estoy dentro. Aún debería haber un ordenador en la sala de vuelo. Comprobaré el estado de la nave desde allí.-->Ellie, entrei. Ainda assim, deveria ter um computador na sala de voo. Posso verificar o estado da nave dali.
-(4474)Last time I was here, things didn't go so well. Look, I'll contact you soon.<==>La última vez que estuve aquí, las cosas no fueron muy bien. Escucha, te llamaré pronto.-->A última vez que eu estive aqui, as coisas não correram tão bem. Olha, entrarei em contato em breve.
-(4475)Damn it, that's what I thought.<==>Mierda, eso me había parecido.-->Dane-se, isto era o que eu pensava.
-(4476)The gravity centrifuge is under repair.  I'm going to have to go down to Engineering. This should be interesting.<==>La centrifugadora está averiada. Voy a tener que bajar a Ingeniería. Esto será interesante.-->A centrífuga de gravidade está avariada.  Vou ter que baixar a Engenharia. Isto deve ser interessante.
-(4477)I don't know how it could be.  I'll let you know. <==>No tengo ni idea. Ya te lo diré.-->Não sei como fazer isso.  Vou deixar você fazer. 
-(4478) YEAH I KNOW! I'll call you back!<==>¡SÍ, LO SÉ! ¡Te volveré a llamar!--> SIM, EU SEI! Vou chamá-lo novamente!
-(4479)Okay, no Ellie, it isn't safe.  But I'm on my way to the centrifuge.<==>Vale, no, Ellie, no es seguro. Pero voy hacia la centrifugadora.-->Ok, não Ellie, isto não é seguro.  Mas eu estou indo para a centrífuga.
+(4473)Ellie, I'm in. There should still be a computer in the flight lounge. I can check the ship's status from there.<==>Ellie, estoy dentro. Aún debería haber un ordenador en la sala de vuelo. Comprobaré el estado de la nave desde allí.-->Ellie, entrei. Ainda deve ter um computador na sala de voo. Posso verificar o estado da nave dali.
+(4474)Last time I was here, things didn't go so well. Look, I'll contact you soon.<==>La última vez que estuve aquí, las cosas no fueron muy bien. Escucha, te llamaré pronto.-->A última vez que estive aqui, as coisas não correram tão bem. Olha, entrarei em contato em breve.
+(4475)Damn it, that's what I thought.<==>Mierda, eso me había parecido.-->Merda, era isso que eu estava pensando.
+(4476)The gravity centrifuge is under repair.  I'm going to have to go down to Engineering. This should be interesting.<==>La centrifugadora está averiada. Voy a tener que bajar a Ingeniería. Esto será interesante.-->A centrifugadora está quebrada.  Vou ter que baixar a Engenharia. Isso vai ser interessante.
+(4477)I don't know how it could be.  I'll let you know. <==>No tengo ni idea. Ya te lo diré.-->Não tenho nem ideia.  Já te digo. 
+(4478) YEAH I KNOW! I'll call you back!<==>¡SÍ, LO SÉ! ¡Te volveré a llamar!--> SIM, EU SEI! Eu volto a te ligar!
+(4479)Okay, no Ellie, it isn't safe.  But I'm on my way to the centrifuge.<==>Vale, no, Ellie, no es seguro. Pero voy hacia la centrifugadora.-->Tudo bem, não, Ellie, isso não é seguro.  Mas estou indo para a centrifugadora.
 (4480) I'll call you when its online.<==>Te llamaré cuando esté en marcha.--> Vou chamá-lo quando isto estiver online.
 (4481)Ellie, the damn cooling core is extended and pieces are everywhere.<==>Ellie, el núcleo de refrigeración está desmontado y hay muchas piezas.-->Ellie, o maldito núcleo de resfriamento está estendido e tem peças em toda parte.
 (4482)Yeah, I see tube paths on the floating components.   I think I can match them up with the right sockets. <==>Sí, veo conexiones de tubos en los componentes que flotan. Creo que puedo encajarlos en sus tomas.-->Sim, eu vejo conexões de tubos sobre os componetes flutuantes.   Eu acho que posso combiná-los com os soquetes da direita.   
@@ -4754,7 +4754,7 @@
 (4753)action<==>acción-->ação
 (4754)decline<==>Rechazar-->recusar
 (4755)Reserve Power Only<==>Solo reserva-->Apenas Energia Reserva
-(4756)Main Centrifuge\nOFFLINE<==>Centrifugadora\nINACTIVA-->Centrífuga Principal\nINATIVA
+(4756)Main Centrifuge\nOFFLINE<==>Centrifugadora\nINACTIVA-->centrifugadora Principal\nINATIVA
 (4757)Primary Ship System\nOFFLINE<==>Sistema primario\nDESCONECTADO-->Sistema Primário da Nave\nDESCONECTADO
 (4758)SCAN<==>ESCÁNER-->SCANNER
 (4759)Senior Director Business Affairs & Licensing<==>Director de asuntos empresariales y licencias sénior-->Diretor de Assuntos Empresariais e Licenças Sênior
