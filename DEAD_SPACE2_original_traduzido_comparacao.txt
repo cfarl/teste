@@ -1020,7 +1020,7 @@
 (1020-IGUAIS)1
 (1021)view scores<==>Ver puntuación-->Ver pontuação
 (1022)REUNION CHAPEL<==>CAPILLA DE REUNIÓN-->CAPELA DE REUNIÃO
-(1023)Purchase guarantees a minimum of 10 inventory slots and 5% armor. \nYour RIG retains the highest upgrade of Armor and Inventory.<==>Su compra garantiza un mínimo de 10 ranuras de inventario y un 5% de blindaje. \nTu DRI conserva la mayor mejora de blindaje e inventario.-->Sua compra garante um mínimo de 10 espaços no inventário e 5% de blindagem. \nSeu DRI conserva a maior melhora de blindagem e inventário.
+(1023)Purchase guarantees a minimum of 10 inventory slots and 5% armor. \nYour RIG retains the highest upgrade of Armor and Inventory.<==>Su compra garantiza un mínimo de 10 ranuras de inventario y un 5% de blindaje. \nTu DRI conserva la mayor mejora de blindaje e inventario.-->Sua compra garante um mínimo de 10 espaços de inventário e 5% de blindagem. \nSeu DRI conserva a maior melhora de blindagem e inventário.
 (1024-IGUAIS)Beau Marshall
 (1025-IGUAIS)Sean Mayo
 (1026-IGUAIS)Jeremy Munson
@@ -1139,7 +1139,7 @@
 (1139)No sign of him yet sir.<==>No hay rastro de él, señor.-->Não há sinais dele, senhor.
 (1140)Squad 1, standing by.<==>Patrulla 1, preparaos.-->Esquadrão 1, aguardando.
 (1141)No, I'm still tracking his RIG.  He's alive.<==>No, su DRI sigue emitiendo. Está vivo.-->Não, ainda estou recebendo sinais do seu DRI.  Ele está vivo.
-(1142)The Shockpoint Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: a 5% decrease in Stasis recharge time. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de distorsión ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación [c=RESET]: 5% menos de tiempo de recarga de estabilización. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje de Distorção oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM3] Bônus de Estabilização [c=RESET]: 5% menos tempo para recarga de estabilização. \nSua compra garante um mínimo de 15 espaços no inventário e 15% de blindagem. Seu DRI manterá a maior melhoria de blindagem e inventário.
+(1142)The Shockpoint Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: a 5% decrease in Stasis recharge time. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de distorsión ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación [c=RESET]: 5% menos de tiempo de recarga de estabilización. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje de Distorção oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM3] Bônus de Estabilização [c=RESET]: 5% menos tempo para recarga de estabilização. \nSua compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI manterá a maior melhoria de blindagem e inventário.
 (1143)titan mines<==>Minas Titán-->Minas Titã
 (1144)TITAN MINES<==>MINAS TITÁN-->MINAS TITÃ
 (1145)Press [LSTop]<==>Pulsa [LSTop].-->Pressione [LSTop]
@@ -1321,7 +1321,7 @@
 (1321-IGUAIS)}
 (1322-IGUAIS)Xbox LIVE Party
 (1323)gamer card<==>Tarjeta de jugador-->Cartão de Jogador
-(1324)The Hacker Suit grants unique functionality to the wearer:\n• [c=CUSTOM2] Hacking Bonus [c=RESET]: hack consoles require one less stage to complete.\nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de pirateo ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM2] Bonificación de pirateo [c=RESET]: una fase menos que completar para piratear las consolas.\nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje Hacker oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM2] Bônus de Hacking [c=RESET]: uma fase a menos para completar o hackeamento dos consoles.\nSua compra garante um mínimo de 15 espaços no inventário e 15% de blindagem. Seu DRI conserva a maior melhora de blindagem e inventário.
+(1324)The Hacker Suit grants unique functionality to the wearer:\n• [c=CUSTOM2] Hacking Bonus [c=RESET]: hack consoles require one less stage to complete.\nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de pirateo ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM2] Bonificación de pirateo [c=RESET]: una fase menos que completar para piratear las consolas.\nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje Hacker oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM2] Bônus de Hacking [c=RESET]: uma fase a menos para completar o hackeamento dos consoles.\nSua compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI conserva a maior melhora de blindagem e inventário.
 (1325)Rapid-fire rivet tool.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire rivets.  Rapid fire is enabled on this model.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to discharge embedded rivets.  Warning: impalement damage is possible.<==>Herramienta de remache de disparo rápido.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar roblones. Este modelo ofrece disparo rápido.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para descargar roblones incrustados. Atención: puede producir daños por empalamiento.-->Ferramenta de rebite de disparo rápido.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar rebites.  Esse modelo oferece disparo rápido.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar rebites incrustados.  Atenção: pode causar danos por empalamento.
 (1326)President<==>Presidente-->Presidente
 (1327)ORIENT to GROUND<==>ORIENTAR A SUELO-->ORIENTAR AO CHÃO
@@ -1927,7 +1927,7 @@
 (1927-IGUAIS)U
 (1928)Heavy damage energy projector.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] to charge a high intensity blast, then release.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a blast of kinetic energy into the ground to push away all nearby objects.<==>Proyector de energía de gran daño.\n• [c=CUSTOM2] Disp. principal [c=RESET]: mantén pulsado [rsbottom] para cargar el disparo y suelta para disparar.\n• [c=CUSTOM2] Disp. secundario [c=RESET]: pulsa [rstop] para disparar energía cinética al suelo.-->Projetor de energia de grande dano.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: segure [rsbottom] para carregar o disparo e solte para disparar.\n• [c=CUSTOM2] Disparo secundário [c=RESET]: pressione [rstop] para disparar uma carga de energia cinética no chão. 
 (1929)I don't know who the hell needs a whole roll of toilet paper to wipe their ass, but I'm gonna kick their ass if I ever find them.  This is the 5th week in a row that some jackass has clogged the toilets in here.  We're in space for crying out loud, if this plumbing gets jacked, someone has to space walk and get a helmet full of crap to clean it out.  KNOCK IT OFF.<==>No sé quién diablos necesita un rollo de papel higiénico entero para limpiarse el culo, pero si lo descubro, se lo pateo. Esta es la quinta semana seguida que algún gilipollas atasca los retretes. Estamos en el espacio, por el amor de Dios, si las cañerías se atascan, alguien tiene que darse un paseo espacial y llenarse el casco de mierda para desatascarlas. YA ESTÁ BIEN.-->Eu não sei quem diabos precisa de um rolo inteiro de papel higiênico para limpar a bunda, mas se eu descubro quem é, chuto sua bunda. Essa é a quinta semana seguida que algum idiota entope o banheiro aqui. Nós estamos no espaço, pelo amor de Deus, se esse encanamento estourar, alguém vai ter que passear no espaço e encher a fuselagem de merda para limpar a bagunça.  PAREM COM ISSO.
-(1930)Primary Fire DUR +1 sec / Secondary Fire DAM +10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to tether a blade in a short radius from the saw.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to eject a blade from the saw at high velocity.<==>DUR disparo principal: +1 seg. / DÑO disparo secundario: +10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para anclar una cuchilla en un radio corto.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una cuchilla desde la sierra a gran velocidad.-->DUR do disparo principal: +1 seg / DANO do disparo secundário: +10%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: aperte [rsbottom] para lançar uma lâmina da serra a grande velocidade. \n• [c=CUSTOM2] Disparo secundário [c=RESET]: Pressione [rstop] para lançar uma lâmina da serra em graande velocidade.
+(1930)Primary Fire DUR +1 sec / Secondary Fire DAM +10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to tether a blade in a short radius from the saw.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to eject a blade from the saw at high velocity.<==>DUR disparo principal: +1 seg. / DÑO disparo secundario: +10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para anclar una cuchilla en un radio corto.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una cuchilla desde la sierra a gran velocidad.-->DUR do disparo principal: +1 seg / DANO do disparo secundário: +10%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para lançar uma lâmina da serra a grande velocidade. \n• [c=CUSTOM2] Disparo secundário [c=RESET]: Pressione [rstop] para lançar uma lâmina da serra em graande velocidade.
 (1931){g} here is the email used for your EA Account:<==>{g}, aquí tienes el correo electrónico asociado a tu cuenta EA:-->{g} aqui está o email utilizado para sua Conta EA:
 (1932)quit lobby<==>Salir de punto de encuentro-->Sair do ponto de encontro
 (1933)The Contact Beam is the most powerful weapon, but requires a charge for each shot.<==>El rayo de contacto es el arma más potente, pero requiere una carga por cada disparo.-->O raio de contatoé a arma mais poderosa de todas, mas requer uma carga para cada disparo.
@@ -1983,7 +1983,7 @@
 (1983)You unlocked increased damage for the Javelin Gun<==>Has desbloqueado más daño para el cañón jabalina.-->Você desbloqueou mais dano para o canhão de dardos.
 (1984)Schematic Downloaded:<==>Diagrama descargado:-->Diagrama Baixado:
 (1985)[Seems like everyone was trying to pack in a hurry.]<==>[Parece que tenían prisa por hacer las maletas.]-->[Parece que estavam com pressa em fazer as malas.]
-(1986)Click [LStick]<==>Haz clic en [LStick]-->Aperte [LStick]
+(1986)Click [LStick]<==>Haz clic en [LStick]-->Pressione [LStick]
 (1987)Translator<==>Traductor-->Tradutor
 (1988)Projectile Ammunition for the Seeker Rifle.\n - Inventory Slot Stack Size: 15<==>Munición para el rifle buscador.\n - Tamaño del bloque de ranuras de inventario: 15-->Munição para o Rifle Buscador.\n - Tamanho do bloco de espaços de inventário: 15
 (1989)Government Sector - we've finally made it. I'm heading to Ellie's location now.\n\nBut how far is this going to go? Ellie helped me get here, but she can't help me destroy the Marker. Even I'M not sure how to do that. She could become just another casualty, the longer we stick together...<==>Sector gubernamental, lo hemos logrado. Ahora me dirijo a la posición de Ellie.\n\n¿Pero hasta dónde va a llegar esto? Ellie me ha ayudado a llegar hasta aquí, pero no puede ayudarme a destruir la Efigie. Ni siquiera YO estoy seguro de cómo hacerlo. Cuanto más tiempo permanezcamos juntos, más posibilidades hay de que acabe siendo otra víctima...-->Setor Governamental - finalmente chegamos. Agora estou indo até a posição da Ellie.\n\Mas até onde isso vai chegar? Ellie me ajudou a chegar aqui, mas não pode me ajudar a destruir o Marker. Nem mesmo eu sei como fazer isso. Quanto mais tempos permanecemos juntos, mais chances existem de que ela acabe se tornando outra vítima...
@@ -2398,7 +2398,7 @@
 (2398)Priming Detonator<==>Activando detonador-->Ativando detonador
 (2399)prevent the delivery of the proton accelerator<==>Evita que el acelerador de protones llegue al banco de trabajo.-->Impeça que o acelerador de prótons chegue na bancada de trabalho
 (2400)You don't have the 5000 credits required to RESPEC.<==>No tienes los 5000 créditos necesarios para REESPEC.-->Você não tem os 5000 créditos necessários para REFAZER.
-(2401)Medical gel pack that restores a large amount of health.\n\nPress [RDRight] to consume instantly and increase health.<==>Botiquín con gel curativo que restablece una gran cantidad de salud.\n\nPulsa [RDRight] para consumirlo al instante y aumentar la salud.-->Pacote com gel medicinal que recupera uma grande quantidade de saúde.\n\nAperte [RDRight] para consumir instantaneamente e aumentar a saúde.
+(2401)Medical gel pack that restores a large amount of health.\n\nPress [RDRight] to consume instantly and increase health.<==>Botiquín con gel curativo que restablece una gran cantidad de salud.\n\nPulsa [RDRight] para consumirlo al instante y aumentar la salud.-->Pacote com gel medicinal que recupera uma grande quantidade de saúde.\n\nPressione [RDRight] para consumir instantaneamente e aumentar a saúde.
 (2402)friendly fire kill:<==>Baja por fuego aliado:-->Morte por fogo aliado:
 (2403-IGUAIS)2
 (2404)Back<==>Atrás-->Voltar
@@ -2568,7 +2568,7 @@
 (2568)COMMUNICATON CONTROL<==>CONTROL DE COMUNICACIONES.-->CONTROLE DE COMUNICAÇÕES
 (2569)READY<==>LISTO-->PRONTO
 (2570-IGUAIS)1
-(2571)The Forged Engineering Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Med Pack Bonus [c=RESET]: an additional 15% healed when using Med Packs. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de ingeniería forjado ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de botiquín [c=RESET]: un 15% adicional de curación al usar los botiquines. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O traje de engenharia forjado oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM3] Bonificação no kit médico [c=RESET]: um adicional de 15% de cura quando usar algum kit médico. \nA compra garante um mínimo de 15 espaços no inventário e 15% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
+(2571)The Forged Engineering Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Med Pack Bonus [c=RESET]: an additional 15% healed when using Med Packs. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de ingeniería forjado ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de botiquín [c=RESET]: un 15% adicional de curación al usar los botiquines. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O traje de engenharia forjado oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM3] Bonificação no kit médico [c=RESET]: um adicional de 15% de cura quando usar algum kit médico. \nA compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
 (2572)Can't Sell<==>No se puede vender-->Não pode vender
 (2573)WIDTH<==>ANCHO-->LARGURA
 (2574)Sr. QA Project Manager<==>Director de proyecto de control de calidad sénior-->Diretor do Projeto de Controle de Qualidade Sênior
@@ -3254,7 +3254,7 @@
 (3254){n}\nSUICIDE<==>{n}\nSUICIDIO-->{n}\nSUICIDIO
 (3255-IGUAIS)Alvi Islamaj
 (3256)A.I. Divider Head<==>Cabeza divisora de I.A.-->Cabeça Divisora de I.A.
-(3257)The Agility Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: Stasis duration is increased by 10%. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de agilidad ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de estabilización [c=RESET]: aumento del 10% en la duración de la estabilización. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O traje de agilidade oferece uma funcionalidade única para quem o usa:\n• [c=CUSTOM3] Bônus de Estabilização [c=RESET]: aumento de 10% na duração da estabilização. \nSua compra garante um mínimo de 15 espaços no inventário e 15% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
+(3257)The Agility Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: Stasis duration is increased by 10%. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de agilidad ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de estabilización [c=RESET]: aumento del 10% en la duración de la estabilización. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O traje de agilidade oferece uma funcionalidade única para quem o usa:\n• [c=CUSTOM3] Bônus de Estabilização [c=RESET]: aumento de 10% na duração da estabilização. \nSua compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
 (3258)Urban Camo Viral White<==>Blanco viral camuflaje urbano-->Branco Viral Camuflagem Urbana
 (3259-IGUAIS)1
 (3260-IGUAIS)1
@@ -4477,100 +4477,100 @@
 (4476)The gravity centrifuge is under repair.  I'm going to have to go down to Engineering. This should be interesting.<==>La centrifugadora está averiada. Voy a tener que bajar a Ingeniería. Esto será interesante.-->A centrifugadora está quebrada.  Vou ter que baixar a Engenharia. Isso vai ser interessante.
 (4477)I don't know how it could be.  I'll let you know. <==>No tengo ni idea. Ya te lo diré.-->Não tenho nem ideia.  Já te digo. 
 (4478) YEAH I KNOW! I'll call you back!<==>¡SÍ, LO SÉ! ¡Te volveré a llamar!--> SIM, EU SEI! Eu volto a te ligar!
-(4479)Okay, no Ellie, it isn't safe.  But I'm on my way to the centrifuge.<==>Vale, no, Ellie, no es seguro. Pero voy hacia la centrifugadora.-->Tudo bem, não, Ellie, isso não é seguro.  Mas estou indo para a centrifugadora.
-(4480) I'll call you when its online.<==>Te llamaré cuando esté en marcha.--> Vou chamá-lo quando isto estiver online.
-(4481)Ellie, the damn cooling core is extended and pieces are everywhere.<==>Ellie, el núcleo de refrigeración está desmontado y hay muchas piezas.-->Ellie, o maldito núcleo de resfriamento está estendido e tem peças em toda parte.
-(4482)Yeah, I see tube paths on the floating components.   I think I can match them up with the right sockets. <==>Sí, veo conexiones de tubos en los componentes que flotan. Creo que puedo encajarlos en sus tomas.-->Sim, eu vejo conexões de tubos sobre os componetes flutuantes.   Eu acho que posso combiná-los com os soquetes da direita.   
-(4483)I know, I'm going as fast as I can.  Look, I'll contact you when I'm done.<==>Lo sé, voy lo más rápido que puedo. Oye, te llamaré cuando termine.-->Eu sei, estou indo o mais rápido que eu posso.  Olha, Entrarei em contato com você quando terminar.
+(4479)Okay, no Ellie, it isn't safe.  But I'm on my way to the centrifuge.<==>Vale, no, Ellie, no es seguro. Pero voy hacia la centrifugadora.-->Tudo bem, não, Ellie, não é seguro.  Mas estou indo para a centrifugadora.
+(4480) I'll call you when its online.<==>Te llamaré cuando esté en marcha.--> Vou te chamar quando estiver funcionando.
+(4481)Ellie, the damn cooling core is extended and pieces are everywhere.<==>Ellie, el núcleo de refrigeración está desmontado y hay muchas piezas.-->Ellie, o núcleo de refrigeração está desmontado e tem peças em toda parte.
+(4482)Yeah, I see tube paths on the floating components.   I think I can match them up with the right sockets. <==>Sí, veo conexiones de tubos en los componentes que flotan. Creo que puedo encajarlos en sus tomas.-->Sim, estou vendo conexões de tubos nos componentes que estão flutuando.   Acho que posso encaixá-los em seus lugares.   
+(4483)I know, I'm going as fast as I can.  Look, I'll contact you when I'm done.<==>Lo sé, voy lo más rápido que puedo. Oye, te llamaré cuando termine.-->Eu sei, estou indo o mais rápido que posso.  Olha, entrarei em contato quando terminar.
 (4484)What? Oh shit. Are you okay?<==>¿Qué? Mierda. ¿Estás bien?-->O quê? Oh merda. Você está bem?
-(4485)I'm almost there. I'm headed to the bridge now to activate the gravity tethers.<==>Ya casi estoy. Me dirijo al puente para activar los anclajes gravitatorios.-->Estou quase lá. Esto indo para a ponte para ativar as travas gravitacionais.
+(4485)I'm almost there. I'm headed to the bridge now to activate the gravity tethers.<==>Ya casi estoy. Me dirijo al puente para activar los anclajes gravitatorios.-->Estou quase lá. Estou indo para a ponte para ativar as travas gravitacionais.
 (4486)Crap. <==>Mierda.-->Merda. 
-(4487)Alright, I'm on my way back up.<==>Muy bien, ya voy de vuelta.-->Tudo bem, estou retomando o meu caminho.
-(4488)No, still looking.  Just one more, right?<==>No, sigo buscando. Solo queda una, ¿verdad?-->Não, ainda estou procurando.  Só mais um, tudo bem?
-(4489)Okay.<==>Bien.-->Ok.
-(4490)Fine.  Except I haven't found one yet.<==>Bien. Solo que aún no he encontrado ninguna.-->Boa.  Só que ainda não encontrei nada.
-(4491)Spinny thing.   <==>Cosa giratoria.-->Coisa estranha.   
-(4492)I knew that.  I'll get it, hold on.<==>Lo sabía. Iré a por ella. Espera.-->Eu sabia disso.  Vou pegá-lo, espere.
+(4487)Alright, I'm on my way back up.<==>Muy bien, ya voy de vuelta.-->Tudo bem, já estou voltando.
+(4488)No, still looking.  Just one more, right?<==>No, sigo buscando. Solo queda una, ¿verdad?-->Não, ainda estou procurando.  Só mais um, certo?
+(4489)Okay.<==>Bien.-->Tudo bem.
+(4490)Fine.  Except I haven't found one yet.<==>Bien. Solo que aún no he encontrado ninguna.-->Tudo bem.  Só que ainda não encontrei nenhuma.
+(4491)Spinny thing.   <==>Cosa giratoria.-->Coisa giratória.   
+(4492)I knew that.  I'll get it, hold on.<==>Lo sabía. Iré a por ella. Espera.-->Eu sabia.  Vou atrás dela, espere um pouco.
 (4493)I'll see if I can rewire it from down here.<==>Intentaré derivarla desde aquí abajo.-->Vou ver se consigo religá-lo daqui.
 (4494)What?  Is it damaged? <==>¿Qué? ¿Tiene algún daño?-->O quê?  Ele está danificado? 
 (4495)One of us is.  It's too dangerous for you to stay here Ellie...<==>Uno de los lo hará. Es peligroso que te quedes, Ellie...-->Um de nós fará isso.  É muito perigoso para você ficar aqui Ellie...
-(4496)Crap, looks like I have to dodge these lasers to make my way around to the other side.  This'll be fun.<==>Mierda, parece que tendré que esquivar esos láseres para llegar al otro lado. Será divertido.-->Merda, parece que eu tenho que me desviar desses lasers para chegar ao outro lado.  Isto será divertido.
-(4497)I should be able to Kinesis these bridge pieces into place.<==>Usaré el módulo cinético para colocar las piezas del puente.-->Eu tenho que usar a Cinética para colocar as peças das pontes.
-(4498)What the hell?!<==>¡Pero ¿qué leches...?!-->Que diabos?!
+(4496)Crap, looks like I have to dodge these lasers to make my way around to the other side.  This'll be fun.<==>Mierda, parece que tendré que esquivar esos láseres para llegar al otro lado. Será divertido.-->Merda, parece que terei que desviar esses lasers para chegar do outro lado.  Isso vai ser divertido.
+(4497)I should be able to Kinesis these bridge pieces into place.<==>Usaré el módulo cinético para colocar las piezas del puente.-->Vou usar o módulo cinético para colocar as peças no lugar.
+(4498)What the hell?!<==>¡Pero ¿qué leches...?!-->Mas q'ue diabos?!
 (4499)What?!<==>¿Qué?-->O quê?!
 (4500)melee<==>cuerpo a cuerpo-->corpo-a-corpo
 (4501)PROGRESS REPORT 1<==>PROGRESS REPORT 15Åàeå£-->RELATÓRIO DE PROGRESSO 1
 (4502)[MenuA]SELECT<==>[MenuA]SELEC.-->[MenuA]SELECIONAR
 (4503)Addition UI Programming<==>Programación de IU adicional-->Programação Adicional de Interface do Usuário
-(4504)Increases Inventory slots and Armor.<==>Aumenta las ranuras del inventario y el blindaje.-->Aumente o espaço do inventário e da blindagem.
+(4504)Increases Inventory slots and Armor.<==>Aumenta las ranuras del inventario y el blindaje.-->Aumenta o espaço do inventário e a blindagem.
 (4505)Valuable electronic component.  Sell at the store for credits.<==>Componente electrónico valioso.  Vender en el almacén para obtener créditos.-->Componente eletrônico valioso.  Venda na loja para obter créditos.
-(4506)You unlocked increased ranged damage for the Puker<==>Has desbloqueado más daño a distancia para el vomitador.-->Você desbloqueou mais danos à distância para o Vomitador
-(4507)PROPER PROTOCOL<==>EL PROTOCOLO ADECUADO-->PROTOCOLO ADEQUADO
+(4506)You unlocked increased ranged damage for the Puker<==>Has desbloqueado más daño a distancia para el vomitador.-->Você desbloqueou mais dano à distância para o vomitador
+(4507)PROPER PROTOCOL<==>EL PROTOCOLO ADECUADO-->O PROTOCOLO ADEQUADO
 (4508)ELITE VINTAGE SUIT<==>TRAJE VINTAGE DE ÉLITE-->TRAJE VINTAGE DE ELITE
-(4509)I miss you Nicky<==>Te extraño, Nicky.-->Sinto sua falta Nicky
+(4509)I miss you Nicky<==>Te extraño, Nicky.-->Sinto sua falta, Nicky
 (4510)Nic?<==>¿Nic?-->Nic?
 (4511)Nicole?<==>¿Nicole?-->Nicole?
 (4512)Nicole?<==>¿Nicole?-->Nicole?
-(4513)The makers?  You mean me?  But Stross said we could destroy the Marker.<==>¿Creadores? ¿Te refieres a mí? Pero Stross dijo que podíamos destruir la Efigie.-->Criadores?  Quer dizer, eu?  Mas Stross disse que poderiamos destruir o Marker.
-(4514)Goddammit, I trusted you!<==>¡Maldita sea, confié en ti!-->Maldição, eu confiei em você!
-(4515)Fuck you... and fuck your marker!<==>¡Que os den! ¡A ti y a tu Efigie!-->Vai se fuder... você e o seu Marker!
+(4513)The makers?  You mean me?  But Stross said we could destroy the Marker.<==>¿Creadores? ¿Te refieres a mí? Pero Stross dijo que podíamos destruir la Efigie.-->Criadores?  Você quer dizer, eu?  Mas Stross me disse que poderíamos destruir o Marker.
+(4514)Goddammit, I trusted you!<==>¡Maldita sea, confié en ti!-->Droga, eu confiei em você!
+(4515)Fuck you... and fuck your marker!<==>¡Que os den! ¡A ti y a tu Efigie!-->Vai para o inferno... você e seu Marker!
 (4516)Hey! Hey!<==>¡Eh! ¡Alto! ¡Alto!-->Ei! Ei!
-(4517)Why'd you do it Stross?<==>¿Por qué lo has hecho, Stross?-->Porque você fez isto Stross?
+(4517)Why'd you do it Stross?<==>¿Por qué lo has hecho, Stross?-->Porque você fez isso, Stross?
 (4518)next map: {g}<==>Siguiente mapa: {g}-->próximo mapa: {g}
 (4519-IGUAIS)0
 (4520)ACCESS DENIED<==>ACCESO DENEGADO-->ACESSO NEGADO
 (4521)change difficulty<==>Cambiar dificultad-->mudar dificuldade
 (4522)You've unlocked credits that can be spent at the in-game store.<==>Has desbloqueado créditos que puedes gastar en el almacén del juego.-->Você desbloqueou créditos que podem ser gastos na loja do jogo.
-(4523)Shit! The Transport Hub is destroyed. The only way out of this mess is to escape into the CEC Facility!<==>¡Mierda! El nodo de transporte está destruido. ¡El único modo de salir de este caos es huyendo a la instalación de CEC!-->Merda! O centro do Transporte está destruído. O único meio de sair dessa bagunça é fugir pela Instalação do CEC!
+(4523)Shit! The Transport Hub is destroyed. The only way out of this mess is to escape into the CEC Facility!<==>¡Mierda! El nodo de transporte está destruido. ¡El único modo de salir de este caos es huyendo a la instalación de CEC!-->Merda! O centro de transporte está destruído. O único meio de sair dessa bagunça é fugindo para a instalação do CEC!
 (4524)top<==>Arriba-->cima
 (4525)Top<==>Arriba-->Cima
-(4526)Secondary Fire DAM +5% / REL -10%\n• [c=CUSTOM2] Primary Fire [c=RESET]:  pull and hold [rsbottom] to fire a fully automatic barrage of energy packets.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch a grenade at your target.<==>DÑO disparo secundario: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para disparar un aluvión automático de paquetes de energía.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzarle una granada a tu objetivo.-->DANO do Disparo Secundário: +5% / REC: -10%\n• [c=CUSTOM2] Disparo Principal [c=RESET]:  mantenha [rsbottom] para atirar uma barragem automática de pacotes de energia.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: aperte [rstop] para lançar uma granada em seu alvo.
+(4526)Secondary Fire DAM +5% / REL -10%\n• [c=CUSTOM2] Primary Fire [c=RESET]:  pull and hold [rsbottom] to fire a fully automatic barrage of energy packets.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch a grenade at your target.<==>DÑO disparo secundario: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para disparar un aluvión automático de paquetes de energía.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzarle una granada a tu objetivo.-->DANO disparo secundário: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]:  mantenha pressionado [rsbottom] para disparar uma enxurrada automática de pacotes de energia.\n• [c=CUSTOM2] Disparo secundário [c=RESET]: pressione [rstop] para lançar uma granada no seu alvo.
 (4527)sign in<==>Iniciar sesión-->iniciar sessão
 (4528)LOCATOR<==>LOCALIZADOR-->LOCALIZADOR
 (4529)puker<==>vomitador-->vomitador
 (4530)///quit<==>///Salir-->//sair
 (4531)///chapter select<==>///selección de capítulo-->//selecionar capítulo
 (4532-IGUAIS)Dominic Belanger
-(4533)plasma cutter II<==>cortadora de plasma II-->cortador de plasma II
+(4533)plasma cutter II<==>cortadora de plasma II-->cortadora de plasma II
 (4534)SPEED<==>VELOCIDAD-->VELOCIDADE
 (4535)controller map<==>Mapa de mando-->mapa de controle
-(4536-IGUAIS)HEALTH PACKS
+(4536-IGUAIS)HEALTH PACKS-->KIT DE SAÚDE
 (4537-IGUAIS)[LSBottom] + [RDUp]
 (4538)Joining<==>Uniéndose-->Entrando
 (4539)MISSION<==>MISIÓN-->MISSÃO
 (4540)OPEN<==>ABRIR-->ABRIR
 (4541)VFX Lead<==>Jefe de efectos visuales-->Chefe de Efeitos Visuais
-(4542)Welcome to Higher Living<==>Bienvenido a una vida mejor-->Bem-vindo à uma Vida Melhor
-(4543)In Case of Emergency, Use Stairs<==>En caso de emergencia, use las escaleras-->Em Caso de Emergência, Use as Escadas
+(4542)Welcome to Higher Living<==>Bienvenido a una vida mejor-->Bem-vindo à uma vida melhor
+(4543)In Case of Emergency, Use Stairs<==>En caso de emergencia, use las escaleras-->Em caso de emergência, use as escadas
 (4544)CALL ATTENDANT<==>LLAMAR A AYUDANTE-->CHAMAR ATENDENTE
 (4545)Luxury Redefined<==>Lujo redefinido-->Luxo Redefinido
-(4546)TST.  Be There. On Time.<==>ETT. Esté allí. A tiempo.-->ETT.  Seja Lá. Em Tempo.
-(4547)Technicians Please Sign Out<==>Técnicos, registren la salida-->Técnicos Por Favor Registrem a Saída
-(4548)WE'RE SORRY, THIS AREA CURRENTLY NOT AVAILABLE<==>LO SENTIMOS, ZONA NO DISPONIBLE EN ESTE MOMENTO-->PEDIMOS DESCULPAS, ESTA ÁREA NÃO ESTÁ DISPONÍVEL
+(4546)TST.  Be There. On Time.<==>ETT. Esté allí. A tiempo.-->ETT.  Esteja lá. A tempo.
+(4547)Technicians Please Sign Out<==>Técnicos, registren la salida-->Técnicos, por favor registrem a saída
+(4548)WE'RE SORRY, THIS AREA CURRENTLY NOT AVAILABLE<==>LO SENTIMOS, ZONA NO DISPONIBLE EN ESTE MOMENTO-->SINTO MUITO, ESSA ÁREA NÃO ESTÁ DISPONÍVEL
 (4549)Authorized Personnel Only<==>Solo personal autorizado-->Somente Pessoal Autorizado
-(4550)Unlock Your Potential<==>Descubra su potencial-->Descubra Seu Potencial
-(4551)WARNING: EXTREME DANGER<==>ALERTA: PELIGRO EXTREMO-->ATENÇÃO: PERIGO EXTREMO
-(4552)Authorized Personnel Only<==>Solo personal autorizado-->Somente Pessoal Autorizado
-(4553)Authorized Personnel Only<==>Solo personal autorizado-->Somente Pessoal Autorizado
-(4554)Service Personnel Only<==>Solo personal de servicio-->Somente Pessoal de Serviço
-(4555)Welcome to Our Community<==>Bienvenido a nuestra comunidad-->Bem-vindo à Nossa Comunidade
-(4556)Welcome to Our Community<==>Bienvenido a nuestra comunidad-->Bem-vindo à Nossa Comunidade
+(4550)Unlock Your Potential<==>Descubra su potencial-->Descubra seu potencial
+(4551)WARNING: EXTREME DANGER<==>ALERTA: PELIGRO EXTREMO-->ALERTA: PERIGO EXTREMO
+(4552)Authorized Personnel Only<==>Solo personal autorizado-->Somente pessoal autorizado
+(4553)Authorized Personnel Only<==>Solo personal autorizado-->Somente pessoal autorizado
+(4554)Service Personnel Only<==>Solo personal de servicio-->Somente pessoal de serviço
+(4555)Welcome to Our Community<==>Bienvenido a nuestra comunidad-->Bem-vindo à nossa comunidade
+(4556)Welcome to Our Community<==>Bienvenido a nuestra comunidad-->Bem-vindo à nossa comunidade
 (4557-IGUAIS)Chris Amani
 (4558-IGUAIS)Mark Mitchell
-(4559)Aim and press [RSTop]<==>Apunta y pulsa [RSTop].-->Mire e aperte [RSTop]
+(4559)Aim and press [RSTop]<==>Apunta y pulsa [RSTop].-->Mire e pressione [RSTop]
 (4560)Low<==>Bajo-->Baixo
 (4561)//store<==>//Almacén-->//loja
 (4562-IGUAIS)0
 (4563)destroy<==>Destruir-->destruir
 (4564)Break fuses to disable locks.<==>Rompe fusibles para desactivar bloqueos.-->Quebre os fusíveis para desativar as travas.
-(4565)Bring this schematic to the store to unlock the Flamethrower.<==>Lleva este diagrama al almacén para desbloquear el lanzallamas.-->Traga o diagrama até a loja para desbloquear o lança-chamas.
+(4565)Bring this schematic to the store to unlock the Flamethrower.<==>Lleva este diagrama al almacén para desbloquear el lanzallamas.-->Leve esse diagrama até a loja para desbloquear o lança-chamas.
 (4566-IGUAIS)Jesse Kalb
 (4567)OBJECTIVE\nINACTIVE<==>OBJETIVO\nINACTIVO-->OBJETIVO\nINATIVO
 (4568)ARCTIC SECURITY SUIT<==>TRAJE DE SEGURIDAD DE ARCTIC-->TRAJE DE SEGURANÇA DO ÁRTICO
-(4569)MISSION: The power is out and the Humans need to locate firing coordinates for the Solar Array. Can the Necromorphs stop them from total destruction?<==>MISIÓN: No hay electricidad y los humanos necesitan localizar las coordenadas de disparo para el panel solar. ¿Podrás los necromorfos impedir la destrucción total?-->MISSÃO: Não há eletricidade e os Seres Humanos precisam localizar as coordenadas de disparo para o Painel Solar. Poderá os Necromorfos parar a destruição total?
-(4570)RESTORE POWER?<==>¿RESTABLECER ENERGÍA?-->RESTAURAR ENERGIA?
+(4569)MISSION: The power is out and the Humans need to locate firing coordinates for the Solar Array. Can the Necromorphs stop them from total destruction?<==>MISIÓN: No hay electricidad y los humanos necesitan localizar las coordenadas de disparo para el panel solar. ¿Podrás los necromorfos impedir la destrucción total?-->MISSÃO: não há eletricidade e os seres humanos precisam localizar as coordenadas de disparo para o painel solar. Poderão os necromorfos impedir a destruição total?
+(4570)RESTORE POWER?<==>¿RESTABLECER ENERGÍA?-->REESTABLECER ENERGIA?
 (4571)POWER ACTIVATED<==>ENERGÍA ACTIVADA-->ENERGIA ATIVADA
-(4572)POWER MALFUNCTION<==>FALLO DE ENERGÍA-->MALFUNCIONAMENTO DA ENERGIA
+(4572)POWER MALFUNCTION<==>FALLO DE ENERGÍA-->FALHA DE ENERGIA
 (4573)STASIS ENEMIES<==>FRENAR A ENEMIGOS-->PARAR INIMIGOS
 (4574)EA Games President<==>Presidente de EA Games-->Presidente da EA Games
 (4575)Done<==>Terminado-->Feito
@@ -4578,16 +4578,16 @@
 (4577)Ellie's alive, and she's here!<==>¡Ellie está viva, y está aquí!-->Ellie está viva, e está aqui!
 (4578)Done<==>Terminado-->Feito
 (4579)Done<==>Terminado-->Feito
-(4580)This will upgrade your HIT POINTS by %g pts.<==>Se mejorarán los PUNTOS DE RESISTENCIA en %g pts.-->Isso vai atualizar seus PONTOS DE RESISTÊNCIA por %g pts.
+(4580)This will upgrade your HIT POINTS by %g pts.<==>Se mejorarán los PUNTOS DE RESISTENCIA en %g pts.-->Isso vai melhorar seus PONTOS DE RESISTÊNCIA em %g pts.
 (4581)off<==>No-->Não
 (4582)DECK B: PROCESSING<==>CUBIERTA B: PROCESAMIENTO-->PLATAFORMA B: PROCESSANDO
 (4583-IGUAIS)Tal Peleg
 (4584-IGUAIS)TJ Phan
 (4585)QA Testers<==>Pruebas de control de calidad-->Testes de Controle de Qualidade
-(4586)The Hazard Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Med Pack Bonus [c=RESET]: an additional 10% healed when using Med Packs. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de riesgo ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de botiquín [c=RESET]: un 10% adicional de curación al usar los botiquines. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje de Perigo concede funcionalidades únicas a quem o veste:\n• [c=CUSTOM3] Kit Médico Bônus [c=RESET]: um adicional de 10% de cura ao usar os Kits Médicos. \nA compra garante um mínimo de 15 espaços no inventário e 15% de blindagem. Seu DRI mantém a maior melhoria da blindagem e do Inventário.
-(4587)Offline<==>Desconectado-->Offline
-(4588)Urban Camo Army Green<==>Verde militar camuflaje urbano-->Camuflagem Urbana Verde Militar
-(4589)Meet Nicole to destroy the Marker.<==>Reúnete con Nicole para destruir la Efigie.-->Reuna-se com Nicole para destuir o Marker.
+(4586)The Hazard Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Med Pack Bonus [c=RESET]: an additional 10% healed when using Med Packs. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de riesgo ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de botiquín [c=RESET]: un 10% adicional de curación al usar los botiquines. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O traje de perigo oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM3] Bônus de kit médico [c=RESET]: um adicional de 10% de cura ao usar os kits médicos. \nA compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
+(4587)Offline<==>Desconectado-->Desconectado
+(4588)Urban Camo Army Green<==>Verde militar camuflaje urbano-->Verde militar camuflagem urbana
+(4589)Meet Nicole to destroy the Marker.<==>Reúnete con Nicole para destruir la Efigie.-->Reúna-se com Nicole para destruir o Marker.
 (4590)Advanced<==>Avanzado-->Avançado
 (4591-IGUAIS)Deutsch
 (4592-IGUAIS)Mike Deir
@@ -4604,22 +4604,22 @@
 (4603)%gSec.<==>%g s.-->%gSeg.
 (4604)Brutes<==>Bestias-->Bestas
 (4605)The patient is not cooperating.<==>El paciente no está cooperando.-->O paciente não está cooperando.
-(4606)Fuck you.<==>¡Que te den!-->Vai se fuder.
+(4606)Fuck you.<==>¡Que te den!-->Vai pro inferno.
 (4607)She needs another session! Yes!<==>¡Necesita otra sesión! ¡Sí!-->Ela precisa de outra sessão! Sim!
 (4608)Don't even try it!<==>¡Ni lo intentes!-->Nem tente!
 (4609)It's mine!<==>¡Es mío!-->É meu!
 (4610)AHH!<==>¡AAH!-->AHH!
 (4611)collector's edition<==>edición de coleccionista-->edição de colecionador
 (4612)access<==>acceso-->acesso
-(4613)Deadly chemical mixture.<==>Compuesto químico letal.-->Mistura química mortal.
+(4613)Deadly chemical mixture.<==>Compuesto químico letal.-->Mistura química letal.
 (4614)weapon select<==>Selección de arma-->selecionar arma
-(4615)Equipping this suit will give the wearer the following benefits:\n• 15% discount on purchases at the Store.\nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>La equipación de este traje ofrecerá a quien lo lleve las siguientes ventajas:\n• descuento del 15% en las compras realizadas en el almacén. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->Equipando este traje dará ao portador os seguintes beneficios:\n• 15% de desconto nas compras na Loja.\nA compra garante um mínimo de 25 espaços no inventário e 25% de blindagem. Seu DRI mantém a maior melhoria da blindagem e do Inventário.
+(4615)Equipping this suit will give the wearer the following benefits:\n• 15% discount on purchases at the Store.\nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>La equipación de este traje ofrecerá a quien lo lleve las siguientes ventajas:\n• descuento del 15% en las compras realizadas en el almacén. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->Equipar esse traje vai oferecer ao portador as seguintes vantagens:\n• 15% de desconto nas compras realizadas na loja.\nA compra garante um mínimo de 25 espaços de inventário e 25% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
 (4616)hard core<==>Imposible-->Impossível
 (4617)voice volume<==>Vol. voces-->volume da voz
 (4618)+{n} DOUBLE KILL<==>+{n} BAJA DOBLE-->+{n} MORTE DUPLA
-(4619)Ripper Schematic<==>Diagrama de sierra trituradora-->Diagrama de Serra Trituradora
+(4619)Ripper Schematic<==>Diagrama de sierra trituradora-->Diagrama de serra trituradora
 (4620)//Lateral\nGeniculate<==>//Geniculado\nlateral-->//Geniculado\nLateral
-(4621)Hard core is not available in "new game+"<==>La dificultad Imposible no está disponible en "Nueva partida +".-->O Modo Impossível não está disponível em "Novo jogo+"
+(4621)Hard core is not available in "new game+"<==>La dificultad Imposible no está disponible en "Nueva partida +".-->A dificuldade Impossível não está disponível em "Novo jogo+"
 (4622-IGUAIS)1
 (4623-IGUAIS)3
 (4624)FLAME FUEL SCHEMATIC<==>Diagrama de combustible inflamable-->DIAGRAMA DE COMBUSTÍVEL INFLAMÁVEL
@@ -4630,51 +4630,51 @@
 (4629)Marker Access<==>Acceso a la Efigie-->Acesso ao Marker
 (4630)Marker Access<==>Acceso a la Efigie-->Acesso ao Marker
 (4631)ACCESS DENIED<==>ACCESO DENEGADO-->ACESSO NEGADO
-(4632)Elevator to Thermal Works<==>Ascensor a obras térmicas-->Elevador para as Obras Térmicas
+(4632)Elevator to Thermal Works<==>Ascensor a obras térmicas-->Elevador para as obras térmicas
 (4633)Marker Access<==>Acceso a la Efigie-->Acesso ao Marker
-(4634)Secure Storage<==>Almacén seguro-->Armazenamento Seguro
-(4635)Radiation Containment<==>Contención de radiación-->Contenção de Radiação
-(4636)Direct Marker Access<==>Acceso directo a la Efigie-->Acesso Direto ao Marker
+(4634)Secure Storage<==>Almacén seguro-->Armazenamento seguro
+(4635)Radiation Containment<==>Contención de radiación-->Contenção de radiação
+(4636)Direct Marker Access<==>Acceso directo a la Efigie-->Acesso direto ao Marker
 (4637-IGUAIS)è
 (4638-IGUAIS)o
 (4639-IGUAIS)È
 (4640-IGUAIS)O
 (4641)SG<==>PG-->SG
-(4642)EARTHGOV SEEKER RIFLE<==>RIFLE BUSCADOR DEL GOBIERNO-->FUZÍL BUSCADOR DO GOV. DA TERRA
-(4643)Get to the Marker Chamber.<==>Ve a la cámara de la Efigie.-->Entre na Câmara do Marker.
+(4642)EARTHGOV SEEKER RIFLE<==>RIFLE BUSCADOR DEL GOBIERNO-->RIFLE BUSCADOR DO GOV. DA TERRA
+(4643)Get to the Marker Chamber.<==>Ve a la cámara de la Efigie.-->Entre na câmara do Marker.
 (4644)Concept Art<==>Arte conceptual-->Arte Conceitual
-(4645)You unlocked increased magazine size for the Plasma Cutter<==>Has desbloqueado un mayor tamaño del cargador para la cortadora de plasma.-->Você desbloqueou um maior tamanho do compartimento para o Cortador de Plasma
+(4645)You unlocked increased magazine size for the Plasma Cutter<==>Has desbloqueado un mayor tamaño del cargador para la cortadora de plasma.-->Você desbloqueou um maior tamanho do carregador para a cortadora de plasma
 (4646-IGUAIS)3
 (4647)Indoctrination Room<==>Sala de adoctrinamiento-->Sala de Doutrinação
-(4648)Executive Assistant, US Studios, EA Games<==>Ayudante ejecutivo de estudios de EE. UU. de EA Games-->Assistente Executivo, Estúdio dos EUA, EA Games
+(4648)Executive Assistant, US Studios, EA Games<==>Ayudante ejecutivo de estudios de EE. UU. de EA Games-->Assistente executivo dos estúdios de EE. UU. da EA Games
 (4649)//extras<==>//Extras-->//Extras
-(4650)RESPEC<==>REESPEC.-->RESPECTIVAMENTE
+(4650)RESPEC<==>REESPEC.-->REFAZER
 (4651)RANGE<==>ALCANCE-->ALCANCE
 (4652)Increases the splash damage radius of the mines<==>Aumenta el radio del daño de las minas.-->Aumente o alcance de dano das minas
 (4653)joining game...<==>Uniéndose a la partida...-->entrando no jogo...
 (4654)//online menu<==>//Menú online-->//menu online
-(4655)[MenuA]CONTINUE     [MenuB]BACK     [RDLeft]STORAGE DEVICE     [RDUp]DELETE<==>[MenuA]Aceptar   [MenuB]Atrás   [RDLeft]Disp. Almacen.   [RDUp]Borrar-->[MenuA]CONTINUAR     [MenuB]VOLTAR     [RDLeft]DISP. DE ARMAZENAMENTO     [RDUp]APAGAR
+(4655)[MenuA]CONTINUE     [MenuB]BACK     [RDLeft]STORAGE DEVICE     [RDUp]DELETE<==>[MenuA]Aceptar   [MenuB]Atrás   [RDLeft]Disp. Almacen.   [RDUp]Borrar-->[MenuA]CONTINUAR     [MenuB]VOLTAR     [RDLeft]DISP. ARMAZENAMENTO     [RDUp]APAGAR
 (4656-IGUAIS)1
 (4657)Lead Online Engineer<==>Jefe de ingeniería online-->Chefe da Engenharia Online
 (4658-IGUAIS)Laura Larson
-(4659)Are you sure you want to overwrite %1 on storage device %2?<==>¿Seguro que quieres sobrescribir %1 en el dispositivo de almacenamiento %2?-->Tem certeza que quer substituir %1?
+(4659)Are you sure you want to overwrite %1 on storage device %2?<==>¿Seguro que quieres sobrescribir %1 en el dispositivo de almacenamiento %2?-->Tem certeza que quer substituir %1 no dispositivo de armazenamento?
 (4660-IGUAIS)1
 (4661)Travel<==>Viaje-->Viagem
-(4662)Gravity Tethers: OFFLINE<==>Anclajes gravitatorios: DESACTIVADOS-->travas Gravitacionais: OFFLINE
-(4663)prevent the delivery of the linac<==>Evita que el linac llegue al banco de trabajo.-->evite que o linac chegue ao seu destino
+(4662)Gravity Tethers: OFFLINE<==>Anclajes gravitatorios: DESACTIVADOS-->Travas Gravitacionais: DESATIVADAS
+(4663)prevent the delivery of the linac<==>Evita que el linac llegue al banco de trabajo.-->Impeça que o linac chegue na bancada de trabalho
 (4664)Unlocked at level 16<==>Desbloqueado en el nivel 16-->Desbloqueado no nível 16
 (4665)AIR<==>AIRE-->AR
 (4666)defend<==>Defender-->defender
-(4667)primary fire: powerful semi-automatic rifle\nalternate fire: zoomed view<==>disparo principal: potente rifle semiautomático\ndisparo secundario: vista con zoom-->Disparo Principal: rifle semi-automático poderoso\nDisparo Secundário: visão ampliada
-(4668)primary fire: powerful semi-automatic rifle\nalternate fire: zoomed view<==>disparo principal: potente rifle semiautomático\ndisparo secundario: vista con zoom-->Disparo Principal: rifle semi-automático poderoso\nDisparo Secundário: visão ampliada
-(4669)The Arctic Security Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Flamethrower receives a 10% bonus to damage. \nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de seguridad del Ártico ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de arma [c=RESET]: un 10% adicional de daño para el lanzallamas. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.\n-->O Traje de Segurança do Ártico concede funcionalidades únicas a quem o veste:\n• [c=CUSTOM3] Bônus de Arma [c=RESET]: O Lança-chamas recebe um bônus de 10% de dano. \nA compra garante um mínimo de 25 espaços no inventário e 25% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
-(4670)unlock<==>desbloqueo-->destravar
-(4671)You have been disconnected from the game due to inactivity.<==>Se te ha desconectado de la partida por inactividad.-->Você foi desconectado da partida devido a inatividade.
-(4672)Master the Terror<==>Domina el terror-->Mestre do Terror
+(4667)primary fire: powerful semi-automatic rifle\nalternate fire: zoomed view<==>disparo principal: potente rifle semiautomático\ndisparo secundario: vista con zoom-->disparo principal: potente rifle semi-automático\ndisparo secundário: visão ampliada
+(4668)primary fire: powerful semi-automatic rifle\nalternate fire: zoomed view<==>disparo principal: potente rifle semiautomático\ndisparo secundario: vista con zoom-->disparo principal: pontente rifle semi-automático\ndisparo secundário: visão ampliada
+(4669)The Arctic Security Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Flamethrower receives a 10% bonus to damage. \nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de seguridad del Ártico ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de arma [c=RESET]: un 10% adicional de daño para el lanzallamas. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.\n-->O traje de segurança do Ártico oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM3] Bônus de arma [c=RESET]: 10% de dano adicional para o lança-chamas. \nA compra garante um mínimo de 25 espaços de inventário e 25% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
+(4670)unlock<==>desbloqueo-->desbloquear
+(4671)You have been disconnected from the game due to inactivity.<==>Se te ha desconectado de la partida por inactividad.-->Você foi desconectado da partida por inatividade.
+(4672)Master the Terror<==>Domina el terror-->Domine o terror
 (4673)Senior Engineers<==>Ingenieros sénior-->Engenheiros Sênior
 (4674)VINTAGE SUIT<==>TRAJE VINTAGE-->TRAJE VINTAGE
 (4675-IGUAIS)0
-(4676)Security Suit Schematic<==>Diagrama de traje de seguridad-->Diagrama do Traje de Segurança
+(4676)Security Suit Schematic<==>Diagrama de traje de seguridad-->Diagrama do traje de segurança
 (4677-IGUAIS)CAP
 (4678)CHR<==>CAR-->CAR
 (4679)///game setup<==>///Configuración de juego-->//Configuração do Jogo
@@ -4682,21 +4682,21 @@
 (4681)Are you sure you wish to allow EA to share your information with selected partners?<==>¿Seguro que quieres permitir a EA compartir tus datos con socios seleccionados?-->Você tem certeza que deseja que a EA compartilhe suas informações com os parceiros selecionados?
 (4682-IGUAIS)1
 (4683)SAFE<==>CAJA FUERTE-->COFRE
-(4684)The code you entered has been disabled. Please use another code.<==>El código introducido se ha deshabilitado. Utiliza otro código.-->O código que você colocou foi desabilitado. Por favor use outro código.
+(4684)The code you entered has been disabled. Please use another code.<==>El código introducido se ha deshabilitado. Utiliza otro código.-->O código que você inseriu foi desabilitado. Por favor use outro código.
 (4685)01/28/2011<==>28/01/2011-->28/01/2011
 (4686)Level Designers<==>Diseñadores de niveles-->Construtor de Níveis
-(4687)DMG<==>DAÑ-->DAN
+(4687)DMG<==>DAÑ-->DANO
 (4688)01/25/2011<==>25/01/2011-->25/01/2011
 (4689-IGUAIS)DUR
 (4690-IGUAIS)Guillaume Bourque
-(4691)Modular circuit board for the tram control computer.<==>Placa madre modular para el ordenador de control de monorraíl.-->Placa-mãe modular para o controlador do trem.
-(4692)you now have the ability to equip the line gun\nprimary fire: horizontal line cutter\nalternate fire: timed mine<==>Ahora ya puedes equipar el cañón lineal\ndisparo principal: rayo cortador horizontal\ndisparo secundario: mina temporizada-->agora você tem habilidade para equipar o Canhão Linear\nDisparo Principal: raio cortador horizontal\nDisparo Secundário: mina temporizada
-(4693)Pulse Rounds Schematic<==>Diagrama de cargas de impulsos-->Diagrama das Cargas de Impulso
+(4691)Modular circuit board for the tram control computer.<==>Placa madre modular para el ordenador de control de monorraíl.-->Placa-mãe modular para o computador de controle do trem.
+(4692)you now have the ability to equip the line gun\nprimary fire: horizontal line cutter\nalternate fire: timed mine<==>Ahora ya puedes equipar el cañón lineal\ndisparo principal: rayo cortador horizontal\ndisparo secundario: mina temporizada-->Você agora pode equipar o canhão linear\ndisparo principal: raio cortador horizontal\ndisparo secundário: mina temporizada
+(4693)Pulse Rounds Schematic<==>Diagrama de cargas de impulsos-->Diagrama de cargas de impulsos
 (4694-IGUAIS)www.deadspacegame.com
 (4695-IGUAIS)6
 (4696-IGUAIS)6
-(4697)ENG<==>ENE-->ENE
-(4698)We gotta go Boss, more's coming.<==>Tenemos que irnos, jefe. Vienen más.-->Nos temos que ir chefe, está vindo mais.
+(4697)ENG<==>ENE-->ENG
+(4698)We gotta go Boss, more's coming.<==>Tenemos que irnos, jefe. Vienen más.-->Temos que ir, chefe. Mais estão vindo.
 (4699-IGUAIS)^
 (4700-IGUAIS)^
 (4701)look / aim<==>mirar/apuntar-->olhar / mirar
@@ -4715,88 +4715,88 @@
 (4714)USG KELLION EN ROUTE TO AEGIS SYSTEM...<==>USG KELLION RUMBO AL SISTEMA AEGIS...-->USG KELLION RUMO AO SISTEMA AEGIS...
 (4715)...ISAAC CLARKE - ENGINEERING AND SHIP SYSTEMS SPECIALIST...\n\n...KENDRA DANIELS - COMPUTER SPECIALIST...\n\n...ZACH HAMMOND - CHIEF SECURITY OFFICER...\n<==>...ISAAC CLARKE - ESPECIALISTA EN INGENIERÍA Y SISTEMAS DE LA NAVE...\n\n...KENDRA DANIELS - ESPECIALISTA INFORMÁTICA...\n\n...ZACH HAMMOND - OFICIAL JEFE DE SEGURIDAD...\n-->...ISAAC CLARKE - ESPECIALISTA EM ENGENHARIA E SISTEMAS DA NAVE...\n\n...KENDRA DANIELS - ESCPECIALISTA EM INFORMÁTICA...\n\n...ZACH HAMMOND - OFICIAL CHEFE DE SEGURANÇA...\n
 (4716)DIRECTIVE A: LOCATE MINING VESSEL USG ISHIMURA...\n<==>DIRECTRIZ A: LOCALIZAR LA NAVE DE MINERÍA USG ISHIMURA...\n-->DIRETRIZ A: LOCALIZAR A NAVE DE MINERAÇÃO USG ISHIMURA...\n
-(4717)DIRECTIVE B: DIAGNOSE AND REPAIR COMMUNICATIONS BLACKOUT...\n<==>DIRECTRIZ B: EVALUAR Y REPARAR EL BLOQUEO DE COMUNICACIONES...\n-->DIRETRIZ B: DIÁGNOSTICAR E REPARAR O BLOQUEIO DE COMUNICAÇÕES...\n
+(4717)DIRECTIVE B: DIAGNOSE AND REPAIR COMMUNICATIONS BLACKOUT...\n<==>DIRECTRIZ B: EVALUAR Y REPARAR EL BLOQUEO DE COMUNICACIONES...\n-->DIRETRIZ B: DIAGNOSTICAR E REPARAR O BLOQUEIO DE COMUNICAÇÕES...\n
 (4718)TIME TO CONTACT POINT: 3 MINUTES...<==>TIEMPO AL PUNTO DE CONTACTO: 3 MINUTOS...-->TEMPO ATÉ O PONTO DE CONTATO: 3 MINUTOS...
 (4719)Software Engineering<==>Ingeniería de software-->Engenharia de Software
 (4720-IGUAIS)25
 (4721)music vol.<==>Vol. música-->Vol. da Música
 (4722-IGUAIS)1
 (4723-IGUAIS)Amanda Taggart
-(4724)Redeem Code<==>Canjear código-->Resgatar Códigos
+(4724)Redeem Code<==>Canjear código-->Resgatar Código
 (4725)Animators<==>Animadores-->Animadores
 (4726)Bring this schematic to the store to unlock the Ripper.<==>Lleva este diagrama al almacén para desbloquear la sierra trituradora.-->Leve esse diagrama até a loja para desbloquear a serra trituradora.
-(4727)prevent the humans from priming the beam emitters<==>Evita que los humanos detonen los emisores de haces.-->Evite que os humanos detonem os emissores de raio
+(4727)prevent the humans from priming the beam emitters<==>Evita que los humanos detonen los emisores de haces.-->Impeça que os humanos detonem os emissores de raio
 (4728)seeker rifle<==>Rifle buscador-->Rifle Buscador
-(4729)Hard Core mode save capacity reached, you are no longer able to save your game.<==>Has agotado la capacidad de guardado del modo Imposible, ya no puedes seguir guardando la partida.-->A capacidade de salvar do modo Impossível se esgotou, você não pode mais salvar seu jogo.
+(4729)Hard Core mode save capacity reached, you are no longer able to save your game.<==>Has agotado la capacidad de guardado del modo Imposible, ya no puedes seguir guardando la partida.-->Você esgotou a capacidade de salvar do modo Impossível, já não pode mais salvar seu jogo.
 (4730)Bring this schematic to the store to unlock the Flame Fuel.<==>Lleva este diagrama al almacén para desbloquear el combustible inflamable.-->Leve esse diagrama até a loja para desbloquear o combustível inflamável.
 (4731)RESPEC ABILITY UNLOCKED<==>HABILIDAD REESPEC. DESBLOQUEADA-->HABILIDADE REFAZER DESBLOQUEADA
-(4732)Portable defibrillator, capable of delivering an electric charge.<==>Desfibrilador portátil, capaz de suministrar una descarga eléctrica.-->Desfibrilador Portátil, capaz de induzir uma carga elétrica.
-(4733)Primary Fire DAM +5% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a single long-range round.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to toggle zoom mode and increase shot damage.<==>DÑO disparo principal: +5% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un único proyectil de largo alcance.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para cambiar el zoom y aumentar el daño del disparo.-->DANO do Disparo Principal: +5% / VEL: +5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: Aperte [rsbottom] para disparar uma simples bala de longo-alcance.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: Aperte [rstop] para ativar o zoom e aumentar o dano dos tiros.
-(4734)Front Center<==>Central-->Central
+(4732)Portable defibrillator, capable of delivering an electric charge.<==>Desfibrilador portátil, capaz de suministrar una descarga eléctrica.-->Desfibrilador portátil, capaz de induzir uma carga elétrica.
+(4733)Primary Fire DAM +5% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a single long-range round.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to toggle zoom mode and increase shot damage.<==>DÑO disparo principal: +5% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un único proyectil de largo alcance.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para cambiar el zoom y aumentar el daño del disparo.-->DANO do disparo principal: +5% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: Pressione [rsbottom] para disparar um único projétil de longo-alcance.\n• [c=CUSTOM2] Disparo secundário [c=RESET]: Pressione [rstop] para ativar o zoom e aumentar o dano do disparo.
+(4734)Front Center<==>Central-->Dianteiro Central
 (4735)Front Left<==>Frontal izquierdo-->Dianteiro Esquerdo
 (4736)Front Right<==>Frontal derecho-->Dianteiro Direito
 (4737)Rear Left<==>Trasero izquierdo-->Traseiro Esquerdo
 (4738)Rear Right<==>Trasero derecho-->Traseiro Direito
-(4739)Use [LDLeft] with Locator to find Save Stations and more.<==>Usa [LDLeft] en el localizador para buscar otros puntos del mapa.-->Use [LDLeft] com o Localizador para encontrar Estações de Salvamento e mais coisas.
+(4739)Use [LDLeft] with Locator to find Save Stations and more.<==>Usa [LDLeft] en el localizador para buscar otros puntos del mapa.-->Use [LDLeft] no localizador para encontrar estações de salvamento e outros pontos do mapa.
 (4740)FORCE ENERGY\nSchematic Acquired\nDownload at the Store<==>CARGA DE CAÑÓN DE ENERGÍA\nDiagrama Adquirido\nDescargar en el almacén-->CARGA DO CANHÃO DE ENERGIA\nDiagrama Adquirido\nBaixe na Loja
-(4741)Saving %1. Please don't turn off your Xbox 360 console.<==>Guardando %1. No apagues la consola.-->Salvando %1. Por Favor não desligue o Xbox 360.
+(4741)Saving %1. Please don't turn off your Xbox 360 console.<==>Guardando %1. No apagues la consola.-->Salvando %1. Por favor não desligue o console.
 (4742)OBJECTIVE\nCOMPLETE<==>OBJETIVO\nCOMPLETADO-->OBJETIVO\nCONCLUÍDO
-(4743)Golan, this is Hedrick.   You really don't hear anything when you're cleaning these bathrooms?  Every shift, I swear, I hear something in the walls, like a scratching noise.   When I stop moving, it stops.  When I move again, it waits a bit, then comes back.   Today, it followed me around, right under my feet, like it was stalking me. I... I...  I can't take this man.   This ship is cursed.  It is a bad, bad omen that it's here. I'm putting in for a transfer, you should too.<==>Golan, aquí Hedrick. ¿En serio no oyes nada cuando limpias esos baños? En todos los turnos, te lo juro, oigo cosas en las paredes, como alguien rascando. Si dejo de moverme, se detiene. Me vuelvo a mover, espera un poco, y vuelve a empezar. Hoy me siguió hasta donde yo iba, justo bajo mis pies, como si me acechara. No lo soporto, tío. Esta nave está maldita. Aquí hay una maldición. Voy a solicitar un traslado, y tú también deberías.-->Golan, aqui é o Hedrick. Você realmente não ouve nada quando está limpando esses banheiros?  Em todos os turnos, eu juro, ouço alguma coisa nas paredes, como se fosse um arranhão.   Quando eu fico parado, ele pára.  Quando eu me movo novamente, ele espera um pouco, então volta.   Hoje, ele me seguiu por ai, bem debaixo dos meus pés, como se estivesse me observando. Eu... Eu...  Eu não aguento isso cara. Essa nave é amaldiçoada.  Isso é ruim, é um mal presságio que está aqui. Eu estou pedindo transferência, e você deveria fazer o mesmo.
-(4744)Golan, it's Hedrick. Did you come in last shift? Did anyone? I think it's just me down here now. I got lost last night when the lights went out....and I fell down a ramp. I think. Or someone tripped me. I'm all bruised on my left side and my ankle is swollen..are you sure you guy aren't down here? I hear something near my locker. Screw this, I'm heading up. I'm never coming back here again.<==>Golan, soy Hedrick. ¿Has hecho tu último turno? ¿Lo ha hecho alguien? Creo que aquí ya no queda nadie. Anoche me perdí cuando se fue la luz... y me caí por una rampa, creo. O alguien me hizo tropezar. Tengo magulladuras por toda la parte izquierda del cuerpo y me he torcido el tobillo. ¿Seguro que no estás por aquí? Oigo algo cerca de mi taquilla. A la mierda, me subo. No pienso volver aquí nunca más.-->Golan, aqui é o Hedrick. Você veio ao último turno? Alguém veio? Acho que estou sozinho aqui embaixo agora. Eu me perdi na última noite quando as luzes se apagaram.... eu caí de uma rampa. Eu acho. Ou alguém me fez tropeçar. Estou com escoriações em todo o meu lado esquerdo e com o tornozelo torcido. Você tem certeza que não estão aqui embaixo? Eu ouvi algo perto do meu armário. Foda-se, estou subindo. Nunca mais volto aqui.
-(4745)The Cathedral reported two pressure equalization cycles during services last Sunday.   The first was minor, and only blew some candle flames around, giving Pastor O'Brien a much needed, if unexpected, boost in his sermon.   The second cycle was more harsh, resulting in a pressure snap that popped peoples' ears and sent several to medical.  That was not needed.   <==>La Catedral ha informado de dos ciclos de compensación de presión durante los servicios del pasado domingo. El primero fue leve, y solo apagó un par de velas, lo que hizo que el pastor O'Brien agilizase su sermón de forma inesperada, aunque agradecida. El segundo ciclo fue más intenso y provocó una descompresión que taponó los oídos de bastantes fieles y envió a varios a la enfermería. No era necesario.-->A Catedral informou sobre dois ciclos de equalização de pressão durante os cultos do último domingo. O primeiro foi leve, e apenas apagou algumas velas, fazendo com que o Pastor O'Brien, ainda que inesperada, apressasse o seu sermão. O segundo ciclo foi bem mais intenso, provocando uma descompressão que tampou o ouvido de vários fiéis e enviou vários a enfermaria. O que não era preciso.
+(4743)Golan, this is Hedrick.   You really don't hear anything when you're cleaning these bathrooms?  Every shift, I swear, I hear something in the walls, like a scratching noise.   When I stop moving, it stops.  When I move again, it waits a bit, then comes back.   Today, it followed me around, right under my feet, like it was stalking me. I... I...  I can't take this man.   This ship is cursed.  It is a bad, bad omen that it's here. I'm putting in for a transfer, you should too.<==>Golan, aquí Hedrick. ¿En serio no oyes nada cuando limpias esos baños? En todos los turnos, te lo juro, oigo cosas en las paredes, como alguien rascando. Si dejo de moverme, se detiene. Me vuelvo a mover, espera un poco, y vuelve a empezar. Hoy me siguió hasta donde yo iba, justo bajo mis pies, como si me acechara. No lo soporto, tío. Esta nave está maldita. Aquí hay una maldición. Voy a solicitar un traslado, y tú también deberías.-->Golan, aqui é o Hedrick. Será que você não ouve nada quando está limpando esses banheiros?  Em todos os turnos, eu juro, ouço coisas nas paredes, como o barulho de um arranhão.   Se eu fico parado, ele pára.  Se volto a me mover, ele espera um pouco, então volta.   Hoje ele me seguiu até onde eu estava, bem debaixo dos meus pés, como se estivesse me observando. Eu... Eu...  Eu não aguento mais isso. Essa nave é amaldiçoada.  Tem uma maldição aqui. Vou pedir a minha transferência, e acho que você deveria fazer o mesmo.
+(4744)Golan, it's Hedrick. Did you come in last shift? Did anyone? I think it's just me down here now. I got lost last night when the lights went out....and I fell down a ramp. I think. Or someone tripped me. I'm all bruised on my left side and my ankle is swollen..are you sure you guy aren't down here? I hear something near my locker. Screw this, I'm heading up. I'm never coming back here again.<==>Golan, soy Hedrick. ¿Has hecho tu último turno? ¿Lo ha hecho alguien? Creo que aquí ya no queda nadie. Anoche me perdí cuando se fue la luz... y me caí por una rampa, creo. O alguien me hizo tropezar. Tengo magulladuras por toda la parte izquierda del cuerpo y me he torcido el tobillo. ¿Seguro que no estás por aquí? Oigo algo cerca de mi taquilla. A la mierda, me subo. No pienso volver aquí nunca más.-->Golan, aqui é o Hedrick. Você veio no seu último turno? Alguém veio? Acho que estou sozinho aqui. Eu me perdi à noite, quando as luzes se apagaram.... e caí de uma rampa, eu acho. Ou alguém me fez tropeçar. Estou com escoriações por toda a parte esquerdo do meu corpo, e torci o tornozelo. Você não está mesmo por aqui? Eu ouvi alguma coisa perto do meu armário. Dane-se, estou subindo. Nunca mais volto aqui.
+(4745)The Cathedral reported two pressure equalization cycles during services last Sunday.   The first was minor, and only blew some candle flames around, giving Pastor O'Brien a much needed, if unexpected, boost in his sermon.   The second cycle was more harsh, resulting in a pressure snap that popped peoples' ears and sent several to medical.  That was not needed.   <==>La Catedral ha informado de dos ciclos de compensación de presión durante los servicios del pasado domingo. El primero fue leve, y solo apagó un par de velas, lo que hizo que el pastor O'Brien agilizase su sermón de forma inesperada, aunque agradecida. El segundo ciclo fue más intenso y provocó una descompresión que taponó los oídos de bastantes fieles y envió a varios a la enfermería. No era necesario.-->A Catedral informou sobre dois ciclos de equalização de pressão durante os cultos do último domingo. O primeiro foi leve, e só apagou algumas velas, fazendo com que o pastor O'Brien apressasse seu sermão de forma inesperada. O segundo ciclo foi bem mais intenso, e provocou uma descompressão que estourou o ouvido de vários fiéis e enviou vários para a enfermaria. Isso não era necessário.
 (4746-IGUAIS)Nick Earl
-(4747)You unlocked increased paired damage for the Lurker<==>Has desbloqueado más daño cuerpo a cuerpo para el merodeador.-->Você desbloqueou mais danos corpo-a-corpo para o Espreitador
+(4747)You unlocked increased paired damage for the Lurker<==>Has desbloqueado más daño cuerpo a cuerpo para el merodeador.-->Você desbloqueou mais dano corpo-a-corpo para o espreitador
 (4748)ESCAPE POD LOCATION<==>UBICACIÓN DE CÁPSULA-->LOCALIZAÇÃO DA CÁPSULA DE FUGA
-(4749)   Reunite with Ellie.<==>Reúnete con Ellie.-->   Reuna-se com Ellie.
-(4750)Download your Online Pass from the server.<==>Descarga tu pase online del servidor.-->Baixe seu Passe Online do servidor.
+(4749)   Reunite with Ellie.<==>Reúnete con Ellie.-->   Reúna-se com a Ellie.
+(4750)Download your Online Pass from the server.<==>Descarga tu pase online del servidor.-->Baixe seu passe online do servidor.
 (4751)Game Mode<==>Modo de juego-->Modo de Jogo
 (4752)RUN DIAGONISTICS?<==>¿EJECUTAR DIAGNÓSTICO?-->EXECUTAR DIAGNÓSTICOS?
 (4753)action<==>acción-->ação
 (4754)decline<==>Rechazar-->recusar
 (4755)Reserve Power Only<==>Solo reserva-->Apenas Energia Reserva
-(4756)Main Centrifuge\nOFFLINE<==>Centrifugadora\nINACTIVA-->centrifugadora Principal\nINATIVA
+(4756)Main Centrifuge\nOFFLINE<==>Centrifugadora\nINACTIVA-->Centrifugadora\nINATIVA
 (4757)Primary Ship System\nOFFLINE<==>Sistema primario\nDESCONECTADO-->Sistema Primário da Nave\nDESCONECTADO
 (4758)SCAN<==>ESCÁNER-->SCANNER
 (4759)Senior Director Business Affairs & Licensing<==>Director de asuntos empresariales y licencias sénior-->Diretor de Assuntos Empresariais e Licenças Sênior
 (4760-IGUAIS)0
 (4761-IGUAIS)Ian Milham
 (4762)War Torn<==>Desgastado-->Desgastado
-(4763)ENGINEERING SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE INGENIERÍA\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE ENGENHEIRO\nDiagrama Adquirido\nBaixe na Loja
+(4763)ENGINEERING SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE INGENIERÍA\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE ENGENHARIA\nDiagrama Adquirido\nBaixe na Loja
 (4764)SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA\nDiagrama Adquirido\nBaixe na Loja
 (4765)VINTAGE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE VINTAGE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE VINTAGE\nDiagrama Adquirido\nBaixe na Loja
-(4766)ADVANCED SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE AVANZADO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE AVANÇADA\nDiagrama Adquirido\nBaixe na Loja
-(4767)Contact me about EA products, news and events.<==>Recibir información de productos, noticias y eventos de EA.-->Receber informações sobre produtos EA, notícias e eventos.
+(4766)ADVANCED SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE AVANZADO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE AVANÇADO\nDiagrama Adquirido\nBaixe na Loja
+(4767)Contact me about EA products, news and events.<==>Recibir información de productos, noticias y eventos de EA.-->Receber informações sobre produtos, notícias e eventos da EA.
 (4768)ALT<==>SEC-->SEC
 (4769)OPEN / INTERACT<==>ABRIR / INTERACTUAR-->ABRIR / INTERAGIR
 (4770)EQUALIZING PRESSURE<==>EQUILIBRANDO PRESIÓN-->EQUILIBRANDO PRESSÃO
 (4771)Delivery Manager<==>Gestor de entregas-->Gestor de Entregas
 (4772-IGUAIS)1
-(4773)The Vintage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Store Discount [c=RESET]: items at the Store are discounted 10%. \nPurchase guarantees a minimum of 20 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje vintage ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Descuento en almacén [c=RESET]: un 10% de descuento en los objetos del almacén. \nSu compra garantiza un mínimo de 20 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje Vintage oferece uma funcionalidade únicas para quem o usa::\n• [c=CUSTOM3] Descontos na Loja [c=RESET]: itens na Loja tem desconto de 10%. \nA compra garante um mínimo de 20 espaços no Inventário e 15% de blindagem. Sua DRI retém uma melhora na blindagem e no Inventário.
-(4774)CRYPT ACCESS<==>ACCESO A LA CRIPTA-->ACESSO A CRIPTA
-(4775)Seeker Rifle Schematic<==>Diagrama de rifle buscador-->Diagrama do Rifle Buscador
+(4773)The Vintage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Store Discount [c=RESET]: items at the Store are discounted 10%. \nPurchase guarantees a minimum of 20 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje vintage ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Descuento en almacén [c=RESET]: un 10% de descuento en los objetos del almacén. \nSu compra garantiza un mínimo de 20 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O traje vintage oferece uma funcionalidade única para quem o usa:\n• [c=CUSTOM3] Descontos na loja [c=RESET]: 10% de desconto nos itens da loja. \nA compra garante um mínimo de 20 espaços de inventário e 15% de blindagem. Sua DRI conserva a maior melhoria de blindagem e inventário.
+(4774)CRYPT ACCESS<==>ACCESO A LA CRIPTA-->ACESSO À CRIPTA
+(4775)Seeker Rifle Schematic<==>Diagrama de rifle buscador-->Diagrama do rifle buscador
 (4776)Bring this schematic to the store to unlock the Security Suit.<==>Lleva este diagrama al almacén para desbloquear el traje de seguridad.-->Leve esse diagrama até a loja para desbloquear o traje de segurança.
 (4777)Load a saved game<==>Carga una partida guardada.-->Carregar um jogo salvo
-(4778)QA Support<==>Asistencia de control de calidad-->Assistência do Controle de Qualidade
+(4778)QA Support<==>Asistencia de control de calidad-->Assistência de Controle de Qualidade
 (4779-IGUAIS) PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
 (4780-IGUAIS)1
-(4781)Press and Hold [LSTop]<==>Mantén pulsado [LSTop].-->Segurar [LSTop]
+(4781)Press and Hold [LSTop]<==>Mantén pulsado [LSTop].-->Mantenha pressionado [LSTop]
 (4782)ACTIVATE?<==>¿ACTIVAR?-->ATIVAR?
 (4783)No power to drive shaft<==>Eje conductor sin energía-->Condutor sem energia
 (4784)Check gear box<==>Comprobar engranajes-->Checar embreagem
 (4785)Engaging transport<==>Activando transporte-->Ativando transporte
 (4786)Transport available<==>Transporte disponible-->Transporte disponível
 (4787)MALFUNCTION<==>AVERÍA-->MAL FUNCIONAMENTO
-(4788)Titan Station Church of Unitology\nRecruiting Report: Perry Gibeaux\nVested Member\nTithe status: Fully paid\n\nRecruiting has slowed markedly in the last few weeks.  This is surely due to EarthGov's recent slander campaign, painting us as carpetbaggers and insurrectionists in the press.   Regents from the Churches at Venus WayPort and the Heliopause Observer are shocking in later this week to strategize a response.   Expect additional budget to be allocated to Public Relations and Media to combat this trend.  Also, the CEC layoffs continue to negatively affect recruiting targets, we're down almost 30% year-on-year.\n\nGibeaux out.<==>Iglesia de la Uniología de la estación Titán\nInforme de reclutamiento: Perry Gibeaux\nMiembro investido\nEstado del diezmo: monetizado\n\nEl reclutamiento ha descendido notablemente en las últimas semanas debido, seguramente, a la reciente campaña difamadora del gobierno de la Tierra, que en la prensa nos tilda de oportunistas e insurgentes. Los regentes de las iglesias del puerto Venus y el Observador de Heliopausa se comunicarán con nosotros esta semana para acordar una respuesta. Con el fin de combatir este problema, se asignarán presupuestos adicionales a Relaciones Públicas y Medios. Además, los despidos de CEC continúan afectando de manera negativa al reclutamiento de objetivos, que ha descendido casi un 30% con respecto al año anterior.\n\nGibeaux, corto.-->Igreja de Unitologia da Estação Titã\nRelatório de Recrutamento: Perry Gibeaux\nMembro Empossado\nEstado do dízimo: Completamente Pago\n\nO recrutamento diminuíu consideravelmente nas últimas semanas. Isso se deve sem dúvidas a campanha difamadora do Governo da Terra, que nos chamou de oportunistas e insurgentes na imprensa. Regentes das Igrejas no Porto Vênus e o Observador da Heliopausa se comunicaram conosco para combinar uma resposta. Um orçamento adicional está sendo esperado para os setores de Relações Públicas e Mídia para combater esse problema.  Também, os despedidos da CEC continuam a afetar negativamente os objetivos de recrutamento, que caiu cerca de 30% em relação ao ano anterior..\n\nGibeaux, corta.
-(4789)ELEVATOR MAGNO-DOCK CONTROL<==>CONTROL DE ASCENSOR DE PLATAFORMA DE MAGNO-->CONTROLE DO ELEVADOR DA PLATAFORMA MAGNO
+(4788)Titan Station Church of Unitology\nRecruiting Report: Perry Gibeaux\nVested Member\nTithe status: Fully paid\n\nRecruiting has slowed markedly in the last few weeks.  This is surely due to EarthGov's recent slander campaign, painting us as carpetbaggers and insurrectionists in the press.   Regents from the Churches at Venus WayPort and the Heliopause Observer are shocking in later this week to strategize a response.   Expect additional budget to be allocated to Public Relations and Media to combat this trend.  Also, the CEC layoffs continue to negatively affect recruiting targets, we're down almost 30% year-on-year.\n\nGibeaux out.<==>Iglesia de la Uniología de la estación Titán\nInforme de reclutamiento: Perry Gibeaux\nMiembro investido\nEstado del diezmo: monetizado\n\nEl reclutamiento ha descendido notablemente en las últimas semanas debido, seguramente, a la reciente campaña difamadora del gobierno de la Tierra, que en la prensa nos tilda de oportunistas e insurgentes. Los regentes de las iglesias del puerto Venus y el Observador de Heliopausa se comunicarán con nosotros esta semana para acordar una respuesta. Con el fin de combatir este problema, se asignarán presupuestos adicionales a Relaciones Públicas y Medios. Además, los despidos de CEC continúan afectando de manera negativa al reclutamiento de objetivos, que ha descendido casi un 30% con respecto al año anterior.\n\nGibeaux, corto.-->Igreja da Unitologia da Estação Titã\nRelatório de Recrutamento: Perry Gibeaux\nMembro Empossado\nEstado do dízimo: completamente pago\n\nO recrutamento diminuiu consideravelmente nas últimas semanas. Isso se deve, sem dúvidas, à campanha difamadora do governo da Terra, que na imprensa nos chamou de oportunistas e insurgentes. Os regentes das igrejas do porto Vênus e o Observador de Heliopausa se comunicaram conosco essa semana para combinar uma resposta. Para combater esse problema, foi alocado um orçamento adicional para os setores de Relações Públicas e Mídia.  Também, os despedidos da CEC continuam afetando de maneira negativa o recrutamento de objetivos, que caiu cerca de 30% em relação ao ano anterior..\n\nGibeaux, desligo.
+(4789)ELEVATOR MAGNO-DOCK CONTROL<==>CONTROL DE ASCENSOR DE PLATAFORMA DE MAGNO-->CONTROLE DO ELEVADOR DA PLATAFORMA DE MAGNO
 (4790)[RDUp]RESET<==>[RDUp]RESTABLECER-->[RDUp]REESTABALECER
-(4791)Bring this schematic to the store to unlock the Pulse Rounds.<==>Lleva este diagrama al almacén para desbloquear las cargas de impulsos.-->Leve esse diagrama até a loja para desbloquear as cargas de impulso.
-(4792)Ammo and health conservation are the keys to survival. A skillful trigger finger is needed to survive.<==>Conservar la munición y la salud es la clave para sobrevivir, además de cierta habilidad al disparar.-->Conservar munição e saúde são as chaves para a sobrevivência. Um dedo habilidoso para disparar é necessário para sobreviver.
-(4793)Move items here from your Inventory to store them for later use.  Sell items here for additional credits.  Move items from the Safe back to your Inventory as needed.<==>Mueve objetos aquí desde tu inventario para almacenarlos hasta que los necesites. Vende objetos aquí para conseguir más créditos. Mueve objetos de la caja fuerte al inventario según los vayas necesitando.-->Mova os itens do seu Inventário aqui para guardá-los pra uso posterior. Venda itens aqui para créditos adicionais. Mova itens do Cofre de volta ao seu Inventário, conforme for necessário.
+(4791)Bring this schematic to the store to unlock the Pulse Rounds.<==>Lleva este diagrama al almacén para desbloquear las cargas de impulsos.-->Leve esse diagrama até a loja para desbloquear as cargas de impulsos.
+(4792)Ammo and health conservation are the keys to survival. A skillful trigger finger is needed to survive.<==>Conservar la munición y la salud es la clave para sobrevivir, además de cierta habilidad al disparar.-->Conservar munição e saúde é a chave para a sobrevivência, além de uma certa habilidade para disparar.
+(4793)Move items here from your Inventory to store them for later use.  Sell items here for additional credits.  Move items from the Safe back to your Inventory as needed.<==>Mueve objetos aquí desde tu inventario para almacenarlos hasta que los necesites. Vende objetos aquí para conseguir más créditos. Mueve objetos de la caja fuerte al inventario según los vayas necesitando.-->Mova para cá os itens do seu inventário para armazená-los pra uso posterior. Venda itens aqui para conseguir mais créditos. Mova itens do cofre para o inventário, conforme for necessário.
 (4794)INVENTORY<==>INVENTARIO-->INVENTÁRIO
-(4795)Force Energy Schematic<==>Diagrama de carga del cañón de energía-->Diagrama de carga do Canhão de Energia
-(4796)(explain EA Accounts here...)<==>(Explicación sobre las cuentas EA...)-->(explicação sobre contas EA aqui...)
-(4797)   Check the ship's status.<==>Comprueba el estado de la nave.-->   Verifique o status da nave.
-(4798)Multiplayer Spawn<==>Generación multijugador-->Geração de Multi-jogadores
+(4795)Force Energy Schematic<==>Diagrama de carga del cañón de energía-->Diagrama de carga do canhão de energia
+(4796)(explain EA Accounts here...)<==>(Explicación sobre las cuentas EA...)-->(explicação sobre contas da EA...)
+(4797)   Check the ship's status.<==>Comprueba el estado de la nave.-->   Verifique o estado da nave.
+(4798)Multiplayer Spawn<==>Generación multijugador-->Geração de vários jogadores
 (4799)STASIS (AIM MODE)\n QUICK HEAL<==>ESTABILIZACIÓN (MODO AP.)\n BOTIQUÍN RÁPIDO-->ESTABILIZAÇÃO (MODO DE MIRA)\n CURA RÁPIDA
 (4800)REL<==>REC-->REC
 (4801)RNG<==>ALC-->ALC
@@ -4809,7 +4809,7 @@
 (4808)SPECIAL<==>ESPECIAL-->ESPECIAL
 (4809-IGUAIS)[MenuA]
 (4810-IGUAIS)[MenuB]
-(4811)plasma cutter<==>cortadora de plasma-->Cortador de Plasma
+(4811)plasma cutter<==>cortadora de plasma-->Cortadora de Plasma
 (4812)QA Compliance Project Manager<==>Director de proyecto de validación de control de calidad-->Diretor do Projeto de Validação do Controle de Qualidade
 (4813-IGUAIS)Jeff Price
 (4814)FLASHLIGHT<==>LINTERNA-->LANTERNA
@@ -4817,7 +4817,7 @@
 (4816)achievement completion: {g}<==>Porcentaje de logros completados: {g}-->Conquista Completada: {g}
 (4817-IGUAIS)< > Select    ^ ! Scroll   (A) View Selected  (B) Back
 (4818)You have unlocked the "new game+" mode.\nSuits and weapons from your prior playthrough will be available in the first Store.<==>Has desbloqueado el modo "Nueva partida +". El inventario de la partida completada anterior estará disponible en la Caja fuerte del primer almacén.-->Você desbloqueou o modo "Novo Jogo+".\nTrajes e armas da sua partida anterior estarão disponíveis no Cofre na primeira Loja.
-(4819)AGILITY PLASMA CUTTER<==>CORTADORA DE PLASMA DE AGILIDAD-->CORTADOR DE PLASMA DE AGILIDADE
+(4819)AGILITY PLASMA CUTTER<==>CORTADORA DE PLASMA DE AGILIDAD-->CORTADORA DE PLASMA DE AGILIDADE
 (4820)Standard issue multi-environment flashlight.<==>Linterna estándar multientorno.-->Lanterna padrão multi-ambiental.
 (4821-IGUAIS)Andrew Lacey
 (4822)Unlocked at level 49<==>Desbloqueado en el nivel 49-->Desbloqueado no nível 49
@@ -5017,7 +5017,7 @@
 (5016)stomp<==>pisotón-->pisada
 (5017)Line Ammo Schematic<==>Diagrama de munición lineal-->Diagrama de Munição Linear
 (5018-IGUAIS)0
-(5019)REL -5% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: aperte [rsbottom] para disparar um raio cortante estreito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: aperte [rstop] para girar o cortador em 90 graus.
+(5019)REL -5% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: Pressione [rsbottom] para disparar um raio cortante estreito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: Pressione [rstop] para girar o cortador em 90 graus.
 (5020)You unlocked increased magazine size for the Rivet Gun<==>Has desbloqueado un mayor tamaño del cargador para la remachadora.-->Você desbloqueou o pente aumentado para a Rebitadeira
 (5021)owned by:<==>Autor de la derrota:-->Derrotado por:
 (5022)primary fire: fragmentation rivets\nalternate fire: reflective shrapnel blast<==>disparo principal: roblones de fragmentación\ndisparo secundario: ráfaga de metralla de proyección-->Disparo Principal: rebites de fragmentação\nDisparo Secundário: rajada de estilhaços de projeção
@@ -5028,7 +5028,7 @@
 (5027)TITAN PART 2<==>TITÁN PARTE 2-->TITÃ PARTE 2
 (5028)ALTMAN'S FOOTSTEPS<==>LOS PASOS DE ALTMAN-->OS PASSOS DE ALTMAN
 (5029)RECRUITING<==>RECLUTAMIENTO-->RECRUTAMENTO
-(5030)Press START button<==>Pulsa el botón START-->Aperte o botão START
+(5030)Press START button<==>Pulsa el botón START-->Pressione o botão START
 (5031)+{n}\nEXECUTION DAMAGE<==>+{n}\nDAÑO DE EJECUCIÓN-->+{n}\nDANO DE EXECUÇÃO
 (5032-IGUAIS)1
 (5033)Hold [LSBottom] to aim flashlight.<==>Mantén pulsado [LSBottom] para enfocar.-->Segure [LSBottom] para mirar a lanterna.
@@ -5119,7 +5119,7 @@
 (5118-IGUAIS)v
 (5119-IGUAIS)Ú
 (5120-IGUAIS)V
-(5121)Primary Fire DAM +5% / REL -10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to deploy a single proximity mine.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to disarm the last deployed mine for recovery.<==>DÑO disparo principal: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para colocar una sola mina de proximidad.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para desarmar la última mina de proximidad activada para su recuperación.-->DANO do Disparo Principal: +5% / REC: -10%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: aperte [rsbottom] para colocar uma única mina de proximidade.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: aperte [rstop] para desarmar a última mina plantada para sua recuperação.
+(5121)Primary Fire DAM +5% / REL -10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to deploy a single proximity mine.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to disarm the last deployed mine for recovery.<==>DÑO disparo principal: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para colocar una sola mina de proximidad.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para desarmar la última mina de proximidad activada para su recuperación.-->DANO do Disparo Principal: +5% / REC: -10%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: Pressione [rsbottom] para colocar uma única mina de proximidade.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: Pressione [rstop] para desarmar a última mina plantada para sua recuperação.
 (5122)We CAN'T HELP HER!<==>¡NO PODEMOS AYUDARLA!-->Nós NÃO PODEMOS AJUDA-LA!
 (5123)We have to go, NOW!<==>¡Tenemos que irnos, AHORA!-->Temos que ir, AGORA!
 (5124)SUIT<==>TRAJE-->TRAJE
@@ -5136,7 +5136,7 @@
 (5135-IGUAIS)2
 (5136)Associate Art Director<==>Director de diseño asociado-->Diretor de Artes Associado
 (5137)toxic spit<==>Escupitajo-->cuspe tóxico
-(5138)The Heavy Duty Vintage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Line Gun, Detonator, Contact Beam receive 5% damage bonus. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje vintage industrial ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación [c=RESET]: 5% más de daño para cañón lineal, detonador y rayo de contacto. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje vintage industrial fornece funcionalidades únicas a quem o veste:\n• [c=CUSTOM3] Bônus [c=RESET]: 5% a mais de danos para o Canhão Linear, Detonador, e Raio de Contato. \nA compra garante um mínimo de 15 espaços no Inventário e 15% de blindagem. Seu DRI mantém os melhores bonus de blindagem e Inventário.
+(5138)The Heavy Duty Vintage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Line Gun, Detonator, Contact Beam receive 5% damage bonus. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje vintage industrial ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación [c=RESET]: 5% más de daño para cañón lineal, detonador y rayo de contacto. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje vintage industrial fornece funcionalidades únicas a quem o veste:\n• [c=CUSTOM3] Bônus [c=RESET]: 5% a mais de danos para o Canhão Linear, Detonador, e Raio de Contato. \nA compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI mantém os melhores bonus de blindagem e Inventário.
 (5139)Chapter 2<==>Capítulo 2-->Capítulo 2 - Epidemia
 (5140)Tunnel 1\nCassini Apartments<==>Túnel 1\nApartamentos Cassini-->Túnel 1\nApartamentos Cassini
 (5141)Tunnel 2\nMarikina Towers<==>Túnel 2\nTorres Marikina-->Túnel 2\nTorres Marikina
@@ -5144,7 +5144,7 @@
 (5143)It's Issac!<==>¿Qué haces?-->É o Issac!
 (5144)FUNERARY WING<==>ALA FUNERARIA-->ALA FUNERÁRIA
 (5145)Matchmaking failed.  Some members of your playgroup might not be able to connect with each other due to a firewall conflict.  See www.support.ea.com for more information.<==>Error de Matchmaking. Es posible que algunos miembros de tu grupo de juego no puedan conectarse entre ellos debido a un conflicto con el cortafuegos. Para obtener más información, visita www.support.ea.com.-->Erro ao começar partida. Alguns membros do seu grupo de jogo não foram capazes de se conectar devido a um conflito de firewall. Visite www.support.ea.com para mais informações.
-(5146)Equipping this suit will give the wearer the following benefits:\n• 10% damage bonus to all weapons, 15% increase to Stasis duration.\nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>La equipación de este traje ofrecerá a quien lo lleve las siguientes ventajas:\n• 10% más al daño con todas las armas, 15% a la duración de la estabilización.\nSu compra garantiza un mínimo de 25 ranuras de inventarion y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->Equipando esse Traje irá dar a quem o veste os seguintes beneficios:\n• 10% de dano para todas as armas, 15% de aumento da duração de estabilização.\nA compra garante um mínimo de 25 espaços no Inventário e 25% de blindagem. Seu DRI mantém os melhores bonus de blindagem e Inventário.
+(5146)Equipping this suit will give the wearer the following benefits:\n• 10% damage bonus to all weapons, 15% increase to Stasis duration.\nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>La equipación de este traje ofrecerá a quien lo lleve las siguientes ventajas:\n• 10% más al daño con todas las armas, 15% a la duración de la estabilización.\nSu compra garantiza un mínimo de 25 ranuras de inventarion y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->Equipando esse Traje irá dar a quem o veste os seguintes beneficios:\n• 10% de dano para todas as armas, 15% de aumento da duração de estabilização.\nA compra garante um mínimo de 25 espaços de inventário e 25% de blindagem. Seu DRI mantém os melhores bonus de blindagem e Inventário.
 (5147-IGUAIS)ï
 (5148-IGUAIS)f
 (5149-IGUAIS)Ï
@@ -5181,15 +5181,15 @@
 (5180)Dismember enemies to kill them quickly and conserve ammo.<==>Cercena miembros de los enemigos para acabar con ellos con rapidez y ahorrar munición.-->Desmembre inimigos para matá-los mais rápido e conservar munição.
 (5181)Find Schematics to buy new weapons and items at the Store.<==>Busca diagramas para comprar nuevas armas y objetos en el almacén.-->Encontre Diagramas para comprar novas armas e itens na Loja.
 (5182)Use Stasis to slow down enemies, making them easier to kill.<==>Usa la estabilización para frenar a los enemigos y matarlos con más facilidad.-->Use a Estabilização para retardar os inimigos, deixando-os mais fácil para matar.
-(5183)Aim and press [RSTop] to engage each weapon's Alt Fire mode, and discover new combat strategies.<==>Apunta y pulsa [RSTop] para pasar al modo de disparo secundario de tus armas y descubrir nuevas estrategias de combate.-->Mire e aperte [RSTop] para passar ao modo de Disparo Secundário de cada arma, e descubra novas estratégias de combate.
+(5183)Aim and press [RSTop] to engage each weapon's Alt Fire mode, and discover new combat strategies.<==>Apunta y pulsa [RSTop] para pasar al modo de disparo secundario de tus armas y descubrir nuevas estrategias de combate.-->Mire e Pressione [RSTop] para passar ao modo de Disparo Secundário de cada arma, e descubra novas estratégias de combate.
 (5184)Upgrade your weapons by spending Power Nodes at the Upgrade Bench.<==>Para mejorar tus armas, utiliza nodos de energía en el banco de mejoras.-->Melhore suas armas utilizando Nodos de Energia no Banco de Melhoras.
 (5185)Buy a new suit at the Store to increase your Inventory Slots and Armor. All purchased suits will retroactively receive the maximum Inventory Slot and Armor upgrades.<==>Compra un traje nuevo en el almacén para aumentar tu espacio de inventario y tu blindaje. Recibirás de manera retroactiva las mejoras máximas de espacio de inventario y blindaje.-->Compre um novo traje na Loja para aumentar o seu espaço no Inventário e blindagem. Todas os trajes comprados vão retroativamente receber melhorias no espaço do Inventário e blindagem.
-(5186)Press [RSTop] in zero gravity to orient Isaac to the ground.<==>Pulsa [RSTop] en gravedad cero para orientar a Isaac al suelo.-->Aperte [RSTop] em gravidade zero para orientar Isaac até o solo.
+(5186)Press [RSTop] in zero gravity to orient Isaac to the ground.<==>Pulsa [RSTop] en gravedad cero para orientar a Isaac al suelo.-->Pressione [RSTop] em gravidade zero para orientar Isaac até o solo.
 (5187)Use Kinesis to grab enemy body parts and shoot them as weapons.<==>Utiliza la cinética para agarrar partes del cuerpo de los enemigos y lanzarlas como arma.-->Use Cinética para pegar partes do corpo de inimigos e usar elas como armas.
-(5188)Click and hold [Rstick] to use the Locator. It can guide you to objectives, stores, benches, and save stations.\n<==>Haz clic y mantén [Rstick] para usar el localizador. Puede guiarte a objetivos, almacenes, bancos y estaciones de guardado.\n-->Aperte e segure [RStick3] para usar o Localizador. Ele pode te guiar aos seus objetivos, armazéns, oficinas e centrais de salvamento.\n
+(5188)Click and hold [Rstick] to use the Locator. It can guide you to objectives, stores, benches, and save stations.\n<==>Haz clic y mantén [Rstick] para usar el localizador. Puede guiarte a objetivos, almacenes, bancos y estaciones de guardado.\n-->Pressione e segure [RStick3] para usar o Localizador. Ele pode te guiar aos seus objetivos, armazéns, oficinas e centrais de salvamento.\n
 (5189)Stomp corpses and crates to reveal Credits, Ammo, Stasis Packs, and Med Packs.<==>Pisotea cadáveres y cajas para descubrir créditos, munición, recargas de estabilización y botiquines.-->Esmague corpos e caixas para revelar Créditos, Munição, Kits de Estabilização, e Kits Médicos.
-(5190)With a Stasis Pack in your inventory, press [RDUp] to quickly recharge your Stasis.<==>Con una carga de estabilización en tu inventario, pulsa [RDUp] para recargar rápidamente la estabilización.-->Com um Kit de Estabilização no seu Inventário, aperte [RDUp] para recarregar sua Estabilização rapidamente.
-(5191)With a Health Pack in your inventory, press [RDRight] to quickly heal Isaac.<==>Con un botiquín en tu inventario, pulsa [RDRight] para curar rápidamente a Isaac.-->Com um Kit de Saúde em seu Inventário, aperte [RDRight] para curar rapidamente o Isaac.
+(5190)With a Stasis Pack in your inventory, press [RDUp] to quickly recharge your Stasis.<==>Con una carga de estabilización en tu inventario, pulsa [RDUp] para recargar rápidamente la estabilización.-->Com um Kit de Estabilização no seu Inventário, Pressione [RDUp] para recarregar sua Estabilização rapidamente.
+(5191)With a Health Pack in your inventory, press [RDRight] to quickly heal Isaac.<==>Con un botiquín en tu inventario, pulsa [RDRight] para curar rápidamente a Isaac.-->Com um Kit de Saúde em seu Inventário, Pressione [RDRight] para curar rapidamente o Isaac.
 (5192)Use Kinesis to pick up enemy limbs, then launch them back at enemies to impale them.<==>Utiliza la cinética para recoger extremidades de enemigos y, a continuación, lánzaselas para empalarlos.-->Use Cinética para pegar inimigos, e então lançá-los contra outros inimigos.
 (5193)Use Stasis to slow down and slip by hazardous obstacles in Zero Gravity.<==>Utiliza la estabilización para frenar y esquivar peligrosos obstáculos en gravedad cero.-->Use Estabilização para retardar e desviar de obstáculos perigosos em Gravidade Zero.
 (5194)Yellow, infected flesh is a weak spot for many enemies.<==>La carne amarilla, infectada, es un punto débil para muchos enemigos.-->A carne infectada amarela é um ponto fraco de vários inimigos.
@@ -5308,7 +5308,7 @@
 (5307)\nSquad 1, standby to close in on his position.<==>Patrulla 1, preparaos para aproximación a su posición.-->\nEquipe 1, preparem-se para aproximação em sua posição.
 (5308)I don't hear any movement, he may be dead.<==>No oigo ningún movimiento. Puede que esté muerto.-->Eu não escuto nenhum movimento, ele deve estar morto.
 (5309)Isaac Clarke, we know you're there, come out now.<==>Isaac Clarke, sabemos que estás ahí. Sal ahora.-->Isaac Clarke, nós sabemos que você está aqui, saia agora.
-(5310)Aim and press [RDRight] to grab loose objects.<==>Apunta y pulsa [RDRight] para atrapar objetos sueltos.-->Mire e aperte [RDRight] para pegar objetos soltos.
+(5310)Aim and press [RDRight] to grab loose objects.<==>Apunta y pulsa [RDRight] para atrapar objetos sueltos.-->Mire e Pressione [RDRight] para pegar objetos soltos.
 (5311)Pull Down<==>Bajar-->Baixar
 (5312)Move to Safe<==>Mover a la caja fuerte-->Mover para o Cofre
 (5313)Move to Inventory<==>Mover al inventario-->Mover para o Inventário
@@ -5353,14 +5353,14 @@
 (5352)brightness<==>Brillo-->Brilho
 (5353)Studio CTO<==>Director tecnológico del estudio-->Diretor Tecnológico do Estudio
 (5354)Your free trial has been activated. Multiplayer content is available for {d} days.<==>Tu versión de prueba gratuita se ha activado. El contenido multijugador estará disponible durante {d} días.-->Seu avaliação gratuito foi ativado. Conteúdo multijogador estará disponível por {d} dias.
-(5355)(click and hold [RStick])<==>(hacer clic y mantener [RStick])-->(aperte e segure)
+(5355)(click and hold [RStick])<==>(hacer clic y mantener [RStick])-->(Pressione e segure)
 (5356-IGUAIS)Rick Dimond
 (5357-IGUAIS)total
 (5358) PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!<==>La instalación de CEC--> PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
 (5359)rank<==>puesto-->Rank
 (5360)yes<==>Sí-->Sim
 (5361)///brightness<==>///Brillo-->///Brilho
-(5362)Press [start] to continue<==>Pulsa [start] para continuar-->Aperte [start] para continuar
+(5362)Press [start] to continue<==>Pulsa [start] para continuar-->Pressione [start] para continuar
 (5363)%1 appears to be damaged and cannot be used.<==>Parece que el archivo %1 está dañado y no puede utilizarse.-->Parece que os dados %1 estão danificados e não podem ser usados.
 (5364-IGUAIS)1
 (5365)OFFLINE<==>APAGADO-->DESCONECTADO
@@ -5469,12 +5469,12 @@
 (5468)continue free trial<==>continuar con versión de prueba gratuita-->continuar com versão de avaliaçãos gratuita
 (5469)Activate both Server Room terminals<==>Activa los dos terminales de la sala del servidor.-->Ativar os dois terminais da Sala do Servidor.
 (5470)consumer demo unlock description<==>descripción de desbloqueo de demo de consumidor-->descrição de desbloqueio da demonstração do consumidor
-(5471)Press [Select] to view inventory and logs.<==>Pulsa [Select] para ver el inventario y los registros.-->Aperte [Select] para ver o Inventário e os registros.
+(5471)Press [Select] to view inventory and logs.<==>Pulsa [Select] para ver el inventario y los registros.-->Pressione [Select] para ver o Inventário e os registros.
 (5472)line gun<==>cañón lineal-->canhão linear
 (5473)Production Babies<==>Bebés de producción-->Bebês da Produção
 (5474)ENTER?<==>¿ENTRAR?-->ENTRAR?
 (5475)Purchase, sell, and store your items.<==>Vende, compra y almacena tus objetos.-->Compre, venda, e guarde seus itens.
-(5476)Centrifuge is online! To get the gravity tethers fired up, I'll have to hustle to the Bridge Deck, where the controls are located.<==>¡Centrifugadora en marcha! Para activar los anclajes gravitatorios, tendré que ir a la cubierta del puente, que es donde están los controles.-->A centrifuga está ligada! Para ativar as travas gravitacionais, eu vou ter que ir até a plataforma da Ponte, onde estão localizados os controles.
+(5476)Centrifuge is online! To get the gravity tethers fired up, I'll have to hustle to the Bridge Deck, where the controls are located.<==>¡Centrifugadora en marcha! Para activar los anclajes gravitatorios, tendré que ir a la cubierta del puente, que es donde están los controles.-->A centrifugadora está ligada! Para ativar as travas gravitacionais, eu vou ter que ir até a plataforma da Ponte, onde estão localizados os controles.
 (5477)We lost him!  He dropped the data disc!  Get it!<==>¡Lo hemos perdido! ¡Ha soltado el disco! ¡Cogedlo!-->Nós o perdemos! Ele derrubou o disco de dados! Peguem-no!
 (5478)We've got to take out as many of them as we can before they  reach the public sector!<==>Bien, ¡Proteged el núcleo, no les dejéis destruirlo, tenemos 1 minuto!-->Nós temos que acabar com a maioria deles que conseguirmos antes que eles alcancem o setor público!
 (5479)Oh shit!  The second unit's down!  Only one left!<==>¡Joder! ¡La segunda unidad no va! ¡Solo queda una!-->Merda! A segunda unidade já era! Apenas uma restando!
@@ -5562,7 +5562,7 @@
 (5561)+melee damage<==>+daño cuerpo a cuerpo-->+dano corpo a corpo
 (5562-IGUAIS)Mitch Harris
 (5563)The email address is missing.<==>No se ha introducido la dirección de correo electrónico.-->Está faltando o endereço de email .
-(5564)refurbished plasma cutter<==>cortadora de plasma restaurada-->cortador de plasma recondicionado
+(5564)refurbished plasma cutter<==>cortadora de plasma restaurada-->cortadora de plasma recondicionado
 (5565)GET TO THE TRAM<==>AL MONORRAÍL-->VÁ ATÉ O TREM
 (5566)ANOTHER NEW ROUTE\n<==>OTRA NUEVA RUTA\n-->OUTRA NOVA ROTA\n
 (5567)TOO FAR GONE<==>DEMASIADO TARDE-->TARDE DEMAIS
@@ -5580,7 +5580,7 @@
 (5579)Artificial Gravity<==>Grav. artificial-->Gravidade Artificial
 (5580)NODES<==>NODOS-->NODOS
 (5581)If you decline EA's Privacy Policy and Terms of Service, you will not be able to register your EA Account, or take advantage of any of the online features.<==>Si rechazas la Política de privacidad y los Términos de servicio de EA, no podrás registrar tu cuenta EA ni beneficiarte de ninguna de las funciones online.-->Se você não aceitar as Políticas de Privacidade e os Termos de Serviço da EA, você não poderá registrar uma Conta EA, ou desfrutar de qualquer serviço online.
-(5582)Press [RSTop]<==>Pulsa [RSTop].-->Aperte [RSTop]
+(5582)Press [RSTop]<==>Pulsa [RSTop].-->Pressione [RSTop]
 (5583)Equip<==>Equipar-->Equipar
 (5584-IGUAIS)100 - 109
 (5585-IGUAIS)110 - 119
@@ -5625,13 +5625,13 @@
 (5624)Start a new game<==>Empieza una nueva partida.-->Comece um novo jogo
 (5625)MOVEMENT<==>MOVIMIENTO-->MOVIMENTO
 (5626-IGUAIS)2
-(5627)Click [RStick] twice<==>Haz clic dos veces en\n[RStick].-->Aperte [RStick]
+(5627)Click [RStick] twice<==>Haz clic dos veces en\n[RStick].-->Pressione [RStick]
 (5628)Key to the Elevators on the Crew Deck.<==>Llave de los ascensores de la cubierta de la tripulación.-->Chave para os Elevadores da plataforma da Tripulação.
 (5629-IGUAIS)3
 (5630)DIRE<==>DECISIÓN NEFASTA-->DECISÃO TERRÍVEL
 (5631)TIEDEMANN'S LAST HOPE<==>LA ÚLTIMA ESPERANZA DE TIEDEMANN-->A ÚLTIMA ESPERANÇA DE TIEDEMANN
 (5632-IGUAIS)1
-(5633)Pull [RSBottom]<==>Pulsa [RSBottom].-->Aperte [RSBottom]
+(5633)Pull [RSBottom]<==>Pulsa [RSBottom].-->Pressione [RSBottom]
 (5634)Advanced Suit Schematic<==>Diagrama de traje avanzado-->Diagrama de Traje Avançado
 (5635-IGUAIS)0
 (5636)Priming completed, stage 1.<==>Detonación completada, fase 1.-->Detonação completada, fase 1.
@@ -5755,7 +5755,7 @@
 (5754)Audiolog, RIG number 438642. These could be my last words. The monsters are loose. I couldn't stop them. And now the reactor core is overheating -- which will destroy the entire Sprawl if I can't fix it! So... I hope someone hears this. It means I did that much right, at least.<==>Registro sonoro, DRI número 438642. Estas podrían ser mis últimas palabras. Los monstruos están sueltos. No he podido detenerlos. Y ahora el núcleo del reactor se está sobrecalentando y acabará destruyendo El Eje si no logro arreglarlo! Así que... espero que alguien oiga esto. Significaría que, al menos, he hecho algo bien.-->Registro de Áudio, DRI número 438642. Estas poderiam ser as minhas últimas palavras. Os monstros estão soltos. Eu não consegui detê-los. E agora o núcleo do reator está superaquecendo, e acabará destruindo o Sprawl inteiro se eu não conseguir corrigi-lo! Então... espero que alguém escute isso. Isso significa que, pelo menos, eu fiz algo bom.
 (5755)For veteran Dead Space players. Ammo and health are less plentiful, and enemies are more deadly.<==>Para jugadores de Dead Space veteranos. La munición y la salud son menos abundantes, y los enemigos, más letales.-->Para os jogadores veteranos de Dead Space. A Munição e a saúde são menos abundantes, e os inimigos são mais letais.
 (5756)FLUCTUATIONS<==>FLUCTUACIONES-->FLUTUAÇÕES
-(5757)RESPEC<==>REESPEC.-->RESPECTIVAMENTE
+(5757)RESPEC<==>REESPEC.-->REFAZER
 (5758)Prevent the humans from activating the Control Room Terminals<==>Evita que los humanos activen los terminales de la sala de control.-->Evita que os humanos ativem os Terminais da Sala de Controle
 (5759)KINESIS LAUNCH<==>LANZAR CINÉTICO-->LANÇAR CINÉTICO
 (5760)tutorials<==>Tutoriales-->Tutoriais
@@ -5870,7 +5870,7 @@
 (5869)Asset Localization<==>Localización-->Localização
 (5870)Air canisters used<==>Botes de oxígeno usados-->Tubos de oxigênio usados
 (5871)PDLC<==>DLCP-->DLCP
-(5872)Slowly rotate [LStick] to find blue weak points, then press [RDDown]<==>Gira lentamente [LStick] para buscar puntos azules y después pulsa [RDDown].-->Gire lentamente [LStick] para encontrar pontos azuis, e depois aperte [RDDown]
+(5872)Slowly rotate [LStick] to find blue weak points, then press [RDDown]<==>Gira lentamente [LStick] para buscar puntos azules y después pulsa [RDDown].-->Gire lentamente [LStick] para encontrar pontos azuis, e depois pressione [RDDown]
 (5873-IGUAIS)Steven Anthony Jones
 (5874-IGUAIS)Mark Atherlay
 (5875-IGUAIS)Jon Carlos
@@ -5883,10 +5883,10 @@
 (5882)/unlocks<==>/Desbloqueos-->/desbloqueados
 (5883)Zealot Suit<==>Traje extremo-->Traje Extremo
 (5884)   Get to to the Ishimura.<==>Ve al Ishimura.-->   Vá para a Ishimura.
-(5885)Medical gel pack that restores a small amount of health.\n\nPress [RDRight] to consume instantly and increase health.<==>Botiquín con gel curativo que restablece una pequeña cantidad de salud.\n\nPulsa [RDRight] para consumirlo al instante y aumentar la salud.-->Kit Médico com gel que restaura uma pequena quantidade de saúde.\n\nAperte [RDRight] para consumir imediatamente e melhorar a saúde.
+(5885)Medical gel pack that restores a small amount of health.\n\nPress [RDRight] to consume instantly and increase health.<==>Botiquín con gel curativo que restablece una pequeña cantidad de salud.\n\nPulsa [RDRight] para consumirlo al instante y aumentar la salud.-->Kit Médico com gel que restaura uma pequena quantidade de saúde.\n\nPressione [RDRight] para consumir imediatamente e melhorar a saúde.
 (5886-IGUAIS)Michael Gagnon
 (5887)Lead UI Designer<==>Jefe de diseño de IU-->Chefe de Disign de IU
-(5888)Aim and press [RDUp] to slow moving objects.<==>Apunta y pulsa [RDUp] para ralentizar objetos en movimiento.-->Mire e aperte [RDUp] para diminuirto slow moving objects.
+(5888)Aim and press [RDUp] to slow moving objects.<==>Apunta y pulsa [RDUp] para ralentizar objetos en movimiento.-->Mire e pressione [RDUp] para diminuirto slow moving objects.
 (5889)Performed by<==>Interpretada por-->Interpretada por
 (5890)expanded mag<==>cargador ampliado-->carregador expandido
 (5891)Hold to confirm sequence...<==>Mantener para confirmar secuencia...-->Segure para confirmar seqüência...
@@ -5923,7 +5923,7 @@
 (5922)destroy the final marker<==>Destruye la última Efigie.-->destrua o último marker
 (5923)bench<==>banco-->banco
 (5924-IGUAIS)[]
-(5925)The Soldier Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Seeker Rifle receives a 10% bonus to damage. \nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de soldado ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de arma [c=RESET]: un 10% adicional de daño para el rifle buscador. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.\n-->O Traje de Soldado concede funcionalidade única a quem o usa:\n• [c=CUSTOM3] Arma Bonus [c=RESET]: Recebe um bônus de 10% de dano para o Rifle Buscador.\nSua compra garantirá um mínimo de 25 espaços no inventário e 25% de blindagem. Seu DRI mantém a maior melhoria de blindagem e de Inventário.
+(5925)The Soldier Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Seeker Rifle receives a 10% bonus to damage. \nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de soldado ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de arma [c=RESET]: un 10% adicional de daño para el rifle buscador. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.\n-->O Traje de Soldado concede funcionalidade única a quem o usa:\n• [c=CUSTOM3] Arma Bonus [c=RESET]: Recebe um bônus de 10% de dano para o Rifle Buscador.\nSua compra garantirá um mínimo de 25 espaços de inventário e 25% de blindagem. Seu DRI mantém a maior melhoria de blindagem e de Inventário.
 (5926)ATMOSPHERIC PURITY INCREASED<==>PUREZA ATMOSFÉRICA AUMENTADA-->PUREZA ATMOSFÉRICA AUMENTADA
 (5927)HACK<==>PIRATEAR-->HACKEAR
 (5928)SECURITY SUIT (deprecated)<==>TRAJE DE SEGURIDAD (desvalorado)-->TRAJE DE SEGURANÇA (desvalorizado)
@@ -6056,7 +6056,7 @@
 (6055)We've got it, cover each other or we will never make it.<==>Ya está, cubrámonos o jamás lo conseguiremos.-->Nós a temos, protejam um ao outro ou nunca conseguiremos fazer isso.
 (6056-IGUAIS)3
 (6057-IGUAIS)[]
-(6058)Dead Space¬ Unlock, used and refurbished by CEC.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>Desbloqueo de Dead Space¬, empleado y restaurado por CEC.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->Desbloqueio de Dead Space¬, usado e restaurado por CEC.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: aperte [rsbottom] para disparar um raio cortador estreito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: aperte [rstop] para girar a cortador 90 graus.
+(6058)Dead Space¬ Unlock, used and refurbished by CEC.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>Desbloqueo de Dead Space¬, empleado y restaurado por CEC.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->Desbloqueio de Dead Space¬, usado e restaurado por CEC.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um raio cortador estreito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para girar a cortador 90 graus.
 (6059)Character Art<==>Diseño de personajes-->Arte de Personagem
 (6060-IGUAIS)Dino Frei
 (6061-IGUAIS)Dmitri Prykhodko
@@ -6246,7 +6246,7 @@
 (6245)VENT WARNING<==>ALERTA EN EL RESPIRADERO-->ALERTA NO RESPIRADOURO
 (6246)Bring this schematic to the store to unlock the Force Gun.<==>Lleva este diagrama al almacén para desbloquear el cañón de energía.-->Leve este diagrama ao armazém para desbloquear o canhão de energia.
 (6247)TESTING CENTER<==>CENTRO DE PRUEBAS-->CENTRO DE avaliaçãoS
-(6248)Press [RDDown]<==>Pulsa [RDDown].-->Aperte [RDDown]
+(6248)Press [RDDown]<==>Pulsa [RDDown].-->Pressione [RDDown]
 (6249)[Death is not the end.]<==>[La muerte no es el final.]-->[A morte não é o fim.]
 (6250)Production<==>Producción-->Produção
 (6251-IGUAIS)2
@@ -6264,7 +6264,7 @@
 (6263-IGUAIS)[RDUp]
 (6264)OFF LINE<==>APAGADO-->DESCONECTADO
 (6265)Oxygen Plant Entrance<==>Entrada planta de oxígeno-->Entrada da Instalação de Oxigênio
-(6266)AUDIO LOG FOUND.\nPress [Select] to play.<==>REGISTRO DE AUDIO ENCONTRADO.\nPulsa [Select] para escucharlo.-->REGISTRO DE ÁUDIO ENCONTRADO.\nAperte [Select] para escutar.
+(6266)AUDIO LOG FOUND.\nPress [Select] to play.<==>REGISTRO DE AUDIO ENCONTRADO.\nPulsa [Select] para escucharlo.-->REGISTRO DE ÁUDIO ENCONTRADO.\nPressione [Select] para escutar.
 (6267)Thermal Scanning Room Access<==>Acceso a sala de escáner térmico-->Acesso à Sala de Escáner Térmico
 (6268)Thermal Scanning Room Access<==>Acceso a sala de escáner térmico-->Acesso à Sala de Escáner Térmico
 (6269)Mining Hall B Access<==>Acceso a pabellón minero B-->Acesso ao Pavilhão de Extração B
@@ -6332,7 +6332,7 @@
 (6331)The email address or password is too long.<==>La dirección de correo electrónico o la contraseña son demasiado largas.-->O e-mail ou a senha é muito grande.
 (6332)escort<==>Escoltar-->Escoltar
 (6333)exit<==>Salida-->Saída
-(6334)Primary Fire DAM +5% / REL -10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] for a steady stream of flame.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch an entire flame fuel canister at a target for heavy damage.<==>DÑO disparo principal: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para lanzar una llamarada.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar un bote entero de combustible inflamable a un objetivo y causarle graves daños.-->DANOS Disparo Primário: +5% / REC: -10%\n• [c=CUSTOM2] Disparo Primário [c=RESET]: aperte e segure [rsbottom] para lançar uma chama de fogo.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: aperte [rstop] para lançar um tubo cheio de combustível em um alvo e causar-lhe danos graves.
+(6334)Primary Fire DAM +5% / REL -10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] for a steady stream of flame.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch an entire flame fuel canister at a target for heavy damage.<==>DÑO disparo principal: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para lanzar una llamarada.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar un bote entero de combustible inflamable a un objetivo y causarle graves daños.-->DANOS Disparo Primário: +5% / REC: -10%\n• [c=CUSTOM2] Disparo Primário [c=RESET]: pressione e segure [rsbottom] para lançar uma chama de fogo.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar um tubo cheio de combustível em um alvo e causar-lhe danos graves.
 (6335)DATA BOARD<==>PANEL DE DATOS-->PAINEL DE DADOS
 (6336)weapons<==>Armas-->Armas
 (6337)stasis<==>Estabilización-->Estabilização
@@ -6408,7 +6408,7 @@
 (6407-IGUAIS)Kristine Barrett
 (6408)No Smoking\nor\nOpen Flame<==>Prohibido fumar\no\nencender fuego-->Proibido fumar\nor\nAbrir fogo
 (6409)terms of service<==>Términos de servicio-->Termos de Serviço
-(6410)The Advanced Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: Stasis recharge time is decreased by 50%. \nPurchase guarantees a minimum of 25 inventory slots and 20% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje avanzado ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Estabilización extra [c=RESET]: reduce en un 50% el tiempo de recarga de la estabilización. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 20% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O trajo avançado oferece funcionalidade única para quem o usa:\n• [c=CUSTOM3] Estabilização extra [c=RESET]: Reduz em 50% o tempo de recarga de estabilização. \nA compra garante um mínimo de 25 espaços no inventário e 20% de blindagem. Seu DRI conserva a maior melhora de Blindagem e Inventário.
+(6410)The Advanced Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: Stasis recharge time is decreased by 50%. \nPurchase guarantees a minimum of 25 inventory slots and 20% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje avanzado ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Estabilización extra [c=RESET]: reduce en un 50% el tiempo de recarga de la estabilización. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 20% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O trajo avançado oferece funcionalidade única para quem o usa:\n• [c=CUSTOM3] Estabilização extra [c=RESET]: Reduz em 50% o tempo de recarga de estabilização. \nA compra garante um mínimo de 25 espaços de inventário e 20% de blindagem. Seu DRI conserva a maior melhora de Blindagem e Inventário.
 (6411)Bring this schematic to the store to unlock the Vintage Suit.<==>Lleva este diagrama al almacén para desbloquear el traje vintage.-->Leve este diagrama para o para desbloquear o traje vintage.
 (6412)open the containment shield in the first marker lab<==>Abre el escudo de contención del primer laboratorio de Efigie.-->Abra o escudo de contenção do primeiro laboratório do marcador
 (6413-IGUAIS)Louis Gascoigne
@@ -6427,7 +6427,7 @@
 (6426-IGUAIS)Nicolas Viau
 (6427)Mastering Lab Operators<==>Operadores de masterización-->Operadores de Masterização
 (6428)graphic quality<==>Calidad de gráficos-->Qualidade do Gráfico
-(6429)You don't have any nodes to RESPEC.<==>No tienes ningún nodo para REESPEC.-->Você não tem nenhum nodes to RESPEC.
+(6429)You don't have any nodes to RESPEC.<==>No tienes ningún nodo para REESPEC.-->Você não tem nenhum nó para REFAZER.
 (6430)Human<==>Humano-->Humano
 (6431)BULKHEAD RECONCILIATION<==>RECONCILIACIÓN DE CONTENCIÓN-->RECONCILIAÇÃO DE CONTENÇÃO
 (6432)Visceral Games Community Managers<==>Gestores de la comunidad de Visceral Games-->Gestores da Comunidade Visceral Games
@@ -6528,7 +6528,7 @@
 (6527)It's loose!  The repair unit is loose!  Get it back!<==>¡Se ha caído! ¡La unidad de reparación se ha caído! ¡Recuperadla!-->Esta solto! A unidade de reparo está solto! Pegue de volta!
 (6528)Repair unit is in, guard my position!<==>¡Unidad de reparación lista, cubrid mi posición!-->Unidade de reparo aqui, guarde a minha posição!
 (6529)Unit is down!  We need another one!<==>¡Unidad averiada! ¡Necesitamos otra!-->Unidade caiu! Precisamos de mais um!
-(6530)Repairs complete.   Get to the workshop and hit the switch!<==>Reparaciones completadas. ¡Id al taller y accionad el interruptor!-->Reparos completa. Vá para a oficina e aperte o botão!
+(6530)Repairs complete.   Get to the workshop and hit the switch!<==>Reparaciones completadas. ¡Id al taller y accionad el interruptor!-->Reparos completa. Vá para a oficina e pressione o botão!
 (6531)It worked!  We need the door codes now, get to the main terminal!<==>¡Funcionó! Ahora necesitamos los códigos de la puerta, ¡a la terminal principal!-->Funcionou! Precisamos dos códigos da porta agora, vamos ao terminal principal!
 (6532)Loading codes to disc, hold on!<==>¡Cargando códigos al disco, aguantad!-->Carregando códigos para o disco, segure-se!
 (6533)Alright ,cover me while I get this disc to the security door!<==>¡Muy bien, cubridme mientras llevo el disco a la puerta de seguridad!-->Tudo bem, cubra-me enquanto eu levo esse disco até a porta de segurança!
@@ -6549,7 +6549,7 @@
 (6548)This combination is not a valid code.<==>Esa combinación no constituye un código válido.-->Esta combinação não é um código válido.
 (6549)ALERT ALERT ALERT<==>ALERTA ALERTA ALERTA-->ALERTA ALERTA ALERTA
 (6550)quit<==>Salir-->sair
-(6551)You unlocked increased damage for the Plasma Cutter<==>Has desbloqueado más daño para la cortadora de plasma.-->Você desbloqueou danos maiores para O Cortador de Plasma
+(6551)You unlocked increased damage for the Plasma Cutter<==>Has desbloqueado más daño para la cortadora de plasma.-->Você desbloqueou danos maiores para a Cortadora de Plasma
 (6552)There is no Dead Space¬ 2 Saved Game file on the selected storage device.\n\nYou will need to select a storage device with a valid Dead Space Dead Space¬ 2 file to proceed.<==>No hay ningún archivo de partida guardada de Dead Space¬ 2 en el dispositivo de almacenamiento seleccionado.\n\nDebes seleccionar un dispositivo de almacenamiento con un archivo válido de Dead Space¬ 2 para continuar.-->Não existe nenhum Jogo Gravado de Dead Space¬ 2 no dispositivo de armazenamento selecionado.\n\nVocê precisara selecionar um dispositivo de armazenamento com uma gravação válida de Dead Space¬ 2 para poder prosseguir.
 (6553)%1 appears to be damaged and cannot be used.<==>Parece que el archivo %1 está dañado y no puede utilizarse.-->%1 aparenta estar danificado e não pode ser usado(a).
 (6554)FOR THE PEOPLE<==>FOR THE PEOPLE4Åàeå-->PELO POVO
@@ -6623,7 +6623,7 @@
 (6622)GO UP<==>ARRIBA-->SUBA
 (6623)BUSY<==>JALEO-->OCUPADO
 (6624)DIRECTIONS FROM DAINA\n<==>INDICACIONES DE DAINA\n-->DIRETIVAS DE DAINA\n
-(6625)PLASMA CUTTER<==>CORTADORA DE PLASMA-->CORTADOR DE PLASMA
+(6625)PLASMA CUTTER<==>CORTADORA DE PLASMA-->CORTADORA DE PLASMA
 (6626-IGUAIS)1
 (6627-IGUAIS)Dan Seneres
 (6628)Oh my God, they're inside!  They're in here!  They're coming in!  Oh my God!  OH MY GOD!  <==>¡Oh, dios mío, están dentro! ¡Están aquí! ¡Están entrando! ¡Oh, dios mío! ¡OH, DIOS MÍO!-->Oh meu Deus, eles entraram!  Estão do lado de dentro!  Estão entrando!  Oh meu Deus!  OH MEU DEUS!  
