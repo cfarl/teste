@@ -4994,7 +4994,7 @@
 (4993-IGUAIS)Target
 (4994)sfx vol.<==>Vol. efectos-->vol. dos efeitos
 (4995)SPECIAL<==>ESPECIAL-->ESPECIAL
-(4996)These are the items you are currently carrying.  Sell any items you don't want for credits to spend in the Shop, or move them to the Safe to open up Inventory slots.<==>Estos son los objetos que llevas ahora mismo. Vende cualquier objeto que no quieras a cambio de créditos para gastar en la tienda, o muévelos a la caja fuerte para liberar espacio en el inventario.-->Estes são os itens que você está carregando agora.  Venda qualquer item que não queira para conseguir créditos que podem ser gastos na loja, ou mova-os para o cofre para liberar espaço no inventário.
+(4996)These are the items you are currently carrying.  Sell any items you don't want for credits to spend in the Shop, or move them to the Safe to open up Inventory slots.<==>Estos son los objetos que llevas ahora mismo. Vende cualquier objeto que no quieras a cambio de créditos para gastar en la tienda, o muévelos a la caja fuerte para liberar espacio en el inventario.-->Esses são os itens que você está carregando agora.  Venda qualquer item que não queira para conseguir créditos que podem ser gastos na loja, ou mova-os para o cofre para liberar espaço no inventário.
 (4997-IGUAIS)Homam Bahnassi
 (4998-IGUAIS)Carol Bertrand
 (4999)fuel core<==>Núcleo-->núcleo de combustível
