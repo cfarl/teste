@@ -4947,54 +4947,54 @@
 (4946)Man down!  He had the repair unit!  Get it!<==>¡Hombre abatido! ¡Tenía la unidad de reparación! ¡Cogedla!-->Homem abatido! Ele estava com a unidade de reparação!  Peguem-no!
 (4947)They got the second unit!  Bastards!   Only one left, go get it!<==>¡Tienen la segunda unidad! ¡Cabrones! ¡Solo queda una, id por ella!-->Eles pegaram a segunda unidade! Desgraçados! Só resta uma restante, peguem ela!
 (4948)They destroyed the unit! There's only two left!  Head back! Head back!<==>¡Han destruido la unidad! ¡Solo quedan dos! ¡Regresad! ¡Regresad!-->Eles destruíram a unidade! Agora só restam duas!  Recuem! Recuem!
-(4949)We're set, cover each other or we will never make it.<==>Ya estamos, cubrámonos o jamás lo conseguiremos.-->Estamos prontos, cubram-se ou nunca iremos conseguir.
-(4950)Ah shit, carrier down! He dropped it!<==>¡Ah, mierda, el portador ha caído! ¡Lo ha perdido!-->Merda, carregador abatido! Ele derrubou!
-(4951)Ah shit, carrier down! He dropped it!<==>¡Ah, mierda, el portador ha caído! ¡Lo ha perdido!-->Merda, carregador abatido! Ele derrubou!
+(4949)We're set, cover each other or we will never make it.<==>Ya estamos, cubrámonos o jamás lo conseguiremos.-->Estamos prontos, cubram uns aos outros ou nunca iremos conseguir.
+(4950)Ah shit, carrier down! He dropped it!<==>¡Ah, mierda, el portador ha caído! ¡Lo ha perdido!-->Ah, droga, o carregador foi abatido! Ele o perdeu!
+(4951)Ah shit, carrier down! He dropped it!<==>¡Ah, mierda, el portador ha caído! ¡Lo ha perdido!-->Droga, o carregador foi abatido! Ele o perdeu!
 (4952)select<==>Seleccionar-->selecionar
 (4953)select<==>Seleccionar-->selecionar
 (4954-IGUAIS)Dead Space 2
 (4955-IGUAIS)4
 (4956-IGUAIS)1
 (4957-IGUAIS)Wright Bagwell
-(4958)Please enter your Online Pass code.<==>Introduce el código de tu pase online.-->Coloque o seu Código de Passe Online.
+(4958)Please enter your Online Pass code.<==>Introduce el código de tu pase online.-->Informe seu código de passe online.
 (4959)CLAMP CONTROL<==>CONTROL ABRAZADERA-->CONTROLE DA PRENSA
 (4960)HEAVY DUTY VINTAGE SUIT<==>TRAJE VINTAGE INDUSTRIAL-->TRAJE VINTAGE INDUSTRIAL
-(4961)Stasis meter recharges slowly over time.<==>La estabilización se recarga con el tiempo.-->A barra de Estabilização recarrega com o passar do tempo.
+(4961)Stasis meter recharges slowly over time.<==>La estabilización se recarga con el tiempo.-->A estabilização recarrega com o passar do tempo.
 (4962)Technical Artists<==>Diseñadores técnicos-->Artistas Técnicos
-(4963)We're set, cover each other or we will never make it.<==>Ya estamos, cubrámonos o jamás lo conseguiremos.-->Estamos prontos, cubram-se ou nunca iremos conseguir.
-(4964)Alright, we're gonna blow this place and take as many out as we can!<==>¡Bien, vamos a hacer estallar este lugar y a cargarnos a cuantos podamos!-->Certo, nós vamos destruir esse lugar e resgatar o máximo que conseguirmos!
+(4963)We're set, cover each other or we will never make it.<==>Ya estamos, cubrámonos o jamás lo conseguiremos.-->Estamos prontos, cubram uns aos outros ou nunca iremos conseguir.
+(4964)Alright, we're gonna blow this place and take as many out as we can!<==>¡Bien, vamos a hacer estallar este lugar y a cargarnos a cuantos podamos!-->Certo, vamos explodir esse lugar e levar junto quantos podermos!
 (4965)Yep.<==>Sí.-->Sim.
 (4966)We've got to abandon ship!  The Ishimura is completely infected!<==>¡Tenemos que abandonar la nave! ¡El Ishimura está completamente infectado!-->Temos que abandonar a nave! A Ishimura está completamente infectada!
-(4967)you now have the ability to equip the seeker rifle\nprimary fire: powerful semi-automatic rifle\nalternate fire: zoomed view<==>Ahora ya puedes equipar la remachadora\ndisparo principal: potente rifle semiautomático\ndisparo secundario: vista con zoom-->Você agora pode equipar o rifle buscador\nDisparo Principal: poderoso rifle semi-automático\nDisparo Secundário: vista com zoom
-(4968)Tiedemann's ordered us to destroy the two Marker prototypes, so they don't fall into wrong hands.<==>Tiedemann nos ha ordenado que destruyamos los dos prototipos de Efigie para que no caiga en las manos equivocadas.-->Tiedemann nos mandou para destruir os dois protótipos de Marker, para que eles não caiam em mãos erradas.
-(4969)One of Tiedemann's "patients" sabotaged the Solary Array.   He needs us to manually discharge the beam.<==>Uno de los pacientes de Tiedemann ha saboteado el panel solar. Quiere que descarguemos manualmente el haz.-->Um dos "pacientes" de Tiedemann sabotou os Painéis Solares. Ele precisa que nós disparemos o raio manualmente.
+(4967)you now have the ability to equip the seeker rifle\nprimary fire: powerful semi-automatic rifle\nalternate fire: zoomed view<==>Ahora ya puedes equipar la remachadora\ndisparo principal: potente rifle semiautomático\ndisparo secundario: vista con zoom-->Você agora pode equipar o rifle buscador\ndisparo principal: potente rifle semi-automático\ndisparo secundário: vista com zoom
+(4968)Tiedemann's ordered us to destroy the two Marker prototypes, so they don't fall into wrong hands.<==>Tiedemann nos ha ordenado que destruyamos los dos prototipos de Efigie para que no caiga en las manos equivocadas.-->Tiedemann nos mandou destruir os dois protótipos de Marker, para que não caiam em mãos erradas.
+(4969)One of Tiedemann's "patients" sabotaged the Solary Array.   He needs us to manually discharge the beam.<==>Uno de los pacientes de Tiedemann ha saboteado el panel solar. Quiere que descarguemos manualmente el haz.-->Um dos "pacientes" de Tiedemann sabotou o painel solar. Ele quer descarreguemos manualmente o raio. 
 (4970)At the patient who sabotaged it, I think.<==>Sobre el paciente que lo saboteó, creo.-->Sobre o paciente que o sabotou, eu acho.
 (4971-IGUAIS)Richard Carrillo
 (4972-IGUAIS)Zach Mumbach
 (4973)pause<==>pausa-->pausa
 (4974)PROGRESS REPORT 2<==>PROGRESS REPORT 25Åàeå£-->RELATÓRIO DE PROGRESSO 2
 (4975-IGUAIS)Sylvain Martel
-(4976)override the activation switch in the workshop<==>Anula el interruptor de activación del taller.-->Burlar alavanca de ativação na oficina
+(4976)override the activation switch in the workshop<==>Anula el interruptor de activación del taller.-->Destruir o interruptor de ativação da oficina
 (4977-IGUAIS)10
 (4978)LOCKED<==>BLOQUEADO-->BLOQUEADO
 (4979)ELITE ADVANCED SUIT<==>TRAJE AVANZADO DE ÉLITE-->TRAJE AVANÇADO DE ELITE
 (4980)spitter<==>escupidor-->cuspidor
-(4981)Ready<==>Listo-->Preparado
+(4981)Ready<==>Listo-->Pronto
 (4982)+stasis resistance<==>+resistencia a estabilización-->+resistência à estabilização
 (4983-IGUAIS)[RStick]
 (4984-IGUAIS)Robert Bierman
 (4985)Bring this schematic to the store to unlock the Force Energy.<==>Lleva este diagrama al almacén para desbloquear la carga del cañón de energía.-->Leve esse diagrama até a loja para desbloquear a carga do canhão de energia.
 (4986-IGUAIS)Jim A Lewis
-(4987)Surgical Tissue Incision\nIn Progress<==>Incisión quirúrgica de tejido\nen curso-->Incisão Cirúrgica do Tecido\nEm Progresso
+(4987)Surgical Tissue Incision\nIn Progress<==>Incisión quirúrgica de tejido\nen curso-->Incisão cirúrgica de tecido\nem andamento 
 (4988)Share usage data<==>Compartir datos de uso-->Compartilhar dados de uso
 (4989-IGUAIS)Esther Gómez Babin
 (4990-IGUAIS)Thomas Tönnfält
-(4991)Take the transport to Government Sector.<==>Coge el transporte al sector gubernamental.-->Pegue o transporte até o Setor Governamental.
-(4992)Looks like the solar mirrors haven't been maintained for years. I'll have to align them manually to get the Solar Array started.<==>Parece que los espejos solares llevan años sin mantenimiento. Tendré que alinearlos manualmente para poner el panel solar en marcha.-->Parece que os espelhos solares não são mantidos durante anos. Vou ter que alinhá-los manualmente para que o Painel Solar funcione.
+(4991)Take the transport to Government Sector.<==>Coge el transporte al sector gubernamental.-->Pegue o transporte para o Setor Governamental.
+(4992)Looks like the solar mirrors haven't been maintained for years. I'll have to align them manually to get the Solar Array started.<==>Parece que los espejos solares llevan años sin mantenimiento. Tendré que alinearlos manualmente para poner el panel solar en marcha.-->Parece que os espelhos solares estão sem manutenção há anos. Vou ter que alinhá-los manualmente para que o painel solar funcione.
 (4993-IGUAIS)Target
 (4994)sfx vol.<==>Vol. efectos-->vol. dos efeitos
 (4995)SPECIAL<==>ESPECIAL-->ESPECIAL
-(4996)These are the items you are currently carrying.  Sell any items you don't want for credits to spend in the Shop, or move them to the Safe to open up Inventory slots.<==>Estos son los objetos que llevas ahora mismo. Vende cualquier objeto que no quieras a cambio de créditos para gastar en la tienda, o muévelos a la caja fuerte para liberar espacio en el inventario.-->Estes são os itens que você está carregando atualmente.  Venda qualquer item que você não desaja por créditos para gastar na loja, ou mova-os até o Cofre para abrir mais espaços no Inventário.
+(4996)These are the items you are currently carrying.  Sell any items you don't want for credits to spend in the Shop, or move them to the Safe to open up Inventory slots.<==>Estos son los objetos que llevas ahora mismo. Vende cualquier objeto que no quieras a cambio de créditos para gastar en la tienda, o muévelos a la caja fuerte para liberar espacio en el inventario.-->Estes são os itens que você está carregando agora.  Venda qualquer item que não queira para conseguir créditos que podem ser gastos na loja, ou mova-os para o cofre para liberar espaço no inventário.
 (4997-IGUAIS)Homam Bahnassi
 (4998-IGUAIS)Carol Bertrand
 (4999)fuel core<==>Núcleo-->núcleo de combustível
