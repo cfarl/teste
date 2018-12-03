@@ -5250,34 +5250,34 @@
 (5249)POWER CONTROL<==>CONTROL DE ENERGÍA-->CONTROLE DE ENERGIA
 (5250)continue<==>Continuar-->Continuar
 (5251)BASILICA<==>BASÍLICA-->BASÍLICA
-(5252)Are you sure you want to delete %1 on storage device %2?<==>¿Seguro que quieres borrar %1 en el dispositivo de almacenamiento %2?-->Tem certeza que quer apagar %1?
-(5253)rivet gun II<==>remachadora II-->Rebitadeira II
+(5252)Are you sure you want to delete %1 on storage device %2?<==>¿Seguro que quieres borrar %1 en el dispositivo de almacenamiento %2?-->Tem certeza que quer apagar %1 no dispositivo de armazenamento %2?
+(5253)rivet gun II<==>remachadora II-->rebitadeira II
 (5254-IGUAIS)Español
 (5255-IGUAIS)Steve Papoutsis
 (5256)STASIS DOOR<==>PUERTA DE ESTABILIZACIÓN-->PORTA DE ESTABILIZAÇÃO
-(5257)FORCE GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN DE ENERGÍA\nDiagrama Adquirido\nDescargar en el almacén-->CANHÃO DE ENERGIA\nDiagrama Adquirido\nBaixe na Loja
+(5257)FORCE GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN DE ENERGÍA\nDiagrama Adquirido\nDescargar en el almacén-->CANHÃO DE ENERGIA\nDiagrama Adquirido\nBaixe na loja
 (5258)///brightness<==>///Brillo-->//Brilho
 (5259-IGUAIS)1
-(5260)GRIP SYMBOL<==>SÍMBOLO GRIP-->SÍMBOLO GRIP
+(5260)GRIP SYMBOL<==>SÍMBOLO GRIP-->SÍMBOLO GRIPl
 (5261)Please confirm your consent to marketing.<==>Confirma tu consentimiento para recibir publicidad.-->Por favor confirme que deseja receber publicidade.
 (5262)Fire in the hole!<==>¡Fuego!-->Fogo!
-(5263)Sir, final preparations for evac are wrapping up.<==>Señor, se ultiman los preparativos de la evacuación.-->Senhor, os últimos preparativos para evacuação estão terminando.
-(5264)Flight Control, this is flight I-S-H-one-five-one. Requesting permission to land.<==>Control de vuelo, aquí el vuelo I-S-H-uno-cinco-uno. Solicitamos permiso para aterrizar.-->Controle de Voo, aqui é o voo I-S-H-um-cinco-um. Solicitando permissão para pousar.
-(5265)Roger, we have the payload and it is glorious. Altman be praised.<==>Recibido, tenemos la carga y es gloriosa. Alabado sea Altman.-->Entendido, nós temos a carga e ela é gloriosa. Altman seja louvado.
-(5266)Shit! We've lost power. Somebody get that auxiliary power turned on.<==>¡Mierda! Nos hemos quedado sin electricidad. Que alguien active la energía auxiliar.-->Merda! Perdemos a energia. Alguém ligue a energia auxiliar.
-(5267)Fuck! That was the bulkhead door! The power outage must have knocked out the kinetic restraints. We think they may have gained access to the compound.<==>¡Joder! ¡Esa era la puerta de contención! El apagón ha debido de tumbar las contenciones cinéticas. Puede que hayan accedido al recinto.-->Caralho! Aquela era a porta do anteparo! A falta de energia deve ter desabilitado nossos escudos cinéticos. Acho que eles ganharam acesso ao campo.
-(5268)Did you see that, I shot off his fucking legs and he's still coming!<==>¿Has visto eso? ¡Le disparé a sus putas piernas y aún sigue avanzando!-->Você viu isso, eu atirei nas malditas pernas e ele continuou vindo!
-(5269)Sir, Sir, WHY the hell are we chasing some escaped nutcase when these...monsters...are killing everything in sight?<==>Señor, señor, ¿POR QUÉ demonios estamos persiguiendo a un lunático fugado con todos esos... monstruos... asesinando a todo el que se encuentran?-->Senhor, Senhor, Por que diabos estamos perseguindo um doido fugitivo enquanto esses...monstros...estão matando tudo o que veem?
-(5270) I can't believe this.  We can't keep following orders.  We have to help these people, they're getting slaughtered!<==>No puedo creerlo. No podemos seguir adelante con las órdenes, tenemos que ayudar a esta gente. ¡Los están masacrando!-->Eu não acredito nisso. Nós não podemos continuar seguindo ordens. Nós temos que ajudar essas pessoas, elas estão sendo massacradas!
-(5271)Sir, we won't be alive much longer if we keep following these orders.  You know that.<==>Señor, no seguiremos con vida mucho tiempo si cumplimos las órdenes. Ya lo sabe.-->Senhor, nós não ficaremos vivos por muito tempo se continuarmos seguindo essas ordens. Você sabe disso.
-(5272) Come on, how are we supposed to find ANYONE in this chaos?<==>Venga, ¿cómo vamos a encontrar a ALGUIEN en medio de este caos?-->Qual é, como devemos achar alguém nesse caos?
-(5273)No sign of him yet sir.<==>No hay rastro de él, señor.-->Sem sinal dele ainda, senhor.
-(5274) Copy that, squad 1<==>Recibido, patrulla 1.-->Recebido, Equipe 1
-(5275)No sign of fugitive at bulkheads. Over.<==>Aquí Patrulla 3, sin rastro del fugitivo en las contenciones. Cambio.-->Sem sinais do fugitivo nas contenções. Câmbio.
-(5276) Copy that Squad 3, sweep back, check entrances and vents.<==>Recibido, patrulla 3. Replegaos, comprobad las entradas y los conductos.-->Recebido, Equipe 3, voltem e olhem as entradas e ventilações.
+(5263)Sir, final preparations for evac are wrapping up.<==>Señor, se ultiman los preparativos de la evacuación.-->Senhor, os últimos preparativos para a evacuação estão terminando.
+(5264)Flight Control, this is flight I-S-H-one-five-one. Requesting permission to land.<==>Control de vuelo, aquí el vuelo I-S-H-uno-cinco-uno. Solicitamos permiso para aterrizar.-->Controle de voo, aqui é o voo I-S-H-um-cinco-um. Solicitamos permissão para aterrisar.
+(5265)Roger, we have the payload and it is glorious. Altman be praised.<==>Recibido, tenemos la carga y es gloriosa. Alabado sea Altman.-->Entendido, temos a carga e ela é gloriosa. Altman seja louvado.
+(5266)Shit! We've lost power. Somebody get that auxiliary power turned on.<==>¡Mierda! Nos hemos quedado sin electricidad. Que alguien active la energía auxiliar.-->Merda! Ficamos sem energia. Alguém ligue a energia auxiliar.
+(5267)Fuck! That was the bulkhead door! The power outage must have knocked out the kinetic restraints. We think they may have gained access to the compound.<==>¡Joder! ¡Esa era la puerta de contención! El apagón ha debido de tumbar las contenciones cinéticas. Puede que hayan accedido al recinto.-->Droga! Essa era a porta de contenção! O apagão deve ter derrubado as contenções cinéticas. Pode ser que eles tenham entrado no recinto.
+(5268)Did you see that, I shot off his fucking legs and he's still coming!<==>¿Has visto eso? ¡Le disparé a sus putas piernas y aún sigue avanzando!-->Você viu isso, eu atirei nas suas malditas pernas e ele continuou avançando!
+(5269)Sir, Sir, WHY the hell are we chasing some escaped nutcase when these...monsters...are killing everything in sight?<==>Señor, señor, ¿POR QUÉ demonios estamos persiguiendo a un lunático fugado con todos esos... monstruos... asesinando a todo el que se encuentran?-->Senhor, senhor, por que diabos estamos perseguindo um lunático fugitivo com todos esses...monstros... assassinando tudo o que encontram pela frente?
+(5270) I can't believe this.  We can't keep following orders.  We have to help these people, they're getting slaughtered!<==>No puedo creerlo. No podemos seguir adelante con las órdenes, tenemos que ayudar a esta gente. ¡Los están masacrando!-->Eu não acredito nisso. Não podemos seguir adiante com as ordens. Temos que ajudar essas pessoas, elas estão sendo massacradas!
+(5271)Sir, we won't be alive much longer if we keep following these orders.  You know that.<==>Señor, no seguiremos con vida mucho tiempo si cumplimos las órdenes. Ya lo sabe.-->Senhor, nós não vamos continuar vivos por muito tempo se continuarmos cumprindo essas ordens. Você sabe disso.
+(5272) Come on, how are we supposed to find ANYONE in this chaos?<==>Venga, ¿cómo vamos a encontrar a ALGUIEN en medio de este caos?-->Qual é, como é que vamos encontrar alguém no meio desse caos?
+(5273)No sign of him yet sir.<==>No hay rastro de él, señor.-->Ainda não há sinal dele, senhor.
+(5274) Copy that, squad 1<==>Recibido, patrulla 1.-->Recebido, esquadrão 1
+(5275)No sign of fugitive at bulkheads. Over.<==>Aquí Patrulla 3, sin rastro del fugitivo en las contenciones. Cambio.-->Sem sinal do fugitivo nas contenções. Câmbio.
+(5276) Copy that Squad 3, sweep back, check entrances and vents.<==>Recibido, patrulla 3. Replegaos, comprobad las entradas y los conductos.-->Recebido, esquadrão 3, recuem,  confiram as entradas e ventilações.
 (5277)Roger that.  Sweeping back now.  Over.<==>Recibido. Iniciando repliegue. Cambio.-->Entendido. Voltando agora. Câmbio.
-(5278)Squad 2 this is Lead, check vents and ceiling covers, over.<==>Patrulla 2, aquí el mando, comprobad los conductos y las cubiertas del techo, cambio.-->Equipe 2, aqui é o Comando, chequem os forros e dutos de ventilação, câmbio.
-(5279)Copy Lead, checking vents and ceilings.  Over<==>Recibido, mando. Comprobando conductos y cubiertas. Cambio.-->Entendido Comando, checando forros e dutos de ventilação. Câmbio.
+(5278)Squad 2 this is Lead, check vents and ceiling covers, over.<==>Patrulla 2, aquí el mando, comprobad los conductos y las cubiertas del techo, cambio.-->Esquadrão 2, aqui é o comando, verifiquem os forros e tubos de ventilação, câmbio.
+(5279)Copy Lead, checking vents and ceilings.  Over<==>Recibido, mando. Comprobando conductos y cubiertas. Cambio.-->Entendido comando, checando forros e dutos de ventilação. Câmbio.
 (5280)Fall back!  Fall back!<==>¡Atrás! ¡Atrás!-->Recuar! Recuar!
 (5281)Move ,move, move.<==>¡Vamos, vamos, vamos!-->Vamos, vamos, vamos.
 (5282)ADMINISTRATION<==>ADMINISTRACIÓN-->ADMINISTRAÇÃO
@@ -5285,35 +5285,35 @@
 (5284-IGUAIS)Matthieu Gallais
 (5285-IGUAIS)Randy Humphries
 (5286)Open fire!  open fire!<==>¡Abrid fuego! ¡Abrid fuego!-->Abrir fogo! Abrir fogo!
-(5287)You're surrounded, drop your tool and put your hands up!\n<==>¡Estás rodeado, suelta la herramienta y levanta las manos!-->Você está cercado, largue suas ferramentas e mãos ao alto!\n
-(5288)Isaac Clarke!  Stand down and drop your weapon!\n<==>¡Isaac Clarke! ¡Quieto y suelta el arma!-->Isaac Clarke!  Abaixe-se e largue sua arma!\n
+(5287)You're surrounded, drop your tool and put your hands up!\n<==>¡Estás rodeado, suelta la herramienta y levanta las manos!-->Você está cercado, largue a ferramenta e levante as mãos!\n
+(5288)Isaac Clarke!  Stand down and drop your weapon!\n<==>¡Isaac Clarke! ¡Quieto y suelta el arma!-->Isaac Clarke!  Abaixe-se e largue a arma!\n
 (5289)\nTarget spotted!\n<==>¡Objetivo detectado!-->\nAlvo encontrado!\n
 (5290)\nPut him down!<==>¡Acabad con él!-->\nAcabem com ele!
 (5291)Target spotted, take him down!<==>¡Objetivo detectado! ¡Acabad con él!-->Alvo encontrado, acabem com ele!
 (5292)\nOpen fire, open fire!\n<==>¡Abrid fuego! ¡Abrid fuego!-->\nAbrir fogo! Abrir fogo!\n
 (5293)Target acquired, open fire!<==>¡Objetivo detectado, abrid fuego!-->Alvo encontrado, abrir fogo!
 (5294)Target lost, move out, search the area.<==>Objetivo perdido, moveos, rastread el área.-->Alvo perdido, mexam-se, procurem na área.
-(5295)Squad 1, stay in formation, keep the forward position secure.<==>Patrulla 1, guardad la formación, mantened la posición avanzada asegurada.-->Equipe 1, continuem em formação, mantenham a posição segura.
-(5296)Alert Tiedemann, Isaac is still loose, repeat, he's still loose.<==>Alerta, Tiedemann, Isaac sigue suelto, repito, sigue suelto.-->Alerta Tiedemann, Isaac continua solto, repito, ele continua solto.
+(5295)Squad 1, stay in formation, keep the forward position secure.<==>Patrulla 1, guardad la formación, mantened la posición avanzada asegurada.-->Esquadrão 1, mantenham a formação, mantenham a posição avançada segura.
+(5296)Alert Tiedemann, Isaac is still loose, repeat, he's still loose.<==>Alerta, Tiedemann, Isaac sigue suelto, repito, sigue suelto.-->Alerta, Tiedemann, Isaac continua solto, repito, ele continua solto.
 (5297-IGUAIS)1
-(5298)Multiplayer QA Test Lead<==>Jefe de pruebas de control de calidad multijugador-->Chefe de Testes do Controle de Qualidade de Multijogadores
+(5298)Multiplayer QA Test Lead<==>Jefe de pruebas de control de calidad multijugador-->Chefe de Testes do Controle de Qualidade de Vários Jogadores
 (5299)Assistant Global Product Manager<==>Ayudante del jefe de producto global-->Ajudante do Chefe de Produto Global
 (5300-IGUAIS)à
 (5301-IGUAIS)q
 (5302-IGUAIS)À
 (5303-IGUAIS)Q
 (5304)Maintenance Mode<==>Mantenimiento-->Modo de Manutenção
-(5305)Use stasis in combat to slow enemies<==>Usa la estabilización en combate para frenar a los enemigos.-->Use estabilização nos combates para retardar os inimigos
+(5305)Use stasis in combat to slow enemies<==>Usa la estabilización en combate para frenar a los enemigos.-->Use a estabilização em combate para retardar os inimigos
 (5306)Did he go... Where did he go?<==>Ha ido... ¿Adónde ha ido?-->Onde ele foi... Onde ele foi?
-(5307)\nSquad 1, standby to close in on his position.<==>Patrulla 1, preparaos para aproximación a su posición.-->\nEquipe 1, preparem-se para aproximação em sua posição.
-(5308)I don't hear any movement, he may be dead.<==>No oigo ningún movimiento. Puede que esté muerto.-->Eu não escuto nenhum movimento, ele deve estar morto.
-(5309)Isaac Clarke, we know you're there, come out now.<==>Isaac Clarke, sabemos que estás ahí. Sal ahora.-->Isaac Clarke, nós sabemos que você está aqui, saia agora.
-(5310)Aim and press [RDRight] to grab loose objects.<==>Apunta y pulsa [RDRight] para atrapar objetos sueltos.-->Mire e Pressione [RDRight] para pegar objetos soltos.
+(5307)\nSquad 1, standby to close in on his position.<==>Patrulla 1, preparaos para aproximación a su posición.-->\nEsquadrão 1, preparem-se para aproximação em sua posição.
+(5308)I don't hear any movement, he may be dead.<==>No oigo ningún movimiento. Puede que esté muerto.-->Eu não ouço nenhum movimento, ele deve estar morto.
+(5309)Isaac Clarke, we know you're there, come out now.<==>Isaac Clarke, sabemos que estás ahí. Sal ahora.-->Isaac Clarke, sabemos que você está aqui, saia agora.
+(5310)Aim and press [RDRight] to grab loose objects.<==>Apunta y pulsa [RDRight] para atrapar objetos sueltos.-->Mire e pressione [RDRight] para pegar objetos soltos.
 (5311)Pull Down<==>Bajar-->Baixar
-(5312)Move to Safe<==>Mover a la caja fuerte-->Mover para o Cofre
-(5313)Move to Inventory<==>Mover al inventario-->Mover para o Inventário
+(5312)Move to Safe<==>Mover a la caja fuerte-->Mover para o cofre
+(5313)Move to Inventory<==>Mover al inventario-->Mover para o inventário
 (5314)Economy<==>Economía-->Economia
-(5315)RIPPER AMMO<==>MUNICIÓN DE SIERRA-->MUNIÇÃO DA SERRA
+(5315)RIPPER AMMO<==>MUNICIÓN DE SIERRA-->MUNIÇÃO DE SERRA
 (5316)Bring this schematic to the store to unlock the Riot Security Suit.<==>Lleva este diagrama al almacén para desbloquear el traje de seguridad antidisturbios.-->Leve esse diagrama até a loja para desbloquear o traje de segurança anti-rebeliões.
 (5317-IGUAIS)1
 (5318-IGUAIS)3
@@ -5331,21 +5331,21 @@
 (5330-IGUAIS)2
 (5331-IGUAIS)2
 (5332)AIM<==>ENFOCAR-->MIRAR
-(5333)The specified password is invalid.<==>La contraseña especificada no es válida.-->A senha especificada é inválida.
+(5333)The specified password is invalid.<==>La contraseña especificada no es válida.-->A senha informada não é válida.
 (5334-IGUAIS)1
 (5335-IGUAIS)1
 (5336-IGUAIS)!
 (5337-IGUAIS)!
-(5338)HACKER CONTACT BEAM\nSchematic Acquired\nDownload at the Store<==>RAYO DE CONTACTO DE PIRATEO\nDiagrama Adquirido\nDescargar en el almacén-->RAIO DE CONTATO HACKER\nDiagrama Adquirido\nBaixe na Loja
-(5339)Line Gun Schematic<==>Diagrama de cañón lineal-->Diagrama do Canhão Linear
+(5338)HACKER CONTACT BEAM\nSchematic Acquired\nDownload at the Store<==>RAYO DE CONTACTO DE PIRATEO\nDiagrama Adquirido\nDescargar en el almacén-->RAIO DE CONTATO HACKER\nDiagrama Adquirido\nBaixe na loja
+(5339)Line Gun Schematic<==>Diagrama de cañón lineal-->Diagrama do canhão linear
 (5340-IGUAIS)0
 (5341)///downloads<==>///descargas-->//Downloads
-(5342)Shoot limbs to dismember enemies for extra damage.<==>Dispara a las extremidades de los enemigos para cercenárselas y causar más daño.-->Atire nas extremidades para desmembrar inimigos e dar dano adicional.
+(5342)Shoot limbs to dismember enemies for extra damage.<==>Dispara a las extremidades de los enemigos para cercenárselas y causar más daño.-->Atire nas extremidades dos inimigos para desmembrá-los e causar mais dano.
 (5343)match totals<==>totales de la partida-->Totais da Partida
-(5344)Debug Load Level<==>Carga nivel depuración-->Carregar Nível de Depuração
-(5345)NOONLIGHT\nDIAGNOSTICS<==>DIAGNÓSTICOS\nLUZ DE MEDIODÍA-->DIAGNÓSTICOS\nLUZ DO LUAR
+(5344)Debug Load Level<==>Carga nivel depuración-->Carregar nível de depuração
+(5345)NOONLIGHT\nDIAGNOSTICS<==>DIAGNÓSTICOS\nLUZ DO MEDIODIA-->DIAGNÓSTICOS\nLUZ DO LUAR
 (5346)+{n} RESCUE<==>+{n} RESCATE-->+{n} RESGATES
-(5347)In order to access the online features of Dead Space¬ 2 you will need to enter a code which can be found with your manual. If you do not have the code or if another player has already redeemed it, then you can either purchase access separately or start a free limited time trial of this game's online features.<==>Para acceder a las funciones online de Dead Space¬ 2 necesitarás introducir un código que encontrarás con tu manual. En caso de que no tengas el código o de que otro jugador lo haya canjeado ya, podrás adquirir el acceso por separado o iniciar una versión de prueba gratuita, de tiempo limitado, de las funciones online del juego.-->Para acessar os serviços online de Dead Space¬ 2 você terá que digitar um código que pode ser encontrado em o seu manual. Se você não tem o código ou se outro jogador já o utilizou, você pode então comprar um código de acesso separadamente ou criar uma conta de avaliação gratuita por um tempo limitado.
+(5347)In order to access the online features of Dead Space¬ 2 you will need to enter a code which can be found with your manual. If you do not have the code or if another player has already redeemed it, then you can either purchase access separately or start a free limited time trial of this game's online features.<==>Para acceder a las funciones online de Dead Space¬ 2 necesitarás introducir un código que encontrarás con tu manual. En caso de que no tengas el código o de que otro jugador lo haya canjeado ya, podrás adquirir el acceso por separado o iniciar una versión de prueba gratuita, de tiempo limitado, de las funciones online del juego.-->Para acessar as funções online de Dead Space¬ 2 você terá que informar um código que pode ser encontrado no seu manual. Se você não tem o código ou se outro jogador já o utilizou, você pode adquirir um código de acesso separadamente ou iniciar uma versão de avaliação gratuita, de tempo limitado, das funções online do jogo. 
 (5348)STATUS UPDATE...<==>INFORME DE ESTADO...-->ESTADO DA ATUALIZAÇÃO...
 (5349)PRIMARY MISSION ASSETS...<==>MIEMBROS PRINCIPALES DE LA MISIÓN...-->MEMBROS PRINCIPAIS DA MISSÃO...
 (5350)prevent the humans from restoring the power<==>Evita que los humanos restablezcan la energía.-->Evite que os humanos reestabeleçam a energia.
