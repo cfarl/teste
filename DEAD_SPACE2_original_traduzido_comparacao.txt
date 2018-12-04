@@ -5699,12 +5699,12 @@
 (5698)THERMITE<==>EXPLOSIVO TERMITA-->EXPLOSIVO TERMITA
 (5699-IGUAIS)Matthew York
 (5700)NAV CARD 2<==>CARTA DE NAVEGACIÓN 2-->CARTA DE NAVEGAÇÃO 2
-(5701-IGUAIS)Large Medkit
+(5701-IGUAIS)Large Medkit-->kit médico grande
 (5702-IGUAIS)Sachin Pansuria
 (5703-IGUAIS)0
 (5704)Are you sure?<==>¿Seguro?-->Confirmar?
 (5705-IGUAIS)Globant - La Plata, Argentina
-(5706)Match Found\nEnter When Ready<==>Coincidencia\nAcceda cuando esté listo-->Correspondência Encontrada\nEntre Quando Estiver Pronto
+(5706)Match Found\nEnter When Ready<==>Coincidencia\nAcceda cuando esté listo-->Correspondência Encontrada\nEntre quando estiver pronto
 (5707)+{n}\nASSIST<==>+{n}\nAYUDA-->+{n}\nAJUDA
 (5708)POWER NODE<==>NODO DE ENERGÍA-->NODO DE ENERGIA
 (5709)unable to save %1.<==>imposible guardar %1.-->não é possível salvar %1.
@@ -5721,51 +5721,51 @@
 (5720-IGUAIS)Õ
 (5721-IGUAIS):
 (5722-IGUAIS)1
-(5723)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isto aumentará o dano do DISPARO SECUNDÁRIO
+(5723)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isso vai aumentar o dano do DISPARO SECUNDÁRIO
 (5724-IGUAIS)[%]
 (5725-IGUAIS)2
-(5726)Outer Hall<==>Vestíbulo exterior-->Saguão Exterior
-(5727)To Secure Area<==>A zona segura-->Para a Zona de Segurança
-(5728)To Secure Area<==>A zona segura-->Para a Zona de Segurança
-(5729)Secure Area<==>Zona segura-->Zona de Segurança
-(5730)Observation Room<==>Sala de observación-->Sala de Observação
-(5731)To Patient Rec Room<==>A sala de ocio de pacientes-->Para a Sala de Recreação de Pacientes
-(5732)To Surgery Observation Area<==>A zona de observación quirúrgica-->Para a Área de Observação de Cirúrgica
-(5733)Intensive Care<==>Cuidados intensivos-->Cuidados Intensivos
-(5734)Intensive Care Waiting Area<==>Zona de espera de Cuidados intensivos-->Área de Espera de Cuidados Intensivos
-(5735)Upper Lobby<==>Vestíbulo superior-->Sala Superior
-(5736)Exit to Concourse<==>Salida a The Concourse-->Saida para o The Concourse
+(5726)Outer Hall<==>Vestíbulo exterior-->Saguão exterior
+(5727)To Secure Area<==>A zona segura-->Para a zona segura
+(5728)To Secure Area<==>A zona segura-->Para a zona de segura
+(5729)Secure Area<==>Zona segura-->Zona segura
+(5730)Observation Room<==>Sala de observación-->Sala de observação
+(5731)To Patient Rec Room<==>A sala de ocio de pacientes-->Para a sala de recreação dos pacientes
+(5732)To Surgery Observation Area<==>A zona de observación quirúrgica-->Para a zona de observação cirúrgica
+(5733)Intensive Care<==>Cuidados intensivos-->Cuidados intensivos
+(5734)Intensive Care Waiting Area<==>Zona de espera de Cuidados intensivos-->Zona de espera de cuidados intensivos
+(5735)Upper Lobby<==>Vestíbulo superior-->Saguão superior
+(5736)Exit to Concourse<==>Salida a The Concourse-->Saida para o Concourse
 (5737)Administration<==>Administración-->Administração
-(5738)Triage Room<==>Sala de admisión-->Sala de Admissão
-(5739)Elevator to Patient Care<==>Ascensor a Cuidado de pacientes-->Elevador para Atendimento de Pacientes
-(5740)Patient Rooms West Wing<==>Habitaciones de pacientes, ala oeste-->Quartos de Pacientes, Ala Oeste
-(5741)Patient Rooms East Wing<==>Habitaciones de pacientes, ala este-->Quartos de Pacientes, Ala Leste
-(5742)Critical Needs Patient Room<==>Habitación de paciente con necesidades especiales-->Quartos de Pacientes com Necessidades Especiais
-(5743)To Emergency Arrival Area<==>A zona de llegada de urgencias-->Para a Área de Entrada de Emergência
-(5744)Emergency Arrival Area<==>Zona de llegada de urgencias-->Área de Entrada de Emergência
+(5738)Triage Room<==>Sala de admisión-->Sala de triagem
+(5739)Elevator to Patient Care<==>Ascensor a Cuidado de pacientes-->Elevador para o atendimento de pacientes
+(5740)Patient Rooms West Wing<==>Habitaciones de pacientes, ala oeste-->Quartos de pacientes, ala oeste
+(5741)Patient Rooms East Wing<==>Habitaciones de pacientes, ala este-->Quartos de pacientes, ala leste
+(5742)Critical Needs Patient Room<==>Habitación de paciente con necesidades especiales-->Quartos de pacientes com necessidades especiais
+(5743)To Emergency Arrival Area<==>A zona de llegada de urgencias-->Para a zona de chegada de emergências
+(5744)Emergency Arrival Area<==>Zona de llegada de urgencias-->Zona de chegada de emergências
 (5745)Processing<==>Procesando-->Processando
-(5746)Have papers ready before approaching counter<==>Tenga los papeles preparados antes de acercarse al mostrador.-->Tenha os papéis prontos antes de se aproximar do balcão
-(5747)Employee Entrance<==>Entrada de empleados-->Entrada de Funcionários
-(5748)Patient Care<==>Cuidado de pacientes-->Atendimento de Pacientes
-(5749)Vehicle Maintenance Bay<==>Plataforma de mantenimiento de vehículos-->Plataforma de Manutenção de Veículos
-(5750)Audiolog, RIG number 438642. I've been selected for a special secret mission, down in the core systems on the Shard. I hope I can do them proud. Altman be praised.<==>Registro sonoro, DRI número 438642. Me han seleccionado para una misión secreta especial en los sistemas centrales del Eje. Espero ser un orgullo. Alabado sea Altman.-->Registro de Áudio, DRI número 438642. Eu fui selecionado para uma missão secreta especial, nos sistemas centrais no Shard. Espero que eu possa deixa-los orgulhosos. Altman seja louvado.
-(5751)Oh, God... I'm sorry. I didn't know what I was doing... I placed my faith in the Church and trusted them. What an idiot. Now there's something loose on the Sprawl, and the Church has abandoned me here!<==>Oh, dios... Lo siento. No sabía lo que hacía... Deposité mi fe en la Iglesia y confié en ella. ¡Qué idiota! ¡Ahora hay algo suelto en El Eje y la Iglesia me ha abandonado aquí!-->Oh, Deus... Sinto muito. Eu não sabia o que estava fazendo... Coloquei minha fé na Igreja e confiava nela. Que idiota. Agora há algo solto no Sprawl, e a Igreja me abandonou aqui!
-(5752)Maybe I can make this right. Director Tiedemann asked me to repair the quarantine seal on Crossover Tube A. I don't know if I'll even make it there -- but it's my fault these things are loose in the first place. I have to try!<==>Tal vez pueda arreglar esto. El director Tiedemann me pidió que reparase el sello de cuarentena del tubo de paso A. No sé ni si llegaré hasta allí, pero esas cosas andan sueltas por mi culpa. ¡Debo intentarlo!-->Talvez eu possa corrigir isso. O Diretor Tiedemann me pediu para reparar o selo de quarentena no Tubo de Cruzamento A. Não sei nem se chegarei até lá, mas a culpa é minha dessas coisas estarem soltas. Eu tenho que tentar!
-(5753)I'm almost at the Crossover Tube. If I can repair the seal, it'll stop the creatures from reaching the Public Sector. And then I'm going to tell everyone what the Church did!<==>Ya casi estoy en el tubo de paso. Si logro reparar el sello, impediré que las criaturas lleguen al sector público. ¡Y luego les contaré a todos lo que hizo la Iglesia!-->Estou quase no Tubo de Cruzamento. Se eu conseguir reparar o selo, impedirá as criaturas de chegar ao Setor Público. E então eu vou dizer a todos o que a Igreja fez!
-(5754)Audiolog, RIG number 438642. These could be my last words. The monsters are loose. I couldn't stop them. And now the reactor core is overheating -- which will destroy the entire Sprawl if I can't fix it! So... I hope someone hears this. It means I did that much right, at least.<==>Registro sonoro, DRI número 438642. Estas podrían ser mis últimas palabras. Los monstruos están sueltos. No he podido detenerlos. Y ahora el núcleo del reactor se está sobrecalentando y acabará destruyendo El Eje si no logro arreglarlo! Así que... espero que alguien oiga esto. Significaría que, al menos, he hecho algo bien.-->Registro de Áudio, DRI número 438642. Estas poderiam ser as minhas últimas palavras. Os monstros estão soltos. Eu não consegui detê-los. E agora o núcleo do reator está superaquecendo, e acabará destruindo o Sprawl inteiro se eu não conseguir corrigi-lo! Então... espero que alguém escute isso. Isso significa que, pelo menos, eu fiz algo bom.
-(5755)For veteran Dead Space players. Ammo and health are less plentiful, and enemies are more deadly.<==>Para jugadores de Dead Space veteranos. La munición y la salud son menos abundantes, y los enemigos, más letales.-->Para os jogadores veteranos de Dead Space. A Munição e a saúde são menos abundantes, e os inimigos são mais letais.
+(5746)Have papers ready before approaching counter<==>Tenga los papeles preparados antes de acercarse al mostrador.-->Tenha os papéis preparados antes de se aproximar do balcão. 
+(5747)Employee Entrance<==>Entrada de empleados-->Entrada de funcionários
+(5748)Patient Care<==>Cuidado de pacientes-->Atendimento de pacientes
+(5749)Vehicle Maintenance Bay<==>Plataforma de mantenimiento de vehículos-->Plataforma de manutenção de veículos
+(5750)Audiolog, RIG number 438642. I've been selected for a special secret mission, down in the core systems on the Shard. I hope I can do them proud. Altman be praised.<==>Registro sonoro, DRI número 438642. Me han seleccionado para una misión secreta especial en los sistemas centrales del Eje. Espero ser un orgullo. Alabado sea Altman.-->Registro sonoro, DRI número 438642. Fui escolhido para uma missão secreta especial, nos sistemas centrais do Eixo. Espero que possa deixá-los orgulhosos. Altman seja louvado.
+(5751)Oh, God... I'm sorry. I didn't know what I was doing... I placed my faith in the Church and trusted them. What an idiot. Now there's something loose on the Sprawl, and the Church has abandoned me here!<==>Oh, dios... Lo siento. No sabía lo que hacía... Deposité mi fe en la Iglesia y confié en ella. ¡Qué idiota! ¡Ahora hay algo suelto en El Eje y la Iglesia me ha abandonado aquí!-->Oh, Deus... Sinto muito. Eu não sabia o que estava fazendo... Depositei minha fé na Igreja e confiei nela. Que idiota. Agora tem algo solto no Eixo, e a Igreja me abandonou aqui!
+(5752)Maybe I can make this right. Director Tiedemann asked me to repair the quarantine seal on Crossover Tube A. I don't know if I'll even make it there -- but it's my fault these things are loose in the first place. I have to try!<==>Tal vez pueda arreglar esto. El director Tiedemann me pidió que reparase el sello de cuarentena del tubo de paso A. No sé ni si llegaré hasta allí, pero esas cosas andan sueltas por mi culpa. ¡Debo intentarlo!-->Talvez eu possa consertar isso. O diretor Tiedemann me pediu para reparar o selo de quarentena do tubo de cruzamento A. Não sei nem se chegarei até ali, mas essas coisas estão soltas por minha culpa. Eu tenho que tentar!
+(5753)I'm almost at the Crossover Tube. If I can repair the seal, it'll stop the creatures from reaching the Public Sector. And then I'm going to tell everyone what the Church did!<==>Ya casi estoy en el tubo de paso. Si logro reparar el sello, impediré que las criaturas lleguen al sector público. ¡Y luego les contaré a todos lo que hizo la Iglesia!-->Estou quase no tubo de cruzamento. Se conseguir reparar o selo, impedirei que as criaturas cheguem no setor público. E então vou contar a todos o que a Igreja fez!
+(5754)Audiolog, RIG number 438642. These could be my last words. The monsters are loose. I couldn't stop them. And now the reactor core is overheating -- which will destroy the entire Sprawl if I can't fix it! So... I hope someone hears this. It means I did that much right, at least.<==>Registro sonoro, DRI número 438642. Estas podrían ser mis últimas palabras. Los monstruos están sueltos. No he podido detenerlos. Y ahora el núcleo del reactor se está sobrecalentando y acabará destruyendo El Eje si no logro arreglarlo! Así que... espero que alguien oiga esto. Significaría que, al menos, he hecho algo bien.-->Registro sonoro, DRI número 438642. Essas podem ser minhas últimas palavras. Os monstros estão soltos. Eu não consegui detê-los. E agora o núcleo do reator está superaquecendo, e vai acabar destruindo o Eixo inteiro se eu não conseguir consertá-lo! Então... espero que alguém escute isso. Isso significaria que, pelo menos, fiz algo de bom.
+(5755)For veteran Dead Space players. Ammo and health are less plentiful, and enemies are more deadly.<==>Para jugadores de Dead Space veteranos. La munición y la salud son menos abundantes, y los enemigos, más letales.-->Para os jogadores veteranos de Dead Space. A munição e a saúde são menos abundantes, e os inimigos mais letais.
 (5756)FLUCTUATIONS<==>FLUCTUACIONES-->FLUTUAÇÕES
 (5757)RESPEC<==>REESPEC.-->REFAZER
-(5758)Prevent the humans from activating the Control Room Terminals<==>Evita que los humanos activen los terminales de la sala de control.-->Evita que os humanos ativem os Terminais da Sala de Controle
-(5759)KINESIS LAUNCH<==>LANZAR CINÉTICO-->LANÇAR CINÉTICO
+(5758)Prevent the humans from activating the Control Room Terminals<==>Evita que los humanos activen los terminales de la sala de control.-->Evita que os humanos ativem os terminais da sala de controle. 
+(5759)KINESIS LAUNCH<==>LANZAR CINÉTICO-->LANÇAR CINÉTICA
 (5760)tutorials<==>Tutoriales-->Tutoriais
 (5761)Bring this schematic to the store to unlock the Advanced Suit.<==>Lleva este diagrama al almacén para desbloquear el traje avanzado.-->Leve esse diagrama até a loja para desbloquear o traje avançado.
 (5762-IGUAIS)Liu Hui Yuan
 (5763)credits<==>Créditos-->Créditos
 (5764)Unlocked at level 23<==>Desbloqueado en el nivel 23-->Desbloqueado no nível 23
-(5765)Gabe Weller fights through the Titan Mines to reach Lexine Murdoch in the Hospital to escape before it's too late.<==>Gabe Weller se abre paso por las minas Titán para llegar hasta Lexine Murdoch, en el hospital, y huir antes de que sea demasiado tarde.-->Gabe Weller luta através das Minas Titã para chegar até Lexine Murdoch, no Hospital, e escapar antes que seja tarde demais.
+(5765)Gabe Weller fights through the Titan Mines to reach Lexine Murdoch in the Hospital to escape before it's too late.<==>Gabe Weller se abre paso por las minas Titán para llegar hasta Lexine Murdoch, en el hospital, y huir antes de que sea demasiado tarde.-->Gabe Weller luta através das minas Titã para chegar até Lexine Murdoch, no hospital, e escapar antes que seja tarde demais.
 (5766)SMALL MED PACK<==>BOTIQUÍN PEQUEÑO-->KIT MÉDICO PEQUENO
-(5767)prime the two beam emitters <==>Activa los dos emisores de haces.-->Ativa os dois emissores de luz 
+(5767)prime the two beam emitters <==>Activa los dos emisores de haces.-->Ative os dois emissores de luz 
 (5768)ADVANCED LOCATOR<==>LOCALIZADOR AVANZADO-->LOCALIZADOR AVANÇADO
 (5769)ACTIVATION<==>ACTIVACIÓN-->ATIVAÇÃO
 (5770)ELLIE'S STORY 1<==>LA HISTORIA DE ELLIE 1-->A HISTÓRIA DE ELLIE 1
@@ -5775,30 +5775,30 @@
 (5774)ELLIE'S STORY 5<==>LA HISTORIA DE ELLIE 5-->A HISTÓRIA DE ELLIE 5
 (5775)Your EA Account<==>Tu cuenta EA-->Sua Conta EA
 (5776-IGUAIS)4
-(5777)checkpoint restart<==>Reinicio pto. control-->Reiniciar checkpoint
+(5777)checkpoint restart<==>Reinicio pto. control-->Reiniciar do ponto de controle
 (5778-IGUAIS)1
-(5779)You unlocked increased ranged damage for the Spitter<==>Has desbloqueado más daño a distancia para el escupidor.-->Você desbloqueou mais dano a distância para o Cuspidor
+(5779)You unlocked increased ranged damage for the Spitter<==>Has desbloqueado más daño a distancia para el escupidor.-->Você desbloqueou mais dano à distância para o cuspidor
 (5780-IGUAIS)é
 (5781-IGUAIS)p
 (5782-IGUAIS)É
 (5783-IGUAIS)P
 (5784)REPLACING THE TRAM<==>SUSTITUIR EL MONORRAÍL-->SUBSTITUINDO O TREM
 (5785)Human Resources<==>Recursos humanos-->Recursos Humanos
-(5786)STASIS: Use stasis in combat to slow enemies<==>ESTABILIZACIÓN: Usa la estabilización en combate para frenar a los enemigos.-->ESTABILIZAÇÃO: Use a estabelização em combate para retardar os inimigos
+(5786)STASIS: Use stasis in combat to slow enemies<==>ESTABILIZACIÓN: Usa la estabilización en combate para frenar a los enemigos.-->ESTABILIZAÇÃO: Use a estabilização em combate para retardar os inimigos. 
 (5787)DIAMOND SEMICONDUCTOR<==>SEMICONDUCTOR DE DIAMANTE-->SEMICONDUTOR DE DIAMANTE
-(5788)Manually Attach Claws to Initiate Repairs<==>Acopla manualmente las pinzas para iniciar las reparaciones-->Acople Manualmente as Pinças para Iniciar os Reparos
+(5788)Manually Attach Claws to Initiate Repairs<==>Acopla manualmente las pinzas para iniciar las reparaciones-->Acople manualmente as pinças para iniciar os reparos
 (5789)Brute<==>Bestia-->Besta
-(5790)searching for quick match<==>Buscando partida rápida-->Procurando por partida rápida
+(5790)searching for quick match<==>Buscando partida rápida-->Procurando partida rápida
 (5791)secret<==>Secreto-->Secreto
 (5792)Bomb<==>Bomba-->Bomba
 (5793)STASIS PACK<==>CARGA DE ESTABIL.-->CARGA DE ESTABILIZAÇÃO
-(5794)Game session is no longer available.<==>La sesión de juego ya no está disponible.-->A sessão do jogo não está mais disponível.
+(5794)Game session is no longer available.<==>La sesión de juego ya no está disponible.-->A sessão de jogo não está mais disponível.
 (5795)puker<==>vomitador-->Vomitador
 (5796)Use Kinesis on GRIP enabled objects.<==>Utiliza la cinética con objetos que tengan el símbolo GRIP.-->Use a cinética em objetos que tenham o símbolo GRIP.
 (5797-IGUAIS)Colin Boswell
 (5798)Shoot lockdown switch to stop decompression.<==>Dispara al interruptor de bloqueo para detener la descompresión.-->Atire no interruptor de bloqueio para parar a descompressão.
-(5799)Activate Gravity Tethers?<==>¿Activar anclajes gravitatorios?-->Ativar travas Gravitacionais?
-(5800)SOLAR ARRAY HALO EXIT<==>SALIDA DEL HALO DEL PANEL SOLAR-->SAÍDA DE HALO DO PAINEL SOLAR
+(5799)Activate Gravity Tethers?<==>¿Activar anclajes gravitatorios?-->Ativar travas gravitacionais?
+(5800)SOLAR ARRAY HALO EXIT<==>SALIDA DEL HALO DEL PANEL SOLAR-->SAÍDA DO HALO DO PAINEL SOLAR
 (5801)Test Speakers<==>Comprobar altavoces-->Teste de Alto-falantes
 (5802)destroy the detonator<==>Destruye el detonador.-->Destrua o detonador
 (5803-IGUAIS)James Brookes
