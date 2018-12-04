@@ -823,8 +823,8 @@
 (0823)Disengaging bridge bulkheads, stage 1, please stand by.<==>Desconectando contenciones del puente, fase 1, manténgase a la espera.-->Desconectando contenções da ponte, faseeg 1, por favor aguarde.
 (0824)The Docking Pod is off the mag-rail. An Engineering work order has been issued. <==>El cabezal de ensamblaje está fuera del raíl magnético. Hay una orden de trabajo de ingeniería.-->A cápsula de atracagem está fora do trilho magnético. Foi emitida uma ordem de trabalho de engenharia. 
 (0825)Warning! Decompression in three... two... one<==>¡Alerta! Descompresión en tres... dos... un..[o].-->Alerta! Descompressão em três... dois... um
-(0826)Bulkheads disengaged.   Warning:  The escape pod system is offline.<==>Contenciones desactivadas. Alerta: el sistema de cápsula de escape está desconectado.-->Contenções desconectadas. Alerta: o sistema da cápsula de fuga está desconectado.
-(0827)Gravity in the shunt is now offline.<==>La gravedad de la derivación está desconectada.-->A gravidade da derivação está desconectada.
+(0826)Bulkheads disengaged.   Warning:  The escape pod system is offline.<==>Contenciones desactivadas. Alerta: el sistema de cápsula de escape está desconectado.-->Contenções desativadas. Alerta: o sistema da cápsula de fuga está desligado.
+(0827)Gravity in the shunt is now offline.<==>La gravedad de la derivación está desconectada.-->A gravidade da derivação está desligada.
 (0828)Danger: keep objects and personnel away from fan blades.<==>Peligro: mantengan los objetos y el personal alejados de las aspas del ventilador.-->Perigo: mantenha os objetos e o pessoal longe das pás do ventilador.
 (0829)Warning: Decompression<==>Alerta: descompresión.-->Alerta: Descompressão
 (0830)Decompression warning.  Hull breach.<==>Alerta de descompresión. Ruptura del casco.-->Alerta de descompressão. Ruptura da fuselagem.
@@ -846,7 +846,7 @@
 (0846)Attention: Trip the red sensor to manually seal hull breach.   The breach will seal automatically in 5 seconds.  <==>Atención: accione el sensor rojo para sellar manualmente la ruptura del casco. La ruptura se sellará automáticamente en 5 segundos.-->Atenção: Acione o sensor vermelho para selar manualmente a ruptura da fuselagem. A ruptura se selará automaticamente em 5 segundos. 
 (0847)Be sure to reload frequently when working at a steady pace.<==>Asegúrese de recargar con frecuencia cuando trabaje a ritmo continuo.-->Certifique-se de recarregar com frequência quando estiver trabalhando em um ritmo constante.
 (0848)Collect and turn in Schematics at any store to unlock new weapons, ammo and suits.<==>Recoja y presente diagramas en cualquier almacén para desbloquear nuevas armas, munición y trajes.-->Recolha e apresente diagramas em qualquer loja para desbloquear novas armas, munição e trajes.
-(0849)Diagnostic mode initiated for Waste Compression Chamber 752.  Compressor piston offline.  It is now safe to enter the chamber.  Authorized personnel only.   <==>Modo de diagnóstico iniciado en la cámara de compresión de residuos 752. Pistón de compresión desconectado. Ahora es seguro entrar en la cámara.\nSolo personal autorizado.-->Modo de diagnóstico iniciado na câmara de compressão de resíduos 752. Pistão de compressão desconectado. Agora é seguro entrar na câmara. Somente pessoal autorizado.   
+(0849)Diagnostic mode initiated for Waste Compression Chamber 752.  Compressor piston offline.  It is now safe to enter the chamber.  Authorized personnel only.   <==>Modo de diagnóstico iniciado en la cámara de compresión de residuos 752. Pistón de compresión desconectado. Ahora es seguro entrar en la cámara.\nSolo personal autorizado.-->Modo de diagnóstico iniciado na câmara de compressão de resíduos 752. Pistão de compressão desligado. Agora é seguro entrar na câmara. Somente pessoal autorizado.   
 (0850)Filtration complete.<==>Filtración completa.-->Filtragem completa.
 (0851)Filtration sequence initialized<==>Secuencia de filtración iniciada.-->Sequência de filtragem iniciada
 (0852)Find weak points to disable firewalls.<==>Busque puntos débiles para desactivar cortafuegos-->Encontre pontos fracos para desativar firewalls.
@@ -916,13 +916,13 @@
 (0916)Warning: Gravity failure.<==>Alerta: fallo de gravedad.-->Alerta: Falha de gravidade.
 (0917)Warning: Life Support failure.  Seek protection immediately.<==>Alerta: fallo en el soporte vital. Póngase bajo la protección de inmediato.-->Aviso: Alerta no suporte vital. Procure proteção imediatamente.
 (0918)Disengaging first stage locks, please stand by.<==>Desconectando cierres de primera fase, manténgase a la espera.-->Desconectando bloqueios da primeira etapa, por favor aguarde.
-(0919)First stage locks disengaged.  Second stage holding.<==>Cierres de primera fase desconectados. Segunda fase a la espera.-->Bloqueios da primeira etapa desconectados. Segunda etapa em espera.
+(0919)First stage locks disengaged.  Second stage holding.<==>Cierres de primera fase desconectados. Segunda fase a la espera.-->Bloqueios da primeira etapa desligados. Segunda etapa em espera.
 (0920)Disengaging second stage locks, please stand by.<==>Desconectando cierres de segunda fase, manténgase a la espera.-->Desconectando bloqueios da segunda etapa, por favor aguarde.
 (0921)Locks disengaged.  Opening Server room blast doors.   Thank you.<==>Cierre desactivado. Abriendo puertas blindadas de la sala del servidor. Gracias.-->Bloqueios desativados. Abrindo portas blindadas da sala do servidor. Obrigado.
 (0922)Disengaging bridge bulkheads, stage 1, please stand by.<==>Desconectando contenciones del puente, fase 1, manténgase a la espera.-->Desconectando as contenções da ponte, etapa 1, por favor aguarde.
 (0923)Stage 1 disengaged.   Disengage stage 2 to release the bulkheads.   <==>Fase 1 desactivada. Desactivad la fase 2 para soltar las contenciones.-->Etapa 1 desativada. Desative a etapa 2 para liberar as contenções.   
 (0924)Disengaging bridge bulkheads, stage 2, please stand by.<==>Desconectando contenciones del puente, fase 2, manténgase a la espera.-->Desconectando as contenções da ponte, etapa 2, por favor aguarde.
-(0925)Bulkheads disengaged.   Warning:  The escape pod system is offline.<==>Contenciones desactivadas. Alerta: el sistema de cápsula de escape está desconectado.-->Contenções desativadas. Alerta: o sistema da cápsula de fuga está desconectado.
+(0925)Bulkheads disengaged.   Warning:  The escape pod system is offline.<==>Contenciones desactivadas. Alerta: el sistema de cápsula de escape está desconectado.-->Contenções desativadas. Alerta: o sistema da cápsula de fuga está desligado.
 (0926)Transferring power to the escape pod system, stand by.   <==>Transfiriendo energía al sistema de cápsula de escape, manténgase a la espera.-->Transferindo energia para o sistema da cápsula de fuga, aguarde.   
 (0927)First transfer complete.  Awaiting second transfer.<==>Primera transferencia completada. A la espera de la segunda transferencia.-->Primeira transferência concluída. Aguardando segunda transferência.
 (0928)Transferring power to the escape pod system, stand by.   <==>Transfiriendo energía al sistema de cápsula de escape, manténgase a la espera.-->Transferindo energia para o sistema da cápsula de fuga, aguarde. 
@@ -2133,7 +2133,7 @@
 (2133)Linac<==>LINAC-->Linac
 (2134-IGUAIS)Dom Regan
 (2135)RUBY SEMICONDUCTOR<==>SEMICONDUCTOR DE RUBÍ-->SEMICONDUTOR DE RUBI
-(2136)Cenrtifuge is currently offline. Please activate clutches.<==>La centrifugadora está desconectada. Active los acoplamientos.-->A centrifuga está desconectada. Ative os acoplamentos.
+(2136)Cenrtifuge is currently offline. Please activate clutches.<==>La centrifugadora está desconectada. Active los acoplamientos.-->A centrifuga está desligada. Ative os acoplamentos.
 (2137)Clutches Engaged. Activate Console.<==>Acoplamientos conectados. Activar consola.-->Acoplamentos conectados. Ativar console.
 (2138-IGUAIS)Hack?
 (2139-IGUAIS)General-->Geral
@@ -2274,7 +2274,7 @@
 (2274)Additional Lighting<==>Iluminación adicional-->Iluminação Adicional
 (2275-IGUAIS)0
 (2276-IGUAIS)Italiano
-(2277)The Human team is on a mission to eradicate the Necromorphs by detonating the fuel core.<==>Los humanos tienen la misión de erradicar a los necromorfos detonando el núcleo de combustible.-->Os humanos tem a missão de erradicar os necromorfos detonando o núcleo de combústivel.
+(2277)The Human team is on a mission to eradicate the Necromorphs by detonating the fuel core.<==>Los humanos tienen la misión de erradicar a los necromorfos detonando el núcleo de combustible.-->Os humanos tem a missão de erradicar os necromorfos detonando o núcleo de combustível.
 (2278)Are you sure you wish to share your usage data with EA?<==>¿Seguro que quieres compartir tus datos de uso con EA?-->Você tem certeza que quer compartilhar seus dados com a EA?
 (2279)   Get to the Bridge Deck.<==>Ve a la cubierta del puente.-->   Vá até a plataforma da ponte.
 (2280-IGUAIS)ß
@@ -3344,7 +3344,7 @@
 (3344)SHUTDOWN<==>DESCONEXIÓN-->DESCONEXÃO
 (3345)Chapter 8<==>Capítulo 8-->Capítulo 8 - Engenharia Espacial
 (3346)Global Online Studio<==>Estudio online global-->Estudio Online Global
-(3347)Communication array offline.<==>Antena de comunicaciones desconectada.-->Antena de comunicação desconectada.
+(3347)Communication array offline.<==>Antena de comunicaciones desconectada.-->Antena de comunicação desligada.
 (3348)Shows progress as you move around dishes<==>Muestra los progresos al desplazarte por las parabólicas-->Mostra os progressos enquanto você anda pelas parabólicas
 (3349)Communications array re-aligned. Activate console<==>Antena de comunicaciones realineada. Activar consola-->Antena de comunicação realinhada. Ativar console
 (3350-IGUAIS)Kevin Kimball
@@ -4892,7 +4892,7 @@
 (4891)I'm at the first terminal, overriding the bridge bulkhead lockdown now.   Hold on.<==>Estoy en el primer terminal, anulando cierre de contención del puente. Esperad.-->Estou no primeiro terminal, anulando o bloqueio de contenção da ponte. Esperem.
 (4892)Okay, halfway there, find the other terminal!<==>Bien, estamos a medio camino. ¡Buscad el otro terminal!-->Certo, estamos na metade do caminho, encontre o outro terminal!
 (4893)I'm at the second terminal, stand by!<==>Estoy en el segundo terminal. Esperad.-->Estou no segundo terminal. Esperem!
-(4894)We're in!  We're in!  Get to the two primer stations!   The escape pods are offline!  What the hell man! <==>¡Estamos dentro! ¡Estamos dentro! ¡Dirigíos a las dos estaciones de detonación! ¡Las cápsulas de escape están desconectadas! ¡Qué diablos ocurre!-->Estamos dentro! Estamos dentro! Vão até as duas estações de detonação! As cápsulas de fuga estão desconectadas! Que diabos está acontecendo!
+(4894)We're in!  We're in!  Get to the two primer stations!   The escape pods are offline!  What the hell man! <==>¡Estamos dentro! ¡Estamos dentro! ¡Dirigíos a las dos estaciones de detonación! ¡Las cápsulas de escape están desconectadas! ¡Qué diablos ocurre!-->Estamos dentro! Estamos dentro! Vão até as duas estações de detonação! As cápsulas de fuga estão desligadas! Que diabos está acontecendo!
 (4895)I'm at the first priming station, activating now.   Keep me alive!<==>Estoy en la primera estación de detonación, activando. ¡No dejéis que me maten!-->Estou na primeira estação de detonação, ativando agora. Não deixem que me matem!
 (4896)Alright, we need the other one, move move move!<==>¡Bien, necesitamos la otra, vamos, vamos, vamos!-->Certo, precisamos da outra, vamos, vamos, vamos!
 (4897)I'm on the second priming station, here goes!   Stay tight!<==>¡Estoy en la segunda estación de detonación, allá va! ¡Aguantad!-->Estou na segunda estação de detonação, aqui vai! Segurem firme!
@@ -5412,7 +5412,7 @@
 (5411)casual<==>Fácil-->Fácil
 (5412)Design Leads<==>Jefes de diseño-->Chefes de Desenho
 (5413)ON<==>ACTIVADO-->ATIVADO
-(5414)Gravity offline<==>Gravedad desconectada-->Gravidade desconectada
+(5414)Gravity offline<==>Gravedad desconectada-->Gravidade desligada
 (5415)I don't know who this woman is, but she's helped me make it this far. Trust isn't a factor here - she's helped me survive, and that's what matters. She says she has a cure for these hallucinations and a way off this space station.<==>No sé quién es esta mujer, pero me ha ayudado a llegar hasta aquí. La confianza no es un factor, me ha ayudado a sobrevivir, eso es lo único que importa. Dice que tiene una cura para estas alucinaciones y que conoce la forma de salir de esta estación espacial.-->Não sei quem é essa mulher, mas ela me ajudou a chegar até aqui. A confiança não é um fator aqui - ela me ajudou a sobreviver, e isso é o que importa. Ela diz que tem uma cura para essas alucinações e que uma maneira de sair dessa estação espacial.
 (5416)POWER CELL<==>CÉLULA DE ENERGÍA-->CÉLULA DE ENERGIA
 (5417)This will upgrade your CHARGE by %g sec.<==>Se mejorará la CARGA en %g seg.-->Isso vai melhorar sua CARGA em %g seg.
@@ -5496,7 +5496,7 @@
 (5495)Here's one, starting bridge bulkhead override.  Watch my back!<==>¡Aquí hay uno! ¡Iniciando anulación de contención del puente! ¡Cubridme!-->Aqui tem um, iniciando a anulação da contenção da ponte. Me cubram!
 (5496)There's one left, we're almost in.   Stay tight!<==>Queda uno, casi hemos terminado. ¡Aguantad!-->Ainda resta um, estamos quase lá. Aguentem firme!
 (5497)I'm on the second one, hold on!<==>¡Estoy en el segundo, aguantad!-->Estou no segundo, aguentem!
-(5498)It's open, the bridge is open!  The escape pods are offline, get to the two priming stations, hurry!<==>¡Está abierto, el puente está abierto! ¡Las cápsulas de escape están desconectadas, dirigíos a las dos estaciones de detonación, deprisa!-->Está aberta, a ponte está aberta! As cápsulas de fuga estão desconectadas, vão até as estações de detonação, depressa!
+(5498)It's open, the bridge is open!  The escape pods are offline, get to the two priming stations, hurry!<==>¡Está abierto, el puente está abierto! ¡Las cápsulas de escape están desconectadas, dirigíos a las dos estaciones de detonación, deprisa!-->Está aberta, a ponte está aberta! As cápsulas de fuga estão desligadas, vão até as estações de detonação, depressa!
 (5499)Transfering power, first station.   Watch my back!  <==>Transfiriendo energía, primera estación. ¡Cubridme!-->Transferindo energia, primeira estação. Me cubram!
 (5500)Let's get the other station primed, we're almost free.<==>Detonemos la otra estación, estamos cerca de la libertad.-->Vamos destruir a outra estação, estamos quase livres.
 (5501)Last priming station, this should do it.  Cover me!<==>Última estación de detonación. Debería ser suficiente. ¡Cubridme!-->Última estação de detonação, isso deve ser suficiente. Me cubram!
@@ -5518,36 +5518,36 @@
 (5517)We're not going to discharge anything wihout power.    Let's get to the transformer reset console.<==>No podemos descargar nada sin alimentación. Tenemos que encontrar la consola de reinicio del transformador.-->Nós não vamos disparar nada sem energia. Temos de encontrar o painel para reiniciar o transformador.
 (5518)Power restored.  Override the Security doors next.  Console's up ahead. <==>Alimentación restablecida. Ahora hay que anular las puertas de seguridad. La consola está ahí delante.-->Energia restabelecida. Agora temos que desligar as portas de segurança. O painel está logo a frente.
 (5519)Doors released.  Grab that disc!  Firing coordinates are upstairs.  <==>¡Puertas abiertas! ¡Coged ese disco! Las coordenadas de disparo están en el piso de arriba.-->Portas liberadas. Peguem o disco! As coordenadas de disparo estão no piso superior.
-(5520)Head upstairs to the Intel center and plug it in.     Tiedemann will load the coordinates remotely.<==>Dirigíos al piso de arriba, al centro de inteligencia y conectadlo.-->Vão até o Centro de Inteligência no piso acima e conectem o disco. O Tiedemann irá carregar as coordenadas remotamente.
+(5520)Head upstairs to the Intel center and plug it in.     Tiedemann will load the coordinates remotely.<==>Dirigíos al piso de arriba, al centro de inteligencia y conectadlo.-->Vão até o centro de inteligência, no piso acima, e insiram o disco. Tiedemann irá carregar as coordenadas remotamente.
 (5521)Disc acquired. <==>Disco conseguido.-->Disco adquirido.
-(5522)What the fuck is a sledgehammer?   Cut the chatter, let's roll.<==>¿Pero qué tonterías dices? Déjate de chácharas y en marcha.-->O que você disse? Parem de conversinha, e vamos logo.
-(5523)They got him!  He dropped the disc!   We have to get it back!  <==>¡Lo han matado! ¡Ha soltado el disco! ¡Tenemos que recuperarlo!-->Eles o mataram! Ele derrubou o disco! Nós temos que recuperá-lo!
-(5524)Alright, disc plugged in.   The networks are a mess, this is gonna take forever.   We should go prime the two beam emitters while we wait.     We can come back for the disc.  <==>Bien, disco insertado. Las redes son caóticas, esto llevará siglos. Deberíamos ir a detonar los dos emisores de haces mientras esperamos. Luego volveremos a por el disco.-->Certo, o disco está conectado. As redes estão uma loucura, isso vai demorar séculos. Nós devemos destruir os dois emissores de raio enquanto esperamos. Nós podemos voltar para pegar o disco.
+(5522)What the fuck is a sledgehammer?   Cut the chatter, let's roll.<==>¿Pero qué tonterías dices? Déjate de chácharas y en marcha.-->Mas o que você está dizendo? Deixem de conversa e vamos logo.
+(5523)They got him!  He dropped the disc!   We have to get it back!  <==>¡Lo han matado! ¡Ha soltado el disco! ¡Tenemos que recuperarlo!-->Eles o pegaram! Ele soltou o disco! Nós temos que recuperá-lo!
+(5524)Alright, disc plugged in.   The networks are a mess, this is gonna take forever.   We should go prime the two beam emitters while we wait.     We can come back for the disc.  <==>Bien, disco insertado. Las redes son caóticas, esto llevará siglos. Deberíamos ir a detonar los dos emisores de haces mientras esperamos. Luego volveremos a por el disco.-->Tudo bem, disco inserido. As redes estão uma loucura, isso vai demorar séculos. Nós deveríamos ir destruir os dois emissores de raios enquanto esperamos. Podemos voltar para pegar o disco mais tarde.
 (5525)I've reached a priming panel, initiating the sequence now.   <==>¡He alcanzado el panel de detonación! Iniciando secuencia.-->Alcancei o painel de detonação, iniciando sequência agora.
-(5526)The first emitter is primed, now we need to get the second one.   <==>El primer emisor está detonado, ahora tenemos que llegar al segundo.-->O primeiro emissor foi destruído, agora precisamos encontrar o outro.
-(5527)Starting second priming. Try to hold them off!<==>Iniciando segunda detonación. ¡Intentad mantenerlos a raya!-->Começando segunda detonação. Tente dete-los!
-(5528)Array fully primed. Let's head down and get the firing coordinates from the disc!<==>Panel detonado por completo. ¡Volvamos y recuperemos las coordenadas de disparo del disco!-->Paínel detonado completamente. Vamos voltar e pegar as coordenadas de disparo do disco!
-(5529)I have the disc.   Let's get this back up to the main array controls.<==>Tengo el disco. Volvamos a los controles del panel principal.-->Estou com o disco. Vamos levar isso de volta aos controles do paínel principal.
-(5530)Oh God, he's down, he's down!  Someone grab the disc, he was carrying it!   It's got the firing coordinates!<==>¡Oh, cielos, ha caído, ha caído! ¡Que alguien coja el disco que llevaba! ¡Tiene las coordenadas de disparo!-->Meu Deus, ele caiu, ele caiu! Alguém pegue o disco, ele estava carregando! Ele contém as coordenadas de disparo!
-(5531)Mission success, array firing!   So much for Tiedemann's "patient".<==>¡Misión cumplida, panel activado! Ese paciente de Tiedemann no es nadie.-->Missão cumprida, paínel ativado! Esse "paciente" do Tiedemann não é nada.
-(5532)Alpha team, report.  Report!   I think they're gone sir.<==>Equipo Alfa, informad. ¡Informad! Creo que se han largado, señor.-->Equipe Alpha, informe. Informe! Eu acho que eles morreram senhor.
+(5526)The first emitter is primed, now we need to get the second one.   <==>El primer emisor está detonado, ahora tenemos que llegar al segundo.-->O primeiro emissor foi destruído, agora precisamos ir até o segundo.
+(5527)Starting second priming. Try to hold them off!<==>Iniciando segunda detonación. ¡Intentad mantenerlos a raya!-->Iniciando segunda detonação. Tente segurá-los!
+(5528)Array fully primed. Let's head down and get the firing coordinates from the disc!<==>Panel detonado por completo. ¡Volvamos y recuperemos las coordenadas de disparo del disco!-->Painel destruído por completo. Vamos voltar e pegar as coordenadas de disparo do disco!
+(5529)I have the disc.   Let's get this back up to the main array controls.<==>Tengo el disco. Volvamos a los controles del panel principal.-->Estou com o disco. Vamos voltar aos controles do painel principal.
+(5530)Oh God, he's down, he's down!  Someone grab the disc, he was carrying it!   It's got the firing coordinates!<==>¡Oh, cielos, ha caído, ha caído! ¡Que alguien coja el disco que llevaba! ¡Tiene las coordenadas de disparo!-->Meu Deus, ele caiu, ele caiu! Alguém pegue o disco que ele estava carregando! Ele contém as coordenadas de disparo!
+(5531)Mission success, array firing!   So much for Tiedemann's "patient".<==>¡Misión cumplida, panel activado! Ese paciente de Tiedemann no es nadie.-->Missão cumprida, painel ativado! Esse "paciente" do Tiedemann não é nada.
+(5532)Alpha team, report.  Report!   I think they're gone sir.<==>Equipo Alfa, informad. ¡Informad! Creo que se han largado, señor.-->Equipe Alfa, informe. Informe! Eu acho que eles se foram, senhor.
 (5533)Detonate a fuel core?<==>¿Detonación de un núcleo?-->Detonar um núcleo de combustível?
-(5534)Repair unit aquired, heading to ventilation room.<==>Unidad de reparación adquirida; rumbo a la sala de ventilación.-->Unidade de reparo adquirida, indo até a sala de ventilação.
-(5535)They got him!  He dropped the repair unit, pick it up, pick it up!<==>¡Lo han matado! ¡Ha soltado la unidad de reparación, cogedla, cogedla!-->Eles o pegaram! Ele derrubou a unidade de reparo, peguem-na, peguem-na!
+(5534)Repair unit aquired, heading to ventilation room.<==>Unidad de reparación adquirida; rumbo a la sala de ventilación.-->Unidade de reparo adquirida, indo para a sala de ventilação.
+(5535)They got him!  He dropped the repair unit, pick it up, pick it up!<==>¡Lo han matado! ¡Ha soltado la unidad de reparación, cogedla, cogedla!-->Eles o pegaram! Ele deixou cair a unidade de reparo, peguem-na, peguem-na!
 (5536)Repairs engaged, watch my back!<==>¡Reparaciones activadas, cubridme las espaldas!-->Reparos iniciados, me cubram!
-(5537)Repair unit destroyed!  Head back to get another one!<==>¡Unidad destruida! ¡Mierda! ¡Volved y conseguid otra!-->Unidade de reparo destruída! Peguem outra!
-(5538)Vents online.  Activation switch is in the workshop, head out.<==>Conductos activados. El interruptor de activación está en el taller, en marcha.-->Ventilação ligada. A alavanca de ativação está na oficina, vamos.
-(5539)Quarantine clear, let's go.   Download the door codes at the main terminal!<==>Cuarentena levantada, vamos. ¡Descargad los códigos de la puerta en la terminal principal!-->Quarentena limpa, vamos lá. Baixem os códigos das portas no terminal principal!
+(5537)Repair unit destroyed!  Head back to get another one!<==>¡Unidad destruida! ¡Mierda! ¡Volved y conseguid otra!-->Unidade de reparo destruída! Voltem e consigam outra!
+(5538)Vents online.  Activation switch is in the workshop, head out.<==>Conductos activados. El interruptor de activación está en el taller, en marcha.-->Ventilação ligada. O interruptor de ativação está na oficina, vamos.
+(5539)Quarantine clear, let's go.   Download the door codes at the main terminal!<==>Cuarentena levantada, vamos. ¡Descargad los códigos de la puerta en la terminal principal!-->Quarentena levantada, vamos lá. Baixem os códigos das portas no terminal principal!
 (5540)Downloading codes to disc, stand by!<==>¡Descargando códigos al disco, esperad!-->Baixando códigos para o disco, aguardem!
-(5541)Got the codes, got the disc, cover me while I get to the Security door!<==>¡Tengo los códigos y el disco, cubridme mientras voy hacia la puerta de seguridad!-->Peguei os códigos, peguei o disco, me cubram enquanto eu vou até a Porta de Segurança!
-(5542)Doors are open!  Get to the fuel core and hold the detonator primer! Go go go!<==>¡Puertas abiertas! ¡Vayamos al núcleo de combustible y activemos el detonador! ¡Vamos, vamos, vamos!-->Portas abertas! Vão até o núcleo de combústivel e ativem o detonador! Vamos, vamos, vamos!
-(5543)Priming detonator now!   Keep those bastards off me!<==>¡Activando detonador! ¡Mantened a esos cabrones alejados!-->Ativando detonador agora! Deixem esses malditos longe de mim!
-(5544)Okay, protect the fuel core, don't let them destroy it!  1 minute!<==>¡Bien, hay que proteger el núcleo, que no lo destruyan! ¡1 minuto!-->Certo, protejam o núcleo de combústivel, não deixem eles o destruírem! 1 minuto!
+(5541)Got the codes, got the disc, cover me while I get to the Security door!<==>¡Tengo los códigos y el disco, cubridme mientras voy hacia la puerta de seguridad!-->Peguei os códigos e o disco, me cubram enquanto eu vou até a porta de segurança!
+(5542)Doors are open!  Get to the fuel core and hold the detonator primer! Go go go!<==>¡Puertas abiertas! ¡Vayamos al núcleo de combustible y activemos el detonador! ¡Vamos, vamos, vamos!-->Portas abertas! Vão até o núcleo de combustível e ativem o detonador! Vamos, vamos, vamos!
+(5543)Priming detonator now!   Keep those bastards off me!<==>¡Activando detonador! ¡Mantened a esos cabrones alejados!-->Ativando detonador agora! Mantenha esses desgraçados longe de mim!
+(5544)Okay, protect the fuel core, don't let them destroy it!  1 minute!<==>¡Bien, hay que proteger el núcleo, que no lo destruyan! ¡1 minuto!-->Certo, protejam o núcleo de combustível, não deixem que eles o destruam! 1 minuto!
 (5545)30 seconds till repair is complete!<==>¡30 segundos para el fin de la reparación!-->30 segundos até que o reparo esteja completo!
 (5546)Unit destroyed!  There's two more, go get another one!<==>¡Unidad destruida! ¡Hay dos más, conseguid otra!-->Unidade destruída! Existem mais duas, vá pegar outra!
-(5547)We're set, watch for ambushes, these things are hunting us.<==>Ya estamos, ojo a las emboscadas, esas cosas nos quieren dar caza.-->Estamos prontos, cuidado com emboscadas, essas coisas estão nos caçando.
-(5548)Oh Shit! RIG flatline, get back, get it back!<==>¡Joder! ¡El DRI no emite, vamos, recuperadlo!-->Merda! O DRI não está emitindo, recuperem-no, vamos!
-(5549)Oh Shit! RIG flatline, get back, get it back!<==>¡Joder! ¡El DRI no emite, vamos, recuperadlo!-->Merda! O DRI não está emitindo, recuperem-no, vamos!
+(5547)We're set, watch for ambushes, these things are hunting us.<==>Ya estamos, ojo a las emboscadas, esas cosas nos quieren dar caza.-->Estamos prontos, cuidado com as emboscadas, essas coisas estão nos caçando.
+(5548)Oh Shit! RIG flatline, get back, get it back!<==>¡Joder! ¡El DRI no emite, vamos, recuperadlo!-->Ah droga! O DRI não está emitindo, vamos, recuperem-no!
+(5549)Oh Shit! RIG flatline, get back, get it back!<==>¡Joder! ¡El DRI no emite, vamos, recuperadlo!-->Ah droga! O DRI não está emitindo, vamos, recuperem-no!
 (5550)We're set, watch for ambushes, these things are hunting us.<==>Ya estamos, ojo a las emboscadas, esas cosas nos quieren dar caza.-->Estamos prontos, cuidado com emboscadas, essas coisas estão nos caçando.
 (5551)RETRIEVE CARGO<==>RECUPERAR CARGA-->RECUPERE A CARGA
 (5552)RETRIEVING CARGO<==>RECUPERANDO CARGA-->RECUPERANDO CARGA
@@ -5555,31 +5555,31 @@
 (5554)Kinesis\nRequired<==>Módulo cinético\nnecesario-->Módulo Cinético\nNecessário
 (5555)Malfunction!<==>¡Fallo del sistema!-->Falha do Sistema!
 (5556)Detonate a fuel core?<==>¿Detonación de un núcleo?-->Detonar um núcleo de combustível?
-(5557)We can use the bridge escape pods!<==>¡Podemos utilizar las cápsulas de escape!-->Nós podemos usar as cápsulas de fuga!
-(5558)Discharge the beam?  At what?<==>¿Descargar el haz? ¿Sobre qué?-->Disparar o raio? No que?
-(5559)This is a connector node.<==>Este es un nodo conector.-->Esse é um nódulo conector.
+(5557)We can use the bridge escape pods!<==>¡Podemos utilizar las cápsulas de escape!-->Podemos usar as cápsulas de fuga!
+(5558)Discharge the beam?  At what?<==>¿Descargar el haz? ¿Sobre qué?-->Disparar o raio? No quê?
+(5559)This is a connector node.<==>Este es un nodo conector.-->Esse é um nodo conector.
 (5560)PROGRESS REPORT 3<==>PROGRESS REPORT 35Åàeå£-->RELATÓRIO DE PROGRESSO 3
 (5561)+melee damage<==>+daño cuerpo a cuerpo-->+dano corpo a corpo
 (5562-IGUAIS)Mitch Harris
-(5563)The email address is missing.<==>No se ha introducido la dirección de correo electrónico.-->Está faltando o endereço de email .
-(5564)refurbished plasma cutter<==>cortadora de plasma restaurada-->cortadora de plasma recondicionado
+(5563)The email address is missing.<==>No se ha introducido la dirección de correo electrónico.-->O endereço de correio eletrônico não foi informado.
+(5564)refurbished plasma cutter<==>cortadora de plasma restaurada-->cortadora de plasma recondicionada
 (5565)GET TO THE TRAM<==>AL MONORRAÍL-->VÁ ATÉ O TREM
 (5566)ANOTHER NEW ROUTE\n<==>OTRA NUEVA RUTA\n-->OUTRA NOVA ROTA\n
 (5567)TOO FAR GONE<==>DEMASIADO TARDE-->TARDE DEMAIS
-(5568)UNITOLOGISTS - I HATE THESE GUYS<==>UNIÓLOGOS. LOS DETESTO.-->UNITÓLOGOS - ODEIO ESSES CARAS
-(5569)WHY?<==>¿POR QUÉ?-->POR QUE?
+(5568)UNITOLOGISTS - I HATE THESE GUYS<==>UNIÓLOGOS. LOS DETESTO.-->UNITOLOGISTAS - ODEIO ELES
+(5569)WHY?<==>¿POR QUÉ?-->POR QUÊ?
 (5570)SPOTTED<==>DETECCIÓN-->DETECTADO
 (5571)THE STEPS OF THE CHURCH<==>LOS PASOS DE LA IGLESIA-->OS PASSOS DA IGREJA
-(5572)GOVERNMENT ATTACK<==>ATAQUE DEL GOBIERNO-->ATAQUE GOVERNAMENTAL
+(5572)GOVERNMENT ATTACK<==>ATAQUE DEL GOBIERNO-->ATAQUE DO GOVERNO
 (5573)CRAP ROUTE<==>RUTA MALA-->MAU CAMINHO
-(5574)BRUTE EN ROUTE<==>BESTIA EN CAMINO-->BESTA A CAMINHO
-(5575)FIGHT FINISHED<==>LUCHA TERMINADA-->LUTA TERMINADA
+(5574)BRUTE EN ROUTE<==>BESTIA EN CAMINO-->BESTA NO CAMINHO
+(5575)FIGHT FINISHED<==>LUCHA TERMINADA-->LUTA CONCLUÍDA
 (5576)quick heal<==>curación rápida-->cura rápida
 (5577)ANOMOLIES DETECTED!<==>¡ANOMALÍAS DETECTADAS!-->ANOMOLIAS DETECTADAS!
 (5578-IGUAIS)5
 (5579)Artificial Gravity<==>Grav. artificial-->Gravidade Artificial
 (5580)NODES<==>NODOS-->NODOS
-(5581)If you decline EA's Privacy Policy and Terms of Service, you will not be able to register your EA Account, or take advantage of any of the online features.<==>Si rechazas la Política de privacidad y los Términos de servicio de EA, no podrás registrar tu cuenta EA ni beneficiarte de ninguna de las funciones online.-->Se você não aceitar as Políticas de Privacidade e os Termos de Serviço da EA, você não poderá registrar uma Conta EA, ou desfrutar de qualquer serviço online.
+(5581)If you decline EA's Privacy Policy and Terms of Service, you will not be able to register your EA Account, or take advantage of any of the online features.<==>Si rechazas la Política de privacidad y los Términos de servicio de EA, no podrás registrar tu cuenta EA ni beneficiarte de ninguna de las funciones online.-->Se você não aceitar a Política de privacidade e os Termos de serviço da EA, não poderá registrar sua conta EA, nem desfrutar das funcionalidades online.
 (5582)Press [RSTop]<==>Pulsa [RSTop].-->Pressione [RSTop]
 (5583)Equip<==>Equipar-->Equipar
 (5584-IGUAIS)100 - 109
@@ -5592,56 +5592,56 @@
 (5591-IGUAIS)Zhang Yao
 (5592)Please read and accept both documents<==>Lee y acepta ambos documentos.-->Por favor leia e aceite os dois documentos
 (5593)controls<==>Controles-->Controles
-(5594)Semi-conductors are valuables scattered about the Sprawl.  Find and sell them for money.<==>Los semiconductores son objetos valiosos repartidos por El Eje. Búscalos y véndelos a cambio de dinero.-->Semi-condutores são objetos valiosos espalhados pelo Eixo. Encontre e os venda por dinheiro.
-(5595)     ISHIMURA TRAM SYSTEM     ISHIMURA TRAM SYSTEM<==>     SISTEMA DE MONORRAÍL DEL ISHIMURA     SISTEMA DE MONORRAÍL DEL ISHIMURA-->     SISTEMA DE TREM ISHIMURA     SISTEMA DE TREM ISHIMURA
-(5596)Welcome to Solar Array Sigma-Zero-Five. Proper identification is required. Please wait here. Watchman... Howard Phillips will be with you shortly.<==>Bienvenido al panel solar sigma-cero-cinco. Identificación obligatoria. Por favor, espere aquí. El vigilante... Howard Phillips estará en breve con usted.-->Bem-vindo ao Painel Solar Sigma-Zero-Cinco. Identificação obrigatória. Por favor aguarde. O Vigilante... Howard Phillips estará com você em breve.
+(5594)Semi-conductors are valuables scattered about the Sprawl.  Find and sell them for money.<==>Los semiconductores son objetos valiosos repartidos por El Eje. Búscalos y véndelos a cambio de dinero.-->Semicondutores são objetos valiosos espalhados pelo Eixo. Procure por eles e os venda para obter dinheiro.
+(5595)     ISHIMURA TRAM SYSTEM     ISHIMURA TRAM SYSTEM<==>     SISTEMA DE MONORRAÍL DEL ISHIMURA     SISTEMA DE MONORRAÍL DEL ISHIMURA-->     SISTEMA DE TREM DA ISHIMURA     SISTEMA DE TREM DA ISHIMURA
+(5596)Welcome to Solar Array Sigma-Zero-Five. Proper identification is required. Please wait here. Watchman... Howard Phillips will be with you shortly.<==>Bienvenido al panel solar sigma-cero-cinco. Identificación obligatoria. Por favor, espere aquí. El vigilante... Howard Phillips estará en breve con usted.-->Bem-vindo ao painel solar sigma-zero-cinco. Identificação obrigatória. Por favor, espere aqui. O Vigilante... Howard Phillips estará em breve com você.
 (5597)RIG authorization recognized. Greetings, Station watchman Howard Phillips. I hope you slept well.<==>Autorización de DRI reconocida. Saludos, vigilante de estación Howard Phillips. ¡Espero que haya dormido bien!-->Autorização de DRI reconhecida. Saudações, vigilante da estação Howard Phillips. Espero que tenha dormido bem.
-(5598)Unauthorized visitor detected. Auto-defenses activated. Station watchman Howard Phillips, please provide verbal access code to authorize your guest.<==>Visitante no autorizado detectado. Defensas automáticas activadas. Vigilante de estación Howard Phillips, proporcione el código de acceso verbal para autorizar a su invitado.-->Visitante não autorizado detectado. Defesas automáticas ativadas. Vigilante da Estação Howard Phillips, por favor diga o código de acesso verbal para autorizar o visitante.
-(5599)Attention, Unauthorized Visitor. You have been warned. Further illegal activities will be met with deadly force.<==>Atención, visitante no autorizado. Ha sido advertido. Si las actividades ilegales prosiguen, se procederá al uso de la fuerza letal.-->Atenção, Visitante não Autorizado. Você foi avisado. Se fizer mais atividades ilegais será usada força letal.
-(5600)Attention Watchman Howard Phillips. Unauthorized engagement of access lift detected. Please respond.<==>Atención, vigilante Howard Phillips. Se ha detectado una activación no autorizada del elevador de acceso. Responda.-->Atenção Vigilante Howard Phillips. Foi detectado uma ativação não autorizada do elevador de acesso. Por favor responda.
-(5601)Unauthorized Visitor, mainframe. <==>Visitante no autorizado, ordenador central.-->Visitante não autorizado, no computador central. 
-(5602)Unauthorized access to the computer mainframe is a violation of Titan Station Civic Code. Replace all panels and back away from the fuseboard.<==>El acceso no autorizado al ordenador central es una infracción del código civil de la estación Titán. Sustituya todos los paneles y aléjese de la caja de derivación.-->Acesso não autorizado ao computador central é uma violação do Código Cívil da Estação Titã. Substitua todos os paineis e afaste-se da caixa de fusiveis.
-(5603)Warning. Mainframe electric shielding has been deactivated. Proceed with caution.<==>Alerta. La protección electrónica del ordenador central se ha desactivado. Proceda con precaución.-->Alerta. A proteção eletrônica do Computador Central foi desativada. Prossiga com cuidado.
-(5604)Warning. You are now in violation of multiple subsections of the Titan Station Civic Code. Stand clear of all machinery immediately.<==>Alerta. Está infringiendo múltiples artículos del código civil de la estación Titán. Aléjese de la maquinaria de inmediato.-->Alerta. Você está infringindo múltiplos artigos do Código Cívil da Estação Titã. Afaste-se dessa máquina imediatamente.
-(5605)Mainframe containment compromised. Security has been notified. <==>Protección del ordenador central en riesgo. Se ha enviado una notificación de seguridad.-->Proteção do Computador Central em risco. A segurança foi notificada. 
-(5606)Mainframe circuits are extremely fragile. Please step away. Damaging the mainframe circuits will cause lapses in programming. For your safety, step away from the circuits.<==>Los circuitos del ordenador central son extremadamente delicados. Aléjese.-->Os circuitos do Computador Central são extremamente frágeis. Afaste-se. Danos nos circuitos do computador central podem causar falhas de programação. Para sua segurança, afaste-se dos circuitos.
+(5598)Unauthorized visitor detected. Auto-defenses activated. Station watchman Howard Phillips, please provide verbal access code to authorize your guest.<==>Visitante no autorizado detectado. Defensas automáticas activadas. Vigilante de estación Howard Phillips, proporcione el código de acceso verbal para autorizar a su invitado.-->Visitante não autorizado detectado. Defesas automáticas ativadas. Vigilante da estação Howard Phillips, por favor diga o código de acesso verbal para autorizar seu convidado.
+(5599)Attention, Unauthorized Visitor. You have been warned. Further illegal activities will be met with deadly force.<==>Atención, visitante no autorizado. Ha sido advertido. Si las actividades ilegales prosiguen, se procederá al uso de la fuerza letal.-->Atenção, visitante não autorizado. Você foi advertido. Se prosseguir com as atividades ilegais, será usada força letal.
+(5600)Attention Watchman Howard Phillips. Unauthorized engagement of access lift detected. Please respond.<==>Atención, vigilante Howard Phillips. Se ha detectado una activación no autorizada del elevador de acceso. Responda.-->Atenção, vigilante Howard Phillips. Foi detectada uma ativação não autorizada do elevador de acesso. Por favor responda.
+(5601)Unauthorized Visitor, mainframe. <==>Visitante no autorizado, ordenador central.-->Visitante não autorizado, computador central. 
+(5602)Unauthorized access to the computer mainframe is a violation of Titan Station Civic Code. Replace all panels and back away from the fuseboard.<==>El acceso no autorizado al ordenador central es una infracción del código civil de la estación Titán. Sustituya todos los paneles y aléjese de la caja de derivación.-->O acesso não autorizado ao computador central é uma violação do código civil da estação Titã. Substitua todos os painéis e se afaste da caixa de fusíveis.
+(5603)Warning. Mainframe electric shielding has been deactivated. Proceed with caution.<==>Alerta. La protección electrónica del ordenador central se ha desactivado. Proceda con precaución.-->Alerta. A proteção eletrônica do computador central foi desativada. Prossiga com cuidado.
+(5604)Warning. You are now in violation of multiple subsections of the Titan Station Civic Code. Stand clear of all machinery immediately.<==>Alerta. Está infringiendo múltiples artículos del código civil de la estación Titán. Aléjese de la maquinaria de inmediato.-->Alerta. Você está infringindo vários artigos do código civil da estação Titã. Afaste-se do maquinário imediatamente.
+(5605)Mainframe containment compromised. Security has been notified. <==>Protección del ordenador central en riesgo. Se ha enviado una notificación de seguridad.-->A proteção do computador central está comprometida. Foi enviada uma notificação para a segurança. 
+(5606)Mainframe circuits are extremely fragile. Please step away. Damaging the mainframe circuits will cause lapses in programming. For your safety, step away from the circuits.<==>Los circuitos del ordenador central son extremadamente delicados. Aléjese.-->Os circuitos do computador central são extremamente delicados. Afaste-se. Danos nos circuitos do computador central podem causar falhas de programação. Para sua segurança, afaste-se dos circuitos.
 (5607)Damaging  the mainframe circuits will cause lapses in programming. For your safety, step away from the circuits.<==>Los daños en los circuitos del ordenador central pueden provocar fallos de programación. Por su propia seguridad, aléjese de los circuitos.-->Danos nos circuitos do computador central podem causar falhas de programação. Para sua segurança, afaste-se dos circuitos.
 (5608)Primary systems are unstable. <==>Los sistemas principales son inestables.-->Os sistemas principais estão instáveis.
 (5609)Backup systems have been compromised.<==>Los sistemas de seguridad están en riesgo.-->Os sistemas de segurança estão comprometidos.
-(5610)System shutdown imminent.<==>Bloqueo del sistema inminente.-->Desligamento de sistema iminente.
-(5611)Automated functions - off-line. Lock outs - offline. Station reverting to manual operation only. ANTI off-line...<==>Funciones automáticas: desconectadas. Cierres de seguridad: desconectados. La estación pasa a funcionamiento exclusivamente manual. ANTI desconectado...-->Funções automáticas: desconectadas. Travas de segurança: desconectadas. Estação revertendo para operação exclusivamente manual. ANTI desconectado...
-(5612)Your RIG is not authorized to access this area. Please step away from the door.<==>Su DRI no tiene autorización en esta zona. Sepárese de la puerta.-->Seu DRI não está autorizado a acessar esta área. Por favor, se afaste da porta.
-(5613)Initiating System Lockdown<==>Iniciando bloqueo del sistema-->Iniciando Bloqueio do Sistema
-(5614)System Lockdown Complete<==>Bloqueo del sistema completado.-->Bloqueio do Sistema Completado
+(5610)System shutdown imminent.<==>Bloqueo del sistema inminente.-->Desligamento iminente do sistema.
+(5611)Automated functions - off-line. Lock outs - offline. Station reverting to manual operation only. ANTI off-line...<==>Funciones automáticas: desconectadas. Cierres de seguridad: desconectados. La estación pasa a funcionamiento exclusivamente manual. ANTI desconectado...-->Funções automáticas: desligadas. Travas de segurança: desligadas. A estação está passando para o funcionamento exclusivamente manual. ANTI desligado...
+(5612)Your RIG is not authorized to access this area. Please step away from the door.<==>Su DRI no tiene autorización en esta zona. Sepárese de la puerta.-->Seu DRI não está autorizado a acessar essa área. Por favor, afaste-se da porta.
+(5613)Initiating System Lockdown<==>Iniciando bloqueo del sistema-->Iniciando bloqueio do sistema
+(5614)System Lockdown Complete<==>Bloqueo del sistema completado.-->Bloqueio do sistema concluído
 (5615)Activating anti-personnel system.<==>Activando sistema antipersonal.-->Ativando sistema anti-pessoal.
-(5616)Purging Life Support.<==>Depurando soporte vital.-->Depuração de Suporte Vital.
-(5617)full screen<==>Pantalla completa-->Tela-Cheia
+(5616)Purging Life Support.<==>Depurando soporte vital.-->Depurando suporte vital.
+(5617)full screen<==>Pantalla completa-->Tela cheia
 (5618)TEXTLOG\nADDED<==>REGISTRO TEXTUAL\nAÑADIDO-->REGISTRO TEXTUAL\nADICIONADO
-(5619)deliver the klystron to the workbench<==>Lleva el klistrón hasta el banco de trabajo.-->Leve o klystron à bancada de trabalho
+(5619)deliver the klystron to the workbench<==>Lleva el klistrón hasta el banco de trabajo.-->Leve o klystron até a bancada de trabalho
 (5620)CONFIRM<==>CONFIRMAR-->CONFIRMAR
-(5621)%s has been added to your friends list.<==>Se ha añadido a %s a tu lista de amigos.-->foi adicionado %s à sua lista de amigos.
+(5621)%s has been added to your friends list.<==>Se ha añadido a %s a tu lista de amigos.-->%s foi adicionado à sua lista de amigos.
 (5622-IGUAIS)Isaac Clarke
-(5623)I can't go anywhere until this elevator is fixed. Zero G is enabled, and the magnetic tethers seem to be functioning. I just need to move the elevator into position somehow...<==>No puedo ir a ningún sitio hasta que este ascensor esté arreglado. La gravedad cero está activada y los anclajes magnéticos parecen funcionar. Solo necesito mover el ascensor a su posición de alguna forma...-->Não posso ir a lugar nenhum até esse elevador esteja consertado. A gravidade Zero está ativada, e as travas magnéticas parecem estar funcionando. Eu só preciso mover o elevador para sua posição de alguma forma...
+(5623)I can't go anywhere until this elevator is fixed. Zero G is enabled, and the magnetic tethers seem to be functioning. I just need to move the elevator into position somehow...<==>No puedo ir a ningún sitio hasta que este ascensor esté arreglado. La gravedad cero está activada y los anclajes magnéticos parecen funcionar. Solo necesito mover el ascensor a su posición de alguna forma...-->Não posso ir a lugar algum até esse elevador esteja funcionando. A gravidade zero está ativada, e as travas magnéticas parecem estar funcionando. Eu só preciso mover o elevador para sua posição de alguma forma...
 (5624)Start a new game<==>Empieza una nueva partida.-->Comece um novo jogo
 (5625)MOVEMENT<==>MOVIMIENTO-->MOVIMENTO
 (5626-IGUAIS)2
-(5627)Click [RStick] twice<==>Haz clic dos veces en\n[RStick].-->Pressione [RStick]
-(5628)Key to the Elevators on the Crew Deck.<==>Llave de los ascensores de la cubierta de la tripulación.-->Chave para os Elevadores da plataforma da Tripulação.
+(5627)Click [RStick] twice<==>Haz clic dos veces en\n[RStick].-->Pressione [RStick] duas vezes
+(5628)Key to the Elevators on the Crew Deck.<==>Llave de los ascensores de la cubierta de la tripulación.-->Chave para os elevadores da plataforma da tripulação.
 (5629-IGUAIS)3
 (5630)DIRE<==>DECISIÓN NEFASTA-->DECISÃO TERRÍVEL
 (5631)TIEDEMANN'S LAST HOPE<==>LA ÚLTIMA ESPERANZA DE TIEDEMANN-->A ÚLTIMA ESPERANÇA DE TIEDEMANN
 (5632-IGUAIS)1
 (5633)Pull [RSBottom]<==>Pulsa [RSBottom].-->Pressione [RSBottom]
-(5634)Advanced Suit Schematic<==>Diagrama de traje avanzado-->Diagrama de Traje Avançado
+(5634)Advanced Suit Schematic<==>Diagrama de traje avanzado-->Diagrama de traje avançado
 (5635-IGUAIS)0
-(5636)Priming completed, stage 1.<==>Detonación completada, fase 1.-->Detonação completada, fase 1.
+(5636)Priming completed, stage 1.<==>Detonación completada, fase 1.-->Detonação concluída, fase 1.
 (5637)seeker rifle II<==>rifle buscador II-->rifle buscador II
 (5638)A.I. Spitter<==>Escupidor de I.A.-->Cuspidor de I.A.
 (5639)Clarence Co <==>Clarence Co -->Clarence Co 
-(5640)Free Trial Error<==>Error de versión de prueba gratuita-->Erro de Versão de avaliação Gratuita
+(5640)Free Trial Error<==>Error de versión de prueba gratuita-->Erro de versão de avaliação gratuita
 (5641-IGUAIS)2
 (5642-IGUAIS)2
-(5643)Use Kinesis to grab and launch enemy limbs.<==>Utiliza la cinética para atrapar y lanzar extremidades de enemigos.-->Use a Cinética para pegar e lançar membros de inimigos.
+(5643)Use Kinesis to grab and launch enemy limbs.<==>Utiliza la cinética para atrapar y lanzar extremidades de enemigos.-->Use a cinética para apanhar e lançar membros de inimigos.
 (5644)OVERRIDE\nDOOR LOCK<==>ANULAR\nBLOQUEO DE PUERTA-->ANULAR\nBLOQUEIO DE PORTA
 (5645)DOOR LOCK\nOVERRIDDEN<==>BLOQUEO DE PUERTA\nANULADO-->BLOQUEIO DE PORTA\nANULADO
 (5646)[RDDown]USE<==>[RDDown]USAR-->[RDDown]USAR
@@ -5649,18 +5649,18 @@
 (5648)THE CLOGGER<==>EL ATASCO-->O CLOGGER
 (5649)Open<==>Abrir-->Abrir
 (5650-IGUAIS)1
-(5651)Time spent running<==>Tiempo corrido-->Tempo de Execução
-(5652)CENTRIFUGE BROKEN<==>CENTRIFUGADORA ROTA-->CENTRIFUGADOR QUEBRADO
-(5653)ALL GONE<==>TODO PERDIDO-->TODOS PERDIDOS
+(5651)Time spent running<==>Tiempo corrido-->Tempo gasto
+(5652)CENTRIFUGE BROKEN<==>CENTRIFUGADORA ROTA-->CENTRIFUGADORA QUEBRADA
+(5653)ALL GONE<==>TODO PERDIDO-->TUDO PERDIDO
 (5654)GIFT SHOP<==>TIENDA DE REGALOS-->LOJA DE RECORDAÇÕES
-(5655)Urban Camo Military<==>Militar camuflaje urbano-->Camuflagem MIlitar Urbano
+(5655)Urban Camo Military<==>Militar camuflaje urbano-->Militar Camuflagem Urbano
 (5656)<empty><==><libre>--><vazio>
-(5657)mute<==>Silenciar-->mudo
-(5658)This will remove all power nodes from the graph and place them in your inventory for a cost of 5000 credits.  \n[MenuA] YES  [MenuB] NO<==>Esto retirará todos los nodos de energía del gráfico y los colocará en tu inventario por un coste de 5000 créditos.  \n[MenuA] SÍ  [MenuB] NO-->Isto removerá todos os nós de energia do gráfico e os colocará em seu inventário por um custo de 5000 créditos.  \n[MenuA] SIM  [MenuB] NÃO
-(5659)LINE RACKS<==>MUNICIÓN LINEAL-->MUNIÇÕES LINEAR
+(5657)mute<==>Silenciar-->silenciar
+(5658)This will remove all power nodes from the graph and place them in your inventory for a cost of 5000 credits.  \n[MenuA] YES  [MenuB] NO<==>Esto retirará todos los nodos de energía del gráfico y los colocará en tu inventario por un coste de 5000 créditos.  \n[MenuA] SÍ  [MenuB] NO-->Isso vai remover todos os nodos de energia do gráfico e colocá-los no seu inventário, por um custo de 5000 créditos.  \n[MenuA] SIM  [MenuB] NÃO
+(5659)LINE RACKS<==>MUNICIÓN LINEAL-->MUNIÇÃO LINEAR
 (5660)Security Elite Suit<==>TRAJE DE SEGURIDAD DE ÉLITE-->Traje de Segurança de Elite
-(5661)Personal Log: Howard Phillips\nRecord number: 466\n\nI've been trying to stay out of range of ANTI's interfaces as much as I can.  I don't want to hear her excuses anymore about my transfer requests.  Every time I ask, I just get computerized bullshit.\n\nTwenty-three requests!  I've put in twenty-three requests, and not one response.  I know she's lying, I know she never sent them.\n\nI showed ANTI, though. I let all my birds out of their cages at lunch!  It was beautiful, they were all flying around, free and happy.   I wish I could be them.  ANTI was spouting regulations and talking about "abnormal profiles."   I didn't care.   I danced with the birds all day.  I love my birds. I want to go home.<==>Registro personal: Howard Phillips\nNúmero de registro: 466\n\nHe estado intentando permanecer fuera del alcance de las interfaces de ANTI lo máximo posible. Ya no quiero seguir escuchando sus excusas sobre mis solicitudes de traslado. Cada vez que pregunto, no recibo más que chorradas computerizadas.\n\n¡Veintitrés solicitudes! Llevo ya veintitrés solicitudes y ni una respuesta. Sé que me miente, que nunca las envió.\n\nPero le he enseñado a ANTI quién soy yo. ¡He dejado salir a todos mis pájaros de sus jaulas durante la comida! Fue hermoso verlos volar de un lado a otro, libres y felices. Ojalá fuese yo uno de ellos. ANTI no dejaba de soltar reglas y de hablar de "perfiles anómalos", pero me dio igual. Yo bailé con los pájaros todo el día. Adoro a mis pájaros. Quiero irme a casa.-->Registro Pessoal: Howard Phillips\nNúmero de registro: 466\n\nTenho tentando ficar fora do alcance das interfaces de ANTI o máximo possível. Eu não quero mais ouvir suas desculpas sobre minhas solictações de transferência. Toda vez que eu pergunto, só recebo besteiras computadorizadas.\n\nVinte e três solicitações! Eu tenho 23 solicitações e nenhuma resposta. Eu sei que ela está mentindo, sei que ela nunca as enviou.\n\nMas eu mostrei a ANTI quem eu sou. Deixei todas as minhas aves sair de suas gaiolas na hora do almoço! Foi lindo, todos estavam voando, livre e feliz.   Eu gostaria de ser eles.  ANTI estava jorrando regras e falando sobre "perfis anormais."  Eu não me importei.  Eu dancei com as aves durante todo o dia.  Eu amo meus pássaros. Eu quero ir para casa.
-(5662)+{n} QUAD KILL<==>+{n} BAJA CUÁD.-->+{n} BAIXA QUAD
+(5661)Personal Log: Howard Phillips\nRecord number: 466\n\nI've been trying to stay out of range of ANTI's interfaces as much as I can.  I don't want to hear her excuses anymore about my transfer requests.  Every time I ask, I just get computerized bullshit.\n\nTwenty-three requests!  I've put in twenty-three requests, and not one response.  I know she's lying, I know she never sent them.\n\nI showed ANTI, though. I let all my birds out of their cages at lunch!  It was beautiful, they were all flying around, free and happy.   I wish I could be them.  ANTI was spouting regulations and talking about "abnormal profiles."   I didn't care.   I danced with the birds all day.  I love my birds. I want to go home.<==>Registro personal: Howard Phillips\nNúmero de registro: 466\n\nHe estado intentando permanecer fuera del alcance de las interfaces de ANTI lo máximo posible. Ya no quiero seguir escuchando sus excusas sobre mis solicitudes de traslado. Cada vez que pregunto, no recibo más que chorradas computerizadas.\n\n¡Veintitrés solicitudes! Llevo ya veintitrés solicitudes y ni una respuesta. Sé que me miente, que nunca las envió.\n\nPero le he enseñado a ANTI quién soy yo. ¡He dejado salir a todos mis pájaros de sus jaulas durante la comida! Fue hermoso verlos volar de un lado a otro, libres y felices. Ojalá fuese yo uno de ellos. ANTI no dejaba de soltar reglas y de hablar de "perfiles anómalos", pero me dio igual. Yo bailé con los pájaros todo el día. Adoro a mis pájaros. Quiero irme a casa.-->Registro Pessoal: Howard Phillips\nNúmero de registro: 466\n\nTenho tentando permanecer fora do alcance das interfaces de ANTI o máximo possível. Eu não quero mais ouvir suas desculpas sobre minhas solicitações de transferência. Toda vez que pergunto, não recebo mais que besteiras computadorizadas.\n\nVinte e três solicitações! Já tenho 23 solicitações e nenhuma resposta. Sei que ela está mentindo, que nunca as enviou.\n\nMas eu mostrei a ANTI quem eu sou. Deixei todas minhas aves sairem de suas gaiolas na hora do almoço! Foi lindo vê-las voando de um lado para outro, livres e felizes.   Eu gostaria de ser uma delas.  ANTI não deixava de dizer regras e falar sobre "perfis anômalos."  Mas eu não me importei.  Eu dancei com as aves durante todo o dia.  Eu amo meus pássaros. Quero ir para casa.
+(5662)+{n} QUAD KILL<==>+{n} BAJA CUÁD.-->+{n} BAIXA QUADR.
 (5663)Audio<==>Sonido-->Áudio
 (5664)UI Programmers<==>Programadores de IU-->Programadores de IU
 (5665)QA Project Lead<==>Jefe de proyecto de control de calidad-->Chefe de Projeto de Controle de Qualidade
@@ -5668,30 +5668,30 @@
 (5667)Rendezvous with Ellie.<==>Reúnete con Ellie.-->Encontre-se com Ellie.
 (5668-IGUAIS)Brandon Lukach
 (5669-IGUAIS)LINAC
-(5670)MISSION: The Necromorphs have infested several pipelines connecting to one of the fuel cores in the CEC facility. A security team was sent in to detonate the fuel core, setting off a chain reaction that would destroy the pipeline along with all the Necromorphs. Contact was lost with the first security team, a second team was sent in to finish the job.<==>MISIÓN: Los necromorfos han invadido varios conductos conectados a uno de los núcleos de combustible en la instalación de CEC. Se ha enviado un equipo de seguridad a detonar el núcleo, lo que iniciaría una reacción en cadena que destruiría el conducto y acabaría con los necromorfos. Se ha perdido el contacto con el primer equipo de seguridad y se ha enviado un segundo equipo para terminar el trabajo.-->MISSÃO: Os Necromorfos invadiram vários condutos conectados a um dos núcleos de combustível na instalação da CEC. Uma equipe de segurança foi enviada para detonar o núcleo de combustível, desencadeando uma reação em cadeia que destruiria o conduto juntamente com todos os Necromorfos. Foi perdido o contato com a primeira equipe de segurança, uma segunda equipe foi enviada para terminar o trabalho.
+(5670)MISSION: The Necromorphs have infested several pipelines connecting to one of the fuel cores in the CEC facility. A security team was sent in to detonate the fuel core, setting off a chain reaction that would destroy the pipeline along with all the Necromorphs. Contact was lost with the first security team, a second team was sent in to finish the job.<==>MISIÓN: Los necromorfos han invadido varios conductos conectados a uno de los núcleos de combustible en la instalación de CEC. Se ha enviado un equipo de seguridad a detonar el núcleo, lo que iniciaría una reacción en cadena que destruiría el conducto y acabaría con los necromorfos. Se ha perdido el contacto con el primer equipo de seguridad y se ha enviado un segundo equipo para terminar el trabajo.-->MISSÃO: Os necromorfos invadiram vários condutos conectados a um dos núcleos de combustível na instalação da CEC. Uma equipe de segurança foi enviada para detonar o núcleo, o que desencadearia uma reação em cadeia que destruiria o conduto e acabaria com todos os necromorfos. Foi perdido o contato com a primeira equipe de segurança, e uma segunda equipe foi enviada para terminar o trabalho.
 (5671)A.I. Lurker<==>Merodeador de I.A.-->Espreitador de I.A.
-(5672)Trapped in the Titan Mines and surrounded by Necromorphs, Tiedemann's security forces attempt to stop the outbreak by constructing a Shockmine.<==>Atrapadas en las minas Titán y rodeadas por necromorfos, las fuerzas de seguridad de Tiedemann intentan detener el brote mediante la construcción de una mina expansiva.-->Preso nas Minas Titã e rodeados por Necromorfos, as forças de segurança de Tiedemann tentavam impedir a epidemia pela construção de uma Mina Explosiva.
+(5672)Trapped in the Titan Mines and surrounded by Necromorphs, Tiedemann's security forces attempt to stop the outbreak by constructing a Shockmine.<==>Atrapadas en las minas Titán y rodeadas por necromorfos, las fuerzas de seguridad de Tiedemann intentan detener el brote mediante la construcción de una mina expansiva.-->Presos nas minas Titã e rodeados por necromorfos, as forças de segurança de Tiedemann tentavam deter a epidemia mediante a construção de uma mina expansiva.
 (5673-IGUAIS)Ai-Fen Lo
-(5674)  It's not her anymore!<==>¡Ya no es ella!-->  Não é mais ela!
+(5674)  It's not her anymore!<==>¡Ya no es ella!-->  Já não é mais ela!
 (5675)She's dead!  That thing is not your mother! <==>¡Ha muerto! ¡Esa cosa no es tu madre!-->Ela está morta! Essa coisa não é a sua mãe! 
-(5676)Come on, there's no time! Come on, we have to go!<==>¡Vamos, no hay tiempo! ¡Vamos, tenemos que irnos!-->Vamos lá, não há tempo! Vamos, temos que ir!
-(5677)We're going to get left behind.   It's too late.<==>Nos vamos a quedar atrás. Es tarde.-->Seremos deixados para trás. É muito tarde.
+(5676)Come on, there's no time! Come on, we have to go!<==>¡Vamos, no hay tiempo! ¡Vamos, tenemos que irnos!-->Vamos lá, não temos tempo! Vamos, temos que ir!
+(5677)We're going to get left behind.   It's too late.<==>Nos vamos a quedar atrás. Es tarde.-->Nós vamos ficar para trás. É tarde demais.
 (5678)No!! Don't touch it!   It's going to kill us if we don't get out of here.  Now let's go!<==>¡¡No!! ¡No lo toques! Nos matará si no salimos de aquí. ¡Venga, vamos!-->Não!! Não toque nisso! Vai nos matar se não sairmos daqui. Agora vamos!
 (5679)detonator<==>Detonador-->detonador
 (5680)THIS AREA IS LOCKED DOWN<==>ESTA ZONA ESTÁ CERRADA-->ESTA ÁREA ESTÁ BLOQUEADA
 (5681)ENERGY ANOMALY DETECTED<==>ANOMALÍA ELÉCTRICA DETECTADA-->ANOMALIA ELÉTRICA DETECTADA
-(5682)WARNING, TEMPERATURE RISING<==>ALERTA: TEMPERATURA EN AUMENTO-->ALERTA: AUMENTO DA TEMPERATURA
+(5682)WARNING, TEMPERATURE RISING<==>ALERTA: TEMPERATURA EN AUMENTO-->ALERTA: TEMPERATURA SUBINDO
 (5683)DNA scan required<==>Escáner de ADN obligatorio-->Exame de DNA obrigatório
 (5684)ENERGY ANOMALY DETECTED<==>ANOMALÍA ELÉCTRICA DETECTADA-->ANOMALIA ELÉTRICA DETECTADA
 (5685)ENERGY ANOMALY DETECTED<==>ANOMALÍA ELÉCTRICA DETECTADA-->ANOMALIA ELÉTRICA DETECTADA
-(5686)THIS AREA IS LOCKED DOWN<==>ESTA ZONA ESTÁ CERRADA-->ESTA ÁREA ESTÁ BLOQUEADA
-(5687)Zero-G Certification Required<==>Certificación de gravedad cero obligatoria-->Certificação de Gravidade Zero Obrigatório
+(5686)THIS AREA IS LOCKED DOWN<==>ESTA ZONA ESTÁ CERRADA-->ESSA ÁREA ESTÁ BLOQUEADA
+(5687)Zero-G Certification Required<==>Certificación de gravedad cero obligatoria-->Certificação de Gravidade Zero obrigatória
 (5688)ENERGY ANOMALY DETECTED<==>ANOMALÍA ELÉCTRICA DETECTADA-->ANOMALIA ELÉTRICA DETECTADA
 (5689)Power Node Access Only<==>Acceso exclusivo con nodo de energía-->Acesso somente com nodo de energia
 (5690)ENERGY ANOMALY DETECTED<==>ANOMALÍA ELÉCTRICA DETECTADA-->ANOMALIA ELÉTRICA DETECTADA
-(5691)WARNING, EXTREME INSTABILITY<==>ALERTA: INESTABILIDAD EXTREMA-->ALERTA, EXTREMA INSTABILIDADE
+(5691)WARNING, EXTREME INSTABILITY<==>ALERTA: INESTABILIDAD EXTREMA-->ALERTA: INSTABILIDADE EXTREMA
 (5692)SMALL AIR CAN<==>BOTE DE AIRE PEQUEÑO-->TUBO DE AR PEQUENO
-(5693)RIOT SECURITY SUIT<==>TRAJE DE SEGURIDAD ANTIDISTURBIOS-->TRAJE DE SEGURANÇA ANTI-DISTÚRBIO
+(5693)RIOT SECURITY SUIT<==>TRAJE DE SEGURIDAD ANTIDISTURBIOS-->TRAJE DE SEGURANÇA ANTI-DISTÚRBIOS
 (5694-IGUAIS)1
 (5695)RUN<==>CORRER-->CORRER
 (5696)Spitter<==>Escupidor-->Cuspidor
@@ -5990,13 +5990,13 @@
 (5989)The quarantine has the bulkheads sealed tight.   We need a way in.<==>La cuarentena ha cerrado las contenciones. Tenemos que encontrar la forma de entrar.-->A quarentena selou as divisórias.   Precisamos encontrar uma forma de entrar.
 (5990)We're behind the quarantine bulkheads!  They're sealed!<==>¡Estamos detrás de las contenciones de cuarentena! ¡Están selladas!-->Estamos por trás das divisórias de quarentena!  Elas estão fechadas!
 (5991)Found the first set of controls.   Deactivating now.   Cover me!<==>He encontrado el primer grupo de controles. Desactivando. ¡Cúbreme!-->Encontrei o primeiro conjunto de controles.   Desativando agora.   Cubra-me!
-(5992)First system down, head to the next one.<==>Primer sistema desconectado. Dirígete al otro.-->Primeiro sistema desconectado, dirija-se ao próximo.
+(5992)First system down, head to the next one.<==>Primer sistema desconectado. Dirígete al otro.-->Primeiro sistema desligado, dirija-se ao próximo.
 (5993)Overriding second panel, watch my back!<==>¡Anulando segundo panel, cubridme!-->Anulando segundo painel, cubra-me!
 (5994)Door override complete!   Two more terminals up ahead.<==>¡Anulación de puerta completada! ¡Quedan dos terminales por delante!-->Destruição da porta comnpletada!   Restam mais dois terminais logo à frente.
 (5995)Okay, activating first bridge bulkhead override, gimme a minute!   And try to keep them off me!<==>¡Bien, activando primera anulación de contención del puente! ¡Un minuto! ¡Mantenedlos alejados de mí!-->Ok, ativando o primeiro cancelamento de contenção da ponte, me dê um minuto!   E tente mantê-los longe de mim!
 (5996)One more to go, find it! Find it!<==>¡Uno más y se acabó! ¡Encontradlo, encontradlo!-->Mais um e acabou! Encontre-o! Encontre-o!
 (5997)Second panel, accessing.   Get ready.<==>Segundo panel, accediendo. Preparaos.-->Segundo painel, acessando.   Prepare-se.
-(5998)The bridge is open, move out.   We have to activate the two priming stations, the pods are offline, dammit!<==>El puente está abierto, adelante. ¡Tenemos que activar las dos estaciones de detonación, las cápsulas están desconectadas, maldita sea!-->A ponte está aberta, em frente.   Temos que ativar as duas estações de detonação, as cápsulas estão desconectadas, caramba!
+(5998)The bridge is open, move out.   We have to activate the two priming stations, the pods are offline, dammit!<==>El puente está abierto, adelante. ¡Tenemos que activar las dos estaciones de detonación, las cápsulas están desconectadas, maldita sea!-->A ponte está aberta, em frente.   Temos que ativar as duas estações de detonação, as cápsulas estão desligadas, caramba!
 (5999)Engaging power transfer to the escape pod system, hold on!<==>¡Conectando transferencia de energía al sistema de cápsula de escape, aguantad!-->Conectando transferência de energia ao sistema de cápsula de fuga, segurem-se!
 (6000)It needs one more, someone get it.<==>Necesitamos una más, que alguien la encuentre.-->Precisamos de mais uma, alguém encontre-a.
 (6001)Here goes, final priming station.    Everyone get ready!<==>Allá va, última estación de detonación. ¡Preparaos!-->Aqui vai, a última estação de detonação.    Se preparem!
@@ -6487,7 +6487,7 @@
 (6486)Here's the first bridge bulkhead controls, I'm forcing the override now.   Hang on!<==>Aquí están los primeros controles de contención del puente. Procedo a forzar la anulación. ¡Aguantad!-->Aqui estão os primeiros controles de contenção da ponte, estou forçando a anulação agora.   Aguarde!
 (6487)Get to the second terminal!<==>¡Alcanzad el segundo terminal!-->Pro segundo terminal!
 (6488)Forcing override, second panel.   We're almost there.<==>Forzando anulación, segundo panel. Casi lo hemos conseguido.-->Forçando anulação, segundo painel.   Estamos quase lá.
-(6489)The pods are offline!   Get to the two priming stations, move move move!<==>¡Las cápsulas de escape están desconectadas, dirigíos a las dos estaciones de detonación, vamos, vamos!-->As cápsulas estão offline!   Vamos para a estação de detonação, vai vai vai!
+(6489)The pods are offline!   Get to the two priming stations, move move move!<==>¡Las cápsulas de escape están desconectadas, dirigíos a las dos estaciones de detonación, vamos, vamos!-->As cápsulas estão desligadas!   Vamos para a estação de detonação, vai vai vai!
 (6490)Okay, priming the escape pod system, gimme a few seconds.<==>Bien, detonando el sistema de cápsula de escape, dame unos segundos.-->Ok, detonando os sistemas da cápsula de escape, me dá uns segundos.
 (6491)Find the other one, we need two!<==>¡Buscan la otra, necesitamos dos!-->Encontre outro, precisamos de dois!
 (6492)Activating second priming station!   <==>¡Activando segunda estación de detonación!-->Ativando segunda estação de detonação!
