@@ -4,7 +4,7 @@
 (0004)EMERGENCY<==>URGENCIAS-->EMERGÊNCIA
 (0005)TRIAGE<==>ADMISIÓN-->TRIAGEM
 (0006)SURGERY<==>CIRUGÍA-->CIRURGIA
-(0007)DETONATOR GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN DETONADOR\nDiagrama Adquirido\nDescargar en el almacén-->ARMA DETONADORA\nDiagrama Adquirido\nBaixe na Loja
+(0007)DETONATOR GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN DETONADOR\nDiagrama Adquirido\nDescargar en el almacén-->ARMA DETONADORA\nDiagrama Adquirido\nBaixe na loja
 (0008)We're getting conflicting reports from the colony. Can you say again?<==>Hemos recibido informes de conflictos en la colonia. ¿Podéis repetir?-->Estamos recebendo relatos de conflitos na colônia. Você pode repetir?
 (0009)God, what's happening down there?<==>Oh, dios, ¿qué ocurre ahí abajo?-->Meu Deus, o que está acontecendo ali?
 (0010)This is flight team EG-9 to Control. We have completed the fly-by. There's nothing left. I repeat, Titan Station has been completely destroyed.<==>Aquí equipo de vuelo EG-9 a control. Hemos completado el reconocimiento. No queda nada. Repito, la estación Titán ha quedado completamente destruida.-->Aqui é a equipe de voo EG-9 para Controle. Nós completamos o reconhecimento. Não restou nada. Repito, a estação Titã foi completamente destruída.
@@ -128,9 +128,9 @@
 (0128-IGUAIS)N/A
 (0129)LOAD?<==>¿CARGAR?-->CARREGAR?
 (0130)CHOOSE WEAPON/ NAVIGATE INVENTORY<==>ELEGIR ARMA/ NAVEGAR POR INVENTARIO-->ESCOLHER ARMA/ NAVEGAR PELO INVENTÁRIO
-(0131)ARCTIC SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD DEL ÁRTICO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA DO ÁRTICO\nDiagrama Adquirido\nBaixe na Loja
-(0132)RIOT SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD ANTIDISTURBIOS\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA ANTI-REBELIÕES\nDiagrama Adquirido\nBaixe na Loja
-(0133)SOLDIER SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SOLDADO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SOLDADO\nDiagrama Adquirido\nBaixe na Loja
+(0131)ARCTIC SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD DEL ÁRTICO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA DO ÁRTICO\nDiagrama Adquirido\nBaixe na loja
+(0132)RIOT SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD ANTIDISTURBIOS\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA ANTI-REBELIÕES\nDiagrama Adquirido\nBaixe na loja
+(0133)SOLDIER SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SOLDADO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SOLDADO\nDiagrama Adquirido\nBaixe na loja
 (0134)SANCTUARY<==>SANTUARIO-->SANTUÁRIO
 (0135)MARKER LASERS ONLINE<==>LÁSERES DE LA EFIGIE ACTIVADOS-->LASERS DO MARKER ATIVADOS
 (0136)   Get to the Solar Array Base Station.<==>Ve a la estación base del panel solar.-->   Vá até a estação base do painel solar.
@@ -156,7 +156,7 @@
 (0156)[LDLeft]NAVIGATE<==>[LDLeft]NAVEGAR-->[LDLeft]NAVEGAR
 (0157-IGUAIS)Patrick O'Keefe
 (0158)Additional Engineering<==>Ingeniería adicional-->Engenharia Adicional
-(0159)HACKER SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE PIRATEO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE HACKER\nDiagrama Adquirido\nBaixe na Loja
+(0159)HACKER SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE PIRATEO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE HACKER\nDiagrama Adquirido\nBaixe na loja
 (0160-IGUAIS)Jamie Milman
 (0161)name<==>nombre-->nome
 (0162)friends only<==>Solo Amigos-->Somente amigos
@@ -420,7 +420,7 @@
 (0420-IGUAIS)4
 (0421-IGUAIS)Plasma Ammo
 (0422)Artists<==>Diseñadores-->Artistas
-(0423)RIPPER BLADES\nSchematic Acquired\nDownload at the Store<==>CUCHILLAS DE SIERRA TRITURADORA\nDiagrama Adquirido\nDescargar en el almacén-->LÂMINAS DE SERRA TRITURADORA\nDiagrama Adquirido\nBaixe na Loja
+(0423)RIPPER BLADES\nSchematic Acquired\nDownload at the Store<==>CUCHILLAS DE SIERRA TRITURADORA\nDiagrama Adquirido\nDescargar en el almacén-->LÂMINAS DE SERRA TRITURADORA\nDiagrama Adquirido\nBaixe na loja
 (0424-IGUAIS)1
 (0425)NAV CARD 3<==>CARTA DE NAVEGACIÓN 3-->CARTA DE NAVEGAÇÃO 3
 (0426)[RDUp]ZOOM IN<==>[RDUp]ACERCAR-->[RDUp]Zoom
@@ -478,7 +478,7 @@
 (0478)Vice President, Group COO<==>Vicepresidente y director de operaciones del grupo-->Vice-Presidente, Grupo COO
 (0479)primary fire: conical force blast\nalternate fire: condensed force blast<==>disparo principal: ráfaga de energía cónica\ndisparo secundario: ráfaga de energía condensada-->Disparo principal: rajada de energia cônica\ndisparo secundário: rajada de energia condensada
 (0480-IGUAIS)Patrick C. Payne
-(0481)POWER NODE\nSchematic Acquired\nDownload at the Store<==>NODO DE ENERGÍA\nDiagrama Adquirido\nDescargar en el almacén-->NODO DE ENERGIA\nDiagrama Adquirido\nBaixe na Loja
+(0481)POWER NODE\nSchematic Acquired\nDownload at the Store<==>NODO DE ENERGÍA\nDiagrama Adquirido\nDescargar en el almacén-->NODO DE ENERGIA\nDiagrama Adquirido\nBaixe na loja
 (0482)Character Artists<==>Diseñadores de personajes-->Artistas de PersonagenS
 (0483)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado por matar o portador
 (0484)unmute<==>Activar sonido-->Ativa o som
@@ -649,9 +649,9 @@
 (0649-IGUAIS)Dominic DeMartini
 (0650-IGUAIS)Yara Khoury
 (0651)RIPPER<==>SIERRA TRITURADORA-->SERRA TRITURADORA
-(0652)USG ISHIMURA\nStore & Exchange<==>USG ISHIMURA\nAlmacén e intercambio-->USG ISHIMURA\nLoja e Intercâmbio
+(0652)USG ISHIMURA\nStore & Exchange<==>USG ISHIMURA\nAlmacén e intercambio-->USG ISHIMURA\nLoja e intercâmbio
 (0653)Holo-card containing shuttle navigation data.<==>Tarjeta holográfica que contiene información de navegación del transbordador.-->Cartão holográfico que contém dados de navegação do transportador.
-(0654)PULSE ROUNDS\nSchematic Acquired\nDownload at the Store<==>CARGAS DE IMPULSOS\nDiagrama Adquirido\nDescargar en el almacén-->CARGAS DE IMPULSOS\nDiagrama Adquirido\nBaixe na Loja
+(0654)PULSE ROUNDS\nSchematic Acquired\nDownload at the Store<==>CARGAS DE IMPULSOS\nDiagrama Adquirido\nDescargar en el almacén-->CARGAS DE IMPULSOS\nDiagrama Adquirido\nBaixe na loja
 (0655-IGUAIS)Mark Pragelas
 (0656-IGUAIS)1600 x 1200, 85Hz
 (0657)Online Pass is unavailable for purchase at this time.<==>El pase online no está disponible para compra en este momento.-->O Passe Online não está disponível para compra nesse momento.
@@ -774,7 +774,7 @@
 (0774-IGUAIS)Erika Peterson
 (0775)load game<==>Cargar partida-->Carregar jogo
 (0776)Sound Design Lead<==>Jefe de diseño de sonido-->Chefe de Design de Som
-(0777)JAVELIN GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN JABALINA\nDiagrama Adquirido\nDescargar en el almacén-->CANHÃO DE DARDOS\nDiagrama Adquirido\nBaixe na Loja
+(0777)JAVELIN GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN JABALINA\nDiagrama Adquirido\nDescargar en el almacén-->CANHÃO DE DARDOS\nDiagrama Adquirido\nBaixe na loja
 (0778)settings<==>Opciones-->Configurações
 (0779)Technical Director<==>Dirección técnica-->Diretor Técnico
 (0780)CLAW DISENGAGED<==>PINZA DESACOPLADA-->GARRA DESACOPLADA
@@ -978,7 +978,7 @@
 (0978) We've got it, watch for ambushes, these things are hunting us.<==>Ya está, ojo a las emboscadas, esas cosas nos quieren dar caza.--> Chegamos, cuidado com as armadilhas, essas coisas estão nos caçando.
 (0979) PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!<==>El Ishimura--> PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
 (0980)Lighting<==>Iluminación-->Iluminação
-(0981)USG Ishimura Store & Exchange<==>Almacén e intercambio del USG Ishimura-->Armazém e intercâmbio da USG Ishimura
+(0981)USG Ishimura Store & Exchange<==>Almacén e intercambio del USG Ishimura-->Loja e intercâmbio da USG Ishimura
 (0982)Warning:  Fuel core detonation in 10 seconds...9...8..7..6...5...4...3....2..1...detonation.<==>Alerta: detonación del núcleo de combustible en 10 segundos. 9..., 8..., 7..., 6..., 5..., 4..., 3..., 2..., 1..., detonación.-->Alerta: detonação do NÚCLEO de combustível em 10 segundos...9...8..7..6...5...4...3....2..1...detonação.
 (0983)Reset initiated.   Please stand by.<==>Reinicio activado. Manténgase a la espera.-->Reinício ativado. Aguarde um momento.
 (0984)Circuit breaker reset cycle complete.   Power has been restored.<==>Ciclo de reinicio del circuito completado. Se ha restablecido la electricidad.-->Ciclo de reinício do circuito concluído. A energia foi restaurada.
@@ -1012,7 +1012,7 @@
 (1012)QA Compliance Testers<==>Pruebas de validación de control de calidad-->Testes de Validação de Controle de Qualidade
 (1013)DECK A: PREPARATION<==>CUBIERTA A: PREPARACIÓN-->PLATAFORMA A: PREPARAÇÃO
 (1014-IGUAIS)5
-(1015)Bring this schematic to the store to unlock the Security Elite Suit.<==>Lleva este diagrama al almacén para desbloquear el traje de seguridad de élite.-->Leve esse diagrama à loja para desbloquear o traje de segurança de elite. 
+(1015)Bring this schematic to the store to unlock the Security Elite Suit.<==>Lleva este diagrama al almacén para desbloquear el traje de seguridad de élite.-->Leve esse diagrama até a loja para desbloquear o traje de segurança de elite. 
 (1016)Additional Cast<==>Reparto adicional-->Pessoal Adicional
 (1017)Price: {p} Microsoft® Points.\n<==>Precio: {p} Microsoft® Points.-->Preço: {p} Pontos da Microsoft® .\n
 (1018)BRONZE SEMICONDUCTOR<==>SEMICONDUCTOR DE BRONCE-->SEMICONDUTOR DE BRONZE
@@ -1033,7 +1033,7 @@
 (1033)TRAM CALL<==>MONORRAÍL-->CHAMAR TREM
 (1034)The gravity tethers won't function unless the main centrifuge is operational. Looks like the repair team was in the middle of upgrading the centrifuge unit - I'll have to finish the job.<==>Los anclajes gravitatorios no funcionarán a menos que la centrifugadora principal esté operativa. Parece que el equipo de reparación dejó a medias la mejora de la unidad centrifugadora; tendré que acabar el trabajo.-->As travas gravitacionais não funcionarão a menos que a centrifugadora principal esteja operante. Parece que a equipe de reparos deixou pela metade o serviço de melhoria da unidade centrifugadora - você vai ter que terminar o trabalho.
 (1035)Javelin Gun Schematic<==>Diagrama de cañón jabalina-->Diagrama do Canhão de Dardos
-(1036)Bring this schematic to the store to unlock the Seeker Rifle.<==>Lleva este diagrama al almacén para desbloquear el rifle buscador.-->Leve esse diagrama à loja para desbloquear o rifle buscador.
+(1036)Bring this schematic to the store to unlock the Seeker Rifle.<==>Lleva este diagrama al almacén para desbloquear el rifle buscador.-->Leve esse diagrama até a loja para desbloquear o rifle buscador.
 (1037-IGUAIS)Shari Bryant
 (1038)Upgrade the NUMBER OF SHOTS by 1.<==>Se mejorará el NUMERO DE DISPAROS en 1.-->Melhora o NÚMERO DE DISPAROS em 1.
 (1039)ACTIVATE LOADER<==>ACTIVAR CARGADOR-->ATIVAR CARREGADOR
@@ -1044,7 +1044,7 @@
 (1044)spitter<==>escupidor-->cuspidor
 (1045)Start a new game from a cleared game. Suits and weapons from your prior playthrough will be available in the first Store.<==>Empieza una nueva partida a partir de una partida completada. El inventario de la partida completada anterior estará disponible en la Caja fuerte del primer almacén.-->Inicia um novo jogo a partir de um jogo finalizado. Trajes e armas do jogo anterior estarão disponíveis na primeira loja.
 (1046)There is not enough free space on storage device %1.<==>No hay suficiente espacio libre en el dispositivo de almacenamiento %1.-->Não há espaço livre suficiente no dispositivo de armazenamento %1.
-(1047)STASIS PACK\nSchematic Acquired\nDownload at the Store<==>CARGA DE ESTABILIZACIÓN\nDiagrama Adquirido\nDescargar en el almacén-->CARGA DE ESTABILIZAÇÃO\nDiagrama Adquirido\nBaixar na Loja
+(1047)STASIS PACK\nSchematic Acquired\nDownload at the Store<==>CARGA DE ESTABILIZACIÓN\nDiagrama Adquirido\nDescargar en el almacén-->CARGA DE ESTABILIZAÇÃO\nDiagrama Adquirido\nBaixar na loja
 (1048-IGUAIS)7
 (1049)Database Administrator<==>Administrador de base de datos-->Administrador de Base de Dados
 (1050)RIG<==>DRI-->DRI
@@ -1745,7 +1745,7 @@
 (1745-IGUAIS)Julian Chayle
 (1746-IGUAIS)Esteban Coria
 (1747)Urban Camo Viral Yellow<==>Amarillo viral camuflaje urbano-->Amarelo viral de camuflagem urbano
-(1748)LARGE AIR CAN\nSchematic Acquired\nDownload at the Store<==>BOTE DE AIRE GRANDE\nDiagrama Adquirido\nDescargar en el almacén-->TUBO DE AR GRANDE\nDiagrama Adquirido\nBaixar na Loja
+(1748)LARGE AIR CAN\nSchematic Acquired\nDownload at the Store<==>BOTE DE AIRE GRANDE\nDiagrama Adquirido\nDescargar en el almacén-->TUBO DE AR GRANDE\nDiagrama Adquirido\nBaixar na loja
 (1749)primary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>disparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->Disparo principal: cortadora de mineral de grande energia\nDisparo alternativo: muda a orientação do feixe
 (1750)primary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>disparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->Disparo principal: cortadora de mineral de grande energia\nDisparo alternativo: muda a orientação do feixe
 (1751)TITAN STATION\nCHURCH OF UNITOLOGY\n\nCome hear the truth about Unitology.   See our rich history, hear about the compelling truths hidden for centuries, and learn about the glorious unity that awaits us all.   The church is always open to the curious, so come check out our extended tour hours during Saturnal Periapsis, alone or with a group!    We never turn anyone away.   Altman be praised.<==>ESTACIÓN TITÁN\nIGLESIA DE LA UNIOLOGÍA\n\nVengan y oigan la verdad sobre la Uniología. Contemplen nuestra riqueza histórica, escuchen las fascinantes verdades ocultas durante siglos y conozcan la gloriosa unidad que nos espera a todos. La iglesia está siempre abierta para los curiosos, ¡consulten los horarios de las visitas ampliadas, individuales o en grupo, durante la periapsis saturnina! Jamás excluimos a nadie. Alabado sea Altman.-->ESTAÇÃO TITÃ\nIGREJA DA UNITOLOGIA\n\Venham e escutem a verdade sobre a Unitologia.   Contemplem nossa riqueza história, escutem sobre as fascinantes verdades ocultas durante séculos, e conheçam a gloriosa unidade que nos espera. A igreja está sempre aberta para os curiosos, consultem os horários das visitas ampliadas, individuais ou em grupo, durante a periapsis saturnina! Jamais excluímos alguém. Louvado seja Altman.
@@ -1825,7 +1825,7 @@
 (1825-IGUAIS)m
 (1826-IGUAIS)$
 (1827-IGUAIS)M
-(1828)Bring this schematic to the store to unlock the Detonator.<==>Lleva este diagrama al almacén para desbloquear el detonador.-->Leve este diagrama à loja para desbloquear o detonador.
+(1828)Bring this schematic to the store to unlock the Detonator.<==>Lleva este diagrama al almacén para desbloquear el detonador.-->Leve esse diagrama até a loja para desbloquear o detonador.
 (1829)video_log_6_5<==>video_log_6_53Åàe-->video_log_6_5
 (1830-IGUAIS)Bryan E. Woods
 (1831)mp suit<==>traje mj-->Traje MP
@@ -1876,7 +1876,7 @@
 (1876-IGUAIS)PROPERTY RECLAIMATION
 (1877)defend<==>Defender-->Defender
 (1878)credits description<==>descripción de créditos-->Descrição dos créditos
-(1879)Bring this schematic to the store to unlock the Medium Air Can.<==>Lleva este diagrama al almacén para desbloquear el bote de aire mediano.-->Leve este diagrama à loja para desbloquear o tubo de ar médio.
+(1879)Bring this schematic to the store to unlock the Medium Air Can.<==>Lleva este diagrama al almacén para desbloquear el bote de aire mediano.-->Leve esse diagrama até a loja para desbloquear o tubo de ar médio.
 (1880-IGUAIS)2
 (1881)//empty//<==>//libre//-->//vazio//
 (1882)SEEKER SHELLS<==>PROYECTILES BUSCADORES-->PROJÉTEIS BUSCADORES
@@ -1932,7 +1932,7 @@
 (1932)quit lobby<==>Salir de punto de encuentro-->Sair do ponto de encontro
 (1933)The Contact Beam is the most powerful weapon, but requires a charge for each shot.<==>El rayo de contacto es el arma más potente, pero requiere una carga por cada disparo.-->O raio de contatoé a arma mais poderosa de todas, mas requer uma carga para cada disparo.
 (1934)prevent the delivery of the repair unit<==>Evita que la unidad de reparación llegue a su destino.-->evite que a unidade de reparos chegue ao seu destino
-(1935)SEEKER SHELLS\nSchematic Acquired\nDownload at the Store<==>PROYECTILES BUSCADORES\nDiagrama Adquirido\nDescargar en el almacén-->ESCUDOS BUSCADORES\nDiagrama Adquirido\nBaixe na Loja
+(1935)SEEKER SHELLS\nSchematic Acquired\nDownload at the Store<==>PROYECTILES BUSCADORES\nDiagrama Adquirido\nDescargar en el almacén-->ESCUDOS BUSCADORES\nDiagrama Adquirido\nBaixe na loja
 (1936)Detonator<==>Detonador-->Detonador
 (1937)Schematic type temp<==>Tipo de diagrama temporal-->Tipo de diagrama temporal
 (1938)Hacker Suit Schematic<==>Diagrama de traje de pirateo-->Diagrama do Traje Hacker
@@ -1979,7 +1979,7 @@
 (1979-IGUAIS)Paolo Giovenco
 (1980)Art Director<==>Director artístico-->Diretor de Artes
 (1981)TRAM REPAIR<==>REPARACIÓN DEL MONORRAÍL-->REPARAÇÃO DO TREM
-(1982)CONTACT BEAM\nSchematic Acquired\nDownload at the Store<==>LÁSER DE CONTACTO\nDiagrama Adquirido\nDescargar en el almacén-->LASER DE CONTATO\nDiagrama Adquirido\nBaixe na Loja
+(1982)CONTACT BEAM\nSchematic Acquired\nDownload at the Store<==>LÁSER DE CONTACTO\nDiagrama Adquirido\nDescargar en el almacén-->LASER DE CONTATO\nDiagrama Adquirido\nBaixe na loja
 (1983)You unlocked increased damage for the Javelin Gun<==>Has desbloqueado más daño para el cañón jabalina.-->Você desbloqueou mais dano para o canhão de dardos.
 (1984)Schematic Downloaded:<==>Diagrama descargado:-->Diagrama Baixado:
 (1985)[Seems like everyone was trying to pack in a hurry.]<==>[Parece que tenían prisa por hacer las maletas.]-->[Parece que estavam com pressa em fazer as malas.]
@@ -2544,7 +2544,7 @@
 (2544-IGUAIS)Enrico Tamburini
 (2545)increased weapon damage<==>mayor daño del arma-->maior dano da arma
 (2546)The specified password or email address is invalid.<==>La contraseña o la dirección de correo electrónico especificadas no son válidas.-->A senha especificada ou endereço de email está inválido.
-(2547)FLAME FUEL\nSchematic Acquired\nDownload at the Store<==>COMBUSTIBLE DE LANZALLAMAS\nDiagrama Adquirido\nDescargar en el almacén-->COMBUSTÍVEL DO LANÇA-CHAMAS\nDiagrama Adquirido\nBaixe na Loja
+(2547)FLAME FUEL\nSchematic Acquired\nDownload at the Store<==>COMBUSTIBLE DE LANZALLAMAS\nDiagrama Adquirido\nDescargar en el almacén-->COMBUSTÍVEL DO LANÇA-CHAMAS\nDiagrama Adquirido\nBaixe na loja
 (2548-IGUAIS)Dead Space¬ Ignition
 (2549)Either your account has been disabled or access to this game has been disabled.\nIf you have any questions regarding your account, please visit support.ea.com<==>O tu cuenta o el acceso a este juego se han desactivado.\nSi tienes cualquier pregunta sobre tu cuenta, visita support.ea.com.-->Sua conta ou seu acesso a esse jogo foi desativado.\nSe você tiver alguma pergunta sobre sua conta, por favor visite support.ea.com
 (2550)Director of Advertising <==>Director de publicidad-->Diretor de Publicidade 
@@ -2802,7 +2802,7 @@
 (2802-IGUAIS)Credits_QAOS_Leads
 (2803-IGUAIS)Credits_QAOS_Test
 (2804-IGUAIS)Credits_Blank_Line
-(2805)SEEKER RIFLE\nSchematic Acquired\nDownload at the Store<==>RIFLE BUSCADOR\nDiagrama Adquirido\nDescargar en el almacén-->RIFLE BUSCADOR\nDiagrama Adquirido\nBaixe na Loja
+(2805)SEEKER RIFLE\nSchematic Acquired\nDownload at the Store<==>RIFLE BUSCADOR\nDiagrama Adquirido\nDescargar en el almacén-->RIFLE BUSCADOR\nDiagrama Adquirido\nBaixe na loja
 (2806)promotion granted<==>Ascenso concedido-->Promoção concedida
 (2807)CAPACITY<==>CAPACIDAD-->CAPACIDADE
 (2808)Franchise Executive Producer<==>Productor ejecutivo de la franquicia-->Produtor Executivo da Franquia
@@ -3399,7 +3399,7 @@
 (3399)Test Manager<==>Jefe de pruebas-->Gerente de Testes
 (3400)custom<==>Personaliz.-->Personalizado
 (3401-IGUAIS)1
-(3402)CONTACT ENERGY\nSchematic Acquired\nDownload at the Store<==>ENERGIA DE CONTACTO\nDiagrama Adquirido\nDescargar en el almacén-->ENERGIA DE CONTATO\nDiagrama Adquirido\nBaixe no loja
+(3402)CONTACT ENERGY\nSchematic Acquired\nDownload at the Store<==>ENERGIA DE CONTACTO\nDiagrama Adquirido\nDescargar en el almacén-->ENERGIA DE CONTATO\nDiagrama Adquirido\nBaixe na loja
 (3403)WEAPONS<==>ARMAS-->ARMAS
 (3404)Senior QA Project Lead<==>Jefe de proyecto de control de calidad sénior-->Líder de Projeto de Controle de Qualidade Sênior
 (3405)ELITE SECURITY SUIT<==>TRAJE DE SEGURIDAD DE ÉLITE-->TRAJE DE SEGURANÇA DE ELITE
@@ -3843,7 +3843,7 @@
 (3842)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isso vai aumentar o dano do DISPARO SECUNDÁRIO
 (3843-IGUAIS)Mark Van Ryswyk
 (3844)Holo-card containing shuttle navigation data.<==>Tarjeta holográfica que contiene información de navegación del transbordador.-->Cartão holográfico contendo dados de navegação do transportador.
-(3845)FLAMETHROWER\nSchematic Acquired\nDownload at the Store<==>LANZALLAMAS\nDiagrama Adquirido\nDescargar en el almacén-->LANÇA-CHAMAS\nDiagrama Adquirido\nBaixe na Loja
+(3845)FLAMETHROWER\nSchematic Acquired\nDownload at the Store<==>LANZALLAMAS\nDiagrama Adquirido\nDescargar en el almacén-->LANÇA-CHAMAS\nDiagrama Adquirido\nBaixe na loja
 (3846-IGUAIS)1
 (3847)CALL?<==>¿LLAMAR?-->CHAMAR?
 (3848)Chapter 10<==>Capítulo 10-->Capítulo 10 - Pesadelo Revivido
@@ -3945,7 +3945,7 @@
 (3944)EXIT TO ALTMAN PLAZA<==>SALIDA A LA PLAZA ALTMAN-->SAÍDA PARA A PRAÇA ALTMAN 
 (3945)Chapter 1<==>Capítulo 1-->Capítulo 1 - Demência
 (3946-IGUAIS)0
-(3947)DETONATOR MINES\nSchematic Acquired\nDownload at the Store<==>MINAS DE DETONACIÓN\nDiagrama Adquirido\nDescargar en el almacén-->MINAS DE DETONAÇÃO\nDiagrama Adquirido\nBaixe na Loja
+(3947)DETONATOR MINES\nSchematic Acquired\nDownload at the Store<==>MINAS DE DETONACIÓN\nDiagrama Adquirido\nDescargar en el almacén-->MINAS DE DETONAÇÃO\nDiagrama Adquirido\nBaixe na loja
 (3948-IGUAIS)1
 (3949-IGUAIS)Alex Lindsay
 (3950-IGUAIS)Mark Wayland
@@ -3958,7 +3958,7 @@
 (3957)destroy the initial marker<==>Destruye la primera Efigie.-->Destrua o primeiro Marker
 (3958)email<==>E-mail-->email
 (3959)increased paired damage<==>mayor daño conjunto-->maior dano conjunto
-(3960)LARGE MED PACK\nSchematic Acquired\nDownload at the Store<==>BOTIQUÍN GRANDE\nDiagrama Adquirido\nDescargar en el almacén-->KIT MÉDICO GRANDE\nDiagrama Adquirido\nBaixe na Loja
+(3960)LARGE MED PACK\nSchematic Acquired\nDownload at the Store<==>BOTIQUÍN GRANDE\nDiagrama Adquirido\nDescargar en el almacén-->KIT MÉDICO GRANDE\nDiagrama Adquirido\nBaixe na loja
 (3961)PLASMA ENERGY<==>ENERGÍA DE PLASMA-->ENERGIA DE PLASMA
 (3962-IGUAIS)1
 (3963)TRAM DATABOARD<==>PANEL MONORRAÍL-->PAINEL DO TREM
@@ -3992,7 +3992,7 @@
 (3991)Quick Match attempt failed to find a match.<==>No se ha podido encontrar una partida mediante la opción de partida rápida.-->Não foi possível encontrar uma partida na opção Partida Rápida.
 (3992-IGUAIS)15
 (3993)SHOCKPOINT RIPPER<==>SIERRA DE DISTORSIÓN-->SERRA DE DISTORÇÃO
-(3994)LINE GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN LINEAL\nDiagrama Adquirido\nDescargar en el almacén-->CANHÃO LINEAR\nDiagrama Adquirido\nBaixe na Loja
+(3994)LINE GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN LINEAL\nDiagrama Adquirido\nDescargar en el almacén-->CANHÃO LINEAR\nDiagrama Adquirido\nBaixe na loja
 (3995)      Welcome to The Concourse! Enjoy your shopping experience!<==>      ¡Bienvenido a The Concourse! ¡Disfrute de sus compras!-->      Bem-vindo ao Concourse! Aproveite suas compras!
 (3996)PATIENT SUIT<==>TRAJE DE PACIENTE-->TRAJE DE PACIENTE
 (3997)GOLD SEMICONDUCTOR<==>SEMICONDUCTOR DE ORO-->SEMICONDUTOR DE OURO
@@ -4632,7 +4632,7 @@
 (4631)ACCESS DENIED<==>ACCESO DENEGADO-->ACESSO NEGADO
 (4632)Elevator to Thermal Works<==>Ascensor a obras térmicas-->Elevador para as obras térmicas
 (4633)Marker Access<==>Acceso a la Efigie-->Acesso ao Marker
-(4634)Secure Storage<==>Almacén seguro-->Armazenamento seguro
+(4634)Secure Storage<==>Almacén seguro-->Depósito Seguro
 (4635)Radiation Containment<==>Contención de radiación-->Contenção de radiação
 (4636)Direct Marker Access<==>Acceso directo a la Efigie-->Acesso direto ao Marker
 (4637-IGUAIS)è
@@ -4738,7 +4738,7 @@
 (4737)Rear Left<==>Trasero izquierdo-->Traseiro Esquerdo
 (4738)Rear Right<==>Trasero derecho-->Traseiro Direito
 (4739)Use [LDLeft] with Locator to find Save Stations and more.<==>Usa [LDLeft] en el localizador para buscar otros puntos del mapa.-->Use [LDLeft] no localizador para encontrar estações de salvamento e outros pontos do mapa.
-(4740)FORCE ENERGY\nSchematic Acquired\nDownload at the Store<==>CARGA DE CAÑÓN DE ENERGÍA\nDiagrama Adquirido\nDescargar en el almacén-->CARGA DO CANHÃO DE ENERGIA\nDiagrama Adquirido\nBaixe na Loja
+(4740)FORCE ENERGY\nSchematic Acquired\nDownload at the Store<==>CARGA DE CAÑÓN DE ENERGÍA\nDiagrama Adquirido\nDescargar en el almacén-->CARGA DO CANHÃO DE ENERGIA\nDiagrama Adquirido\nBaixe na loja
 (4741)Saving %1. Please don't turn off your Xbox 360 console.<==>Guardando %1. No apagues la consola.-->Salvando %1. Por favor não desligue o console.
 (4742)OBJECTIVE\nCOMPLETE<==>OBJETIVO\nCOMPLETADO-->OBJETIVO\nCONCLUÍDO
 (4743)Golan, this is Hedrick.   You really don't hear anything when you're cleaning these bathrooms?  Every shift, I swear, I hear something in the walls, like a scratching noise.   When I stop moving, it stops.  When I move again, it waits a bit, then comes back.   Today, it followed me around, right under my feet, like it was stalking me. I... I...  I can't take this man.   This ship is cursed.  It is a bad, bad omen that it's here. I'm putting in for a transfer, you should too.<==>Golan, aquí Hedrick. ¿En serio no oyes nada cuando limpias esos baños? En todos los turnos, te lo juro, oigo cosas en las paredes, como alguien rascando. Si dejo de moverme, se detiene. Me vuelvo a mover, espera un poco, y vuelve a empezar. Hoy me siguió hasta donde yo iba, justo bajo mis pies, como si me acechara. No lo soporto, tío. Esta nave está maldita. Aquí hay una maldición. Voy a solicitar un traslado, y tú también deberías.-->Golan, aqui é o Hedrick. Será que você não ouve nada quando está limpando esses banheiros?  Em todos os turnos, eu juro, ouço coisas nas paredes, como o barulho de um arranhão.   Se eu fico parado, ele pára.  Se volto a me mover, ele espera um pouco, então volta.   Hoje ele me seguiu até onde eu estava, bem debaixo dos meus pés, como se estivesse me observando. Eu... Eu...  Eu não aguento mais isso. Essa nave é amaldiçoada.  Tem uma maldição aqui. Vou pedir a minha transferência, e acho que você deveria fazer o mesmo.
@@ -4761,10 +4761,10 @@
 (4760-IGUAIS)0
 (4761-IGUAIS)Ian Milham
 (4762)War Torn<==>Desgastado-->Desgastado
-(4763)ENGINEERING SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE INGENIERÍA\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE ENGENHARIA\nDiagrama Adquirido\nBaixe na Loja
-(4764)SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA\nDiagrama Adquirido\nBaixe na Loja
-(4765)VINTAGE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE VINTAGE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE VINTAGE\nDiagrama Adquirido\nBaixe na Loja
-(4766)ADVANCED SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE AVANZADO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE AVANÇADO\nDiagrama Adquirido\nBaixe na Loja
+(4763)ENGINEERING SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE INGENIERÍA\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE ENGENHARIA\nDiagrama Adquirido\nBaixe na loja
+(4764)SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA\nDiagrama Adquirido\nBaixe na loja
+(4765)VINTAGE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE VINTAGE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE VINTAGE\nDiagrama Adquirido\nBaixe na loja
+(4766)ADVANCED SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE AVANZADO\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE AVANÇADO\nDiagrama Adquirido\nBaixe na loja
 (4767)Contact me about EA products, news and events.<==>Recibir información de productos, noticias y eventos de EA.-->Receber informações sobre produtos, notícias e eventos da EA.
 (4768)ALT<==>SEC-->SEC
 (4769)OPEN / INTERACT<==>ABRIR / INTERACTUAR-->ABRIR / INTERAGIR
@@ -5159,7 +5159,7 @@
 (5158)To Public Areas and Transport Hub<==>A zonas públicas y nodo de transporte-->Para as áreas públicas e o centro de transporte
 (5159)MALFUNCTION<==>FALLO DEL SISTEMA-->FALHA DO SISTEMA
 (5160)Hyperion Hall Apartments<==>Apartamentos Pabellón Hyperion-->Apartamentos do Pavilhão Hyperion
-(5161)Secure Storage<==>Almacén seguro-->Loja segura
+(5161)Secure Storage<==>Almacén seguro-->Depósito Seguro
 (5162)To Public Areas and Transport Hub<==>A zonas públicas y nodo de transporte-->Para as áreas públicas e o centro de Transporte
 (5163)Maintenance Elevator Room<==>Sala del ascensor auxiliar-->Sala do elevador de serviço
 (5164)Maintenance Elevator<==>Ascensor auxiliar-->Elevador de serviço
@@ -5179,7 +5179,7 @@
 (5178)Twitcher<==>Temblador-->Contorcionista
 (5179)You can replay logs and review tutorials on the Database Screen of Isaac's RIG.<==>Puedes volver a consultar los registros y los tutoriales en la pantalla de base de datos del DRI.-->Você pode voltar a consultar os registros e tutoriais na tela de banco de dados do DRI.
 (5180)Dismember enemies to kill them quickly and conserve ammo.<==>Cercena miembros de los enemigos para acabar con ellos con rapidez y ahorrar munición.-->Desmembre inimigos para matá-los mais rápido e conservar munição.
-(5181)Find Schematics to buy new weapons and items at the Store.<==>Busca diagramas para comprar nuevas armas y objetos en el almacén.-->Encontre diagramas para comprar novas armas e itens na Loja.
+(5181)Find Schematics to buy new weapons and items at the Store.<==>Busca diagramas para comprar nuevas armas y objetos en el almacén.-->Encontre diagramas para comprar novas armas e itens na loja.
 (5182)Use Stasis to slow down enemies, making them easier to kill.<==>Usa la estabilización para frenar a los enemigos y matarlos con más facilidad.-->Use a estabilização para retardar inimigos e matá-los com mais facilidade.
 (5183)Aim and press [RSTop] to engage each weapon's Alt Fire mode, and discover new combat strategies.<==>Apunta y pulsa [RSTop] para pasar al modo de disparo secundario de tus armas y descubrir nuevas estrategias de combate.-->Mire e pressione [RSTop] para passar ao modo de disparo secundário de suas armas, e descubrir novas estratégias de combate.
 (5184)Upgrade your weapons by spending Power Nodes at the Upgrade Bench.<==>Para mejorar tus armas, utiliza nodos de energía en el banco de mejoras.-->Para melhorar suas armas, use nodos de energia na bancada de trabalho.
@@ -5349,11 +5349,11 @@
 (5348)STATUS UPDATE...<==>INFORME DE ESTADO...-->ESTADO DA ATUALIZAÇÃO...
 (5349)PRIMARY MISSION ASSETS...<==>MIEMBROS PRINCIPALES DE LA MISIÓN...-->MEMBROS PRINCIPAIS DA MISSÃO...
 (5350)prevent the humans from restoring the power<==>Evita que los humanos restablezcan la energía.-->Evite que os humanos reestabeleçam a energia.
-(5351)SMALL CURRENCY<==>DIVISA PEQUEÑA-->ACEITAÇÃO PEQUENA
+(5351)SMALL CURRENCY<==>DIVISA PEQUEÑA-->DIVISA PEQUENA
 (5352)brightness<==>Brillo-->Brilho
-(5353)Studio CTO<==>Director tecnológico del estudio-->Diretor Tecnológico do Estudio
-(5354)Your free trial has been activated. Multiplayer content is available for {d} days.<==>Tu versión de prueba gratuita se ha activado. El contenido multijugador estará disponible durante {d} días.-->Seu avaliação gratuito foi ativado. Conteúdo multijogador estará disponível por {d} dias.
-(5355)(click and hold [RStick])<==>(hacer clic y mantener [RStick])-->(Pressione e segure)
+(5353)Studio CTO<==>Director tecnológico del estudio-->Diretor Tecnológico do Estúdio
+(5354)Your free trial has been activated. Multiplayer content is available for {d} days.<==>Tu versión de prueba gratuita se ha activado. El contenido multijugador estará disponible durante {d} días.-->Sua versão de avaliação gratuita foi ativada. O conteúdo multijogador estará disponível durante {d} dias.
+(5355)(click and hold [RStick])<==>(hacer clic y mantener [RStick])-->(pressione e segure [RStick])
 (5356-IGUAIS)Rick Dimond
 (5357-IGUAIS)total
 (5358) PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!<==>La instalación de CEC--> PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
@@ -5361,7 +5361,7 @@
 (5360)yes<==>Sí-->Sim
 (5361)///brightness<==>///Brillo-->///Brilho
 (5362)Press [start] to continue<==>Pulsa [start] para continuar-->Pressione [start] para continuar
-(5363)%1 appears to be damaged and cannot be used.<==>Parece que el archivo %1 está dañado y no puede utilizarse.-->Parece que os dados %1 estão danificados e não podem ser usados.
+(5363)%1 appears to be damaged and cannot be used.<==>Parece que el archivo %1 está dañado y no puede utilizarse.-->Parece que o arquivo %1 está danificado e não pode ser usado.
 (5364-IGUAIS)1
 (5365)OFFLINE<==>APAGADO-->DESCONECTADO
 (5366-IGUAIS)John Burns
@@ -5372,33 +5372,33 @@
 (5371)select a device<==>Selecciona un dispositivo-->Selecione um Dispositivo
 (5372-IGUAIS)Visceral Games
 (5373)A.I.<==>I.A.-->I.A.
-(5374)rivet gun III<==>remachadora III-->Rebitadeira III
+(5374)rivet gun III<==>remachadora III-->rebitadeira III
 (5375)Finance<==>Finanzas-->Finanças
 (5376)EFFICIENCY CIRCUIT (CAP)<==>EFICACIA DEL CIRCUITO (CAP)-->EFICÁCIA DO CIRCUITO (CAP)
-(5377)This will upgrade your CAPACITY by %g pts.<==>Se mejorará la CAPACIDAD en %g pts.-->Isso irá melhorar sua CAPACIDADE em %g pts.
+(5377)This will upgrade your CAPACITY by %g pts.<==>Se mejorará la CAPACIDAD en %g pts.-->Isso vai melhorar sua CAPACIDADE em %g pts.
 (5378)STOMP<==>PISOTÓN-->PISADA
-(5379)STORE<==>ALMACÉN-->ARMAZÉM
+(5379)STORE<==>ALMACÉN-->LOJA
 (5380)Senior Level Designer<==>Diseñador de niveles sénior-->Designer de Níveis Sênior
 (5381-IGUAIS)1
-(5382)The transport's ready - now I just need to pick up Ellie and Stross.<==>El transporte está listo, ahora solo necesito recoger a Ellie y Stross.-->O transporte está pronto - agora eu só preciso pegar Ellie e Stross.
-(5383)Titan Station Elementary<==>Escuela de primaria de la estación Titán-->Escola Primária da Estação Titã
-(5384)long ranged, wall-walker<==>Largo alcance, capacidad de caminar por paredes.-->Longo alcance, capacidade de andar pelas paredes.
+(5382)The transport's ready - now I just need to pick up Ellie and Stross.<==>El transporte está listo, ahora solo necesito recoger a Ellie y Stross.-->O transporte está pronto - agora só preciso pegar a Ellie e o Stross.
+(5383)Titan Station Elementary<==>Escuela de primaria de la estación Titán-->Escola primária da estação Titã
+(5384)long ranged, wall-walker<==>Largo alcance, capacidad de caminar por paredes.-->longo alcance, capacidade de caminhar pelas paredes.
 (5385)STOP<==>PARAR-->PARAR
-(5386)Please turn to the survey.<==>Dirígete al monitor.-->Por favor dirija-se até o monitor.
+(5386)Please turn to the survey.<==>Dirígete al monitor.-->Por favor dirija-se ao monitor.
 (5387-IGUAIS)Maria Sayans
 (5388)puker<==>vomitador-->vomitador
 (5389-IGUAIS)1
 (5390)lobby<==>Punto de encuentro-->Ponto de encontro
-(5391)Blade Cartridge for the Ripper Tool.\n - Inventory Slot Stack Size: 15<==>Cartucho de cuchillas para la sierra trituradora.\n - Tamaño del bloque de ranuras de inventario: 15-->Cartucho de Lâminas para a Serra Trituradora.\n - espaços utilizados no Inventário: 15
+(5391)Blade Cartridge for the Ripper Tool.\n - Inventory Slot Stack Size: 15<==>Cartucho de cuchillas para la sierra trituradora.\n - Tamaño del bloque de ranuras de inventario: 15-->cartucho de lâminas para a serra trituradora.\n - espaços utilizados no inventário: 15
 (5392)EMERGENCY OVERRIDE SYSTEM<==>SISTEMA DE CONTROL DE EMERGENCIA-->SISTEMAS DE CONTROLE DE EMERGÊNCIA
-(5393)For Clearance Alpha Only<==>Solo para autorización alfa-->Somente para Autorização Alpha
+(5393)For Clearance Alpha Only<==>Solo para autorización alfa-->Somente para autorização alfa
 (5394)Ammo Pack<==>MUNICIÓN-->Munição
 (5395)k/d<==>ratio-->k/d
 (5396)Chapter 14<==>Capítulo 14-->Capítulo 14 - Luz no Fim do Túnel
-(5397)//cleared game//<==>//Completada//-->//Jogo Completado//
-(5398)The patients are becoming agitated and combative with us, as a result of the new regimens of memory erasing drugs.   They no longer remember who we are from day to day, and must be convinced to leave their cells each morning.   Many are so frightened they require sedation to get to the interrogation chamber.   Orderly Gousetis was bitten 3 times by Patient six, who now must be told why he has a broken jaw every morning.<==>Los pacientes comienzan a mostrarse nerviosos y agresivos con nosotros, debido a los nuevos tratamientos con fármacos supresores de memoria. Ya no recuerdan quiénes somos de un día para otro, y todas las mañanas tenemos que persuadirlos para que salgan de su celda. Muchos están tan asustados que necesitan sedantes para acudir a la cámara de interrogación. El paciente 6 mordió 3 veces al ordenanza Gousetis, y ahora necesita explicaciones sobre el motivo de su mandíbula rota todas las mañanas. Fin del informe.-->Os pacientes estão ficando agitados e combatentes conosco, como resultado do novo regime de drogas para apagar memórias. Eles não se lembram mais quem somos dia após dia, e devem ser convencidos a sair das celas a cada manhã. Muitos estão tão assustados que precisam de sedativos para chegar até a sala de interrogação. O Paciente 6 mordeu o Gousetis 3 vezes, que devemos contar todas as manhãs porque ele está com o queixo quebrado.
+(5397)//cleared game//<==>//Completada//-->//jogo concluído//
+(5398)The patients are becoming agitated and combative with us, as a result of the new regimens of memory erasing drugs.   They no longer remember who we are from day to day, and must be convinced to leave their cells each morning.   Many are so frightened they require sedation to get to the interrogation chamber.   Orderly Gousetis was bitten 3 times by Patient six, who now must be told why he has a broken jaw every morning.<==>Los pacientes comienzan a mostrarse nerviosos y agresivos con nosotros, debido a los nuevos tratamientos con fármacos supresores de memoria. Ya no recuerdan quiénes somos de un día para otro, y todas las mañanas tenemos que persuadirlos para que salgan de su celda. Muchos están tan asustados que necesitan sedantes para acudir a la cámara de interrogación. El paciente 6 mordió 3 veces al ordenanza Gousetis, y ahora necesita explicaciones sobre el motivo de su mandíbula rota todas las mañanas. Fin del informe.-->Os pacientes estão começando a ficar nervosos e agressivos conosco, devido aos novos tratamentos com drogas supressores de memória. Eles já não se lembram mais quem somos de um dia, e todas as manhãs temos que convencê-los a sair das suas celas. Muitos estão tão assustados que precisam de sedativos para chegar até a sala de interrogação. O paciente 6 mordeu 3 vezes o Gousetis, e agora pede explicações sobre o motivo da sua mandíbula estar quebrada todas as manhãs.
 (5399-IGUAIS)4
-(5400)The Terms of Service govern your use of EA online and mobile services.  It covers topics such as user conduct and submissions, beta testing and paid services.<==>Los Términos de servicio rigen el uso de los servicios online y de móviles de EA. Incluyen temas como la conducta y los envíos de los usuarios, las pruebas beta y los servicios pagados.-->Os Termos de Serviço regem o uso dos serviços online e móveis da EA. Incluem tópicos como conduta e envios dos usuários, testes beta e serviços pagos.
+(5400)The Terms of Service govern your use of EA online and mobile services.  It covers topics such as user conduct and submissions, beta testing and paid services.<==>Los Términos de servicio rigen el uso de los servicios online y de móviles de EA. Incluyen temas como la conducta y los envíos de los usuarios, las pruebas beta y los servicios pagados.-->Os termos de serviço regem o uso dos serviços online e móveis da EA. Incluem temas como a conduta e envios dos usuários, testes beta e serviços pagos.
 (5401)GUNSHIP CHECKOUT 1<==>EXAMEN DE NAVE 1-->EXAME DA NAVE 1
 (5402)GUNSHIP CHECKOUT 2<==>EXAMEN DE NAVE 2-->EXAME DA NAVE 2
 (5403)GUNSHIP CHECKOUT 3<==>EXAMEN DE NAVE 3-->EXAME DA NAVE 3
@@ -5413,13 +5413,13 @@
 (5412)Design Leads<==>Jefes de diseño-->Chefes de Desenho
 (5413)ON<==>ACTIVADO-->ATIVADO
 (5414)Gravity offline<==>Gravedad desconectada-->Gravidade desconectada
-(5415)I don't know who this woman is, but she's helped me make it this far. Trust isn't a factor here - she's helped me survive, and that's what matters. She says she has a cure for these hallucinations and a way off this space station.<==>No sé quién es esta mujer, pero me ha ayudado a llegar hasta aquí. La confianza no es un factor, me ha ayudado a sobrevivir, eso es lo único que importa. Dice que tiene una cura para estas alucinaciones y que conoce la forma de salir de esta estación espacial.-->Eu não sei quem é essa mulher, mas ela me ajudou a chegar até aqui. Confiança não é um fator aqui - ela me ajudou a sobreviver, e isso que importa. Ela diz que tem uma cura para essas alucinações e um caminho para sair da estação espacial.
+(5415)I don't know who this woman is, but she's helped me make it this far. Trust isn't a factor here - she's helped me survive, and that's what matters. She says she has a cure for these hallucinations and a way off this space station.<==>No sé quién es esta mujer, pero me ha ayudado a llegar hasta aquí. La confianza no es un factor, me ha ayudado a sobrevivir, eso es lo único que importa. Dice que tiene una cura para estas alucinaciones y que conoce la forma de salir de esta estación espacial.-->Não sei quem é essa mulher, mas ela me ajudou a chegar até aqui. A confiança não é um fator aqui - ela me ajudou a sobreviver, e isso é o que importa. Ela diz que tem uma cura para essas alucinações e que uma maneira de sair dessa estação espacial.
 (5416)POWER CELL<==>CÉLULA DE ENERGÍA-->CÉLULA DE ENERGIA
-(5417)This will upgrade your CHARGE by %g sec.<==>Se mejorará la CARGA en %g seg.-->Isso irá melhorar sua CARGA em %g seg.
+(5417)This will upgrade your CHARGE by %g sec.<==>Se mejorará la CARGA en %g seg.-->Isso vai melhorar sua CARGA em %g seg.
 (5418)CREW KEY<==>LLAVE DE TRIPULACIÓN-->CHAVE DA TRIPULAÇÃO
 (5419)Bring this schematic to the store to unlock the Line Gun.<==>Lleva este diagrama al almacén para desbloquear el cañón lineal.-->Leve esse diagrama até a loja para desbloquear o canhão linear. 
 (5420)[MenuB]EXIT<==>[MenuB]SALIR-->[MenuB]Sair
-(5421)increased ranged damage<==>mayor daño a distancia-->dano a distância aumentado
+(5421)increased ranged damage<==>mayor daño a distancia-->maior dano à distância
 (5422-IGUAIS)Evan Agustin
 (5423-IGUAIS)Ricardo de Avila
 (5424-IGUAIS)Art Bailly
@@ -5432,23 +5432,23 @@
 (5431-IGUAIS)N/A
 (5432-IGUAIS)1
 (5433)An Entitlement is currently being redeemed, please wait.<==>Se está canjeando un derecho. Espere.-->Um título está sendo resgatado, por favor aguarde.
-(5434)Use at a Bench to upgrade equipment.<==>Úsalo en un banco para mejorar el equipo.-->Use em um Banco para melhorar seu equipamento.
+(5434)Use at a Bench to upgrade equipment.<==>Úsalo en un banco para mejorar el equipo.-->Use em uma bancada para melhorar seu equipamento.
 (5435)special content unlocked.<==>contenido especial desbloqueado.-->conteúdo especial desbloqueado.
-(5436)Galilei Transit Station<==>Estación de tránsito Galilei-->Estação de Trânsito Galilei
+(5436)Galilei Transit Station<==>Estación de tránsito Galilei-->Estação de trânsito Galilei
 (5437-IGUAIS)Dana Marineau
-(5438)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado por matar o portador
+(5438)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado ao matar o portador
 (5439)AIM MODE<==>MODO APUNTAR-->MODO DE MIRA
 (5440-IGUAIS)Jim Hill
 (5441)By the 25th century, Earth's resources were ravaged. Consumed. Exhausted.<==>En el siglo XXV, los recursos de la Tierra estaban extinguidos, consumidos, agotados.-->No século 25, os recursos da Terra estavam extintos. Consumidos. Esgotados.
-(5442)Desperate and on the verge of extinction, we cast out into the void of space and discovered rich new worlds waiting to be cracked open. And stripped bare.<==>Desesperados y al borde de la extinción, nos lanzamos al vacío del espacio y descubrimos nuevos y fértiles mundos que taladrar y explotar.-->Desesperados e a beira da extinção, nós nos lançamos ao vazio do espaço e descobrimos novos mundos férteis para conquistar e explorar.
-(5443)All of Earth became devoted to this effort. The Planetcrackers were built, the USG Ishimura the first and most famous. Planetcracking became routine, its spoils kept us alive.<==>La Tierra entera se dedicó a ello con devoción. Se construyeron las extractoras planetarias, la primera y más famosa, el USG Ishimura. La extracción planetaria se convirtió en rutina y eso nos mantuvo con vida.-->Toda a Terra se dedicou a esse objetivo. As extratoras planetárias foram construídas, sendo a USG Ishimura a primeira e mais famosa. A extração planetária virou rotina, e isso nos manteve vivos.
-(5444)Eventually, greedy eyes fell upon Aegis VII. Restricted for centuries for reasons unknown, greed and corruption saw to the demise of caution.<==>Con el tiempo, Aegis VII fue muy codiciada. Tras siglos de restricción por causas desconocidas, la corrupción y la codicia pusieron fin a la precaución.-->Com o tempo, a Aegis VII foi muito cobiçada. Restrita por séculos e por razões desconhecidas, a cobiça e corrupção colocaram um fim a precaução.
-(5445)There, buried beneath the surface. An artifact... <==>Allí, enterrado bajo la superficie, un artefacto...-->Lá, enterrado abaixo da superficie. Um artefato... 
+(5442)Desperate and on the verge of extinction, we cast out into the void of space and discovered rich new worlds waiting to be cracked open. And stripped bare.<==>Desesperados y al borde de la extinción, nos lanzamos al vacío del espacio y descubrimos nuevos y fértiles mundos que taladrar y explotar.-->Desesperados e à beira da extinção, nos lançamos ao vazio do espaço e descobrimos novos e férteis mundos para conquistar e explorar.
+(5443)All of Earth became devoted to this effort. The Planetcrackers were built, the USG Ishimura the first and most famous. Planetcracking became routine, its spoils kept us alive.<==>La Tierra entera se dedicó a ello con devoción. Se construyeron las extractoras planetarias, la primera y más famosa, el USG Ishimura. La extracción planetaria se convirtió en rutina y eso nos mantuvo con vida.-->Toda a Terra se dedicou a esse objetivo. As extratoras planetárias foram construídas, sendo a USG Ishimura a primeira e mais famosa. A extração planetária se converteu em rotina, e isso nos manteve vivos.
+(5444)Eventually, greedy eyes fell upon Aegis VII. Restricted for centuries for reasons unknown, greed and corruption saw to the demise of caution.<==>Con el tiempo, Aegis VII fue muy codiciada. Tras siglos de restricción por causas desconocidas, la corrupción y la codicia pusieron fin a la precaución.-->Com o tempo, Aegis VII foi muito cobiçada. Depois de séculos de restrição por causas desconhecidas, a corrupção e a cobiça puseram um fim na precaução.
+(5445)There, buried beneath the surface. An artifact... <==>Allí, enterrado bajo la superficie, un artefacto...-->Ali, enterrado abaixo da superfície. Um artefato... 
 (5446)The Red Marker... long lost and long forgotten.<==>La Efigie Roja..., perdida y olvidada hacía tiempo.-->O Marker Vermelho... a muito tempo perdido e esquecido;
-(5447)The religion I once called my own had found its holy grail -- the key to human immortality...<==>La religión que un día profesé había encontrado su Santo Grial..., la clave de la inmortalidad humana...-->A religião que eu uma dia falei ser a minha, encontrou seu Santo Graal -- a chave para a imortalidade humana...
-(5448)...or so we thought.<==>O eso creímos.-->...assim nós achamos.
-(5449)It did not bring salvation...<==>Pero no nos trajo la salvación,...-->Ela não trouxe salvação...
-(5450)It brought doom.<==>...sino la perdición.-->Trouxe o apocalipse.
+(5447)The religion I once called my own had found its holy grail -- the key to human immortality...<==>La religión que un día profesé había encontrado su Santo Grial..., la clave de la inmortalidad humana...-->A religião que uma dia chamei de minha havia encontrado seu Santo Graal -- a chave para a imortalidade humana...
+(5448)...or so we thought.<==>O eso creímos.-->...ou pelo menos assim acreditávamos.
+(5449)It did not bring salvation...<==>Pero no nos trajo la salvación,...-->Mas ele não nos trouxe a salvação...
+(5450)It brought doom.<==>...sino la perdición.-->Ele nos trouxe a perdição.
 (5451)The Marker bred insanity, murder and chaos. It bred Necromorphs...<==>La Efigie engendró locura, muerte y caos. Engendró necromorfos...-->O Marker trouxe insanidade, morte e caos. Ele trouxe os Necromorfos...
 (5452)Those who escaped the planet fled to the "safety" of the orbiting Ishimura. <==>Los que huyeron del planeta se "refugiaron" en el Ishimura.-->Aqueles que escaparam do planeta fugiram para a "segurança" da Ishimura.
 (5453)But the scourge released upon Aegis VII came with them. <==>El azote infligido sobre Aegis VII los acompañó. -->Mas a escória lançada com o Aegis VII veio com eles.
@@ -5664,7 +5664,7 @@
 (5663)Audio<==>Sonido-->Áudio
 (5664)UI Programmers<==>Programadores de IU-->Programadores de IU
 (5665)QA Project Lead<==>Jefe de proyecto de control de calidad-->Chefe de Projeto de Controle de Qualidade
-(5666)JAVELIN SPEARS\nSchematic Acquired\nDownload at the Store<==>JABALINAS\nDiagrama Adquirido\nDescargar en el almacén-->DARDOS\nDiagrama Adquirido\nBaixar no Armazém
+(5666)JAVELIN SPEARS\nSchematic Acquired\nDownload at the Store<==>JABALINAS\nDiagrama Adquirido\nDescargar en el almacén-->DARDOS\nDiagrama Adquirido\nBaixar na loja
 (5667)Rendezvous with Ellie.<==>Reúnete con Ellie.-->Encontre-se com Ellie.
 (5668-IGUAIS)Brandon Lukach
 (5669-IGUAIS)LINAC
@@ -5759,7 +5759,7 @@
 (5758)Prevent the humans from activating the Control Room Terminals<==>Evita que los humanos activen los terminales de la sala de control.-->Evita que os humanos ativem os Terminais da Sala de Controle
 (5759)KINESIS LAUNCH<==>LANZAR CINÉTICO-->LANÇAR CINÉTICO
 (5760)tutorials<==>Tutoriales-->Tutoriais
-(5761)Bring this schematic to the store to unlock the Advanced Suit.<==>Lleva este diagrama al almacén para desbloquear el traje avanzado.-->Leve esse diagrama até o armazém para desbloquear o traje avançado.
+(5761)Bring this schematic to the store to unlock the Advanced Suit.<==>Lleva este diagrama al almacén para desbloquear el traje avanzado.-->Leve esse diagrama até a loja para desbloquear o traje avançado.
 (5762-IGUAIS)Liu Hui Yuan
 (5763)credits<==>Créditos-->Créditos
 (5764)Unlocked at level 23<==>Desbloqueado en el nivel 23-->Desbloqueado no nível 23
@@ -5834,7 +5834,7 @@
 (5833-IGUAIS))
 (5834) PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!<==>Las minas Titán--> PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
 (5835)Oxygen Station Active<==>Estación de oxígeno activa-->Estação de Oxigênio Ativa
-(5836)MEDIUM MED PACK\nSchematic Acquired\nDownload at the Store<==>BOTIQUÍN MEDIANO\nDiagrama Adquirido\nDescargar en el almacén-->KIT MÉDICO MÉDIO\nDiagrama Adquirido\nBaixar no Armazém
+(5836)MEDIUM MED PACK\nSchematic Acquired\nDownload at the Store<==>BOTIQUÍN MEDIANO\nDiagrama Adquirido\nDescargar en el almacén-->KIT MÉDICO MÉDIO\nDiagrama Adquirido\nBaixar na loja
 (5837)Lead Gameplay Designer<==>Jefe de diseño de juego-->Chefe de Design do Jogo
 (5838)Find a route to Government Sector.<==>Busca una ruta al sector gubernamental.-->Encontre uma rota para o Setor Governamental.
 (5839)SYSTEM OFFLINE<==>SISTEMA DESCONECTADO-->SISTEMA DESCONECTADO
@@ -5843,7 +5843,7 @@
 (5842)///checkpoint restart<==>///Reinicio desde punto de control-->///Reiniciar deste ponto de controle
 (5843)The Riot Security Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Contact Beam receives a 10% bonus to damage. \nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de seguridad antidisturbios ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de arma [c=RESET]: un 10% adicional de daño para el rayo de contacto. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.\n-->O Traje de Segurança concede uma funcionalidade única para quem o usa:\n• [c=CUSTOM3] Bonificação de Arma [c=RESET]: Recebe um bônus de 10% de dano para o Raio de Contato. \nSua compra garante um mínimo de 25 espaços de inventário e 25% de blindagem%. Seu DRI conserva maior melhoria de blindagem e Inventário.
 (5844)match win<==>victoria de la partida-->vitória da partida
-(5845)Bring this schematic to the store to unlock the Power Node.<==>Lleva este diagrama al almacén para desbloquear el nodo de energía.-->Leve este diagrama ao armazém para desbloquear o nodo de energia.
+(5845)Bring this schematic to the store to unlock the Power Node.<==>Lleva este diagrama al almacén para desbloquear el nodo de energía.-->Leve esse diagrama até a loja para desbloquear o nodo de energia.
 (5846)NAVIGATION<==>NAVEGACIÓN-->NAVEGAÇÃO
 (5847)Senior Publicist<==>Publicista sénior-->Publicista Sênior
 (5848-IGUAIS)Visceral Australia
@@ -5865,7 +5865,7 @@
 (5864-IGUAIS)Tony Gialdini
 (5865)suit select<==>Selección de traje-->selecionar traje
 (5866)scanning...<==>Escaneando...-->Escaneando...
-(5867)STORAGE KEY<==>LLAVE DEL ALMACÉN-->CHAVE DO ARMAZÉM
+(5867)STORAGE KEY<==>LLAVE DEL ALMACÉN-->CHAVE DO ARMAZENAMENTO
 (5868)LAUNCH and LAND<==>DESPEGAR Y ATERRIZAR-->LANÇAR e ATERRISSAR
 (5869)Asset Localization<==>Localización-->Localização
 (5870)Air canisters used<==>Botes de oxígeno usados-->Tubos de oxigênio usados
@@ -5895,7 +5895,7 @@
 (5894)Extremely Rare electronic component.  Sell at the store for credits.<==>Componente electrónico muy poco frecuente.  Vender en el almacén para obtener créditos.-->Componente eletrônico Extremamente Raro.  Venda na loja para obter créditos.
 (5895)SAVE<==>GUARDAR-->SALVAR
 (5896)BENCH<==>MEJORAS-->MELHORIAS
-(5897)STORE<==>ALMACÉN-->ARMAZÉM
+(5897)STORE<==>ALMACÉN-->LOJA
 (5898)STASIS<==>ESTABILIZACIÓN-->ESTABILIZAÇÃO
 (5899)normal<==>Normal-->Normal
 (5900)REFURBISHED PLASMA CUTTER<==>CORTADORA DE PLASMA RESTAURADA-->CORTA DE PLAVA RESTAURADA
@@ -5945,7 +5945,7 @@
 (5944)[LDLeft]Navigate<==>[LDLeft]Navegar-->[LDLeft]Navegar
 (5945)GAME STARTS IN<==>LA PARTIDA COMIENZA EN-->A PARTID COMEÇA EM
 (5946)Seeker Shells Schematic<==>Diagrama de proyectiles buscadores-->Diagrama de Projéteis Buscadores
-(5947)RIPPER\nSchematic Acquired\nDownload at the Store<==>SIERRA TRITURADORA\nDiagrama Adquirido\nDescargar en el almacén-->SERRA TRITURADORA\nDiagrama Adquirido\nBaixe no Armazém
+(5947)RIPPER\nSchematic Acquired\nDownload at the Store<==>SIERRA TRITURADORA\nDiagrama Adquirido\nDescargar en el almacén-->SERRA TRITURADORA\nDiagrama Adquirido\nBaixe na loja
 (5948)Get to the escape pod.<==>Ve a la cápsula de escape.-->Vá para a cápsula de fuga.
 (5949)Maintenance Mode\nSystem Off Line<==>Modo mantenimiento\nSistema apagado-->Modo de Manutenção\nSistema Desconectado
 (5950)MINING ACCESS KEY<==>LLAVE ACCESO EXTRACCIÓN-->CHAVE DE ACESSO À EXTRAÇÃO
@@ -5974,10 +5974,10 @@
 (5973)Cassini Apartments<==>Apartamentos Cassini-->Apartamentos Cassini
 (5974)Marikina Towers<==>Torres Marikina-->Torres Marikina
 (5975)Aiden Young Plaza<==>Plaza Aiden Young-->Praça Aiden Young
-(5976)ENGINEERING ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE INGENIERÍA DE ÉLITE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE ENGENHARIA DE ELITE\nDiagrama Adquirido\nBaixe no Armazém
-(5977)SECURITY ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD DE ÉLITE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA DE ELITE\nDiagrama Adquirido\nBaixe no Armazém
-(5978)VINTAGE ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE VINTAGE DE ÉLITE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE VINTAGE DE ELITE\nDiagrama Adquirido\nBaixe no Armazém
-(5979)ADVANCED ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE AVANZADO DE ÉLITE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE AVANÇADO DE ELITE\nDiagrama Adquirido\nBaixe no Armazém
+(5976)ENGINEERING ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE INGENIERÍA DE ÉLITE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE ENGENHARIA DE ELITE\nDiagrama Adquirido\nBaixe na loja
+(5977)SECURITY ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD DE ÉLITE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA DE ELITE\nDiagrama Adquirido\nBaixe na loja
+(5978)VINTAGE ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE VINTAGE DE ÉLITE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE VINTAGE DE ELITE\nDiagrama Adquirido\nBaixe na loja
+(5979)ADVANCED ELITE SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE AVANZADO DE ÉLITE\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE AVANÇADO DE ELITE\nDiagrama Adquirido\nBaixe na loja
 (5980)A shock mine should do it.   There's plenty of parts down here.<==>Una mina expansiva servirá. Aquí hay un montón de piezas.-->Uma mina explosiva servirá.   Tem um monte de peças aqui em baixo.
 (5981)And stay together this time.<==>Y esta vez no os separéis.-->E desta vez fiquem juntos.
 (5982)I hope this works, I don't wanna end up one of them.<==>Espero que funcione. No quiero acabar como ellos.-->Espero que isso funcione. Eu não quero acabar como um deles.
@@ -6125,9 +6125,9 @@
 (6124)   Reach the compound safe room.<==>Alcanza la sala de seguridad del recinto.-->   Vá para a sala de segurança do complexo.
 (6125-IGUAIS)Deeka MacDonald
 (6126)Force Gun Schematic<==>Diagrama de cañón de energía-->Diagrama do Canhão de Energia
-(6127)store<==>almacén-->armazém
+(6127)store<==>almacén-->loja
 (6128)Are you sure you want to restart from checkpoint? All progress since last checkpoint will be lost.<==>¿Seguro que quieres reiniciar desde el punto de control? Se perderán todos los progresos realizados desde el último punto de control.-->Tem certeza que deseja reiniciar a partir do ponto de controle? Todos os progressos realizados desde o último ponto de controle serão perdidos.
-(6129)Bring this schematic to the store to unlock the Seeker Shells.<==>Lleva este diagrama al almacén para desbloquear los proyectiles buscadores.-->Leve esse esquema até o armazém para desbloquear projéteis buscadores.
+(6129)Bring this schematic to the store to unlock the Seeker Shells.<==>Lleva este diagrama al almacén para desbloquear los proyectiles buscadores.-->Leve esse esquema até a loja para desbloquear projéteis buscadores.
 (6130)INSERT MIXING AGENTS<==>INTRODUCIR AGENTES MEZCLADORES-->INTRODUZIR AGENTES MESCLADORES
 (6131)assists<==>ayudas-->ajudas
 (6132)Adjust slider until logo barely appears in the center of the screen.<==>Ajusta el control hasta que el logo apenas aparezca en el centro de la pantalla.-->Ajuste a barra deslizante até o logo mal aparecer no centro da tela.
@@ -6244,7 +6244,7 @@
 (6243)stereo<==>Estéreo-->Estéreo
 (6244)you now have the ability to equip the force gun\nprimary fire: conical force blast\nalternate fire: condensed force blast<==>Ahora ya puedes equipar el cañón de energía\ndisparo principal: ráfaga de energía cónica\ndisparo secundario: ráfaga de energía condensada-->Agora você já pode equipar o canhão de energia\ndisparo primário: explosão de energia cônica\ndisparo secundário: explosão de energia condensada
 (6245)VENT WARNING<==>ALERTA EN EL RESPIRADERO-->ALERTA NO RESPIRADOURO
-(6246)Bring this schematic to the store to unlock the Force Gun.<==>Lleva este diagrama al almacén para desbloquear el cañón de energía.-->Leve este diagrama ao armazém para desbloquear o canhão de energia.
+(6246)Bring this schematic to the store to unlock the Force Gun.<==>Lleva este diagrama al almacén para desbloquear el cañón de energía.-->Leve esse diagrama até a loja para desbloquear o canhão de energia.
 (6247)TESTING CENTER<==>CENTRO DE PRUEBAS-->CENTRO DE avaliaçãoS
 (6248)Press [RDDown]<==>Pulsa [RDDown].-->Pressione [RDDown]
 (6249)[Death is not the end.]<==>[La muerte no es el final.]-->[A morte não é o fim.]
@@ -6268,7 +6268,7 @@
 (6267)Thermal Scanning Room Access<==>Acceso a sala de escáner térmico-->Acesso à Sala de Escáner Térmico
 (6268)Thermal Scanning Room Access<==>Acceso a sala de escáner térmico-->Acesso à Sala de Escáner Térmico
 (6269)Mining Hall B Access<==>Acceso a pabellón minero B-->Acesso ao Pavilhão de Extração B
-(6270)Secure Storage<==>Almacén seguro-->Armazém Seguro
+(6270)Secure Storage<==>Almacén seguro-->Depósito Seguro
 (6271)Mining Hall B Access<==>Acceso a pabellón minero B-->Acesso ao Pavilhão de Extração B
 (6272)Main Mine Access<==>Acceso a mina principal-->Acesso a Mina Principal
 (6273)To Exploration Mine Elevator<==>A ascensor de mina de prospección-->Para o Elevador da Mina de Exploração
@@ -6394,7 +6394,7 @@
 (6393-IGUAIS)Dead Space¬ 2
 (6394-IGUAIS)2
 (6395)tentacle fire<==>Tentáculos-->Tentáculos
-(6396)Key to the Maintenance Storage room.<==>Llave de la sala del almacén de mantenimiento.-->Chave da sala de armazén de mantimento.
+(6396)Key to the Maintenance Storage room.<==>Llave de la sala del almacén de mantenimiento.-->Chave do depósito da sala de manutenção.
 (6397)[I don't know something is in the room with us.]<==>[¡No lo sé! ¡En esta habitación hay algo!]-->[Eu não sei, tem algo nesse lugar conosco.]
 (6398-IGUAIS)2
 (6399)necromorph score<==>puntuación necromorfa-->Pontuação Necromorfa
@@ -6409,7 +6409,7 @@
 (6408)No Smoking\nor\nOpen Flame<==>Prohibido fumar\no\nencender fuego-->Proibido fumar\nor\nAbrir fogo
 (6409)terms of service<==>Términos de servicio-->Termos de Serviço
 (6410)The Advanced Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: Stasis recharge time is decreased by 50%. \nPurchase guarantees a minimum of 25 inventory slots and 20% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje avanzado ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Estabilización extra [c=RESET]: reduce en un 50% el tiempo de recarga de la estabilización. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 20% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O trajo avançado oferece funcionalidade única para quem o usa:\n• [c=CUSTOM3] Estabilização extra [c=RESET]: Reduz em 50% o tempo de recarga de estabilização. \nA compra garante um mínimo de 25 espaços de inventário e 20% de blindagem. Seu DRI conserva a maior melhora de Blindagem e Inventário.
-(6411)Bring this schematic to the store to unlock the Vintage Suit.<==>Lleva este diagrama al almacén para desbloquear el traje vintage.-->Leve este diagrama para o para desbloquear o traje vintage.
+(6411)Bring this schematic to the store to unlock the Vintage Suit.<==>Lleva este diagrama al almacén para desbloquear el traje vintage.-->Leve este diagrama até a loja para desbloquear o traje vintage.
 (6412)open the containment shield in the first marker lab<==>Abre el escudo de contención del primer laboratorio de Efigie.-->Abra o escudo de contenção do primeiro laboratório do marcador
 (6413-IGUAIS)Louis Gascoigne
 (6414-IGUAIS)1
@@ -6702,7 +6702,7 @@
 (6701)current level<==>Nivel actual-->current level
 (6702)Gravity\nactivated<==>Gravedad\nactivada-->Gravidade\nativada
 (6703)rotate camera<==>Rotar cámara-->girar camera
-(6704)PULSE RIFLE\nSchematic Acquired\nDownload at the Store<==>RIFLE DE IMPULSOS\nDiagrama Adquirido\nDescargar en el almacén-->RIFLE DE PULSO\nEsquemas Adquiridos\nFaça o Download na Loja
+(6704)PULSE RIFLE\nSchematic Acquired\nDownload at the Store<==>RIFLE DE IMPULSOS\nDiagrama Adquirido\nDescargar en el almacén-->RIFLE DE PULSO\nEsquemas Adquiridos\nBaixe na loja
 (6705)Processing load\nPlease stand by<==>Procesando carga.\nEspere.-->Processando carga\nPor favor aguarde
 (6706-IGUAIS)1
 (6707-IGUAIS)Jim Cummings
@@ -6781,7 +6781,7 @@
 (6780)Worker Entrance<==>Entrada de trabajadores-->Entrada dos Trabalhadores
 (6781)Administrator Entrance<==>Entrada de administradores-->Entrada do Administrador
 (6782)Operation Control Room<==>Sala de control de operaciones-->Sala de Controle de Operações
-(6783)Secure Storage<==>Almacén seguro-->Deposito de Segurança
+(6783)Secure Storage<==>Almacén seguro-->Depósito Seguro
 (6784)Break Room<==>Sala de descanso-->Sala de Descanso
 (6785)Records Room<==>Sala de registros-->Sala de Registros
 (6786)To Fuel Processing Control<==>A control de procesamiento de combustible-->Para o Controle de Processamento de Combustivel
@@ -6809,7 +6809,7 @@
 (6808)Key to the Mining Control room.<==>Llave de la sala de Control de extracción.-->Chave para a sala de Contorle de Extração.
 (6809-IGUAIS)Jud Halpin
 (6810-IGUAIS)Ryan J Murphy
-(6811)Elite Suit versions and Security Suit variants unlocked in New Game +. Look for new items in the Store and for schematics lost in the Sprawl to get access to this experimental technology.<==>Versiones de trajes de élite y variantes de trajes de seguridad desbloqueadas en Nueva partida +. Busca nuevos objetos en el almacén y diagramas perdidos en El Eje para acceder a esta tecnología experimental.-->Traje de Elite e Traje de Segurança desbloqueados no Novo Jogo +. Procure por novos itens na Loja e por esquemas perdidos para ganhar acesso a essa tecnologia experimental.
+(6811)Elite Suit versions and Security Suit variants unlocked in New Game +. Look for new items in the Store and for schematics lost in the Sprawl to get access to this experimental technology.<==>Versiones de trajes de élite y variantes de trajes de seguridad desbloqueadas en Nueva partida +. Busca nuevos objetos en el almacén y diagramas perdidos en El Eje para acceder a esta tecnología experimental.-->Traje de Elite e Traje de Segurança desbloqueados no Novo Jogo +. Procure por novos itens na loja e por esquemas perdidos para ganhar acesso a essa tecnologia experimental.
 (6812)AIR RECYCLING ACTIVATED...<==>RECICLAJE DE AIRE ACTIVADO...-->RECICLAGEM DE AR ATIVADA...
 (6813)Security Gunship Docking Bay<==>Plataforma de ensamblaje de seguridad-->Security Gunship Docking Bay
 (6814)Elevator to Entrance Area<==>Ascensor a zona de entrada-->Elevador para a Área de Entrada
@@ -6859,7 +6859,7 @@
 (6858)Snare Government Sector with the Ishimura's gravity tethers.<==>Atrapa el sector gubernamental con los anclajes gravitatorios del Ishimura.-->Capture o Setor Governamental com a trava gravitacional da Ishimura.
 (6859)///audio<==>///Sonido-->///audio
 (6860)acquire<==>Adquirir-->adquirir
-(6861)LINE RACKS\nSchematic Acquired\nDownload at the Store<==>MUNICIÓN LINEAL\nDiagrama Adquirido\nDescargar en el almacén-->MUNIÇÃO LINEAR\nEsquemas Adquiridos\nFaça o Download na Loja
+(6861)LINE RACKS\nSchematic Acquired\nDownload at the Store<==>MUNICIÓN LINEAL\nDiagrama Adquirido\nDescargar en el almacén-->MUNIÇÃO LINEAR\nEsquemas Adquiridos\nBaixe na loja
 (6862-IGUAIS)John Edwards
 (6863-IGUAIS)1
 (6864)An EA account record with a conflicting name already exists. For Xbox LIVE accounts, the user cannot play EA games online until he or she contacts Microsoft technical support to change the gamertag.<==>Ya está registrada una cuenta EA con un nombre que provoca un conflicto. Para las cuentas de Xbox LIVE, el usuario no podrá jugar a juegos de EA online hasta contactar con el servicio técnico de Microsoft para cambiar el gamertag.-->Impossivel criar ID de usuario/EA ID devido ao email/displayname já existir.
