@@ -6099,19 +6099,19 @@
 (6098)default necro controller map<==>Mapa de mando necromorfo-->mapa do controlador necromorfo padrão
 (6099)Localization Testing Project Managers<==>Jefes de proyecto de pruebas de localización-->Gerente de Projeto de Testes de Localização
 (6100)objective<==>objetivo-->objetivo
-(6101)SEVERED 2/2<==>SEPARADOS 2/2-->SEPARADO 2/2
-(6102)ACTIVATING CENTRIFUGE<==>ACTIVACIÓN DE CENTRIFUGADORA-->ATIVAÇÃO DE CENTRIFUGADORA
-(6103)MAKE FOR THE BRIDGE<==>RUMBO AL PUENTE-->RUMO A PONTE
+(6101)SEVERED 2/2<==>SEPARADOS 2/2-->SEPARADOS 2/2
+(6102)ACTIVATING CENTRIFUGE<==>ACTIVACIÓN DE CENTRIFUGADORA-->ATIVAÇÃO DA CENTRIFUGADORA
+(6103)MAKE FOR THE BRIDGE<==>RUMBO AL PUENTE-->RUMO À PONTE
 (6104)TICK TOCK<==>TIC TAC-->TIC TAC
 (6105)CAPTAIN'S NEST<==>REFUGIO DEL CAPITÁN-->REFÚGIO DO CAPITÃO
 (6106)TETHERS ENGAGED<==>ANCLAJES ACTIVADOS--TRAVAS ATIVADAS
-(6107)HERE THEY COME<==>¡AQUÍ VIENEN!-->AQUI VEM ELES
+(6107)HERE THEY COME<==>¡AQUÍ VIENEN!-->AÍ VEM ELES
 (6108)STROSS STRESS<==>EL ESTRÉS DE STROSS-->O STRESS DE STROSS
-(6109)CENTRIFUGE HINT<==>PISTA DE CENTRIFUGADORA-->DICA DE CENTRIFUGADORA
-(6110)POST PUZZLE COMPLETION<==>TRAS LA RESOLUCIÓN DEL ROMPECABEZAS-->APÓS A RESOLUÇÃO DO ENIGMA
-(6111)Increases Inventory slots and Armor.<==>Aumenta las ranuras del inventario y el blindaje.-->Aumenta os espaços do Inventário e blindagem.
+(6109)CENTRIFUGE HINT<==>PISTA DE CENTRIFUGADORA-->DICA DA CENTRIFUGADORA
+(6110)POST PUZZLE COMPLETION<==>TRAS LA RESOLUCIÓN DEL ROMPECABEZAS-->APÓS A RESOLUÇÃO DO QUEBRA-CABEÇA
+(6111)Increases Inventory slots and Armor.<==>Aumenta las ranuras del inventario y el blindaje.-->Aumenta os espaços do inventário e a blindagem.
 (6112)//multiplayer<==>//Multijugador-->//multijogador
-(6113)   Align the Solar Array panels.<==>Alinea los espejos del panel solar.-->   Alinhe os Espelhos do Painel Solar.
+(6113)   Align the Solar Array panels.<==>Alinea los espejos del panel solar.-->   Alinhe os espelhos do painel solar.
 (6114-IGUAIS)N/A
 (6115)START THE ENGINE SEQUENCE<==>INICIAR SECUENCIA DEL MOTOR-->INICIAR SEQUÊNCIA DO MOTOR
 (6116)CONTACT ENERGY<==>ENERGÍA DE CONTACTO-->ENERGIA DE CONTATO
@@ -6124,30 +6124,30 @@
 (6123)Developer<==>Desarrollador-->Desenvolvedor
 (6124)   Reach the compound safe room.<==>Alcanza la sala de seguridad del recinto.-->   Vá para a sala de segurança do complexo.
 (6125-IGUAIS)Deeka MacDonald
-(6126)Force Gun Schematic<==>Diagrama de cañón de energía-->Diagrama do Canhão de Energia
+(6126)Force Gun Schematic<==>Diagrama de cañón de energía-->Diagrama do canhão de energia
 (6127)store<==>almacén-->loja
 (6128)Are you sure you want to restart from checkpoint? All progress since last checkpoint will be lost.<==>¿Seguro que quieres reiniciar desde el punto de control? Se perderán todos los progresos realizados desde el último punto de control.-->Tem certeza que deseja reiniciar a partir do ponto de controle? Todos os progressos realizados desde o último ponto de controle serão perdidos.
 (6129)Bring this schematic to the store to unlock the Seeker Shells.<==>Lleva este diagrama al almacén para desbloquear los proyectiles buscadores.-->Leve esse esquema até a loja para desbloquear projéteis buscadores.
 (6130)INSERT MIXING AGENTS<==>INTRODUCIR AGENTES MEZCLADORES-->INTRODUZIR AGENTES MESCLADORES
 (6131)assists<==>ayudas-->ajudas
-(6132)Adjust slider until logo barely appears in the center of the screen.<==>Ajusta el control hasta que el logo apenas aparezca en el centro de la pantalla.-->Ajuste a barra deslizante até o logo mal aparecer no centro da tela.
+(6132)Adjust slider until logo barely appears in the center of the screen.<==>Ajusta el control hasta que el logo apenas aparezca en el centro de la pantalla.-->Ajuste a barra deslizante até que o logo mal apareça no centro da tela.
 (6133-IGUAIS) Johnny Sun
-(6134)marker lab<==>Laboratorio de Efigie-->laboratório do marker
-(6135)marker lab<==>Laboratorio de Efigie-->laboratório do marker
+(6134)marker lab<==>Laboratorio de Efigie-->Laboratório do Marker
+(6135)marker lab<==>Laboratorio de Efigie-->Laboratório do Marker
 (6136)Large Ammo Pack<==>MUNICIÓN GRANDE-->Pacote de Munição Grande
 (6137)execution<==>ejecución-->execução
-(6138)Character Director<==>Director de personajes-->Diretor de Peronagem
+(6138)Character Director<==>Director de personajes-->Diretor de Personagens
 (6139)POWERING UP<==>ACTIVANDO-->ATIVANDO
 (6140)Resolution<==>Resolución-->Resolução
 (6141)WORSENING CONDITION<==>WORSENING CONDITION5Åàeå£-->CONDIÇÃO PIORANDO
 (6142-IGUAIS)2
 (6143-IGUAIS)Jonathan Simas
-(6144)unlock at level {g}<==>desbloqueo en el nivel {g}-->desbloqueável no nível {g}
-(6145)You Have Died<==>Has muerto-->Você Morreu
+(6144)unlock at level {g}<==>desbloqueo en el nivel {g}-->desbloqueado no nível {g}
+(6145)You Have Died<==>Has muerto-->Você morreu
 (6146-IGUAIS){g}/{h}
 (6147)LOCKDOWN<==>BLOQUEO-->BLOQUEIO
 (6148)Senior Technical Artists<==>Diseñadores técnicos sénior-->Artistas Técnicos Sênior
-(6149)Personal Log: Howard Phillips\nRecord number: 497\n\nThey hate me.  They all hate me.   I can see them all.  They're everywhere now, just perched, watching me.   Even ANTI.  She's just waiting until old Howards Phillips finally goes crazy and snaps, like he did when he let the birds out, violated all the codes, broke all the rules.   I'll show them crazy, I'll show them what it takes to get out of here.  They'll have to come up here and clean up all this blood, and then what rules will they make?  I'll break those too.  I'm going to go lay down, I don't feel right. <==>Registro personal: Howard Phillips\nNúmero de registro: 497\n\nMe odian. Todos me odian. Los veo a todos. Están por todas partes, encaramados, observándome. Hasta ANTI. Está esperando a que el viejo Howards Phillips se vuelva loco y estalle, como hizo cuando liberó a los pájaros, violó todos los códigos y rompió todas las reglas. Pues les daré locura, les enseñaré qué hace falta para salir de aquí. Tendrán que venir y limpiar toda esta sangre, y entonces, ¿qué nuevas reglas crearán? También las romperé. Voy a echarme, no me encuentro bien.-->Registro Pessoal: Howard Phillips\nNúmero de registro: 497\n\nEles me odeiam.  Todos eles me odeiam.   Posso ver todos eles.  Estão por toda parte agora, apenas empoleirados, me observando.   Até ANTI.  Ela está só esperando que o velho Howards Phillips, finalmente fique louco e diga rispidamente, como ele fez quando ele soltou os pássaros, violou todos os códigos, quebrou todas as regras.   Eu lhes darei loucura, lhes ensinarei o que é preciso para sair daqui.  Eles terão que vir aqui e limpar todo esse sangue, e então, que regras eles criarão?  Eu quebrarei essas também.  Eu vou ficar deitado, eu não me sinto bem. 
+(6149)Personal Log: Howard Phillips\nRecord number: 497\n\nThey hate me.  They all hate me.   I can see them all.  They're everywhere now, just perched, watching me.   Even ANTI.  She's just waiting until old Howards Phillips finally goes crazy and snaps, like he did when he let the birds out, violated all the codes, broke all the rules.   I'll show them crazy, I'll show them what it takes to get out of here.  They'll have to come up here and clean up all this blood, and then what rules will they make?  I'll break those too.  I'm going to go lay down, I don't feel right. <==>Registro personal: Howard Phillips\nNúmero de registro: 497\n\nMe odian. Todos me odian. Los veo a todos. Están por todas partes, encaramados, observándome. Hasta ANTI. Está esperando a que el viejo Howards Phillips se vuelva loco y estalle, como hizo cuando liberó a los pájaros, violó todos los códigos y rompió todas las reglas. Pues les daré locura, les enseñaré qué hace falta para salir de aquí. Tendrán que venir y limpiar toda esta sangre, y entonces, ¿qué nuevas reglas crearán? También las romperé. Voy a echarme, no me encuentro bien.-->Registro Pessoal: Howard Phillips\nNúmero de registro: 497\n\nEles me odeiam.  Todos eles me odeiam.   Posso ver todos eles.  Estão por toda parte, empoleirados, só me observando.   Até a ANTI.  Ela só está esperando que o velho Howards Phillips, finalmente fique louco e diga rispidamente, como ele fez quando ele soltou os pássaros, violou todos os códigos, quebrou todas as regras.   Eu lhes darei loucura, lhes ensinarei o que é preciso para sair daqui.  Eles terão que vir aqui e limpar todo esse sangue, e então, que regras eles criarão?  Eu quebrarei essas também.  Eu vou ficar deitado, eu não me sinto bem. 
 (6150)FLASH LIGHT<==>LINTERNA-->LANTERNA
 (6151)+{n} TRIPLE KILL<==>+{n} BAJA TRIPLE-->+{n} BAIXA TRIPLA
 (6152-IGUAIS),
@@ -6155,47 +6155,47 @@
 (6154-IGUAIS)<
 (6155-IGUAIS)<
 (6156)INACTIVE<==>INACTIVO-->INATIVO
-(6157)Character Craft Director<==>Director de creación de personajes-->Diretor de Criação de Personagem
+(6157)Character Craft Director<==>Director de creación de personajes-->Diretor de Criação de Personagens
 (6158-IGUAIS)9
 (6159)TOUR STAFF<==>PERSONAL DE VISITAS-->AGENTES TURÍSTICOS
 (6160)TWO TINES<==>DOS PÚAS-->DUAS PONTAS
 (6161-IGUAIS)PERIAPSIS
-(6162)RECRUIT TEST RESULTS<==>PRUEBAS DE RECLUTAMIENTO-->RESULTADOS DO avaliação DE RECRUTAMENTO
+(6162)RECRUIT TEST RESULTS<==>PRUEBAS DE RECLUTAMIENTO-->RESULTADOS DA AVALIAÇÃO DE RECRUTAMENTO
 (6163)STUCK COFFINS<==>ATAÚDES ATASCADOS-->CAIXÕES PRESOS
 (6164)THAWED BODIES<==>CUERPOS DESCONGELADOS-->CORPOS DESCONGELADOS
 (6165)STAND BY<==>EN ESPERA-->EM ESPERA
-(6166)Purchase an Online Pass if your original code has already been used.<==>Si tu código original ya se ha utilizado, adquiere un pase online.-->Compra um Passe On-line se o seu código original já foi usado.
+(6166)Purchase an Online Pass if your original code has already been used.<==>Si tu código original ya se ha utilizado, adquiere un pase online.-->Se seu código original já foi utilizado, compre um passe online. 
 (6167)Solid Viral Blue<==>Azul viral liso-->Azul Viral Sólido
-(6168)consumer demo unlock<==>desbloqueo de demo de consumidor-->desbloqueio do demo do consumidor
-(6169)The Triage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: a 5% increase in Stasis duration.\nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de selección ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de estabilización [c=RESET]: aumento del 5% en la duración de la estabilización. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje de Seleção concede uma funcionalidade única para quem o usa:\n• [c=CUSTOM3] Bônus de Estabilização [c=RESET]: um aumento de 5% na duração da Estabilização.\nSua compra garante um mínimo de 15 espaços de inventário e 15% blindagem. Seu DRI conserva a maior melhoria de blindagem e Inventário.
-(6170)Earthgov:  Good Things Are Happening!<==>Gobierno de la Tierra: ¡Están pasando cosas buenas!-->Governo da Terra:  Estão Passando Coisas Boas!
+(6168)consumer demo unlock<==>desbloqueo de demo de consumidor-->desbloqueio de demonstração do consumidor
+(6169)The Triage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: a 5% increase in Stasis duration.\nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de selección ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de estabilización [c=RESET]: aumento del 5% en la duración de la estabilización. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O traje de triagem oferece uma funcionalidade única para quem o usa:\n• [c=CUSTOM3] Bônus de estabilização [c=RESET]: aumento de 5% na duração da estabilização.\nSua compra garante um mínimo de 15 espaços de inventário e 15% blindagem. Seu DRI conserva a maior melhoria de blindagem e inventário.
+(6170)Earthgov:  Good Things Are Happening!<==>Gobierno de la Tierra: ¡Están pasando cosas buenas!-->Governo da Terra:   Coisas boas estão acontecendo!
 (6171)CALL ATTENDANT<==>LLAMAR A AYUDANTE-->CHAMAR ASSISTENTE
-(6172)Several Units Available<==>Varias unidades disponibles-->Várias Unidades Disponíveis
-(6173)Power Node Access Only<==>Acceso exclusivo con nodo de energía-->Acesso Exclusivo com Nodo de Energia
+(6172)Several Units Available<==>Varias unidades disponibles-->Várias unidades disponíveis
+(6173)Power Node Access Only<==>Acceso exclusivo con nodo de energía-->Acesso exclusivo com nodo de energia
 (6174)WARNING: DAMAGE DETECTED <==>ALERTA: DAÑOS DETECTADOS-->ALERTA: DANOS DETECTADOS 
-(6175)Authorized Engineers Only<==>Solo ingenieros autorizados-->Só Engenheiros Autorizados
-(6176)Authorized Engineers Only<==>Solo ingenieros autorizados-->Só Engenheiros Autorizados
-(6177)Employees Please Check In with Foreman<==>Los empleados deben presentarse al encargado-->Empregados, Por favor, apresentem-se ao Encarregado
-(6178)Authorized Engineers Only<==>Solo ingenieros autorizados-->Só Engenheiros Autorizados
-(6179)THIS AREA IS LOCKED DOWN<==>ESTA ZONA ESTÁ CERRADA-->ESTÁ ÁREA ESTÁ BLOQUEADA
-(6180)Trains Delayed. Limited Service Available.<==>Trenes retrasados. Servicio limitado disponible.-->Trens Atrasados. Serviço Limitado Disponível.
-(6181)Authorized Engineers Only<==>Solo ingenieros autorizados-->Só Engenheiros Autorizados
+(6175)Authorized Engineers Only<==>Solo ingenieros autorizados-->Somente engenheiros autorizados
+(6176)Authorized Engineers Only<==>Solo ingenieros autorizados-->Somente engenheiros autorizados
+(6177)Employees Please Check In with Foreman<==>Los empleados deben presentarse al encargado-->Os empregados devem se apresentar ao encarregado
+(6178)Authorized Engineers Only<==>Solo ingenieros autorizados-->Somente engenheiros autorizados
+(6179)THIS AREA IS LOCKED DOWN<==>ESTA ZONA ESTÁ CERRADA-->ESSA ÁREA ESTÁ BLOQUEADA
+(6180)Trains Delayed. Limited Service Available.<==>Trenes retrasados. Servicio limitado disponible.-->Trens atrasados. Serviço limitado disponível.
+(6181)Authorized Engineers Only<==>Solo ingenieros autorizados-->Somente engenheiros autorizados
 (6182)CALL ATTENDANT<==>LLAMAR A AYUDANTE-->CHAMAR ASSISTENTE
-(6183)CEC Employees Only<==>Solo empleados de CEC-->Só Empregados da CEC
-(6184)WARNING: SOLAR ARRAY IS OFFLINE<==>ATENCIÓN: EL PANEL SOLAR ESTÁ DESACTIVADO-->ALERTA: O PAINEL SOLAR ESTÁ DESATIVADO
-(6185)Cartridge of Rapid-ejection Bolts for the Rivet Gun.\n - Inventory Slot Stack Size: 30<==>Cartucho de roblones de eyección rápida para la remachadora.\n - Tamaño del bloque de ranuras de inventario: 30.-->Cartucho de Rebites de Ejeção Rápida para a Rebitadeira\n - Tamanho do Bloco de  espaço do Inventário: 30
+(6183)CEC Employees Only<==>Solo empleados de CEC-->Somente empregados da CEC
+(6184)WARNING: SOLAR ARRAY IS OFFLINE<==>ATENCIÓN: EL PANEL SOLAR ESTÁ DESACTIVADO-->ATENÇÃO: O PAINEL SOLAR ESTÁ DESATIVADO
+(6185)Cartridge of Rapid-ejection Bolts for the Rivet Gun.\n - Inventory Slot Stack Size: 30<==>Cartucho de roblones de eyección rápida para la remachadora.\n - Tamaño del bloque de ranuras de inventario: 30.-->Cartucho de rebites de ejeção rápida para a rebitadeira\n - Tamanho do bloco de  espaço de inventário: 30
 (6186)Shoot red tip to move objects.<==>Dispara a la espita roja para mover objetos.-->Atire na ponta vermelha para mover objetos.
 (6187-IGUAIS)1,000 Credits
-(6188)   Get to to the Tram Station.<==>Ve a la estación de monorraíl.-->Vá para a Estação de trem.
+(6188)   Get to to the Tram Station.<==>Ve a la estación de monorraíl.-->Vá para a estação de trem.
 (6189)escape<==>Huir-->fugir   
 (6190)IMPACT DETECTED<==>IMPACTO DETECTADO-->IMPACTO DETECTADO
 (6191)GUIDANCE SYSTEM MALFUNCTION<==>ERROR EN EL SISTEMA DE GUIADO-->ERRO NO SISTEMA DE ORIENTAÇÃO
 (6192)Xbox LIVE Marketplace<==>Bazar Xbox LIVE-->Xbox LIVE Marketplace
 (6193)///loading USG Ishumura Transnet module...<==>///cargando módulo Transnet del USG Ishimura...-->///carregando módulo Transnet da USG Ishumura...
-(6194)///welcome back Nicole Brennan\n////Senior Medical Officer \n<==>///bienvenida de nuevo, Nicole Brennan,\n////oficial médico superior\n-->///Bem-vinda de volta Nicole Brennan\n////Oficial Médica Superior\n
+(6194)///welcome back Nicole Brennan\n////Senior Medical Officer \n<==>///bienvenida de nuevo, Nicole Brennan,\n////oficial médico superior\n-->///Bem-vinda de volta, Nicole Brennan\n////Oficial médica superior\n
 (6195)//EARTH-EURASI-034-XC-350-036\n///call initiated...<==>//EARTH-EURASI-034-XC-350-036\n///llamada iniciada...-->//TERRA-EURASI-034-XC-350-036\n///chamada iniciada...
 (6196)////reticulating YenYen relaynet\n///Wright parabola opened\n//linking to Aegis relaynet\n///connection established\n///linking to Enceladus relaynet\n//connection established<==>////reticulando relaynet de YenYen\n///parábola Wright abierta\n//vinculando a relaynet de Aegis\n///conexión establecida\n///vinculando a relaynet de Enceladus\n//conexión establecida-->////reticulando relaynet de YenYen\n///parábola Wright aberta\n//vinculando a relaynet de Aegis\n///conexão estabelecida\n///vinculando a relaynet de Enceladus\n//conexão estabelecida
-(6197)//patching to recipient\n///Isaac Clarke\n//EARTH-EURASI-008-XC-350-036\n//Engineer<==>//conectando con destinatario\n///Isaac Clarke\n//EARTH-EURASI-008-XC-350-036\n//Ingeniero-->//conectando com o destinatário\n///Isaac Clarke\n//TERRA-EURASI-008-XC-350-036\n//Engenheiro
+(6197)//patching to recipient\n///Isaac Clarke\n//EARTH-EURASI-008-XC-350-036\n//Engineer<==>//conectando con destinatario\n///Isaac Clarke\n//EARTH-EURASI-008-XC-350-036\n//Ingeniero-->//conectando com destinatário\n///Isaac Clarke\n//TERRA-EURASI-008-XC-350-036\n//Engenheiro
 (6198)///linked<==>///vinculado-->///vinculado
 (6199)///connection established...<==>///conexión establecida...-->///conexão estabelecida...
 (6200)///begin communication<==>///iniciar comunicación-->///iniciar comunicação
