@@ -625,14 +625,14 @@
 (0625)CURRENCY<==>DIVISA-->DIVISA
 (0626)LINE RACKS<==>MUNICIÓN LINEAL-->MUNIÇÃO LINEAR
 (0627)--:--  3063 CASSINI TOWERS          CANCE  -----<==>--:--  TORRES CASSINI 3063          CANC.  ------->--:--  TORRES CASSINI 3063         CANC.  -----
-(0628)06:05  3224 GAMMA HUB               DELAY  ALPHA<==>06:05  NODO GAMMA 3224              RETR.  ALFA-->06:05  CENTRO GAMA 3224            ATRAS.  ALPHA
+(0628)06:05  3224 GAMMA HUB               DELAY  ALPHA<==>06:05  NODO GAMMA 3224              RETR.  ALFA-->06:05  ESTAÇÃO GAMA 3224            ATRAS.  ALPHA
 (0629)06:55  9001 TITAN ELEMENTARY        DELAY  ALPHA<==>06:55  PRIMARIA TITÁN 9001          RETR.  ALFA-->06:55  PRIMÁRIA TITÃ 9001          ATRAS.  ALPHA
-(0630)--:--  5783 BETA HUB                CANCE  -----<==>--:--  NODO BETA 5783               CANC.  ------->--:--  CENTRO BETA 5783            CANC.  -----
+(0630)--:--  5783 BETA HUB                CANCE  -----<==>--:--  NODO BETA 5783               CANC.  ------->--:--  ESTAÇÃO BETA 5783            CANC.  -----
 (0631)--:--  4366 ALTMAN PLAZA            CANCE  -----<==>--:--  PLAZA ALTMAN 4366            CANC.  ------->--:--  PLAZA ALTMAN 4366           CANC.  -----
 (0632)--:--  2242 SPOKE TRANSFER          CANCE  -----<==>--:--  CAMBIO DE RADIAL 242         CANC.  ------->--:--  RAIO DE TRANFER. 2242       CANC.  -----
-(0633)08:15  2243 GAMMA HUB RB352         DELAY  OMEGA<==>08:15  NODO GAMMA RB352 2243        RETR.  OMEGA-->08:15  CENTRO GAMMA RB352 224      ATRAS.  OMEGA
+(0633)08:15  2243 GAMMA HUB RB352         DELAY  OMEGA<==>08:15  NODO GAMMA RB352 2243        RETR.  OMEGA-->08:15  ESTAÇÃO GAMA RB352 224      ATRAS.  OMEGA
 (0634)--:--  4333 TITAN HEIGHTS           CANCE  -----<==>--:--  CUMBRES TITÁN 4333           CANC.  ------->--:--  REGIÕES ALTAS DE TITÃ 4333           CANC.  -----
-(0635)--:--  CONCOURSE DIST CENTRAL       CANCE  -----<==>--:--  CONCOURSE DIST. CENTRAL      CANC.  ------->--:--  CONCURSO DIST. CENTRAL      CANC.  -----
+(0635)--:--  CONCOURSE DIST CENTRAL       CANCE  -----<==>--:--  CONCOURSE DIST. CENTRAL      CANC.  ------->--:--  CONCOURSE DIST. CENTRAL      CANC.  -----
 (0636-IGUAIS)4
 (0637)Production Interns<==>Becarios de producción-->Produção interna
 (0638)credits<==>Créditos-->créditos
@@ -1118,12 +1118,12 @@
 (1118)Sorenson!  Do you read?  It's Kaleb, Shift 1!  Sorenson! !  Where are you man?  Where's your team?!  Ah hell, I'll leave you this in log mode, comms are down.  I hope you get this.  We're with Ellie Langford's group.  We can't wait, these creatures are right on us, and they won't stay down. You guys better be right behind us, we're leaving a swarm of angry dead body parts behind us.    Where are you guys?   <==>¡Sorenson! ¿Me recibes? ¡Aquí Kaleb, turno 1! ¡Sorenson! ¿Dónde estás, hombre? ¡¿Dónde está tu equipo?! Oh, dios, te dejaré esto en modo de registro; hemos perdido las comunicaciones. Espero que lo recibas. Estamos con el grupo de Ellie Langford. No podemos esperar, tenemos a las criaturas encima, y no se detendrán. Más vale que vengáis por detrás de nosotros. Vamos a dejar un montón de miembros y articulaciones cabreadas a nuestro paso. ¿Dónde estáis tíos?-->Sorenson! Está me ouvindo? Aqui é Kaleb, turno 1! Sorenson! Onde você está, homem? Onde está sua equipe? Oh, Deus, vou te deixar isso em modo de registro; perdemos as comunicações. Espero receba isso. Estamos com o grupo de Ellie Langford. Não podemos esperar, as criaturas estão em cima de nós, e elas não vão parar. É melhor você vir atrás de nós. Estamos deixando um monte de cadáveres furiosos atrás de nós. Onde vocês estão?
 (1119)No, no, I'll cover you while you make it.   They'll chase you down....before you can reach....the last bulkhead<==>No, no, yo te cubriré mientras avanzas. Te darán caza... antes de que llegues a... la última contención.-->Não, não, eu vou te cobrir enquanto você avança. Eles vão te caçar... antes que chegue até... a última contenção.
 (1120)12:05  3063 CASSINI TOWERS          DELAY  ALPHA<==>12:05  TORRES CASSINI 3063          RETR.  ALFA-->12:05  3063 TORRES CASSINI        ATRASADO  ALFA
-(1121)12:18  3224 GAMMA HUB               DELAY  ALPHA<==>12:18  NODO GAMMA 3224              RETR.  ALFA-->12:18  3224 CENTRO GAMMA            ATRASADO  ALFA
+(1121)12:18  3224 GAMMA HUB               DELAY  ALPHA<==>12:18  NODO GAMMA 3224              RETR.  ALFA-->12:18  3224 ESTAÇÃO GAMA            ATRASADO  ALFA
 (1122)01:05  9001 TITAN ELEMENTARY        DELAY  ALPHA<==>01:05  PRIMARIA TITÁN 9001          RETR.  ALFA-->01:05  9001 TITÃ PRIMÁRIO           ATRASADO  ALFA
-(1123)--:--  5783 BETA HUB                CANCE  -----<==>--:--  NODO BETA 5783               CANC.  ------->--:--  5783 CENTRO BETA                CANCELADO  -----
+(1123)--:--  5783 BETA HUB                CANCE  -----<==>--:--  NODO BETA 5783               CANC.  ------->--:--  5783 ESTAÇÃO BETA                CANCELADO  -----
 (1124)01:32  4366 ALTMAN PLAZA            DELAY  ALPHA<==>01:32  PLAZA ALTMAN 4366            RETR.  ALFA-->01:32  4366 PRAÇA ALTMAN             ATRASADO  ALFA
 (1125)01:32  2242 SPOKE TRANSFER          DELAY  ALPHA<==>01:32  CAMBIO DE RADIAL 2242        RETR.  ALFA-->01:32  2242 RAIO DE TRANSFERÊNCIA    ATRASADO  ALFA
-(1126)01:46  2243 GAMMA HUB RB352         DELAY  OMEGA<==>01:46  NODO GAMMA RB352 2243        RETR.  OMEGA-->01:46  2243 CENTRO GAMMA RB352      ATRASADO  OMEGA
+(1126)01:46  2243 GAMMA HUB RB352         DELAY  OMEGA<==>01:46  NODO GAMMA RB352 2243        RETR.  OMEGA-->01:46  2243 ESTAÇÃO GAMA RB352      ATRASADO  OMEGA
 (1127)02:00  4333 TITAN HEIGHTS           DELAY  ALPHA<==>02:00  CUMBRES TITÁN 4333           RETR.  ALFA-->02:00  4333 REGIÕES ALTAS DE TITÃ             ATRASADO  ALFA
 (1128)02:00  9305 CONCOURSE DIST CENTRAL  DELAY  BETA<==>02:00  CONCOURSE DIST. CENTRAL 9305 RETR.  BETA-->02:00  9305 TERMINAL DIST. CENTRAL    ATRASADO  BETA
 (1129)--:--  9271 GALILEO SQUARE          CANCE  -----<==>--:--  PLAZA GALILEO 9271           CANC.  ------->--:--  9271 PRAÇA GALILEU            CANCELADO  -----
@@ -1419,11 +1419,11 @@
 (1419)EVERYTHING YOU NEED TO BE PREPARED FOR CONVERGENCE<==>TODO LO QUE NECESITAS PARA ESTAR LISTO PARA LA CONVERGENCIA-->TUDO QUE VOCÊ PRECISA PARA ESTAR PRONTO PARA A CONVERGÊNCIA
 (1420)subtitles<==>Subtítulos-->Legendas
 (1421)Listen up, this is Sorensen from CEC.   Cut off their limbs!  It's the only way they go down!  It's their limbs, that's the secret!  Comms are down, we can't get a broadcast out, so tell everyone you see!  <==>Atención, aquí Sorenson, de CEC. ¡Cercenadles las extremidades! ¡Es la única forma de abatirlos! ¡Sus extremidades son el punto débil! ¡Hemos perdido las comunicaciones, no podemos transmitir, así que contádselo a todo el que veáis!-->Atenção, aqui é Sorensen, do CEC.   Corte seus membros! É a única maneira de abatê-los!  Seus membros são seu ponto fraco!  Perdemos as comunicações, não podemos transmitir, então diga isso a todos que encontrar!
-(1422)Strategically Dismember Your Friends In Multiplayer<==>Cercena estratégicamente a tus amigos en Multijugador-->Desmebre estrategicamente seus amigos no modo de vários jogadores
+(1422)Strategically Dismember Your Friends In Multiplayer<==>Cercena estratégicamente a tus amigos en Multijugador-->Desmebre estrategicamente seus amigos no modo vários jogadores
 (1423)any map<==>Cualquier mapa-->qualquer mapa
 (1424)ANY MAP<==>CUALQUIER MAPA-->QUALQUER MAPA
 (1425)pack<==>jauría-->matilha 
-(1426)Boris, you read me? The warehouse filter's been broken for 3 days.  THREE DAYS no one cares about us.  Damn supervisors, do you think they'd let those layoffs leave them breathing their own stink for 3 days?  Me and the guys worked out a deal with gamma sector repair shift, they'll sneak over here on their lunch break and help us out.  I need you to ghost out their RIG's while they're here.  Call me and confirm.  Hatchins out.<==>Boris, ¿me recibes? El filtro del almacén lleva 3 días roto. Hace TRES DÍAS que nadie se preocupa de nosotros. Malditos supervisores, ¿tú crees que a esos les dejarían respirando su propio hedor durante 3 días? Los chicos y yo hemos hecho un trato con el turno de reparación del sector gamma; vendrán hasta aquí en la hora de la comida y nos ayudarán a salir. Necesito que hagas desaparecer sus DRI mientras están aquí. Llámame para confirmar. Hatchins, corto.-->Boris, está me ouvindo? O filtro do armazém quebrou faz três dias.  Faz três dias que ninguém se preocupa conosco.  Malditos supervisores, você acha que eles ficariam respirando seu próprio fedor durante três dias?  Eu e os garotos fizemos um trato com o turno de reparação do setor gamma; eles virão aqui na sua hora de almoço e nos ajudarão a sair.  Preciso que você faça os DRI deles desaparecer enquanto estiverem aqui.  Me ligue para confirmar.  Hatchins, desligo.
+(1426)Boris, you read me? The warehouse filter's been broken for 3 days.  THREE DAYS no one cares about us.  Damn supervisors, do you think they'd let those layoffs leave them breathing their own stink for 3 days?  Me and the guys worked out a deal with gamma sector repair shift, they'll sneak over here on their lunch break and help us out.  I need you to ghost out their RIG's while they're here.  Call me and confirm.  Hatchins out.<==>Boris, ¿me recibes? El filtro del almacén lleva 3 días roto. Hace TRES DÍAS que nadie se preocupa de nosotros. Malditos supervisores, ¿tú crees que a esos les dejarían respirando su propio hedor durante 3 días? Los chicos y yo hemos hecho un trato con el turno de reparación del sector gamma; vendrán hasta aquí en la hora de la comida y nos ayudarán a salir. Necesito que hagas desaparecer sus DRI mientras están aquí. Llámame para confirmar. Hatchins, corto.-->Boris, está me ouvindo? O filtro do armazém quebrou faz três dias.  Faz três dias que ninguém se preocupa conosco.  Malditos supervisores, você acha que eles ficariam respirando seu próprio fedor durante três dias?  Eu e os garotos fizemos um trato com o turno de reparação do setor gama; eles virão aqui na sua hora de almoço e nos ajudarão a sair.  Preciso que você faça os DRI deles desaparecer enquanto estiverem aqui.  Me ligue para confirmar.  Hatchins, desligo.
 (1427)Where did those patients go?<==>¿Dónde están esos pacientes?-->Para onde esses pacientes foram?
 (1428)Tests? What kind of tests?<==>¿Pruebas? ¿Qué clase de pruebas?-->Avaliações? Que tipo de avaliações?
 (1429)      Disable the security mainframe.<==>Desactiva el ordenador central de seguridad.-->      Desative o servidor da segurança.
@@ -5352,7 +5352,7 @@
 (5351)SMALL CURRENCY<==>DIVISA PEQUEÑA-->DIVISA PEQUENA
 (5352)brightness<==>Brillo-->Brilho
 (5353)Studio CTO<==>Director tecnológico del estudio-->Diretor Tecnológico do Estúdio
-(5354)Your free trial has been activated. Multiplayer content is available for {d} days.<==>Tu versión de prueba gratuita se ha activado. El contenido multijugador estará disponible durante {d} días.-->Sua versão de avaliação gratuita foi ativada. O conteúdo multijogador estará disponível durante {d} dias.
+(5354)Your free trial has been activated. Multiplayer content is available for {d} days.<==>Tu versión de prueba gratuita se ha activado. El contenido multijugador estará disponible durante {d} días.-->Sua versão de avaliação gratuita foi ativada. O conteúdo de vários jogadores estará disponível durante {d} dias.
 (5355)(click and hold [RStick])<==>(hacer clic y mantener [RStick])-->(pressione e segure [RStick])
 (5356-IGUAIS)Rick Dimond
 (5357-IGUAIS)total
@@ -5915,7 +5915,7 @@
 (5914)start matchmaking<==>Iniciar Matchmaking-->Procurar partida
 (5915) Dan Morris<==> Dan Morris--> Dan Morris
 (5916-IGUAIS)Mindwalk Studios
-(5917)Are you sure you want to quit? You will lose your multiplayer progress.<==>¿Seguro que quieres salir?\nPerderás tus progresos en Multijugador.-->Tem certeza que quer sair? Você vai perder seu progresso no modo multijogador.
+(5917)Are you sure you want to quit? You will lose your multiplayer progress.<==>¿Seguro que quieres salir?\nPerderás tus progresos en Multijugador.-->Tem certeza que quer sair? Você vai perder seu progresso no modo vários jogadores.
 (5918)plasma cutter<==>Cortadora de plasma-->cortadora de plasma
 (5919)Play Dead Space¬ 2<==>Jugar a Dead Space¬ 2-->Jogar Dead Space¬ 2
 (5920-IGUAIS)0
@@ -6110,7 +6110,7 @@
 (6109)CENTRIFUGE HINT<==>PISTA DE CENTRIFUGADORA-->DICA DA CENTRIFUGADORA
 (6110)POST PUZZLE COMPLETION<==>TRAS LA RESOLUCIÓN DEL ROMPECABEZAS-->APÓS A RESOLUÇÃO DO QUEBRA-CABEÇA
 (6111)Increases Inventory slots and Armor.<==>Aumenta las ranuras del inventario y el blindaje.-->Aumenta os espaços do inventário e a blindagem.
-(6112)//multiplayer<==>//Multijugador-->//multijogador
+(6112)//multiplayer<==>//Multijugador-->//vários jogadores
 (6113)   Align the Solar Array panels.<==>Alinea los espejos del panel solar.-->   Alinhe os espelhos do painel solar.
 (6114-IGUAIS)N/A
 (6115)START THE ENGINE SEQUENCE<==>INICIAR SECUENCIA DEL MOTOR-->INICIAR SEQUÊNCIA DO MOTOR
@@ -6147,7 +6147,7 @@
 (6146-IGUAIS){g}/{h}
 (6147)LOCKDOWN<==>BLOQUEO-->BLOQUEIO
 (6148)Senior Technical Artists<==>Diseñadores técnicos sénior-->Artistas Técnicos Sênior
-(6149)Personal Log: Howard Phillips\nRecord number: 497\n\nThey hate me.  They all hate me.   I can see them all.  They're everywhere now, just perched, watching me.   Even ANTI.  She's just waiting until old Howards Phillips finally goes crazy and snaps, like he did when he let the birds out, violated all the codes, broke all the rules.   I'll show them crazy, I'll show them what it takes to get out of here.  They'll have to come up here and clean up all this blood, and then what rules will they make?  I'll break those too.  I'm going to go lay down, I don't feel right. <==>Registro personal: Howard Phillips\nNúmero de registro: 497\n\nMe odian. Todos me odian. Los veo a todos. Están por todas partes, encaramados, observándome. Hasta ANTI. Está esperando a que el viejo Howards Phillips se vuelva loco y estalle, como hizo cuando liberó a los pájaros, violó todos los códigos y rompió todas las reglas. Pues les daré locura, les enseñaré qué hace falta para salir de aquí. Tendrán que venir y limpiar toda esta sangre, y entonces, ¿qué nuevas reglas crearán? También las romperé. Voy a echarme, no me encuentro bien.-->Registro Pessoal: Howard Phillips\nNúmero de registro: 497\n\nEles me odeiam.  Todos eles me odeiam.   Posso ver todos eles.  Estão por toda parte, empoleirados, só me observando.   Até a ANTI.  Ela só está esperando que o velho Howards Phillips, finalmente fique louco e diga rispidamente, como ele fez quando ele soltou os pássaros, violou todos os códigos, quebrou todas as regras.   Eu lhes darei loucura, lhes ensinarei o que é preciso para sair daqui.  Eles terão que vir aqui e limpar todo esse sangue, e então, que regras eles criarão?  Eu quebrarei essas também.  Eu vou ficar deitado, eu não me sinto bem. 
+(6149)Personal Log: Howard Phillips\nRecord number: 497\n\nThey hate me.  They all hate me.   I can see them all.  They're everywhere now, just perched, watching me.   Even ANTI.  She's just waiting until old Howards Phillips finally goes crazy and snaps, like he did when he let the birds out, violated all the codes, broke all the rules.   I'll show them crazy, I'll show them what it takes to get out of here.  They'll have to come up here and clean up all this blood, and then what rules will they make?  I'll break those too.  I'm going to go lay down, I don't feel right. <==>Registro personal: Howard Phillips\nNúmero de registro: 497\n\nMe odian. Todos me odian. Los veo a todos. Están por todas partes, encaramados, observándome. Hasta ANTI. Está esperando a que el viejo Howards Phillips se vuelva loco y estalle, como hizo cuando liberó a los pájaros, violó todos los códigos y rompió todas las reglas. Pues les daré locura, les enseñaré qué hace falta para salir de aquí. Tendrán que venir y limpiar toda esta sangre, y entonces, ¿qué nuevas reglas crearán? También las romperé. Voy a echarme, no me encuentro bien.-->Registro Pessoal: Howard Phillips\nNúmero de registro: 497\n\nEles me odeiam.  Todos eles me odeiam.   Posso ver todos eles.  Estão por toda parte, empoleirados, me observando.   Até a ANTI.  Ela só está esperando que o velho Howards Phillips fique louco e surte, como ele fez quando soltou os pássaros, violou todos os códigos e quebrou todas as regras.   Pois eu lhes darei loucura, lhes ensinarei o que é preciso para sair daqui.  Eles terão que vir aqui e limpar todo esse sangue, e então, que regras eles criarão?  Eu também quebrarei essas regras.  Vou me deitar, não estou me sentindo bem. 
 (6150)FLASH LIGHT<==>LINTERNA-->LANTERNA
 (6151)+{n} TRIPLE KILL<==>+{n} BAJA TRIPLE-->+{n} BAIXA TRIPLA
 (6152-IGUAIS),
@@ -6199,8 +6199,8 @@
 (6198)///linked<==>///vinculado-->///vinculado
 (6199)///connection established...<==>///conexión establecida...-->///conexão estabelecida...
 (6200)///begin communication<==>///iniciar comunicación-->///iniciar comunicação
-(6201)This suit features lightweight state-of-the art protective armor, resistant to concussive damage and lacerations.  It offers damage mitigation of 10% and can carry 15 items.<==>Este traje incorpora un blindaje protector de vanguardia muy ligero, y resistente a golpes y laceraciones. Mitiga los daños en un 10% y permite llevar 15 objetos.-->Este traje incorpora uma blindagem protetora muito leve, resistente a golpes e lacerações. Dispõe de mitigação de danos de 10% e pode transportar 15 objetos.
-(6202)Titan Memorial Medical Center<==>Centro médico conmemorativo Titán-->Centro Médico Memorial Titã
+(6201)This suit features lightweight state-of-the art protective armor, resistant to concussive damage and lacerations.  It offers damage mitigation of 10% and can carry 15 items.<==>Este traje incorpora un blindaje protector de vanguardia muy ligero, y resistente a golpes y laceraciones. Mitiga los daños en un 10% y permite llevar 15 objetos.-->Esse traje incorpora uma blindagem protetora muito leve, resistente a golpes e lacerações. Mitiga os danos em 10% e permite transportar 15 objetos.
+(6202)Titan Memorial Medical Center<==>Centro médico conmemorativo Titán-->Centro médico memorial Titã
 (6203-IGUAIS)û
 (6204-IGUAIS)b
 (6205-IGUAIS)Û
@@ -6209,19 +6209,19 @@
 (6208)VALUE<==>VALOR-->VALOR
 (6209)[LDLeft]NAVIGATE        [MenuA]SELECT        [MenuB]BACK<==>[LDLeft]NAVEGAR     [MenuA]SELEC.     [MenuB]ATRÁS-->[LDLeft]Navegar        [MenuA]Selecionar        [MenuB]Voltar
 (6210)CEO<==>Director General-->Diretor Geral
-(6211)Attention: All transportation to and from Government Sector has been cancelled.   All transports along Public Sector loops A and B are reporting delays of 1 hour or more.   Gamma station is reporting closed.  <==>Atención: todos los transportes hacia y desde el sector gubernamental se han cancelado. Los desplazamientos entre los circuitos de sector público A y B experimentan retrasos de 1 hora o más. La estación gamma está cerrada.-->Atenção: Todos os transportes até e para o Setor Governamental foram cancelados.   Todos os transportes entre os circuitos do Setor Público A e B estão relatando atrasos de 1 hora ou mais.   A Estação Gama está fechada.
+(6211)Attention: All transportation to and from Government Sector has been cancelled.   All transports along Public Sector loops A and B are reporting delays of 1 hour or more.   Gamma station is reporting closed.  <==>Atención: todos los transportes hacia y desde el sector gubernamental se han cancelado. Los desplazamientos entre los circuitos de sector público A y B experimentan retrasos de 1 hora o más. La estación gamma está cerrada.-->Atenção: todos os transportes até e para o setor governamental foram cancelados.   Todos os deslocamentos entre os circuitos do setor público A e B estão estão com atrasos de 1 hora ou mais.   A estação Gama está fechada.
 (6212)COO, EA Games<==>Director de operaciones de EA Games-->Diretor de Operações da EA Games
-(6213)The game you attempted to join is not available at the moment.<==>La partida a la que has intentado unirte no está disponible en este momento.-->O jogo que você tentou se unir não está disponível no momento.
+(6213)The game you attempted to join is not available at the moment.<==>La partida a la que has intentado unirte no está disponible en este momento.-->A partida que você tentou se unir não está disponível no momento.
 (6214)BLOODY FLAMETHROWER<==>LANZALLAMAS SANGRIENTO-->LANÇA-CHAMAS SANGRENTO
 (6215)FORCE GUN<==>CAÑÓN DE ENERGÍA-->CANHÃO DE ENERGIA
 (6216)TERRACE<==>TERRAZA-->TERRAÇO
 (6217-IGUAIS)1
-(6218)//alignment \ncompromised\n \n//please call \nengineer<==>//alineación \ncomprometida\n \n//llame a un \ningeniero-->//alinhamento \ncomprometido\n \n//por favor, chame um \nengenheiro
+(6218)//alignment \ncompromised\n \n//please call \nengineer<==>//alineación \ncomprometida\n \n//llame a un \ningeniero-->//alinhamento \ncomprometido\n \n//por favor chame um \nengenheiro
 (6219)insert disc<==>Insertar disco-->insira o disco
-(6220)Energy Cartridge for the C99 Supercollider Contact Beam.\n - Inventory Slot Stack Size: 6<==>Cartucho de energía para el rayo de contacto C99 Supercollider.\n - Tamaño del bloque de ranuras de inventario: 6-->Cartucho de Energia para o Raio de Contato C99 Supercollider.\n - Tamanho do Bloco de espaço do Inventário: 6
+(6220)Energy Cartridge for the C99 Supercollider Contact Beam.\n - Inventory Slot Stack Size: 6<==>Cartucho de energía para el rayo de contacto C99 Supercollider.\n - Tamaño del bloque de ranuras de inventario: 6-->Cartucho de energia para o raio de contato C99 Supercollider.\n - Tamanho do bloco de espaços do inventário: 6
 (6221-IGUAIS)[RDDown]
-(6222)you now have the ability to equip the pulse rifle\nprimary fire: high rate of fire assault rifle\nalternate fire: explosive projectile<==>Ahora ya puedes equipar el rifle de impulsos\ndisparo principal: rifle de asalto con elevado índice de disparo\ndisparo secundario: proyectil explosivo-->Agora você pode equipar o rifle de pulso\ndisparo primário: rifle de assalto com alta taxa de tiros de disparo\ndisparo secundário: projéctil explosivo
-(6223)Detailed instructions for setting a new password have been sent to the following email address: {e}<==>Se han enviado instrucciones detalladas para establecer una nueva contraseña a la siguiente dirección de correo electrónico: {e}-->Instruções detalhadas para definir uma nova senha foram enviados para o seguinte endereço: {e}
+(6222)you now have the ability to equip the pulse rifle\nprimary fire: high rate of fire assault rifle\nalternate fire: explosive projectile<==>Ahora ya puedes equipar el rifle de impulsos\ndisparo principal: rifle de asalto con elevado índice de disparo\ndisparo secundario: proyectil explosivo-->Você agora pode equipar o rifle de impulsos\ndisparo primário: rifle de assalto com elevado índice de disparo\ndisparo secundário: projétil explosivo
+(6223)Detailed instructions for setting a new password have been sent to the following email address: {e}<==>Se han enviado instrucciones detalladas para establecer una nueva contraseña a la siguiente dirección de correo electrónico: {e}-->Foram enviadas instruções detalhadas de como definir uma nova senha para o seguinte endereço de correio eletrônico: {e}
 (6224)POWERING UP<==>ACTIVANDO-->ATIVANDO
 (6225-IGUAIS)ñ
 (6226-IGUAIS)g
@@ -6229,23 +6229,23 @@
 (6228-IGUAIS)Justin Holst
 (6229-IGUAIS)Ñ
 (6230-IGUAIS)G
-(6231)Welcome Back!<==>¡Bienvenido de nuevo!-->Bem-vindo de novo!
+(6231)Welcome Back!<==>¡Bienvenido de nuevo!-->Bem-vindo de volta!
 (6232-IGUAIS)2
 (6233)///load slot selection<==>///Selección de ranura de carga-->///Seleção de espaço de carga
 (6234)initializing....<==>Iniciando...-->inicializando....
 (6235-IGUAIS)Zebra Industries
 (6236)Wai-Lao Division<==>División Wai-Lao-->Divisão Wai-Lao
 (6237)Wanat_Build-0827<==>Compilación_Wanat-0827-->Copilação_Wanat-0827
-(6238)Secure Firewall Systems<==>Sistemas de cortafuegos seguros-->Sistemas Contra-fogo Seguro
+(6238)Secure Firewall Systems<==>Sistemas de cortafuegos seguros-->Sistemas de firewall seguro
 (6239)Unlocked at level 26<==>Desbloqueado en el nivel 26-->Desbloqueado no nível 26
-(6240)Weller battles across the Sprawl and the Oracle's ship to try and save Lexine.<==>Weller combate en El Eje y la nave del oráculo para intentar rescatar a Lexine.-->Weller luta através do Sprawl e a nave do Oracle para tentar salvar Lexine.
+(6240)Weller battles across the Sprawl and the Oracle's ship to try and save Lexine.<==>Weller combate en El Eje y la nave del oráculo para intentar rescatar a Lexine.-->Weller luta no Eixo e a nave do oráculo para tentar salvar Lexine.
 (6241)purchase<==>Comprar-->Comprar
 (6242-IGUAIS)Matt Christmann
 (6243)stereo<==>Estéreo-->Estéreo
-(6244)you now have the ability to equip the force gun\nprimary fire: conical force blast\nalternate fire: condensed force blast<==>Ahora ya puedes equipar el cañón de energía\ndisparo principal: ráfaga de energía cónica\ndisparo secundario: ráfaga de energía condensada-->Agora você já pode equipar o canhão de energia\ndisparo primário: explosão de energia cônica\ndisparo secundário: explosão de energia condensada
+(6244)you now have the ability to equip the force gun\nprimary fire: conical force blast\nalternate fire: condensed force blast<==>Ahora ya puedes equipar el cañón de energía\ndisparo principal: ráfaga de energía cónica\ndisparo secundario: ráfaga de energía condensada-->Você agora já pode equipar o canhão de energia\ndisparo primário: rajada de energia cônica\ndisparo secundário: rajada de energia condensada
 (6245)VENT WARNING<==>ALERTA EN EL RESPIRADERO-->ALERTA NO RESPIRADOURO
 (6246)Bring this schematic to the store to unlock the Force Gun.<==>Lleva este diagrama al almacén para desbloquear el cañón de energía.-->Leve esse diagrama até a loja para desbloquear o canhão de energia.
-(6247)TESTING CENTER<==>CENTRO DE PRUEBAS-->CENTRO DE avaliaçãoS
+(6247)TESTING CENTER<==>CENTRO DE PRUEBAS-->CENTRO DE TESTES
 (6248)Press [RDDown]<==>Pulsa [RDDown].-->Pressione [RDDown]
 (6249)[Death is not the end.]<==>[La muerte no es el final.]-->[A morte não é o fim.]
 (6250)Production<==>Producción-->Produção
@@ -6370,7 +6370,7 @@
 (6369-IGUAIS)@
 (6370-IGUAIS)@
 (6371)invite friends<==>Invitar Amigos-->Convidar amigos
-(6372)Multiplayer Setup description.<==>Descripción de configuración multijugador.-->Descrição de configuração Multi-jogadores
+(6372)Multiplayer Setup description.<==>Descripción de configuración multijugador.-->Descrição de configuração vários jogadores
 (6373)Sprawl Security Maroon Suit<==>Traje de seguridad del Eje granate-->Eixo de Segurança de granada do Traje
 (6374)FEEDING SYSTEM<==>S. ALIMENTACIÓN-->SISTEMA DE ALIMENTAÇÃO
 (6375-IGUAIS)10
@@ -6451,7 +6451,7 @@
 (6450)///stereo<==>///Estéreo-->///Estéreo
 (6451-IGUAIS)///5.1 surround
 (6452)ALL ARE WELCOME<==>TODO EL MUNDO ES BIENVENIDO-->TODOS SÃO BEM VINDOS
-(6453)Are you sure you want to quit?  Choosing 'Yes' will remove all players from the match and end the session. You will lose your multiplayer progress.<==>¿Seguro que quieres salir? Si eliges "Sí" se retirará a todos los jugadores de la partida y se finalizará la sesión. Perderás todos tus progresos de multijugador.-->Tem certeza que quer sair?  Escolhendo 'Sim' irá remover todos os players da partida e irá encerrar a seção. E você irá perder todo o progresso no multiplayer.
+(6453)Are you sure you want to quit?  Choosing 'Yes' will remove all players from the match and end the session. You will lose your multiplayer progress.<==>¿Seguro que quieres salir? Si eliges "Sí" se retirará a todos los jugadores de la partida y se finalizará la sesión. Perderás todos tus progresos de multijugador.-->Tem certeza que quer sair?  Escolhendo 'Sim' irá remover todos os players da partida e irá encerrar a seção. E você irá perder todo o progresso do modo vários jogadores.
 (6454)AUDIO TRANSMISSION<==>TRANSM. DE AUDIO-->TRANSMISÃO DE ÁUDIO
 (6455-IGUAIS)1
 (6456)      Welcome to Shopping Warren A14: Holleran Transport Hub, Titan Elementary School, Toy Toy, Fashion Kid, Trixie's<==>      Bienvenido a Compras Warren A14: Nodo de transporte alfa, Escuela de Enseñanza Primaria Titán, Juega juega, Niños fashion, Trixie's-->      Bem-vindo ao shopping Warren A14: Holleran Transport centro, Titã Elementary School, Toy Toy, Fashion Kid, Trixie's
@@ -6581,9 +6581,9 @@
 (6580)Executions on low health Humans are very effective, and will often kill them.<==>Las ejecuciones resultan muy eficaces en humanos con poca salud; en muchas ocasiones los matarán.-->Execuções em Humanos já com pouca saúde são muito efetivas e quase sempre os matará.
 (6581)Use TK on pick-up items in MP to quickly acquire them.<==>En el modo multijugador, usa la cinética sobre los objetos para recogerlos rápidamente.-->Use o TK em items que podem ser recolhidos para pega-los rápidamente.
 (6582)Don't forget to use the alternate fire on each of your weapons.<==>No olvides usar el disparo secundario de cada una de tus armas.-->Não esqueça de usar o disparo alternativo existente em cada arma.
-(6583)As you level up in Multiplayer you will unlock new weapons, upgrades, as well as suit skins.<==>A medida que subas de nivel en Multijugador, desbloquearás nuevas armas, mejoras y revestimientos de trajes.-->Ao passo que seu nível no Multijogador sobre você desbloqueará novas armas, melhorias com também novas blindagems.
+(6583)As you level up in Multiplayer you will unlock new weapons, upgrades, as well as suit skins.<==>A medida que subas de nivel en Multijugador, desbloquearás nuevas armas, mejoras y revestimientos de trajes.-->Ao passo que seu nível no modo vários jogadores sobre você desbloqueará novas armas, melhorias com também novas blindagems.
 (6584)The Pack has a very effective melee, slash away!<==>La jauría tiene un ataque cuerpo a cuerpo muy eficaz: ¡reparte tajos!-->A matilha tem um ataque muito efetivo, estraça-lhe os!
-(6585)Stasis is crucial in MP - fire it at your enemies to slow them down and then dismember at will.<==>La estabilización resulta crucial en el modo multijugador; utilízala contra tus enemigos para frenarlos y cercenarlos a tu antojo.-->Estase é crucial no Multijogador - atire-a nos seus inimigos para deixa-los mais lentos de forma a poder desmembra-los.
+(6585)Stasis is crucial in MP - fire it at your enemies to slow them down and then dismember at will.<==>La estabilización resulta crucial en el modo multijugador; utilízala contra tus enemigos para frenarlos y cercenarlos a tu antojo.-->Estase é crucial no modo vários jogadores - atire-a nos seus inimigos para deixa-los mais lentos de forma a poder desmembra-los.
 (6586)pause menu<==>menú de pausa-->menu de pausa
 (6587-IGUAIS)Ian Patterson
 (6588-IGUAIS)Brent A. Thale
@@ -6614,7 +6614,7 @@
 (6613-IGUAIS)America Young
 (6614)Tools<==>Herramientas-->Ferramentas
 (6615)prevent the destruction of the initial marker<==>Evita la destrucción de la primera Efigie.-->impeça a destruição do marcador inicial
-(6616)Multiplayer<==>Multijugador-->Multijogador
+(6616)Multiplayer<==>Multijugador-->Vários jogadores
 (6617)A SAFE PLACE<==>UN LUGAR SEGURO-->UM LOCAL SEGURO
 (6618)WATCH YOUR BACK<==>CUIDADO-->ATENÇÃO NA RETAGUARDA
 (6619)BLOCKED AGAIN<==>NUEVO BLOQUEO-->BLOQUEADO NOVAMENTE
