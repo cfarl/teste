@@ -6255,29 +6255,29 @@
 (6254)COMPOUND PROCESSING<==>PROCESAMIENTO DEL COMPUESTO-->PROCESSAMENTO DE COMPOSTOS
 (6255)reset the transformer console to restore power<==>Reinicia la consola del transformador para restablecer la energía.-->Reinicie o console do transformador para restabelecer a energia
 (6256)QA Testers<==>Pruebas de control de calidad-->Teste de Controle de Qualidade
-(6257)A sign-in change occurred. You are now being returned to the title screen.<==>Se ha producido un cambio en el inicio de sesión. Volviendo a la pantalla del título.-->Ocorreu uma mudança de início de sessão. Você retornará ao Menu Principal.
-(6258)Contact Energy Schematic<==>Diagrama de energía de contacto-->Diagrama de Energia de Contato
+(6257)A sign-in change occurred. You are now being returned to the title screen.<==>Se ha producido un cambio en el inicio de sesión. Volviendo a la pantalla del título.-->Ocorreu uma mudança no início da sessão. Você agora está retornando ao menu principal.
+(6258)Contact Energy Schematic<==>Diagrama de energía de contacto-->Diagrama de energia de contato
 (6259)Senior Programmer<==>Programador sénior-->Progrmador Sênior
 (6260-IGUAIS)[menuA]
 (6261-IGUAIS)[RDRight]
 (6262-IGUAIS)[RDLeft]
 (6263-IGUAIS)[RDUp]
-(6264)OFF LINE<==>APAGADO-->DESCONECTADO
-(6265)Oxygen Plant Entrance<==>Entrada planta de oxígeno-->Entrada da Instalação de Oxigênio
+(6264)OFF LINE<==>APAGADO-->DESLIGADO
+(6265)Oxygen Plant Entrance<==>Entrada planta de oxígeno-->Entrada da instalação de oxigênio
 (6266)AUDIO LOG FOUND.\nPress [Select] to play.<==>REGISTRO DE AUDIO ENCONTRADO.\nPulsa [Select] para escucharlo.-->REGISTRO DE ÁUDIO ENCONTRADO.\nPressione [Select] para escutar.
-(6267)Thermal Scanning Room Access<==>Acceso a sala de escáner térmico-->Acesso à Sala de Escáner Térmico
-(6268)Thermal Scanning Room Access<==>Acceso a sala de escáner térmico-->Acesso à Sala de Escáner Térmico
-(6269)Mining Hall B Access<==>Acceso a pabellón minero B-->Acesso ao Pavilhão de Extração B
-(6270)Secure Storage<==>Almacén seguro-->Depósito Seguro
-(6271)Mining Hall B Access<==>Acceso a pabellón minero B-->Acesso ao Pavilhão de Extração B
-(6272)Main Mine Access<==>Acceso a mina principal-->Acesso a Mina Principal
-(6273)To Exploration Mine Elevator<==>A ascensor de mina de prospección-->Para o Elevador da Mina de Exploração
-(6274)To Exploration Mine Elevator<==>A ascensor de mina de prospección-->Para o Elevador da Mina de Exploração
-(6275)Elevator to Exploration Mine<==>Ascensor a mina de prospección-->Elevador da Mina de Exploração
-(6276)Exploration Mine Access<==>Acceso a mina de prospección-->Acesso a Mina de Exploração
-(6277)Exploration Mine<==>Mina de prospección-->Mina de Exploração
+(6267)Thermal Scanning Room Access<==>Acceso a sala de escáner térmico-->Acesso à sala de escaneamento térmico
+(6268)Thermal Scanning Room Access<==>Acceso a sala de escáner térmico-->Acesso à sala de escaneamento térmico
+(6269)Mining Hall B Access<==>Acceso a pabellón minero B-->Acesso ao pavilhão de extração B
+(6270)Secure Storage<==>Almacén seguro-->Depósito seguro
+(6271)Mining Hall B Access<==>Acceso a pabellón minero B-->Acesso ao pavilhão de extração B
+(6272)Main Mine Access<==>Acceso a mina principal-->Acesso à mina principal
+(6273)To Exploration Mine Elevator<==>A ascensor de mina de prospección-->Para o elevador da mina de exploração
+(6274)To Exploration Mine Elevator<==>A ascensor de mina de prospección-->Para o elevador da mina de exploração
+(6275)Elevator to Exploration Mine<==>Ascensor a mina de prospección-->Elevador para a mina de exploração
+(6276)Exploration Mine Access<==>Acceso a mina de prospección-->Acesso à mina de exploração
+(6277)Exploration Mine<==>Mina de prospección-->Mina de exploração
 (6278)GRAVITY PLATES<==>PLACAS GRAVITATORIAS-->PLACAS GRAVITACIONAIS
-(6279)Use Kinesis to attach Thrusters to objects.<==>Utiliza la cinética para acoplar los propulsores a objetos.-->Use a Cinética para acoplar os propulsores aos objetos.
+(6279)Use Kinesis to attach Thrusters to objects.<==>Utiliza la cinética para acoplar los propulsores a objetos.-->Use a cinética para acoplar os propulsores aos objetos.
 (6280)DISMEMBERMENT<==>DESMEMBRAMIENTO-->DESMEMBRAMENTO
 (6281)SESSION NOTES<==>NOTAS DE LA SESIÓN-->NOTAS DA SESSÃO
 (6282)FINAL REPORT<==>INFORME FINAL-->RELATÓRIO FINAL
@@ -6290,11 +6290,11 @@
 (6289)[MenuA]CONTINUE<==>[MenuA]CONTINUAR-->[MenuA]CONTINUAR
 (6290)MAX LOAD:<==>MÁXIMO:-->CARGA MÁXIMA:
 (6291)CARGO LIFT<==>ELEVADOR DE CARGA-->ELEVADOR DE CARGA
-(6292)Gunship Launch Control<==>Control de despegue de nave-->Controle de Lançamento de Nave
+(6292)Gunship Launch Control<==>Control de despegue de nave-->Controle de decolagem da nave
 (6293-IGUAIS)Dominic DeMartini
 (6294-IGUAIS)Yara Khoury
-(6295)checking saved games...<==>Comprobando partidas guardadas...-->Checando jogos salvos...
-(6296)VP Public Relations EA Games Label<==>Vicepresidente de relaciones públicas del sello EA Games-->Vice-presidente de Relações Públicas do Selo EA Games
+(6295)checking saved games...<==>Comprobando partidas guardadas...-->Verificando jogos salvos...
+(6296)VP Public Relations EA Games Label<==>Vicepresidente de relaciones públicas del sello EA Games-->Vice-presidente de Relações Públicas da EA Games
 (6297)Producers<==>Productores-->Produtores
 (6298)Senior Tester<==>Pruebas sénior-->Testador Sênior
 (6299)CANCEL<==>CANCELAR-->CANCELAR
@@ -6302,37 +6302,37 @@
 (6301)IN USE<==>EN USO-->EM USO
 (6302)ADVANCED SUIT<==>TRAJE AVANZADO-->TRAJE AVANÇADO
 (6303)video_log_6_1<==>video_log_6_13Åàe-->video_log_6_1
-(6304)(press twice)<==>(pulsar dos veces)-->(apertar duas vezes)
-(6305)Volatile chemical mixture.<==>Compuesto químico volátil.-->Composto Químico Volátil.
-(6306)Vintage Suit Schematic<==>Diagrama de traje vintage-->Diagrama de Traje Vintage
+(6304)(press twice)<==>(pulsar dos veces)-->(pressionar duas vezes)
+(6305)Volatile chemical mixture.<==>Compuesto químico volátil.-->Composto químico volátil.
+(6306)Vintage Suit Schematic<==>Diagrama de traje vintage-->Diagrama de Traje vintage
 (6307)pulse rifle III<==>rifle de impulsos III-->rifle de impulsos III
 (6308)Chapter 6<==>Capítulo 6-->Capítulo 6 - Companhia Relutante
-(6309)prevent the humans from overriding the activation switch<==>Evita que los humanos anulen el interruptor de activación.-->Evita que os humanos destruam o interruptor de ativação
-(6310)Gabe?  It's Lexine.  Gabe, when will you get here?  I broke free but there's nowhere safe to run!  What's going on?   I hear screaming all around me.  This is just like the Ishimura, back at Aegis VII!  How can this be happening again?   Hurry Gabe, I don't know how long I can last here!<==>¿Gabe? Soy Lexine. Gabe, ¿cuándo tienes pensado llegar? ¡Me he liberado, pero no hay ningún lugar seguro al que ir! ¿Qué ocurre? Oigo gritos a mi alrededor. ¡Es como en el Ishimura, en Aegis VII! No puede ser que esté volviendo a pasar... ¡Date prisa, Gabe, no sé cuánto tiempo aguantaré con vida aquí!-->Gabe?  É Lexine.  Gabe, quando você chegará aqui?  Eu estou livre, mas não há nenhum lugar seguro para ir!  O que está acontecendo?   Eu ouço gritos à minha volta.  Isto é como no Ishimura, no Aegis VII!  Como isso pode estar acontecendo de novo?   Depressa Gabe, eu não sei quanto tempo aguentarei aqui!
-(6311)Gabe?  It's Lexine.  Gabe, when will you get here?  I broke free but there's nowhere safe to run!  What's going on?   I hear screaming all around me.  This is just like the Ishimura, back at Aegis VII!  How can this be happening again?   Hurry Gabe, I don't know how long I can last here!<==>¿Gabe? Soy Lexine. Gabe, ¿cuándo tienes pensado llegar? ¡Me he liberado, pero no hay ningún lugar seguro al que ir! ¿Qué ocurre? Oigo gritos a mi alrededor. ¡Es como en el Ishimura, en Aegis VII! No puede ser que esté volviendo a pasar... ¡Date prisa, Gabe, no sé cuánto tiempo aguantaré con vida aquí!-->Gabe?  É Lexine.  Gabe, quando você chegará aqui?  Eu estou livre, mas não há nenhum lugar seguro para ir!  O que está acontecendo?   Eu ouço gritos à minha volta.  Isto é como no Ishimura, no Aegis VII!  Como isso pode estar acontecendo de novo?   Depressa Gabe, eu não sei quanto tempo aguentarei aqui!
+(6309)prevent the humans from overriding the activation switch<==>Evita que los humanos anulen el interruptor de activación.-->Evite que os humanos destruam o interruptor de ativação
+(6310)Gabe?  It's Lexine.  Gabe, when will you get here?  I broke free but there's nowhere safe to run!  What's going on?   I hear screaming all around me.  This is just like the Ishimura, back at Aegis VII!  How can this be happening again?   Hurry Gabe, I don't know how long I can last here!<==>¿Gabe? Soy Lexine. Gabe, ¿cuándo tienes pensado llegar? ¡Me he liberado, pero no hay ningún lugar seguro al que ir! ¿Qué ocurre? Oigo gritos a mi alrededor. ¡Es como en el Ishimura, en Aegis VII! No puede ser que esté volviendo a pasar... ¡Date prisa, Gabe, no sé cuánto tiempo aguantaré con vida aquí!-->Gabe?  É Lexine.  Gabe, quando você chegará aqui?  Estou liberado, mas não há nenhum lugar seguro para ir!  O que está acontecendo?   Eu ouço gritos à minha volta.  É como na Ishimura, em Aegis VII!  Como isso pode estar acontecendo de novo?   Depressa Gabe, eu não sei quanto tempo vou aguentar aqui!
+(6311)Gabe?  It's Lexine.  Gabe, when will you get here?  I broke free but there's nowhere safe to run!  What's going on?   I hear screaming all around me.  This is just like the Ishimura, back at Aegis VII!  How can this be happening again?   Hurry Gabe, I don't know how long I can last here!<==>¿Gabe? Soy Lexine. Gabe, ¿cuándo tienes pensado llegar? ¡Me he liberado, pero no hay ningún lugar seguro al que ir! ¿Qué ocurre? Oigo gritos a mi alrededor. ¡Es como en el Ishimura, en Aegis VII! No puede ser que esté volviendo a pasar... ¡Date prisa, Gabe, no sé cuánto tiempo aguantaré con vida aquí!-->Gabe?  É Lexine.  Gabe, quando você chegará aqui?  Estou liberado, mas não há nenhum lugar seguro para ir!  O que está acontecendo?   Eu ouço gritos à minha volta.  É como na Ishimura, em Aegis VII!  Como isso pode estar acontecendo de novo?   Depressa Gabe, eu não sei quanto tempo vou aguentar aqui!
 (6312)TEXT MESSAGE\nFrom: Sally Hennen\nTo: Marion Hennen\n\nMarion, I know you're still upset, but I'm not your baby sister anymore. I know what I'm doing. Unitology may sound like a bunch of kookey nonsense, but you've never really listened to what they have to say. It's really beautiful. It all makes sense. They not bad people, everyone just thinks that. I know you won't come with me to the Church indoctrination, but please don't be mad at me anymore over this. I'm just going to see what it's all about, and that's it. So don't worry about me, and please call me. I hate it when we fight. okay, love you, bye.\n\nSally<==>MENSAJE DE TEXTO\nDe: Sally Hennen\nPara: Marion Hennen\n\nMarion, ya sé que sigues disgustada, pero ya no soy tu hermanita pequeña. Sé lo que hago. Puede que la Uniología suene a las chorradas de un puñado de bichos raros, pero nunca los has escuchado de verdad. Es hermoso. Todo tiene sentido. No son mala gente, todo el mundo piensa que lo son. Sé que no vendrás conmigo a la ceremonia de adoctrinamiento de la Iglesia, pero por favor, no te enfades más conmigo por este asunto. Voy a ver de qué se trata y nada más. Así que no te preocupes por mí y llámame. Odio que nos peleemos, ¿vale? Te quiero. Adiós.\n\nSally-->MENSAGEM DE TEXTO\nDe: Sally Hennen\nPara: Marion Hennen\n\nMarion, eu sei que você ainda está chateado, mas eu não sou mais tua irmã pequena. Sei o que estou fazendo. Unitologia pode soar como um monte de bobagens, mas você nunca ouviu o que eles têm a dizer. É realmente muito bonito. Tudo faz sentido. Eles não são pessoas ruim, todo mundo pensam que são. Eu sei que você não virá comigo para a cerimônio a de doutrinação da Igreja, mas por favor, não fique bravo comigo por causa disso. Eu só vou ver do que se trata, e nada mais. Então não se preocupe comigo, e por favor, me ligue. Eu odeio quando brigamos. Tudo bem, amo você, adeus.\n\nSally
 (6313)human score<==>puntuación humana-->Pontuação humana
 (6314-IGUAIS)1
 (6315-IGUAIS)Seth Hall
 (6316-IGUAIS)Terry Naas
 (6317-IGUAIS)1
-(6318)Sanitation System Refuse Aggregation<==>Sistema de recogida de residuos-->Sistema de Recolhimento de Resíduos
-(6319)System Reset<==>Reinicio sistema-->Reinício de Sistema
+(6318)Sanitation System Refuse Aggregation<==>Sistema de recogida de residuos-->Sistema de recolhimento de resíduos
+(6319)System Reset<==>Reinicio sistema-->Reinício do sistema
 (6320)Chairman Donovan, this is Doctor Brooks. I've said this many times, and I'll say it again. I don't like the secrecy behind the new labs they've installed in the psych wing. It's been three years, and we don't have the faintest clue what's going on. Such secrecy has no place in an open and free society. Their networks are so isolated that we can't even tell they have one, let alone sift through it to see if anything unethical is taking place right under our noses.\n\nIf we don't get some traction on this soon, I'm going to go to Tiedemann, and insist on  formal review of these policies.\n\nBrooks out.<==>Presidente Donovan, soy el Doctor Brooks. Lo he dicho muchas veces, y lo repito ahora. No me gusta el secretismo que rodea a los laboratorios que han instalado en el ala de psiquiatría. Han pasado ya tres años y no tenemos ni la más mínima idea de lo que sucede allí. Tanto secretismo es inaceptable en una sociedad libre y moderna. Sus redes están tan aisladas que ni siquiera podemos asegurar si tienen alguna, y mucho menos discernir si realizan alguna tarea de carácter inmoral delante de nuestras narices.\n\nSi la situación no cambia pronto, acudiré a Tiedemann e insistiré en que lleve a cabo una revisión formal de sus políticas.\n\nBrooks, corto.-->Presidente Donovan, sou o Doutor Brooks. Eu já disse isso muitas vezes e vou dizer novamente. Eu não gosto do segredo por trás dos novos laboratórios que eles instalaram na ala psiquiátrica. Já se passaram três anos, e não temos a menor idéia do que está acontecendo. Tal sigilo é inaceitável numa sociedade moderna e livre. Suas redes são tão isoladas que nem sequer podemos assegurar que eles tem uma, e muito menos discernir se realizam alguma tarefa antiética bem debaixo de nossos narizes.\n\nSe nós não conseguirmos alguma mudança em breve, irei ao Tiedemann, e insistirei na revisão formal dessas políticas.\n\nBrooks, desligo.
 (6321-IGUAIS)1
 (6322-IGUAIS)á
 (6323-IGUAIS)w
 (6324-IGUAIS)Á
 (6325-IGUAIS)W
-(6326)Online Code Activated<==>Código online activado-->Código On-line Ativado
+(6326)Online Code Activated<==>Código online activado-->Código online ativado
 (6327)Finish the game at any difficulty level to unlock the zealot difficulty setting.<==>Termina la partida en cualquier nivel de dificultad para desbloquear la dificultad extrema.-->Termine o jogo em qualquer nível de dificuldade para desbloquear a dificuldade extrema.
 (6328-IGUAIS)4
 (6329)lurker<==>merodeador-->espreitador
 (6330)Chapter 1<==>Capítulo 1-->Capítulo 1
-(6331)The email address or password is too long.<==>La dirección de correo electrónico o la contraseña son demasiado largas.-->O e-mail ou a senha é muito grande.
+(6331)The email address or password is too long.<==>La dirección de correo electrónico o la contraseña son demasiado largas.-->O endereço de email ou a senha são muito grandes.
 (6332)escort<==>Escoltar-->Escoltar
 (6333)exit<==>Salida-->Saída
-(6334)Primary Fire DAM +5% / REL -10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] for a steady stream of flame.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch an entire flame fuel canister at a target for heavy damage.<==>DÑO disparo principal: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para lanzar una llamarada.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar un bote entero de combustible inflamable a un objetivo y causarle graves daños.-->DANOS Disparo Primário: +5% / REC: -10%\n• [c=CUSTOM2] Disparo Primário [c=RESET]: pressione e segure [rsbottom] para lançar uma chama de fogo.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar um tubo cheio de combustível em um alvo e causar-lhe danos graves.
+(6334)Primary Fire DAM +5% / REL -10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] for a steady stream of flame.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch an entire flame fuel canister at a target for heavy damage.<==>DÑO disparo principal: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para lanzar una llamarada.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar un bote entero de combustible inflamable a un objetivo y causarle graves daños.-->DANO Disparo Primário: +5% / REC: -10%\n• [c=CUSTOM2] Disparo primário [c=RESET]: mantenha pressionado [rsbottom] para lançar uma rajada de fogo.\n• [c=CUSTOM2] Disparo secundário [c=RESET]: pressione [rstop] para lançar um tubo cheio de combustível inflamável em um alvo e causar-lhe danos graves.
 (6335)DATA BOARD<==>PANEL DE DATOS-->PAINEL DE DADOS
 (6336)weapons<==>Armas-->Armas
 (6337)stasis<==>Estabilización-->Estabilização
@@ -6354,68 +6354,68 @@
 (6353)CHAPTER 15<==>CAPÍTULO 15-->CAPÍTULO 15
 (6354)TUTORIALS<==>TUTORIALES-->TUTORIAIS
 (6355-IGUAIS)Shane Luke 
-(6356)The storage device was removed during use. Load failed.<==>El dispositivo de almacenamiento fue extraído durante su uso. Error al cargar.-->O dispositivo de armazenamento foi removido duirante o uso. Erro ao carregar.
+(6356)The storage device was removed during use. Load failed.<==>El dispositivo de almacenamiento fue extraído durante su uso. Error al cargar.-->O dispositivo de armazenamento foi removido durante o uso. Erro ao carregar.
 (6357)flame thrower<==>Lanzallamas-->Lança-chamas
 (6358)game map<==>Mapa del juego-->Mapa do Jogo
 (6359-IGUAIS)PENG
 (6360)MAP<==>MAPA-->MAPA
 (6361)Downloads<==>Descargas-->Downloads
-(6362)These mines are all that's left of the Titan Moon. Government Sector was built into this piece of rock, right above me. That's where Tiedemann and the Marker are. That's where I need to go.<==>Estas minas son lo único que queda de la luna Titán. El sector gubernamental se construyó en este fragmento de roca que tengo justo encima. Ahí es donde están Tiedemann y la Efigie. Y ahí es donde tengo que ir.-->Essas minas são tudo o que sobrou da Lua Titã. O Setor Governamental foi construído neste pedaço de pedra, bem em cima de mim. É aí que Tiedemann e o Maker estão. É aí onde eu preciso ir.
+(6362)These mines are all that's left of the Titan Moon. Government Sector was built into this piece of rock, right above me. That's where Tiedemann and the Marker are. That's where I need to go.<==>Estas minas son lo único que queda de la luna Titán. El sector gubernamental se construyó en este fragmento de roca que tengo justo encima. Ahí es donde están Tiedemann y la Efigie. Y ahí es donde tengo que ir.-->Essas minas são tudo o que restou da lua debTitã. O setor governamental foi construído nesse fragmento de rocha bem acima de mim. É aí que Tiedemann e o Marker estão. É aí onde tenho de ir.
 (6363-IGUAIS)Salil Nair
 (6364-IGUAIS)0
 (6365-IGUAIS)2
 (6366-IGUAIS)2
-(6367)OBJECTIVE\nINVALID<==>OBJETIVO\nNO VÁLIDO-->OBJETIVO\nINVÁLIDP
+(6367)OBJECTIVE\nINVALID<==>OBJETIVO\nNO VÁLIDO-->OBJETIVO\nINVÁLIDO
 (6368)USE KINESIS\nTO MOVE LARGE OBJECTS<==>UTILIZA LA CINÉTICA\nPARA MOVER OBJETOS GRANDES-->USE A CINÉTICA\nPARA MOVER OBJETOS GRANDES
 (6369-IGUAIS)@
 (6370-IGUAIS)@
 (6371)invite friends<==>Invitar Amigos-->Convidar amigos
-(6372)Multiplayer Setup description.<==>Descripción de configuración multijugador.-->Descrição de configuração vários jogadores
-(6373)Sprawl Security Maroon Suit<==>Traje de seguridad del Eje granate-->Eixo de Segurança de granada do Traje
+(6372)Multiplayer Setup description.<==>Descripción de configuración multijugador.-->Descrição de configuração de vários jogadores
+(6373)Sprawl Security Maroon Suit<==>Traje de seguridad del Eje granate-->Traje de segurança castanhodo Eixo granada  
 (6374)FEEDING SYSTEM<==>S. ALIMENTACIÓN-->SISTEMA DE ALIMENTAÇÃO
 (6375-IGUAIS)10
 (6376){n}\nSUICIDE<==>{n}\nSUICIDIO-->{n}\nSUICÍDIO
 (6377)Producers<==>Productores-->Produtores
-(6378)High-energy mineral cutter, used and refurbished by CEC<==>Cortadora de mineral de gran energía, empleada y restaurada por CEC-->A energia de alta-cortador mineral, usados e recondicionados pela CEC
+(6378)High-energy mineral cutter, used and refurbished by CEC<==>Cortadora de mineral de gran energía, empleada y restaurada por CEC-->Cortadora de mineral de grande energia, usada e recondicionada pela CEC
 (6379)brightness<==>Brillo-->Brilho
-(6380)Closing hatch.<==>Cerrando escotilla.-->Fecahndo escotilhas.
-(6381)Airlock sealed. <==>Esclusa externa sellada.-->Exclusa externa selada. 
-(6382)Gunship command override, confirmed.<==>Control del mando de la nave, confirmado.-->Controle do comando do navio, confirmou.
-(6383)Emergency Launch cycle initiated.<==>Ciclo de lanzamiento de emergencia iniciado.-->Ciclo de emergência de lançamento iniciado.
+(6380)Closing hatch.<==>Cerrando escotilla.-->Fechando escotilha. 
+(6381)Airlock sealed. <==>Esclusa externa sellada.-->Comporta externa selada. 
+(6382)Gunship command override, confirmed.<==>Control del mando de la nave, confirmado.-->Controle do comando da nave, confirmado. 
+(6383)Emergency Launch cycle initiated.<==>Ciclo de lanzamiento de emergencia iniciado.-->Ciclo de lançamento de emergência iniciado.
 (6384)Emergency dock separation in 3, 2, 1.<==>Separación de la plataforma de emergencia en 3, 2, 1.-->Separação da plataforma de emergência em 3, 2, 1.
-(6385)Dock separation, in 3, 2, 1, separate.<==>Separación de la plataforma en 3, 2, 1, completada.-->Separação da plataforma, em 3, 2, 1, separado.
-(6386)Launch confirmed.<==>Lanzamiento confirmado.-->Lançamento Confirmado.
+(6385)Dock separation, in 3, 2, 1, separate.<==>Separación de la plataforma en 3, 2, 1, completada.-->Separação da plataforma, em 3, 2, 1, concluído.
+(6386)Launch confirmed.<==>Lanzamiento confirmado.-->Lançamento confirmado.
 (6387-IGUAIS)1
-(6388)Nicole says I'm getting close to the Marker. She says I'll know what to do. I hope she's right.<==>Nicole dice que me estoy acercando a la Efigie. Y que sabré lo que tengo que hacer. Espero que tenga razón.-->Nicole disse que estou perto do Marcador. Ela diz que eu vou saber o que fazer. Espero que ela esteja certa.
-(6389)Localization Support<==>Apoyo a la localización-->Suporte de localização
-(6390)Purchase weapons, ammo, and suits.<==>Compra armas, munición y trajes.-->Compra armas, munição, e trajes.
+(6388)Nicole says I'm getting close to the Marker. She says I'll know what to do. I hope she's right.<==>Nicole dice que me estoy acercando a la Efigie. Y que sabré lo que tengo que hacer. Espero que tenga razón.-->Nicole disse que estou perto do Marker. E que vou saber o que tenho de fazer. Espero que ela esteja certa.
+(6389)Localization Support<==>Apoyo a la localización-->Apoio para Localização
+(6390)Purchase weapons, ammo, and suits.<==>Compra armas, munición y trajes.-->Compre armas, munição e trajes.
 (6391-IGUAIS)Frank Gibeau
-(6392)Bring this schematic to the store to unlock the Contact Energy.<==>Lleva este diagrama al almacén para desbloquear la energía de contacto.-->Traga esse #diagrama# até a loja para desbloquear o contato de energia.
+(6392)Bring this schematic to the store to unlock the Contact Energy.<==>Lleva este diagrama al almacén para desbloquear la energía de contacto.-->Leve esse diagrama até a loja para desbloquear a energia de contato.
 (6393-IGUAIS)Dead Space¬ 2
 (6394-IGUAIS)2
 (6395)tentacle fire<==>Tentáculos-->Tentáculos
-(6396)Key to the Maintenance Storage room.<==>Llave de la sala del almacén de mantenimiento.-->Chave do depósito da sala de manutenção.
-(6397)[I don't know something is in the room with us.]<==>[¡No lo sé! ¡En esta habitación hay algo!]-->[Eu não sei, tem algo nesse lugar conosco.]
+(6396)Key to the Maintenance Storage room.<==>Llave de la sala del almacén de mantenimiento.-->Chave da sala do depósito de manutenção.
+(6397)[I don't know something is in the room with us.]<==>[¡No lo sé! ¡En esta habitación hay algo!]-->[Eu não sei, tem alguma coisa conosco nesse lugar.]
 (6398-IGUAIS)2
 (6399)necromorph score<==>puntuación necromorfa-->Pontuação Necromorfa
 (6400-IGUAIS)1
 (6401-IGUAIS)Brian Yip
 (6402)Development Director<==>Director de desarrollo-->Diretor de Desenvolvimento
-(6403)round 1 win<==>victoria en ronda 1-->round 1 ganho
-(6404)LAUNDRY<==>LAVANDERÍA-->LAVANDERÍA
-(6405)Long-range zoom-scoped rifle<==>Rifle de largo alcance con zoom.-->Rifle de alto alcance com zoom.
+(6403)round 1 win<==>victoria en ronda 1-->vitória na rodada 1
+(6404)LAUNDRY<==>LAVANDERÍA-->LAVANDERIA 
+(6405)Long-range zoom-scoped rifle<==>Rifle de largo alcance con zoom.-->Rifle de longo alcance com zoom.
 (6406)DECOMPRESSION<==>DESCOMPRESIÓN-->DECOMPRESSÃO
 (6407-IGUAIS)Kristine Barrett
-(6408)No Smoking\nor\nOpen Flame<==>Prohibido fumar\no\nencender fuego-->Proibido fumar\nor\nAbrir fogo
+(6408)No Smoking\nor\nOpen Flame<==>Prohibido fumar\no\nencender fuego-->Proibido fumar\nou\nacender fogo
 (6409)terms of service<==>Términos de servicio-->Termos de Serviço
-(6410)The Advanced Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: Stasis recharge time is decreased by 50%. \nPurchase guarantees a minimum of 25 inventory slots and 20% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje avanzado ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Estabilización extra [c=RESET]: reduce en un 50% el tiempo de recarga de la estabilización. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 20% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O trajo avançado oferece funcionalidade única para quem o usa:\n• [c=CUSTOM3] Estabilização extra [c=RESET]: Reduz em 50% o tempo de recarga de estabilização. \nA compra garante um mínimo de 25 espaços de inventário e 20% de blindagem. Seu DRI conserva a maior melhora de Blindagem e Inventário.
-(6411)Bring this schematic to the store to unlock the Vintage Suit.<==>Lleva este diagrama al almacén para desbloquear el traje vintage.-->Leve este diagrama até a loja para desbloquear o traje vintage.
-(6412)open the containment shield in the first marker lab<==>Abre el escudo de contención del primer laboratorio de Efigie.-->Abra o escudo de contenção do primeiro laboratório do marcador
+(6410)The Advanced Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Stasis Bonus [c=RESET]: Stasis recharge time is decreased by 50%. \nPurchase guarantees a minimum of 25 inventory slots and 20% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje avanzado ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Estabilización extra [c=RESET]: reduce en un 50% el tiempo de recarga de la estabilización. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 20% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O trajo avançado oferece uma funcionalidade única para quem o usa:\n• [c=CUSTOM3] Estabilização extra [c=RESET]: reduz em 50% o tempo de recarga da estabilização. \nA compra garante um mínimo de 25 espaços de inventário e 20% de blindagem. Seu DRI conserva a maior melhoria de blindagem e inventário.
+(6411)Bring this schematic to the store to unlock the Vintage Suit.<==>Lleva este diagrama al almacén para desbloquear el traje vintage.-->Leve esse diagrama até a loja para desbloquear o traje vintage.
+(6412)open the containment shield in the first marker lab<==>Abre el escudo de contención del primer laboratorio de Efigie.-->Abra o escudo de contenção do primeiro laboratório do Marker
 (6413-IGUAIS)Louis Gascoigne
 (6414-IGUAIS)1
 (6415-IGUAIS)Visceral Games Redwood Shores
 (6416)Integration Engineers<==>Ingenieros de integración-->Engenheiros de Integração
-(6417)contact beam<==>Rayo de contacto-->Feixe de Contato
+(6417)contact beam<==>Rayo de contacto-->Raio de contato
 (6418-IGUAIS)Scotty Brown
 (6419-IGUAIS)Patrick Comtois
 (6420-IGUAIS)Alessandro Farina
@@ -6426,12 +6426,12 @@
 (6425-IGUAIS)Jody Valdes
 (6426-IGUAIS)Nicolas Viau
 (6427)Mastering Lab Operators<==>Operadores de masterización-->Operadores de Masterização
-(6428)graphic quality<==>Calidad de gráficos-->Qualidade do Gráfico
-(6429)You don't have any nodes to RESPEC.<==>No tienes ningún nodo para REESPEC.-->Você não tem nenhum nó para REFAZER.
+(6428)graphic quality<==>Calidad de gráficos-->Qualidade dos Gráficos
+(6429)You don't have any nodes to RESPEC.<==>No tienes ningún nodo para REESPEC.-->Você não tem nenhum nodo para REFAZER.
 (6430)Human<==>Humano-->Humano
 (6431)BULKHEAD RECONCILIATION<==>RECONCILIACIÓN DE CONTENCIÓN-->RECONCILIAÇÃO DE CONTENÇÃO
-(6432)Visceral Games Community Managers<==>Gestores de la comunidad de Visceral Games-->Gestores da Comunidade Visceral Games
-(6433)Unlocked at level 59<==>Desbloqueado en el nivel 59-->Desbloqueado o level 59
+(6432)Visceral Games Community Managers<==>Gestores de la comunidad de Visceral Games-->Gestores da Comunidade da Visceral Games
+(6433)Unlocked at level 59<==>Desbloqueado en el nivel 59-->Desbloqueado no level 59
 (6434-IGUAIS)Kaleb Aylsworth
 (6435-IGUAIS)Michael Blake
 (6436-IGUAIS)Travis Fike
@@ -6441,8 +6441,8 @@
 (6440-IGUAIS)Matt McCulloch
 (6441-IGUAIS)Bonnie Rosenstein
 (6442-IGUAIS)Phillip Simmons
-(6443)UI Programming<==>Programación de IU-->UI Programming
-(6444)There's always Peng!<==>¡Siempre estará Peng!-->There's always Peng!
+(6443)UI Programming<==>Programación de IU-->Programação de UI
+(6444)There's always Peng!<==>¡Siempre estará Peng!-->Peng para sempre!
 (6445-IGUAIS)Matthew Kile
 (6446-IGUAIS)1
 (6447)SEEKER RIFLE<==>RIFLE BUSCADOR-->RIFLE BUSCADOR
@@ -6451,32 +6451,32 @@
 (6450)///stereo<==>///Estéreo-->///Estéreo
 (6451-IGUAIS)///5.1 surround
 (6452)ALL ARE WELCOME<==>TODO EL MUNDO ES BIENVENIDO-->TODOS SÃO BEM VINDOS
-(6453)Are you sure you want to quit?  Choosing 'Yes' will remove all players from the match and end the session. You will lose your multiplayer progress.<==>¿Seguro que quieres salir? Si eliges "Sí" se retirará a todos los jugadores de la partida y se finalizará la sesión. Perderás todos tus progresos de multijugador.-->Tem certeza que quer sair?  Escolhendo 'Sim' irá remover todos os players da partida e irá encerrar a seção. E você irá perder todo o progresso do modo vários jogadores.
-(6454)AUDIO TRANSMISSION<==>TRANSM. DE AUDIO-->TRANSMISÃO DE ÁUDIO
+(6453)Are you sure you want to quit?  Choosing 'Yes' will remove all players from the match and end the session. You will lose your multiplayer progress.<==>¿Seguro que quieres salir? Si eliges "Sí" se retirará a todos los jugadores de la partida y se finalizará la sesión. Perderás todos tus progresos de multijugador.-->Tem certeza que quer sair?  Escolhendo 'Sim' você vai remover todos os jogadores da partida e a sessão será finalizada. Você perderá todo o progresso do modo vários jogadores.
+(6454)AUDIO TRANSMISSION<==>TRANSM. DE AUDIO-->TRANSMISSÃO DE ÁUDIO
 (6455-IGUAIS)1
-(6456)      Welcome to Shopping Warren A14: Holleran Transport Hub, Titan Elementary School, Toy Toy, Fashion Kid, Trixie's<==>      Bienvenido a Compras Warren A14: Nodo de transporte alfa, Escuela de Enseñanza Primaria Titán, Juega juega, Niños fashion, Trixie's-->      Bem-vindo ao shopping Warren A14: Holleran Transport centro, Titã Elementary School, Toy Toy, Fashion Kid, Trixie's
+(6456)      Welcome to Shopping Warren A14: Holleran Transport Hub, Titan Elementary School, Toy Toy, Fashion Kid, Trixie's<==>      Bienvenido a Compras Warren A14: Nodo de transporte alfa, Escuela de Enseñanza Primaria Titán, Juega juega, Niños fashion, Trixie's-->      Bem-vindo ao Shopping Warren A14: Centro de Transporte Holleran, Escola de Ensino Fundamental Titã, Toy Toy, Fashion Kid, Trixie's
 (6457-IGUAIS)1
 (6458-IGUAIS)0
 (6459-IGUAIS)2
-(6460)Senior Studio Operations Director<==>Director de operaciones de estudio sénior-->Diretor Sênior De operações De Estúdio
+(6460)Senior Studio Operations Director<==>Director de operaciones de estudio sénior-->Diretor de Operações de Estúdio Sênior
 (6461)TRIAGE JAVELIN GUN<==>CAÑÓN JABALINA DE SELECCIÓN-->CANHÃO DE DARDOS DE TRIAGEM
-(6462)Don't come any closer!  You're not getting in!    I'm not opening this door for anyone, I don't care what your security clearance is or what your orders are.  I'm armed!  I'll fucking kill you if you try to get in!   I mean it!   Just stay away from my door!<==>¡No te acerques más! ¡No vas a entrar! ¡No abriré la puerta a nadie, no me importan ni tus órdenes ni tu autorización de seguridad! ¡Estoy armado! ¡Te mataré si intentas entrar! ¡Te lo juro! ¡Aléjate de mi puerta!-->Não se aproxime! Você não entrará aqui! Eu não vou abrir essa porta para ninguém, eu não me importo o que o seu certificado de segurança diz, ou que suas ordens são. Eu estou armado! Eu vou te matar se você tentar entrar! E que se foda ! Basta ficar longe da minha porta!
-(6463)Senior Level Designer<==>Diseñador de niveles sénior-->Designer De Nívels Sênior
-(6464)HACKER CONTACT BEAM<==>RAYO DE CONTACTO DE PIRATEO-->FEIXE DE CONTATO HACKER
-(6465)The server is unable to start your trial at this time, please try again later.<==>El servidor no puede activar tu versión de prueba en este momento. Vuelve a intentarlo más tarde.-->O servidor não conseguiu iniciar sua versão trial neste momento, por favor, tente novamente mais tarde.
+(6462)Don't come any closer!  You're not getting in!    I'm not opening this door for anyone, I don't care what your security clearance is or what your orders are.  I'm armed!  I'll fucking kill you if you try to get in!   I mean it!   Just stay away from my door!<==>¡No te acerques más! ¡No vas a entrar! ¡No abriré la puerta a nadie, no me importan ni tus órdenes ni tu autorización de seguridad! ¡Estoy armado! ¡Te mataré si intentas entrar! ¡Te lo juro! ¡Aléjate de mi puerta!-->Não chegue mais perto! Você não vai entrar aqui! Eu não vou abrir essa porta para ninguém, não me importa suas ordens nem sua autorização de segurança. Estou armado! Vou te matar se você tentar entrar! Eu juro ! Fique longe da minha porta!
+(6463)Senior Level Designer<==>Diseñador de niveles sénior-->Designer de Níveis Sênior
+(6464)HACKER CONTACT BEAM<==>RAYO DE CONTACTO DE PIRATEO-->RAIO DE CONTATO HACKER
+(6465)The server is unable to start your trial at this time, please try again later.<==>El servidor no puede activar tu versión de prueba en este momento. Vuelve a intentarlo más tarde.-->O servidor não conseguiu ativar sua versão de avaliação nesse momento. Por favor, volte a tentar mais tarde.
 (6466-IGUAIS)6
 (6467-IGUAIS)Magyar
-(6468)Wield A Set Of Devastating Tools To Bring The Terror To Space<==>Maneja una serie de herramientas devastadoras para sembrar el terror en el espacio-->Empunha um conjunto de ferramentas devastadoras para Trazer O Terror Para o Espaço.
-(6469)Right.  A Proton accelerator is the first piece. Heat your tools, here we go.<==>Bien. El acelerador de protones es la primera pieza. Enciende las herramientas. Allá vamos.-->Certo.  O Acelerador de Próton é a primeira peça. Aqueça suas ferramentas, aqui vamos nós.
-(6470)We got it!  We've got the first piece!   Now get the Proton Accelerator to the workbench.  Cover each other, or we'll never make it.<==>¡La tenemos! ¡Tenemos la primera pieza! Ahora llevad el acelerador de protones al banco de trabajo. Cubríos, o no lo conseguiréis.-->Nós temos!  Conseguimos a primeira peça!   Agora leve o Acelerador de Próton para a bancada de trabalho.  Cubram-se, ou nunca conseguiremos.
-(6471)First piece secured!  We need the Klystron next.<==>¡Primera pieza asegurada! Ahora necesitamos el klistrón.-->Segunda peça segura!  Agora precisamos do Klystron.
-(6472)The Klystron.  It forces the pro[tons]...shut the hell up.   Let's Head out!<==>El klistrón. Hace que los protones... se bloqueen. ¡Adelante!-->O Klystron.  Faça que com que os prótons[tons]...se ferrem.   Adiante!
-(6473)Of course it'll work.  It has to.  The last piece is a Linac.   Should be easy to spot.<==>Claro que funcionará. Tiene que hacerlo. La última pieza es un linac. Debería ser fácil de reconocer.-->Claro que irá funcionar.  Tem que fazê-lo.  A última peça é um Linac.   Deveria ser fácil reconhecer.
-(6474)Me neither.   Last piece, let's go.<==>Yo tampoco. Última pieza, vamos allá.-->Eu tampouco.   Última peça, vamos lá.
-(6475)Charge cycle initiated, we've got 1 minute.  We have to protect the bench, or they'll tear it apart and disable the Mine!<==>Ciclo de carga iniciado, tenemos 1 minuto. ¡Tenemos que proteger el banco o lo destrozarán y desactivarán la mina!-->Ciclo de carga iniciado, temos 1 minuto.  Temos que proteger o banco, ou o destruirão e desativarão a Mina!
+(6468)Wield A Set Of Devastating Tools To Bring The Terror To Space<==>Maneja una serie de herramientas devastadoras para sembrar el terror en el espacio-->Usa uma série de ferramentas devastadoras para selear o terror no espaço.
+(6469)Right.  A Proton accelerator is the first piece. Heat your tools, here we go.<==>Bien. El acelerador de protones es la primera pieza. Enciende las herramientas. Allá vamos.-->Certo.  O acelerador de prótons é a primeira peça. Aqueçam suas ferramentas, aqui vamos nós.
+(6470)We got it!  We've got the first piece!   Now get the Proton Accelerator to the workbench.  Cover each other, or we'll never make it.<==>¡La tenemos! ¡Tenemos la primera pieza! Ahora llevad el acelerador de protones al banco de trabajo. Cubríos, o no lo conseguiréis.-->Conseguimos!  Temos a primeira peça!   Agora levem o acelerador de prótons para a bancada de trabalho.  Cubram-se, ou nunca iremos conseguir.
+(6471)First piece secured!  We need the Klystron next.<==>¡Primera pieza asegurada! Ahora necesitamos el klistrón.-->Primeira peça segura!  Agora precisamos do Klystron.
+(6472)The Klystron.  It forces the pro[tons]...shut the hell up.   Let's Head out!<==>El klistrón. Hace que los protones... se bloqueen. ¡Adelante!-->O Klystron.  Parece que os prótons[tons]...se bloqueiam.   Adiante!
+(6473)Of course it'll work.  It has to.  The last piece is a Linac.   Should be easy to spot.<==>Claro que funcionará. Tiene que hacerlo. La última pieza es un linac. Debería ser fácil de reconocer.-->Claro que vai funcionar.  Tem que funcionar.  A última peça é um Linac.   Dever ser fácil de reconhecer.
+(6474)Me neither.   Last piece, let's go.<==>Yo tampoco. Última pieza, vamos allá.-->Eu também não.   Última peça, vamos lá.
+(6475)Charge cycle initiated, we've got 1 minute.  We have to protect the bench, or they'll tear it apart and disable the Mine!<==>Ciclo de carga iniciado, tenemos 1 minuto. ¡Tenemos que proteger el banco o lo destrozarán y desactivarán la mina!-->Ciclo de carga iniciado, temos 1 minuto.  Temos que proteger a bancada, ou eles irão destruí-lo e irão desativar a mina!
 (6476)Keep them away from this area!<==>¡Mantenedlos alejados del área!-->Mantenha-os longe desta área!
-(6477)The bench is under attack!  Keep them off it!<==>¡Están atacando el banco! ¡Hay que alejarlos de él!-->O banco está sob ataque! Mantenha-os longe dele!
-(6478)We got it!  We've got the first piece!   Now get the Proton Accelerator to the workbench.  Cover each other, or we'll never make it.<==>¡La tenemos! ¡Tenemos la primera pieza! Ahora llevad el acelerador de protones al banco de trabajo. Cubríos, o no lo conseguiréis.-->Conseguimos!  Conseguimos a primeira peça!   Agora leve o Acelerador de Próton para a bancada de trabalho.  Cubra uns os outros, ou nunca conseguiremos.
+(6477)The bench is under attack!  Keep them off it!<==>¡Están atacando el banco! ¡Hay que alejarlos de él!-->A bancada está sendo atacada! Mantenha-os longe dela!
+(6478)We got it!  We've got the first piece!   Now get the Proton Accelerator to the workbench.  Cover each other, or we'll never make it.<==>¡La tenemos! ¡Tenemos la primera pieza! Ahora llevad el acelerador de protones al banco de trabajo. Cubríos, o no lo conseguiréis.-->Conseguimos!  Temos a primeira peça!   Agora leve o acelerador de prótons até a bancada de trabalho.  Cubram uns aos outros, ou nunca iremos conseguir. 
 (6479)We can override them in the server room, but it's sealed too.   There's two terminals to override, move out!<==>Podemos anularlas desde la sala del servidor, pero también está sellado. ¡Tenemos que anular dos terminales, vamos allá!-->Podemos anular da sala do servidor, mas está selada também.   Temos que anular dois terminais, vamos!
 (6480)The server room can override the bulkheads, but we have to break in.  Look for the two terminals!<==>Desde la sala del servidor se pueden anular las contenciones, pero tendremos que entrar. ¡Buscad los dos terminales!-->Desde a sala do servidor pode substituir as alegações, mas teremos que entrar. Procure os dois terminais!
 (6481)The bulkheads can be opened in the Server room.  But the server room is sealed by two control panels, find them!<==>¡Las contenciones se pueden abrir desde la sala del servidor, pero está sellada por dos paneles de control! ¡Encontradlos!-->As divisórias podem ser abertas na sala do servidor. Mas a sala do servidor é vedada por dois painéis de controle, encontre-os!
