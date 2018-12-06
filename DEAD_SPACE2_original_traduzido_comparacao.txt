@@ -6550,40 +6550,40 @@
 (6549)ALERT ALERT ALERT<==>ALERTA ALERTA ALERTA-->ALERTA ALERTA ALERTA
 (6550)quit<==>Salir-->sair
 (6551)You unlocked increased damage for the Plasma Cutter<==>Has desbloqueado más daño para la cortadora de plasma.-->Você desbloqueou mais danos para a cortadora de plasma
-(6552)There is no Dead Space¬ 2 Saved Game file on the selected storage device.\n\nYou will need to select a storage device with a valid Dead Space Dead Space¬ 2 file to proceed.<==>No hay ningún archivo de partida guardada de Dead Space¬ 2 en el dispositivo de almacenamiento seleccionado.\n\nDebes seleccionar un dispositivo de almacenamiento con un archivo válido de Dead Space¬ 2 para continuar.-->Não existe nenhum Jogo Gravado de Dead Space¬ 2 no dispositivo de armazenamento selecionado.\n\nVocê precisara selecionar um dispositivo de armazenamento com uma gravação válida de Dead Space¬ 2 para poder prosseguir.
-(6553)%1 appears to be damaged and cannot be used.<==>Parece que el archivo %1 está dañado y no puede utilizarse.-->%1 aparenta estar danificado e não pode ser usado(a).
-(6554)FOR THE PEOPLE<==>FOR THE PEOPLE4Åàeå-->PELO POVO
+(6552)There is no Dead Space¬ 2 Saved Game file on the selected storage device.\n\nYou will need to select a storage device with a valid Dead Space Dead Space¬ 2 file to proceed.<==>No hay ningún archivo de partida guardada de Dead Space¬ 2 en el dispositivo de almacenamiento seleccionado.\n\nDebes seleccionar un dispositivo de almacenamiento con un archivo válido de Dead Space¬ 2 para continuar.-->Não há nenhum arquivo salvo de Dead Space¬ 2 no dispositivo de armazenamento selecionado.\n\nVocê precisa selecionar um dispositivo de armazenamento com um arquivo válido de Dead Space¬ 2 para continuar.
+(6553)%1 appears to be damaged and cannot be used.<==>Parece que el archivo %1 está dañado y no puede utilizarse.-->Parece que o arquivo %1 está danificado e não pode ser usado.
+(6554)FOR THE PEOPLE<==>FOR THE PEOPLE4Åàeå-->PELAS PESSOAS
 (6555)CARGO CONTROL<==>CONTROL DE CARGA-->CONTROLE DE CARGA
 (6556-IGUAIS)1
 (6557-IGUAIS)2
 (6558-IGUAIS)3
-(6559)stasis III<==>Estabilización III-->estase III
-(6560)Waiting for playgroup leader to start matchmaking.<==>Esperando al líder del grupo de juego para iniciar el Matchmaking.-->Waiting for playgroup leader to start matchmaking.
+(6559)stasis III<==>Estabilización III-->estabilização III
+(6560)Waiting for playgroup leader to start matchmaking.<==>Esperando al líder del grupo de juego para iniciar el Matchmaking.-->Aguardando o líder do grupo para iniciar a partida.
 (6561-IGUAIS)1
-(6562)Parish Hall<==>Pabellón parroquial-->Parish Hall
+(6562)Parish Hall<==>Pabellón parroquial-->Pavilhão Paroquial
 (6563-IGUAIS)Jenn Harper
-(6564)OUTPUT CIRCUIT (DMG)<==>CIRCUITO DE SALIDA (DAÑ)-->CIRCUITO DE SAIDA (DMG)
-(6565)Increase the DAMAGE for this item by %g pts.<==>Se aumentará el DAÑO de este objeto en %g pts.-->Aumente o DANO deste item usando %g pts.
-(6566)Director, Media Strategy & Development<==>Director de estrategia de medios y desarrollo-->Diretor, Estratégia de Midia & Desenvolvimento
+(6564)OUTPUT CIRCUIT (DMG)<==>CIRCUITO DE SALIDA (DAÑ)-->CIRCUITO DE SAÍDA (DAN)
+(6565)Increase the DAMAGE for this item by %g pts.<==>Se aumentará el DAÑO de este objeto en %g pts.-->Aumenta o DANO desse item em %g pts.
+(6566)Director, Media Strategy & Development<==>Director de estrategia de medios y desarrollo-->Diretor de Estratégia de Mídia & Desenvolvimento
 (6567-IGUAIS)2
-(6568-IGUAIS)30 Credits
+(6568-IGUAIS)30 Credits-->30 Créditos
 (6569-IGUAIS)0
-(6570)BOOST<==>PROPULSAR-->IMPULSO
+(6570)BOOST<==>PROPULSAR-->PROPULSIONAR
 (6571-IGUAIS)3
-(6572)The specified password is too short.<==>La contraseña especificada es demasiado corta.-->A senha especificada é muito curta.
-(6573)As a Human, aim at a necromorph player's limbs to take them out more efficiently.<==>Como ser humano, apunta a las extremidades de un jugador necromorfo para aniquilarlo con más eficiencia.-->Como um Humano, mire nos membros do jogador necromorfo para eliminá-los mais eficientemente.
-(6574)Humans must finish their objectives before time runs out.  Additional time is earned for completing objectives.<==>Los humanos deben cumplir sus objetivos antes de que el tiempo se agote. El cumplimiento de objetivos proporciona tiempo adicional.-->Os Humanos devem finalizar todos os objetivos antes que o tempo acabe.  Ao completar objetivos, mais tempo é adicionado.
-(6575)Necromorphs have strength in numbers.  Gang up on human players for an easy kill.<==>Los necromorfos son más eficaces en grupo. Acorralad a los jugadores humanos para conseguir bajas fáciles.-->Os Necromorfos vem em grandes grupos.  Junte-se a jogadores humanos para mata-los mais fácilmente.
-(6576)Human skeletons can be seen through walls by necromorphs.<==>Los necromorfos pueden ver los esqueletos de los humanos a través de las paredes.-->Os esqueletos Humanos podem ser visualizados através de paredes pelos necromorfos.
-(6577)Follow your locator and on-screen objective icons to find your current objective.<==>Sigue el localizador y los iconos de objetivo de la pantalla para encontrar el objetivo actual.-->Use seu localizador e os icones de objetivos na tela para encontrar seu objetivo atual.
-(6578)Quick-heal will heal not only yourself, but any Human team-mates around you.<==>La curación rápida no solo te curará a ti, sino también a los compañeros humanos que estén a tu alrededor.-->A Recuperação-Rápida curará não somente você, mas também qualquer Humano que esteja próximo de você.
-(6579)Initiate an execution to momentarily stop Humans and also get an XP damage bonus<==>Inicia una ejecución para detener momentáneamente a los humanos y conseguir una bonificación de daño de PE.-->Inicie uma execução para parar os Humanos momentâneamente e para também ganhar um bonus de danos em XP
-(6580)Executions on low health Humans are very effective, and will often kill them.<==>Las ejecuciones resultan muy eficaces en humanos con poca salud; en muchas ocasiones los matarán.-->Execuções em Humanos já com pouca saúde são muito efetivas e quase sempre os matará.
-(6581)Use TK on pick-up items in MP to quickly acquire them.<==>En el modo multijugador, usa la cinética sobre los objetos para recogerlos rápidamente.-->Use o TK em items que podem ser recolhidos para pega-los rápidamente.
-(6582)Don't forget to use the alternate fire on each of your weapons.<==>No olvides usar el disparo secundario de cada una de tus armas.-->Não esqueça de usar o disparo alternativo existente em cada arma.
-(6583)As you level up in Multiplayer you will unlock new weapons, upgrades, as well as suit skins.<==>A medida que subas de nivel en Multijugador, desbloquearás nuevas armas, mejoras y revestimientos de trajes.-->Ao passo que seu nível no modo vários jogadores sobre você desbloqueará novas armas, melhorias com também novas blindagems.
-(6584)The Pack has a very effective melee, slash away!<==>La jauría tiene un ataque cuerpo a cuerpo muy eficaz: ¡reparte tajos!-->A matilha tem um ataque muito efetivo, estraça-lhe os!
-(6585)Stasis is crucial in MP - fire it at your enemies to slow them down and then dismember at will.<==>La estabilización resulta crucial en el modo multijugador; utilízala contra tus enemigos para frenarlos y cercenarlos a tu antojo.-->Estase é crucial no modo vários jogadores - atire-a nos seus inimigos para deixa-los mais lentos de forma a poder desmembra-los.
+(6572)The specified password is too short.<==>La contraseña especificada es demasiado corta.-->A senha informada é muito curta.
+(6573)As a Human, aim at a necromorph player's limbs to take them out more efficiently.<==>Como ser humano, apunta a las extremidades de un jugador necromorfo para aniquilarlo con más eficiencia.-->Como ser humano, mire nos membros de um jogador necromorfo para eliminá-los com mais eficiência.
+(6574)Humans must finish their objectives before time runs out.  Additional time is earned for completing objectives.<==>Los humanos deben cumplir sus objetivos antes de que el tiempo se agote. El cumplimiento de objetivos proporciona tiempo adicional.-->Os humanos devem cumprir seus objetivos antes do tempo se esgotar.  O cumprimento de objetivo proporciona tempo adicional. 
+(6575)Necromorphs have strength in numbers.  Gang up on human players for an easy kill.<==>Los necromorfos son más eficaces en grupo. Acorralad a los jugadores humanos para conseguir bajas fáciles.-->Os necromorfos são mais eficazes em grupo.  Encurrale os jogadores humanos para conseguir matá-los com mais facilidade.
+(6576)Human skeletons can be seen through walls by necromorphs.<==>Los necromorfos pueden ver los esqueletos de los humanos a través de las paredes.-->Os necromorfos podem ver os esqueletos dos humanos através das paredes.
+(6577)Follow your locator and on-screen objective icons to find your current objective.<==>Sigue el localizador y los iconos de objetivo de la pantalla para encontrar el objetivo actual.-->Use seu localizador e os ícones de objetivo na tela para encontrar seu objetivo atual.
+(6578)Quick-heal will heal not only yourself, but any Human team-mates around you.<==>La curación rápida no solo te curará a ti, sino también a los compañeros humanos que estén a tu alrededor.-->A cura rápida não só vai curar você, mas vai curar também os companheiros humanos que estiverem perto de você.
+(6579)Initiate an execution to momentarily stop Humans and also get an XP damage bonus<==>Inicia una ejecución para detener momentáneamente a los humanos y conseguir una bonificación de daño de PE.-->Inicie uma execução para deter momentaneamente os humanos e conseguir um bônus de danos de PE
+(6580)Executions on low health Humans are very effective, and will often kill them.<==>Las ejecuciones resultan muy eficaces en humanos con poca salud; en muchas ocasiones los matarán.-->As execuções são muito eficazes em humanos com pouca saúde; em muitas ocasiões os matará.
+(6581)Use TK on pick-up items in MP to quickly acquire them.<==>En el modo multijugador, usa la cinética sobre los objetos para recogerlos rápidamente.-->Use o TK em items que podem ser apanhados para pega-los rapidamente.
+(6582)Don't forget to use the alternate fire on each of your weapons.<==>No olvides usar el disparo secundario de cada una de tus armas.-->Não se esqueça de usar o disparo secundário de cada uma de suas armas. 
+(6583)As you level up in Multiplayer you will unlock new weapons, upgrades, as well as suit skins.<==>A medida que subas de nivel en Multijugador, desbloquearás nuevas armas, mejoras y revestimientos de trajes.-->Na medida em que você sobe de nível no modo vários jogadores, desbloqueará novas armas, melhorias e blindagens.
+(6584)The Pack has a very effective melee, slash away!<==>La jauría tiene un ataque cuerpo a cuerpo muy eficaz: ¡reparte tajos!-->A matilha tem um ataque corpo a corpo muito eficaz: estraça-lhe-os!
+(6585)Stasis is crucial in MP - fire it at your enemies to slow them down and then dismember at will.<==>La estabilización resulta crucial en el modo multijugador; utilízala contra tus enemigos para frenarlos y cercenarlos a tu antojo.-->A estabilização é crucial no modo vários jogadores - utilize-a contra seus inimigos para deixá-los mais lentos e desmembra-los como quiser. 
 (6586)pause menu<==>menú de pausa-->menu de pausa
 (6587-IGUAIS)Ian Patterson
 (6588-IGUAIS)Brent A. Thale
