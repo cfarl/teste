@@ -6721,15 +6721,15 @@
 (6720)Mines planted<==>Minas colocadas-->Minas colocadas
 (6721){m}/{d}/{y}<==>{d}/{m}/{y}-->{m}/{d}/{y}
 (6722-IGUAIS)Nolan Stross
-(6723)Jonathan, it's Brodie, we're heading to shuttle bay A-18, go straight there!  The shuttles are taking off half full!  Everyone's in a panic, some women got trampled back in the atrium!   We're all gonna die if we don't get off this station.   I hope you get this.  A-18, as fast as you can. Alright I'm coming, let's go A-18!<==>¡Jonathan, soy Brodie, nos dirigimos a la plataforma de transbordador A-18, ve hacia allí! ¡Los transbordadores están partiendo a media carga! ¡Cunde el pánico, incluso han pisoteado a unas mujeres en el atrio! Moriremos todos si no salimos de esta estación. Espero que recibas esto. A-18, lo más rápido que puedas. ¡Me voy, nos vemos en la A-18!-->Jonathan, é o Brodie, estamos nos dirigindo para a plataforma de transporte A-18, vá direto para lá!  Os transportadores estão partindo com metade da capacidade!  Todos estão em pânico, inclusive umas mulheres foram pisoteadas no átrio!   Vamos todos morrer aqui se não sairmos dessa estação.   Espero que receba isso.  A-18, o mais rápido que puder. Estou indo, nos vemos na A-18!
+(6723)Jonathan, it's Brodie, we're heading to shuttle bay A-18, go straight there!  The shuttles are taking off half full!  Everyone's in a panic, some women got trampled back in the atrium!   We're all gonna die if we don't get off this station.   I hope you get this.  A-18, as fast as you can. Alright I'm coming, let's go A-18!<==>¡Jonathan, soy Brodie, nos dirigimos a la plataforma de transbordador A-18, ve hacia allí! ¡Los transbordadores están partiendo a media carga! ¡Cunde el pánico, incluso han pisoteado a unas mujeres en el atrio! Moriremos todos si no salimos de esta estación. Espero que recibas esto. A-18, lo más rápido que puedas. ¡Me voy, nos vemos en la A-18!-->Jonathan, é o Brodie, estamos nos dirigindo para a plataforma de transporte A-18, vá direto para lá!  Os transportadores estão partindo com metade da capacidade!  Todos estão em pânico, inclusive pisotearam umas mulheres no átrio!   Vamos todos morrer aqui se não sairmos dessa estação.   Espero que receba isso.  A-18, o mais rápido que puder. Estou indo, nos vemos na A-18!
 (6724)Shift<==>Mayús-->Shift
 (6725)Shift<==>Mayús-->Shift
 (6726)Shift<==>Mayús-->Shift
 (6727)Shift<==>Mayús-->Shift
-(6728)Replenish your air at O2 Stations.<==>Repón tu oxígeno en las estaciones de O2.-->Recarrega seu ar nas estações de O2.
-(6729)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isso aumentará os danos do DISPARO ALTERNATIVO
+(6728)Replenish your air at O2 Stations.<==>Repón tu oxígeno en las estaciones de O2.-->Recarrega seu oxigênio nas estações de O2.
+(6729)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isso vai aumentar os danos do DISPARO SECUNDÁRIO
 (6730-IGUAIS)Alain Tascan
-(6731)Removing an in-use Storage Device with Dead Space¬ 2 downloadable content can result in the loss of unsaved progress.<==>Si extraes un dispositivo de almacenamiento en uso con descargas de contenido de Dead Space¬ 2 se pueden perder los progresos no guardados.-->Remover um dispositivo de memória com conteúdo externo de Dead Space¬ 2, resultará na perda de progresso não salvo.
+(6731)Removing an in-use Storage Device with Dead Space¬ 2 downloadable content can result in the loss of unsaved progress.<==>Si extraes un dispositivo de almacenamiento en uso con descargas de contenido de Dead Space¬ 2 se pueden perder los progresos no guardados.-->Ao remover um dispositivo de armazenamento em uso contendo conteúdo baixado de Dead Space¬ 2, podem ser perdidos os progressos não salvos.
 (6732-IGUAIS)Richard Grube
 (6733-IGUAIS)Brett Harris
 (6734-IGUAIS)Shaun Kiggens
@@ -6737,108 +6737,108 @@
 (6736-IGUAIS)Forrest T. Tarleton
 (6737-IGUAIS)1
 (6738-IGUAIS)4
-(6739)Unlocked at level 32<==>Desbloqueado en el nivel 32-->Desbloqueado no nivel 32
-(6740)High-energy mineral cutter.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>Cortadora de mineral de gran energía. \n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho. \n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->Cortador Mineral de Alta-Potencia.\n• [c=CUSTOM2] Disparo Primário [c=RESET]: pressione [rsbottom] para disparar um estreito raio cortante.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para girar o cortador em 90 graus.
+(6739)Unlocked at level 32<==>Desbloqueado en el nivel 32-->Desbloqueado no nível 32
+(6740)High-energy mineral cutter.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>Cortadora de mineral de gran energía. \n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho. \n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->Cortadora de mineral de grande energia.\n• [c=CUSTOM2] Disparo primário [c=RESET]: pressione [rsbottom] para disparar um raio cortador estreito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para girar a cortadora em 90 graus.
 (6741-IGUAIS)Chris Anjos
 (6742-IGUAIS)Theodore Serafica
 (6743-IGUAIS)Sam Worf
 (6744)SHOOT THE LIMBS<==>DISPARA A LAS EXTREMIDADES-->ATIRE NOS MEMBROS
-(6745)WELD NODE<==>NODO DE SOLDADURA-->WELD NODE
-(6746)Commit node to this circuit?\n\n[menua]YES  [menub]NO<==>¿Enviar nodo a este circuito?\n[menua] SÍ [menub] NO-->Conecte o nodo neste circuito?\n\n[menua]SIM  [menub]NÃO
-(6747)FUSES<==>FUSIBLES-->FUSIVEIS
-(6748)Holo-cards containing shuttle navigation data.<==>Tarjetas holográficas que contienen información de navegación del transbordador.-->Cartões Holográficos contendo dados de navegação da transportadora.
+(6745)WELD NODE<==>NODO DE SOLDADURA-->NODO DE SOLDADURA
+(6746)Commit node to this circuit?\n\n[menua]YES  [menub]NO<==>¿Enviar nodo a este circuito?\n[menua] SÍ [menub] NO-->Conectar o nodo nesse circuito?\n\n[menua]SIM  [menub]NÃO
+(6747)FUSES<==>FUSIBLES-->FUSÍVEIS
+(6748)Holo-cards containing shuttle navigation data.<==>Tarjetas holográficas que contienen información de navegación del transbordador.-->Cartões holográficos que contém dados de navegação do transportador.
 (6749)SAME SIGNAL<==>MISMA SEÑAL-->MESMO SINAL
-(6750)SHIELD QUESTIONS<==>PREGUNTAS SOBRE ESCUDO-->QUESTÕES DE DEFESA
+(6750)SHIELD QUESTIONS<==>PREGUNTAS SOBRE ESCUDO-->PERGUNTAS SOBRE ESCUDO
 (6751)PATIENT FOUR<==>PACIENTE CUATRO-->PACIENTE QUATRO
 (6752)COMPLETE SEQUENCE<==>SECUENCIA COMPLETADA-->SEQUÊNCIA FINALIZADA
 (6753)MARKER SUCCESS!<==>¡ÉXITO DE LA EFIGIE!-->ÊXITO DO MARKER!
-(6754)TINY MARKER<==>EFIGIE EN MINIATURA-->PEQUENO MARKER
-(6755)IT'S MAKING US MAKE IT!<==>¡NOS ESTÁ OBLIGANDO!-->ESTÁ OBRIGANDO AGENTE!
-(6756)pulse rifle<==>Rifle de impulsos-->rifle de pulso
+(6754)TINY MARKER<==>EFIGIE EN MINIATURA-->MARKER EM MINIATURA
+(6755)IT'S MAKING US MAKE IT!<==>¡NOS ESTÁ OBLIGANDO!-->ESTÁ NOS OBRIGANDO!
+(6756)pulse rifle<==>Rifle de impulsos-->rifle de impulsos
 (6757-IGUAIS)'
 (6758-IGUAIS)'
 (6759-IGUAIS)_
 (6760-IGUAIS)_
-(6761)Engineering Elite Suit Schematic<==>Diagrama de traje de ingeniería de élite-->Esquemas do Traje Elite de Engenheiro
+(6761)Engineering Elite Suit Schematic<==>Diagrama de traje de ingeniería de élite-->Diagrama do traje de engenharia de elite
 (6762)SYSTEM FAILURE<==>FALLO EN EL SISTEMA-->FALHA NO SISTEMA
 (6763) PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!<==>El sector gubernamental--> PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
-(6764)ripper<==>Sierra trituradora-->ripper
+(6764)ripper<==>Sierra trituradora-->serra trituradora
 (6765-IGUAIS)1
-(6766)EA PRIVACY POLICY<==>POLÍTICA DE PRIVACIDAD DE EA-->POLITICA DE PRIVACIDADE DA EA
+(6766)EA PRIVACY POLICY<==>POLÍTICA DE PRIVACIDAD DE EA-->POLÍTICA DE PRIVACIDADE DA EA
 (6767-IGUAIS)1
 (6768)QA Administrative Assistant<==>Ayudante administrativo de control de calidad-->Assistente de QA
-(6769)Enemies are weak. With some effort, you can survive.<==>Los enemigos son débiles. Con un poco de esfuerzo, podrás sobrevivir.-->Inimigos são fracos. Com algum esforço, você conseguirá sobreviver.
-(6770)2 stasis shots<==>2 disparos de estabilización-->2 disparos de estase
-(6771)quick turn<==>giro rápido-->virar rápidamente
+(6769)Enemies are weak. With some effort, you can survive.<==>Los enemigos son débiles. Con un poco de esfuerzo, podrás sobrevivir.-->Os inimigos são fracos. Com um pouco de esforço você conseguirá sobreviver.
+(6770)2 stasis shots<==>2 disparos de estabilización-->2 disparos de estabilização
+(6771)quick turn<==>giro rápido-->virar rapidamente
 (6772)ITEM<==>OBJETO-->ITEM
 (6773-IGUAIS)Steve Timson
 (6774)Isaac's Suit<==>Traje de Isaac-->Traje de Isaac
 (6775-IGUAIS)0
 (6776-IGUAIS)1
 (6777-IGUAIS)Ericka Sykes
-(6778)CEC Main Facility Entrance<==>Entrada a la instalación principal de CEC-->Entrada Principal CEC
-(6779)Specialist Entrance<==>Entrada de especialistas-->Entrada de Especialistas
-(6780)Worker Entrance<==>Entrada de trabajadores-->Entrada dos Trabalhadores
-(6781)Administrator Entrance<==>Entrada de administradores-->Entrada do Administrador
-(6782)Operation Control Room<==>Sala de control de operaciones-->Sala de Controle de Operações
-(6783)Secure Storage<==>Almacén seguro-->Depósito Seguro
-(6784)Break Room<==>Sala de descanso-->Sala de Descanso
-(6785)Records Room<==>Sala de registros-->Sala de Registros
-(6786)To Fuel Processing Control<==>A control de procesamiento de combustible-->Para o Controle de Processamento de Combustivel
-(6787)Pressurization Control<==>Control de presurización-->Controle de Pressurização
-(6788)Fuel Pressurization Tower<==>Torre de presurización de combustible-->Torre de Pressurização de Combustivel
-(6789)Fuel Pressurization Tower Lower Level<==>Torre de presurización de combustible, nivel inferior-->Torre de Pressurização de Combustivel - Nivel Mais Baixo
-(6790)Conduit Room<==>Sala de distribución-->Sala de Distribuição
-(6791)Fuel Pressurization Control 2<==>Control de presurización de combustible 2-->Controle de Pressurização 2
-(6792)High Pressure Modulation Area<==>Zona de modulación de alta presión-->Área de Alta Pressão Modulada
-(6793)Elevator To High Pressure Storage<==>Ascensor a almacén de alta presión-->Elevador para o Deposito de Alta Pressão
-(6794)Fuel Pressurization Tower Mid Level<==>Torre de presurización de combustible, nivel intermedio-->Torre de Pressurização de Combustivel - Nivel Medio
-(6795)Transport Mechanism Control<==>Control de mecanismo de transporte-->Controle do Mecanismo de Transporte
-(6796)Pressurized Fuel Storage<==>Almacén de combustible presurizado-->Pressurized Fuel Storage
-(6797)Elevator to Fuel Mega Storage<==>Ascensor a megaalmacén de combustible-->Elevador para o Mega Deposito de Combustivel
-(6798)Fuel Mega Storage<==>Megaalmacén de combustible-->Mega Deposito de Combustivel
-(6799)evacuate via the escape pods<==>Huye en una cápsula de escape.-->evacue usando as transportadoras
-(6800)you now have the ability to equip the javelin gun\nprimary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>Ahora ya puedes equipar el cañón jabalina\ndisparo principal: jabalina explosiva\ndisparo secundario: detonación de la última jabalina disparada-->você agora possui a habilidade de equipar o canhão de dardosn\ndisparo primário: dardo explosivo\ndisparo alternativo: detona o ultimo dardo disparado
-(6801)LISTEN<==>ACTIVAR-->ESCUTE
+(6778)CEC Main Facility Entrance<==>Entrada a la instalación principal de CEC-->Entrada para a instalação principal da CEC
+(6779)Specialist Entrance<==>Entrada de especialistas-->Entrada de especialistas
+(6780)Worker Entrance<==>Entrada de trabajadores-->Entrada de trabalhadores
+(6781)Administrator Entrance<==>Entrada de administradores-->Entrada de administradores
+(6782)Operation Control Room<==>Sala de control de operaciones-->Sala de controle de operações
+(6783)Secure Storage<==>Almacén seguro-->Depósito seguro
+(6784)Break Room<==>Sala de descanso-->Sala de descanso
+(6785)Records Room<==>Sala de registros-->Sala de registros
+(6786)To Fuel Processing Control<==>A control de procesamiento de combustible-->Para o controle de processamento de combustível
+(6787)Pressurization Control<==>Control de presurización-->Controle de pressurização
+(6788)Fuel Pressurization Tower<==>Torre de presurización de combustible-->Torre de pressurização de combustível
+(6789)Fuel Pressurization Tower Lower Level<==>Torre de presurización de combustible, nivel inferior-->Torre de pressurização de combustível, nível inferior
+(6790)Conduit Room<==>Sala de distribución-->Sala de distribuição
+(6791)Fuel Pressurization Control 2<==>Control de presurización de combustible 2-->Controle de pressurização de combustível 2
+(6792)High Pressure Modulation Area<==>Zona de modulación de alta presión-->Área de modulação de alta pressão
+(6793)Elevator To High Pressure Storage<==>Ascensor a almacén de alta presión-->Elevador para o depósito de alta pressão
+(6794)Fuel Pressurization Tower Mid Level<==>Torre de presurización de combustible, nivel intermedio-->Torre de pressurização de combustível, nível inferior
+(6795)Transport Mechanism Control<==>Control de mecanismo de transporte-->Controle do mecanismo de transporte
+(6796)Pressurized Fuel Storage<==>Almacén de combustible presurizado-->Depósito de combustível pressurizado
+(6797)Elevator to Fuel Mega Storage<==>Ascensor a megaalmacén de combustible-->Elevador para o mega depósito de Combustível
+(6798)Fuel Mega Storage<==>Megaalmacén de combustible-->Mega depósito de combustível
+(6799)evacuate via the escape pods<==>Huye en una cápsula de escape.-->Evacue usando uma cápsula de fuga.
+(6800)you now have the ability to equip the javelin gun\nprimary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>Ahora ya puedes equipar el cañón jabalina\ndisparo principal: jabalina explosiva\ndisparo secundario: detonación de la última jabalina disparada-->Você agora pode equipar o canhão de dardosn\ndisparo primário: dardo explosivo\ndisparo secundário: detona o último dardo disparado
+(6801)LISTEN<==>ACTIVAR-->ESCUTAR
 (6802)high<==>Alta-->alto
-(6803)Handheld Graviton Accelerator.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] for a short range, high powered blast of kinetic energy with wide area of effect.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] for a long range, tight radius energy projection.<==>Acelerador de gravitones portátil.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar una potente ráfaga de energía cinética de corto alcance con un gran radio de acción.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una proyección de energía de largo alcance y radio de acción ajustado.-->Acelerador de Gravidade de Mão.\n• [c=CUSTOM2] Disparo Primário [c=RESET]: pressione [rsbottom] para disparar uma onda de impacto de energia cinetica\kinetic com uma grande area de efeito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para uma projeção de energia de longo alcance.
+(6803)Handheld Graviton Accelerator.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] for a short range, high powered blast of kinetic energy with wide area of effect.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] for a long range, tight radius energy projection.<==>Acelerador de gravitones portátil.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar una potente ráfaga de energía cinética de corto alcance con un gran radio de acción.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una proyección de energía de largo alcance y radio de acción ajustado.-->Acelerador de gravidade portátil.\n• [c=CUSTOM2] Disparo primário [c=RESET]: pressione [rsbottom] para disparar uma potente rajada de energia cinética de curto alcance e com grande raio de ação.\n• [c=CUSTOM2] Disparo secundário [c=RESET]: pressione [rstop] para lançar uma projeção de energia de longo alcance e raio de ação ajustado.
 (6804)CHARGE<==>CARGA-->CARREGAR
 (6805)video_log_6_2<==>video_log_6_23Åàe-->video_log_6_2
 (6806)Gialdini Food Court<==>Zona de comida Gialdini-->Zona de Comida Gialdini
-(6807)Your NAT Type: Strict<==>Tu tipo de NAT: estricto-->Seu Tipo de NAT: Estrito
-(6808)Key to the Mining Control room.<==>Llave de la sala de Control de extracción.-->Chave para a sala de Contorle de Extração.
+(6807)Your NAT Type: Strict<==>Tu tipo de NAT: estricto-->Seu Tipo de NAT: estrito
+(6808)Key to the Mining Control room.<==>Llave de la sala de Control de extracción.-->Chave da sala de controle de extração.
 (6809-IGUAIS)Jud Halpin
 (6810-IGUAIS)Ryan J Murphy
-(6811)Elite Suit versions and Security Suit variants unlocked in New Game +. Look for new items in the Store and for schematics lost in the Sprawl to get access to this experimental technology.<==>Versiones de trajes de élite y variantes de trajes de seguridad desbloqueadas en Nueva partida +. Busca nuevos objetos en el almacén y diagramas perdidos en El Eje para acceder a esta tecnología experimental.-->Traje de Elite e Traje de Segurança desbloqueados no Novo Jogo +. Procure por novos itens na loja e por esquemas perdidos para ganhar acesso a essa tecnologia experimental.
+(6811)Elite Suit versions and Security Suit variants unlocked in New Game +. Look for new items in the Store and for schematics lost in the Sprawl to get access to this experimental technology.<==>Versiones de trajes de élite y variantes de trajes de seguridad desbloqueadas en Nueva partida +. Busca nuevos objetos en el almacén y diagramas perdidos en El Eje para acceder a esta tecnología experimental.-->Versões do traje de elite e variações dos trajes de segurança desbloqueados no Novo Jogo +. Procure por novos itens na loja e diagramas perdidos no Eixo para ter acesso a essa tecnologia experimental.
 (6812)AIR RECYCLING ACTIVATED...<==>RECICLAJE DE AIRE ACTIVADO...-->RECICLAGEM DE AR ATIVADA...
-(6813)Security Gunship Docking Bay<==>Plataforma de ensamblaje de seguridad-->Security Gunship Docking Bay
-(6814)Elevator to Entrance Area<==>Ascensor a zona de entrada-->Elevador para a Área de Entrada
-(6815)Restroom<==>Aseos-->Banheiro
-(6816)Facilities Access<==>Acceso a instalaciones-->Acesso as Instalações
-(6817)INTRUDER DETECTED<==>INTRUSO DETECTADO-->INTRUSO DETECDATO
-(6818)Security Operations Control<==>Control de operaciones de seguridad-->Controle das Operações de Segurança
-(6819)Security Observation Area<==>Zona de observación de seguridad-->Área de Observação de Segurança
-(6820)Administration Area<==>Zona administrativa-->Área de Administração
-(6821)Data Analysis<==>Análisis de datos-->Analise de Dados
-(6822)Project Entrance Scan Room<==>Sala de escáner de entrada al proyecto-->Sala de Escaneamento Entrada de Projeto
-(6823)Analyzation Lab One<==>Laboratorio de análisis 1-->Laboratório de Analize Um
-(6824)Project Annex<==>Anexo del proyecto-->Projeto Annex
-(6825)Radiation Room<==>Sala de radiación-->Sala de Radiação
-(6826)Core Sample Storage and Analyzation<==>Analisis y almacenamiento de muestra principal-->Nucleo Principal de Armazenamento e Analize de Amostras
-(6827)Reconstruction Room Access<==>Acceso a sala de reconstrucción-->Acesso a Sala de Reconstrução
-(6828)Reconstruction Room<==>Sala de reconstrucción-->Sala de Reconstrução
-(6829)Data Monitoring Room Access<==>Acceso a sala de monitorización de datos-->Acesso a Sala de Monitoramento de Dados
-(6830)Data Monitoring Room<==>Sala de monitorización de datos-->Sala de Monitoramento de Dados
-(6831)Thermal Conduit Access<==>Acceso a conducto térmico-->Acesso ao Distribuidor Termal
-(6832)Project Inner Core<==>Núcleo interno del proyecto-->Projeto Núcleo Profundo
-(6833)Project Interface Room<==>Sala de interfaz del proyecto-->Sala de Interface do Projeto
-(6834)Marker Access<==>Acceso a la Efigie-->Acesso a Éfigie
-(6835)TEXT MESSAGE\nFrom: Sally Hennen\nTo: Marion Hennen\n\nMarion, sorry I missed your call, I was busy at the Church thing I told you about. I know, I've been spending a lot of time with them, but I love it there. They're so welcoming and kind. They really like me. And they've invited me to become an Initiate! I think I'm going to do it. They've helped me see beyond our lives here in this universe, here in these bodies. There's a beautiful oneness waiting for us all, after this life of anger and sadness. and disappointment. There's a reading tonight at the Church sanctuary, so I may be there if you call. I hope to talk to you soon, and don't worry about those forms they sent you, I can explain. k, bye, love you!\n\nSally<==>MENSAJE DE TEXTO\nDe: Sally Hennen\nPara: Marion Hennen\n\nMarion, siento no haberte cogido la llamada, estaba ocupada con el asunto ese de la Iglesia del que te hablé. Lo sé, paso mucho tiempo con ellos, pero es que me encanta. Son muy amables y cordiales. Les gusto de verdad. ¡Y me han invitado a hacerme iniciada! Creo que lo voy a hacer. Me han ayudado a ver más allá de nuestras vidas en el universo, en nuestros cuerpos. Existe una hermosa unidad que nos espera a todos después de esta vida de ira, tristeza y decepción. Esta noche hay una lectura en el santuario de la Iglesia, así que estaré allí si me llamas. Espero que hablemos pronto, y no te preocupes por los formularios que te mandaron, te lo puedo explicar. ¡Bien, adiós, te quiero!\n\nSally-->MENSAGEM DE TEXTO\nDe: Sally Hennen\nPara: Marion Hennen\n\nMarion, sinto não ter atendido sua ligação, eu estava ocupado com aquele assunto sobre a Igreja que eu havia lhe falado. Eu sei, tenho passado muito tempo com eles, mas eu gosto de lá. Eles são tão receptivos e bondosos. Realmente gostam de mim. Eles me convidaram para me tornar um Iniciado! Acho que vou fazê-lo. Eles me ajudaram a ver além de nossas vidas aqui neste universo, nesse corpo. Existe uma linda unicidade esperando por todos nós após esta vida de ódio, tristeza e decepção. Vai haver uma leitura hoje anoite no santuário da Igreja, talvez eu esteja lá quando você ligar. Espero poder falar com você logo, e não se preocupe com aqueles formulários que lhe enviaram, eu posso explicar. k, tchau, te amo!\n\nSally
+(6813)Security Gunship Docking Bay<==>Plataforma de ensamblaje de seguridad-->Plataforma de montagem de segurança
+(6814)Elevator to Entrance Area<==>Ascensor a zona de entrada-->Elevador para a área de entrada
+(6815)Restroom<==>Aseos-->Banheiros
+(6816)Facilities Access<==>Acceso a instalaciones-->Acesso às instalações
+(6817)INTRUDER DETECTED<==>INTRUSO DETECTADO-->INTRUSO DETECTADO
+(6818)Security Operations Control<==>Control de operaciones de seguridad-->Controle das operações de segurança
+(6819)Security Observation Area<==>Zona de observación de seguridad-->Área de observação de segurança
+(6820)Administration Area<==>Zona administrativa-->Área administrativa
+(6821)Data Analysis<==>Análisis de datos-->Análise de dados
+(6822)Project Entrance Scan Room<==>Sala de escáner de entrada al proyecto-->Sala de escaneamento de entrada para o projeto
+(6823)Analyzation Lab One<==>Laboratorio de análisis 1-->Laboratório de análise 1
+(6824)Project Annex<==>Anexo del proyecto-->Anexo do projeto
+(6825)Radiation Room<==>Sala de radiación-->Sala de radiação
+(6826)Core Sample Storage and Analyzation<==>Analisis y almacenamiento de muestra principal-->Núcleo principal de armazenamento e análise de amostras
+(6827)Reconstruction Room Access<==>Acceso a sala de reconstrucción-->Acesso à sala de reconstrução
+(6828)Reconstruction Room<==>Sala de reconstrucción-->Sala de reconstrução
+(6829)Data Monitoring Room Access<==>Acceso a sala de monitorización de datos-->Acesso à sala de monitoramento de dados
+(6830)Data Monitoring Room<==>Sala de monitorización de datos-->Sala de monitoramento de dados
+(6831)Thermal Conduit Access<==>Acceso a conducto térmico-->Acesso ao condutor térmico
+(6832)Project Inner Core<==>Núcleo interno del proyecto-->Núcleo interno do projeto
+(6833)Project Interface Room<==>Sala de interfaz del proyecto-->Sala de interface do projeto
+(6834)Marker Access<==>Acceso a la Efigie-->Acesso ao Marker
+(6835)TEXT MESSAGE\nFrom: Sally Hennen\nTo: Marion Hennen\n\nMarion, sorry I missed your call, I was busy at the Church thing I told you about. I know, I've been spending a lot of time with them, but I love it there. They're so welcoming and kind. They really like me. And they've invited me to become an Initiate! I think I'm going to do it. They've helped me see beyond our lives here in this universe, here in these bodies. There's a beautiful oneness waiting for us all, after this life of anger and sadness. and disappointment. There's a reading tonight at the Church sanctuary, so I may be there if you call. I hope to talk to you soon, and don't worry about those forms they sent you, I can explain. k, bye, love you!\n\nSally<==>MENSAJE DE TEXTO\nDe: Sally Hennen\nPara: Marion Hennen\n\nMarion, siento no haberte cogido la llamada, estaba ocupada con el asunto ese de la Iglesia del que te hablé. Lo sé, paso mucho tiempo con ellos, pero es que me encanta. Son muy amables y cordiales. Les gusto de verdad. ¡Y me han invitado a hacerme iniciada! Creo que lo voy a hacer. Me han ayudado a ver más allá de nuestras vidas en el universo, en nuestros cuerpos. Existe una hermosa unidad que nos espera a todos después de esta vida de ira, tristeza y decepción. Esta noche hay una lectura en el santuario de la Iglesia, así que estaré allí si me llamas. Espero que hablemos pronto, y no te preocupes por los formularios que te mandaron, te lo puedo explicar. ¡Bien, adiós, te quiero!\n\nSally-->MENSAGEM DE TEXTO\nDe: Sally Hennen\nPara: Marion Hennen\n\nMarion, sinto muito não ter atendido sua ligação, eu estava ocupada com aquele assunto da Igreja do qual eu havia te falado. Eu sei, tenho passado muito tempo com eles, mas gosto muito de lá. Eles são tão amáveis e cordiais. Gosto deles, de verdade. E eles me convidaram para me tornar uma iniciada! Acho que vou fazer isso. Eles me ajudaram a ver além de nossas vidas aqui nesse universo, nesse corpo. Existe uma linda unidade esperando por todos nós depois dessa vida de ódio, tristeza e decepção. Essa noite vai haver uma leitura no santuário da Igreja, e por isso estarei ali se você ligar. Espero que possamos nos falar em breve, e não se preocupe com aqueles formulários que te enviaram, eu posso explicar. Tudo bem, então tchau, eu te amo!\n\nSally
 (6836-IGUAIS)ê
 (6837-IGUAIS)[
 (6838-IGUAIS)Ê
 (6839-IGUAIS){
-(6840)Bring this schematic to the store to unlock the Soldier Suit.<==>Lleva este diagrama al almacén para desbloquear el traje de soldado.-->Leve esse esquema para a loja para desbloquear o traje de soldado.
+(6840)Bring this schematic to the store to unlock the Soldier Suit.<==>Lleva este diagrama al almacén para desbloquear el traje de soldado.-->Leve esse diagrama até a loja para desbloquear o traje de soldado.
 (6841-IGUAIS)Andrew Bao
 (6842-IGUAIS)Travis Fox
 (6843-IGUAIS)Michael Gaugy
@@ -6847,35 +6847,35 @@
 (6846-IGUAIS)Anthony Ruelas
 (6847-IGUAIS)Chad Schnittjer
 (6848-IGUAIS)Steven Taylor
-(6849)School evacuation in effect. Do not run. Maintain single file.<==>Evacuación de la escuela en curso. No correr. Mantener una única fila.-->Evacuação da Escola iniciada. Não corra. Mantenha fila unica.
-(6850)Tom Bruno Daycare Center: Quiet please.<==>Guardería Tom Bruno: silencio, por favor.-->Creche Tom Bruno: Silêncio por favor.
-(6851)Nurse John Jones' office: A smart student is a healthy student<==>Enfermería de John Jones: un estudiante inteligente es un estudiante sano-->Esritório da Enfermeira John Jones: Um estudante inteligente é um estudante saudavel
-(6852)Nurse's office: A smart student is a healthy student<==>Enfermería: un estudiante inteligente es un estudiante sano-->Escritório da Enfermeira: and disappointment
-(6853)After lunch, enjoy our 4th graders' performance of "Galactilot"<==>Después de la comida, los alumnos de 4º curso representarán "Galactilot"-->Após o almoço, assista a atuação da quarta série de "Galactilot"  
-(6854)Enjoy your lunch! Eat your green pellets.<==>¡Disfrutad de la comida! Comeos las píldoras verdes.-->Desfrute do almoço! Coma as pelotas verdes.
-(6855)Playground Warning: No teacher on Duty<==>Alerta en el patio: no hay ningún profesor vigilando-->Aviso do Playground: Nenhum professor Trabalhando
-(6856)To Transport Hub.    Do not board train without parental supervision.<==>Para o centro de transporte. Prohibido subir al tren sin supervisión paterna.-->A estação de Transporte. Proibido subir a bordo sem a supervisão dos pais.
+(6849)School evacuation in effect. Do not run. Maintain single file.<==>Evacuación de la escuela en curso. No correr. Mantener una única fila.-->Evacuação da escola em curso. Não corra. Mantenha fila única.
+(6850)Tom Bruno Daycare Center: Quiet please.<==>Guardería Tom Bruno: silencio, por favor.-->Creche Tom Bruno: silêncio por favor.
+(6851)Nurse John Jones' office: A smart student is a healthy student<==>Enfermería de John Jones: un estudiante inteligente es un estudiante sano-->Enfermaria de John Jones: um estudante inteligente é um estudante saudável.
+(6852)Nurse's office: A smart student is a healthy student<==>Enfermería: un estudiante inteligente es un estudiante sano-->Enfermaria: um estudante inteligente é um estudante saudável.
+(6853)After lunch, enjoy our 4th graders' performance of "Galactilot"<==>Después de la comida, los alumnos de 4º curso representarán "Galactilot"-->Depois do almoço, os alunos da quarta série apresentarão "Galactilot"  
+(6854)Enjoy your lunch! Eat your green pellets.<==>¡Disfrutad de la comida! Comeos las píldoras verdes.-->Aproveite seu almoço! Coma seus comprimidos verdes.
+(6855)Playground Warning: No teacher on Duty<==>Alerta en el patio: no hay ningún profesor vigilando-->Alerta no pátio: não há nenhum professor vigiando
+(6856)To Transport Hub.    Do not board train without parental supervision.<==>Para o centro de transporte. Prohibido subir al tren sin supervisión paterna.-->Para o centro de transporte. Proibido subir no trem sem a supervisão dos pais.
 (6857-IGUAIS)Make Us Whole Make Us Whole Make Us Whole Make Us Whole Make Us Whole Make Us Whole
-(6858)Snare Government Sector with the Ishimura's gravity tethers.<==>Atrapa el sector gubernamental con los anclajes gravitatorios del Ishimura.-->Capture o Setor Governamental com a trava gravitacional da Ishimura.
+(6858)Snare Government Sector with the Ishimura's gravity tethers.<==>Atrapa el sector gubernamental con los anclajes gravitatorios del Ishimura.-->Capture o setor governamental com a trava gravitacional da Ishimura.
 (6859)///audio<==>///Sonido-->///audio
 (6860)acquire<==>Adquirir-->adquirir
-(6861)LINE RACKS\nSchematic Acquired\nDownload at the Store<==>MUNICIÓN LINEAL\nDiagrama Adquirido\nDescargar en el almacén-->MUNIÇÃO LINEAR\nEsquemas Adquiridos\nBaixe na loja
+(6861)LINE RACKS\nSchematic Acquired\nDownload at the Store<==>MUNICIÓN LINEAL\nDiagrama Adquirido\nDescargar en el almacén-->MUNIÇÃO LINEAR\nDiagrama Adquirido\nBaixe na loja
 (6862-IGUAIS)John Edwards
 (6863-IGUAIS)1
-(6864)An EA account record with a conflicting name already exists. For Xbox LIVE accounts, the user cannot play EA games online until he or she contacts Microsoft technical support to change the gamertag.<==>Ya está registrada una cuenta EA con un nombre que provoca un conflicto. Para las cuentas de Xbox LIVE, el usuario no podrá jugar a juegos de EA online hasta contactar con el servicio técnico de Microsoft para cambiar el gamertag.-->Impossivel criar ID de usuario/EA ID devido ao email/displayname já existir.
-(6865)Cannot create user/persona because email/displayname already exists.<==>No se puede crear el usuario/la identidad porque la dirección de correo electrónico/el nombre para mostrar ya existe.-->Impossivel criar usuario/persona devido ao email/displayname já existir.
+(6864)An EA account record with a conflicting name already exists. For Xbox LIVE accounts, the user cannot play EA games online until he or she contacts Microsoft technical support to change the gamertag.<==>Ya está registrada una cuenta EA con un nombre que provoca un conflicto. Para las cuentas de Xbox LIVE, el usuario no podrá jugar a juegos de EA online hasta contactar con el servicio técnico de Microsoft para cambiar el gamertag.-->Já está registrada uma conta EA com esse mesmo nome. Para as contas da XBOX LIVE, o usuário não poderá jogar os jogos da EA online até contactar o serviço técnico da Microsoft para mudar o gamertag.
+(6865)Cannot create user/persona because email/displayname already exists.<==>No se puede crear el usuario/la identidad porque la dirección de correo electrónico/el nombre para mostrar ya existe.-->Não foi possível criar o usuário/a identidade porque o endereço de email/o nome do usuário já existe.
 (6866)INTO THE FIRE 1/5<==>FUEGO 1/5-->FOGO 1/5
 (6867)INTO THE FIRE 2/5<==>FUEGO 2/5-->FOGO 2/5
 (6868)INTO THE FIRE 3/5<==>FUEGO 3/5-->FOGO 3/5
 (6869)INTO THE FIRE 5/5<==>FUEGO 5/5-->FOGO 5/5
 (6870)INTO THE FIRE 4/5<==>FUEGO 4/5-->FOGO 4/5
-(6871)Multiplayer Level Designers<==>Diseñadores de niveles multijugador-->Designer de Nivels MultiJogador
-(6872)prevent the delivery of the klystron<==>Evita que el klistrón llegue al banco de trabajo.-->impeça a entrega do klystron
+(6871)Multiplayer Level Designers<==>Diseñadores de niveles multijugador-->Designer de Níveis MultiJogador
+(6872)prevent the delivery of the klystron<==>Evita que el klistrón llegue al banco de trabajo.-->Evite que o Klystron chegue à bancada de trabalho.
 (6873)Development Director<==>Director de desarrollo-->Diretor de Desenvolvimento
-(6874)QA Tester<==>Pruebas de control de calidad-->Testes QA
-(6875)melee attack<==>Cuerpo a cuerpo-->ataque corporal
+(6874)QA Tester<==>Pruebas de control de calidad-->Testes de Controle de Qualidade
+(6875)melee attack<==>Cuerpo a cuerpo-->ataque corpo a corpo
 (6876)UI Artist<==>Diseñador de IU-->Artista de UI
-(6877)Vintage Elite Suit Schematic<==>Diagrama de traje vintage de élite-->Esquemas de Traje Elite Vintage
+(6877)Vintage Elite Suit Schematic<==>Diagrama de traje vintage de élite-->Diagrama de traje vintage de elite
 (6878-IGUAIS)Siddharth Achrekar
 (6879-IGUAIS)David A. Mosher
 (6880-IGUAIS)Chris Paul
@@ -6886,10 +6886,10 @@
 (6885-IGUAIS)-
 (6886-IGUAIS)_
 (6887-IGUAIS)_
-(6888)Lead Engineer<==>Ingeniero jefe-->Engenheiro Lider
+(6888)Lead Engineer<==>Ingeniero jefe-->Engenheiro Chefe
 (6889-IGUAIS)1
-(6890)WARNING<==>ALERTA-->AVISO
-(6891)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isso aumentará os dados do DISPARO ALTERNATIVO
-(6892)QA Lead<==>Jefe de control de calidad-->Lider QA
+(6890)WARNING<==>ALERTA-->ALERTA
+(6891)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isso vai aumentar o dano do DISPARO SECUNDÁRIO
+(6892)QA Lead<==>Jefe de control de calidad-->Chefe do Controle de Qualidade
 (6893-IGUAIS)Carlos Moreira-Orantes
-(6894)this is a secret achievement<==>Este es un logro secreto-->esta é uma conquista secreta
+(6894)this is a secret achievement<==>Este es un logro secreto-->essa é uma conquista secreta
