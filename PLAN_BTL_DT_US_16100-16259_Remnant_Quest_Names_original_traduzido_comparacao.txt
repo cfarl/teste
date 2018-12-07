@@ -1,15 +1,15 @@
 (0001)Remnant Names dummy<==>Nombres de reliquias-->Remnant Names dummy
 (0002-IGUAIS)Elysion
-(0003)Ark<==>Arca-->Ark
+(0003)Ark<==>Arca-->Arca
 (0004-IGUAIS)Gwayn
 (0005)Harmonium<==>Harmonio-->Harmonium
 (0006)Visistone<==>Visipiedra-->Visistone
 (0007-IGUAIS)Ala Melvilana
 (0008-IGUAIS)Umbermarici
-(0009)Sealing Remnant<==>Reliquia-barrera-->Sealing Remnant
-(0010)Cosmos Remnant<==>Reliquia cósmica-->Cosmos Remnant
-(0011)Talisman<==>Talismán-->Talisman
-(0012)Talisman<==>Talismán-->Talisman
+(0009)Sealing Remnant<==>Reliquia-barrera-->Remanescente Barreira
+(0010)Cosmos Remnant<==>Reliquia cósmica-->Remanescente Cósmico
+(0011)Talisman<==>Talismán-->Talismã
+(0012)Talisman<==>Talismán-->Talismã
 (0013-IGUAIS)Kellendros
 (0014-IGUAIS)Gae Bolg
 (0015)Bilqis<==>Bilquis-->Bilqis
@@ -18,77 +18,77 @@
 (0018-IGUAIS)Namul Niram
 (0019-IGUAIS)Namul Sin
 (0020-IGUAIS)Niram Sin
-(0021-IGUAIS)Lob Omen
-(0022)Rubber Soul<==>Almalástica-->Rubber Soul
-(0023)Dead Heart<==>Corazón Difunto-->Dead Heart
+(0021-IGUAIS)Lob Omenl
+(0022)Rubber Soul<==>Almalástica-->Almelástica
+(0023)Dead Heart<==>Corazón Difunto-->Coração Defunto
 (0024-IGUAIS)Liafort
 (0025)Cloning Remnant<==>Reliquia duplicadora-->Cloning Remnant
-(0026)Valeria Heart<==>Corazón Valeroso-->Valeria Heart
+(0026)Valeria Heart<==>Corazón Valeroso-->Coração Valeriano
 (0027-IGUAIS)Tao Tie
 (0028-IGUAIS)Brimuslabus
-(0029)Blue Elf<==>Lágrima Azul-->Blue Elf
+(0029)Blue Elf<==>Lágrima Azul-->Lágrima Azul
 (0030-IGUAIS)Emeth Tag
-(0031)Frostblade<==>Stiria-->Frostblade
-(0032)Obsidian<==>Onyx-->Obsidian
-(0033)Nightbloom<==>Luna-->Nightbloom
+(0031)Frostblade<==>Stiria-->Espada da Geada
+(0032)Obsidian<==>Onyx-->Obsidiana
+(0033)Nightbloom<==>Luna-->Flornoturna
 (0034-IGUAIS)Daedalus
 (0035-IGUAIS)Malystrix
-(0036)Liberty Staff<==>Bastón libertador-->Liberty Staff
+(0036)Liberty Staff<==>Bastón libertador-->Bastão Libertador
 (0037-IGUAIS)Brionac
 (0038)Simarrionne<==>Silmarinia-->Simarrionne
-(0039)Blood Chalice<==>Cáliz de sangre-->Blood Chalice
-(0040)Heartache<==>Mal de amores-->Heartache
-(0041)Cyclops<==>Cíclope-->Cyclops
-(0042)Last Leaf<==>Hoja Caída-->Last Leaf
+(0039)Blood Chalice<==>Cáliz de sangre-->Cálice de Sangue
+(0040)Heartache<==>Mal de amores-->Mal de Amores
+(0041)Cyclops<==>Cíclope-->Ciclope
+(0042)Last Leaf<==>Hoja Caída-->Folha Caída
 (0043-IGUAIS)Syltique
 (0044-IGUAIS)Flâchonelle
 (0045-IGUAIS)Arco Iris
-(0046)Luminescence<==>Luminiscencia-->Luminescence
-(0047)The Collapse<==>Cataclismo-->The Collapse
-(0048)Talisman<==>Talismán-->Talisman
-(0049)Tablet<==>Tablilla-->Tablet
-(0050)Leithion's Sword<==>Espada de Leithion-->Leithion's Sword
-(0051)The Forbidden Tome<==>Manuscrito maldito-->The Forbidden Tome
-(0052)Remnant<==>Reliquia-->Remnant
-(0053)Monster<==>Monstruo-->Monster
-(0054)Spells<==>Hechizos-->Spells
-(0055)Spells<==>Hechizos-->Spells
-(0056)Spells<==>Hechizos-->Spells
-(0057)Homunculus<==>Homúnculo-->Homunculus
-(0058)The Gates of Hell<==>Cancerbero-->The Gates of Hell
+(0046)Luminescence<==>Luminiscencia-->Luminescência
+(0047)The Collapse<==>Cataclismo-->Cataclismo 
+(0048)Talisman<==>Talismán-->Talismã 
+(0049)Tablet<==>Tablilla-->Tabuleta
+(0050)Leithion's Sword<==>Espada de Leithion-->Espada de Leithion
+(0051)The Forbidden Tome<==>Manuscrito maldito-->Tomo Proibido
+(0052)Remnant<==>Reliquia-->Remanescente
+(0053)Monster<==>Monstruo-->Monstro
+(0054)Spells<==>Hechizos-->Magias
+(0055)Spells<==>Hechizos-->Magias
+(0056)Spells<==>Hechizos-->Magias
+(0057)Homunculus<==>Homúnculo-->Homúnculo
+(0058)The Gates of Hell<==>Cancerbero-->Os Portões do Inferno
 (0059-IGUAIS)Oswald
-(0060)The Fallen<==>El Condenado-->The Fallen
-(0061)Grand Beetle<==>Mantis prócer-->Grand Beetle
-(0062)Wild Dragon<==>Dragón bravo-->Wild Dragon
-(0063)Ferocious Lion<==>León fiero-->Ferocious Lion
-(0064)Hero Slayer<==>Degüellahéroes-->Hero Slayer
-(0065-IGUAIS)Vespalia
+(0060)The Fallen<==>El Condenado-->O Condenado
+(0061)Grand Beetle<==>Mantis prócer-->Grande Besouro
+(0062)Wild Dragon<==>Dragón bravo-->Dragão Selvagem
+(0063)Ferocious Lion<==>León fiero-->Leão Feroz
+(0064)Hero Slayer<==>Degüellahéroes-->Matador de Heróis
+(0065-IGUAIS)Vespália
 (0066-IGUAIS)Validus
-(0067)The Hero<==>Héroe-->The Hero
+(0067)The Hero<==>Héroe-->O Herói
 (0068-IGUAIS)Jhana
-(0069)Congress<==>Consejo-->Congress
-(0070)The First Committee<==>Primer Comité-->The First Committee
-(0071)The Second Committee<==>Segundo Comité-->The Second Committee
-(0072)The Third Committee<==>Tercer Comité-->The Third Committee
-(0073)The Silver Falcons<==>Halcones Argénteos-->The Silver Falcons
-(0074)The Ladies of Bloody Alice<==>Damas Sangrientas-->The Ladies of Bloody Alice
+(0069)Congress<==>Consejo-->Conselho
+(0070)The First Committee<==>Primer Comité-->O Primeiro Comitê 
+(0071)The Second Committee<==>Segundo Comité-->O Segundo Comitê
+(0072)The Third Committee<==>Tercer Comité-->O Terceiro Comitê
+(0073)The Silver Falcons<==>Halcones Argénteos-->Os Falcões Prateados 
+(0074)The Ladies of Bloody Alice<==>Damas Sangrientas-->As Damas Sangrentas
 (0075)Mantroskylo<==>Mandrógiro-->Mantroskylo
-(0076)The Third Committee<==>Tercer Comité-->The Third Committee
-(0077)The Conqueror's Army<==>Ejército del Invasor-->The Conqueror's Army
-(0078)Eulam Island<==>Isla de Eulam-->Eulam Island
+(0076)The Third Committee<==>Tercer Comité-->O Terceiro Comitê
+(0077)The Conqueror's Army<==>Ejército del Invasor-->O Exército do Conquistador
+(0078)Eulam Island<==>Isla de Eulam-->Ilja de Eulam
 (0079-IGUAIS)Veyriel
 (0080)HP<==>PV-->HP
 (0081)AP<==>PA-->AP
-(0082)Strength<==>Fuerza-->Strength
-(0083)Intellect<==>Inteligencia-->Intellect
-(0084)Speed<==>Velocidad-->Speed
+(0082)Strength<==>Fuerza-->Força 
+(0083)Intellect<==>Inteligencia-->Inteligência 
+(0084)Speed<==>Velocidad-->Velocidade
 (0085)Task dummy<==>Misiones-->Task dummy
-(0086)The Dreaming Rose<==>La rosa soñadora-->The Dreaming Rose
-(0087)When the Rose Blooms<==>El despertar de la rosa-->When the Rose Blooms
-(0088)For Love the Bell Tolls<==>Por amor tañen las campanas-->For Love the Bell Tolls
-(0089)Goodbye, Sweet Love<==>Adiós con el corazón-->Goodbye, Sweet Love
-(0090)Love Will Rise Again<==>Amor sin fronteras-->Love Will Rise Again
-(0091)The Broken Seal<==>La restauración de la barrera-->The Broken Seal
+(0086)The Dreaming Rose<==>La rosa soñadora-->A rosa sonhadora
+(0087)When the Rose Blooms<==>El despertar de la rosa-->O despertar da rosa
+(0088)For Love the Bell Tolls<==>Por amor tañen las campanas-->Por amor tocam os sinos
+(0089)Goodbye, Sweet Love<==>Adiós con el corazón-->Adeus, doce amor
+(0090)Love Will Rise Again<==>Amor sin fronteras-->Amor sem fronteiras
+(0091)The Broken Seal<==>La restauración de la barrera-->A restauração da barreira
 (0092)The Disappearing Knights<==>En busca de los caballeros perdidos-->The Disappearing Knights
 (0093)The Reviving Legend<==>No pasarán-->The Reviving Legend
 (0094)The Cosmos Maiden<==>La Ninfa Cósmica-->The Cosmos Maiden
