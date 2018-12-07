@@ -6678,50 +6678,50 @@
 (6677)WARNING: SECURITY BREACH<==>ALERTA: INFRACCIÓN DE SEGURIDAD-->ALERTA: INFRAÇÃO DE SEGURANÇA 
 (6678)WARNING:  SECURITY BREACH<==>ALERTA: INFRACCIÓN DE SEGURIDAD-->ALERTA: INFRAÇÃO DE SEGURANÇA 
 (6679)WARNING:  SECURITY BREACH<==>ALERTA: INFRACCIÓN DE SEGURIDAD-->ALERTA: INFRAÇÃO DE SEGURANÇA 
-(6680)Absolutely NO PATIENTS beyond this point<==>Zona totalmente PROHIBIDA para todos los pacientes-->Zona totalmente proibida para todos os pacientes
+(6680)Absolutely NO PATIENTS beyond this point<==>Zona totalmente PROHIBIDA para todos los pacientes-->Zona absolutamente proibida para todos os pacientes
 (6681)Authorized Personnel Only<==>Solo personal autorizado-->Somente pessoal autorizado
-(6682)You are returning to a patient area. Maintain proper protocol.<==>Está regresando a una zona de pacientes. Mantenga el protocolo adecuado.-->Você está retornando a uma área de pacientes. Mantenha o protocolo apropriado.
-(6683)Maintain sterile environment procedures<==>Mantenga los procedimientos de entorno esterilizado-->Mantenha os procedimentos de entorno esterelizados
-(6684)WARNING: Laser Cutters in Operation<==>ATENCIÓN: Cortadoras láser en funcionamiento-->AVISO: Cortadores a Laser em Operação
-(6685)Unauthorized Personnel Detected<==>Personal no autorizado detectado-->Pessoal Não-Autorizado Detectado
-(6686)SCHEMATIC\nACQUIRED<==>DIAGRAMA\nADQUIRIDO-->ESQUEMAS\nADQUIRIU
-(6687)Unauthorized Personnel Detected<==>Personal no autorizado detectado-->Pessoal Não-Autorizado Detectado
-(6688)Thank You for Visiting Our Hospital<==>Gracias por visitar nuestro hospital-->Obrigado Por Visitar Nosso Hospital
-(6689)No Visitors, Please<==>No se admiten visitas-->Visitas Não Permitidas, Por favor
-(6690)WARNING: Stasis Beds in Operation<==>ATENCIÓN: Camas de estabilización en funcionamiento.-->AVISO: Camas de Estase em Operação
-(6691)Maintain sterile environment procedures<==>Mantenga los procedimientos de entorno esterilizado-->Mantenha os procedimentos para um ambiente estéril
-(6692)THIS AREA HAS BEEN LOCKED DOWN. NO ACCESS<==>ESTA ZONA SE HA CERRADO. NO PASAR.-->ESTA AREA FOI LACRADA. ACESSO NEGADO
-(6693)All Visitors Must Sign In<==>Todos los visitantes deben registrarse-->Todos os Visitantes Devem Alitar-se
-(6694)WARNING: Volatile Gases in Use<==>ATENCIÓN: Gases volátiles en uso.-->AVISO: Gases Volateis em Uso
-(6695)Watch for Incoming Patients<==>Atención a la llegada de pacientes-->Fique Atento com Pacientes que Chegam
-(6696)WARNING: Incoming Ambulances<==>ATENCIÓN: Llegada de ambulancias-->AVISO: Ambulâncias Chegando
-(6697)THIS AREA HAS BEEN LOCKED DOWN. NO ACCESS<==>ESTA ZONA SE HA CERRADO. NO PASAR.-->ESTA AREA FOI LACRADA. ACESSO NEGADO
-(6698)THIS AREA HAS BEEN LOCKED DOWN. NO ACCESS<==>ESTA ZONA SE HA CERRADO. NO PASAR.-->ESTA AREA FOI LACRADA. ACESSO NEGADO
-(6699)Authorized Personnel Only<==>Solo personal autorizado-->Somente Pessoal Autorizado
+(6682)You are returning to a patient area. Maintain proper protocol.<==>Está regresando a una zona de pacientes. Mantenga el protocolo adecuado.-->Você está retornando a uma área de pacientes. Mantenha o protocolo adequado.
+(6683)Maintain sterile environment procedures<==>Mantenga los procedimientos de entorno esterilizado-->Mantenha os procedimentos para um ambiente esterelizado
+(6684)WARNING: Laser Cutters in Operation<==>ATENCIÓN: Cortadoras láser en funcionamiento-->ATENÇÃO: Cortadoras Laser em funcionamento 
+(6685)Unauthorized Personnel Detected<==>Personal no autorizado detectado-->Pessoal não-autorizado detectado
+(6686)SCHEMATIC\nACQUIRED<==>DIAGRAMA\nADQUIRIDO-->DIAGRAMA\nADQUIRIDO
+(6687)Unauthorized Personnel Detected<==>Personal no autorizado detectado-->Pessoal não-autorizado detectado
+(6688)Thank You for Visiting Our Hospital<==>Gracias por visitar nuestro hospital-->Obrigado por visitar nosso hospital
+(6689)No Visitors, Please<==>No se admiten visitas-->Visitas não são permitidas
+(6690)WARNING: Stasis Beds in Operation<==>ATENCIÓN: Camas de estabilización en funcionamiento.-->ATENÇÃO: Camas de estabilização em funcionamento 
+(6691)Maintain sterile environment procedures<==>Mantenga los procedimientos de entorno esterilizado-->Mantenha os procedimentos para um ambiente esterelizado
+(6692)THIS AREA HAS BEEN LOCKED DOWN. NO ACCESS<==>ESTA ZONA SE HA CERRADO. NO PASAR.-->ESTA ÁREA FOI FECHADA. ACESSO NEGADO
+(6693)All Visitors Must Sign In<==>Todos los visitantes deben registrarse-->Todos visitantes devem se registrar
+(6694)WARNING: Volatile Gases in Use<==>ATENCIÓN: Gases volátiles en uso.-->ATENÇÃO: Gases voláteis em uso
+(6695)Watch for Incoming Patients<==>Atención a la llegada de pacientes-->Fique atento à chegada de pacientes
+(6696)WARNING: Incoming Ambulances<==>ATENCIÓN: Llegada de ambulancias-->ATENÇÃO: Ambulâncias chegando
+(6697)THIS AREA HAS BEEN LOCKED DOWN. NO ACCESS<==>ESTA ZONA SE HA CERRADO. NO PASAR.-->ESSA ÁREA FOI FECHADA. ACESSO NEGADO
+(6698)THIS AREA HAS BEEN LOCKED DOWN. NO ACCESS<==>ESSA ZONA SE HA FECHADA. NO PASAR.-->ESSA ÁREA FOI FECHADA. ACESSO NEGADO
+(6699)Authorized Personnel Only<==>Solo personal autorizado-->Somente pessoal autorizado
 (6700)[RDDown]Select<==>[RDDown]Selec.-->[RDDown]Selecionar
-(6701)current level<==>Nivel actual-->current level
+(6701)current level<==>Nivel actual-->nível atual
 (6702)Gravity\nactivated<==>Gravedad\nactivada-->Gravidade\nativada
 (6703)rotate camera<==>Rotar cámara-->girar camera
-(6704)PULSE RIFLE\nSchematic Acquired\nDownload at the Store<==>RIFLE DE IMPULSOS\nDiagrama Adquirido\nDescargar en el almacén-->RIFLE DE PULSO\nEsquemas Adquiridos\nBaixe na loja
+(6704)PULSE RIFLE\nSchematic Acquired\nDownload at the Store<==>RIFLE DE IMPULSOS\nDiagrama Adquirido\nDescargar en el almacén-->RIFLE DE IMPULSOS\nDiagrama Adquirido\nBaixe na loja
 (6705)Processing load\nPlease stand by<==>Procesando carga.\nEspere.-->Processando carga\nPor favor aguarde
 (6706-IGUAIS)1
 (6707-IGUAIS)Jim Cummings
-(6708)Senior Localization Software Engineer<==>Ingeniero de software de localización sénior-->Engenheiro Senior de Localização de Software
-(6709)prevent the humans from priming the beam emitters<==>Evita que los humanos detonen los emisores de haces.-->impeça que os humanos detonem os emissores de raio
-(6710)Technical Art<==>Diseño técnico-->Arte Tecnica
-(6711)MISSION: The government has been conducting experiments with markers and corruption in the government sector labs. These experiments must be shut down. The Humans must infiltrate the government sector labs and destroy the experiments.<==>MISIÓN: El gobierno ha estado realizando experimentos con Efigies y corrupción en los laboratorios del sector gubernamental. Estos experimentos deben detenerse. Los humanos deben infiltrarse en los laboratorios del sector gubernamental y destruir los experimentos.-->MISSÃO: O governo está conduzindo experimentos com Éfigies e corrupção nos laboratórios do setor governamental. Esses experimentos precisam ser impedidos. Os Humanos devem se infiltrar nos laboratorios do setor governamental para destruir os experimentos.
-(6712)deadly space<==>Entorno mortal-->espaço mortal
-(6713)I'm lucky to be alive, but for how long? That tram crash put me close to Daina's location, but I'll have to make it the rest of the way on foot.\n\nI just worry that this dementia will get to me first.<==>Tengo suerte de estar vivo, pero ¿por cuánto tiempo? El choque del monorraíl me ha dejado cerca de la posición de Daina, pero tendré que hacer el resto del camino a pie.\n\nMe preocupa que esta demencia se apodere de mí antes.-->Tenho sorte de estar vivo, mas por quanto tempo ficarei? Aquele acidente no trem me trouxe para perto da localização de Daina, mas precisarei cobrir o resto do caminho a pé.\n\nMinha única preocupação é que essas coisas não me peguem antes.
-(6714)Log-in Failed<==>Error de inicio de sesión-->Falha ao Logar
-(6715)This feeling in my head - I remember it now. It's what they were doing to me the whole time I've been here.\n\nBut what does it mean? What is Nicole expecting me to do? Why do I feel like I can destroy the Marker, but I have no idea how? There's only one way to find out.<==>Esta sensación en la cabeza..., ahora la recuerdo. Es lo que me estuvieron haciendo todo el tiempo que estuve aquí. \n\n¿Qué significa? ¿Qué esperará Nicole que haga? ¿Por qué siento que puedo destruir la Efigie, pero no tengo ni idea de cómo? Solo hay un modo de averiguarlo.-->Esse pensamento em minha cabeça. Eu lembro agora. É o que eles estavam fazendo comigo durante todo o tempo que estive aqui.\n\nMas o que isso significa? O que Nicole espera que eu faça? Porque sinto que eu deveria destruir a Éfigie, mas não tenho ideia de como fazê-lo? Só existe uma forma de descobrir.
-(6716)Docked near the Sprawl, the Human team must evacuate the Ishimura via the escape pods.<==>Los humanos deben evacuar el Ishimura, acoplado cerca del Eje, en las cápsulas de escape.-->A equipe de Humanos deve evacuar a Ishimura através das capsulas de fuga.
-(6717)Christ! What happened?<==>¡Dios! ¿Qué ha pasado?-->Cristo! O que aconteceu?
-(6718)What is going on around here? Ok, prep those beds. We're going to need five more from Ward Two. Well, come on! Move! Move! This place is going to be overflowing in a few minutes! Let's get to work.<==>¿Qué está pasando aquí? Hay que preparar esas camas. Necesitaremos otras cinco del ala 2. ¡Venga, en marcha! ¡Vamos! ¡Vamos! ¡Esto se va a llenar dentro de unos minutos! A trabajar.-->O que está havendo aqui? Ok, preparem aquelas camas. Vamos precisar de mais cinco da Segunda Enfermaria. Bem, vamos! Anda! Anda! Esse lugar vai estar cheio em poucos minutos! Vamos trabalhar.
-(6719)Dr. Brennan, Officer Vincent on the line. Four more have just arrived - somehow they snuck past quarantine. They need to be checked for signs of infection.<==>Dra. Brennan, el oficial Vincent al teléfono. Han llegado cuatro más, han evitado la cuarentena de algún modo. Hay que comprobar si muestran síntomas de infección.-->Dr. Brennan, Oficial Vincent na linha. Mais quatro acabaram de chegar - de alguma forma eles enganaram a quarentena. Eles precisam ser checados a procura de sinais de infecção.
-(6720)Mines planted<==>Minas colocadas-->Minas plantadas
+(6708)Senior Localization Software Engineer<==>Ingeniero de software de localización sénior-->Engenheiro de Software de Localização Sênior 
+(6709)prevent the humans from priming the beam emitters<==>Evita que los humanos detonen los emisores de haces.-->Impeça que os humanos detonem os emissores de raio
+(6710)Technical Art<==>Diseño técnico-->Arte Técnica 
+(6711)MISSION: The government has been conducting experiments with markers and corruption in the government sector labs. These experiments must be shut down. The Humans must infiltrate the government sector labs and destroy the experiments.<==>MISIÓN: El gobierno ha estado realizando experimentos con Efigies y corrupción en los laboratorios del sector gubernamental. Estos experimentos deben detenerse. Los humanos deben infiltrarse en los laboratorios del sector gubernamental y destruir los experimentos.-->MISSÃO: O governo está conduzindo experimentos com Markers e corrupção nos laboratórios do setor governamental. Esses experimentos precisam parar. Os humanos devem se infiltrar nos laboratorios do setor governamental para destruir os experimentos.
+(6712)deadly space<==>Entorno mortal-->ambiente mortal
+(6713)I'm lucky to be alive, but for how long? That tram crash put me close to Daina's location, but I'll have to make it the rest of the way on foot.\n\nI just worry that this dementia will get to me first.<==>Tengo suerte de estar vivo, pero ¿por cuánto tiempo? El choque del monorraíl me ha dejado cerca de la posición de Daina, pero tendré que hacer el resto del camino a pie.\n\nMe preocupa que esta demencia se apodere de mí antes.-->Tenho sorte de estar vivo, mas por quanto tempo? Aquele acidente no trem me trouxe para perto da localização da Daina, mas terei que fazer o resto do caminho a pé.\n\nMinha única preocupação é que essa demência se apodere de mim antes.
+(6714)Log-in Failed<==>Error de inicio de sesión-->Falha ao logar
+(6715)This feeling in my head - I remember it now. It's what they were doing to me the whole time I've been here.\n\nBut what does it mean? What is Nicole expecting me to do? Why do I feel like I can destroy the Marker, but I have no idea how? There's only one way to find out.<==>Esta sensación en la cabeza..., ahora la recuerdo. Es lo que me estuvieron haciendo todo el tiempo que estuve aquí. \n\n¿Qué significa? ¿Qué esperará Nicole que haga? ¿Por qué siento que puedo destruir la Efigie, pero no tengo ni idea de cómo? Solo hay un modo de averiguarlo.-->Essa sensação na minha cabeça. Agora eu me lembro. Isso é o que eles estavam fazendo comigo durante todo o tempo em que estive aqui.\n\nMas o que isso significa? O que Nicole espera que eu faça? Porque sinto que posso destruir o Marker, mas não tenho nem ideia de como fazer isso? Só existe uma maneira de descobrir.
+(6716)Docked near the Sprawl, the Human team must evacuate the Ishimura via the escape pods.<==>Los humanos deben evacuar el Ishimura, acoplado cerca del Eje, en las cápsulas de escape.-->Os humanos devem evacuar a Ishimura, ancorada perto do Eixo, usando as cápsulas de fuga.
+(6717)Christ! What happened?<==>¡Dios! ¿Qué ha pasado?-->Deus! O que aconteceu?
+(6718)What is going on around here? Ok, prep those beds. We're going to need five more from Ward Two. Well, come on! Move! Move! This place is going to be overflowing in a few minutes! Let's get to work.<==>¿Qué está pasando aquí? Hay que preparar esas camas. Necesitaremos otras cinco del ala 2. ¡Venga, en marcha! ¡Vamos! ¡Vamos! ¡Esto se va a llenar dentro de unos minutos! A trabajar.-->O que aconteceu aqui? Certo, temos de preparar essas camas. Vamos precisar de mais cinco da ala dois. Vamos, movam-se! Vamos! Vamos! Esse lugar vai estar infestado dentro de poucos minutos! Ao trabalho! 
+(6719)Dr. Brennan, Officer Vincent on the line. Four more have just arrived - somehow they snuck past quarantine. They need to be checked for signs of infection.<==>Dra. Brennan, el oficial Vincent al teléfono. Han llegado cuatro más, han evitado la cuarentena de algún modo. Hay que comprobar si muestran síntomas de infección.-->Dra. Brennan, oficial Vincent na linha. Acabaram de chegar mais quatro - de algum modo eles escaparam da quarentena. Temos de verificar se apresentam sintomas da infecção.
+(6720)Mines planted<==>Minas colocadas-->Minas colocadas
 (6721){m}/{d}/{y}<==>{d}/{m}/{y}-->{m}/{d}/{y}
 (6722-IGUAIS)Nolan Stross
-(6723)Jonathan, it's Brodie, we're heading to shuttle bay A-18, go straight there!  The shuttles are taking off half full!  Everyone's in a panic, some women got trampled back in the atrium!   We're all gonna die if we don't get off this station.   I hope you get this.  A-18, as fast as you can. Alright I'm coming, let's go A-18!<==>¡Jonathan, soy Brodie, nos dirigimos a la plataforma de transbordador A-18, ve hacia allí! ¡Los transbordadores están partiendo a media carga! ¡Cunde el pánico, incluso han pisoteado a unas mujeres en el atrio! Moriremos todos si no salimos de esta estación. Espero que recibas esto. A-18, lo más rápido que puedas. ¡Me voy, nos vemos en la A-18!-->Jonathan, é o Brodie, estamos indo para a transportadora A-18, vá direto para lá!  As transportadoras estão decolando com a metade da capacidade!  Todos estão em panico, algumas mulheres ficaram presas no atrio!   Todos nós morreremos se não sairmos dessa estação.   Espero que receba isto.  A-18, o mais rápido que puder. Tudo bem, estou chegando, vamos A-18!
+(6723)Jonathan, it's Brodie, we're heading to shuttle bay A-18, go straight there!  The shuttles are taking off half full!  Everyone's in a panic, some women got trampled back in the atrium!   We're all gonna die if we don't get off this station.   I hope you get this.  A-18, as fast as you can. Alright I'm coming, let's go A-18!<==>¡Jonathan, soy Brodie, nos dirigimos a la plataforma de transbordador A-18, ve hacia allí! ¡Los transbordadores están partiendo a media carga! ¡Cunde el pánico, incluso han pisoteado a unas mujeres en el atrio! Moriremos todos si no salimos de esta estación. Espero que recibas esto. A-18, lo más rápido que puedas. ¡Me voy, nos vemos en la A-18!-->Jonathan, é o Brodie, estamos nos dirigindo para a plataforma de transporte A-18, vá direto para lá!  Os transportadores estão partindo com metade da capacidade!  Todos estão em pânico, inclusive umas mulheres foram pisoteadas no átrio!   Vamos todos morrer aqui se não sairmos dessa estação.   Espero que receba isso.  A-18, o mais rápido que puder. Estou indo, nos vemos na A-18!
 (6724)Shift<==>Mayús-->Shift
 (6725)Shift<==>Mayús-->Shift
 (6726)Shift<==>Mayús-->Shift
