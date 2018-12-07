@@ -1,0 +1,301 @@
+Location Names dummy
+Elysion
+Nagapur
+Undelwalt
+Athlum
+Celapaleis
+Ghor
+Balterossa
+Melphina
+Royotia
+Baaluk
+Dillmoor
+Darken Forest
+Fornstrand
+Heroic Ramparts
+The Ivory Peaks
+Mt. Vackel
+Crookfen
+Berechevaltelle
+The Southwestern Road
+The Great Sand Sea
+Vale of the Gods
+Lavafender
+Wyrmskeep
+Ruins of Robelia Castle
+Gaslin Caves
+Aveclyff
+Blackdale
+The Unknown Cavern
+The Aqueducts
+The Catacombs
+The Sacred Lands
+The Sacred Lands
+The Sacred Lands
+Numor Mine
+Marshallton
+Beneath Undelwalt
+Beneath Undelwalt
+The Great Subterrane
+Yvalock's Nest
+Flaumello Tower
+Mojcado Castle
+Siebenbur
+The First Path
+The Second Path
+The Third Path
+The Fourth Path
+The Fifth Path
+The Sixth Path
+The Ancient Ruins
+Blackdale Second Entrance
+Yamarn Plain
+Blackdale
+Nest of Eagles
+Plain of Luhang
+Base 1
+Base 2
+Base 3
+Base 4
+Base 5
+Base 6
+Koenigsdorf
+Holy Plain
+Harphlus Pass
+Malbourge Flatlands
+Salamander's Belly
+Salamander's Tail
+Salamander's Tongue
+The Sealed Chambers
+City Locations dummy
+Tula Street
+Genaade District
+Hendler
+Assembly Plaza
+The Heavenly Terrace
+Union of the Golden Chalice
+Sword of Three Realms
+Ring of the Labyrinth
+Temple of Elysion
+Entrance Hall
+Ark Gate
+Xiphos Way
+Town Square
+Virtus Parish
+Athlum Castle
+Warrior's Honor
+Union of the Golden Chalice
+Army Recruitment Officer
+Ring of the Labyrinth
+Grentze Commune
+The Lord's Manor
+The Rift
+Union of the Golden Chalice
+Grants Way
+Lamberro District
+Celapaleis Castle
+Amber Tavern
+Union of the Golden Chalice
+Sword of Three Realms
+Warrior Town
+Ghor Castle
+Den of Heroes
+Ring of the Ancient Castle
+Cobalt Plaza
+Palace of Melphina
+The Babbling Brook
+Union of the Golden Chalice
+Flussbahn
+Sudenalm
+Nordenalm
+Wyrmskeep
+Pub Drachenhauch
+Union of the Golden Chalice
+Byon Sector
+Royotia Castle
+The Firestone
+Union of the Golden Chalice
+Aurey Way
+Gefyri
+Castellum
+The Blessed Chime
+Union of the Golden Chalice
+Merchant's Lot
+Spirale Market
+Balterossa Castle
+Café Moondust
+Union of the Golden Chalice
+Catacombs
+Mojcado Castle
+The Aqueducts
+Dillmoor
+Garden of Illusions
+The Wanderer's Ruins
+The Abyssal Forest
+The Starry Shore
+Realm of the Sea Monster
+The Cape of Delusion
+Heroic Ramparts
+The Ivory Peaks
+Wishful Way
+Pearly Peak
+Crookfen
+Berechevaltelle
+The Southwestern Road
+Searing Cove
+Searing Cauldron
+Path of Anguish
+Depths of the Underworld
+The Vale of the Gods
+Cherry Pavilion
+Central Tier
+Sweeping Safehold
+Passageway Tier
+Underground Tier
+Hypnotic Hollow
+Ravine of Temptation
+Canal of Repentance
+Central Region
+Upper Level
+Central Level
+Lower Level
+The Speckled Chasm
+The Sapphire Pit
+The Cuspate Post
+The Obsidian Trail
+The Cuspate Wall
+The Somber Ravine
+The Unknown Cavern
+The Third Channel
+East Waterway Control
+Central Sluiceway
+Disposal Tank No. 8
+The Sixth Path
+The Final Fortress
+The Seventh Path
+Central Area
+Eastern Area
+Western Area
+Disposal Area
+The Sacred Lands
+The Sacred Lands
+The Sacred Lands
+The Sacred Lands
+The Sacred Lands
+The Sacred Lands
+The Sacred Lands
+The Great Tunnel
+Undeveloped Zone
+Operations Area No. 5
+Large-Scale Mining Zone
+Excavation Area
+Beneath Undelwalt
+Beneath Undelwalt
+The Unspoken Path
+Sandfall Labyrinth
+Tranquil Springs
+Yvalock's Nest
+The First Path
+The Final Fortress
+The Second Path
+The Final Fortress
+The Third Path
+The Fourth Path
+The Final Fortress
+The Fifth Path
+Tier of Doubt
+Tier of Pride
+Tier of Value
+The Eternal Throne
+Gateway Section
+Oath Section
+Senecio Section
+Phoenix Section
+Apex Tier
+Grammi Tier: Anatoray
+Grammi Tier: Disith
+Metopon Tier: Boreas
+Metopon Tier: Notus
+Choros Tier
+Apeiron Tier
+World Map
+City Map
+Aveclyff
+The Ancient Ruins
+Mr. Diggs's Skillz dummy
+Nothing
+Corkscrew
+Auger Drill
+Diamond Drill
+Nothing
+Big Scoop
+Double Scoop
+Triple Scoop
+Nothing
+Search Adaptor
+Analysis Adaptor
+Telegnosis Adaptor
+Nothing
+Dig Module
+Mega Dig Module
+Burst Dig Module
+Nothing
+Gold Digger
+Platinum Digger
+Diamond Digger
+Nothing
+Power Thruster
+High-Power Thruster
+Hyper Thruster
+Nothing
+Drill Storm
+Mega Drill Storm
+Divine Drill Storm
+Wee Power
+Baby Power
+Amateur Power
+Apprentice Power
+Rookie Power
+Mediocre Power
+Intermediate Power
+Advanced Power
+Professional Power
+Whiz Power
+Expert Power
+Supreme Power
+Charismatic Power
+Ultimate Power
+Power Master
+Grand Power Master
+Wee Technique
+Baby Technique
+Amateur Technique
+Apprentice Technique
+Rookie Technique
+Mediocre Technique
+Intermediate Technique
+Advanced Technique
+Professional Technique
+Whiz Technique
+Expert Technique
+Supreme Technique
+Charismatic Technique
+Ultimate Technique
+Technique Master
+Grand Technique Master
+Wee Driller
+Baby Driller
+Amateur Driller
+Apprentice Driller
+Rookie Driller
+Mediocre Driller
+Intermediate Driller
+Advanced Driller
+Professional Driller
+Whiz Driller
+Expert Driller
+Supreme Driller
+Charismatic Driller
+Ultimate Driller
+Drill Master
+Grand Drill Master
