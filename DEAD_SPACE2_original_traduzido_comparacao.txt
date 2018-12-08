@@ -92,7 +92,7 @@
 (0092)LOAD DNA SAMPLE<==>CARGAR MUESTRA DE ADN-->CARREGAR AMOSTRA DE DNA
 (0093-IGUAIS)Atsushi Seo
 (0094)Prepare the transport to Government Sector.<==>Prepara el transporte al sector gubernamental.-->Prepare o transporte para o Setor Governamental
-(0095)redeem content<==>Canjear contenido-->resgatar conteúdo
+(0095)redeem content<==>Canjear contenido-->Resgatar conteúdo
 (0096)Duplicate user has logged in.<==>Ya hay una sesión iniciada con ese usuario.-->Já existe uma sessão iniciada com esse usuário
 (0097)Stasis Pack Schematic<==>Diagrama de carga de estabilización-->Diagrama de carga de estabilização
 (0098)Vendor<==>Proveedor-->Provedor
@@ -454,7 +454,7 @@
 (0454)Contact<==>Contactar-->Contatar
 (0455)TRAM STATUS<==>ESTADO DEL MONORRAÍL-->ESTADO DO TREM
 (0456)[MenuA]USE<==>[MenuA]USAR-->[MenuA]Usar
-(0457)STASIS MODULE<==>MÓDULO DE ESTABIL.-->MÓDULO DE ESTABIL.
+(0457)STASIS MODULE<==>MÓDULO DE ESTABIL.-->MÓDULO DE ESTABILIZAÇÃO
 (0458)Associate Producers<==>Productores asociados-->Produtores Associados
 (0459)Sell items you don't want in the store.<==>Vende los objetos que no quieras en el almacén.-->Venda os itens que não quiser na loja.
 (0460-IGUAIS)4
@@ -639,7 +639,7 @@
 (0639)Medium air canister that replenishes the air meter.<==>Bote de aire mediano que recarga el indicador de oxígeno.-->Tubo de ar médio que recarrega o indicador de oxigênio.
 (0640)pack<==>jauría-->matilha 
 (0641)+{n} TEAM OBJECTIVE<==>+{n} OBJETIVO DE EQUIPO-->+{n} OBJETIVO DA EQUIPE
-(0642)Restores Stasis Energy.\n- Inventory Slot Stack Size: 3\nPress [rdup] to use instantly, or select from your RIG's inventory.<==>Restablece la energía de estabilización.\n- Tamaño del bloque de ranuras de inventario: 3\nPulsa [rdup] para usarla al instante o selecciónala en el inventario de DRI.-->Restaura a energia de estabilização.\n- Tamanho do bloco de encaixes no inventário: 3\nPressione [rdup] para usar imediatamente, ou selecionar no inventário do seu DRI.
+(0642)Restores Stasis Energy.\n- Inventory Slot Stack Size: 3\nPress [rdup] to use instantly, or select from your RIG's inventory.<==>Restablece la energía de estabilización.\n- Tamaño del bloque de ranuras de inventario: 3\nPulsa [rdup] para usarla al instante o selecciónala en el inventario de DRI.-->Restaura a energia de estabilização.\n- Tamanho do bloco de espaços no inventário: 3\nPressione [rdup] para usar imediatamente, ou selecionar no inventário do seu DRI.
 (0643)Javelin Spear Schematic<==>Diagrama de jabalina-->Diagrama de Dardo
 (0644-IGUAIS)3
 (0645)locator<==>localizador-->localizador
@@ -819,7 +819,7 @@
 (0819)Please consult your RIG for the nearest exit. <==>Consulte la salida más próxima en su DRI.-->Consulte a saída mais próxima no seu DRI . 
 (0820)Warning. Do not attempt repairs while stasis field is in operation.<==>Alerta: no intente realizar reparaciones mientras el campo de estabilización está en funcionamiento.-->Alerta. Não tente fazer reparos enquanto o campo de estabilização está em funcionamento.
 (0821)Warning. Decompressed area beyond this point. Vacuum suits are required for entry.<==>Alerta. Área descomprimida a partir de este punto. Para entrar son obligatorios trajes de vacío.-->Alerta. Área de descompressão a partir desse ponto. Para entrar são obrigatórios trajes de vácuo.
-(0822)Attention:  Crypt systems set to diagnostic mode.  Gimble capture arms released. Authorized technicians only. <==>Atención: sistemas de la cripta en modo de diagnóstico. Brazos de captura del rodamiento sueltos. Solo técnicos autorizados.-->Alerta: os sistemas da Cripta foram definidos para modo de diagnóstico. Armas de captura liberadas. Somente técnicos autorizados. 
+(0822)Attention:  Crypt systems set to diagnostic mode.  Gimble capture arms released. Authorized technicians only. <==>Atención: sistemas de la cripta en modo de diagnóstico. Brazos de captura del rodamiento sueltos. Solo técnicos autorizados.-->Alerta: os sistemas da cripta foram definidos para modo de diagnóstico. Braços de captura liberados. Somente técnicos autorizados. 
 (0823)Disengaging bridge bulkheads, stage 1, please stand by.<==>Desconectando contenciones del puente, fase 1, manténgase a la espera.-->Desconectando as contenções da ponte, etapa 1, por favor aguarde.
 (0824)The Docking Pod is off the mag-rail. An Engineering work order has been issued. <==>El cabezal de ensamblaje está fuera del raíl magnético. Hay una orden de trabajo de ingeniería.-->A cápsula de atracagem está fora do trilho magnético. Foi emitida uma ordem de trabalho de engenharia. 
 (0825)Warning! Decompression in three... two... one<==>¡Alerta! Descompresión en tres... dos... un..[o].-->Alerta! Descompressão em três... dois... um
@@ -866,7 +866,7 @@
 (0866)Shoot the thrusters to ignite them.   They propel whatever objects they are attached to for a short while, then burn out.<==>Dispare a los propulsores para encenderlos. Impulsarán a cualquier objeto al que estén acoplados durante un corto periodo de tiempo y después arderán.-->Atire nos propulsores para acioná-los. Eles impulsionam quaisquer objetos ao qual estejam acoplados durante um curto período de tempo e, depois queimam.
 (0867)Stasis will slow down anything it strikes, including live objects and machinery.   Stasis wears off naturally after a brief period.<==>La estabilización ralentiza cualquier cosa contra la que haga impacto, incluyendo objetos animados y maquinaria. La estabilización desaparece tras un breve periodo de tiempo.-->A estabilização vai desacelerar qualquer coisa que atingir, incluindo objetos animados e máquinas. A estabilização desaparece naturalmente, após um breve período de tempo.
 (0868)Stasis will slow down anything it strikes, including live objects and machinery.   Stasis wears off naturally after a few seconds.<==>La estabilización ralentiza cualquier cosa contra la que haga impacto, incluyendo objetos animados y maquinaria. La estabilización desaparece tras unos segundos.-->A estabilização vai desacelerar qualquer coisa que atingir, incluindo objetos animados e máquinas. A estabilização desaparece naturalmente, após um breve período de tempo.
-(0869)The gravity rings must be locked down in sequence in order to diagnose the system.   Please pull the manual capture arms down from above each ring to get started.  Gravity will disengage after all 3 rings are locked down.  You must lock down the rings in sequence from outer to inner.<==>Los anillos de gravedad deben bloquearse en un orden secuencial para realizar un diagnóstico en el sistema. Tire hacia abajo de los brazos de captura manuales que están sobre los anillos para comenzar. La gravedad se desactivará cuando los 3 anillos estén bloqueados. Debe bloquear los anillos en secuencia de fuera a dentro.-->Os anéis gravitacionais devem ser bloqueados em seqüência para realizá um diagnóstico no sistema. Puxe para baixo os braços de captura manual que estão sobre os anéis para começar. A gravidade será desativada quando os 3 anéis estiverem bloqueados. Você deve bloquear os anéis na seqüência de fora para dentro.
+(0869)The gravity rings must be locked down in sequence in order to diagnose the system.   Please pull the manual capture arms down from above each ring to get started.  Gravity will disengage after all 3 rings are locked down.  You must lock down the rings in sequence from outer to inner.<==>Los anillos de gravedad deben bloquearse en un orden secuencial para realizar un diagnóstico en el sistema. Tire hacia abajo de los brazos de captura manuales que están sobre los anillos para comenzar. La gravedad se desactivará cuando los 3 anillos estén bloqueados. Debe bloquear los anillos en secuencia de fuera a dentro.-->Os anéis gravitacionais devem ser bloqueados em seqüência para realizar um diagnóstico no sistema. Puxe para baixo os braços de captura manual que estão sobre os anéis para começar. A gravidade será desativada quando os 3 anéis estiverem bloqueados. Você deve bloquear os anéis na seqüência de fora para dentro.
 (0870)The GRIP sign indicates which objects are compatible with your kinesis module.   <==>La señal GRIP indica qué objetos son compatibles con el módulo cinético.-->O sinal GRIP indica quais objetos são compatíveis com seu módulo cinético.   
 (0871)The quick heal button uses a health pack from your inventory, provided you have at least one.<==>El botón de curación rápida hace uso de un botiquín de su inventario, siempre y cuando tenga alguno.-->O botão cura rápida faz uso de um kit de saúde do seu inventário, assumindo que você tenha pelo menos um.
 (0872)The Sprawl is equipped with a holographic positioning system.   You can access it at any time.<==>El Eje está equipado con un sistema de posicionamiento holográfico. Puede acceder a él en cualquier momento.-->O Eixo está equipado com um sistema de posicionamento holográfico. Você pode acessá-lo em qualquer momento.
@@ -1006,7 +1006,7 @@
 (1006)Exiting Zero-Gravity.<==>Saliendo de gravedad cero.-->Saindo da Gravidade Zero.
 (1007)Primary Fire DAM +10% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>DÑO disparo principal: +10% / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->DANOS do disparo principal +10% / REC -5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um raio cortador estreito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para girar a cortadora em 90 graus.
 (1008)Help EA improve products, services and user experience by sharing usage information such as game statistics, settings, feature preferences and incident or event data. This information will not be shared with any third party in a way that can personally identify you.<==>Ayuda a EA a mejorar sus productos y servicios, y la experiencia de los usuarios compartiendo información de uso, como tus estadísticas, tu configuración y tus preferencias de juego, y de incidencias. Esta información no se compartirá con terceros de ningún modo que permita identificarte personalmente.-->Ajude a EA a melhorar seus produtos, serviços e a experiência dos usuários compartilhando informações de uso, como suas estatíscas, sua configuração e suas preferências e incidentes. Essas informações não serão compartilhadas com terceiros de modo que permita te identificar pessoalmente.
-(1009)aiming<==>Apuntar-->mirar
+(1009)aiming<==>Apuntar-->Mirar
 (1010)NEEDED<==>NECESARIO-->NECESSÁRIO
 (1011)UNITY LIBRARY<==>BIBLIOTECA DE LA UNIOLOGÍA-->BIBLIOTECA DA UNITOLOGIA
 (1012)QA Compliance Testers<==>Pruebas de validación de control de calidad-->Testes de Validação do Controle de Qualidade
@@ -1028,7 +1028,7 @@
 (1028-IGUAIS)Reid Sheldon
 (1029-IGUAIS)Dustin Steele
 (1030)Allison Landers, this is Brandon Lurrach: Thank you for identifying Ishimura archive footage and RIG logs that could potentially contradict the official storyline of its demise at Aegis VII. It is critical that no word of the artifact's recovery ever be surfaced to the public. It is disturbing that such records still exist this many years after the incident. We have locked out your research team's access, and will be replacing them with EarthGov specialists effective immediately. Please contact me once the replacements arrive.<==>Allison Landers, aquí Brandon Lukach. Gracias por identificar las imágenes de archivo y los registros de los DRI del Ishimura que podrían contradecir la declaración oficial de su extinción en Aegis VII. Es de vital importancia que la noticia de la recuperación del artefacto no salga a la luz pública. Es muy preocupante que sigan existiendo estos registros tantos años después del incidente. Hemos bloqueado el acceso a su equipo de investigación, y lo sustituiremos con especialistas del gobierno de la Tierra de inmediato. Póngase en contacto conmigo cuando llegue el reemplazo.-->Allison Landers, aqui é Brandon Lurrach. Obrigado por identificar as imagens de arquivo e os registros dos DRI da Ishimura que poderiam contradizer a declaração oficial de sua extinção em Aegis VII. É muito importante que a notícia da recuperação do artefato não seja divulgada ao público. É extremamente preocupante que esse registros ainda existam depois de tantos anos do incidente. Estamos bloqueando o acesso de sua equipe de investigação, e os substituiremos por especialistas do governo da Terra de imediato. Entre em contato comigo quando os substitutos chegarem.
-(1031)Franchise Art Director<==>Director de diseño de la franquicia-->Diretor de Arte da Franquia
+(1031)Franchise Art Director<==>Director de diseño de la franquicia-->Revisão Final - dezembro 2018
 (1032-IGUAIS)Fly Sun
 (1033)TRAM CALL<==>MONORRAÍL-->CHAMAR TREM
 (1034)The gravity tethers won't function unless the main centrifuge is operational. Looks like the repair team was in the middle of upgrading the centrifuge unit - I'll have to finish the job.<==>Los anclajes gravitatorios no funcionarán a menos que la centrifugadora principal esté operativa. Parece que el equipo de reparación dejó a medias la mejora de la unidad centrifugadora; tendré que acabar el trabajo.-->As travas gravitacionais não funcionarão a menos que a centrifugadora principal esteja operante. Parece que a equipe de reparos deixou pela metade o serviço de melhoria da unidade centrifugadora - você vai ter que terminar o trabalho.
@@ -1471,7 +1471,7 @@
 (1471-IGUAIS)1
 (1472)re-enter vent<==>volver a entrar en conducto-->entre novamente no duto
 (1473-IGUAIS)Craig Simon
-(1474)default human controller map<==>Mapa de mando humano-->Mapa padrão de controle humano
+(1474)default human controller map<==>Mapa de mando humano-->Mapa do controle humano
 (1475)Holleran Transport Hub<==>Nodo de transporte Holleran-->Centro de Transporte Holleran
 (1476-IGUAIS)Nigel Kay
 (1477-IGUAIS)Glen Stuart
@@ -1552,7 +1552,7 @@
 (1552)QTY<==>CANT.-->QTDE
 (1553)Welcome to your workstation \nSgt. Armand Fattouh.\nYou have 3 unread messages///\n\nPlease select an option.\n-launch Securiscope 2.0\n-launch EG Sprawl Watch\n-exit HRSPPLVR\n-sync your RIG<==>Bienvenido a su terminal de trabajo, \nSgto. Armand Fattouh.\nTiene 3 mensajes pendientes.///\n\nSeleccione una opción.\n-iniciar Securiscope 2.0\n-iniciar Ejevigilancia GT\n-salir de HRSPPLVR\n-sincronizar DRI-->Bem vindo à sua estação de tarbalho, \nSgt. Armand Fattouh.\nVocê tem 3 mensagens não lidas.///\n\nSelecione uma opção.\n-iniciar Securiscope 2.0\n-iniciar EG Sprawl Watch\n-sair do HRSPPLVR\n-sincronizar seu DRI
 (1554)SCHEMATIC TEMP<==>DIAGRAMA TEMPORAL-->DIAGRAMA TEMPORAL
-(1555)CANISTERS<==>BOTES--TUBOS
+(1555)CANISTERS<==>BOTES-->TUBOS
 (1556)LINE GUN<==>CAÑÓN LINEAL-->CANHÃO LINEAR
 (1557)Project Manager<==>Jefe de proyecto-->Gerente de Projeto
 (1558-IGUAIS)5
@@ -1966,7 +1966,7 @@
 (1966)change view<==>Cambiar vista-->Mudar visão
 (1967)To: All Government Employees\n\nA number of security breaches have occurred in the past week that could have been avoided if proper protocol was followed. I'd like to take this time to remind employees that all government facilities are considered secure locations. Badges should be worn in a highly visible location at all times. Guests and civilians are not allowed beyond the atrium without a badged escort. Maintenance contractors from the CEC must present proper authorization papers and are to be escorted at all times. Let's keep our workplace safe and secure.\n\nLane Brennek\nDirector of Human Resources\nEarth Government Colonial Alliance\nTitan Station<==>Para: Todos los empleados gubernamentales\n\nLa pasada semana se produjeron una serie de infracciones de seguridad que podían haberse evitado siguiendo el protocolo adecuado. Quisiera aprovechar para recordar a los empleados que todas las instalaciones gubernamentales se consideran ubicaciones seguras. Las identificaciones deben llevarse siempre en un lugar visible. Los invitados y los civiles no pueden ir más allá del atrio sin un escolta debidamente identificado. Los contratistas de mantenimiento de CEC deben presentar los papeles de autorización pertinentes e ir acompañados por un escolta en todo momento. Mantengamos seguro nuestro lugar de trabajo.\n\nLane Brennek\nDirectora de Recursos Humanos\nAlianza colonial del gobierno de la Tierra\nEstación Titán-->Para: Todos os empregados governamentais\n\nNa semana passada aconteceram uma série de infrações de segurança que poderiam ter sido evitadas se o protocolo adequado tivesse sido seguido. Quero aproveitar para lembrar aos empregados que todas as instalações governamentais são consideradas locais seguros. Crachás devem ser usados em um local vísivel o tempo todo. Visitantes e civis não podem ir além do atrio sem uma escolta devidamente identificada. Os contratados para manutenção do CEC devem apresentar os papéis de autorização pertinentes e estar acompanhados por uma escolta o tempo todo. Vamos manter seguro nosso local de trabalho.\n\nLane Brennek\nDiretora de Recursos Humanos\nAliança Colonial do Governo da Terra\nEstação Titã
 (1968)PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!<==>El hospital-->PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
-(1969)Creative Director<==>Director creativo-->Diretor Criativo
+(1969)Creative Director<==>Director creativo-->Créditos da Adaptação
 (1970-IGUAIS)2
 (1971)Director of Research <==>Director de investigación-->Diretor de Pesquisas
 (1972)delete existing data<==>borrar datos existentes-->Apagar dados existentes
@@ -1997,7 +1997,7 @@
 (1997)David Flower <==>David Flower -->David Flower 
 (1998-IGUAIS)Glen Stuart
 (1999-IGUAIS)Ewen Vowels
-(2000)difficulty<==>Dificultad-->dificuldade
+(2000)difficulty<==>Dificultad-->Dificuldade
 (2001-IGUAIS)1
 (2002)[RDUp]SORT<==>[RDUp]ORDENAR-->[RDUp]ORDENAR
 (2003)creating playgroup<==>Creando grupo de juego-->Criando grupo de jogo
@@ -2164,7 +2164,7 @@
 (2164-IGUAIS)Todd Allendorf
 (2165-IGUAIS)Jay Wells
 (2166)Online Code Already Used<==>Código online ya utilizado-->Código Online já utilizado
-(2167)store<==>Almacén-->depósito
+(2167)store<==>Almacén-->Loja
 (2168-IGUAIS)2
 (2169)Tiger Camo Viral Yellow<==>Amarillo viral camuflaje tigre-->Amarelo Viral Camuflagem Tigre 
 (2170)If you decline the registration of your EA Account, you will not be able to take advantage of any of the online features and additional single player content may not be available.<==>Si rechazas el registro de tu cuenta EA, no podrás beneficiarte de ninguna de las funciones online y es posible que el contenido adicional para Un jugador no esté disponible.-->Se você não fizer o registro da sua Conta EA, não poderá desfrutar de nenhum recurso online e o conteúdo adicional para um jogador pode não estar disponível.
@@ -2447,10 +2447,10 @@
 (2447-IGUAIS){p} ¤
 (2448)Purchase new items here.  They will be added to your Inventory.<==>Aquí puedes comprar objetos nuevos. Se añadirán a tu inventario.-->Aqui você pode comprar novos itens. Eles serão adicionados ao seu inventário.
 (2449)Please do not turn off your console when you see the auto save icon<==>No apagues la consola cuando veas el icono de guardado automático.-->Por favor não desligue o console enquanto estiver vendo o ícone de salvamento automático.
-(2450-IGUAIS)Steve Papoutsis
-(2451-IGUAIS)Dom Regan
-(2452-IGUAIS)Wright Bagwell
-(2453-IGUAIS)Ian Milham
+(2450-IGUAIS)Tribo Gamer
+(2451-IGUAIS)Brazilian Warriors
+(2452-IGUAIS)Ushinin DS, cfarl, Dark Lord
+(2453-IGUAIS)cfarl
 (2454-IGUAIS)Ben Wanat
 (2455-IGUAIS)Paul Mathus
 (2456-IGUAIS)Steve Timson
@@ -2805,7 +2805,7 @@
 (2805)SEEKER RIFLE\nSchematic Acquired\nDownload at the Store<==>RIFLE BUSCADOR\nDiagrama Adquirido\nDescargar en el almacén-->RIFLE BUSCADOR\nDiagrama Adquirido\nBaixe na loja
 (2806)promotion granted<==>Ascenso concedido-->Promoção concedida
 (2807)CAPACITY<==>CAPACIDAD-->CAPACIDADE
-(2808)Franchise Executive Producer<==>Productor ejecutivo de la franquicia-->Produtor Executivo da Franquia
+(2808)Franchise Executive Producer<==>Productor ejecutivo de la franquicia-->Tradução Original
 (2809-IGUAIS)Credits_MastLab
 (2810-IGUAIS)Credits_MastLab_Operators
 (2811-IGUAIS)Credits_Blank_Line
@@ -2820,7 +2820,7 @@
 (2820-IGUAIS)Jatin Patel
 (2821-IGUAIS)1
 (2822)WEST FOYER<==>VESTÍBULO OESTE-->VESTÍBULO OESTE
-(2823)Director of Product Development<==>Director de desarrollo de producto-->Diretor de Produção
+(2823)Director of Product Development<==>Director de desarrollo de producto-->Adaptação da Tradução Original
 (2824)Facilities Work Order:  118745\n\nProblem:  Crypt coffins getting stuck in the tracks\n\nRepair Status:\nExamined the track system delivering coffins to the Crypt.   One Coffin was jammed inside.   Released gravity, TK'ed the coffin free (took several attempts, coffin damaged).\n\nExamined the track system. Several support struts had broken free, warping the track.  The cold of the crypts caused brittleness in the poorly executed original welds.  Re-aligned the track, welded struts properly back in place.   Tested 5 coffins, all passed smoothly.\n\nWork completed, closing ticket.\n\nEstimated Completion:  Done.   5 hours.<==>Orden de trabajo de las instalaciones: 118745\n\nProblema: Ataúdes de la cripta atascados en las vías\n\nEstado de la reparación:\nSe examinó el sistema de vías que trasporta los ataúdes a la cripta. Un ataúd se había atascado. Tras liberar la gravedad, el ataúd pudo soltarse (pero llevó varios intentos y el ataúd resultó dañado).\n\nSe examinó el sistema de vías. Varios puntales se habían soltado y habían deformado la vía. El frío de las criptas provocó el agrietamiento de unas soldaduras que ya eran pobres. Se han realineado las vías y vuelto a soldar adecuadamente los puntales. Se han hecho pruebas con 5 ataúdes y todos han pasado perfectamente.\n\nTrabajo completado, cerrando incidencia.\n\nTiempo estimado de resolución: Listo. 5 horas.-->Ordem de Trabalho:  118745\n\nProblema:  Os caixões das criptas ficaram presos nos trilhos\n\nEstado da Reparação:\nFoi examinado o sistema de trilhos que transporta os caixões para a cripta.  Um caixão havia ficado preso.  Após liberar a gravidade o caixão se soltou (mas muitas tentativas foram feitas e o caixão foi danificado).\n\nO sistema de trilhos foi examinado. Vários suportes de apoio estavam quebrados e haviam deformado os trilhos.  O frio nas criptas provocou o rompimento de algumas soldas mal feitas.  Devidamente realinhados nos trilhos, os suportes foram soldados adequadamente.  Foram feitos testes com cinco caixões, todos passaram perfeitamente.\n\nTrabalho concluído, fechando incidente\n\nTempo estimado de resolução: Feito. 5 horas.
 (2825)REL -5% / SPD +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire rivets.  Rapid fire is enabled on this model.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to discharge embedded rivets.  Warning: impalement damage is possible.<==>REC: -5% / VEL: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar roblones. Este modelo ofrece disparo rápido.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para descargar roblones incrustados. Atención: puede producir daños por empalamiento.-->REC -5% / VEL +5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar rebites.   Esse modelo oferece disparo rápido.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para descarregar rebites incrustados.  Atenção: pode produzir danos por empalamento.
 (2826)ROUND<==>RONDA-->ROUND
@@ -2892,7 +2892,7 @@
 (2892-IGUAIS)Marc Tremblay
 (2893)execution<==>Ejecución-->execução
 (2894)STASIS<==>ESTABILIZAÇÃO-->ESTABILIZAÇÃO
-(2895)STASIS OBJECTS<==>ESTABIL. CON OBJETOS-->ESTABIL. DE OBJETOS
+(2895)STASIS OBJECTS<==>ESTABIL. CON OBJETOS-->ESTABILIZAÇÃO DE OBJETOS
 (2896-IGUAIS)Melissa Ojeda
 (2897)Praise Altman, there is progress towards our holy goal.   EarthGov's constant pecking at our every slight infraction of every obscure rule is about to be paid back in full.  Their security measures will fall, and their unholy work will consume them like a tidal wave, cleansing the world of their filth.   And the makers <NOTE: not "Markers"> shall be ours.<==> Alabado sea Altman, hay progreso en torno a nuestro sagrado objetivo. Todas las intromisiones del gobierno de la Tierra hasta en la más mínima infracción de todas esas opacas normas habrá merecido la pena. Sus medidas de seguridad fracasarán y sus esfuerzos impíos se consumirán, llevados por la marea, liberando al mundo de su inmundicia. Y los creadores serán nuestros.-->Altman seja louvado, há um progresso em torno do nosso objetivo sagrado. Todas as intromissões do governo da Terra, até mesmo na menor violação de todas essas regras absurdas, terá valido a pena. Suas medidas de segurança vão fracassar, e seus esforços ímpios se consumirão como uma onda, liberando ao mundo sua imundície. E os criadores seremos nós.
 (2898)Oxygen Station Deactivated<==>Estación de oxígeno desactivada-->Estação de Oxigêneo Desativada
@@ -2934,7 +2934,7 @@
 (2934)Your email <==>Tu correo electrónico-->Seu e-mail
 (2935)STATUS<==>ESTADO-->ESTADO
 (2936)You must start from Chapter 1 to be eligible for full game playthrough achievements.<==>Debes empezar desde el capítulo 1 para poder optar a los logros por jugar el juego completo.-->Você deve começar no Capítulo 1 para poder usufruir das conquistas por jogar o jogo completo.
-(2937)PLAYING<==>ACTIVO-->JOGANDO
+(2937)PLAYING<==>ACTIVO-->ATIVO
 (2938)Creative Development Senior Project Manager <==>Jefe de proyecto sénior de desarrollo creativo-->Líder de Projeto Sênior de Desenvolvimento Criativo 
 (2939)Creative Director Brand Toolkit <==>Director creativo de herramientas de identidad de marca-->Diretor Criativo de Ferramentas De Identidade De Marca
 (2940-IGUAIS)Guillaume Vachon
@@ -2978,7 +2978,7 @@
 (2978)Elevator to Cassini Towers<==>Ascensor a las Torres Cassini-->Elevador para as Torres Cassini
 (2979)Cassini Towers West Wing<==>Torres Cassini: ala oeste-->Torres Cassni: Ala Oeste
 (2980)Cassini Towers East Wing<==>Torres Cassini: ala este-->Torres Cassni: Ala Leste
-(2981)ALT FIRE<==>SECUNDARIO-->Disparo Secundário
+(2981)ALT FIRE<==>SECUNDARIO-->SECUNDÁRIO
 (2982-IGUAIS)1
 (2983)chapter<==>Capítulo-->Capítulo
 (2984)activate both server room terminals<==>Activa los dos terminales de la sala del servidor.-->ative os dois terminais da sala do servidor
@@ -3219,7 +3219,7 @@
 (3219)//calibrating...\n//..... \n//ready<==>//ajustando...\n//..... \n//listo-->//ajustando...\n//..... \n//pronto
 (3220)DNA SYSTEM OFFLINE<==>SISTEMA DE ADN DESCONECTADO-->SISTEMA DE DNA DESCONECTADO
 (3221)RESTOCK SAFETY CIRCUIT (REL)<==>RESTABLECER CIRCUITO DE SEGURIDAD (REC)-->RESTABELECER CIRCUITO DE SEGURANÇA (REC)
-(3222)This will upgrade your RELOAD by %g sec.<==>Se mejorará la RECARGA en %g seg.-->Isso vai melhorar sua RECARGA em %g seg.
+(3222)This will upgrade your RELOAD by %g sec.<==>Se mejorará la RECARGA en %g seg.-->Isso vai melhorar a RECARGA em %g seg.
 (3223-IGUAIS)1
 (3224)prevent the humans from activating the control room terminals<==>Evita que los humanos activen los terminales de la sala de control.-->Impeça que os humanos ativem os terminais da sala de controle.
 (3225)ranged attack<==>Ataque a distancia-->Ataque à distância
@@ -3518,8 +3518,7 @@
 (3518)Additional Writing<==>Guión adicional-->Redação Adicional
 (3519-IGUAIS)0
 (3520-IGUAIS)1
-(3521)Digital Portfolio Manager<==>Gestor de cartera digital-->Gestor de Portfólio
- Digital
+(3521)Digital Portfolio Manager<==>Gestor de cartera digital-->Gestor de Portfólio Digital
 (3522-IGUAIS)0
 (3523)Lighting Lead<==>Jefe de iluminación-->Chefe de Iluminação
 (3524)Rendezvous with Ellie and Stross.<==>Reúnete con Ellie y Stross.-->Encontre Ellie e Stross.
@@ -4533,7 +4532,7 @@
 (4532-IGUAIS)Dominic Belanger
 (4533)plasma cutter II<==>cortadora de plasma II-->cortadora de plasma II
 (4534)SPEED<==>VELOCIDAD-->VELOCIDADE
-(4535)controller map<==>Mapa de mando-->mapa de controle
+(4535)controller map<==>Mapa de mando-->Mapa do controle
 (4536-IGUAIS)HEALTH PACKS-->KIT DE SAÚDE
 (4537-IGUAIS)[LSBottom] + [RDUp]
 (4538)Joining<==>Uniéndose-->Entrando
@@ -4615,7 +4614,7 @@
 (4614)weapon select<==>Selección de arma-->selecionar arma
 (4615)Equipping this suit will give the wearer the following benefits:\n• 15% discount on purchases at the Store.\nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>La equipación de este traje ofrecerá a quien lo lleve las siguientes ventajas:\n• descuento del 15% en las compras realizadas en el almacén. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->Equipar esse traje vai oferecer ao portador as seguintes vantagens:\n• 15% de desconto nas compras realizadas na loja.\nA compra garante um mínimo de 25 espaços de inventário e 25% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
 (4616)hard core<==>Imposible-->Impossível
-(4617)voice volume<==>Vol. voces-->volume da voz
+(4617)voice volume<==>Vol. voces-->Volume da voz
 (4618)+{n} DOUBLE KILL<==>+{n} BAJA DOBLE-->+{n} MORTE DUPLA
 (4619)Ripper Schematic<==>Diagrama de sierra trituradora-->Diagrama de serra trituradora
 (4620)//Lateral\nGeniculate<==>//Geniculado\nlateral-->//Geniculado\nLateral
@@ -4864,7 +4863,7 @@
 (4863)Attention Shift Workers: Your work practices are being monitored at all times.   Please show pride in your work.<==>Atención, trabajadores: sus prácticas laborales se supervisan en todo momento. Enorgullézcanse de su trabajo.-->Atenção, trabalhadores: suas práticas no trabalho estão sendo monitoradas o tempo todo. Mostre orgulho pelo seu trabalho.
 (4864)Senior Character Artists<==>Diseñadores de personajes sénior-->Artistas de Personagens Sênior
 (4865)RELAY CIRCUIT (SPD)<==>RELÉ (VEL)-->CIRCUITO DE TRANSMISSÃO (VEL)
-(4866)This will upgrade your SPEED by %g sec.<==>Se mejorará la VELOCIDAD en %g seg.-->Isso vai melhorar sua VELOCIDADE em %g seg.
+(4866)This will upgrade your SPEED by %g sec.<==>Se mejorará la VELOCIDAD en %g seg.-->Isso vai melhorar a VELOCIDADE em %g seg.
 (4867)prevent the destruction of the power junction<==>Evita la destrucción de la caja de derivación de energía.-->Evite a destruição da caixa de força
 (4868)stasis II<==>Estabilización II-->Estabilização II
 (4869)Erasmus, this is Enigma Arthur Kennard, Fully Paid. There is little chance that Tiedemann's attempt to checkmate our breach of his databases will go public.  He can ill afford either the embarassment or the attention to his dirty little secret. I will be sad not to witness the convergence of this station into the start of our divine glory, but it should be a fitting settlement to his blashpemous acts. Don't worry about the press reports brother, even if they do come out, they won't last long. Altman Be Praised.\nEnigma Kennard, Fully Paid.  <==>Erasmus, aquí el miembro enigma Arthur Kennard, de abono completo.  Es muy improbable que el intento de Tiedemann de anular nuestra incursión en sus bases de datos se haga público. No puede permitirse la humillación ni la prensa de su sórdido secreto. Me dará pena perderme la Convergencia de esta estación en su iniciación en la gloria divina, pero será una penitencia adecuada para sus blasfemias. No te preocupes por los informes de prensa, hermano; aunque salgan a la luz, no durarán mucho tiempo. Alabado sea Altman. Enigma Kennard, de abono completo  -->Erasmus, aqui é o membro enigma Arthur Kennard, de abono completo. É muito improvável que a tentativa de Tiedemann de impedir nossa invasão em suas bases de dados venha a público. Ele não pode se permitir a humilhação nem a atenção ao seu sórdido segredinho. Eu ficarei triste de não testemunhar a Convergência dessa estação em sua iniciação na glória divina, mas será uma penitência adequada para suas blasfêmias. Não se preocupe com as reportagens da imprensa irmão, ainda que sejam feitas, não durarão muito tempo. Altman seja louvado.\nEnigma Kennard, de abono completo.  
@@ -5082,7 +5081,7 @@
 (5081)Isaac, the people that ARE alive say they're using stasis to slow down the creatures!  <==>Isaac, mis operativos que siguen vivos están usando la estabilización para frenar a las criaturas.-->Isaac, as pessoas que ainda estão vivas estão usando a estabilização para retardar as criaturas!
 (5082)Isaac, I don't think I can...<==>Isaac, no creo que...-->Isaac, eu não acho que...
 (5083)Isaac, I can't unlock the elevator!  Can you do anything from your end?<==>¡Isaac, no puedo desbloquear el ascensor! ¿Tú puedes hacer algo?-->Isaac, não consigo desbloquear o elevador! Você pode fazer alguma coisa aí do seu lado?
-(5084)Okay, once you're through you'll go through the Funerary wing of the church and down into the crypt. It's very important you're not ...<==>Bien, cuando cruces, accederás al ala funeraria de la iglesia, y luego a la cripta. Es muy importante que no...-->Certo, quando você passar, vá pela área funerária da igreja e depois entre na cripta. Éuiyo importante que você não ...
+(5084)Okay, once you're through you'll go through the Funerary wing of the church and down into the crypt. It's very important you're not ...<==>Bien, cuando cruces, accederás al ala funeraria de la iglesia, y luego a la cripta. Es muy importante que no...-->Certo, quando você passar, vá pela área funerária da igreja e depois entre na cripta. É muito importante que você não ...
 (5085)No! No, Earth Gov can't jam us in here! Not in here.<==>¡No! ¡El gobierno de la Tierra no puede bloquearnos aquí! Aquí no.-->Não! Não, o governo da Terra não pode nos bloquear aqui! Aqui não.
 (5086)I don't know if you can hear me... You need... to go... up. Do you hear me? You need to go up.<==>No sé si puedes oírme... Tienes que... subir. ¿Me oyes? Tienes que subir.-->Eu não sei se você pode me ouvir... você tem que... subir. Você está me ouvindo? Você tem que subir.
 (5087)Isaac? Dammit! I think they're jamming our signal with a mobile device. Someone get me the frequency on that jammer. They must have a gunship positioned near the compound!<==>¿Isaac? ¡Maldita sea! Creo que están interfiriendo nuestra señal con un dispositivo móvil. Que alguien me busque la frecuencia. ¡Deben de tener una nave situada cerca del recinto!-->Isaac? Droga! Eu acho que eles estão interferindo em nosso sinal com um dispositivo móvel. Alguém consiga a frequência desse aparelho. Eles devem ter uma nave posicionada nos arredores!
@@ -5375,7 +5374,7 @@
 (5374)rivet gun III<==>remachadora III-->rebitadeira III
 (5375)Finance<==>Finanzas-->Finanças
 (5376)EFFICIENCY CIRCUIT (CAP)<==>EFICACIA DEL CIRCUITO (CAP)-->EFICÁCIA DO CIRCUITO (CAP)
-(5377)This will upgrade your CAPACITY by %g pts.<==>Se mejorará la CAPACIDAD en %g pts.-->Isso vai melhorar sua CAPACIDADE em %g pts.
+(5377)This will upgrade your CAPACITY by %g pts.<==>Se mejorará la CAPACIDAD en %g pts.-->Isso vai melhorar a CAPACIDADE em %g pts.
 (5378)STOMP<==>PISOTÓN-->PISADA
 (5379)STORE<==>ALMACÉN-->LOJA
 (5380)Senior Level Designer<==>Diseñador de niveles sénior-->Designer de Níveis Sênior
@@ -5415,7 +5414,7 @@
 (5414)Gravity offline<==>Gravedad desconectada-->Gravidade desligada
 (5415)I don't know who this woman is, but she's helped me make it this far. Trust isn't a factor here - she's helped me survive, and that's what matters. She says she has a cure for these hallucinations and a way off this space station.<==>No sé quién es esta mujer, pero me ha ayudado a llegar hasta aquí. La confianza no es un factor, me ha ayudado a sobrevivir, eso es lo único que importa. Dice que tiene una cura para estas alucinaciones y que conoce la forma de salir de esta estación espacial.-->Não sei quem é essa mulher, mas ela me ajudou a chegar até aqui. A confiança não é um fator aqui - ela me ajudou a sobreviver, e isso é o que importa. Ela diz que tem uma cura para essas alucinações e que uma maneira de sair dessa estação espacial.
 (5416)POWER CELL<==>CÉLULA DE ENERGÍA-->CÉLULA DE ENERGIA
-(5417)This will upgrade your CHARGE by %g sec.<==>Se mejorará la CARGA en %g seg.-->Isso vai melhorar sua CARGA em %g seg.
+(5417)This will upgrade your CHARGE by %g sec.<==>Se mejorará la CARGA en %g seg.-->Isso vai melhorar a CARGA em %g seg.
 (5418)CREW KEY<==>LLAVE DE TRIPULACIÓN-->CHAVE DA TRIPULAÇÃO
 (5419)Bring this schematic to the store to unlock the Line Gun.<==>Lleva este diagrama al almacén para desbloquear el cañón lineal.-->Leve esse diagrama até a loja para desbloquear o canhão linear. 
 (5420)[MenuB]EXIT<==>[MenuB]SALIR-->[MenuB]Sair
@@ -5775,7 +5774,7 @@
 (5774)ELLIE'S STORY 5<==>LA HISTORIA DE ELLIE 5-->A HISTÓRIA DE ELLIE 5
 (5775)Your EA Account<==>Tu cuenta EA-->Sua Conta EA
 (5776-IGUAIS)4
-(5777)checkpoint restart<==>Reinicio pto. control-->Reiniciar do ponto de controle
+(5777)checkpoint restart<==>Reinicio pto. control-->Reiniciar pt controle
 (5778-IGUAIS)1
 (5779)You unlocked increased ranged damage for the Spitter<==>Has desbloqueado más daño a distancia para el escupidor.-->Você desbloqueou mais dano à distância para o cuspidor
 (5780-IGUAIS)é
@@ -5825,7 +5824,7 @@
 (5824)Welcome to Indoctrination. A church seminar is currently in progress. Please wait for the next available church associate. Indoctrination is a pleasant, joyous event, where you will take the first step into glorious oneness that is...Unitology.   <==>Bienvenido al adoctrinamiento. En estos momentos se está celebrando un seminario de la Iglesia. Espere al siguiente miembro de la Iglesia disponible. El adoctrinamiento es un evento de júbilo y gozo en el que dará el primer paso hacia la gloriosa unidad que representa la... Uniología.-->Bem-vindo ao Doutrinamento. Nesse momento está sendo celebrado um seminário da Igreja. Por favor, aguarde o próximo membro da igreja que estiver disponível. O doutrinamento é um evento de júbilo e gozo, onde você dará o primeiro passo para a gloriosa unidade que representa a... Unitologia.   
 (5825)Attention:  Please be quiet when observing the funerary rituals of the church.  Flash photography and holographic imaging are not permited inside the Church.   Thank you for your compliance.<==>Atención: guarde silencio mientras observa los rituales funerarios de la iglesia. Las fotografías con flash y las imágenes holográficas no están permitidas dentro de la iglesia. Gracias por su cooperación.-->Atenção:  faça silêncio enquanto observa os rituais funerários da igreja.  As fotografias com flash e as imagens holográficas não são permitidas dentro da Igreja.   Obrigado pela sua compreensão.
 (5826)Beyond these doors lies the Reading Room, a place where believers are encouraged to relax and meditate on the teachings of the Church. The shelves are lined with select inspirational materials as well as a variety of meditation aids. Please respect the sanctity of this space and those using it by remaining quiet and reverent while inside.<==>Tras esas puertas se encuentra la Sala de lectura, un lugar donde animamos a que los fieles se relajen y mediten acerca de las enseñanzas de la Iglesia. En sus estanterías encontrarán material inspirador y métodos de ayuda para la meditación. Respeten la santidad del lugar y a aquellos que lo utilizan manteniendo una actitud silenciosa y respetuosa mientras estén en su interior.-->Por trás dessas portas se encontra a Sala de Leitura, um lugar onde os fiéis são encorajados a relaxar e meditar sobre os ensinamentos da Igreja. Em suas prateleiras será encontrado material de inspiração e métodos de ajudas para a meditação. Por favor, respeitem a santidade do lugar e aqueles que o utilizam, mantendo uma atitude silenciosa e respeitosa enquanto estiver em seu interior.
-(5827)difficulty<==>Dificultad-->dificuldade
+(5827)difficulty<==>Dificultad-->Dificuldade
 (5828)European Marketing Director<==>Director de marketing europeo-->Diretor de Marketing Europeu
 (5829)European Marketing Manager<==>Jefe de marketing europeo-->Gerente de Marketing Europeu
 (5830-IGUAIS)0
@@ -5921,7 +5920,7 @@
 (5920-IGUAIS)0
 (5921-IGUAIS)gamertag
 (5922)destroy the final marker<==>Destruye la última Efigie.-->Destrua o último Marker
-(5923)bench<==>banco-->bancada de trabalho
+(5923)bench<==>banco-->Bancada
 (5924-IGUAIS)[]
 (5925)The Soldier Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Seeker Rifle receives a 10% bonus to damage. \nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de soldado ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de arma [c=RESET]: un 10% adicional de daño para el rifle buscador. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.\n-->O traje de soldado oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM3] Bonificação de Arma [c=RESET]: recebe um adicional de 10% de dano para o rifle buscador.\nSua compra garante um mínimo de 25 espaços de inventário e 25% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
 (5926)ATMOSPHERIC PURITY INCREASED<==>PUREZA ATMOSFÉRICA AUMENTADA-->PUREZA ATMOSFÉRICA AUMENTADA
@@ -6096,7 +6095,7 @@
 (6095-IGUAIS)Bertold Virag
 (6096-IGUAIS)David Woldman
 (6097)Development Director<==>Director de desarrollo-->Diretor de Desenvolvimento
-(6098)default necro controller map<==>Mapa de mando necromorfo-->mapa do controlador necromorfo padrão
+(6098)default necro controller map<==>Mapa de mando necromorfo-->Mapa do controle necromorfo
 (6099)Localization Testing Project Managers<==>Jefes de proyecto de pruebas de localización-->Gerente de Projeto de Testes de Localização
 (6100)objective<==>objetivo-->objetivo
 (6101)SEVERED 2/2<==>SEPARADOS 2/2-->SEPARADOS 2/2
@@ -6104,7 +6103,7 @@
 (6103)MAKE FOR THE BRIDGE<==>RUMBO AL PUENTE-->RUMO À PONTE
 (6104)TICK TOCK<==>TIC TAC-->TIC TAC
 (6105)CAPTAIN'S NEST<==>REFUGIO DEL CAPITÁN-->REFÚGIO DO CAPITÃO
-(6106)TETHERS ENGAGED<==>ANCLAJES ACTIVADOS--TRAVAS ATIVADAS
+(6106)TETHERS ENGAGED<==>ANCLAJES ACTIVADOS-->TRAVAS ATIVADAS
 (6107)HERE THEY COME<==>¡AQUÍ VIENEN!-->AÍ VEM ELES
 (6108)STROSS STRESS<==>EL ESTRÉS DE STROSS-->O STRESS DE STROSS
 (6109)CENTRIFUGE HINT<==>PISTA DE CENTRIFUGADORA-->DICA DA CENTRIFUGADORA
@@ -6125,7 +6124,7 @@
 (6124)   Reach the compound safe room.<==>Alcanza la sala de seguridad del recinto.-->   Vá para a sala de segurança do complexo.
 (6125-IGUAIS)Deeka MacDonald
 (6126)Force Gun Schematic<==>Diagrama de cañón de energía-->Diagrama do canhão de energia
-(6127)store<==>almacén-->depósito
+(6127)store<==>almacén-->Loja
 (6128)Are you sure you want to restart from checkpoint? All progress since last checkpoint will be lost.<==>¿Seguro que quieres reiniciar desde el punto de control? Se perderán todos los progresos realizados desde el último punto de control.-->Tem certeza que deseja reiniciar a partir do ponto de controle? Todos os progressos realizados desde o último ponto de controle serão perdidos.
 (6129)Bring this schematic to the store to unlock the Seeker Shells.<==>Lleva este diagrama al almacén para desbloquear los proyectiles buscadores.-->Leve esse esquema até a loja para desbloquear projéteis buscadores.
 (6130)INSERT MIXING AGENTS<==>INTRODUCIR AGENTES MEZCLADORES-->INTRODUZIR AGENTES MESCLADORES
@@ -6646,7 +6645,7 @@
 (6645)Honey, it's me. I hope you get this. A bunch of us were attacked by those...things. We drew lots to see who'd stay outside and redirect the lasers to try to keep them away. Guess who drew the short straw...? Anyway. I love you. Tell Chuckie that...his Daddy loves him.<==>Cariño, soy yo. Espero que recibas esto. A algunos de nosotros nos han atacado esas...cosas. Echamos a suertes quién se quedaría fuera y redirigiría los láseres para intentar mantenerlas alejadas. Y adivina a quién le ha tocado... En fin. Te quiero. Dile a Chuckie que... papá lo quiere.-->Querida, sou eu. Espero que receba essa mensagem. Alguns de nós fomos atacados por essas...coisas. Fizemos um sorteio para ver quem ficaria do lado de fora para redirecionar os laseres na tentativa de mantê-los afastados. E adivinhe quem tirou a sorte grande...? Enfim. Eu te amo. Diga ao Chuckie que...seu pai o ama.
 (6646)Honey, it's me. I hope you get this. A bunch of us were attacked by those...things. We drew lots to see who'd stay outside and redirect the lasers to try to keep them away. Guess who drew the short straw...? Anyway. I love you. Tell Chuckie that...his Daddy loves him.<==>Cariño, soy yo. Espero que recibas esto. A algunos de nosotros nos han atacado esas...cosas. Echamos a suertes quién se quedaría fuera y redirigiría los láseres para intentar mantenerlas alejadas. Y adivina a quién le ha tocado... En fin. Te quiero. Dile a Chuckie que... papá lo quiere.-->Querida, sou eu. Espero que receba essa mensagem. Alguns de nós fomos atacados por essas...coisas. Fizemos um sorteio para ver quem ficaria do lado de fora para redirecionar os laseres na tentativa de mantê-los afastados. E adivinhe quem tirou a sorte grande...? Enfim. Eu te amo. Diga ao Chuckie que...seu pai o ama.
 (6647)Departures<==>Salidas-->Partidas
-(6648)This will upgrade your DURATION by %g pts.<==>Se mejorará la DURACIÓN en %g pts.-->Isso vai melhorar sua DURAÇÃO em %g pts.
+(6648)This will upgrade your DURATION by %g pts.<==>Se mejorará la DURACIÓN en %g pts.-->Isso vai melhorar a DURAÇÃO em %g pts.
 (6649)We did it! The Solar Array is back online, and power is being transferred to the Sprawl. Now I just need to get Ellie and Stross over to Government Sector in one piece...<==>¡Lo logramos! El panel solar vuelve a funcionar y está transfiriendo energía al Eje. Ahora solo necesito llevar a Ellie y Stross al sector gubernamental de una pieza...-->Conseguimos! O painel solar voltou a funcionar, e já está transferindo energia ao Eixo. Agora só preciso levar Ellie e Stross inteiros até o setor governamental...
 (6650)UI Artists<==>Diseñadores de IU-->Artistas de UI
 (6651)THERMITE BOMB<==>BOMBA TERMITA-->BOMBA TERMITA
@@ -6802,7 +6801,7 @@
 (6801)LISTEN<==>ACTIVAR-->ESCUTAR
 (6802)high<==>Alta-->alto
 (6803)Handheld Graviton Accelerator.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] for a short range, high powered blast of kinetic energy with wide area of effect.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] for a long range, tight radius energy projection.<==>Acelerador de gravitones portátil.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar una potente ráfaga de energía cinética de corto alcance con un gran radio de acción.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una proyección de energía de largo alcance y radio de acción ajustado.-->Acelerador de gravidade portátil.\n• [c=CUSTOM2] Disparo primário [c=RESET]: pressione [rsbottom] para disparar uma potente rajada de energia cinética de curto alcance e com grande raio de ação.\n• [c=CUSTOM2] Disparo secundário [c=RESET]: pressione [rstop] para lançar uma projeção de energia de longo alcance e raio de ação ajustado.
-(6804)CHARGE<==>CARGA-->CARREGAR
+(6804)CHARGE<==>CARGA-->CARGA
 (6805)video_log_6_2<==>video_log_6_23Åàe-->video_log_6_2
 (6806)Gialdini Food Court<==>Zona de comida Gialdini-->Zona de Comida Gialdini
 (6807)Your NAT Type: Strict<==>Tu tipo de NAT: estricto-->Seu Tipo de NAT: estrito
