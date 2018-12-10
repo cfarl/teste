@@ -429,7 +429,7 @@
 (0429)Guard Security Doors<==>Protege las puertas de seguridad.-->Proteja as portas de segurança
 (0430)//online pass<==>//Pase online-->//passe online
 (0431)I don't know who this woman is, but she's helped me make it this far. Trust isn't a factor here - she's helped me survive, and that's what matters. She says she has a cure for these hallucinations and a way off this space station.\n\nI've got nothing to lose by meeting her.<==>No sé quién es esta mujer, pero me ha ayudado a llegar hasta aquí. La confianza no es un factor, me ha ayudado a sobrevivir, eso es lo único que importa. Dice que tiene una cura para estas alucinaciones y que conoce la forma de salir de esta estación espacial.\n\nNo pierdo nada reuniéndome con ella.-->Eu não sei quem é essa mulher, mas ela me ajudou a chegar até aqui. A confiança não é um fator aqui - ela me ajudou a sobreviver, e isso é o que importa. Ela diz que tem uma cura para essas alucinações e que sabe como sair dessa estação espacial.\n\nEu não tenho nada a perder me encontrando com ela.
-(0432-IGUAIS)English-->Inglês 
+(0432)English<==>English-->Inglês 
 (0433)PREPARATION<==>PREPARACIÓN-->PREPARAÇÃO
 (0434)POWER CELL ENGAGED<==>CÉLULA DE ENERGÍA CONECTADA-->CÉLULA DE ENERGIA CONECTADA
 (0435)Rd<==>Rda.-->Rda. 
@@ -2044,7 +2044,7 @@
 (2044)Help me. Someone...anyone...if you can hear me, please help. *Sobbing* Anyone? God, I...please help me...please God. Help.<==>Ayudadme. Alguien..., quien sea..., si me escucháis, ayudadme. *Llanto* ¿Hay alguien? Dios, yo..., ayúdame..., por favor, Dios. Ayuda.-->Me ajude. Alguém...quem seja...se está me ouvindo, por favor me ajude. *Soluço* Alguém? Deus, eu...me ajude por favor...por favor Deus. Me ajude.
 (2045)Help me. Someone...anyone...if you can hear me, please help. *Sobbing* Anyone? God, I...please help me...please God. Help. <==>Ayudadme. Alguien..., quien sea..., si me escucháis, ayudadme. *Llanto* ¿Hay alguien? Dios, yo..., ayúdame..., por favor, Dios. Ayuda.-->Me ajude. Alguém...quem seja...se está me ouvindo, por favor me ajude. *Soluço* Alguém? Deus, eu...me ajude por favor...por favor Deus. Me ajude.
 (2046-IGUAIS)N/A
-(2047-IGUAIS)BODY CLEANSING-->LIMPEZA DO CORPO
+(2047)BODY CLEANSING<==>BODY CLEANSING-->LIMPEZA DO CORPO
 (2048-IGUAIS).....................
 (2049)completed<==>completado-->concluído
 (2050)This demo is intended for promotional purposes only and may not be sold, rented or reproduced by any party. Any unauthorized use of this demo is prohibited by applicable law.<==>El objetivo de esta demo es meramente promocional y no se puede vender, alquilar, o reproducir por ninguna de las partes. Queda prohibido cualquier uso no autorizado por la legislación aplicable.-->O objetivo dessa demonstração é meramente promocional e não deve ser vendido, alugado ou reproduzido por nenhuma das partes. Qualquer uso não autorizado dessa demonstração é proibido por lei.
@@ -2136,7 +2136,7 @@
 (2136)Cenrtifuge is currently offline. Please activate clutches.<==>La centrifugadora está desconectada. Active los acoplamientos.-->A centrifuga está desligada. Ative os acoplamentos.
 (2137)Clutches Engaged. Activate Console.<==>Acoplamientos conectados. Activar consola.-->Acoplamentos conectados. Ativar console.
 (2138-IGUAIS)Hack?
-(2139-IGUAIS)General-->Geral
+(2139)General<==>General-->Geral
 (2140)Medium Med Pack Schematic<==>Diagrama de botiquín mediano-->Diagrama de Kit Médico Médio
 (2141)Hydrazine industrial torch.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] for a steady stream of flame.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch an entire flame fuel canister at a target for heavy damage.<==>Antorcha industrial de hidracina.\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para lanzar una llamarada.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar un bote entero de combustible inflamable a un objetivo y causarle graves daños.-->Tocha industrial de hidrazina.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: mantenha pressionado [rsbottom] para lançar chamas.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar um tubo inteiro de combustível inflamável em um alvo para causar grandes danos.
 (2142)Tiger Camo Blue<==>Azul camuflaje tigre-->Azul camuflagem tigre 
@@ -2266,7 +2266,7 @@
 (2266)///restart options<==>///opciones de reinicio-->///opções de reinicio
 (2267-IGUAIS)1
 (2268)Tear Through Space With Full Zero-Gravity Movement<==>Atraviesa el espacio con total movimiento de gravedad cero-->Atravesse o espaço com total movimento de gravidade zero
-(2269-IGUAIS)ERROR-->ERRO
+(2269)ERROR<==>ERROR-->ERRO
 (2270)LARGE MED PACK<==>BOTIQUÍN GRANDE-->KIT MÉDICO GRANDE
 (2271)Stop Cannon Control activation<==>Impide la activación del control del cañón.-->Impeça a ativação do controle do canhão. 
 (2272)Looks like the tram's evacuation protocols have been tripped. I'll have to rewire this one to get it running.<==>Parece que los protocolos de evacuación del monorraíl se han activado. Tendré que arreglar este para ponerlo en marcha.-->Parece que os protocolos de evacuação do trem foram ativados. Vou ter que regular esse para ele poder andar outra vez.
@@ -2467,7 +2467,7 @@
 (2467)GRAVITY TETHER STATUS<==>ESTADO ANCLAJE GRAVITATORIO-->ESTADO DA ÂNCORA GRAVITACIONAL
 (2468)Malfunction!!! danger!!!<==>¡¡Fallo del sistema!! ¡¡Peligro!!-->Falha no sistema!!! Perigo!!!
 (2469)Press [RDLeft]<==>Pulsa [RDLeft].-->Pressione [RDLeft]
-(2470-IGUAIS)MAKE US WHOLE-->Faça de nós um só
+(2470)MAKE US WHOLE<==>MAKE US WHOLE-->Faça de nós um só
 (2471)Workbench<==>Banco de trabajo-->Bancada de trabalho
 (2472-IGUAIS)Craig Helm
 (2473-IGUAIS)Don Hipolito
@@ -2498,7 +2498,7 @@
 (2498)C  H  U  R  C  H    O  F    U  N  I  T  O  L  O  G  Y<==>I  G  L  E  S  I  A    D  E    L  A    U  N  I  O  L  O  G  Í  A-->I  G  R  E  J  A    D  A    U  N  I  T  O  L  O  G  I  A
 (2499)JOIN US IN FINAL PRAYER<==>ÚNETE A NOSOTROS EN LA ORACIÓN FINAL-->UNAM-SE A NÓS NA ORAÇÃO FINAL
 (2500)Fr. Daniel Emmerson readies us for the journey ahead. Join us in the Rectory Hall at 18:00. Wear comfortable clothes.<==>Fr. Daniel Emmerson nos prepara para el viaje que nos aguarda. Únete a nosotros en el vestíbulo de la rectoría a las 18:00. Lleva ropa cómoda.-->Fr. Daniel Emmerson nos prepara para a jornada que nos aguarda. Juntem-se a nós no vestíbulo da reitoria às 18:00. Levem roupas confortáveis.
-(2501-IGUAIS)Welcome to ATM-->Bem-vindo à ATM
+(2501)Welcome to ATM<==>Welcome to ATM-->Bem-vindo à ATM
 (2502)Hi there!  If you are done using the school play props, please activate the storage cycle to retract them.  Remember, the far wall must fully retract before it is safe to exit.  A little play every day makes the grumpy go away!<==>¡Hola! Si se ha terminado de utilizar los accesorios de juego escolar, debe activarse el ciclo de almacenamiento para replegarlos. No debemos olvidar que la pared debe estar replegada para poder salir. ¡Un rato de juego al día, para vivir con alegría!-->Olá!  Se você terminou de usar os acessórios do jogo escolar, deve ativar o ciclo de armazenamento para guardá-los. Lembrem-se, a parede deve estar completamente retraída antes para poder sair. Um pouco de jogo todo dia, para viver com alegria!
 (2503)Remember, colds and flu spread fast in space.  Be sure your children's vaccinations are always up to date.  See a nurse today!<==>Recuerde que los resfriados y la gripe se propagan con rapidez en el espacio. Asegúrese de tener al día las vacunas de sus hijos. ¡Visite al médico hoy mismo!-->Lembrem-se, gripes e resfriados se propagam com rapidez no espaço. Assegure-se de ter em dia as vacinas de seus filhos. Visite um médico hoje mesmo!
 (2504)OPEN?<==>¿ABRIR?-->ABRIR?
@@ -3052,7 +3052,7 @@
 (3052-IGUAIS)Todd Arnold
 (3053-IGUAIS)Yannick Simard
 (3054)4 Nessa Isaac Kaan Hilal & my loving family<==>Para Nessa, Isaac, Kaan, Hilal y mi familia-->Para Nessa, Isaac, Kaan, Hilal e minha família
-(3055-IGUAIS)A mi Chiquilla-->para minha garotinha
+(3055)A mi Chiquilla<==>A mi Chiquilla-->para minha garotinha
 (3056-IGUAIS)À mon beau Bidouwa
 (3057-IGUAIS)À mon Poussin que j'aime pluche! xx
 (3058)A Sara, ma famille, mes amis & homies. I Love you!<==>A Sara, ma famille, mes amis y colegas. ¡Os quiero!-->Para Sara, minha família, meus amigos e colegas. Eu amo vocês!
@@ -3154,10 +3154,10 @@
 (3154)+{n} QUAD KILL<==>+{n} BAJA CUÁD.-->+{n} BAIXA QUADR.
 (3155)Directors Online Marketing<==>Directores de marketing online-->Diretores de Marketing Online
 (3156-IGUAIS)64
-(3157-IGUAIS)Death is only the beginning. We are all one in the eternal flame of release.-->A morte é apenas o começo. Estamos todos na chama eterna da liberação.
-(3158-IGUAIS)Believe in the truth of unification. Elevate your life to a new plane of enlightenment.-->Acredite na verdade da unificação. Eleve sua vida a um novo plano de
-(3159-IGUAIS)The light of the universe shines through us. Take the first step to your rebirth.-->A luz do universo brilha por meio de nós. Dê o primeiro passo para seu renascimento.
-(3160-IGUAIS)Join us in paradise. Be one with all. Bring light through the darkness.-->Una-se a nós no paraíso. Seja um conosco. Traga luz à escuridão.
+(3157)Death is only the beginning. We are all one in the eternal flame of release.<==>Death is only the beginning. We are all one in the eternal flame of release.-->A morte é apenas o começo. Estamos todos na chama eterna da liberação.
+(3158)Believe in the truth of unification. Elevate your life to a new plane of enlightenment.<==>Believe in the truth of unification. Elevate your life to a new plane of enlightenment.-->Acredite na verdade da unificação. Eleve sua vida a um novo plano de
+(3159)The light of the universe shines through us. Take the first step to your rebirth.<==>The light of the universe shines through us. Take the first step to your rebirth.-->A luz do universo brilha por meio de nós. Dê o primeiro passo para seu renascimento.
+(3160)Join us in paradise. Be one with all. Bring light through the darkness.<==>Join us in paradise. Be one with all. Bring light through the darkness.-->Una-se a nós no paraíso. Seja um conosco. Traga luz à escuridão.
 (3161)You unlocked increased magazine size for the Pulse Rifle<==>Has desbloqueado un mayor tamaño del cargador para el rifle de impulsos.-->Você desbloqueou um aumento no tamanho do carregador para o rifle de impulsos.
 (3162)HAZARD LINE GUN<==>CAÑÓN LINEAL DE RIESGO-->CANHÃO LINEAR DE RISCO
 (3163)SAFE<==>CAJA FUERTE-->COFRE
@@ -3283,7 +3283,7 @@
 (3283-IGUAIS)Beth Pielert
 (3284-IGUAIS)Beth Pielert
 (3285)Compositor/Motion Graphics<==>Compositor/Gráficos de movimiento-->Compositor/Gráficos de Movimento
-(3286-IGUAIS)MEDIC ASSIST-->ASSISTÊNCIA MÉDICA
+(3286)MEDIC ASSIST<==>MEDIC ASSIST-->ASSISTÊNCIA MÉDICA
 (3287)Looks like the Ishimura has been decommissioned. Bad news for me - most of its functions are probably offline. I need to check the ship's status before I can continue.<==>Parece que el Ishimura ha sido retirado del servicio. La mala noticia para mí es que probablemente la mayoría de sus funciones estén desactivadas. Tengo que comprobar el estado de la nave antes de continuar.-->Parece que a Ishimura foi retirada de serviço. A má notícia para mim é que provavelmente a maioria de suas funções estão desativadas. Tenho que verificar o estado da nave antes de continuar.
 (3288)RESTORE HEALTH<==>RESTABLECER SALUD-->RESTAURAR SAÚDE
 (3289-IGUAIS)Ben Swanson
@@ -3830,7 +3830,7 @@
 (3830)Kaleb, it's more of them!   Shoot them!  SHOOT THEM!<==>¡Kaleb, hay más! ¡Dispárales! ¡DISPÁRALES!-->Kaleb, tem mais!   Atire neles!  ATIRE NELES!
 (3831)Yes we are.<==>Sí lo haremos.-->Sim, nós faremos.
 (3832)No, get up Kaleb, just a few more meters!<==>¡No, levántate Kaleb, unos pocos metros más!-->Não, levante-se Kaleb, só mais alguns metros!
-(3833-IGUAIS)No, Kaleb... Kaleb.-->Não, Kaleb... Kaleb.
+(3833)No, Kaleb... Kaleb.<==>No, Kaleb... Kaleb.-->Não, Kaleb... Kaleb.
 (3834)Ellie:   Two should be enough to move it back onto the mag rail.  Shoot the red tips to ignite them.<==>Ellie: Con dos debería bastar para desplazarlo hacia el raíl magnético. Dispara a las boquillas rojas para activarlos.-->Ellie:   Dois devem ser suficiente para deslocá-lo de volta ao trilho magnético.  Atire nos pontas vermelhos para ativá-los.
 (3835) No, I don't have some magic panel that opens all the doors in the Sprawl.  Is his body around there anywhere?  Maybe you can use it to fool the door?<==>No, no tengo ningún panel mágico que abre todas las puertas del Eje. ¿Ves su cuerpo por alguna parte? ¿Quizá puedas usarlo para burlar a la puerta?--> Não, eu não tenho nenhum painel mágico que abre todas as portas do Eixo.  Está vendo seu corpo em algum lugar?  Talvez você possa usá-lo para enganar a porta?
 (3836)Try configuring the fuses to match the floor diagram.  That should bring up the command podium.   I used Kinesis on the fuses.<==>Configura los fusibles para que coincidan con el diagrama del suelo. Así aparecerá la tarima de control. Ya he usado la cinética con los fusibles.-->Tente ajustar os fusíveis para que coincidam com o diagrama no chão.  Assim deve aparecer a plataforma de controle.   Eu já usei a cinética nos fusíveis.
@@ -4533,7 +4533,7 @@
 (4533)plasma cutter II<==>cortadora de plasma II-->cortadora de plasma II
 (4534)SPEED<==>VELOCIDAD-->VELOCIDADE
 (4535)controller map<==>Mapa de mando-->Controles
-(4536-IGUAIS)HEALTH PACKS-->KIT DE SAÚDE
+(4536)HEALTH PACKS<==>HEALTH PACKS-->KIT DE SAÚDE
 (4537-IGUAIS)[LSBottom] + [RDUp]
 (4538)Joining<==>Uniéndose-->Entrando
 (4539)MISSION<==>MISIÓN-->MISSÃO
@@ -5698,7 +5698,7 @@
 (5698)THERMITE<==>EXPLOSIVO TERMITA-->EXPLOSIVO TERMITA
 (5699-IGUAIS)Matthew York
 (5700)NAV CARD 2<==>CARTA DE NAVEGACIÓN 2-->CARTA DE NAVEGAÇÃO 2
-(5701-IGUAIS)Large Medkit-->kit médico grande
+(5701)Large Medkit<==>Large Medkit-->kit médico grande
 (5702-IGUAIS)Sachin Pansuria
 (5703-IGUAIS)0
 (5704)Are you sure?<==>¿Seguro?-->Confirmar?
@@ -6565,7 +6565,7 @@
 (6565)Increase the DAMAGE for this item by %g pts.<==>Se aumentará el DAÑO de este objeto en %g pts.-->Aumenta o DANO desse item em %g pts.
 (6566)Director, Media Strategy & Development<==>Director de estrategia de medios y desarrollo-->Diretor de Estratégia de Mídia & Desenvolvimento
 (6567-IGUAIS)2
-(6568-IGUAIS)30 Credits-->30 Créditos
+(6568)30 Credits<==>30 Credits-->30 Créditos
 (6569-IGUAIS)0
 (6570)BOOST<==>PROPULSAR-->PROPULSIONAR
 (6571-IGUAIS)3
