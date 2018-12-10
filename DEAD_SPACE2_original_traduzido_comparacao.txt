@@ -720,7 +720,7 @@
 (0720)Senior QA Manager<==>Jefe de control de calidad sénior-->Chefe de Controle de Qualidade Sênior
 (0721-IGUAIS)STANDTECH
 (0722-IGUAIS)Wabi Sabi Sound, Inc.
-(0723)Chapter 5<==>Capítulo 5-->Capítulo 5 - Fé Atormentada
+(0723)Chapter 5<==>Capítulo 5-->Capítulo 5 - Frio e Enigmático
 (0724)reset<==>Restablecer-->resetar
 (0725)+{n}\nKILL<==>+{n}\nBAJA-->+{n}\nMORTE
 (0726)Technical Artist <==>Diseñador técnico-->Artista Técnico 
@@ -1438,20 +1438,20 @@
 (1438)deliver<==>Entregar-->Entregar
 (1439)page up<==>Re pág-->subir
 (1440)toggle climbing<==>activar/desact. subida-->alternar subida
-(1441)Chapter 1<==>Capítulo 1-->Capítulo 1:\nDemência
+(1441)Chapter 1<==>Capítulo 1-->Capítulo 1:\nOnde Estou?
 (1442)Chapter 2<==>Capítulo 2-->Capítulo 2:\nEpidemia
 (1443)Chapter 3<==>Capítulo 3-->Capítulo 3:\nSem Volta
 (1444)Chapter 4<==>Capítulo 4-->Capítulo 4:\nFilhos do Marker
-(1445)Chapter 5<==>Capítulo 5-->Capítulo 5:\nFé Atormentada
-(1446)Chapter 6<==>Capítulo 6-->Capítulo 6:\nCompanhia Relutante
-(1447)Chapter 7<==>Capítulo 7-->Capítulo 7:\nVisita Inesperada
+(1445)Chapter 5<==>Capítulo 5-->Capítulo 5:\nFrio e Enigmático
+(1446)Chapter 6<==>Capítulo 6-->Capítulo 6:\nMudança de Rumo
+(1447)Chapter 7<==>Capítulo 7-->Capítulo 7:\nO Poder do Sol
 (1448)Chapter 8<==>Capítulo 8-->Capítulo 8:\nEngenharia Espacial
-(1449)Chapter 9<==>Capítulo 9-->Capítulo 9:\nChegada do Trem
+(1449)Chapter 9<==>Capítulo 9-->Capítulo 9:\nA Chegada do Trem
 (1450)Chapter 10<==>Capítulo 10-->Capítulo 10:\nPesadelo Revivido
 (1451)Chapter 11<==>Capítulo 11-->Capítulo 11:\nNo Escuro
 (1452)Chapter 12<==>Capítulo 12-->Capítulo 12:\nRota de Colisão
 (1453)Chapter 13<==>Capítulo 13-->Capítulo 13:\nInvasão
-(1454)Chapter 14<==>Capítulo 14-->Capítulo 14:\nLuz no Fim do Túnel
+(1454)Chapter 14<==>Capítulo 14-->Capítulo 14:\nUma Luz no Túnel
 (1455)Chapter 15<==>Capítulo 15-->Capítulo 15:\nFim da Linha
 (1456)Chapter 16<==>Capítulo 16-->Capítulo 16
 (1457)Press [RDUp] when stasis is low.<==>Pulsa [RDUp] para recuperar estabilización.-->Pressione [RDUp] para recuperar estabilização.
@@ -5107,7 +5107,7 @@
 (5107)Prevent Disc from being delivered to Intel Room<==>Evita que el disco llegue a la sala de inteligencia.-->Impeça que o disco seja entregue na sala de inteligência.
 (5108){g} - {v} XP<==>{g} - {v} PE-->{g} - {v} XP
 (5109)Daina's on the opposite end of the Sprawl, and the fastest way across the station is the tram system. I need to get there before this chaos catches up with me.<==>Daina está en el otro lado del Eje, y el medio más rápido de atravesar la estación es el monorraíl. Tengo que llegar allí antes de que este caos se me eche encima.-->Daina está no outro lado do Eixo, e o caminho mais rápido de atravessar a estação é pelo trem. Preciso chegar lá antes que esse caos me arraste.
-(5110)Chapter 7<==>Capítulo 7-->Capítulo 7 - Visita Inesperada
+(5110)Chapter 7<==>Capítulo 7-->Capítulo 7 - O Poder do Sol
 (5111)Well don't be shy about using it.   It will save your life.<==>No seas tímido y úsala. Te salvará la vida.-->Não seja tímido em usá-lo. Isso vai salvar sua vida.
 (5112)CAUTION<==>PRECAUCIÓN-->ATENÇÃO
 (5113)SOS BEACON<==>BALIZA DE AUXILIO-->SINALIZADOR DE SOCORRO
@@ -5393,7 +5393,7 @@
 (5393)For Clearance Alpha Only<==>Solo para autorización alfa-->Somente para autorização alfa
 (5394)Ammo Pack<==>MUNICIÓN-->Munição
 (5395)k/d<==>ratio-->k/d
-(5396)Chapter 14<==>Capítulo 14-->Capítulo 14 - Luz no Fim do Túnel
+(5396)Chapter 14<==>Capítulo 14-->Capítulo 14 - Uma Luz no Túnel
 (5397)//cleared game//<==>//Completada//-->//jogo concluído//
 (5398)The patients are becoming agitated and combative with us, as a result of the new regimens of memory erasing drugs.   They no longer remember who we are from day to day, and must be convinced to leave their cells each morning.   Many are so frightened they require sedation to get to the interrogation chamber.   Orderly Gousetis was bitten 3 times by Patient six, who now must be told why he has a broken jaw every morning.<==>Los pacientes comienzan a mostrarse nerviosos y agresivos con nosotros, debido a los nuevos tratamientos con fármacos supresores de memoria. Ya no recuerdan quiénes somos de un día para otro, y todas las mañanas tenemos que persuadirlos para que salgan de su celda. Muchos están tan asustados que necesitan sedantes para acudir a la cámara de interrogación. El paciente 6 mordió 3 veces al ordenanza Gousetis, y ahora necesita explicaciones sobre el motivo de su mandíbula rota todas las mañanas. Fin del informe.-->Os pacientes estão começando a ficar nervosos e agressivos conosco, devido aos novos tratamentos com drogas supressores de memória. Eles já não se lembram mais quem somos de um dia, e todas as manhãs temos que convencê-los a sair das suas celas. Muitos estão tão assustados que precisam de sedativos para chegar até a sala de interrogação. O paciente 6 mordeu 3 vezes o Gousetis, e agora pede explicações sobre o motivo da sua mandíbula estar quebrada todas as manhãs.
 (5399-IGUAIS)4
@@ -6305,7 +6305,7 @@
 (6305)Volatile chemical mixture.<==>Compuesto químico volátil.-->Composto químico volátil.
 (6306)Vintage Suit Schematic<==>Diagrama de traje vintage-->Diagrama de Traje vintage
 (6307)pulse rifle III<==>rifle de impulsos III-->rifle de impulsos III
-(6308)Chapter 6<==>Capítulo 6-->Capítulo 6 - Companhia Relutante
+(6308)Chapter 6<==>Capítulo 6-->Capítulo 6 - Mudança de Rumo
 (6309)prevent the humans from overriding the activation switch<==>Evita que los humanos anulen el interruptor de activación.-->Evite que os humanos destruam o interruptor de ativação
 (6310)Gabe?  It's Lexine.  Gabe, when will you get here?  I broke free but there's nowhere safe to run!  What's going on?   I hear screaming all around me.  This is just like the Ishimura, back at Aegis VII!  How can this be happening again?   Hurry Gabe, I don't know how long I can last here!<==>¿Gabe? Soy Lexine. Gabe, ¿cuándo tienes pensado llegar? ¡Me he liberado, pero no hay ningún lugar seguro al que ir! ¿Qué ocurre? Oigo gritos a mi alrededor. ¡Es como en el Ishimura, en Aegis VII! No puede ser que esté volviendo a pasar... ¡Date prisa, Gabe, no sé cuánto tiempo aguantaré con vida aquí!-->Gabe?  É Lexine.  Gabe, quando você vai chegar aqui?  Eles me liberaram, mas não há nenhum lugar seguro para ir!  O que está acontecendo?   Eu ouço gritos à minha volta.  É como na Ishimura, em Aegis VII!  Como isso pode estar acontecendo de novo?   Depressa Gabe, eu não sei quanto tempo vou aguentar aqui!
 (6311)Gabe?  It's Lexine.  Gabe, when will you get here?  I broke free but there's nowhere safe to run!  What's going on?   I hear screaming all around me.  This is just like the Ishimura, back at Aegis VII!  How can this be happening again?   Hurry Gabe, I don't know how long I can last here!<==>¿Gabe? Soy Lexine. Gabe, ¿cuándo tienes pensado llegar? ¡Me he liberado, pero no hay ningún lugar seguro al que ir! ¿Qué ocurre? Oigo gritos a mi alrededor. ¡Es como en el Ishimura, en Aegis VII! No puede ser que esté volviendo a pasar... ¡Date prisa, Gabe, no sé cuánto tiempo aguantaré con vida aquí!-->Gabe?  É Lexine.  Gabe, quando você vai chegar aqui?  Eles me liberaram, mas não há nenhum lugar seguro para ir!  O que está acontecendo?   Eu ouço gritos à minha volta.  É como na Ishimura, em Aegis VII!  Como isso pode estar acontecendo de novo?   Depressa Gabe, eu não sei quanto tempo vou aguentar aqui!
