@@ -89,72 +89,72 @@
 (0089)Goodbye, Sweet Love<==>Adiós con el corazón-->Adeus, doce amor
 (0090)Love Will Rise Again<==>Amor sin fronteras-->Amor sem fronteiras
 (0091)The Broken Seal<==>La restauración de la barrera-->A restauração da barreira
-(0092)The Disappearing Knights<==>En busca de los caballeros perdidos-->The Disappearing Knights
-(0093)The Reviving Legend<==>No pasarán-->The Reviving Legend
-(0094)The Cosmos Maiden<==>La Ninfa Cósmica-->The Cosmos Maiden
-(0095)Kosmosfest<==>La Gala Cósmica-->Kosmosfest
-(0096)Wisdom's Echo<==>Ecos de sabiduría-->Wisdom's Echo
-(0097)History's Boundary<==>Ecos del pasado-->History's Boundary
-(0098)The Desert's Legend<==>La reina del desierto-->The Desert's Legend
-(0099)Seeker of the Ancient Path<==>En busca del saber ancestral-->Seeker of the Ancient Path
-(0100)The Fallen<==>El Condenado-->The Fallen
-(0101-IGUAIS)Amnesia
-(0102)The Villain and the Sightless Girl<==>Luz en la oscuridad-->The Villain and the Sightless Girl
-(0103)Kate and Rhagoh<==>Amor fraternal-->Kate and Rhagoh
+(0092)The Disappearing Knights<==>En busca de los caballeros perdidos-->Em busca dos cavaleiros  perdidos
+(0093)The Reviving Legend<==>No pasarán-->A lenda revivida
+(0094)The Cosmos Maiden<==>La Ninfa Cósmica-->A Donzela Cósmica
+(0095)Kosmosfest<==>La Gala Cósmica-->A Festa Cósmica 
+(0096)Wisdom's Echo<==>Ecos de sabiduría-->Ecos de  sabedoria
+(0097)History's Boundary<==>Ecos del pasado-->Ecos do passado
+(0098)The Desert's Legend<==>La reina del desierto-->O reino do deserto
+(0099)Seeker of the Ancient Path<==>En busca del saber ancestral-->Em busca do conhecimento ancestral
+(0100)The Fallen<==>El Condenado-->O Condenado
+(0101)Amnesia<==>Amnesia-->Amnésia
+(0102)The Villain and the Sightless Girl<==>Luz en la oscuridad-->Uma luz na escuridão
+(0103)Kate and Rhagoh<==>Amor fraternal-->Kate e Rhagoh
 (0104)Mr. Diggs<==>El señor Garras-->Mr. Diggs
-(0105)After a Day's Work...<==>Gotas de frescor-->After a Day's Work...
-(0106)Slumber of the Lost Fragment<==>Mi tesoro-->Slumber of the Lost Fragment
-(0107)A Voice from the Past<==>Voces del pasado-->A Voice from the Past
-(0108)Blooming Flower, Singing Bird<==>Herencia familiar-->Blooming Flower, Singing Bird
-(0109)The Losing Game<==>Una apuesta arriesgada-->The Losing Game
-(0110)The Wanderer<==>Las apariencias engañan-->The Wanderer
-(0111)The Gates of Deceit and Sword of the Dead<==>Secretos y cataclismos-->The Gates of Deceit and Sword of the Dead
-(0112)Bravery and Loyalty<==>Valor y lealtad-->Bravery and Loyalty
-(0113)The Successor<==>Quien siembra vientos...-->The Successor
-(0114)The Standoff<==>El Torneo de los héroes-->The Standoff
-(0115)The Rainbow Bond<==>Unidos por el Arco Iris-->The Rainbow Bond
-(0116)The Fated One<==>El duelo-->The Fated One
-(0117)The Distant Promise<==>Una antigua promesa-->The Distant Promise
-(0118)Hearts<==>Sed de conocimiento-->Hearts
-(0119)The Tablet of Marshall<==>La tablilla-->The Tablet of Marshall
-(0120)UFO!?<==>Un ave misteriosa-->UFO!?
-(0121)At Hatred's End<==>Los límites del rencor-->At Hatred's End
-(0122)The Ancient War<==>Una guerra ancestral-->The Ancient War
-(0123)Into the Abyss<==>En el corazón del abismo-->Into the Abyss
-(0124)The Fiery Revolt<==>Luces y sombras-->The Fiery Revolt
-(0125)Frustrations<==>Disputas fraternales-->Frustrations
-(0126)The War of a Thousand Years<==>La guerra de los mil años-->The War of a Thousand Years
-(0127)The Hero<==>Héroe de leyenda-->The Hero
-(0128)The Silent Soul<==>El desierto de las almas perdidas-->The Silent Soul
-(0129)The Assistant<==>El discípulo-->The Assistant
-(0130)Infestation!<==>La plaga-->Infestation!
-(0131)The Slave Traders<==>¿Quién sabe dónde?-->The Slave Traders
-(0132)Emotions<==>Valor sentimental-->Emotions
-(0133)The Trade Route<==>Pioneros del desierto-->The Trade Route
-(0134)Baulson<==>Al rescate-->Baulson
-(0135)A Single Soul<==>Un alma en pena-->A Single Soul
-(0136)Darien<==>Redención-->Darien
-(0137)A Day's Beginning<==>El sol siempre vuelve a salir-->A Day's Beginning
-(0138)Things Unchangeable<==>Hay cosas que nunca cambian-->Things Unchangeable
-(0139)Athlum's Witch<==>La arcamaga de Athlum-->Athlum's Witch
-(0140)Celapaleis's Witch<==>La arcamaga de Celapalais-->Celapaleis's Witch
-(0141)Elysion's Witch<==>La arcamaga de Elysion-->Elysion's Witch
-(0142)Nagapur's Witch<==>La arcamaga de Nagapur-->Nagapur's Witch
-(0143)Ghor's Witch<==>La arcamaga de Ghor-->Ghor's Witch
-(0144)Undelwalt's Witch<==>La arcamaga de Undelwalt-->Undelwalt's Witch
-(0145)Balterossa's Witch<==>La arcamaga de Balterossa-->Balterossa's Witch
-(0146)Royotia's Witch<==>La arcamaga de Royotia-->Royotia's Witch
-(0147)Melphina's Witch<==>La arcamaga de Melphina-->Melphina's Witch
-(0148)Baaluk's Witch<==>La arcamaga de Baaluk-->Baaluk's Witch
-(0149)The Ladies of Bloody Alice<==>Las Damas Sangrientas-->The Ladies of Bloody Alice
-(0150)The Silver Falcons: Part One<==>Los Halcones Argénteos: primera parte-->The Silver Falcons: Part One
-(0151)The Silver Falcons: Part Two<==>Los Halcones Argénteos: segunda parte-->The Silver Falcons: Part Two
-(0152)The Silver Falcons: Part Three<==>Los Halcones Argénteos: tercera parte-->The Silver Falcons: Part Three
-(0153)The Secret Letter<==>La misiva-->The Secret Letter
+(0105)After a Day's Work...<==>Gotas de frescor-->Depois de um dia de trabalho...
+(0106)Slumber of the Lost Fragment<==>Mi tesoro-->Meu tesouro
+(0107)A Voice from the Past<==>Voces del pasado-->Vozes do passado
+(0108)Blooming Flower, Singing Bird<==>Herencia familiar-->Herança de família
+(0109)The Losing Game<==>Una apuesta arriesgada-->Uma aposta arriscada 
+(0110)The Wanderer<==>Las apariencias engañan-->O andarilho
+(0111)The Gates of Deceit and Sword of the Dead<==>Secretos y cataclismos-->Segredos e cataclismos
+(0112)Bravery and Loyalty<==>Valor y lealtad-->Valor e lealdade
+(0113)The Successor<==>Quien siembra vientos...-->O sucessor
+(0114)The Standoff<==>El Torneo de los héroes-->O torneio dos heróis 
+(0115)The Rainbow Bond<==>Unidos por el Arco Iris-->Unidos pelo Arco Iris
+(0116)The Fated One<==>El duelo-->O duelo
+(0117)The Distant Promise<==>Una antigua promesa-->Uma antiga promessa
+(0118)Hearts<==>Sed de conocimiento-->Sede de conhecimento 
+(0119)The Tablet of Marshall<==>La tablilla-->A tabuleta de Marshall
+(0120)UFO!?<==>Un ave misteriosa-->Uma ave misteriosa
+(0121)At Hatred's End<==>Los límites del rencor-->Os limites do ódio 
+(0122)The Ancient War<==>Una guerra ancestral-->A guerra ancestral
+(0123)Into the Abyss<==>En el corazón del abismo-->No coração do abismo
+(0124)The Fiery Revolt<==>Luces y sombras-->Luzes e sombras
+(0125)Frustrations<==>Disputas fraternales-->Disputas fraternais
+(0126)The War of a Thousand Years<==>La guerra de los mil años-->A guerra dos mil anos
+(0127)The Hero<==>Héroe de leyenda-->O herói da lenda
+(0128)The Silent Soul<==>El desierto de las almas perdidas-->O deserto das almas perdidas 
+(0129)The Assistant<==>El discípulo-->O assistente
+(0130)Infestation!<==>La plaga-->A praga
+(0131)The Slave Traders<==>¿Quién sabe dónde?-->Os comerciantes de escravos
+(0132)Emotions<==>Valor sentimental-->Valor sentimental 
+(0133)The Trade Route<==>Pioneros del desierto-->A rota comercial
+(0134)Baulson<==>Al rescate-->Ao resgate
+(0135)A Single Soul<==>Un alma en pena-->Uma alma solitária 
+(0136)Darien<==>Redención-->Redenção
+(0137)A Day's Beginning<==>El sol siempre vuelve a salir-->O começo de um novo dia
+(0138)Things Unchangeable<==>Hay cosas que nunca cambian-->Há coisas que nunca mudam
+(0139)Athlum's Witch<==>A arcamaga de Athlum-->A feiticeira de Athlum
+(0140)Celapaleis's Witch<==>La arcamaga de Celapalais-->A feiticeira de Celapaleis
+(0141)Elysion's Witch<==>La arcamaga de Elysion-->A feiticeira de Elysion
+(0142)Nagapur's Witch<==>La arcamaga de Nagapur-->A feiticeira de Nagapur
+(0143)Ghor's Witch<==>La arcamaga de Ghor-->A feiticeira de Ghor
+(0144)Undelwalt's Witch<==>La arcamaga de Undelwalt-->A feiticeira de Undelwalt
+(0145)Balterossa's Witch<==>La arcamaga de Balterossa-->A feiticeira de Balterossa
+(0146)Royotia's Witch<==>La arcamaga de Royotia-->A feiticeira de Royotia
+(0147)Melphina's Witch<==>La arcamaga de Melphina-->A feiticeira de Melphina
+(0148)Baaluk's Witch<==>La arcamaga de Baaluk-->A feiticeira de Baaluk
+(0149)The Ladies of Bloody Alice<==>Las Damas Sangrientas-->As Damas Sangrentas
+(0150)The Silver Falcons: Part One<==>Los Halcones Argénteos: primera parte-->Os Falcões Prateados: primeira parte
+(0151)The Silver Falcons: Part Two<==>Los Halcones Argénteos: segunda parte-->Os Falcões Prateados: segunda parte
+(0152)The Silver Falcons: Part Three<==>Los Halcones Argénteos: tercera parte-->Os Falcões Prateados: terceira parte
+(0153)The Secret Letter<==>La misiva-->A carta secreta
 (0154)Harvesting Category dummy<==>Categorías de recolección-->Harvesting Category dummy
-(0155)Dig<==>Excavar-->Dig
-(0156)Fell<==>Talar-->Fell
-(0157)Jump<==>Saltar-->Jump
-(0158)Dive<==>Bucear-->Dive
-(0159)Sift<==>Extraer-->Sift
-(0160)Buried Treasure<==>Tesoro enterrado-->Buried Treasure
+(0155)Dig<==>Excavar-->Escavar
+(0156)Fell<==>Talar-->Derrubar
+(0157)Jump<==>Saltar-->Saltar
+(0158)Dive<==>Bucear-->Mergulhar
+(0159)Sift<==>Extraer-->Extrair
+(0160)Buried Treasure<==>Tesoro enterrado-->Tesouro Enterrado
