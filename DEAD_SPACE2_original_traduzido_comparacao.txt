@@ -321,7 +321,7 @@
 (0321)Make us whole!<==><Murmullos>-->Devolva-nos a vida!
 (0322)MAKE US WHOLE!<==>¡DEVUÉLVENOS A LA VIDA!-->DEVOLVA-NOS A VIDA!
 (0323-IGUAIS)Robert Foster
-(0324)kinesis<==>cinética-->Cinética
+(0324)kinesis<==>cinética-->cinética
 (0325)TEACHER REPORT: 3rd semester, 381-3\n\nI know kids are supposed to have a vivid imagination, but this is getting ridiculous. Nearly half of my class has imaginary friends now, claiming that it's their deceased grandmother or something. Normally, this wouldn't be a problem, but it's getting harder and harder to get these kids to concentrate. This semester, I've sent more students to the time out chair than I have in all my twelve years of teaching. Maybe these kids are having trouble at home. I've also noticed parental involvement steadily decreasing this semester.\n\n-Walter Blake \nThird Grade Educational Instructor<==>INFORME DEL PROFESOR: 3er semestre, 381-3\n\nSé que es normal que los niños tengan una imaginación desbordante, pero esto ya roza lo ridículo. Casi la mitad de los alumnos de mi clase tiene amigos imaginarios, y dicen que son sus difuntas abuelas y cosas parecidas. Normalmente, esto no supondría un problema, pero cada vez resulta más difícil conseguir que esos niños se concentren. Este semestre he enviado a más estudiantes a la silla de aislamiento que en mis 12 años como docente. Puede que estos alumnos estén teniendo problemas en casa. También he notado un descenso continuado de la implicación de los padres durante este semestre.\n\n-Walter Blake \nInstructor educativo de tercer curso-->RELATÓRIO DO PROFESSOR: 3° Semestre, 381-3\n\nEu sei que é normal que as crianças tenham uma imaginação fértil, mas isso já está ficando ridículo. Quase metade dos alunos da minha classe agora tem amigos imaginários, e dizem são sua avó falecida ou coisa parecida. Normalmente, isso não seria um problema, mas está ficando cada vez mais difícil fazer que essas crianças se concentrem. Esse semestre mandei mais estudantes para a cadeira de isolamento que em todos meus 12 anos como docente. Talvez essas crianças estejam tendo problemas em casa. Também notei que o envolvimento dos pais diminuiu paulatinamente esse semestre.\n\n-Walter Blake \nInstrutor Educacional do Terceiro Grau
 (0326)The Solar Array powered the Sprawl long before its fusion reactors were installed. If I can get to the Base Station, I should be able to jumpstart the array and transfer some energy to the Transport Hub.<==>El panel solar alimentaba El Eje antes de que se instalaran los reactores de fusión. Si logro llegar a la estación base, debería poder poner en marcha el panel y transferir algo de energía al nodo de transporte.-->O painel solar alimentava o Eixo muito antes da instalação dos reatores de fusão. Se eu puder chegar à Estação Base, posso conseguir colocar o painel em funcionamento e transferir alguma energia para o centro de transporte.
 (0327)Tiger Camo Viral Blue<==>Azul viral camuflaje tigre-->Azul Viral Camuflagem Tigre
@@ -579,7 +579,7 @@
 (0579)Step three, then you'll- AAAGHH!<==>¡Paso tres, entonces..., AAAAGH!-->Passo três, então você...- AAAGHH!
 (0580)she'll be waiting...1...2...3...4...staring...asking...after the screws after the needles...step three<==>Ella estará esperando...1...2...3...4... Observando... Preguntando... Después de los tornillos y las inyecciones... Paso tres.-->Ela vai estar esperando... 1... 2... 3... 4... observando... perguntando... depois dos parafusos depois da injeção... Passo 3
 (0581)Isaac!  Isaac!   Look out!<==>¿Isaac? ¡Isaac! ¡Cuidado!-->Isaac!  Isaac!   Cuidado!
-(0582) Isaac?!  He's gone.  Listen, the steps can destroy the Marker.  Step 1, crawl into the dark machine.   Step 2, the screws go tight, all around...<==>¿Isaac? Se ha ido. Escucha, los pasos pueden destruir a la Efigie. Paso uno, arrástrate al interior de la máquina oscura. Paso dos, tornillos apretados, muy apretados...--> Isaac? Ele foi embora. Escute, os passos podem destruir o Marker. Passo, se arrastar para dentro da máquina escura. Passo 2, os parafusos apertados, muito apertados...
+(0582) Isaac?!  He's gone.  Listen, the steps can destroy the Marker.  Step 1, crawl into the dark machine.   Step 2, the screws go tight, all around...<==>¿Isaac? Se ha ido. Escucha, los pasos pueden destruir a la Efigie. Paso uno, arrástrate al interior de la máquina oscura. Paso dos, tornillos apretados, muy apretados...--> Isaac? Ele foi embora. Escute, os passos podem destruir o Marker. Passo um, se arrastar para dentro da máquina escura. Passo 2, os parafusos apertados, muito apertados...
 (0583)Oh God, he's back! NO! No no no no no!<==>¡Oh Dios, ha vuelto! ¡NO! ¡No no no no no!-->Oh Deus, ele voltou! NÃO! Não não não não, não!
 (0584)I just need you to see what I see, Ellie. I promise it won't hurt...<==>Solo necesito que veas lo que yo veo, Ellie. Te prometo que no te dolerá...-->Eu só preciso que você veja o que eu vejo, Ellie. Prometo que não vai doer...
 (0585) There you are!  <==>¡Ahí estás!--> Aí está você!  
@@ -639,7 +639,7 @@
 (0639)Medium air canister that replenishes the air meter.<==>Bote de aire mediano que recarga el indicador de oxígeno.-->Tubo de ar médio que recarrega o indicador de oxigênio.
 (0640)pack<==>jauría-->matilha 
 (0641)+{n} TEAM OBJECTIVE<==>+{n} OBJETIVO DE EQUIPO-->+{n} OBJETIVO DA EQUIPE
-(0642)Restores Stasis Energy.\n- Inventory Slot Stack Size: 3\nPress [rdup] to use instantly, or select from your RIG's inventory.<==>Restablece la energía de estabilización.\n- Tamaño del bloque de ranuras de inventario: 3\nPulsa [rdup] para usarla al instante o selecciónala en el inventario de DRI.-->Restaura a energia de estabilização.\n- Tamanho do bloco de espaços no inventário: 3\nPressione [rdup] para usar imediatamente, ou selecionar no inventário do seu DRI.
+(0642)Restores Stasis Energy.\n- Inventory Slot Stack Size: 3\nPress [rdup] to use instantly, or select from your RIG's inventory.<==>Restablece la energía de estabilización.\n- Tamaño del bloque de ranuras de inventario: 3\nPulsa [rdup] para usarla al instante o selecciónala en el inventario de DRI.-->Restaura a energia de estabilização.\n- Quantidade máxima armazenada em um espaço do inventário: 3\nPressione [rdup] para usar imediatamente, ou selecionar no inventário do seu DRI.
 (0643)Javelin Spear Schematic<==>Diagrama de jabalina-->Diagrama de Dardo
 (0644-IGUAIS)3
 (0645)locator<==>localizador-->localizador
@@ -856,7 +856,7 @@
 (0856)Incoming Call.<==>Llamada entrante.-->Recebendo Chamada.
 (0857)Incoming Transmission<==>Transmisión entrante-->Recebendo Transmissão
 (0858)Kinesis is advisable when attempting to install, uninstall or move power units.<==>La cinética es recomendable para instalar, desinstalar o mover generadores.-->A cinética é recomendada quando se tenta instalar, desinstalar ou mover unidades de energia.
-(0859)Life support failure:  Oxygen output is zero.   This area is unsafe for habitation.  Personal oxygen supplies are now required.<==>Fallo en el soporte vital: la producción de oxígeno es nula. Esta zona es inhabitable. El suministro personal de oxígeno es imprescindible.-->Falha no Suporte Vital: a produção de oxigênio é nula. Essa área é imprópria para habitação. O suprimento pessoal de oxigênio pessoais é imprescindível.
+(0859)Life support failure:  Oxygen output is zero.   This area is unsafe for habitation.  Personal oxygen supplies are now required.<==>Fallo en el soporte vital: la producción de oxígeno es nula. Esta zona es inhabitable. El suministro personal de oxígeno es imprescindible.-->Falha no Suporte Vital: a produção de oxigênio é nula. Essa área é inabitável. O suprimento pessoal de oxigênio pessoais é imprescindível.
 (0860)Locator Updated<==>Localizador actualizado.-->Localizador atualizado
 (0861)Objects held with kinesis can be violently propelled.   Please use caution, these projectiles can be dangerous.<==>Los objetos controlados con la cinética se pueden arrojar con fuerza. Tenga cuidado, estos proyectiles pueden ser peligrosos.-->Os objetos controlados com cinética podem ser violentamente impulsionados. Tenha cuidado, esses projéteis podem ser perigosos.
 (0862)Please pull down the magnetic restraints in pairs to lock down each gravity ring.  You must lock down the rings in sequence, from outer to inner.<==>Por favor, tire de los frenos magnéticos para cerrar los anillos gravitatorios. Debe cerrar los anillos en una secuencia establecida, desde el exterior hacia el interior.-->Por favor, puxe para baixo os freios magnéticos em pares para bloquear cada anel gravitacional. Você deve bloquear os anéis na seqüência, a partir do externo para o interno.
@@ -1004,7 +1004,7 @@
 (1004)Warning:  structural integrity has failed.   <==>Alerta: la integridad estructural se ha perdido.-->Alerta: a integridade estrutural foi perdida.   
 (1005)Entering Zero-Gravity.<==>Entrando en gravedad cero.-->Entrando na Gravidade Zero.
 (1006)Exiting Zero-Gravity.<==>Saliendo de gravedad cero.-->Saindo da Gravidade Zero.
-(1007)Primary Fire DAM +10% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>DÑO disparo principal: +10% / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->DANOS do disparo principal +10% / REC -5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um raio cortador estreito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para girar a cortadora em 90 graus.
+(1007)Primary Fire DAM +10% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a narrow cutting beam.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to rotate the cutter 90 degrees.<==>DÑO disparo principal: +10% / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo cortador estrecho.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para girar la cortadora 90 grados.-->DANO do disparo principal +10% / REC -5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um raio cortador estreito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para girar a cortadora em 90 graus.
 (1008)Help EA improve products, services and user experience by sharing usage information such as game statistics, settings, feature preferences and incident or event data. This information will not be shared with any third party in a way that can personally identify you.<==>Ayuda a EA a mejorar sus productos y servicios, y la experiencia de los usuarios compartiendo información de uso, como tus estadísticas, tu configuración y tus preferencias de juego, y de incidencias. Esta información no se compartirá con terceros de ningún modo que permita identificarte personalmente.-->Ajude a EA a melhorar seus produtos, serviços e a experiência dos usuários compartilhando informações de uso, como suas estatíscas, sua configuração e suas preferências e incidentes. Essas informações não serão compartilhadas com terceiros de modo que permita te identificar pessoalmente.
 (1009)aiming<==>Apuntar-->Mirar
 (1010)NEEDED<==>NECESARIO-->NECESSÁRIO
@@ -1028,7 +1028,7 @@
 (1028-IGUAIS)Reid Sheldon
 (1029-IGUAIS)Dustin Steele
 (1030)Allison Landers, this is Brandon Lurrach: Thank you for identifying Ishimura archive footage and RIG logs that could potentially contradict the official storyline of its demise at Aegis VII. It is critical that no word of the artifact's recovery ever be surfaced to the public. It is disturbing that such records still exist this many years after the incident. We have locked out your research team's access, and will be replacing them with EarthGov specialists effective immediately. Please contact me once the replacements arrive.<==>Allison Landers, aquí Brandon Lukach. Gracias por identificar las imágenes de archivo y los registros de los DRI del Ishimura que podrían contradecir la declaración oficial de su extinción en Aegis VII. Es de vital importancia que la noticia de la recuperación del artefacto no salga a la luz pública. Es muy preocupante que sigan existiendo estos registros tantos años después del incidente. Hemos bloqueado el acceso a su equipo de investigación, y lo sustituiremos con especialistas del gobierno de la Tierra de inmediato. Póngase en contacto conmigo cuando llegue el reemplazo.-->Allison Landers, aqui é Brandon Lurrach. Obrigado por identificar as imagens de arquivo e os registros dos DRI da Ishimura que poderiam contradizer a declaração oficial de sua extinção em Aegis VII. É muito importante que a notícia da recuperação do artefato não seja divulgada ao público. É extremamente preocupante que esse registros ainda existam depois de tantos anos do incidente. Estamos bloqueando o acesso de sua equipe de investigação, e os substituiremos por especialistas do governo da Terra de imediato. Entre em contato comigo quando os substitutos chegarem.
-(1031)Franchise Art Director<==>Director de diseño de la franquicia-->Revisão Adicional (dezembro 2018)
+(1031)Franchise Art Director<==>Director de diseño de la franquicia-->Revisão Adicional (janeiro 2019)
 (1032-IGUAIS)Fly Sun
 (1033)TRAM CALL<==>MONORRAÍL-->CHAMAR TREM
 (1034)The gravity tethers won't function unless the main centrifuge is operational. Looks like the repair team was in the middle of upgrading the centrifuge unit - I'll have to finish the job.<==>Los anclajes gravitatorios no funcionarán a menos que la centrifugadora principal esté operativa. Parece que el equipo de reparación dejó a medias la mejora de la unidad centrifugadora; tendré que acabar el trabajo.-->As travas gravitacionais não funcionarão a menos que a centrifugadora principal esteja operante. Parece que a equipe de reparos deixou pela metade o serviço de melhoria da unidade centrifugadora - você vai ter que terminar o trabalho.
@@ -1260,7 +1260,7 @@
 (1260)ILLEGAL EVACUATION<==>EVACUACIÓN ILEGAL-->EVACUAÇÃO ILEGAL
 (1261)DIRTY SECRET<==>SÓRDIDO SECRETO-->SEGREDO SÓRDIDO
 (1262)Ripper Energy Schematic<==>Diagrama de carga de sierra trituradora-->Diagrama de carga da serra trituradora
-(1263)Tank of Liquid Hydrazine for the Flamethrower.\n - Inventory Slot Stack Size: 150<==>Depósito de hidracina líquida para el lanzallamas.\n - Tamaño del bloque de ranuras de inventario: 150-->Tanque de hidrazina líquida para o lança-chamas.\n - Tamanho do bloco de espaços no inventário: 150
+(1263)Tank of Liquid Hydrazine for the Flamethrower.\n - Inventory Slot Stack Size: 150<==>Depósito de hidracina líquida para el lanzallamas.\n - Tamaño del bloque de ranuras de inventario: 150-->Depósito de hidrazina líquida para o lança-chamas.\n - Quantidade máxima armazenada em um espaço do inventário: 150
 (1264-IGUAIS)Aaron Arboleda
 (1265-IGUAIS)Antonio Maiorano
 (1266)Bogdan Corciova <==>Bogdan Corciova -->Bogdan Corciova 
@@ -1349,16 +1349,16 @@
 (1349-IGUAIS)Marcel Elsner
 (1350)Vintage Elite<==>Vintage de élite-->Vintage de Elite
 (1351-IGUAIS)INTERSTELLAR TOOLS OF THE TRADE\n\nThe Demise of Schofield Tools\n\nTurmoil in the mining industry today as veteran equipment maker Schofield Tools was found guilty on all counts of fraud and mutiny.  Mutiny is not usually applicable in commercial cases, but due to the extreme penetration of Schofield Tool's products throughout the USG fleet, a "defacto" exception was made by Guild courts.\nTrouble started earlier last year when Schofield Tools was purchased by the Arnold Conglomerate in a hostile takeover.  Almost immediately, minor clauses in Guild contracts were controversially re-interpreted to the tune of trillions of credits owed the Conglomerate.  The conflict quickly escalated to the charge of mutiny.\nThen, as reported last month, the Arnold Conglomerate vanished overnight in a puff of accounting irregularities.  Arnold officials have since vanished, leaving Schofield Tools holding the bag for the fraud charges.\nThe courts have ordered Schofield Tools to divest all assets to Timson Tools, their closest Guild-licensed competitor.  The only asset allowed to remain in the hands of Schofield Tools will be their small pinecone production facility on Uranus.
-(1352)Electrocution Spears for the Javelin Gun.\n - Inventory Slot Stack Size: 10<==>Lanzas de electrocución para el cañón jabalina.\n - Tamaño de bloque de ranuras de inventario: 10-->Dardos de eletrocussão do Canhão De Dardos.\n - Tamanho do bloco de espaços de inventário: 10
+(1352)Electrocution Spears for the Javelin Gun.\n - Inventory Slot Stack Size: 10<==>Lanzas de electrocución para el cañón jabalina.\n - Tamaño de bloque de ranuras de inventario: 10-->Dardos de eletrocussão do Canhão De Dardos.\n - Quantidade máxima armazenada em um espaço do inventário: 10
 (1353)BATCH MIXER<==>MEZCLADORA-->MESCLADORA
-(1354)Ellie!  Your hatch is being blocked by a giant tentacle.  It's wrapped around a big chemical tank.<==>¡Ellie! Un tentáculo gigante bloquea tu escotilla. Está enrollado alrededor de un gran depósito químico.-->Ellie! Um tentáculo gigante está bloqueando sua escotilha. Está enrolado ao redor de um grande tanque de produtos químicos.
+(1354)Ellie!  Your hatch is being blocked by a giant tentacle.  It's wrapped around a big chemical tank.<==>¡Ellie! Un tentáculo gigante bloquea tu escotilla. Está enrollado alrededor de un gran depósito químico.-->Ellie! Um tentáculo gigante está bloqueando sua escotilha. Está enrolado ao redor de um grande depósito de produtos químicos.
 (1355)LINE GUN<==>CAÑÓN LINEAL-->CANHÃO LINEAR
 (1356)Primary Fire DAM +20% / SPD +20%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to go bang bang.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to go pew pew pew.\nReal space.  Real terror.  Real foam.<==>DÑO disparo principal: +20% / VEL: +20%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para hacer pum pum.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para hacer piu piu piu.\nEspacio real. Terror real. Espuma real.-->DANO disparo principal DAN +20% / VEL +20%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para fazer bang bang.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para fazer piu piu piu.\nEspaço real. Terror Real. Espuma Real.
 (1357)privacy policy<==>Política de privacidad-->Política de Privacidade
 (1358)SUB-OBJECTIVE\nCOMPLETE<==>OBJETIVO SECUNDARIO\nCOMPLETADO-->OBJETIVO SECUNDÁRIO\nCONCLUÍDO 
 (1359-IGUAIS)=
 (1360-IGUAIS)=
-(1361)Magazine of Ammunition for the Pulse Rifle.\n - Inventory Slot Stack Size: 100<==>Munición para el rifle de impulsos.\n - Tamaño del bloque de ranuras de inventario: 100-->Munição para o Rifle de Impulsos.\n - Tamanho do bloco de espaços de inventário: 100
+(1361)Magazine of Ammunition for the Pulse Rifle.\n - Inventory Slot Stack Size: 100<==>Munición para el rifle de impulsos.\n - Tamaño del bloque de ranuras de inventario: 100-->Munição para o Rifle de Impulsos.\n - Quantidade máxima armazenada em um espaço do inventário: 100
 (1362-IGUAIS)Jarrett Jamili
 (1363-IGUAIS)Dan Windrem
 (1364-IGUAIS)+
@@ -1374,7 +1374,7 @@
 (1374)AIR METER<==>INDICADOR DE OXÍGENO-->INDICADOR DE OXIGÊNIO 
 (1375-IGUAIS)$
 (1376)Video<==>Vídeo-->Vídeo
-(1377)Magazine of Ammunition for the Pulse Rifle.\n - Inventory Slot Stack Size: 100<==>Munición para el rifle de impulsos.\n- Tamaño del bloque de ranuras de inventario: 100\n-->Munição para o Rifle de Impulsos.\n - Tamanho do bloco de espaços de inventário: 100
+(1377)Magazine of Ammunition for the Pulse Rifle.\n - Inventory Slot Stack Size: 100<==>Munición para el rifle de impulsos.\n- Tamaño del bloque de ranuras de inventario: 100\n-->Munição para o Rifle de Impulsos.\n - Quantidade máxima armazenada em um espaço do inventário: 100
 (1378)match bonus<==>Bonificación de la partida-->Bônus da partida
 (1379)Technical Artists<==>Diseñadores técnicos-->Artistas Técnicos
 (1380)Solid Army Green<==>Verde militar liso-->Verde Militar Liso
@@ -1542,8 +1542,8 @@
 (1542-IGUAIS)0
 (1543)PLEASE RESPECT THE SANCTITY AND QUIET THIS ROOM PROVIDES<==>RESPETE LA SANTIDAD Y TRANQUILIDAD DE ESTA SALA-->RESPEITE A SANTIDADE E TRANQUILIDADE DESSA SALA 
 (1544)Points<==>Puntos-->Pontos
-(1545)Rack of Charged Ion Gas for the Line Gun.\n - Inventory Slot Stack Size: 6<==>Munición para el cañón lineal.\n- Tamaño del bloque de ranuras de inventario: 6-->Munição para o Canhão Linear \n - Tamanho do bloco de espaços de inventário: 6
-(1546)Compressed Energy Charge for the Handheld Graviton Accelerator.\n - Inventory Slot Stack Size: 15<==>Carga de energía comprimida para el acelerador de gravitones portátil.\n - Tamaño del bloque de ranuras de inventario: 15-->Carga de energia comprimida para o acelerador gravitacional portátil.\n - Tamanho do bloco de espaços de inventário: 15
+(1545)Rack of Charged Ion Gas for the Line Gun.\n - Inventory Slot Stack Size: 6<==>Munición para el cañón lineal.\n- Tamaño del bloque de ranuras de inventario: 6-->Munição para o Canhão Linear \n - Quantidade máxima armazenada em um espaço do inventário: 6
+(1546)Compressed Energy Charge for the Handheld Graviton Accelerator.\n - Inventory Slot Stack Size: 15<==>Carga de energía comprimida para el acelerador de gravitones portátil.\n - Tamaño del bloque de ranuras de inventario: 15-->Carga de energia comprimida para o acelerador gravitacional portátil.\n - Quantidade máxima armazenada em um espaço do inventário: 15
 (1547)Are you sure you want to leave the game lobby?<==>¿Seguro que quieres salir del punto del encuentro?-->Tem certeza que deseja sair do ponto de encontro?
 (1548)+{n}\nHEAL<==>+{n}\nCURACIÓN-->+{n}\nCURA
 (1549)PARTY CRASHER<==>PARTY CRASHER3Åàe-->GRUPO DE COLISÃO
@@ -1679,7 +1679,7 @@
 (1679)Starting Stasis energy<==>Iniciando energía de estabilización-->Iniciando energia de estabilização
 (1680)You unlocked increased health for the Puker<==>Has desbloqueado más salud para el vomitador.-->Você desbloqueou mais saúde para o vomitador
 (1681-IGUAIS)2
-(1682)reload<==>recargar-->Recarregar
+(1682)reload<==>recargar-->recarregar
 (1683)Audio Engineering<==>Ingeniería de sonido-->Engenharia de Áudio
 (1684-IGUAIS)Susan Santos
 (1685)KEY ITEMS<==>OBJ. CLAVE-->ITENS CHAVE
@@ -1843,7 +1843,7 @@
 (1843)Watch this space for upcoming announcements<==>Consulta próximos anuncios en este espacio.-->Veja nesse espaço os próximos anúncios 
 (1844)activate<==>Activar-->Ativar
 (1845)Real space.  Real terror.  Real foam.\n• [c=CUSTOM2] Primary Fire [c=RESET]: press [rsbottom] to take down the bad guys.<==>Espacio real. Terror real. Espuma real.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para acabar con los malos.-->Espaço Real. Terror Real. Espuma Real.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para acabar com os inimigos.
-(1846)quit<==>Salir-->sair
+(1846)quit<==>Salir-->Sair
 (1847-IGUAIS)5
 (1848)Free Trial Expired<==>Versión de prueba gratuita caducada-->Versão de Avaliação Expirada
 (1849)EMERGENCY SHUTTLE RECALL<==>ANULACIÓN DEL TRANSBORDADOR DE EMERGENCIA-->ANULAÇÃO DO TRANSPOTADOR DE EMERGÊNCIA
@@ -1985,7 +1985,7 @@
 (1985)[Seems like everyone was trying to pack in a hurry.]<==>[Parece que tenían prisa por hacer las maletas.]-->[Parece que estavam com pressa em fazer as malas.]
 (1986)Click [LStick]<==>Haz clic en [LStick]-->Pressione [LStick]
 (1987)Translator<==>Traductor-->Tradutor
-(1988)Projectile Ammunition for the Seeker Rifle.\n - Inventory Slot Stack Size: 15<==>Munición para el rifle buscador.\n - Tamaño del bloque de ranuras de inventario: 15-->Munição para o Rifle Buscador.\n - Tamanho do bloco de espaços de inventário: 15
+(1988)Projectile Ammunition for the Seeker Rifle.\n - Inventory Slot Stack Size: 15<==>Munición para el rifle buscador.\n - Tamaño del bloque de ranuras de inventario: 15-->Munição para o Rifle Buscador.\n - Quantidade máxima armazenada em um espaço do inventário: 15
 (1989)Government Sector - we've finally made it. I'm heading to Ellie's location now.\n\nBut how far is this going to go? Ellie helped me get here, but she can't help me destroy the Marker. Even I'M not sure how to do that. She could become just another casualty, the longer we stick together...<==>Sector gubernamental, lo hemos logrado. Ahora me dirijo a la posición de Ellie.\n\n¿Pero hasta dónde va a llegar esto? Ellie me ha ayudado a llegar hasta aquí, pero no puede ayudarme a destruir la Efigie. Ni siquiera YO estoy seguro de cómo hacerlo. Cuanto más tiempo permanezcamos juntos, más posibilidades hay de que acabe siendo otra víctima...-->Setor Governamental - finalmente chegamos. Agora estou indo até a posição da Ellie.\n\Mas até onde isso vai chegar? Ellie me ajudou a chegar aqui, mas não pode me ajudar a destruir o Marker. Nem mesmo eu sei como fazer isso. Quanto mais tempos permanecemos juntos, mais chances existem de que ela acabe se tornando outra vítima...
 (1990-IGUAIS)[RDUp]
 (1991-IGUAIS)[LSTop]
@@ -2447,10 +2447,10 @@
 (2447-IGUAIS){p} ¤
 (2448)Purchase new items here.  They will be added to your Inventory.<==>Aquí puedes comprar objetos nuevos. Se añadirán a tu inventario.-->Aqui você pode comprar novos itens. Eles serão adicionados ao seu inventário.
 (2449)Please do not turn off your console when you see the auto save icon<==>No apagues la consola cuando veas el icono de guardado automático.-->Por favor não desligue o console enquanto estiver vendo o ícone de salvamento automático.
-(2450-IGUAIS)Tribo Gamer
-(2451-IGUAIS)Brazilian Warriors
-(2452-IGUAIS)Ushinin DS, cfarl, Dark Lord
-(2453-IGUAIS)cfarl
+(2450)Steve Papoutsis<==>Steve Papoutsis-->Tribo Gamer
+(2451)Dom Regan<==>Dom Regan-->Brazilian Warriors
+(2452)Wright Bagwell<==>Wright Bagwell-->Ushinin DS, cfarl, Dark Lord
+(2453)Ian Milham<==>Ian Milham-->cfarl
 (2454-IGUAIS)Ben Wanat
 (2455-IGUAIS)Paul Mathus
 (2456-IGUAIS)Steve Timson
@@ -3618,7 +3618,7 @@
 (3618)Visceral Quality Assurance<==>Control de calidad de Visceral-->Controle de Qualidade da Visceral
 (3619)User Interface<==>Interfaz de usuario-->Interface de Usuário
 (3620)Visceral Games Studio Management<==>Gestión de estudio de Visceral Games-->Gestão de Estúdio da Visceral Games
-(3621)Cartridge of Mines for the Detonator Tool.\n - Inventory Slot Stack Size: 10<==>Cartucho de minas para el detonador.\n - Tamaño del bloque de ranuras de inventario: 10-->Cartucho de minas para o detonador.\n - Tamanho do bloco de espaços do inventário: 10
+(3621)Cartridge of Mines for the Detonator Tool.\n - Inventory Slot Stack Size: 10<==>Cartucho de minas para el detonador.\n - Tamaño del bloque de ranuras de inventario: 10-->Cartucho de minas para o detonador.\n - Quantidade máxima armazenada em um espaço do inventário: 10
 (3622)increased melee damage<==>mayor daño cuerpo a cuerpo-->maior dano corpo a corpo
 (3623)prevent the delivery of the security codes<==>Evita que los códigos de seguridad lleguen al taller.-->Impeça a entrega dos códigos de segurança
 (3624)fire<==>disparar-->disparar
@@ -3895,7 +3895,7 @@
 (3895)Isaac, okay I can see the Array from here.   It looks like you need to go to the outer dishes and find a way to drag their beams onto the center column.<==>Isaac, desde aquí veo el panel. Tendrás que aproximarte a las parabólicas exteriores y conseguir desplazar los haces hacia la columna central.-->Isaac, estou vendo o painel daqui.   Você terá de se aproximar das parabólicas exteriores e conseguir um jeito de direcionar os raios para a coluna central.
 (3896)A big tank?  Nitrogen Trichloride.  Those explode if they overheat!<==>¿Un gran depósito? Tricloruro de nitrógeno. ¡Eso explotará si se sobrecalienta!-->Um grande depósito?  Tricloreto de nitrogênio.  Isso vai explodir se sobreaquecer!
 (3897)How's the big tank explosion going?<==>¿Cómo vas con la explosión del depósito?-->Como está indo com a explosão do depósito?
-(3898)There should be explosive canisters near you?  Launch a few at the tank, that should do it.<==>Deberías tener botes explosivos cerca. Lanza algunos al depósito, eso funcionará.-->Deve ter tubos explosivos aí perto.  Lance alguns no tanque, isso vai funcionar.
+(3898)There should be explosive canisters near you?  Launch a few at the tank, that should do it.<==>Deberías tener botes explosivos cerca. Lanza algunos al depósito, eso funcionará.-->Deve ter tubos explosivos aí perto.  Lance alguns no depósito, isso vai funcionar.
 (3899)What?! Are you crazy? That one in the middle? If you set that off it will incinerate everything in here!<==>¡¿Qué?! ¿Estás loco? ¿Ese del medio? ¡Si lo activas carbonizará todo lo que hay aquí!-->O quê?! Você está louco? Aquele no meio? Se você ativá-lo vai incinerar tudo que há aqui!
 (3900)Look out, there's more coming from holes in the walls.<==>Cuidado, de los agujeros de las paredes salen más.-->Cuidado, há mais vindo dos buracos nas paredes.
 (3901)I know, you'll have to stasis the machines to create an opening to fly through.<==>Lo sé. Usa la estabilización con las máquinas para crear una abertura para pasar.-->Eu sei, você vai ter de usar a estabilização nas máquinas para criar uma abertura para passar.
@@ -4168,7 +4168,7 @@
 (4168)You unlocked increased magazine size for the Force Gun<==>Has desbloqueado un mayor tamaño del cargador para el cañón de energía.-->Você desbloqueou um maior tamanho do carregador para o canhão de energia
 (4169)Confirm<==>Confirmar-->Confirmar
 (4170)CALL TRAM?<==>¿LLAMAR?-->CHAMAR?
-(4171)Ionized Gas Cartridge for the Plasma Cutter.\n - Inventory Slot Stack Size: 25<==>Munición para la cortadora de plasma.\n- Tamaño del bloque de ranuras de inventario: 25\n-->Munição para a Cortadora de Plasma.\n - Tamanho do bloco de espaços de inventário: 25
+(4171)Ionized Gas Cartridge for the Plasma Cutter.\n - Inventory Slot Stack Size: 25<==>Munición para la cortadora de plasma.\n- Tamaño del bloque de ranuras de inventario: 25\n-->Munição para a Cortadora de Plasma.\n - Quantidade máxima armazenada em um espaço do inventário: 25
 (4172)That's where all this started, Ellie.  Everything that's happening here happened on that ship. I saw it, I was...onboard when it happ... happened.<==>Ahí empezó todo, Ellie. Lo que está pasando aquí pasó antes en esa nave. Yo lo vi, yo estaba... a bordo cuando suced...-->Foi aí que tudo começou, Ellie.  O que está acontecendo aqui também aconteceu nessa nave. Eu vi isso, eu estava...à bordo quando acon... aconteceu.
 (4173)Hey, what's happening?<==>Eh, ¿qué ocurre?-->Ei, o que está acontecendo?
 (4174)Stay here.  I'll take a look.<==>Quédate aquí. Iré a echar un vistazo.-->Fique aqui.  Vou dar uma olhada.
@@ -5388,7 +5388,7 @@
 (5388)puker<==>vomitador-->vomitador
 (5389-IGUAIS)1
 (5390)lobby<==>Punto de encuentro-->Ponto de encontro
-(5391)Blade Cartridge for the Ripper Tool.\n - Inventory Slot Stack Size: 15<==>Cartucho de cuchillas para la sierra trituradora.\n - Tamaño del bloque de ranuras de inventario: 15-->cartucho de lâminas para a serra trituradora.\n - espaços utilizados no inventário: 15
+(5391)Blade Cartridge for the Ripper Tool.\n - Inventory Slot Stack Size: 15<==>Cartucho de cuchillas para la sierra trituradora.\n - Tamaño del bloque de ranuras de inventario: 15-->cartucho de lâminas para a serra trituradora.\n - Quantidade máxima armazenada em um espaço do inventário: 15
 (5392)EMERGENCY OVERRIDE SYSTEM<==>SISTEMA DE CONTROL DE EMERGENCIA-->SISTEMAS DE CONTROLE DE EMERGÊNCIA
 (5393)For Clearance Alpha Only<==>Solo para autorización alfa-->Somente para autorização alfa
 (5394)Ammo Pack<==>MUNICIÓN-->Munição
@@ -5590,7 +5590,7 @@
 (5590-IGUAIS)Cao Ran
 (5591-IGUAIS)Zhang Yao
 (5592)Please read and accept both documents<==>Lee y acepta ambos documentos.-->Por favor leia e aceite os dois documentos
-(5593)controls<==>Controles-->Controles
+(5593)controls<==>Controles-->Configurações
 (5594)Semi-conductors are valuables scattered about the Sprawl.  Find and sell them for money.<==>Los semiconductores son objetos valiosos repartidos por El Eje. Búscalos y véndelos a cambio de dinero.-->Semicondutores são objetos valiosos espalhados pelo Eixo. Procure por eles e os venda para obter dinheiro.
 (5595)     ISHIMURA TRAM SYSTEM     ISHIMURA TRAM SYSTEM<==>     SISTEMA DE MONORRAÍL DEL ISHIMURA     SISTEMA DE MONORRAÍL DEL ISHIMURA-->     SISTEMA DE TREM DA ISHIMURA     SISTEMA DE TREM DA ISHIMURA
 (5596)Welcome to Solar Array Sigma-Zero-Five. Proper identification is required. Please wait here. Watchman... Howard Phillips will be with you shortly.<==>Bienvenido al panel solar sigma-cero-cinco. Identificación obligatoria. Por favor, espere aquí. El vigilante... Howard Phillips estará en breve con usted.-->Bem-vindo ao painel solar sigma-zero-cinco. Identificação obrigatória. Por favor, espere aqui. O Vigilante... Howard Phillips estará em breve com você.
@@ -6182,7 +6182,7 @@
 (6182)CALL ATTENDANT<==>LLAMAR A AYUDANTE-->CHAMAR AJUDANTE
 (6183)CEC Employees Only<==>Solo empleados de CEC-->Somente empregados da CEC
 (6184)WARNING: SOLAR ARRAY IS OFFLINE<==>ATENCIÓN: EL PANEL SOLAR ESTÁ DESACTIVADO-->ATENÇÃO: O PAINEL SOLAR ESTÁ DESATIVADO
-(6185)Cartridge of Rapid-ejection Bolts for the Rivet Gun.\n - Inventory Slot Stack Size: 30<==>Cartucho de roblones de eyección rápida para la remachadora.\n - Tamaño del bloque de ranuras de inventario: 30.-->Cartucho de rebites de ejeção rápida para a rebitadeira\n - Tamanho do bloco de  espaço de inventário: 30
+(6185)Cartridge of Rapid-ejection Bolts for the Rivet Gun.\n - Inventory Slot Stack Size: 30<==>Cartucho de roblones de eyección rápida para la remachadora.\n - Tamaño del bloque de ranuras de inventario: 30.-->Cartucho de rebites de ejeção rápida para a rebitadeira\n - Quantidade máxima armazenada em um espaço do inventário: 30
 (6186)Shoot red tip to move objects.<==>Dispara a la espita roja para mover objetos.-->Atire na ponta vermelha para mover objetos.
 (6187-IGUAIS)1,000 Credits
 (6188)   Get to to the Tram Station.<==>Ve a la estación de monorraíl.-->Vá para a estação de trem.
@@ -6217,7 +6217,7 @@
 (6217-IGUAIS)1
 (6218)//alignment \ncompromised\n \n//please call \nengineer<==>//alineación \ncomprometida\n \n//llame a un \ningeniero-->//alinhamento \ncomprometido\n \n//por favor chame um \nengenheiro
 (6219)insert disc<==>Insertar disco-->insira o disco
-(6220)Energy Cartridge for the C99 Supercollider Contact Beam.\n - Inventory Slot Stack Size: 6<==>Cartucho de energía para el rayo de contacto C99 Supercollider.\n - Tamaño del bloque de ranuras de inventario: 6-->Cartucho de energia para o raio de contato C99 Supercollider.\n - Tamanho do bloco de espaços do inventário: 6
+(6220)Energy Cartridge for the C99 Supercollider Contact Beam.\n - Inventory Slot Stack Size: 6<==>Cartucho de energía para el rayo de contacto C99 Supercollider.\n - Tamaño del bloque de ranuras de inventario: 6-->Cartucho de energia para o raio de contato C99 Supercollider.\n - Quantidade máxima armazenada em um espaço do inventário: 6
 (6221-IGUAIS)[RDDown]
 (6222)you now have the ability to equip the pulse rifle\nprimary fire: high rate of fire assault rifle\nalternate fire: explosive projectile<==>Ahora ya puedes equipar el rifle de impulsos\ndisparo principal: rifle de asalto con elevado índice de disparo\ndisparo secundario: proyectil explosivo-->Você agora pode equipar o rifle de impulsos\ndisparo primário: rifle de assalto com elevado índice de disparo\ndisparo secundário: projétil explosivo
 (6223)Detailed instructions for setting a new password have been sent to the following email address: {e}<==>Se han enviado instrucciones detalladas para establecer una nueva contraseña a la siguiente dirección de correo electrónico: {e}-->Foram enviadas instruções detalhadas de como definir uma nova senha para o seguinte endereço de correio eletrônico: {e}
@@ -6547,7 +6547,7 @@
 (6547)force gun<==>Cañón de energía-->canhão de energia
 (6548)This combination is not a valid code.<==>Esa combinación no constituye un código válido.-->Essa combinação não é um código válido.
 (6549)ALERT ALERT ALERT<==>ALERTA ALERTA ALERTA-->ALERTA ALERTA ALERTA
-(6550)quit<==>Salir-->sair
+(6550)quit<==>Salir-->Sair
 (6551)You unlocked increased damage for the Plasma Cutter<==>Has desbloqueado más daño para la cortadora de plasma.-->Você desbloqueou mais danos para a cortadora de plasma
 (6552)There is no Dead Space¬ 2 Saved Game file on the selected storage device.\n\nYou will need to select a storage device with a valid Dead Space Dead Space¬ 2 file to proceed.<==>No hay ningún archivo de partida guardada de Dead Space¬ 2 en el dispositivo de almacenamiento seleccionado.\n\nDebes seleccionar un dispositivo de almacenamiento con un archivo válido de Dead Space¬ 2 para continuar.-->Não há nenhum arquivo salvo de Dead Space¬ 2 no dispositivo de armazenamento selecionado.\n\nVocê precisa selecionar um dispositivo de armazenamento com um arquivo válido de Dead Space¬ 2 para continuar.
 (6553)%1 appears to be damaged and cannot be used.<==>Parece que el archivo %1 está dañado y no puede utilizarse.-->Parece que o arquivo %1 está danificado e não pode ser usado.
@@ -6561,7 +6561,7 @@
 (6561-IGUAIS)1
 (6562)Parish Hall<==>Pabellón parroquial-->Pavilhão Paroquial
 (6563-IGUAIS)Jenn Harper
-(6564)OUTPUT CIRCUIT (DMG)<==>CIRCUITO DE SALIDA (DAÑ)-->CIRCUITO DE SAÍDA (DAN)
+(6564)OUTPUT CIRCUIT (DMG)<==>CIRCUITO DE SALIDA (DAÑ)-->CIRCUITO DE SAÍDA (DANO)
 (6565)Increase the DAMAGE for this item by %g pts.<==>Se aumentará el DAÑO de este objeto en %g pts.-->Aumenta o DANO desse item em %g pts.
 (6566)Director, Media Strategy & Development<==>Director de estrategia de medios y desarrollo-->Diretor de Estratégia de Mídia & Desenvolvimento
 (6567-IGUAIS)2
@@ -6653,7 +6653,7 @@
 (6653)Equip?<==>¿Equipar?-->Equipar?
 (6654)Loading...<==>Cargando...-->Carregando...
 (6655-IGUAIS)1
-(6656)The kids are playing way too rough on the playground! Yesterday, I literally had a line of students with scrapes and bruises going out my office door. A few kids sustained injuries bad enough to need to go to the infirmary. Call me old fashioned, but I think this is the problem with kids growing up on a space station. Kids need a planet with fresh air and open ground to play on. Otherwise, they go stir crazy and start picking on each other. Space is no place to raise a family, if you ask me.<==>¡Los niños están siendo muy agresivos en el patio! Ayer había una manada de estudiantes con arañazos y golpes en la puerta de mi despacho. Incluso tuvimos que llevar a algunos a la enfermería. Llámame anticuada, pero creo que es el problema de crecer en una estación espacial. Los niños necesitan un planeta en el que poder jugar al aire libre. De lo contrario, se vuelven locos y empiezan a pelearse entre ellos. El espacio no es lugar para formar una familia, creo yo.\n-->As crianças estão sendo muito agressivas no pátio! Ontem havia um grupo de estudantes com arranhões e contusões saindo do meu escritório. Inclusive tivemos de levar alguns até a enfermaria. Podem me chame de antiquado, mas acho que esse é o problema de crianças crescerem em uma estação espacial. Os meninos precisam de um planeta onde possam brincar ao ar livre. Senão, acabam ficando loucos e começam a brigar entre si. Acho que o espaço não é lugar para se ter uma família.
+(6656)The kids are playing way too rough on the playground! Yesterday, I literally had a line of students with scrapes and bruises going out my office door. A few kids sustained injuries bad enough to need to go to the infirmary. Call me old fashioned, but I think this is the problem with kids growing up on a space station. Kids need a planet with fresh air and open ground to play on. Otherwise, they go stir crazy and start picking on each other. Space is no place to raise a family, if you ask me.<==>¡Los niños están siendo muy agresivos en el patio! Ayer había una manada de estudiantes con arañazos y golpes en la puerta de mi despacho. Incluso tuvimos que llevar a algunos a la enfermería. Llámame anticuada, pero creo que es el problema de crecer en una estación espacial. Los niños necesitan un planeta en el que poder jugar al aire libre. De lo contrario, se vuelven locos y empiezan a pelearse entre ellos. El espacio no es lugar para formar una familia, creo yo.\n-->As crianças estão sendo muito agressivas no pátio! Ontem havia um grupo de estudantes com arranhões e contusões saindo do meu escritório. Inclusive tivemos de levar alguns até a enfermaria. Podem me chamar de antiquado, mas acho que esse é o problema de crianças crescerem em uma estação espacial. Os meninos precisam de um planeta onde possam brincar ao ar livre. Senão, acabam ficando loucos e começam a brigar entre si. Acho que o espaço não é lugar para se ter uma família.
 (6657)continue without saving<==>Continuar sin guardar-->continuar sem gravar
 (6658)Click and hold\n [RStick]<==>Haz clic y mantén\n [RStick].-->Pressione e segure [RStick3]
 (6659)Contact Beam<==>Rayo de contacto-->Raio de Contato
@@ -6673,7 +6673,7 @@
 (6673)SOLDIER SUIT SCHEMATIC<==>Diagrama de traje de soldado-->DIAGRAMA DE TRAJE DE SOLDADO
 (6674)The downloadable content '%1' cannot be used because it is not authorized for use on this Xbox 360.<==>La descarga de contenido "%1" no se puede utilizar porque su uso en esta consola no está autorizado.-->O conteúdo baixado '%1' não pode ser usado porque não está autorizado para uso nesse console.
 (6675-IGUAIS)1
-(6676)a Visceral Games production<==>una producción de Visceral Games-->Brazilian-Warriors © 2018\nUshinin DS, cfarl, Dark Lord
+(6676)a Visceral Games production<==>una producción de Visceral Games-->Brazilian-Warriors © 2019\nUshinin DS, cfarl, Dark Lord
 (6677)WARNING: SECURITY BREACH<==>ALERTA: INFRACCIÓN DE SEGURIDAD-->ALERTA: INFRAÇÃO DE SEGURANÇA 
 (6678)WARNING:  SECURITY BREACH<==>ALERTA: INFRACCIÓN DE SEGURIDAD-->ALERTA: INFRAÇÃO DE SEGURANÇA 
 (6679)WARNING:  SECURITY BREACH<==>ALERTA: INFRACCIÓN DE SEGURIDAD-->ALERTA: INFRAÇÃO DE SEGURANÇA 
