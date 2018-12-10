@@ -821,7 +821,7 @@
 (0821)Warning. Decompressed area beyond this point. Vacuum suits are required for entry.<==>Alerta. Área descomprimida a partir de este punto. Para entrar son obligatorios trajes de vacío.-->Alerta. Área de descompressão a partir desse ponto. Para entrar são obrigatórios trajes de vácuo.
 (0822)Attention:  Crypt systems set to diagnostic mode.  Gimble capture arms released. Authorized technicians only. <==>Atención: sistemas de la cripta en modo de diagnóstico. Brazos de captura del rodamiento sueltos. Solo técnicos autorizados.-->Alerta: os sistemas da cripta foram definidos para modo de diagnóstico. Braços de captura liberados. Somente técnicos autorizados. 
 (0823)Disengaging bridge bulkheads, stage 1, please stand by.<==>Desconectando contenciones del puente, fase 1, manténgase a la espera.-->Desconectando as contenções da ponte, etapa 1, por favor aguarde.
-(0824)The Docking Pod is off the mag-rail. An Engineering work order has been issued. <==>El cabezal de ensamblaje está fuera del raíl magnético. Hay una orden de trabajo de ingeniería.-->A cápsula de atracagem está fora do trilho magnético. Foi emitida uma ordem de trabalho de engenharia. 
+(0824)The Docking Pod is off the mag-rail. An Engineering work order has been issued. <==>El cabezal de ensamblaje está fuera del raíl magnético. Hay una orden de trabajo de ingeniería.-->A cabine de acesso está fora do trilho magnético. Foi emitida uma ordem de trabalho de engenharia. 
 (0825)Warning! Decompression in three... two... one<==>¡Alerta! Descompresión en tres... dos... un..[o].-->Alerta! Descompressão em três... dois... um
 (0826)Bulkheads disengaged.   Warning:  The escape pod system is offline.<==>Contenciones desactivadas. Alerta: el sistema de cápsula de escape está desconectado.-->Contenções desativadas. Alerta: o sistema da cápsula de fuga está desligado.
 (0827)Gravity in the shunt is now offline.<==>La gravedad de la derivación está desconectada.-->A gravidade da derivação está desligada.
@@ -2352,8 +2352,8 @@
 (2352)Main Array Access<==>Acceso al panel principal-->Acesso ao Painel Principal
 (2353)Power Grid Room<==>Sala de la red eléctrica-->Sala da Rede Elétrica
 (2354)Computer Mainframe Access<==>Acceso al ordenador central-->Acesso ao computador central
-(2355)To Solar Array Control Pod<==>A cápsula de control del panel solar-->Para Cápsula de Controle do Painel Solar
-(2356)Solar Array Control Pod<==>Cápsula de control del panel solar-->Cápsula de Controle do Painel Solar
+(2355)To Solar Array Control Pod<==>A cápsula de control del panel solar-->Para Módulo de Controle do Painel Solar
+(2356)Solar Array Control Pod<==>Cápsula de control del panel solar-->Módulo de Controle do Painel Solar
 (2357)Transport Hub<==>Nodo de transporte-->Centro de Transporte
 (2358)Solar Array Elevator<==>Ascensor del panel solar-->Elevador do Painel Solar
 (2359)Solar Array Elevator<==>Ascensor del panel solar-->Elevador do Painel Solar
@@ -3142,7 +3142,7 @@
 (3142-IGUAIS)Ã
 (3143-IGUAIS)T
 (3144-IGUAIS)Ben Walker
-(3145)///controls<==>///Controles-->///Controles
+(3145)///controls<==>///Controles-->///Configuração do Controle
 (3146-IGUAIS)Scott Ferguson
 (3147)Escape to Ellie's ship.<==>Huye a la nave de Ellie.-->Escape para a nave da Ellie.
 (3148)guard<==>Custodiar-->guardar
@@ -3679,7 +3679,7 @@
 (3679)We're on our way. I'll contact you soon.\nHey, Twitchy, this way. No, this way! Come on.<==>Vamos de camino. Te llamaré pronto. Eh, Tembleque, por aquí. ¡No, por aquí! Vamos.-->Estamos a caminho. Entrarei em contato em breve.\nEi, Twitchy, por aqui. Não, por aqui! Vamos.
 (3680)Yes we are.<==>Sí lo haremos.-->Sim, nós faremos.
 (3681)See for yourself...<==>Compruébalo por ti mismo...-->Veja si mesmo...
-(3682)He stopped hyperventilating but I don't know how much longer he's going to last. I knew he would just slow me down.<==>Ha dejado de hiperventilar, pero no sé cuánto tiempo aguantará. Sabía que me iba a hacer perder tiempo.-->Ele parou de hiperventilar, mas não sei quanto tempo mais ele vai aguentar. Eu sabia que ele só ia me atrasar.
+(3682)He stopped hyperventilating but I don't know how much longer he's going to last. I knew he would just slow me down.<==>Ha dejado de hiperventilar, pero no sé cuánto tiempo aguantará. Sabía que me iba a hacer perder tiempo.-->Ele parou de falar sozinho, mas não sei quanto tempo mais ele vai aguentar. Eu sabia que ele só ia me atrasar.
 (3683)Isaac! I can't find him! Stross ran off into the dark!<==>¡Isaac! ¡No lo encuentro! ¡Stross se ha adentrado en la oscuridad!-->Isaac! Não consigo encontrá-lo! Stross entrou no escuro!
 (3684)I know! I know! I'll get it done. The collector's just ahead. You get that beam working! Stross?! Stross! Oh God, that guy needs serious help.<==>¡Lo sé! ¡Lo sé! Lo conseguiré. El acumulador está ahí delante. ¡Tú consigue hacer funcionar ese haz! ¡¿Stross?! ¡Stross! Oh, Dios, ese tipo necesita ayuda urgente.-->Eu sei! Eu sei! Vou conseguir. O coletador está logo à frente. Você consegue fazer essa coisa funcionar! Stross?! Stross! Oh Deus, esse cara precisa de ajuda urgente.
 (3685-IGUAIS)`
@@ -3761,7 +3761,7 @@
 (3761)Isaac, over here!! The door is jammed. This must have been the last stand for whoever was left down here.<==>¡¡Isaac, por aquí!! La puerta está obstruida. Los que se quedaron aquí abajo no pasarían de este sitio.-->Isaac, por aqui!! A porta está bloqueada. Esse deve ter sido o último lugar de quem passou por aqui.
 (3762)No the circuits are fried. They must have fused the panel trying to keep those things out.<==>No, los circuitos están fritos. Habrán derretido el panel para mantener alejadas a esas cosas.-->Não, os circuitos estão fritos. Eles devem ter derretido o painel para tentar manter essas coisas afastadas.
 (3763)The only way around is through the processing plant, but it's not meant for human traffic. I think I can stop it from here though. <==>El único camino es a través de la planta de procesamiento, pero por ahí no pueden pasar personas. Aunque creo que puedo detenerla desde aquí.-->O único caminho é através da planta de processamento, mas por ali não podem passar pessoas. Acho que posso detê-la daqui. 
-(3764)Isaac! We have to cross to the Government Sector before they cut us off!  You'll never make it down here in time!<==>¡Isaac! ¡Tenemos que llegar al sector gubernamental antes de que nos incomuniquen! ¡No lo conseguirás a tiempo!-->Isaac! Temos que chegar ao Setor Governamental antes de nos separarmos!  Você não conseguirá a tempo!
+(3764)Isaac! We have to cross to the Government Sector before they cut us off!  You'll never make it down here in time!<==>¡Isaac! ¡Tenemos que llegar al sector gubernamental antes de que nos incomuniquen! ¡No lo conseguirás a tiempo!-->Isaac! Temos que chegar ao setor governamental antes que cortem nossa comunicação!  Você não vai conseguir a tempo!
 (3765)Isaac!  What are you doing? Open the door right now!  No. No! No, don't you dare, don't you dare launch this ship!<==>¡Isaac! ¿Qué haces? ¡Abre la puerta ahora mismo! ¡No, no! ¡No te atrevas, no te atrevas a hacer despegar esta nave!-->Isaac!  O que você está fazendo? Abra a porta agora mesmo!  Não. Não! Não, não se atreva, não se atreva a lançar essa nave!
 (3766)Isaac...<==>Isaac...-->Isaac...
 (3767)...you bastard...<==>... Cabrón...-->...seu desgraçado...
@@ -4135,7 +4135,7 @@
 (4135)Ellie<==>Ellie.-->Ellie
 (4136)How's Stross doing?<==>¿Qué tal está Stross?-->Como está o Stross?
 (4137)Ellie, try to keep him focused. I need to know what he's trying to tell me.<==>Ellie, intenta concentrarte. Tengo que averiguar lo que intenta decirme.-->Ellie, tente mantê-lo concentrado. Eu preciso saber o que ele está tentando me dizer.
-(4138)Ellie, I ran into a snag. It looks like the Docking Pod that runs to the Solar Array is floating at the bottom of the shaft.<==>Ellie, he dado con un obstáculo. Parece que el cabezal de ensamblaje que conduce al panel solar está flotando en el fondo del tunel.-->Ellie, me deparei com um obstáculo. Parece que a cápsula de acoplagem que conduz ao painel solar está flutuando no fundo do túnel.
+(4138)Ellie, I ran into a snag. It looks like the Docking Pod that runs to the Solar Array is floating at the bottom of the shaft.<==>Ellie, he dado con un obstáculo. Parece que el cabezal de ensamblaje que conduce al panel solar está flotando en el fondo del tunel.-->Ellie, me deparei com um obstáculo. Parece que a cabine de acesso que conduz ao painel solar está flutuando no fundo do túnel.
 (4139)Don't worry, I can fix this. I'm heading outside to have a look.<==>No te preocupes, puedo arreglarlo. Iré afuera a echar un vistazo.-->Não se preocupe, eu posso concertar isso. Estou indo lá fora para dar uma olhada.
 (4140)He's hallucinating, Ellie. It's part of the sickness.<==>Está alucinando, Ellie. Es parte de la enfermedad.-->Ele está tendo alucinações, Ellie. Isso faz parte da enfermidade.
 (4141)Stross, what's wrong? Ellie?<==>Stross, ¿qué ocurre? ¿Ellie?-->Stross, o que está acontecendo? Ellie?
@@ -4291,7 +4291,7 @@
 (4291)Ellie! Take it easy! His name is Stross. I know him.<==>¡Ellie! ¡Tranquila! Se llama Stross. Lo conozco.-->Ellie! Fique calma! Ele se chama Stross. Eu o conheço.
 (4292)Ellie! I need him to be - not dead. I need him.<==>¡Ellie! Necesito que siga... que no muera. Lo necesito.-->Ellie! Eu preciso que ele... que ele não morra. Preciso dele.
 (4293)Ellie, I've got the elevator repaired. I'm heading up to the array. How's Stross doing? <==>Ellie, he arreglado el ascensor. Me dirijo al panel. ¿Qué tal le va a Stross?-->Ellie, consegui consertar o elevador. Estou indo até o painel. Como está o Stross? 
-(4294)It already is.  Just keep moving.<==>Ya lo está haciendo. Seguid adelante.-->Ele já está fazendo.  Siga em frente.
+(4294)It already is.  Just keep moving.<==>Ya lo está haciendo. Seguid adelante.-->Ele já está causando.  Siga em frente.
 (4295)Ellie, I'm on my way to the mirrors now. I have to realign them manually. How's Stross?<==>Ellie, ahora voy de camino hacia los espejos. Tengo que realinearlos manualmente. ¿Cómo está Stross?-->Ellie, agora estou indo até os espelhos. Tenho que realinhá-los manualmente. Como está o Stross?
 (4296)Alright Ellie, one down.  How's it lookin on your end?<==>Bien, Ellie, uno menos. ¿Cómo te va por ahí?-->Tudo bem Ellie, um a menos.  Como está indo aí?
 (4297)Ellie...I know, I'm sorry.<==>Ellie... Lo sé, lo siento.-->Ellie...Eu sei, me desculpe.
@@ -5590,7 +5590,7 @@
 (5590-IGUAIS)Cao Ran
 (5591-IGUAIS)Zhang Yao
 (5592)Please read and accept both documents<==>Lee y acepta ambos documentos.-->Por favor leia e aceite os dois documentos
-(5593)controls<==>Controles-->Configurações
+(5593)controls<==>Controles-->Configuração do Controle
 (5594)Semi-conductors are valuables scattered about the Sprawl.  Find and sell them for money.<==>Los semiconductores son objetos valiosos repartidos por El Eje. Búscalos y véndelos a cambio de dinero.-->Semicondutores são objetos valiosos espalhados pelo Eixo. Procure por eles e os venda para obter dinheiro.
 (5595)     ISHIMURA TRAM SYSTEM     ISHIMURA TRAM SYSTEM<==>     SISTEMA DE MONORRAÍL DEL ISHIMURA     SISTEMA DE MONORRAÍL DEL ISHIMURA-->     SISTEMA DE TREM DA ISHIMURA     SISTEMA DE TREM DA ISHIMURA
 (5596)Welcome to Solar Array Sigma-Zero-Five. Proper identification is required. Please wait here. Watchman... Howard Phillips will be with you shortly.<==>Bienvenido al panel solar sigma-cero-cinco. Identificación obligatoria. Por favor, espere aquí. El vigilante... Howard Phillips estará en breve con usted.-->Bem-vindo ao painel solar sigma-zero-cinco. Identificação obrigatória. Por favor, espere aqui. O Vigilante... Howard Phillips estará em breve com você.
@@ -6562,7 +6562,7 @@
 (6562)Parish Hall<==>Pabellón parroquial-->Pavilhão Paroquial
 (6563-IGUAIS)Jenn Harper
 (6564)OUTPUT CIRCUIT (DMG)<==>CIRCUITO DE SALIDA (DAÑ)-->CIRCUITO DE SAÍDA (DANO)
-(6565)Increase the DAMAGE for this item by %g pts.<==>Se aumentará el DAÑO de este objeto en %g pts.-->Aumenta o DANO desse item em %g pts.
+(6565)Increase the DAMAGE for this item by %g pts.<==>Se aumentará el DAÑO de este objeto en %g pts.-->Aumenta o DANO em %g pts.
 (6566)Director, Media Strategy & Development<==>Director de estrategia de medios y desarrollo-->Diretor de Estratégia de Mídia & Desenvolvimento
 (6567-IGUAIS)2
 (6568)30 Credits<==>30 Credits-->30 Créditos
