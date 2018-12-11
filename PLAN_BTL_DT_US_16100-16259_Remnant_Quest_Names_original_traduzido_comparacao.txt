@@ -3,7 +3,7 @@
 (0003)Ark<==>Arca-->Arca
 (0004-IGUAIS)Gwayn
 (0005)Harmonium<==>Harmonio-->Harmonium
-(0006)Visistone<==>Visipiedra-->Visistone
+(0006)Visistone<==>Visipiedra-->Visipedra
 (0007-IGUAIS)Ala Melvilana
 (0008-IGUAIS)Umbermarici
 (0009)Sealing Remnant<==>Reliquia-barrera-->Remanescente Barreira
@@ -13,16 +13,16 @@
 (0013-IGUAIS)Kellendros
 (0014-IGUAIS)Gae Bolg
 (0015)Bilqis<==>Bilquis-->Bilqis
-(0016)Wonder Bangle<==>Esfera Portentosa-->Wonder Bangle
+(0016)Wonder Bangle<==>Esfera Portentosa-->Bracelete Maravilhoso
 (0017-IGUAIS)Schiavona
 (0018-IGUAIS)Namul Niram
 (0019-IGUAIS)Namul Sin
 (0020-IGUAIS)Niram Sin
-(0021-IGUAIS)Lob Omenl
+(0021)Lob Omenl<==>Lob Omenl-->Lob Omen
 (0022)Rubber Soul<==>Almalástica-->Almelástica
 (0023)Dead Heart<==>Corazón Difunto-->Coração Defunto
 (0024-IGUAIS)Liafort
-(0025)Cloning Remnant<==>Reliquia duplicadora-->Cloning Remnant
+(0025)Cloning Remnant<==>Reliquia duplicadora-->Remanescente Duplicador
 (0026)Valeria Heart<==>Corazón Valeroso-->Coração Valeriano
 (0027-IGUAIS)Tao Tie
 (0028-IGUAIS)Brimuslabus
@@ -61,7 +61,7 @@
 (0061)Grand Beetle<==>Mantis prócer-->Grande Besouro
 (0062)Wild Dragon<==>Dragón bravo-->Dragão Selvagem
 (0063)Ferocious Lion<==>León fiero-->Leão Feroz
-(0064)Hero Slayer<==>Degüellahéroes-->Matador de Heróis
+(0064)Hero Slayer<==>Degüellahéroes-->Assassino de Heróis
 (0065-IGUAIS)Vespália
 (0066-IGUAIS)Validus
 (0067)The Hero<==>Héroe-->O Herói
@@ -75,7 +75,7 @@
 (0075)Mantroskylo<==>Mandrógiro-->Mantroskylo
 (0076)The Third Committee<==>Tercer Comité-->O Terceiro Comitê
 (0077)The Conqueror's Army<==>Ejército del Invasor-->O Exército do Conquistador
-(0078)Eulam Island<==>Isla de Eulam-->Ilja de Eulam
+(0078)Eulam Island<==>Isla de Eulam-->Ilha de Eulam
 (0079-IGUAIS)Veyriel
 (0080)HP<==>PV-->HP
 (0081)AP<==>PA-->AP

@@ -1,60 +1,60 @@
 (0001)A frightened man is sharing his story of the ghosts\nhe saw when he spoke to the pillar in the Great\nSand Sea.<==>Un tipo muy asustado me contó que se paró a mirar\r\nuna columna que encontró en el Océano de Arena\r\ny de pronto se vio rodeado de fantasmas.-->Um homem assustado está a partilhar uma história dos fantasmas\nque ele viu quando falou com o pilar no Grande\nMar de Areia.
-(0002)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0002)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0003)What is a pillar doing in the desert?\n...I don't know why I keep asking when\nI have no interest in the desert.<==>¿Y qué hace una columna en el desierto?\r\nNo me explico por qué sigo haciendo preguntas\r\ncuando no tengo ningún interés...-->O que um pilar está a fazer no deserto?\n...eu não sei porque continuo perguntando quando\nnão tenho nenhum interesse no deserto.
 (0004)Indeed.<==>Pues sí.-->Realmente.
 (0005)There is a scientist in Melphina with a tainted\nreputation. People avoid him, saying he is\nnot quite all there.<==>En Melphina hay un tipo que afirma ser un científico,\r\npero la gente procura no acercarse a él.\r\nDicen que se le va un poco la chaveta.-->Há um cientista em Melphina com uma reputação\nmanchada. As pessoas evitam-no, dizendo\nque ele não está la todo.
-(0006)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0006)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0007)What could a person do for others\nto call them "looney"? I can't even\nbegin to fathom.<==>¿Y qué puede hacer alguien para que lo tachen\r\nde trastornado? No alcanzo a comprenderlo...-->O que poderia fazer uma pessoa a outros\npara lhe chamarem "chanfrado"? Eu nem posso\ncomeçar a pensar.
 (0008)Indeed.<==>Pues sí.-->Realmente.
 (0009)There is a pub in a city by the desert that is\ninfested with desert bugs. The owner, being quite\ndesperate, is asking for help from anyone who will listen.<==>Dicen que en no sé qué ciudad del desierto\r\nhay una taberna que está infestada de bichos.\r\nEl dueño no sabe qué hacer para librarse de ellos.-->Há um bar na cidade no deserto que está\ninfestado com insetos do deserto. O dono, estando algo\ndesesperado, está pedindo ajuda de qualquer pessoa que ouça.
-(0010)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0010)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0011)I had no idea there were bugs in the desert.\n...Oh, why do I bother feigning interest?\nThe desert really is boring and dreary.<==>¿Hay bichos en el desierto?\r\nBah, no sé ni para qué finjo que me interesa...\r\n¡No hay nada más aburrido que un desierto!-->Eu não fazia ideia que haviam insetos no deserto.\n...Oh, para que é que eu fingo que me importo sequer?\nO deserto é realmente secante e triste.
 (0012)Indeed.<==>Claro, claro...-->Realmente.
 (0013)Ever since the incident, Nagapur has become quite a\ndangerous area. There has been a huge increase in\ncrime, especially the kidnapping of young children.<==>Desde aquel incidente, Nagapur se ha convertido\r\nen un lugar peligroso. Hay mucha delincuencia,\r\nsobre todo secuestros de niños.-->Desde o incidente, Nagapur tornou-se numa área\nalgo perigosa. Tem havido um grande aumento do\ncrime, especialmente o rapto de crianças pequenas.
-(0014)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0014)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0015)Which incident are you referring to?\nOh, perhaps you mean the flock of\nbirds migrating to Undelwalt!<==>¿A qué incidente te refieres?\r\n¡Ah, claro! Supongo que te refieres a la migración\r\nde aquella bandada de pájaros hacia Undelwalt...-->A que incidente te estás a referir?\nOh, secalhar queres dizer o bando de\npássaros a migrar para Undelwalt!
 (0016)Indeed.<==>Sí, claro...-->Realmente.
 (0017)A trend started in Royotia, where people would\nexchange treasures they found on their adventures.\nHowever, everyone soon bored of this game.<==>Antiguamente, la gente de Royotia se dedicaba\r\na recorrer las rutas comerciales e intercambiar\r\ncon otros viajeros los tesoros que encontraban.-->Uma tendência começou em Royotia, onde pessoas iriam\ntrocar tesouros que acharam nas suas aventuras.\nApesar disso, todo mundo já se fartou do jogo.
-(0018)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0018)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0019)Why would anyone wish to get rid\nof their own treasure?<==>¿Y para qué andaban buscando tesoros\r\nsi luego acababan deshaciéndose de ellos?-->Porque alguém quereria se livrar\ndo seu próprio tesouro?
 (0020)Indeed.<==>Eso digo yo.-->Realmente.
 (0021)Balterossa is the sole buyer of all of\nRoyotia's trade goods. There are countless\nmerchants who are unhappy with the situation.<==>Los mercaderes de Royotia se quejan\r\nde que el trazado de las rutas comerciales les impide\r\nvender sus mercancías más allá de Balterossa.-->Balterossa é o comprador único de todos\nos recursoso de troca de Royotia. Há inúmeros\nmercadores que estão infelizes com esta situação.
-(0022)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0022)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0023)They are not filled with gratitude?\nWhy is that?<==>Deberían alegrarse de tener rutas comerciales...\r\nNo entiendo de qué se quejan.-->Eles não estão cheios de gratitude?\nPorquê?
 (0024)Indeed.<==>Pues sí.-->Realmente.
 (0025)A yamaan mercenary is seeking help.\nHe must have found himself a job too big to\nhandle alone.<==>Dicen que un mercenario yama anda buscando ayuda\r\npara llevar a cabo un trabajillo que le viene grande...-->Um mercenário yamaan está pedindo ajuda.\nEle deve ter encontrado um trabalho demasiado grande\npara resolver sozinho.
-(0026)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0026)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0027)A job! How exciting for him!<==>¡Un trabajillo! ¿Verdad que es emocionante?-->Um trabalho! Quão excitante para ele!
 (0028)Indeed.<==>Pues sí.-->Realmente.
 (0029)A young lady was overheard talking quite fondly\nabout a young man in Celapaleis who is very kind\none minute but begins yelling the next.<==>Una chica me contaba que está muy enamorada\r\nde un tipo de Celapalais un poco raro. Tan pronto\r\nresulta encantador como se pone a chillar...-->Uma jovem mulher foi ouvida a falar carinhosamente\nsobre um jovem em Celapaleis que é muito querido\nnum minuto mas começa a gritar no a seguir.
-(0030)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0030)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0031)I suppose it is like being with two\nmen at the same time.\nI myself prefer the tall, silent type.<==>Supongo que será como estar con dos\r\nhombres a la vez...\r\nLa verdad, yo los prefiero monos pero calladitos.-->Eu suponho que seja como estar com dois\nhomens ao mesmo tempo.\nEu prefiro o tipo alto, e calado.
 (0032)Indeed.<==>Pues sí.-->Realmente.
 (0033)There is a qsiti who stands in the middle of\nbusy streets, glaring at anyone who bumps into him.<==>Hay un qsiti que se pone en medio de las calles\r\nmás transitadas y mira con odio a toda la gente\r\nque se choca con él...-->Há um qsiti que fica no meio das\nestradas ocupadas, reclamando com todo mundo que vá contra ele.
-(0034)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0034)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0035)He must be lonely and seeking friends.\nWe should all go and bump into him!<==>Debe de sentirse solo y busca amigos.\r\n¡Deberíamos ir todos a animarlo!-->Ele deve estar sozinho e procurando amigos.\nDeviamos ir todos ter com ele!
 (0036)Indeed.<==>Sí, claro...-->Realmente.
 (0037)A mysterious lady is about. She looks like\nshe has the weight of the world on her\nshoulders.<==>El otro día vi a una chica la mar de misteriosa.\r\nLa pobre va por la vida como si el mundo entero\r\nse le hubiese venido encima.-->Uma mulher misteriosa está triste. Parece que\ela tem o peso do mundo nos\nseus ombros.
-(0038)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0038)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0039)If you put your mind to it, you can do\nor get anything you want!<==>¡Si te lo propones, puedes conseguir cualquier cosa!-->Se te mentalizares de um coisa, tu podes fazer\nou conseguir o que quer que queiras!
 (0040)Indeed.<==>Pues sí.-->Realmente.
 (0041)Bloody Alice soldiers have gathered at the moor.\nPerhaps they are preparing for something.<==>Hay un grupo de Damas Sangrientas en las marismas.\r\nParece que se preparan para algo importante...-->Damas sangrentas se juntaram na chanerca.\nSe calhar eles estão se a preparar para alguma coisa.
-(0042)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0042)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0043)Bloody Alice...\nHmm, I think I shall have a steak\nfor dinner tonight\nrare.<==>Las Damas Sangrientas...\r\nUmm... Creo que esta noche tomaré un buen filete.\r\nPoco hecho...-->Damas sangrentas...\nHmm, eu acho que devia ter uma espetada\npara ao jantar hoje\nraro.
 (0044)Indeed.<==>Muy bien.-->Realmente.
 (0045)The Jhana are now causing a ruckus in\nthe Great Sand Sea. It seems they have already\nforgotten the wrath of Athlum's Gae Bolg.<==>Parece que los jhanas andan sembrando el caos\r\nen los alrededores del Océano de Arena.\r\nNi siquiera el Gae Bolg de Athlum los asusta...-->Os Jhana estão a causar um tumulto no\nGrande Mar de Areia. Parece que eles já se\nesqueceram da ira do Gae Bolg de Athlum.
-(0046)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0046)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0047)So is this "Athlum" a new brand of\nclothing, perhaps?<==>¿Y eso de «Athlum» es una nueva marca de ropa, o qué?-->Então este "Athlum" é uma nova marca de\nroupa, talvez?
 (0048)Indeed.<==>Supongo...-->Realmente.
 (0049)The Silver Falcons are going to rid\nthe area of the Jhana.\nThey are dependable soldiers.<==>¡Los Halcones Argénteos van a acabar\r\ncon todos los jhanas de la zona!\r\n¿Qué haríamos sin ellos?-->Os Falcões Prateados irão se livrar\nda área dos Jhana.\nEles são soldados dependentes.
-(0050)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0050)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0051)The Silver Falcons...\nThat reminds me, I must get someone\nto polish the silverware in these cabinets.<==>Los Halcones Argénteos...\r\nTengo que acordarme de buscar a alguien\r\npara que saque brillo a la plata del armario.-->Os Falcões Prateados...\nIsso lembra-me, eu tenho de arranjar alguém\npara polir a prataria destes gabinetes.
 (0052)Indeed.<==>Mira, tú...-->Realmente.
 (0053)The Silver Falcons are going to get rid of\nthe remaining soldiers of the Conqueror's army.<==>Los Halcones Argénteos van a despachar\r\na lo poco que queda del ejército del Invasor.-->The Silver Falcons are going to get rid of\nthe remaining soldiers of the Conqueror's army.
-(0054)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0054)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0055)The Silver Falcons...\nThat reminds me, I must purchase\nsome new cutlery.<==>Los Halcones Argénteos...\r\nEsto me recuerda que tengo que comprar\r\nuna cubertería nueva...-->Os Falcões Prateados...\nIsso lembra-me, eu tenho de comprar\nalgumas talheres novos.
 (0056)Indeed.<==>Pues sí.-->Realmente.
 (0057)A gloomy-looking man frequents the pub\nin Elysion. No one seems to know\nanything of him.<==>En la taberna de Elysion hay un tipo muy sombrío\r\nque se pasa allí las horas muertas.\r\nNadie sabe nada sobre su pasado.-->Um homem sombrio frequenta a taberna\nde Elysion. Ninguém parece saber\nnada sobre ele.
-(0058)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Esta é a conversa da vila, minha senhora.
+(0058)This is the talk of the town, my lady.<==>En toda la ciudad no se habla de otra cosa.-->Em toda a cidade, não se fala de outra coisa.
 (0059)If only he would stop by.\nI would cheer him up!<==>Pues ya podría pasarse por aquí.\r\n¡Yo podría animarlo!-->Apenas se ele parasse por aqui.\nEu iria alegrá-lo!
 (0060)Indeed.<==>Pues sí.-->Realmente.
