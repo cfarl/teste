@@ -396,7 +396,7 @@
 (0396)scanning for downloadable content...<==>Buscando descarga de contenido...-->verificando conteúdo para download...
 (0397)Gondola<==>Góndola-->Gôndola
 (0398-IGUAIS)Patrice Michaud
-(0399)zero-g launch<==>despegue grav-0-->decolagem na gravidade zero
+(0399)zero-g launch<==>despegue grav-0-->decolar na gravidade zero
 (0400-IGUAIS)1
 (0401-IGUAIS).
 (0402-IGUAIS).
@@ -424,7 +424,7 @@
 (0424-IGUAIS)1
 (0425)NAV CARD 3<==>CARTA DE NAVEGACIÓN 3-->CARTA DE NAVEGAÇÃO 3
 (0426)[RDUp]ZOOM IN<==>[RDUp]ACERCAR-->[RDUp]Zoom
-(0427)//settings<==>//Opciones-->//opções
+(0427)//settings<==>//Opciones-->//Configurações
 (0428)force gun<==>cañón de energía-->canhão de energia
 (0429)Guard Security Doors<==>Protege las puertas de seguridad.-->Proteja as portas de segurança
 (0430)//online pass<==>//Pase online-->//passe online
@@ -1446,7 +1446,7 @@
 (1446)Chapter 6<==>Capítulo 6-->Capítulo 6:\nMudança de Rumo
 (1447)Chapter 7<==>Capítulo 7-->Capítulo 7:\nO Poder do Sol
 (1448)Chapter 8<==>Capítulo 8-->Capítulo 8:\nEngenharia Espacial
-(1449)Chapter 9<==>Capítulo 9-->Capítulo 9:\nA Chegada do Trem
+(1449)Chapter 9<==>Capítulo 9-->Capítulo 9:\nO Transporte
 (1450)Chapter 10<==>Capítulo 10-->Capítulo 10:\nPesadelo Revivido
 (1451)Chapter 11<==>Capítulo 11-->Capítulo 11:\nNo Escuro
 (1452)Chapter 12<==>Capítulo 12-->Capítulo 12:\nRota de Colisão
@@ -2089,7 +2089,7 @@
 (2089)[RDUp]DELETE<==>[RDUp]BORRAR-->[RDUp]APAGAR
 (2090)Environment Art<==>Diseño de entornos-->Design de Ambiente
 (2091)PATROL SEEKER RIFLE<==>RIFLE BUSCADOR DE PATRULLA-->RIFLE BUSCADOR DE PATRULHA
-(2092)Chapter 9<==>Capítulo 9-->Capítulo 9 - Chegada do Trem
+(2092)Chapter 9<==>Capítulo 9-->Capítulo 9 - O Transporte
 (2093)Motion Capture Directors<==>Directores de captura de movimiento-->Diretores de captura de movimento
 (2094)sprint<==>acelerar-->correr
 (2095)Observation Center<==>Centro de observación-->Centro de Observação
@@ -2131,7 +2131,7 @@
 (2131)Proton Accelerator<==>ACELERADOR DE PROTONES-->Acelerador de Prótons
 (2132)Klystron<==>KLISTRÓN-->Klistrón
 (2133)Linac<==>LINAC-->Linac
-(2134-IGUAIS)Dom Regan
+(2134)Dom Regan<==>Dom Regan-->Brazilian Warriors
 (2135)RUBY SEMICONDUCTOR<==>SEMICONDUCTOR DE RUBÍ-->SEMICONDUTOR DE RUBI
 (2136)Cenrtifuge is currently offline. Please activate clutches.<==>La centrifugadora está desconectada. Active los acoplamientos.-->A centrifuga está desligada. Ative os acoplamentos.
 (2137)Clutches Engaged. Activate Console.<==>Acoplamientos conectados. Activar consola.-->Acoplamentos conectados. Ativar console.
@@ -2447,10 +2447,10 @@
 (2447-IGUAIS){p} ¤
 (2448)Purchase new items here.  They will be added to your Inventory.<==>Aquí puedes comprar objetos nuevos. Se añadirán a tu inventario.-->Aqui você pode comprar novos itens. Eles serão adicionados ao seu inventário.
 (2449)Please do not turn off your console when you see the auto save icon<==>No apagues la consola cuando veas el icono de guardado automático.-->Por favor não desligue o console enquanto estiver vendo o ícone de salvamento automático.
-(2450)Steve Papoutsis<==>Steve Papoutsis-->Tribo Gamer
-(2451)Dom Regan<==>Dom Regan-->Brazilian Warriors
-(2452)Wright Bagwell<==>Wright Bagwell-->Ushinin DS, cfarl, Dark Lord
-(2453)Ian Milham<==>Ian Milham-->cfarl
+(2450-IGUAIS)Steve Papoutsis
+(2451-IGUAIS)Dom Regan
+(2452-IGUAIS)Wright Bagwell
+(2453-IGUAIS)Ian Milham
 (2454-IGUAIS)Ben Wanat
 (2455-IGUAIS)Paul Mathus
 (2456-IGUAIS)Steve Timson
@@ -2847,7 +2847,7 @@
 (2847)Removing an in-use Storage Device with Dead Space¬ 2 downloadable content can result in the loss of unsaved progress.<==>Si extraes un dispositivo de almacenamiento en uso con descargas de contenido de Dead Space¬ 2 se pueden perder los progresos no guardados.-->Se remover um dispositivo de armazenamento em uso com conteúdo baixado de Dead Space¬ 2 pode acontecer de progresso não salvo ser perdido. 
 (2848-IGUAIS)1
 (2849)Primary Fire DAM +5% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] for a short range, high powered blast of kinetic energy with wide area of effect.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] for a long range, tight radius energy projection.<==>DÑO disparo principal: +5% / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar una potente ráfaga de energía cinética de corto alcance con un gran radio de acción.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar energía de largo alcance y radio ajustado.-->DANO disparo principal +5% / REC -5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar uma potente rajada de energia cinética de curto alcance, com um grande raio de efeito.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar energia de longo alcance e raio ajustado.
-(2850)recharge stasis<==>recargar estabilización-->recarregar estabiliz. 
+(2850)recharge stasis<==>recargar estabilización-->recarregar estabilização 
 (2851)Additional Programming<==>Programación adicional-->Programação Adicional
 (2852)Items put in storage<==>Objetos almacenados-->Itens armazenados
 (2853-IGUAIS)TAKE OUR BODIES
@@ -3142,7 +3142,7 @@
 (3142-IGUAIS)Ã
 (3143-IGUAIS)T
 (3144-IGUAIS)Ben Walker
-(3145)///controls<==>///Controles-->///Configuração do Controle
+(3145)///controls<==>///Controles-->///Configurar Controle
 (3146-IGUAIS)Scott Ferguson
 (3147)Escape to Ellie's ship.<==>Huye a la nave de Ellie.-->Escape para a nave da Ellie.
 (3148)guard<==>Custodiar-->guardar
@@ -3209,7 +3209,7 @@
 (3209-IGUAIS)Daryl Smolen
 (3210-IGUAIS)Brad Trosin
 (3211-IGUAIS)Lisandro Dorfman
-(3212)Ellie and Stross came through a different entrance than me; the fastest way to get to their location is to take a shortcut through Hydrogen Processing.<==>Ellie y Stross no entraron por el mismo sitio que yo; el modo más rápido de llegar a su posición es atajando por el procesamiento de hidrógeno.-->Ellie e Stross não vieram pelo mesmo lugar que eu; o jeito mais rápida de chegar onde estão é pegando um atalho pelo processamento de hidrogênio.
+(3212)Ellie and Stross came through a different entrance than me; the fastest way to get to their location is to take a shortcut through Hydrogen Processing.<==>Ellie y Stross no entraron por el mismo sitio que yo; el modo más rápido de llegar a su posición es atajando por el procesamiento de hidrógeno.-->Ellie e Stross não vieram pelo mesmo lugar que eu; o jeito mais rápido de chegar onde estão é pegando um atalho pelo processamento de hidrogênio.
 (3213-IGUAIS)01
 (3214-IGUAIS)04
 (3215)ONLINE<==>CONECTADO-->CONECTADO
@@ -3715,7 +3715,7 @@
 (3715)What?! Are you crazy? That big one? If you set that off in here it will incinerate everything!<==>¡¿Qué?! ¿Estás loco? ¿El grande ese? ¡Si lo activas aquí lo carbonizará todo!-->O quê?! Você enlouqueceu? Aquele grande? Se você ativá-lo aqui vai incinerar tudo!
 (3716)congratulations<==>Enhorabuena-->parabéns
 (3717)I can't make it go any faster!<==>¡No puedo hacer que vaya más rápido!-->Não consigo fazer isso ir mais rápido!
-(3718) Isaac, what does he mean? What did  he mean when he said dead weight?<==>Isaac, ¿qué quiere decir? ¿Qué quiso decir cuando dijo lastre?--> Isaac, o que ele quer dizer? O que ele quer dizer quando disse peso morto?
+(3718) Isaac, what does he mean? What did  he mean when he said dead weight?<==>Isaac, ¿qué quiere decir? ¿Qué quiso decir cuando dijo lastre?--> Isaac, o que ele quis dizer? O que ele quis dizer quando disse peso morto?
 (3719)He... he cut the station in half. There's no track to get across on.<==>Ha... Ha cortado la estación a la mitad. No hay vía para cruzar.-->Ele... ele cortou a estação ao meio. Não há nenhum caminho para atravessar.
 (3720)What?  Why?<==>¿Qué? ¿Por qué?-->O quê?  Por quê?
 (3721)you can snare Gov Sec and drag it back. Isaac, this is ridiculous.<==>... Puedes atrapar el sector gubernamental y arrastrarlo, es ridículo.-->você pode ir até o Setor Governamental e arrastá-lo de volta. Isaac, isto é ridículo.
@@ -3777,7 +3777,7 @@
 (3777)No, it's not!  I was right here this morning with a crew of thirty people. But we were overrun, and before I knew it they were all transformed. I had to cut the arms and legs off my friends just to escape.  I'm sure there's pieces of them still lying around here somewhere. <==>¡Sí, sí que pasa! Esta mañana estaba aquí con treinta personas. Nos invadieron y antes de que me diera cuenta los habían transformado. Y tuve que arrancarles los brazos y las piernas a mis amigos para poder huir. Seguro que aún hay trozos suyos por aquí en alguna parte.-->Não, isso não!  Nessa manhã eu estava aqui com trinta pessoas. Mas fomos atacados, e antes que eu me desse conta eles já haviam se transformado. Tive que arrancar os braços e as pernas dos meus amigos para poder fugir.  Tenho certeza que ainda há pedaços deles por ai. 
 (3778)Right. There's a central Hub in the main facility. Here are the coordinates.<==>Bien. Hay un nodo central en la instalación principal. Te paso las coordenadas.-->Certo. Há um nó central na instalação principal. Aqui estão as coordenadas.
 (3779)Right... Manually shutting down the plant froze all the pressure valves in place. You'll need to find a way to force it open.<==>Correcto... El cierre manual de la planta ha sellado todas las válvulas de presión que hay. Tendrás que encontrar la forma de abrirlo a la fuerza.-->Certo... Ao desligar manualmente a planta, todas as válvulas de pressurização do lugar foram congeladas. Você precisa encontrar uma maneira de abri-lo à força.
-(3780)Not really!<==>La verdad es que no.-->Não é verdade!
+(3780)Not really!<==>La verdad es que no.-->Na verdade não!
 (3781)Move Stross!<==>¡Vamos, Stross!-->Vamos, Stross!
 (3782)Oh God, Isaac!  Glad to see you've got all your parts!<==>¡Oh, dios, Isaac! ¡Me alegra ver que estás de una pieza!-->Oh Deus, Isaac!  Estou feliz de ver que você está inteiro!
 (3783)Um, yeah. <==>Em, sí.-->Hum, sim. 
@@ -4497,7 +4497,7 @@
 (4497)I should be able to Kinesis these bridge pieces into place.<==>Usaré el módulo cinético para colocar las piezas del puente.-->Vou usar o módulo cinético para colocar as peças no lugar.
 (4498)What the hell?!<==>¡Pero ¿qué leches...?!-->Mas q'ue diabos?!
 (4499)What?!<==>¿Qué?-->O quê?!
-(4500)melee<==>cuerpo a cuerpo-->ataque
+(4500)melee<==>cuerpo a cuerpo-->golpear
 (4501)PROGRESS REPORT 1<==>PROGRESS REPORT 15Åàeå£-->RELATÓRIO DE PROGRESSO 1
 (4502)[MenuA]SELECT<==>[MenuA]SELEC.-->[MenuA]SELECIONAR
 (4503)Addition UI Programming<==>Programación de IU adicional-->Programação Adicional de Interface do Usuário
@@ -4758,7 +4758,7 @@
 (4758)SCAN<==>ESCÁNER-->SCANNER
 (4759)Senior Director Business Affairs & Licensing<==>Director de asuntos empresariales y licencias sénior-->Diretor de Assuntos Empresariais e Licenças Sênior
 (4760-IGUAIS)0
-(4761-IGUAIS)Ian Milham
+(4761)Ian Milham<==>Ian Milham-->cfarl
 (4762)War Torn<==>Desgastado-->Desgastado
 (4763)ENGINEERING SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE INGENIERÍA\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE ENGENHARIA\nDiagrama Adquirido\nBaixe na loja
 (4764)SECURITY SUIT\nSchematic Acquired\nDownload at the Store<==>TRAJE DE SEGURIDAD\nDiagrama Adquirido\nDescargar en el almacén-->TRAJE DE SEGURANÇA\nDiagrama Adquirido\nBaixe na loja
@@ -4954,7 +4954,7 @@
 (4954-IGUAIS)Dead Space 2
 (4955-IGUAIS)4
 (4956-IGUAIS)1
-(4957-IGUAIS)Wright Bagwell
+(4957)Wright Bagwell<==>Wright Bagwell-->Ushinin DS, cfarl, Dark Lord
 (4958)Please enter your Online Pass code.<==>Introduce el código de tu pase online.-->Informe seu código de passe online.
 (4959)CLAMP CONTROL<==>CONTROL ABRAZADERA-->CONTROLE DA PRENSA
 (4960)HEAVY DUTY VINTAGE SUIT<==>TRAJE VINTAGE INDUSTRIAL-->TRAJE VINTAGE INDUSTRIAL
@@ -5252,7 +5252,7 @@
 (5252)Are you sure you want to delete %1 on storage device %2?<==>¿Seguro que quieres borrar %1 en el dispositivo de almacenamiento %2?-->Tem certeza que quer apagar %1 no dispositivo de armazenamento %2?
 (5253)rivet gun II<==>remachadora II-->rebitadeira II
 (5254-IGUAIS)Español
-(5255-IGUAIS)Steve Papoutsis
+(5255)Steve Papoutsis<==>Steve Papoutsis-->Tribo Gamer
 (5256)STASIS DOOR<==>PUERTA DE ESTABILIZACIÓN-->PORTA DE ESTABILIZAÇÃO
 (5257)FORCE GUN\nSchematic Acquired\nDownload at the Store<==>CAÑÓN DE ENERGÍA\nDiagrama Adquirido\nDescargar en el almacén-->CANHÃO DE ENERGIA\nDiagrama Adquirido\nBaixe na loja
 (5258)///brightness<==>///Brillo-->///Brilho
