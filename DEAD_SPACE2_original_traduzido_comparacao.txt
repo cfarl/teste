@@ -105,7 +105,7 @@
 (0105)BLOODY FORCE GUN<==>CAÑÓN DE ENERGÍA SANGRIENTO-->CANHÃO DE ENERGIA SANGRENTO
 (0106)Bring this schematic to the store to unlock the Vintage Elite Suit.<==>Lleva este diagrama al almacén para desbloquear el traje vintage de élite.-->Leve esse diagrama até a loja para desbloquear o traje vintage de elite.
 (0107)Press [select] to view your inventory, objectives, and tutorials. Press [LSTop] and [RSTop] to toggle back and forth between these menus.\n\nBe sure to read the tutorials for Aiming, Kinesis, and Stasis in the Database screen of Isaac's RIG.\n\nStrategically dismember enemy limbs for more damage - mastering this skill is the key to Isaac's survival.<==>Pulsa [select] para ver el inventario, los objetivos y los tutoriales. Pulsa [LSTop] y [RSTop] para desplazarte por estos menús.\n\nAsegúrate de leer los tutoriales de fijación de objetivos, cinética y estabilización en la pantalla de la base de datos del DRI de Isaac.\n\nCercena estratégicamente las extremidades de tus enemigos para causar más daño: el dominio de esta habilidad es la clave de la supervivencia de Isaac.-->Pressione [select] para ver o inventário, os objetivos, e os tutoriais. Pressione [LSTop] e [RSTop] para navegar para trás e para frente entre esses menus.\n\nNão se esqueça de ler os tutoriais de fixação de objetivos, cinética e estabilização na janela da base de dados do DRI do Isaac.\n\nDesmembre estratégicamente as extremidades dos seus inimigos para causar mais dano. O domínio dessa habilidade é a chave para a sobrevivência do Isaac.
-(0108)alt. fire<==>disparo sec.-->disparo sec.
+(0108)alt. fire<==>disparo sec.-->disparo secundário
 (0109)Name<==>Nombre-->Nome
 (0110)new items<==>nuevos objetos-->novos itens
 (0111)///episode select<==>///selección de episodio-->///seleção de episódio
@@ -3142,7 +3142,7 @@
 (3142-IGUAIS)Ã
 (3143-IGUAIS)T
 (3144-IGUAIS)Ben Walker
-(3145)///controls<==>///Controles-->///Configurar Controle
+(3145)///controls<==>///Controles-->///Configuração de Controle
 (3146-IGUAIS)Scott Ferguson
 (3147)Escape to Ellie's ship.<==>Huye a la nave de Ellie.-->Escape para a nave da Ellie.
 (3148)guard<==>Custodiar-->guardar
@@ -5590,7 +5590,7 @@
 (5590-IGUAIS)Cao Ran
 (5591-IGUAIS)Zhang Yao
 (5592)Please read and accept both documents<==>Lee y acepta ambos documentos.-->Por favor leia e aceite os dois documentos
-(5593)controls<==>Controles-->Configuração do Controle
+(5593)controls<==>Controles-->Configurar Controle
 (5594)Semi-conductors are valuables scattered about the Sprawl.  Find and sell them for money.<==>Los semiconductores son objetos valiosos repartidos por El Eje. Búscalos y véndelos a cambio de dinero.-->Semicondutores são objetos valiosos espalhados pelo Eixo. Procure por eles e os venda para obter dinheiro.
 (5595)     ISHIMURA TRAM SYSTEM     ISHIMURA TRAM SYSTEM<==>     SISTEMA DE MONORRAÍL DEL ISHIMURA     SISTEMA DE MONORRAÍL DEL ISHIMURA-->     SISTEMA DE TREM DA ISHIMURA     SISTEMA DE TREM DA ISHIMURA
 (5596)Welcome to Solar Array Sigma-Zero-Five. Proper identification is required. Please wait here. Watchman... Howard Phillips will be with you shortly.<==>Bienvenido al panel solar sigma-cero-cinco. Identificación obligatoria. Por favor, espere aquí. El vigilante... Howard Phillips estará en breve con usted.-->Bem-vindo ao painel solar sigma-zero-cinco. Identificação obrigatória. Por favor, espere aqui. O Vigilante... Howard Phillips estará em breve com você.
@@ -5839,7 +5839,7 @@
 (5839)SYSTEM OFFLINE<==>SISTEMA DESCONECTADO-->SISTEMA DESLIGADO
 (5840)lurker<==>merodeador-->espreitador
 (5841)Small air canister that replenishes the air meter.<==>Bote de aire pequeño que recarga el indicador de oxígeno.-->Tubo de ar pequeno que recarrega o medidor de oxigênio.
-(5842)///checkpoint restart<==>///Reinicio desde punto de control-->///Reiniciar desse ponto de controle
+(5842)///checkpoint restart<==>///Reinicio desde punto de control-->///Reiniciar do ponto de controle
 (5843)The Riot Security Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Contact Beam receives a 10% bonus to damage. \nPurchase guarantees a minimum of 25 inventory slots and 25% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de seguridad antidisturbios ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de arma [c=RESET]: un 10% adicional de daño para el rayo de contacto. \nSu compra garantiza un mínimo de 25 ranuras de inventario y un 25% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.\n-->O traje de segurança anti-rebeliões oferece uma funcionalidade única para quem o usa:\n• [c=CUSTOM3] Bonificação de arma [c=RESET]: um adicional de 10% de dano para o raio de contato. \nSua compra garante um mínimo de 25 espaços de inventário e 25% de blindagem. Seu DRI conserva a maior melhoria de blindagem e inventário.
 (5844)match win<==>victoria de la partida-->vitória da partida
 (5845)Bring this schematic to the store to unlock the Power Node.<==>Lleva este diagrama al almacén para desbloquear el nodo de energía.-->Leve esse diagrama até a loja para desbloquear o nodo de energia.
