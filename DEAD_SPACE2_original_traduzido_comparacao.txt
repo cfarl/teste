@@ -911,7 +911,7 @@
 (0911)Welcome to the Titan Station Emergency Care Wing.  Attention all incoming ships and transports:  this is emergency drop-off only.  please keep your craft at the ready at all times as you may need to vacate the dock promptly in the event of new arrivals.  emergency admissions, please follow the blue lines.  physicaians and staff please follow the green lines to report to your stations.  maintenance, mechanical, and engineering staff please follow the yellow lines.<==>Bienvenido al ala de cuidados de emergencia de la estación Titán. Aviso a todas las naves y medios de transportes entrantes: esto es un traslado de emergencia. Mantengan su nave a punto en todo momento, ya que puede que tengan que desocupar la plataforma con rapidez en caso de nuevas llegadas. Admisiones de emergencia, sigan las líneas azules. Los facultativos y el personal deben seguir las líneas verdes para proceder a las estaciones. El personal de mantenimiento, mecánico y de ingeniería debe seguir las líneas amarillas.-->Bem-vindo à ala de cuidados de emergência da estação Titã. Aviso a todas as naves de entrada e meios de transportes chegando: isso é apenas uma transferência de emergência. Mantenha sua nave preparada o tempo todo, pois pode ser que tenham de desocupar a plataforma rapidamente no caso de novas chegadas. Admissões de emergência, sigam as linhas azuis. Os facultativos e o pessoal devem seguir as linhas verdes para proceder às estações. O pessoal de manutenção, mecânica e engenharia deve seguir as linhas amarelas.
 (0912)Life support restored.  Oxygen output returning to normal.<==>Soporte vital restablecido. La producción de oxígeno recupera la normalidad.-->Suporte vital restabelecido. A produção de oxigênio está retornando à normalidade.
 (0913)Ejection Sequence Initiated.  Launch in 3, 2, 1...Launched.  Automatic guidance system engaged<==>Secuencia de eyección iniciada. Lanzamiento en 3, 2, 1... Despegado. Sistema de guiado automático activado.-->Seqüência de ejeção Iniciada. Lançamento em 3, 2, 1... Lançado. Sistema de orientação automática ativado.
-(0914)Warning: Impact detected.  Guidance system malfunction. All guidance systems offline.  Brace for impact.<==>Alerta: impacto detectado. Error en el sistema de guiado. Todos los sistemas de guiado desactivados. Prepárense para el impacto.-->Alerta: impacto detectado. Erro no sistema de orientação. Todos os sistemas de orientação estão desativados. Preparem-se para o impacto.
+(0914)Warning: Impact detected.  Guidance system malfunction. All guidance systems offline.  Brace for impact.<==>Alerta: impacto detectado. Error en el sistema de guiado. Todos los sistemas de guiado desactivados. Prepárense para el impacto.-->Alerta: impacto detectado. Erro no sistema de orientação. Todos os sistemas de orientação estão desativados. Prepare-se para o impacto.
 (0915)Warning: Hull Breach.  Decompression<==>Alerta: ruptura del casco. Descompresión.-->Alerta: ruptura da fuselagem. Descompressão
 (0916)Warning: Gravity failure.<==>Alerta: fallo de gravedad.-->Alerta: Falha de gravidade.
 (0917)Warning: Life Support failure.  Seek protection immediately.<==>Alerta: fallo en el soporte vital. Póngase bajo la protección de inmediato.-->Aviso: Alerta no suporte vital. Procure proteção imediatamente.
@@ -1031,7 +1031,7 @@
 (1031)Franchise Art Director<==>Director de diseño de la franquicia-->Revisão Adicional (janeiro 2019)
 (1032-IGUAIS)Fly Sun
 (1033)TRAM CALL<==>MONORRAÍL-->CHAMAR TREM
-(1034)The gravity tethers won't function unless the main centrifuge is operational. Looks like the repair team was in the middle of upgrading the centrifuge unit - I'll have to finish the job.<==>Los anclajes gravitatorios no funcionarán a menos que la centrifugadora principal esté operativa. Parece que el equipo de reparación dejó a medias la mejora de la unidad centrifugadora; tendré que acabar el trabajo.-->As travas gravitacionais não funcionarão a menos que a centrifugadora principal esteja operante. Parece que a equipe de reparos deixou pela metade o serviço de melhoria da unidade centrifugadora - você vai ter que terminar o trabalho.
+(1034)The gravity tethers won't function unless the main centrifuge is operational. Looks like the repair team was in the middle of upgrading the centrifuge unit - I'll have to finish the job.<==>Los anclajes gravitatorios no funcionarán a menos que la centrifugadora principal esté operativa. Parece que el equipo de reparación dejó a medias la mejora de la unidad centrifugadora; tendré que acabar el trabajo.-->As travas gravitacionais não funcionarão a menos que a centrifugadora principal esteja operante. Parece que a equipe de reparos deixou pela metade o serviço de reparo da unidade centrifugadora - vou ter que terminar o trabalho.
 (1035)Javelin Gun Schematic<==>Diagrama de cañón jabalina-->Diagrama do Canhão de Dardos
 (1036)Bring this schematic to the store to unlock the Seeker Rifle.<==>Lleva este diagrama al almacén para desbloquear el rifle buscador.-->Leve esse diagrama até a loja para desbloquear o rifle buscador.
 (1037-IGUAIS)Shari Bryant
@@ -1564,7 +1564,7 @@
 (1564)Ejection sequence initiated.  Launch in 3 ... 2 ... 1.  Launch.<==>Secuencia de eyección iniciada. Lanzamiento en 3..., 2..., 1. Despegue. -->Sequência de lançamento Iniciada.  Lançamento em 3 ... 2 ... 1.  Lançado.
 (1565)Proximity warning.  Impact detected.  Guidance system malfunction.  <==>Alerta de proximidad. Alerta: impacto detectado. Error en el sistema de guiado.-->Alerta de proximidade.  Impacto detectado.  Erro no sistema de condução.  
 (1566)All guidance systems off line. <==>Todos los sistemas de guiado desactivados.-->Sistemas de condução desligados. 
-(1567)Brace for impact.<==>Prepárense para el impacto.-->Preparem-se para o impacto.
+(1567)Brace for impact.<==>Prepárense para el impacto.-->Prepare-se para o impacto.
 (1568)Gravity and Life support on reserve power. Primary systems offline.  Main centrifuge offline for repairs.<==>Gravedad y soporte vital en reserva. Sistemas primarios desconectados. Centrifugadora principal inactiva y pendiente de reparación.-->A gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrifugadora principal está desligada para reparos. 
 (1569)Gravity tethers engaged...<==>Anclajes gravitatorios acoplados...-->Travas gravitacionais acopladas...
 (1570)Unexpected obstruction ahead.  Shutting down.   Welcome to the Medical Deck.<==>Obstrucción inesperada más adelante. Cerrando. Bienvenido a la cubierta médica.-->Obstrução inesperada mais à frente.  Desligando.   Bem vindo à plataforma médica.
@@ -3249,7 +3249,7 @@
 (3249)sort<==>ordenar-->ordenar
 (3250)Sort<==>Ordenar-->Ordenar
 (3251-IGUAIS)1
-(3252)RELOAD<==>RECARGA-->RECARREGAR
+(3252)RELOAD<==>RECARGA-->RECARGA
 (3253-IGUAIS)Chi Wai-Lao
 (3254){n}\nSUICIDE<==>{n}\nSUICÍDIO-->{n}\nSUICÍDIO
 (3255-IGUAIS)Alvi Islamaj
@@ -4359,7 +4359,7 @@
 (4359) Ellie, another valve hatch is sealed shut.   I can't get through.<==>Ellie, hay otra escotilla de válvula cerrada. No puedo pasar.--> Ellie, há outra escotilha de válvula fechada.   Não consigo passar.
 (4360)Alright, I look for them.<==>Vale, los buscaré.-->Tudo bem, eu vou atrás deles.
 (4361)Ellie, the damn cooling core is extended and pieces are everywhere.<==>Ellie, el núcleo de refrigeración está desmontado y hay muchas piezas.-->Ellie, o núcleo de refrigeração está desmontado e tem peças por toda parte.
-(4362)Yeah, I see tube paths on the floating components.   I think I can match them up with the right sockets.   <==>Sí, veo conexiones de tubos en los componentes que flotan. Creo que puedo encajarlos en sus tomas.-->Sim, estou vendo conexões de tubos nos componentes que flutuam.   Acho que posso encaixá-los no lugar correto.   
+(4362)Yeah, I see tube paths on the floating components.   I think I can match them up with the right sockets.   <==>Sí, veo conexiones de tubos en los componentes que flotan. Creo que puedo encajarlos en sus tomas.-->Sim, estou vendo tubos de refrigeração junto das peças que estão flutuando.   Acho que posso encaixá-los nos lugares corretos.   
 (4363) I know, I'm going as fast as I can.   I'll contact you when I'm done.<==>Lo sé, voy lo más rápido que puedo. Te llamaré cuando termine.--> Eu sei, estou indo o mais rápido que posso.   Entrarei em contato quando terminar.
 (4364)I'll see if I can rewire it from down here?<==>Intentaré derivarla desde aquí abajo.-->Vou ver se consigo religá-lo daqui.
 (4365)Come on man.<==>Vamos, tío.-->Vamos lá.
@@ -4473,7 +4473,7 @@
 (4473)Ellie, I'm in. There should still be a computer in the flight lounge. I can check the ship's status from there.<==>Ellie, estoy dentro. Aún debería haber un ordenador en la sala de vuelo. Comprobaré el estado de la nave desde allí.-->Ellie, entrei. Ainda deve ter um computador na sala de voo. Posso verificar o estado da nave dali.
 (4474)Last time I was here, things didn't go so well. Look, I'll contact you soon.<==>La última vez que estuve aquí, las cosas no fueron muy bien. Escucha, te llamaré pronto.-->A última vez que estive aqui, as coisas não correram tão bem. Olha, entrarei em contato em breve.
 (4475)Damn it, that's what I thought.<==>Mierda, eso me había parecido.-->Merda, era isso que eu estava pensando.
-(4476)The gravity centrifuge is under repair.  I'm going to have to go down to Engineering. This should be interesting.<==>La centrifugadora está averiada. Voy a tener que bajar a Ingeniería. Esto será interesante.-->A centrifugadora está quebrada.  Vou ter que baixar a Engenharia. Isso vai ser interessante.
+(4476)The gravity centrifuge is under repair.  I'm going to have to go down to Engineering. This should be interesting.<==>La centrifugadora está averiada. Voy a tener que bajar a Ingeniería. Esto será interesante.-->A centrifugadora não está funcionando.  Vou ter que ir até lá para verificar. Isso vai ser interessante.
 (4477)I don't know how it could be.  I'll let you know. <==>No tengo ni idea. Ya te lo diré.-->Não tenho nem ideia.  Já te digo. 
 (4478) YEAH I KNOW! I'll call you back!<==>¡SÍ, LO SÉ! ¡Te volveré a llamar!--> SIM, EU SEI! Eu volto a te ligar!
 (4479)Okay, no Ellie, it isn't safe.  But I'm on my way to the centrifuge.<==>Vale, no, Ellie, no es seguro. Pero voy hacia la centrifugadora.-->Tudo bem, não, Ellie, não é seguro.  Mas estou indo para a centrifugadora.
@@ -6359,7 +6359,7 @@
 (6359-IGUAIS)PENG
 (6360)MAP<==>MAPA-->MAPA
 (6361)Downloads<==>Descargas-->Downloads
-(6362)These mines are all that's left of the Titan Moon. Government Sector was built into this piece of rock, right above me. That's where Tiedemann and the Marker are. That's where I need to go.<==>Estas minas son lo único que queda de la luna Titán. El sector gubernamental se construyó en este fragmento de roca que tengo justo encima. Ahí es donde están Tiedemann y la Efigie. Y ahí es donde tengo que ir.-->Essas minas são tudo o que restou da lua debTitã. O setor governamental foi construído nesse fragmento de rocha bem acima de mim. É aí que Tiedemann e o Marker estão. É aí onde tenho de ir.
+(6362)These mines are all that's left of the Titan Moon. Government Sector was built into this piece of rock, right above me. That's where Tiedemann and the Marker are. That's where I need to go.<==>Estas minas son lo único que queda de la luna Titán. El sector gubernamental se construyó en este fragmento de roca que tengo justo encima. Ahí es donde están Tiedemann y la Efigie. Y ahí es donde tengo que ir.-->Essas minas são tudo o que restou da lua de Titã. O setor governamental foi construído nesse fragmento de rocha bem acima de mim. É aí que Tiedemann e o Marker estão. É aí onde tenho de ir.
 (6363-IGUAIS)Salil Nair
 (6364-IGUAIS)0
 (6365-IGUAIS)2
