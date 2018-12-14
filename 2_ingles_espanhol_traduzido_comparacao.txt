@@ -29,25 +29,25 @@
 (0029)Hm? You again.<==>Vaya... Otra vez tú.-->Hm? Você de novo.
 (0030)Uh.<==>Esto...-->Uh.
 (0031)You don't look happy to see me.<==>No pareces contento de verme.-->Você não parece feliz em me ver.
-(0032)Uh, n-no, that's not true!\nSay, ol\nO beautiful young maid, what're you doing\naround here?<==>Ejem... Yo... No, no, no es eso.\r\nEn fin, esto... Joven damisela, ¿qué te trae por aquí?-->Uh, n-não, Isso não é real!\ndizer, ol\nO bela jovem empregada, o que faz\npor aqui?
-(0033)Training.\nIn my family, it's a rite of passage\nto travel the world.<==>Me entreno. En mi familia tenemos la costumbre\r\nde viajar y recorrer el mundo para conmemorar\r\nnuestro paso a la edad adulta.-->Treinando.\nNa minha família, significa um ritual de passagem\npara viajar o mundo.
-(0034)Huh... Sounds pretty tough.\nTake care of yourself, okay?<==>Caray, no debe de ser fácil...\r\nPues... Estooo... Cuídate, ¿de acuerdo?-->Huh... Parece muito forte.\nSe cuida, ok?
-(0035)...Ahh. Thank you.<==>Gracias.-->...Ahh. Muito Obrigado.
-(0036)You're surprisingly...nice.<==>Eres un chico muy amable.-->Você surpreedentemente...legal.
-(0037)Hm, you look cheerful as ever.<==>Tienes buen aspecto.-->Hm, Você está realmente muito alegre.
-(0038)Heya, Ms. Young Maiden.<==>Hola, señorita... ejem... joven damisela...-->Olá, Senhora Young Maiden.
-(0039)...Right. So, could you please not call me that?\nIt sounds ridiculous, to say the least.<==>Anda, haz el favor de no llamarme así.\r\nSuena ridículo.-->...Certo. Então, poderia parar de me dizer isso?\nÉ ridículo, falando sério.
-(0040)Well, it's not like I know your name.<==>Bueno... Pero es que no sé cómo te llamas.-->Bem, não é como se eu soubesse seu nome.
+(0032)Uh, n-no, that's not true!\nSay, ol\nO beautiful young maid, what're you doing\naround here?<==>Ejem... Yo... No, no, no es eso.\r\nEn fin, esto... Joven damisela, ¿qué te trae por aquí?-->Uh, n-não, não é isso!\nDiga, senh\nJovem donzela, o que está fazendo\naqui?
+(0033)Training.\nIn my family, it's a rite of passage\nto travel the world.<==>Me entreno. En mi familia tenemos la costumbre\r\nde viajar y recorrer el mundo para conmemorar\r\nnuestro paso a la edad adulta.-->Treinando.\nNa minha família, temos o costume de viajar\npelo mundo antes da idade adulta.
+(0034)Huh... Sounds pretty tough.\nTake care of yourself, okay?<==>Caray, no debe de ser fácil...\r\nPues... Estooo... Cuídate, ¿de acuerdo?-->Huh... Parece bem difícil.\nSe cuide, ok?
+(0035)...Ahh. Thank you.<==>Gracias.-->...Ahh. Muito obrigada.
+(0036)You're surprisingly...nice.<==>Eres un chico muy amable.-->Você é muito...gentil.
+(0037)Hm, you look cheerful as ever.<==>Tienes buen aspecto.-->Hm, Você parece muito bem.
+(0038)Heya, Ms. Young Maiden.<==>Hola, señorita... ejem... joven damisela...-->Olá, senhorita jovem donzela.
+(0039)...Right. So, could you please not call me that?\nIt sounds ridiculous, to say the least.<==>Anda, haz el favor de no llamarme así.\r\nSuena ridículo.-->...Certo. Então, será que você pode parar de me chamar assim?\nSoa ridículo, falando sério.
+(0040)Well, it's not like I know your name.<==>Bueno... Pero es que no sé cómo te llamas.-->Bem, não sei como você se chama. 
 (0041)Oh?<==>¿Lo dices en serio?-->Oh?
 (0042)Oh.<==>* Tenso silencio *-->Oh.
-(0043)The name's Emmy.<==>Me llamo Emmy.-->O nome é Emmy.
-(0044)Nice to meet you for real, finally. I'm<==>Me alegro de conocerte al fin. Yo soy...-->Prazer em te conhecer, finalmente. Estou
+(0043)The name's Emmy.<==>Me llamo Emmy.-->Me chamo Emmy.
+(0044)Nice to meet you for real, finally. I'm<==>Me alegro de conocerte al fin. Yo soy...-->É um prazer finalmente conhecê-la. Eu sou... 
 (0045)Rush Sykes, call you Rush, right?<==>No hace falta que me lo digas.\r\nTe llamas Rush Sykes, ¿verdad?-->Rush Sykes, te chamam de Rush, certo?
-(0046)Wha!? C-can you see into my brain!?<==>Co... ¿Cómo lo sabes? ¿Me has leído el pensamiento?-->Oquê!? Você consegue ler meus pensamentos!?
-(0047)Perhaps!\nThough in this case, it's not much of a challenge.<==>Tengo mis recursos... Pero no es difícil imaginar\r\nlo que se te está pasando por la cabeza ahora mismo.-->Perhaps!\nThough in this case, it's not much of a challenge.
-(0048)Take care, Rush.<==>En fin, Rush... Cuídate, ¿de acuerdo?-->Cuidado, Rush.
-(0049)What's the purpose of my training?\nWell...a lot of things. But in general,\ntraining the mind and spirit, I'd imagine.<==>¿Que a qué viene tanto entrenamiento?\r\nBueno... Tengo mis motivos, pero más que nada\r\nquiero mejorar mis capacidades físicas y mentales.-->O motivo do meu treinamento?\nBem...há vários motivos. Mas principalmente,\npraticar a mente e o espírito, Creio eu.
-(0050-REPETIDO)What's the purpose of my training?\nWell...a lot of things. But in general,\ntraining the mind and spirit, I'd imagine.<==>¿Que a qué viene tanto entrenamiento?\r\nBueno... Tengo mis motivos, pero más que nada\r\nquiero mejorar mis capacidades físicas y mentales.-->O motivo do meu treinamento?\nBem...há vários motivos. Mas principalmente,\npraticar a mente e o espírito, Creio eu.
+(0046)Wha!? C-can you see into my brain!?<==>Co... ¿Cómo lo sabes? ¿Me has leído el pensamiento?-->O quê!? Você leu meus pensamentos!?
+(0047)Perhaps!\nThough in this case, it's not much of a challenge.<==>Tengo mis recursos... Pero no es difícil imaginar\r\nlo que se te está pasando por la cabeza ahora mismo.-->Talvez!\nMas nesse caso, não foi tão difícil.
+(0048)Take care, Rush.<==>En fin, Rush... Cuídate, ¿de acuerdo?-->Se cuide, Rush.
+(0049)What's the purpose of my training?\nWell...a lot of things. But in general,\ntraining the mind and spirit, I'd imagine.<==>¿Que a qué viene tanto entrenamiento?\r\nBueno... Tengo mis motivos, pero más que nada\r\nquiero mejorar mis capacidades físicas y mentales.-->Qual é o propósito do meu treinamento?\nBem...são diversas coisas. Mas no geral,\nmelhorar minhas capacidades físicas e mentais.
+(0050-REPETIDO)What's the purpose of my training?\nWell...a lot of things. But in general,\ntraining the mind and spirit, I'd imagine.<==>¿Que a qué viene tanto entrenamiento?\r\nBueno... Tengo mis motivos, pero más que nada\r\nquiero mejorar mis capacidades físicas y mentales.-->Qual é o propósito do meu treinamento?\nBem...são diversas coisas. Mas no geral,\nmelhorar minhas capacidades físicas e mentais.
 (0051)You're still searching for your sister, aren't you?\nI wish there was something I could do to help...<==>Todavía estás buscando a tu hermana, ¿verdad?\r\nOjalá pudiera ayudarte a encontrarla.-->Ainda está procurando sua irmã, não está?\nEu queria que houvesse algo que eu pudesse fazer para ajudar...
 (0052-REPETIDO)You're still searching for your sister, aren't you?\nI wish there was something I could do to help...<==>Todavía estás buscando a tu hermana, ¿verdad?\r\nOjalá pudiera ayudarte a encontrarla.-->Ainda está procurando sua irmã, não está?\nEu queria que houvesse algo que eu pudesse fazer para ajudar...
 (0053)Of course I keep in touch with my family.\nThat's how I know about you.<==>Hablo con mi familia de vez en cuando.\r\nSi no, ¿cómo iba a saber quién eres?-->É claro que eu mantenho contato com minha família.\nÉ por isso que te conheço.
