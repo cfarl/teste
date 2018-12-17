@@ -1,0 +1,107 @@
+(0001-IGUAIS)-- ----------------------------------------------------------------------------------
+(0002-IGUAIS)-- (Export 81) NUD_0101_MP0_MSG
+(0003-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0004)emma_honeywell_sWhat is it?\nShould we first return to Elysion?\nGood idea.\nNo need.<==>emma_honeywell_s¿Qué pasa?\r\n¿No deberíamos ir primero a Elysion?\nBuena idea.\nNo hace falta.-->emma_honeywell_sO que é isso?\nNão deveríamos ir primeiro até Elysion?\nBoa ideia.\nNão há necessidade.
+(0005)emma_honeywell_sAlright.\nWe shall return to Elysion.<==>emma_honeywell_sDe acuerdo.\r\nVolvamos a Elysion.-->emma_honeywell_sTudo bem.\nVamos voltar para Elysion.
+(0006)emma_honeywell_sAlright. We shall keep going.<==>emma_honeywell_sDe acuerdo. Sigamos adelante.-->emma_honeywell_sTudo bem. Vamos seguir em frente.
+(0007)emma_honeywell_sShall we return to Athlum?\nYup! Let's go.\nNah, not just yet.<==>emma_honeywell_s¿No deberíamos volver a Athlum?\nSí. ¡Venga, vamos!\nNo, todavía no.-->emma_honeywell_sNão deveríamos voltar para Athlum?\nSim! Vamos lá.\nNão, ainda não.
+(0008)emma_honeywell_sLet us leave for Athlum at once.<==>emma_honeywell_sVayamos raudos a Athlum.-->emma_honeywell_sVamos partir logo para Athlum.
+(0009)emma_honeywell_sWe cannot keep Lord David waiting.\nFinish your business quickly so we can move on.<==>emma_honeywell_sNo podemos hacer esperar a lord David.\r\nAcaba de una vez lo que tengas que hacer\r\npara que podamos irnos.-->emma_honeywell_sNão podemos deixar Lorde David esperando.\nTermine logo o que tem de fazer para podermos ir.
+(0010-IGUAIS)
+(0011-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0012-IGUAIS)-- (Export 82) NUD_0101_MP2_MSG
+(0013-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0014)Left stick: Ascend/Descend\n00\n: Release handle<==>Stick izquierdo: Subir/Bajar\n00\n: Soltar palanca-->Analógico esquerdo: Subir/Baixar\n00\n: Soltar alavanca
+(0015)Left stick: Ascend/Descend<==>Stick izquierdo: Subir/Bajar-->Analógico esquerdo: Subir/Baixar
+(0016)The monsters are in the way.<==>Un grupo de monstruos bloquea el paso.-->Os monstros estão bloqueando o caminho.
+(0017)Left stick: Forward/Backward\n00\n: Release handle<==>Stick izquierdo: Subir/Bajar\n00\n: Soltar palanca-->Analógico esquerdo: Para frente/Para trás\n00\n: Soltar alavanca
+(0018-REPETIDO--IGUAIS)
+(0019-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0020-IGUAIS)-- (Export 83) NUD_0201_MP0_MSG
+(0021-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0022)Is everything alright?\nShould we return to Elysion?\nGood idea.\nNo, let's stay.<==>¿Va todo bien?\r\n¿Volvemos a Elysion?\nBuena idea.\nNo, quedémonos.-->Está tudo bem?\nDevemos voltar para Elysion?\nBoa ideia.\nNão, vamos ficar.
+(0023)Alright.\nLet's return to Elysion.<==>De acuerdo.\r\nVolvamos a Elysion.-->Muito bem.\nVamos voltar para Elysion.
+(0024)Alright. Let's keep going.<==>De acuerdo. Sigamos.-->Tudo bem. Vamos continuar.
+(0025)Shall we return to Athlum?\nYup! Let's go.\nNah, not just yet.<==>¿No deberíamos volver a Athlum?\nSí. ¡Venga, vamos!\nNo, todavía no.-->Não deveríamos voltar para Athlum?\nSim! Vamos lá.\nNão, ainda não.
+(0026)Let us leave for Athlum at once.<==>Vayamos raudos a Athlum.-->Vamos logo para Athlum.
+(0027)We cannot keep Lord David waiting.\nFinish your business quickly so we can move on.<==>No podemos hacer esperar a lord David.\r\nAcaba de una vez lo que tengas que hacer\r\npara que podamos irnos.-->Não podemos deixar Lorde David esperando.\nTermine logo o que tem de fazer para podermos ir.
+(0028-REPETIDO--IGUAIS)
+(0029-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0030-IGUAIS)-- (Export 84) NUD_0201_MP1_MSG
+(0031-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0032)Alert!\nThere has been a monster intrusion.<==>¡Atención!\nSe acerca un grupo de monstruos.-->Atenção!\nUm grupo de monstros se aproxima.
+(0033-REPETIDO--IGUAIS)
+(0034-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0035-IGUAIS)-- (Export 85) NUD_0201_MP2_MSG
+(0036-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0037)The power of a Remnant seals these doors shut.\nBind the Key Remnant, releasing the Seal of Marshall?\nOf course! Mom's in there!\nNot in the mood...<==>Las puertas están cerradas a cal y canto\r\nmediante una reliquia. ¿Quieres vincularte\r\na ella y abrir la barrera de Marshall?\n¡Claro! ¡Mamá está dentro!\nNo me apetece...-->O poder de um Remanescente mantém as portas trancadas.\nVincular ao Chave para abrir a Barreira de Marshall?\nClaro! Minha mãe está aí!\nNão estou afim...
+(0038)The door is sealed shut.<==>La puerta está cerrada a cal y canto.-->A porta está trancada.
+(0039-REPETIDO)Left stick: Ascend/Descend\n00\n: Release handle<==>Stick izquierdo: Subir/Bajar\n00\n: Soltar palanca-->Analógico esquerdo: Subir/Baixar\n00\n: Soltar alavanca
+(0040-REPETIDO)Left stick: Ascend/Descend<==>Stick izquierdo: Subir/Bajar-->Analógico esquerdo: Subir/Baixar
+(0041-REPETIDO)The monsters are in the way.<==>Un grupo de monstruos bloquea el paso.-->Os monstros estão bloqueando o caminho.
+(0042-REPETIDO)Left stick: Forward/Backward\n00\n: Release handle<==>Stick izquierdo: Subir/Bajar\n00\n: Soltar palanca-->Analógico esquerdo: Para frente/Para trás\n00\n: Soltar alavanca
+(0043-REPETIDO--IGUAIS)
+(0044-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0045-IGUAIS)-- (Export 86) NUD_0301_MP2_MSG
+(0046-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0047-REPETIDO)Left stick: Ascend/Descend\n00\n: Release handle<==>Stick izquierdo: Subir/Bajar\n00\n: Soltar palanca-->Analógico esquerdo: Subir/Baixar\n00\n: Soltar alavanca
+(0048-REPETIDO)Left stick: Ascend/Descend<==>Stick izquierdo: Subir/Bajar-->Analógico esquerdo: Subir/Baixar
+(0049-REPETIDO)The monsters are in the way.<==>Un grupo de monstruos bloquea el paso.-->Os monstros estão bloqueando o caminho.
+(0050-REPETIDO)Left stick: Forward/Backward\n00\n: Release handle<==>Stick izquierdo: Subir/Bajar\n00\n: Soltar palanca-->Analógico esquerdo: Para frente/Para trás\n00\n: Soltar alavanca
+(0051-REPETIDO--IGUAIS)
+(0052-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0053-IGUAIS)-- (Export 87) NUD_0401_MP2_MSG
+(0054-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0055-REPETIDO)Left stick: Ascend/Descend\n00\n: Release handle<==>Stick izquierdo: Subir/Bajar\n00\n: Soltar palanca-->Analógico esquerdo: Subir/Baixar\n00\n: Soltar alavanca
+(0056-REPETIDO)Left stick: Ascend/Descend<==>Stick izquierdo: Subir/Bajar-->Analógico esquerdo: Subir/Baixar
+(0057-REPETIDO)The monsters are in the way.<==>Un grupo de monstruos bloquea el paso.-->Os monstros estão bloqueando o caminho.
+(0058-REPETIDO)Left stick: Forward/Backward\n00\n: Release handle<==>Stick izquierdo: Subir/Bajar\n00\n: Soltar palanca-->Analógico esquerdo: Para frente/Para trás\n00\n: Soltar alavanca
+(0059-REPETIDO--IGUAIS)
+(0060-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0061-IGUAIS)-- (Export 88) NWD_0101_MP2_MSG
+(0062-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0063)Use the device?\nWhy not?\nNot just yet.<==>¿Quieres usar este artefacto?\nSí, probemos.\nAún no.-->Usar o dispositivo?\nPor que não?\nAinda não.
+(0064)Monsters stand in the way of the controls.<==>Los monstruos bloquean el acceso a los mandos.-->Os monstros estão bloqueando o acesso aos controles.
+(0065-REPETIDO--IGUAIS)
+(0066-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0067-IGUAIS)-- (Export 89) NWD_0102_MP0_MSG
+(0068-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0069)Go to City Map?\nLet's go!\nMaybe later.<==>¿Quieres ir al Mapa de la ciudad?\n¡Claro, vamos!\nAhora no.-->Ir para o Mapa da Cidade?\nVamos lá!\nTalvez mais tarde.
+(0070-REPETIDO--IGUAIS)
+(0071-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0072-IGUAIS)-- (Export 90) NWD_0102_MP2_MSG
+(0073-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0074-REPETIDO)Monsters stand in the way of the controls.<==>Los monstruos bloquean el acceso a los mandos.-->Os monstros estão bloqueando o acesso aos controles.
+(0075-REPETIDO--IGUAIS)
+(0076-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0077-IGUAIS)-- (Export 91) NWD_0103_MP2_MSG
+(0078-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0079-REPETIDO)Monsters stand in the way of the controls.<==>Los monstruos bloquean el acceso a los mandos.-->Os monstros estão bloqueando o acesso aos controles.
+(0080-REPETIDO--IGUAIS)
+(0081-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0082-IGUAIS)-- (Export 92) NWD_0104_MP2_MSG
+(0083-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0084-REPETIDO)Monsters stand in the way of the controls.<==>Los monstruos bloquean el acceso a los mandos.-->Os monstros estão bloqueando o acesso aos controles.
+(0085-REPETIDO--IGUAIS)
+(0086-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0087-IGUAIS)-- (Export 93) RBC_0101_MP3_MSG
+(0088-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0089)Rush, we are about to walk into a den of monsters, so\nlook sharp. We will be fine as long as we handle each\none individually.<==>Rush, estamos a punto de entrar en una guarida\r\nde monstruos, así que manteneos alerta. Todo irá bien\r\nmientras nos ocupemos de ellos de uno en uno...-->Rush, estamos prestes a entrar num covil de monstros,\nentão fique atento. Ficaremos bem se cuidarmos deles\num de cada vez.
+(0090)Okay, got it.<==>Vale, entendido.-->Certo, entendido.
+(0091)Take this. It is an\nAlizarin Orb\nIt will enable you to use mystic arts.<==>Por cierto... Tomad esto. Es un orbe de espinela.\r\nCon él podréis utilizar artes místicas.-->Tome isso. É um\nOrbe de Alizarina.\nEle vai permitir que você use artes místicas.
+(0092)Mystic arts?<==>¿Artes místicas?-->Artes místicas?
+(0093)Perhaps the term "spell" is more common... It's a way\nto channel energy through your weapon, with fantastic\nresults.<==>Hechizos, para entendernos. Se trata de técnicas\r\nque permiten canalizar energía a través de un arma\r\ncon resultados sorprendentes.-->Bem, talvez o termo "magia" seja mais comum... Se trata\nde técnicas que permitem canalizar energia em uma arma,\ncom resultados fantásticos.
+(0094)Huh...<==>Ah, vale...-->Huh...
+(0095)With this\nAlizarin Orb\n, you can channel spells through\nyour weapons as well. Now you can attack enemies\nwith mystic arts.<==>Con este orbe, vos también seréis capaz de usar\r\nartes místicas para defenderos del enemigo.-->Com essa\nOrbe de Alizarina\n, você será capaz de canalizar magias nas suas armas.\nAgora, você pode atacar inimigos\nusando artes místicas.
+(0096)Cool! Thanks a lot!<==>¡Genial! ¡Gracias!-->Legal! Muito obrigado!
+(0097)Additionally, let me give you this map of the area.\nWith these, you should be ready for anything.\nNow then, shall we go on?<==>Por último, permitidme que os entregue este mapa\r\nde la zona. Con esto deberíais tener todo lo necesario\r\npara hacer frente a cualquier situación. ¿Continuamos?-->Por último, deixe-me dar a você esse mapa da área.\nCom isso, você estará preparado para qualquer problema\nque encontrar pela frente. Agora, podemos continuar?
+(0098)pagusThis gate is a Remnant.\nOnly the one bound to it may open it.<==>pagusUmm... Me parece que esta puerta es una reliquia.\r\nSólo la persona vinculada a ella puede abrirla.-->pagusEsse portão é um Remanescente.\nSó a pessoa vinculada a ele pode abrí-lo.
+(0099)rush_sykes_sSo what do we do?<==>rush_sykes_s¿Qué hacemos entonces?-->rush_sykes_sEntão o que faremos?
+(0100)pagusHmm... When it comes down to it, it IS a door...\nIt stands to reason that it would have a key.<==>pagusUmm... Al fin y al cabo, no deja de ser una puerta.\r\nTiene que haber una llave en algún sitio.-->pagusHmm... Bem, isso não deixa de ser uma porta...\nDeve haver uma chave em algum lugar.
+(0101)pagusThis is it. This Remnant is the key.\nLet's try it on that door.<==>pagus¡Aquí está! Seguro que con esto podremos abrir\r\nesa puerta... ¡Vamos a comprobarlo!-->pagusÉ isso! Esse Remanescente é a chave.\nVamos tentar abrir essa porta.
+(0102-REPETIDO--IGUAIS)
+(0103-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0104-IGUAIS)-- (Export 94) RBC_0301_MP2_MSG
+(0105-REPETIDO--IGUAIS)-- ----------------------------------------------------------------------------------
+(0106-REPETIDO)The door is sealed shut.<==>La puerta está cerrada a cal y canto.-->A porta está trancada.
+(0107)The door is bolted.\nRemove the bolt?\nIt looks light enough.\nNah, it looks too heavy.<==>La puerta está cerrada con cerrojo.\r\n¿Intentamos quitarlo?\nSí, no parece muy sólido.\nNo, es demasiado resistente.-->A porta está parafusada.\nVamos tentar remover o parafuso?\nClaro, não parece muito sólido.\nNão, é muito resistente.
