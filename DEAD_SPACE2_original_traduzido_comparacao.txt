@@ -314,7 +314,7 @@
 (0314)Yes. Are you ready? <==>Sí. ¿Estás listo?-->Sim. Você está pronto? 
 (0315)Yes. Step inside.<==>Sí. Entra.-->Sim. Entre.
 (0316)Follow the light, Isaac. I'll be waiting for you at the Marker.<==>Sigue la luz, Isaac. Te esperaré en la Efigie.-->Siga a luz, Isaac. Eu estarei esperando por você no Marker.
-(0317)You're fighting it, Isaac. You can't fight it. You have to let me go.<==>Te estás resistiendo, Isaac. No sirve de nada. Tienes que dejarme ir.-->Você está resistindo, Isaac. NaoNão adianta. Você tem que me deixar ir.
+(0317)You're fighting it, Isaac. You can't fight it. You have to let me go.<==>Te estás resistiendo, Isaac. No sirve de nada. Tienes que dejarme ir.-->Você está resistindo, Isaac. Não adianta. Você tem que me deixar ir.
 (0318)Isaac stop it. There is no other way. You have to do this. <==>No hay alternativa. Tienes que hacerlo.-->Isaac, pare. Não há outra alternativa. Você precisa fazer isso.
 (0319)This is it, Isaac. Convergence is almost here. Meet me at the Marker. <==>Es la hora, Isaac. La Convergencia ya está aquí. Nos vemos en la Efigie.-->Está na hora, Isaac. A Convergência já está aqui. Nos vemos no Marker.
 (0320)Goodbye, Isaac.<==>Adiós, Isaac.-->Adeus, Isaac.
@@ -4315,7 +4315,7 @@
 (4315)I don't know. <==>No lo sé.-->Eu não sei. 
 (4316)Well, how was it supposed to happen, Tiedemann?<==>¿Cómo tenía que ocurrir, Tiedemann?-->Bem, como tinha de acontecer, Tiedemann?
 (4317)Why? What the hell is it doing?<==>¿Por qué? ¿Qué demonios hace?-->Por quê? Que diabos ele está fazendo?
-(4318)I'm full of bad ideas, remember?<==>Tengo un montón de malas ideas, ¿recuerdas?-->Estou tendo um monte de ideias ruim, lembra?
+(4318)I'm full of bad ideas, remember?<==>Tengo un montón de malas ideas, ¿recuerdas?-->Estou tendo um monte de ideias ruins, lembra?
 (4319)Wait! No! Ellie! Ellie, it's too late! Steer clear of the station!<==>¡Espera! ¡No! ¡Ellie! ¡Ellie, es demasiado tarde! ¡Aléjate de la estación!-->Espere! Não! Ellie! Ellie, é tarde demais! Fique longe da estação!
 (4320)I'm pushing it as hard as I can!<==>¡Empujo tan fuerte como puedo!-->Estou empurrando o mais forte que eu posso!
 (4321)Almost there!<==>¡Ya casi está!-->Quase lá!
