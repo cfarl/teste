@@ -1169,7 +1169,7 @@
 (1169)RUN!<==>¡CORRE!-->CORRA!
 (1170)Activate<==>Activar-->Ativado
 (1171-REPETIDO)EMERGENCY<==>EMERGENCIA-->EMERGÊNCIA
-(1172)Chapter 12<==>Capítulo 12-->Capítulo 12 - Rota de Colisão
+(1172)Chapter 12<==>Capítulo 12-->Capítulo 12 - Abrindo Caminho
 (1173)CLAW ENGAGED<==>PINZA ACOPLADA-->GARRA ACOPLADA
 (1174)Bring this schematic to the store to unlock the Javelin Gun.<==>Lleva este diagrama al almacén para desbloquear el cañón jabalina.-->Leve esse diagrama até a loja para desbloquear o canhão de dardos.
 (1175)Authorized CEC Employees Only<==>Solo empleados de CEC autorizados-->Somente os Empregados do CEC estão autorizados
@@ -1449,9 +1449,9 @@
 (1449)Chapter 9<==>Capítulo 9-->Capítulo 9:\nO Transporte
 (1450)Chapter 10<==>Capítulo 10-->Capítulo 10:\nPesadelo Revivido
 (1451)Chapter 11<==>Capítulo 11-->Capítulo 11:\nImperdoável
-(1452-REPETIDO)Chapter 12<==>Capítulo 12-->Capítulo 12:\nRota de Colisão
+(1452-REPETIDO)Chapter 12<==>Capítulo 12-->Capítulo 12:\nAbrindo Caminho
 (1453)Chapter 13<==>Capítulo 13-->Capítulo 13:\nInvasão
-(1454)Chapter 14<==>Capítulo 14-->Capítulo 14:\nUma Luz no Túnel
+(1454)Chapter 14<==>Capítulo 14-->Capítulo 14:\nIndestrutível
 (1455)Chapter 15<==>Capítulo 15-->Capítulo 15:\nFim da Linha
 (1456)Chapter 16<==>Capítulo 16-->Capítulo 16
 (1457)Press [RDUp] when stasis is low.<==>Pulsa [RDUp] para recuperar estabilización.-->Pressione [RDUp] para recuperar estabilização.
@@ -5393,7 +5393,7 @@
 (5393)For Clearance Alpha Only<==>Solo para autorización alfa-->Somente para autorização alfa
 (5394)Ammo Pack<==>MUNICIÓN-->Munição
 (5395)k/d<==>ratio-->k/d
-(5396-REPETIDO)Chapter 14<==>Capítulo 14-->Capítulo 14 - Uma Luz no Túnel
+(5396-REPETIDO)Chapter 14<==>Capítulo 14-->Capítulo 14 - Indestrutível
 (5397-REPETIDO)//cleared game//<==>//Completada//-->//jogo concluído//
 (5398)The patients are becoming agitated and combative with us, as a result of the new regimens of memory erasing drugs.   They no longer remember who we are from day to day, and must be convinced to leave their cells each morning.   Many are so frightened they require sedation to get to the interrogation chamber.   Orderly Gousetis was bitten 3 times by Patient six, who now must be told why he has a broken jaw every morning.<==>Los pacientes comienzan a mostrarse nerviosos y agresivos con nosotros, debido a los nuevos tratamientos con fármacos supresores de memoria. Ya no recuerdan quiénes somos de un día para otro, y todas las mañanas tenemos que persuadirlos para que salgan de su celda. Muchos están tan asustados que necesitan sedantes para acudir a la cámara de interrogación. El paciente 6 mordió 3 veces al ordenanza Gousetis, y ahora necesita explicaciones sobre el motivo de su mandíbula rota todas las mañanas. Fin del informe.-->Os pacientes estão começando a ficar nervosos e agressivos conosco, devido aos novos tratamentos com drogas supressores de memória. Eles já não se lembram mais quem somos de um dia, e todas as manhãs temos que convencê-los a sair das suas celas. Muitos estão tão assustados que precisam de sedativos para chegar até a sala de interrogação. O paciente 6 mordeu 3 vezes o Gousetis, e agora pede explicações sobre o motivo da sua mandíbula estar quebrada todas as manhãs.
 (5399-IGUAIS)4
