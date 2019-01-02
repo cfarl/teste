@@ -628,7 +628,7 @@
 (0628)06:05  3224 GAMMA HUB               DELAY  ALPHA<==>06:05  NODO GAMMA 3224              RETR.  ALFA-->06:05  ESTAÇÃO GAMA 3224            ATRAS.  ALPHA
 (0629)06:55  9001 TITAN ELEMENTARY        DELAY  ALPHA<==>06:55  PRIMARIA TITÁN 9001          RETR.  ALFA-->06:55  PRIMÁRIA TITÃ 9001          ATRAS.  ALPHA
 (0630)--:--  5783 BETA HUB                CANCE  -----<==>--:--  NODO BETA 5783               CANC.  ------->--:--  5783 ESTAÇÃO BETA                CANC.  -----
-(0631)--:--  4366 ALTMAN PLAZA            CANCE  -----<==>--:--  PLAZA ALTMAN 4366            CANC.  ------->--:--  ALTMAN PLAZA 4366           CANC.  -----
+(0631)--:--  4366 ALTMAN PLAZA            CANCE  -----<==>--:--  PLAZA ALTMAN 4366            CANC.  ------->--:--  PRAÇA ALTMAN 4366           CANC.  -----
 (0632)--:--  2242 SPOKE TRANSFER          CANCE  -----<==>--:--  CAMBIO DE RADIAL 242         CANC.  ------->--:--  RAIO DE TRANFER. 2242       CANC.  -----
 (0633)08:15  2243 GAMMA HUB RB352         DELAY  OMEGA<==>08:15  NODO GAMMA RB352 2243        RETR.  OMEGA-->08:15  ESTAÇÃO GAMA RB352 224      ATRAS.  OMEGA
 (0634)--:--  4333 TITAN HEIGHTS           CANCE  -----<==>--:--  CUMBRES TITÁN 4333           CANC.  ------->--:--  REGIÕES ALTAS DE TITÃ 4333           CANC.  -----
@@ -1027,15 +1027,15 @@
 (1027-IGUAIS)Daniel Patin
 (1028-IGUAIS)Reid Sheldon
 (1029-IGUAIS)Dustin Steele
-(1030)Allison Landers, this is Brandon Lurrach: Thank you for identifying Ishimura archive footage and RIG logs that could potentially contradict the official storyline of its demise at Aegis VII. It is critical that no word of the artifact's recovery ever be surfaced to the public. It is disturbing that such records still exist this many years after the incident. We have locked out your research team's access, and will be replacing them with EarthGov specialists effective immediately. Please contact me once the replacements arrive.<==>Allison Landers, aquí Brandon Lukach. Gracias por identificar las imágenes de archivo y los registros de los DRI del Ishimura que podrían contradecir la declaración oficial de su extinción en Aegis VII. Es de vital importancia que la noticia de la recuperación del artefacto no salga a la luz pública. Es muy preocupante que sigan existiendo estos registros tantos años después del incidente. Hemos bloqueado el acceso a su equipo de investigación, y lo sustituiremos con especialistas del gobierno de la Tierra de inmediato. Póngase en contacto conmigo cuando llegue el reemplazo.-->Allison Landers, aqui é Brandon Lurrach. Obrigado por identificar as imagens de arquivo e os registros dos DRI da Ishimura que poderiam contradizer a declaração oficial de sua extinção em Aegis VII. É muito importante que a notícia da recuperação do artefato não seja divulgada ao público. É extremamente preocupante que esse registros ainda existam depois de tantos anos do incidente. Estamos bloqueando o acesso de sua equipe de investigação, e os substituiremos por especialistas do governo da Terra de imediato. Entre em contato comigo quando os substitutos chegarem.
+(1030)Allison Landers, this is Brandon Lurrach: Thank you for identifying Ishimura archive footage and RIG logs that could potentially contradict the official storyline of its demise at Aegis VII. It is critical that no word of the artifact's recovery ever be surfaced to the public. It is disturbing that such records still exist this many years after the incident. We have locked out your research team's access, and will be replacing them with EarthGov specialists effective immediately. Please contact me once the replacements arrive.<==>Allison Landers, aquí Brandon Lukach. Gracias por identificar las imágenes de archivo y los registros de los DRI del Ishimura que podrían contradecir la declaración oficial de su extinción en Aegis VII. Es de vital importancia que la noticia de la recuperación del artefacto no salga a la luz pública. Es muy preocupante que sigan existiendo estos registros tantos años después del incidente. Hemos bloqueado el acceso a su equipo de investigación, y lo sustituiremos con especialistas del gobierno de la Tierra de inmediato. Póngase en contacto conmigo cuando llegue el reemplazo.-->Allison Landers, aqui é Brandon Lurrach. Obrigado por identificar as imagens de arquivo e os registros dos DRI da Ishimura que poderiam contradizer a declaração oficial de sua extinção em Aegis VII. É muito importante que a notícia da recuperação do artefato não seja divulgada ao público. É muito preocupante que esse registros ainda existam depois de tantos anos do incidente. Nós bloqueamos o acesso de sua equipe de investigação, e vamos substitui-los de imediato por especialistas do governo da Terra. Entre em contato comigo quando os substitutos chegarem.
 (1031)Franchise Art Director<==>Director de diseño de la franquicia-->Revisão Adicional (janeiro 2019)
 (1032-IGUAIS)Fly Sun
 (1033)TRAM CALL<==>MONORRAÍL-->CHAMAR TREM
-(1034)The gravity tethers won't function unless the main centrifuge is operational. Looks like the repair team was in the middle of upgrading the centrifuge unit - I'll have to finish the job.<==>Los anclajes gravitatorios no funcionarán a menos que la centrifugadora principal esté operativa. Parece que el equipo de reparación dejó a medias la mejora de la unidad centrifugadora; tendré que acabar el trabajo.-->As travas gravitacionais não funcionarão a menos que a centrifugadora principal esteja operante. Parece que a equipe de reparos deixou pela metade o serviço de reparo da unidade centrifugadora - vou ter que terminar o trabalho.
+(1034)The gravity tethers won't function unless the main centrifuge is operational. Looks like the repair team was in the middle of upgrading the centrifuge unit - I'll have to finish the job.<==>Los anclajes gravitatorios no funcionarán a menos que la centrifugadora principal esté operativa. Parece que el equipo de reparación dejó a medias la mejora de la unidad centrifugadora; tendré que acabar el trabajo.-->As travas gravitacionais não irão funcionar, a menos que a centrifugadora principal esteja operando. Parece que a equipe de reparos deixou o serviço de reparo da unidade centrifugadora pela metade - vou ter que terminar o trabalho.
 (1035)Javelin Gun Schematic<==>Diagrama de cañón jabalina-->Diagrama do Canhão de Dardos
 (1036)Bring this schematic to the store to unlock the Seeker Rifle.<==>Lleva este diagrama al almacén para desbloquear el rifle buscador.-->Leve esse diagrama até a loja para desbloquear o rifle buscador.
 (1037-IGUAIS)Shari Bryant
-(1038)Upgrade the NUMBER OF SHOTS by 1.<==>Se mejorará el NUMERO DE DISPAROS en 1.-->Melhora o NÚMERO DE DISPAROS em 1.
+(1038)Upgrade the NUMBER OF SHOTS by 1.<==>Se mejorará el NUMERO DE DISPAROS en 1.-->Aumenta o NÚMERO DE DISPAROS em 1.
 (1039)ACTIVATE LOADER<==>ACTIVAR CARGADOR-->ATIVAR CARREGADOR
 (1040)RETRIEVING CARGO<==>RECUPERANDO CARGA-->RECUPERANDO CARGA
 (1041)LOADER OFFLINE<==>CARGADOR DESACTIVADO-->CARREGADOR DESATIVADO
@@ -1046,17 +1046,17 @@
 (1046)There is not enough free space on storage device %1.<==>No hay suficiente espacio libre en el dispositivo de almacenamiento %1.-->Não há espaço livre suficiente no dispositivo de armazenamento %1.
 (1047)STASIS PACK\nSchematic Acquired\nDownload at the Store<==>CARGA DE ESTABILIZACIÓN\nDiagrama Adquirido\nDescargar en el almacén-->CARGA DE ESTABILIZAÇÃO\nDiagrama Adquirido\nBaixar na loja
 (1048-IGUAIS)7
-(1049)Database Administrator<==>Administrador de base de datos-->Administrador de Base de Dados
+(1049)Database Administrator<==>Administrador de base de datos-->Administrador de Banco de Dados
 (1050)RIG<==>DRI-->DRI
 (1051-IGUAIS)[LDLeft]
 (1052)RUN<==>CORRER-->CORRER
 (1053)No data detected in slot<==>No se detectan datos en la ranura.-->Não há dados no espaço
-(1054)The specified email address is invalid.<==>La dirección de correo electrónico especificada no es válida.-->O endereço de correio eletrônico é inválido.
-(1055)DS2 QA Leadership<==>Dirección de control de calidad de DS2-->Direção do Controle de Qualidade de DS2
+(1054)The specified email address is invalid.<==>La dirección de correo electrónico especificada no es válida.-->O endereço de correio eletrônico não é válido.
+(1055)DS2 QA Leadership<==>Dirección de control de calidad de DS2-->Direção de Controle de Qualidade de DS2
 (1056-IGUAIS)1
 (1057)FIRST CLUE, PART 1<==>PRIMERA PISTA, PARTE 1-->PRIMEIRA PISTA, PARTE 1
 (1058)FIRST CLUE, PART 2<==>PRIMERA PISTA, PARTE 2-->PRIMEIRA PISTA, PARTE 2
-(1059)GETTING EXCITED<==>ENTUSIASMO-->FICANDO ANIMADO
+(1059)GETTING EXCITED<==>ENTUSIASMO-->FICANDO EMPOLGADO
 (1060)GETTING THE BAND TOGETHER<==>REUNIÓN-->REUNINDO A BANDA
 (1061)FOUND THE DATA BOARD<==>PANEL DE DATOS ENCONTRADO-->PAINEL DE DADOS ENCONTRADO
 (1062)online menu<==>menú online-->menu online
@@ -1077,16 +1077,16 @@
 (1077-IGUAIS)Richard Epcar
 (1078-IGUAIS)April Jones
 (1079-IGUAIS)Matt Kaminsky
-(1080)Senior PR Manager<==>Jefe de relaciones públicas sénior-->Gerente Sênior de Relações Públicas
+(1080)Senior PR Manager<==>Jefe de relaciones públicas sénior-->Gerente de Relações Públicas Sênior
 (1081)Solid Viral Yellow<==>Amarillo viral liso-->Amarelo viral liso
 (1082)deliver the proton accelerator to the workbench<==>Lleva el acelerador de protones hasta el banco de trabajo.-->Leve o acelerador de prótons até a bancada de trabalho
 (1083)Failed to join game<==>Error al unirse a la partida-->Falha ao se juntar ao jogo
-(1084)QA Compliance Analysts<==>Analistas de validación de control de calidad-->Analista de Validação de Controle de Qualidade
+(1084)QA Compliance Analysts<==>Analistas de validación de control de calidad-->Analista de Conformidade de Controle de Qualidade
 (1085-IGUAIS)1
 (1086-REPETIDO)FLAME FUEL<==>COMBUSTIBLE INFLAMABLE-->COMBUSTÍVEL INFLAMÁVEL
-(1087)TWO TINES ENTWINED\n\nFrom the words of our savior, Michael Altman, we know that all life intertwines at the end to become one.   One mind, one body, one voice. The Marker  echoes this with its intertwined spires.   We echo this with our entwined arms, fingers touching in oneness at the top.  It is our sacred ceremonial gesture, used in greeting, and in the opening to all ceremonies, large and small.<==>DOS PÚAS ENTRELAZADAS\n\nLas palabras de nuestro salvador, Michael Altman, nos enseñan que toda vida se entrelaza para convertirse en una. Una mente, un cuerpo, una voz. La Efigie se hace eco de ello con sus agujas entrelazadas, y nosotros, entrelazando nuestros brazos y juntando nuestros dedos en señal de unidad. Es nuestro gesto ceremonial sagrado, con el que saludamos e iniciamos todas las ceremonias, grandes y pequeñas.-->DUAS PONTAS ENTRELAÇADAS\n\nAs palavras do nosso salvador, Michael Altman, nos ensinam que todas a vida se entrelaça para se converter em uma única. Uma mente, um corpo, uma voz. O Marker ecoa isso com suas espirais entrelaçadas. E nós ecoamos isso entrelaçando nossos braços e nossos dedos em sinal de unidade. É nosso gesto cerimonial sagrado, que usamos para saudação, e na abertura de todas as cerimônias, grandes e pequenos.
+(1087)TWO TINES ENTWINED\n\nFrom the words of our savior, Michael Altman, we know that all life intertwines at the end to become one.   One mind, one body, one voice. The Marker  echoes this with its intertwined spires.   We echo this with our entwined arms, fingers touching in oneness at the top.  It is our sacred ceremonial gesture, used in greeting, and in the opening to all ceremonies, large and small.<==>DOS PÚAS ENTRELAZADAS\n\nLas palabras de nuestro salvador, Michael Altman, nos enseñan que toda vida se entrelaza para convertirse en una. Una mente, un cuerpo, una voz. La Efigie se hace eco de ello con sus agujas entrelazadas, y nosotros, entrelazando nuestros brazos y juntando nuestros dedos en señal de unidad. Es nuestro gesto ceremonial sagrado, con el que saludamos e iniciamos todas las ceremonias, grandes y pequeñas.-->DUAS PONTAS ENTRELAÇADAS\n\nAs palavras do nosso salvador, Michael Altman, nos ensinam que toda vida se entrelaça para se converter em uma só. Uma mente, um corpo, uma voz. O Marker ecoa isso com suas espirais entrelaçadas. E nós ecoamos isso entrelaçando nossos braços e juntando nossos dedos em sinal de unidade. É nosso gesto cerimonial sagrado, que usamos para saudação na abertura de todas as cerimônias, grandes e pequenas.
 (1088-IGUAIS)1
-(1089)Tiedemann's shut off power to the Transport Hub. Life support should be good for several hours, but every transport to Government Sector is dead weight until the systems can be restored. I need to get power back online, fast.<==>Tiedemann ha cortado la electricidad del nodo de transporte. El soporte vital debería aguantar varias horas, pero todos los transportes al sector gubernamental están inutilizables hasta que los sistemas vuelvan a estar en marcha. Tengo que restablecer la electricidad rápido.-->Tiedemann cortou a energia do centro de transporte. O suporte vital deveria aguentar várias horas, mas todos os transportes até o setor governamental estão inutilizados até que os sistemas voltem a operar. Tenho que restabelecer a energia rápido.
+(1089)Tiedemann's shut off power to the Transport Hub. Life support should be good for several hours, but every transport to Government Sector is dead weight until the systems can be restored. I need to get power back online, fast.<==>Tiedemann ha cortado la electricidad del nodo de transporte. El soporte vital debería aguantar varias horas, pero todos los transportes al sector gubernamental están inutilizables hasta que los sistemas vuelvan a estar en marcha. Tengo que restablecer la electricidad rápido.-->Tiedemann cortou a energia do centro de transporte. O suporte vital deve aguentar várias horas, mas todos os transportes até o setor governamental estão inutilizados até que os sistemas voltem a operar. Tenho que restabelecer a energia, e rápido.
 (1090)save your progress?<==>¿Guardar progresos?-->Salvar seu progresso?
 (1091-IGUAIS)Eric Chartrand
 (1092)Chapter 10:\nEnd of Days<==>Capítulo 10:\nEl fin de los días-->Capítulo 10:\nO Fim dos Dias
@@ -1096,26 +1096,26 @@
 (1096-IGUAIS)Iñigo Bermejo
 (1097-IGUAIS)Borja Outerelo Gamarra
 (1098-IGUAIS)Daniel Vázquez Romero
-(1099)Primary Fire DAM +5% / REL -10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a wide energy beam.  Can slice many objects at once.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a timed energy mine.<==>DÑO disparo principal: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo de energía ancho. Muy útil para cortar varios objetos a la vez.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para disparar una mina de energía temporizada.-->DANO do disparo principal +5% / REL -10%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um grande raio de energia. Muito útil para cortar vários objetos de uma só vez.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar uma mina de energia temporizada.
+(1099)Primary Fire DAM +5% / REL -10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a wide energy beam.  Can slice many objects at once.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a timed energy mine.<==>DÑO disparo principal: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo de energía ancho. Muy útil para cortar varios objetos a la vez.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para disparar una mina de energía temporizada.-->DANO do disparo principal +5% / REC -10%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um grande raio de energia. Muito útil para cortar vários objetos de uma só vez.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar uma mina de energia temporizada.
 (1100-IGUAIS)3
-(1101)I hear them coming.   Don't kill us both Ellie, just run.   I'll save you.  Just go. <==>Los oigo venir. No hagas que muramos los dos, Ellie. Corre. Yo te salvaré. Corre.-->Eu ouço eles vindo.   Não quero que nós dois morramos, Ellie, corra.   Eu vou te salvar.  Vá.
-(1102)Sorenson!  Do you read?  It's Kaleb, Shift 1!   You guys better be right behind us, we're leaving a swarm of angry dead body parts behind us.<==>¡Sorenson! ¿Me recibes? ¡Aquí Kaleb, turno 1! Más vale que vengáis por detrás de nosotros. Vamos a dejar un montón de miembros y articulaciones cabreadas a nuestro paso.-->Sorenson!  Está me ouvindo?  Aqui é Kaleb, turno 1! É melhor vir atrás de nós, estamos deixando um monte de cadáveres raivosos atrás de nós.
-(1103)Everyone move it!  Go go go! <==>¡Todos en marcha! ¡Vamos, vamos, vamos!-->Todos andando!  Vai, vai, vai! 
-(1104)Sorenson, we'll leave some Plasma Cutters here for your group, it's the only thing that works!   God I hope you're right behind us....<==>¡Sorenson, dejaremos unas cortadoras de plasma aquí para tu grupo, es lo único que funciona! Espero que vengáis detrás de nosotros...-->Sorenson, vamos deixar algumas cortadoras de plasma aqui para o seu grupo, é a única coisa que funciona! Espero que venha atrás de nós...
-(1105)Oh shit!  Message end!<==>¡Oh, mierda! ¡Fin del mensaje!-->Ah, merda! Fim da mensagem!
-(1106)All teams, this is  Kaleb, Xenogeologist from Langford Shift 1!   There's something in the facility, we've lost 3 of our crew, and can't contact Shift 4!<==>A todos los equipos, aquí Kaleb, xenogeólogo del turno de Langford 1. En esta instalación hay algo. Hemos perdido a 3 miembros de nuestra tripulación y no consigo contactar con el turno 4.-->Todos as equipes, aqui é Kaleb, xenogeólogo do turno de Langford 1. Há alguma coisa nessa instalação. Perdemos 3 membros da nossa tripulação e não consigo contactar o turno 4.
-(1107)We're abandoning our shift and heading back up.  Everyone else is ordered to do the same.<==>Procedemos a abandonar nuestro turno y retirarnos. Todo el mundo tiene orden de hacer lo mismo.-->Vamos abandonar o nosso turno e nos retirarmos. Todo mundo recebeu ordens de fazer o mesmo.
+(1101)I hear them coming.   Don't kill us both Ellie, just run.   I'll save you.  Just go. <==>Los oigo venir. No hagas que muramos los dos, Ellie. Corre. Yo te salvaré. Corre.-->Eu os ouço vindo.   Não quero que nós dois morramos, Ellie, corra.   Eu vou te salvar.  Vá.
+(1102)Sorenson!  Do you read?  It's Kaleb, Shift 1!   You guys better be right behind us, we're leaving a swarm of angry dead body parts behind us.<==>¡Sorenson! ¿Me recibes? ¡Aquí Kaleb, turno 1! Más vale que vengáis por detrás de nosotros. Vamos a dejar un montón de miembros y articulaciones cabreadas a nuestro paso.-->Sorenson!  Está me ouvindo?  Aqui é Kaleb, turno 1! É bom que estejam bem atrás de nós, estamos deixando um monte de cadáveres desmembrados para atrás.
+(1103)Everyone move it!  Go go go! <==>¡Todos en marcha! ¡Vamos, vamos, vamos!-->Todos em frente!  Vamos, vamos, vamos! 
+(1104)Sorenson, we'll leave some Plasma Cutters here for your group, it's the only thing that works!   God I hope you're right behind us....<==>¡Sorenson, dejaremos unas cortadoras de plasma aquí para tu grupo, es lo único que funciona! Espero que vengáis detrás de nosotros...-->Sorenson, vamos deixar algumas cortadoras de plasma aqui para o seu grupo, é a única coisa que funciona! Espero que esteja vindo atrás de nós...
+(1105)Oh shit!  Message end!<==>¡Oh, mierda! ¡Fin del mensaje!-->Ah, droga! Fim da mensagem!
+(1106)All teams, this is  Kaleb, Xenogeologist from Langford Shift 1!   There's something in the facility, we've lost 3 of our crew, and can't contact Shift 4!<==>A todos los equipos, aquí Kaleb, xenogeólogo del turno de Langford 1. En esta instalación hay algo. Hemos perdido a 3 miembros de nuestra tripulación y no consigo contactar con el turno 4.-->Todos as equipes, aqui é Kaleb, xenogeólogo do turno de Langford 1. Há alguma coisa nessa instalação, perdemos 3 membros da nossa tripulação, e não consigo contatar o turno 4.
+(1107)We're abandoning our shift and heading back up.  Everyone else is ordered to do the same.<==>Procedemos a abandonar nuestro turno y retirarnos. Todo el mundo tiene orden de hacer lo mismo.-->Vamos abandonar nosso turno e vamos nos retirar. Todo mundo recebeu ordens de fazer o mesmo.
 (1108)Kaleb out! <==>¡Kaleb, corto!-->Kaleb, desligando!
 (1109)Kaleb to all shifts, report in.  Do you read me?  This is Langford Shift 1, we're almost back up top. <==>Kaleb a todos los turnos, informad. ¿Me recibís? Aquí turno 1 de Langford, ya casi estamos arriba.-->Kaleb para todos os turnos, reportando. Estão me ouvindo? Aqui é o turno 1 de Langford, estamos quase no topo.
 (1110)Just get out of there Sorenson, get out of there!<==>¡Sal de ahí, Sorenson, sal de ahí!-->Saia daí, Sorenson, saia daí!
 (1111-IGUAIS)1
-(1112)Use the starboard catwalks, we cleared a path, but hurry, they're closing in behind!<==>Ve por las pasarelas de estribor, hemos despejado el camino. ¡Pero date prisa, se acercan por detrás!-->Vá pelas passarelas de estibordo, nós limpamos o caminho. Mas se apresse, eles estão se aproximando por trás!
-(1113)I can't read you. I'll leave these in log mode for you to follow, Kaleb out.<==>No te recibo. Dejaré esto en modo de registro para que lo sigas, Kaleb, corto.-->Não estou te ouvindo. Vou deixar isso em modo de registro para que o siga, Kaleb desligando.
+(1112)Use the starboard catwalks, we cleared a path, but hurry, they're closing in behind!<==>Ve por las pasarelas de estribor, hemos despejado el camino. ¡Pero date prisa, se acercan por detrás!-->Vá pelas passarelas de estibordo, nós abrimos caminho. Mas se apresse, eles estão se aproximando por trás!
+(1113)I can't read you. I'll leave these in log mode for you to follow, Kaleb out.<==>No te recibo. Dejaré esto en modo de registro para que lo sigas, Kaleb, corto.-->Não consigo te ouvir. Vou deixar isso em modo de registro para que o siga, Kaleb, desligando.
 (1114)I'll leave this for who's left -- our crew is chasing us.  Our DEAD crew is chasing us.   It's just me and Ellie right now.   We're not gonna make it.<==>Dejaré esto para quien quede... Nuestra tripulación nos persigue. Nuestra tripulación MUERTA nos persigue. Solo quedamos Ellie y yo. No lo conseguiremos.-->Vou deixar isso para quem ficar... Nossa tripulação está nos perseguindo. Nossa tripulação MORTA está nos perseguindo. Só sobrou Ellie e eu. Não vamos conseguir.
 (1115) No, no, I'll cover you while you make it.   They'll chase you down....before you can reach....the last bulkhead<==>No, no, yo te cubriré mientras avanzas. Te darán caza... antes de que llegues a... la última contención.-->Não, não, eu vou te cobrir enquanto você avança. Eles vão te caçar... antes que chegue até... a última contenção.
 (1116-REPETIDO)I hear them coming.   Don't kill us both Ellie, just run.   I'll save you.  Just go. <==>Los oigo venir. No hagas que muramos los dos, Ellie. Corre. Yo te salvaré. Corre.-->Eu ouço eles vindo.   Não quero que nós dois morramos, Ellie, corra.   Eu vou te salvar.  Vá.
-(1117)This is Kaleb, from shift 1.  We lost. <==>Aquí Kaleb, del turno 1. Hemos perdido.-->Aqui é Kaleb, do turno 1. Perdemos.
-(1118)Sorenson!  Do you read?  It's Kaleb, Shift 1!  Sorenson! !  Where are you man?  Where's your team?!  Ah hell, I'll leave you this in log mode, comms are down.  I hope you get this.  We're with Ellie Langford's group.  We can't wait, these creatures are right on us, and they won't stay down. You guys better be right behind us, we're leaving a swarm of angry dead body parts behind us.    Where are you guys?   <==>¡Sorenson! ¿Me recibes? ¡Aquí Kaleb, turno 1! ¡Sorenson! ¿Dónde estás, hombre? ¡¿Dónde está tu equipo?! Oh, dios, te dejaré esto en modo de registro; hemos perdido las comunicaciones. Espero que lo recibas. Estamos con el grupo de Ellie Langford. No podemos esperar, tenemos a las criaturas encima, y no se detendrán. Más vale que vengáis por detrás de nosotros. Vamos a dejar un montón de miembros y articulaciones cabreadas a nuestro paso. ¿Dónde estáis tíos?-->Sorenson! Está me ouvindo? Aqui é Kaleb, turno 1! Sorenson! Onde você está, homem? Onde está sua equipe? Oh, Deus, vou te deixar isso em modo de registro; perdemos as comunicações. Espero receba isso. Estamos com o grupo de Ellie Langford. Não podemos esperar, as criaturas estão em cima de nós, e elas não vão parar. É melhor você vir atrás de nós. Estamos deixando um monte de cadáveres furiosos atrás de nós. Onde vocês estão?
+(1117)This is Kaleb, from shift 1.  We lost. <==>Aquí Kaleb, del turno 1. Hemos perdido.-->Aqui é Kaleb, do turno 1. Nós perdemos.
+(1118)Sorenson!  Do you read?  It's Kaleb, Shift 1!  Sorenson! !  Where are you man?  Where's your team?!  Ah hell, I'll leave you this in log mode, comms are down.  I hope you get this.  We're with Ellie Langford's group.  We can't wait, these creatures are right on us, and they won't stay down. You guys better be right behind us, we're leaving a swarm of angry dead body parts behind us.    Where are you guys?   <==>¡Sorenson! ¿Me recibes? ¡Aquí Kaleb, turno 1! ¡Sorenson! ¿Dónde estás, hombre? ¡¿Dónde está tu equipo?! Oh, dios, te dejaré esto en modo de registro; hemos perdido las comunicaciones. Espero que lo recibas. Estamos con el grupo de Ellie Langford. No podemos esperar, tenemos a las criaturas encima, y no se detendrán. Más vale que vengáis por detrás de nosotros. Vamos a dejar un montón de miembros y articulaciones cabreadas a nuestro paso. ¿Dónde estáis tíos?-->Sorenson! Está me ouvindo? Aqui é Kaleb, turno 1! Sorenson! Onde você está, homem? Onde está sua equipe? Oh, deus, vou deixar isso para você em modo de registro; perdemos as comunicações. Espero que receba essa mensagem. Estamos com o grupo de Ellie Langford. Não podemos esperar, as criaturas estão em cima de nós, e elas não vão parar. É bom que estejam bem atrás de nós, estamos deixando um monte de cadáveres desmembrados para trás. Onde vocês estão?
 (1119)No, no, I'll cover you while you make it.   They'll chase you down....before you can reach....the last bulkhead<==>No, no, yo te cubriré mientras avanzas. Te darán caza... antes de que llegues a... la última contención.-->Não, não, eu vou te cobrir enquanto você avança. Eles vão te caçar... antes que chegue até... a última contenção.
 (1120)12:05  3063 CASSINI TOWERS          DELAY  ALPHA<==>12:05  TORRES CASSINI 3063          RETR.  ALFA-->12:05  3063 TORRES CASSINI        ATRASADO  ALFA
 (1121)12:18  3224 GAMMA HUB               DELAY  ALPHA<==>12:18  NODO GAMMA 3224              RETR.  ALFA-->12:18  3224 ESTAÇÃO GAMA            ATRASADO  ALFA
@@ -1125,12 +1125,12 @@
 (1125)01:32  2242 SPOKE TRANSFER          DELAY  ALPHA<==>01:32  CAMBIO DE RADIAL 2242        RETR.  ALFA-->01:32  2242 RAIO DE TRANSFERÊNCIA    ATRASADO  ALFA
 (1126)01:46  2243 GAMMA HUB RB352         DELAY  OMEGA<==>01:46  NODO GAMMA RB352 2243        RETR.  OMEGA-->01:46  2243 ESTAÇÃO GAMA RB352      ATRASADO  OMEGA
 (1127)02:00  4333 TITAN HEIGHTS           DELAY  ALPHA<==>02:00  CUMBRES TITÁN 4333           RETR.  ALFA-->02:00  4333 REGIÕES ALTAS DE TITÃ             ATRASADO  ALFA
-(1128)02:00  9305 CONCOURSE DIST CENTRAL  DELAY  BETA<==>02:00  CONCOURSE DIST. CENTRAL 9305 RETR.  BETA-->02:00  9305 TERMINAL DIST. CENTRAL    ATRASADO  BETA
+(1128)02:00  9305 CONCOURSE DIST CENTRAL  DELAY  BETA<==>02:00  CONCOURSE DIST. CENTRAL 9305 RETR.  BETA-->02:00  9305 CONCOURSE DIST. CENTRAL    ATRASADO  BETA
 (1129)--:--  9271 GALILEO SQUARE          CANCE  -----<==>--:--  PLAZA GALILEO 9271           CANC.  ------->--:-- 9271 PRAÇA GALILEO         CANCELADO  -----
 (1130)What the hell was that?<==>¿Eh? ¿Qué coño ha sido eso?-->Mas que diabos foi isso?
-(1131)Oh God, do you hear them? They're coming in! They're coming in!<==>Oh, cielos, ¿los oyes? ¡Están entrando! ¡Están entrando!-->Oh Deus, você está ouvindo? Eles estão vindo! Eles estão vindo!
+(1131)Oh God, do you hear them? They're coming in! They're coming in!<==>Oh, cielos, ¿los oyes? ¡Están entrando! ¡Están entrando!-->Oh deus, você está ouvindo? Eles estão vindo! Eles estão vindo!
 (1132) This is so fucked up.<==>Esto es una mierda.--> Isso aqui é uma merda.
-(1133)This is a nightmare.  This can't be real.<==>Es una pesadilla. No puede ser real.-->Só pode ser um pesadelo.  Isso não pode ser real.
+(1133)This is a nightmare.  This can't be real.<==>Es una pesadilla. No puede ser real.-->Isso só pode ser um pesadelo.  Não pode ser real.
 (1134)Hold your fire, hold your fire!<==>¡Alto el fuego! ¡Alto el fuego!-->Pare de atirar, pare de atirar!
 (1135)No sign of Clarke yet, port hallways clear.  Moving onto starboard halls, over.<==>Sin señales de Clarke. Vestíbulos del puerto despejados. Avanzamos a los vestíbulos de estribor, cambio.-->Nenhum sinal de Clarke, vestíbulos do porto limpos.  Estamos avançando para os vestíbulos de estibordo, câmbio.
 (1136)We've swept starboard hallways, retuning to port, over.<==>Hemos despejado los vestíbulos de estribor, volvemos al puerto, cambio.-->Acabamos de passar pelos vestíbulos de estibordo, voltando ao porto, câmbio.
@@ -1156,23 +1156,23 @@
 (1156)Play any map mission description<==>Descripción de Jugar misión de cualquier mapa-->Descrição de jogar missão de qualquer mapa
 (1157)HACKER SUIT<==>TRAJE DE PIRATEO-->TRAJE HACKER
 (1158)GET EXCITED!<==>¡ENTUSIASMO!-->ENTUSIASMO!
-(1159)WE FAILED<==>HEMOS FRACASADO-->FALHAMOS
+(1159)WE FAILED<==>HEMOS FRACASADO-->FRACASSAMOS
 (1160)RIVET GUN<==>REMACHADORA-->REBITADEIRA
 (1161)primary fire: horizontal line cutter\nalternate fire: timed mine<==>disparo principal: rayo ancho horizontal \ndisparo secundaro: mina temporizada-->disparo principal: raio cortador horizontal\ndisparo secundário: mina temporizada
 (1162)slows enemy movement <==>Frena a los enemigos-->desacelera os movimentos dos inimigos
 (1163)Extremely Rare electronic component.  Sell at the store for credits.<==>Componente electrónico muy poco frecuente. Vender en el almacén para obtener créditos.-->Componente eletrônico extremamente raro. Venda na loja para obter créditos.
-(1164)Finish the game at any difficulty level to unlock the hard core difficulty setting.<==>Termina la partida en cualquier nivel de dificultad para desbloquear la dificultad Imposible.-->Finalize o jogo em qualquer nível de dificuldade para desbloquear a dificuldade impossível.
+(1164)Finish the game at any difficulty level to unlock the hard core difficulty setting.<==>Termina la partida en cualquier nivel de dificultad para desbloquear la dificultad Imposible.-->Termine o jogo em qualquer nível de dificuldade para desbloquear a dificuldade impossível.
 (1165)JAVELIN GUN<==>CAÑÓN JABALINA-->CANHÃO DE DARDOS
 (1166-IGUAIS)PLEASE REMOVE YOUR ITEM
 (1167)ACTIVE<==>ACTIVAR-->ATIVAR
-(1168)VERSUS LOBBY<==>PUNTO DE ENFRENTAMIENTO-->PONTO DE CONFRONTO
+(1168)VERSUS LOBBY<==>PUNTO DE ENFRENTAMIENTO-->PONTO DE ENFRENTAMENTO 
 (1169)RUN!<==>¡CORRE!-->CORRA!
 (1170)Activate<==>Activar-->Ativado
 (1171-REPETIDO)EMERGENCY<==>EMERGENCIA-->EMERGÊNCIA
 (1172)Chapter 12<==>Capítulo 12-->Capítulo 12 - Abrindo Caminho
 (1173)CLAW ENGAGED<==>PINZA ACOPLADA-->GARRA ACOPLADA
 (1174)Bring this schematic to the store to unlock the Javelin Gun.<==>Lleva este diagrama al almacén para desbloquear el cañón jabalina.-->Leve esse diagrama até a loja para desbloquear o canhão de dardos.
-(1175)Authorized CEC Employees Only<==>Solo empleados de CEC autorizados-->Somente os Empregados do CEC estão autorizados
+(1175)Authorized CEC Employees Only<==>Solo empleados de CEC autorizados-->Somente empregados do CEC estão autorizados
 (1176)Please Stand in Formation for Scan<==>Manténganse en fila para escáner-->Mantenha-se na fila para escanear
 (1177-REPETIDO)Please Stand in Formation for Scan<==>Manténganse en fila para escáner-->Mantenha-se na fila para escanear
 (1178-REPETIDO)Please Stand in Formation for Scan<==>Manténganse en fila para escáner-->Mantenha-se na fila para escanear
@@ -1194,13 +1194,13 @@
 (1194-REPETIDO)WARNING: VOLATILE<==>ATENCIÓN: VOLÁTIL-->ATENÇÃO: VOLÁTIL
 (1195)NO UNAUTHORIZED ACCESS<==>NO ACCEDER SIN AUTORIZACIÓN-->NÃO ENTRE SEM AUTORIZAÇÃO
 (1196-REPETIDO)NO UNAUTHORIZED ACCESS<==>NO ACCEDER SIN AUTORIZACIÓN-->NÃO ENTRE SEM AUTORIZAÇÃO
-(1197)Next stop: The Concourse. Over 150 shopping destinations to explore!<==>Próxima parada: The Concourse. ¡Más de 150 destinos de compras para explorar!-->Próxima Parada: O Terminal. Mais de 150 destinos de compras para explorar!
+(1197)Next stop: The Concourse. Over 150 shopping destinations to explore!<==>Próxima parada: The Concourse. ¡Más de 150 destinos de compras para explorar!-->Próxima parada: O Concourse. Mais de 150 destinos de compras para explorar!
 (1198-IGUAIS)1
 (1199)HAND CANNON<==>CAÑÓN DE MANO-->CANHÃO DE MÃO
-(1200)You guys alright up there?<==>¿Estáis bien ahí arriba?-->Está tudo bem aí em cima?
+(1200)You guys alright up there?<==>¿Estáis bien ahí arriba?-->Vocês estão bem aí em cima?
 (1201)No.<==>No-->Não.
-(1202)Shit, I think life support is out too.<==>Mierda, el soporte vital también falla.-->Merda, o suporte vital também está falhando.
-(1203)That's not good.<==>Eso no es bueno.-->Isso não é bom.
+(1202)Shit, I think life support is out too.<==>Mierda, el soporte vital también falla.-->Droga, o suporte vital também está falhando.
+(1203)That's not good.<==>Eso no es bueno.-->Isso não é nada bom.
 (1204-IGUAIS)Fly Ba
 (1205-IGUAIS)Jessing Chen
 (1206-IGUAIS)Orin Cheng
@@ -1212,7 +1212,7 @@
 (1212-IGUAIS)Jack Qiang
 (1213)PULSE ROUNDS<==>CARGAS DE IMPULSOS-->CARGAS DE IMPULSOS
 (1214-REPETIDO)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado ao matar o portador
-(1215)The Human team has orders from Tiedemann to deliver the firing coordinates to the Solar Array.<==>Los humanos tienen órdenes de Tiedemann de llevar las coordenadas de disparo al panel solar.-->Os humanos tem ordens de Tiedemann de levar as coordenadas de disparo ao Painel Solar.
+(1215)The Human team has orders from Tiedemann to deliver the firing coordinates to the Solar Array.<==>Los humanos tienen órdenes de Tiedemann de llevar las coordenadas de disparo al panel solar.-->Os humanos tem ordens de Tiedemann de levar as coordenadas de disparo ao painel solar.
 (1216-IGUAIS)o
 (1217-IGUAIS)z
 (1218)Restricted Access<==>Acceso restringido-->Acesso Restrito
@@ -1222,7 +1222,7 @@
 (1222)SECURITY ALERT<==>ALERTA DE SEGURIDAD-->ALERTA DE SEGURANÇA
 (1223-REPETIDO)Authorized Technicians Only<==>Solo técnicos autorizados-->Somente técnicos autorizados
 (1224-REPETIDO)Authorized Technicians Only<==>Solo técnicos autorizados-->Somente técnicos autorizados
-(1225)Please have ID visible<==>Tenga el ID visible-->Deixe o ID visível
+(1225)Please have ID visible<==>Tenga el ID visible-->Tenha o ID visível
 (1226-REPETIDO)Remember to Sync Your Rig<==>Recuerde sincronizar su DRI-->Lembre-se de sincronizar seu DRI
 (1227)ALPHA CLEARANCE ONLY<==>SOLO AUTORIZACIÓN ALFA-->SOMENTE AUTORIZAÇÃO ALFA
 (1228-REPETIDO)ALPHA CLEARANCE ONLY<==>SOLO AUTORIZACIÓN ALFA-->SOMENTE AUTORIZAÇÃO ALFA
@@ -1230,21 +1230,21 @@
 (1230)Maintain Proper Procedures<==>Mantenga los procedimientos adecuados-->Mantenha os procedimentos adequados
 (1231-REPETIDO)Remember to Sync Your Rig<==>Recuerde sincronizar su DRI-->Lembre-se de sincronizar seu DRI
 (1232)Please Follow Security Procedures<==>Siga los procedimientos de seguridad-->Siga os procedimentos de segurança
-(1233)WARNING: HIGH RADIATION<==>ATENCIÓN: RADIACIÓN ELEVADA-->ATENÇÃO: RADIAÇÃO ELEVADA
+(1233)WARNING: HIGH RADIATION<==>ATENCIÓN: RADIACIÓN ELEVADA-->ATENÇÃO: ALTA RADIAÇÃO
 (1234-REPETIDO)Remember to Sync Your Rig<==>Recuerde sincronizar su DRI-->Lembre-se de sincronizar seu DRI
 (1235-REPETIDO)ALPHA CLEARANCE ONLY<==>SOLO AUTORIZACIÓN ALFA-->SOMENTE AUTORIZAÇÃO ALFA
 (1236-REPETIDO)Check Temperature Control Units<==>Comprobar unidades de control de temperatura-->Verifique as unidades de controle de temperatura
 (1237)WARNING! EXTREME DANGER!<==>¡ALERTA! ¡PELIGRO EXTREMO!-->ALERTA! PERIGO EXTREMO!
-(1238)Subject and Administrator Only<==>Solo sujeto y administrador-->Somente sujeitos e Administradores
+(1238)Subject and Administrator Only<==>Solo sujeto y administrador-->Somente funcionários e administradores
 (1239-REPETIDO)WARNING! EXTREME DANGER!<==>¡ALERTA! ¡PELIGRO EXTREMO!-->ALERTA! PERIGO EXTREMO!
 (1240-IGUAIS)O
 (1241-IGUAIS)Z
 (1242)COMPLETED<==>COMPLETADO-->CONCLUÍDO
 (1243)necromorphs<==>Necromorfos-->necromorfos
 (1244-REPETIDO)PULSE ROUNDS<==>CARGAS DE IMPULSOS-->CARGAS DE IMPULSOS
-(1245)Game Lab<==>Laboratorio de juego-->Laboratório de jogo
+(1245)Game Lab<==>Laboratorio de juego-->Laboratório de Jogo
 (1246-IGUAIS)1
-(1247)Are you sure you wish to allow EA to contact you about EA products, news and events?<==>¿Seguro que quieres permitir a EA ponerse en contacto contigo para informarte de sus productos, noticias y eventos?-->Tem certeza que deseja que a EA entre em contato com você para te informar de seus produtos, notícias e eventos?
+(1247)Are you sure you wish to allow EA to contact you about EA products, news and events?<==>¿Seguro que quieres permitir a EA ponerse en contacto contigo para informarte de sus productos, noticias y eventos?-->Tem certeza que deseja que a EA entre em contato com você para informar sobre seus produtos, notícias e eventos?
 (1248-IGUAIS)Ken Domke
 (1249)audio<==>Sonido-->Som
 (1250)+{n}\nOBJECTIVE<==>+{n}\nOBJETIVO-->+{n}\nOBJETIVO
@@ -1254,7 +1254,7 @@
 (1254)Try Online Features for {d} days.<==>Prueba las funciones online durante {d} días.-->Experimente as funções online durante {d} dias.
 (1255-IGUAIS):
 (1256)KEY ITEMS<==>OBJ. CLAVE-->ITENS CHAVE
-(1257)Lead Animator<==>Jefe de animación-->Líder de Animação
+(1257)Lead Animator<==>Jefe de animación-->Chefe de Animação
 (1258)PAWNS<==>PEONES-->PEÕES
 (1259)EVACUATION SNAFU<==>EVACUACIÓN CAÓTICA-->EVACUAÇÃO CAÓTICA
 (1260)ILLEGAL EVACUATION<==>EVACUACIÓN ILEGAL-->EVACUAÇÃO ILEGAL
@@ -1282,7 +1282,7 @@
 (1282)match leaderboard<==>Marcador de la partida-->Pontuação do Jogo
 (1283)//save game<==>//Guardar partida-->//Salvar o Jogo
 (1284)[And there it is...]<==>[Y ahí está...]-->[E aqui está...]
-(1285)[What the hell is that?]<==>[¿Qué coño es eso?]-->[Que diabos é isso?]
+(1285)[What the hell is that?]<==>[¿Qué coño es eso?]-->[Que droga essa?]
 (1286)[Open fire!]<==>[¡Abrid fuego!]-->[Atire!]
 (1287)[Kendra! Power!]<==>[¡Isaac, sal de ahí! ¡Ya!]-->[Kendra! Energia!]
 (1288-IGUAIS)1
@@ -1299,10 +1299,10 @@
 (1299)Lighter<==>Iluminador-->Iluminador
 (1300)normal<==>Normal-->Normal
 (1301-IGUAIS)[ p.m.]
-(1302)HOUSE OFFICER\nLee Killeen\n\n09:30 - Baxter [Rm 407]\n09:45 - Fisk [Rm 408]\n10:00 - Hogan [Rm 407]\n10:15 - Hoshi [Rm 408]\n10:45 - Lehtonen [Rm 407]\n11:15 - Kress [Rm 408]\n11:30 - No new appointments<==>MÉDICO RESIDENTE\nLee Killeen\n\n09:30 - Baxter [Hab. 407]\n09:45 - Fisk [Hab. 408]\n10:00 - Hogan [Hab. 407]\n10:15 - Hoshi [Hab. 408]\n10:45 - Lehtonen [Hab. 407]\n11:15 - Kress [Hab. 408]\n11:30 - No hay más citas-->MÉDICO RESIDENTE\nLee Killeen\n\n09:30 - Baxter [Hab. 407]\n09:45 - Fisk [Hab. 408]\n10:00 - Hogan [Hab. 407]\n10:15 - Hoshi [Hab. 408]\n10:45 - Lehtonen [Hab. 407]\n11:15 - Kress [Hab. 408]\n11:30 - Não há mais compromisso
+(1302)HOUSE OFFICER\nLee Killeen\n\n09:30 - Baxter [Rm 407]\n09:45 - Fisk [Rm 408]\n10:00 - Hogan [Rm 407]\n10:15 - Hoshi [Rm 408]\n10:45 - Lehtonen [Rm 407]\n11:15 - Kress [Rm 408]\n11:30 - No new appointments<==>MÉDICO RESIDENTE\nLee Killeen\n\n09:30 - Baxter [Hab. 407]\n09:45 - Fisk [Hab. 408]\n10:00 - Hogan [Hab. 407]\n10:15 - Hoshi [Hab. 408]\n10:45 - Lehtonen [Hab. 407]\n11:15 - Kress [Hab. 408]\n11:30 - No hay más citas-->MÉDICO RESIDENTE\nLee Killeen\n\n09:30 - Baxter [Hab. 407]\n09:45 - Fisk [Hab. 408]\n10:00 - Hogan [Hab. 407]\n10:15 - Hoshi [Hab. 408]\n10:45 - Lehtonen [Hab. 407]\n11:15 - Kress [Hab. 408]\n11:30 - Não há mais marcações
 (1303)HOUSE OFFICER\nRebecca Campbell\n\n09:30 - Niven [Rm 310]\n09:45 - Rocklynne [Rm 311]\n10:00 - Tucker [Rm 312]\n10:30 - Womack [Rm 310]\n10:45 - Zebrowski [Rm 311]\n11:00 - Stiegler [Rm 312]\n11:15 - St. Clair [Rm 310]<==>MÉDICO RESIDENTE\nRebecca Campbell\n\n09:30 - Niven [Hab. 310]\n09:45 - Rocklynne [Hab. 311]\n10:00 - Tucker [Hab. 312]\n10:30 - Womack [Hab. 310]\n10:45 - Zebrowski [Hab. 311]\n11:00 - Stiegler [Hab. 312]\n11:15 - St. Clair [Hab. 310]-->MÉDICO RESIDENTE\nRebecca Campbell\n\n09:30 - Niven [Hab. 310]\n09:45 - Rocklynne [Hab. 311]\n10:00 - Tucker [Hab. 312]\n10:30 - Womack [Hab. 310]\n10:45 - Zebrowski [Hab. 311]\n11:00 - Stiegler [Hab. 312]\n11:15 - St. Clair [Hab. 310]
 (1304)HOUSE OFFICER\nGordon Mackay\n\nExam Rm 01 [Available]\nExam Rm 02 [Occupied]\nExam Rm 03 [Occupied]\nExam Rm 04 [Available]\nExam Rm 05 [Occupied]\nExam Rm 06 [Occupied]\nExam Rm 07 [Occupied]<==>MÉDICO RESIDENTE\nGordon Mackay\n\nSala de expl. 01 [Disp.]\nSala de expl. 02 [Ocupada]\nSala de expl. 03 [Ocupada]\nSala de expl. 04 [Disp.]\nSala de expl. 05 [Ocupada]\nSala de expl. 06 [Ocupada]\nSala de expl. 07 [Ocupada]-->MÉDICO RESIDENTE\nGordon Mackay\n\nSala de expl. 01 [Disponível]\nSala de expl. 02 [Ocupada]\nSala de expl. 03 [Ocupada]\nSala de expl. 04 [Disponível]\nSala de expl. 05 [Ocupada]\nSala de expl. 06 [Ocupada]\nSala de expl. 07 [Ocupada]
-(1305)HOUSE OFFICER\nKiefer Shanks\n\nBAY 01 [Offline]\nBAY 02 [Occupied]\nBAY 03 [Occupied]\nBAY 04 [Transfer]\nNot admitting at this time.<==>MÉDICO RESIDENTE\nKiefer Shanks\n\nCAMA 01 [Libre]\nCAMA 02 [Libre]\nCAMA 03 [Libre]\nCAMA 04 [Traslado]\nNo admite ingresos ahora mismo.-->MÉDICO RESIDENTE\nKiefer Shanks\n\nCAMA 01 [Livre]\nCAMA 02 [Ocupada]\nCAMA 03 [Ocupada]\nCAMA 04 [Translado]\nNão admite mais ingressos agora mesmo.
+(1305)HOUSE OFFICER\nKiefer Shanks\n\nBAY 01 [Offline]\nBAY 02 [Occupied]\nBAY 03 [Occupied]\nBAY 04 [Transfer]\nNot admitting at this time.<==>MÉDICO RESIDENTE\nKiefer Shanks\n\nCAMA 01 [Libre]\nCAMA 02 [Libre]\nCAMA 03 [Libre]\nCAMA 04 [Traslado]\nNo admite ingresos ahora mismo.-->MÉDICO RESIDENTE\nKiefer Shanks\n\nLEITO 01 [Livre]\nLEITO 02 [Ocupado]\nLEITO 03 [Ocupado]\nLEITO 04 [Translado]\nNão admitindo ingressos agora.
 (1306)HOUSE OFFICER\nMark Basedow\n\n09:30 - Low [Rm 501]\n10:30 - Jakes [Rm 502]\n11:00 - Gallun [Rm 501]\n13:30 - Friesner [Rm 502]\n14:00 - Cook [Rm 501]\n14:45 - Barton [Rm 502]\n15:30 - Biggle [Rm 501]<==>MÉDICO RESIDENTE\nMark Basedow\n\n09:30 - Low [Hab. 501]\n10:30 - Jakes [Hab. 502]\n11:00 - Gallun [Hab. 501]\n13:30 - Friner [Hab. 502]\n14:00 - Cook [Hab. 501]\n14:45 - Barton [Hab. 502]\n15:30 - Biggle [Hab. 501]-->MÉDICO RESIDENTE\nMark Basedow\n\n09:30 - Low [Hab. 501]\n10:30 - Jakes [Hab. 502]\n11:00 - Gallun [Hab. 501]\n13:30 - Friesner [Hab. 502]\n14:00 - Cook [Hab. 501]\n14:45 - Barton [Hab. 502]\n15:30 - Biggle [Hab. 501]
 (1307)rivet gun<==>Remachadora-->rebitadeira
 (1308-IGUAIS)1
@@ -1322,9 +1322,9 @@
 (1322-IGUAIS)Xbox LIVE Party
 (1323)gamer card<==>Tarjeta de jugador-->Cartão de Jogador
 (1324)The Hacker Suit grants unique functionality to the wearer:\n• [c=CUSTOM2] Hacking Bonus [c=RESET]: hack consoles require one less stage to complete.\nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de pirateo ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM2] Bonificación de pirateo [c=RESET]: una fase menos que completar para piratear las consolas.\nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje Hacker oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM2] Bônus de Hacking [c=RESET]: uma fase a menos para completar o hackeamento dos consoles.\nSua compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI conserva a maior melhora de blindagem e inventário.
-(1325)Rapid-fire rivet tool.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire rivets.  Rapid fire is enabled on this model.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to discharge embedded rivets.  Warning: impalement damage is possible.<==>Herramienta de remache de disparo rápido.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar roblones. Este modelo ofrece disparo rápido.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para descargar roblones incrustados. Atención: puede producir daños por empalamiento.-->Ferramenta de rebite de disparo rápido.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar rebites.  Esse modelo oferece disparo rápido.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar rebites incrustados.  Atenção: pode causar danos por empalamento.
+(1325)Rapid-fire rivet tool.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire rivets.  Rapid fire is enabled on this model.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to discharge embedded rivets.  Warning: impalement damage is possible.<==>Herramienta de remache de disparo rápido.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar roblones. Este modelo ofrece disparo rápido.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para descargar roblones incrustados. Atención: puede producir daños por empalamiento.-->Ferramenta de rebite de disparo rápido.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar rebites.  Esse modelo oferece disparo rápido.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar rebites incrustados.  Atenção: pode produzir danos por empalamento.
 (1326)President<==>Presidente-->Presidente
-(1327)ORIENT to GROUND<==>ORIENTAR A SUELO-->ORIENTAR AO CHÃO
+(1327)ORIENT to GROUND<==>ORIENTAR A SUELO-->ORIENTAR PELO CHÃO
 (1328)leave playgroup<==>Abandonar-->Sair do grupo de jogo
 (1329-IGUAIS)Craig Matchett
 (1330-IGUAIS)Collin Stiner
@@ -1333,13 +1333,13 @@
 (1333)stats<==>Estadísticas-->Estatísticas
 (1334)free trial expired<==>versión de prueba gratuita caducada-->Versão de avaliação gratuita expirada
 (1335-IGUAIS)ATM
-(1336)Put extra items in the safe at the store.<==>Coloca más objetos en la caja fuerte del almacén.-->Coloque mais objetos no cofre da loja.
+(1336)Put extra items in the safe at the store.<==>Coloca más objetos en la caja fuerte del almacén.-->Coloque mais itens no cofre da loja.
 (1337)THERMITE<==>EXPLOSIVO TERMITA-->EXPLOSIVO TERMITA
 (1338)prevent the priming of the detonator<==>Evita la activación del detonador.-->Evite a ativação do detonador
 (1339)+{n}\nASSIST<==>+{n}\nAYUDA-->+{n}\nAJUDA
 (1340)POWER LOCK\nENABLED<==>BLOQUEO DE ENERGÍA\nACTIVADO-->BLOQUEIO DE ENERGIA\nATIVADO
 (1341)OVERRIDE?<==>¿ANULAR?-->DESATIVAR?
-(1342)Use 1 power node to override lock<==>Utilizar 1 nodo de energía para anular el bloqueo-->Use 1 nodo de energia para desativar o bloqueio
+(1342)Use 1 power node to override lock<==>Utilizar 1 nodo de energía para anular el bloqueo-->Usar 1 nodo de energia para desativar o bloqueio
 (1343)CONTINUE?<==>¿CONTINUAR?-->CONTINUAR?
 (1344)This will use 1 power node<==>Se utilizará 1 nodo de energía-->Será utilizado um nodo de energia
 (1345)YES<==>SÍ-->SIM
@@ -1349,9 +1349,9 @@
 (1349-IGUAIS)Marcel Elsner
 (1350)Vintage Elite<==>Vintage de élite-->Vintage de Elite
 (1351-IGUAIS)INTERSTELLAR TOOLS OF THE TRADE\n\nThe Demise of Schofield Tools\n\nTurmoil in the mining industry today as veteran equipment maker Schofield Tools was found guilty on all counts of fraud and mutiny.  Mutiny is not usually applicable in commercial cases, but due to the extreme penetration of Schofield Tool's products throughout the USG fleet, a "defacto" exception was made by Guild courts.\nTrouble started earlier last year when Schofield Tools was purchased by the Arnold Conglomerate in a hostile takeover.  Almost immediately, minor clauses in Guild contracts were controversially re-interpreted to the tune of trillions of credits owed the Conglomerate.  The conflict quickly escalated to the charge of mutiny.\nThen, as reported last month, the Arnold Conglomerate vanished overnight in a puff of accounting irregularities.  Arnold officials have since vanished, leaving Schofield Tools holding the bag for the fraud charges.\nThe courts have ordered Schofield Tools to divest all assets to Timson Tools, their closest Guild-licensed competitor.  The only asset allowed to remain in the hands of Schofield Tools will be their small pinecone production facility on Uranus.
-(1352)Electrocution Spears for the Javelin Gun.\n - Inventory Slot Stack Size: 10<==>Lanzas de electrocución para el cañón jabalina.\n - Tamaño de bloque de ranuras de inventario: 10-->Dardos de eletrocussão do Canhão De Dardos.\n - Quantidade máxima armazenada em um espaço do inventário: 10
+(1352)Electrocution Spears for the Javelin Gun.\n - Inventory Slot Stack Size: 10<==>Lanzas de electrocución para el cañón jabalina.\n - Tamaño de bloque de ranuras de inventario: 10-->Dardos de eletrocussão para o canhão de dardos.\n - Quantidade máxima armazenada em um espaço do inventário: 10
 (1353)BATCH MIXER<==>MEZCLADORA-->MESCLADORA
-(1354)Ellie!  Your hatch is being blocked by a giant tentacle.  It's wrapped around a big chemical tank.<==>¡Ellie! Un tentáculo gigante bloquea tu escotilla. Está enrollado alrededor de un gran depósito químico.-->Ellie! Um tentáculo gigante está bloqueando sua escotilha. Está enrolado ao redor de um grande depósito de produtos químicos.
+(1354)Ellie!  Your hatch is being blocked by a giant tentacle.  It's wrapped around a big chemical tank.<==>¡Ellie! Un tentáculo gigante bloquea tu escotilla. Está enrollado alrededor de un gran depósito químico.-->Ellie! Um tentáculo gigante está bloqueando seu caminho. Está enrolado ao redor de um enorme depósito de produtos químicos.
 (1355)LINE GUN<==>CAÑÓN LINEAL-->CANHÃO LINEAR
 (1356)Primary Fire DAM +20% / SPD +20%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to go bang bang.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to go pew pew pew.\nReal space.  Real terror.  Real foam.<==>DÑO disparo principal: +20% / VEL: +20%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para hacer pum pum.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para hacer piu piu piu.\nEspacio real. Terror real. Espuma real.-->DANO disparo principal DAN +20% / VEL +20%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para fazer bang bang.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para fazer piu piu piu.\nEspaço real. Terror Real. Espuma Real.
 (1357)privacy policy<==>Política de privacidad-->Política de Privacidade
@@ -1364,7 +1364,7 @@
 (1364-IGUAIS)+
 (1365-IGUAIS)+
 (1366)   Find an alternate route through Hydrogen Processing.<==>Busca una ruta alternativa a través del procesamiento de hidrógeno.-->   Encontre uma rota alternartiva através do processamento de hidrogênio.
-(1367)QA Compliance Project Lead<==>Jefe de proyecto de validación de control de calidad-->Líder de Projeto de Validação de Controle de Qualidade
+(1367)QA Compliance Project Lead<==>Jefe de proyecto de validación de control de calidad-->Chefe do Projeto de Validação do Controle de Qualidade
 (1368-IGUAIS)1
 (1369-REPETIDO)LINE RACKS<==>MUNICIÓN LINEAL-->MUNIÇÃO LINEAR
 (1370)FORCE ENERGY<==>CARGA DE CAÑÓN ENERGÍA-->CARGA DE CANHÃO DE ENERGIA
@@ -1378,7 +1378,7 @@
 (1378)match bonus<==>Bonificación de la partida-->Bônus da partida
 (1379)Technical Artists<==>Diseñadores técnicos-->Artistas Técnicos
 (1380)Solid Army Green<==>Verde militar liso-->Verde Militar Liso
-(1381)Environment Art Lead <==>Jefe de diseño de entornos-->Líder de Artes do Cenário
+(1381)Environment Art Lead <==>Jefe de diseño de entornos-->Chefe de Artes do Cenário
 (1382)///save slot selection<==>///selección de ranura de guardado-->///seleção de espaço para salvamento
 (1383)TIMER<==>CRONÓMETRO-->CRONÔMETRO
 (1384)BASKETBALL CONTROL<==>CONTROL DE BALONCESTO-->CONTROLE DE BASQUETE
@@ -1397,7 +1397,7 @@
 (1397-IGUAIS)Rick Cramer
 (1398)achievements<==>Logros-->Conquistas
 (1399)HIT POINTS<==>RESISTENCIA-->PONTOS
-(1400)To anyone who may find this transmission:\nThere are people, even some of my own staff, who say I am a monster for what I brought to this station. They say the Marker is manipulative - that it influenced my decisions. They don't understand that what I did, I did for this community - for our species. Titan Station was a dead husk before I breathed life back into it with government research grants. That research - into unimaginable sources of energy, into manufacturing techniques and efficiencies far beyond all previous understanding - is the only hope that remains for mankind. We have relied on destructive planetcracking for far too long and now we can no longer sustain ourselves. We need the Markers to survive. If we fail in our efforts to understand them, there is no hope left for humanity.\n\nHans Tiedemann\nDirector of Operations\nEarth Government Colonial Alliance<==>A cualquiera que encuentre esta transmisión:\nHay personas, incluso algunas de mi plantilla, que dicen que soy un monstruo por lo que he traído a esta estación. Dicen que la Efigie es manipuladora, que ha influido en mis decisiones. No entienden que lo que hice, lo hice por esta comunidad, por nuestra especie. La estación Titán estaba muerta hasta que yo le devolví la vida con las becas de investigación del gobierno. Esa investigación, sobre fuentes de energía inimaginables, técnicas de fabricación y rendimientos que escapan a cualquier comprensión anterior, es la única esperanza que le queda a la humanidad. Hemos confiado en la extracción planetaria destructiva demasiado tiempo y ahora ya no podemos mantenernos. Necesitamos las Efigies para sobrevivir. Si fracasamos en nuestros intentos por comprenderlas, la raza humana está perdida.\n\nHans Tiedemann\nDirector de operaciones\nAlianza colonial del gobierno de la Tierra-->Para qualquer um que encontrar essa transmissão:\nHá pessoas, incluindo algumas da minha equipe, que dizem que eu sou um monstro por tê-los trazido à essa estação. Dizem que o Marker é manipulador - que está influenciando minhas decisões. Eles não entendem que o que fiz, fiz por essa comunidade - pela nossa espécie. A estação Titã estava morta até que eu a trouxe de volta à vida com as pesquisas do governo. Essa pesquisa - sobre fontes de energia inimagináveis, técnicas de fabricação e rendimentos muito além de toda compreensão anterior - é a única esperança que resta para a humanidade. Estamos confiando na extração planetária destrutiva a muito tempo e agora não podemos mais sustentar a nós mesmos. Precisamos dos Markers para sobreviver. Se fracassarmos nos nossos esforços para compreendê-los, a humanidade está perdida.\n\nHans Tiedemann\nDiretor de Operações\nAliança Colonial do Governo da Terra.
+(1400)To anyone who may find this transmission:\nThere are people, even some of my own staff, who say I am a monster for what I brought to this station. They say the Marker is manipulative - that it influenced my decisions. They don't understand that what I did, I did for this community - for our species. Titan Station was a dead husk before I breathed life back into it with government research grants. That research - into unimaginable sources of energy, into manufacturing techniques and efficiencies far beyond all previous understanding - is the only hope that remains for mankind. We have relied on destructive planetcracking for far too long and now we can no longer sustain ourselves. We need the Markers to survive. If we fail in our efforts to understand them, there is no hope left for humanity.\n\nHans Tiedemann\nDirector of Operations\nEarth Government Colonial Alliance<==>A cualquiera que encuentre esta transmisión:\nHay personas, incluso algunas de mi plantilla, que dicen que soy un monstruo por lo que he traído a esta estación. Dicen que la Efigie es manipuladora, que ha influido en mis decisiones. No entienden que lo que hice, lo hice por esta comunidad, por nuestra especie. La estación Titán estaba muerta hasta que yo le devolví la vida con las becas de investigación del gobierno. Esa investigación, sobre fuentes de energía inimaginables, técnicas de fabricación y rendimientos que escapan a cualquier comprensión anterior, es la única esperanza que le queda a la humanidad. Hemos confiado en la extracción planetaria destructiva demasiado tiempo y ahora ya no podemos mantenernos. Necesitamos las Efigies para sobrevivir. Si fracasamos en nuestros intentos por comprenderlas, la raza humana está perdida.\n\nHans Tiedemann\nDirector de operaciones\nAlianza colonial del gobierno de la Tierra-->Para qualquer um que encontrar essa transmissão:\nHá pessoas, incluindo algumas da minha equipe, que dizem que eu sou um monstro por tê-los trazido à essa estação. Dizem que o Marker é manipulador - que está influenciando minhas decisões. Eles não entendem que o que fiz, fiz por essa comunidade - pela nossa espécie. A estação Titã estava morta até que eu a trouxe de volta à vida com as pesquisas do governo. Essa pesquisa - sobre fontes de energia inimagináveis, técnicas de fabricação e rendimentos muito além de toda compreensão anterior - é a única esperança que resta para a humanidade. Estamos confiando na extração planetária destrutiva a muito tempo e agora já não podemos mais sustentar a nós mesmos. Precisamos dos Markers para sobreviver. Se fracassarmos nos nossos esforços para compreendê-los, a humanidade está perdida.\n\nHans Tiedemann\nDiretor de Operações\nAliança Colonial do Governo da Terra.
 (1401) <==>Comienza el siguiente capítulo para Isaac Clarke.-->Começa o próximo capítulo para Isaac Clarke.
 (1402-IGUAIS)Heather Alekson
 (1403-IGUAIS)Tolga Kart
@@ -1407,31 +1407,31 @@
 (1407-IGUAIS)9
 (1408-IGUAIS)(
 (1409-IGUAIS)(
-(1410)The drill might just be our ticket out of here! Now, if only it would start up...<==>¡El taladro podría constituir nuestro pasaporte para salir de aquí! Si se pusiese en marcha...-->A escavadeira pode ser nosso passaporte para sairmos daqui! Agora, isso se ela funcionar...
+(1410)The drill might just be our ticket out of here! Now, if only it would start up...<==>¡El taladro podría constituir nuestro pasaporte para salir de aquí! Si se pusiese en marcha...-->A escavadeira pode ser nosso passaporte para sairmos daqui! Isso se ela funcionar...
 (1411)Bring this schematic to the store to unlock the Ripper Blades.<==>Lleva este diagrama al almacén para desbloquear la carga de sierra trituradora.-->Leve esse diagrama até a loja para desbloquear a serra trituradora.
 (1412)CANCEL<==>CANCELAR-->CANCELAR
-(1413)Activation acknowledged.  I'm en route to target zero.  Stand by for further reports.<==>Activación confirmada. De camino al objetivo cero. Seguiré informando.-->Ativação confirmada.  Estou a caminho do objetivo zero.  Aguarde por novas informações.
+(1413)Activation acknowledged.  I'm en route to target zero.  Stand by for further reports.<==>Activación confirmada. De camino al objetivo cero. Seguiré informando.-->Ativação confirmada.  Estou a caminho do objetivo zero.  Aguarde novas informações.
 (1414)Final Report.  Partner situation resolved.  Target zero awaits, and I'm on my way.  Altman be praised.<==>Informe final. Situación de compañero resuelta. El objetivo cero espera, y estoy en camino. Alabado sea Altman.-->Informe Final.  Situação do parceiro resolvida.  O objetivo zero aguarda, e estou à caminho.  Altman seja louvado.
-(1415)Report number two.  Making progress, but can't get away from my partner without arousing suspicion.  I'll figure something out.<==>Informe número dos. Realizo progresos, pero no puedo alejarme de mi compañero sin levantar sospechas. Intentaré buscar una solución.-->Informe número dois.  Fazendo progressos, mas não posso ficar longe do meu parceiro sem levantar suspeitas.  Eu vou tentar encontrar uma solução.
-(1416) Report Three.  The outbreak is seriously hampering my progress, but I expect to reach target zero soon.  Stand by.<==>Informe três. El brote entorpece gravemente mis avances, pero espero alcanzar pronto el objetivo cero. Seguiré informando.-->Informe três.  A epidemia está prejudicando seriamente meu progresso, mas eu espero alcançar o objetivo zero em breve.  Seguirei informando.
+(1415)Report number two.  Making progress, but can't get away from my partner without arousing suspicion.  I'll figure something out.<==>Informe número dos. Realizo progresos, pero no puedo alejarme de mi compañero sin levantar sospechas. Intentaré buscar una solución.-->Informe número dois.  Estou fazendo progressos, mas não posso ficar longe do meu parceiro sem levantar suspeitas. Vou pensar em alguma coisa.
+(1416) Report Three.  The outbreak is seriously hampering my progress, but I expect to reach target zero soon.  Stand by.<==>Informe três. El brote entorpece gravemente mis avances, pero espero alcanzar pronto el objetivo cero. Seguiré informando.-->Informe três.  A epidemia está prejudicando seriamente meu progresso, mas espero alcançar o objetivo zero em breve.  Seguirei informando.
 (1417)Click [LStick]<==>Haz clic en [LStick].-->Pressione [LStick]
 (1418)a/v settings<==>Configuración A/V-->Configurar A/V
-(1419)EVERYTHING YOU NEED TO BE PREPARED FOR CONVERGENCE<==>TODO LO QUE NECESITAS PARA ESTAR LISTO PARA LA CONVERGENCIA-->TUDO QUE VOCÊ PRECISA PARA ESTAR PRONTO PARA A CONVERGÊNCIA
+(1419)EVERYTHING YOU NEED TO BE PREPARED FOR CONVERGENCE<==>TODO LO QUE NECESITAS PARA ESTAR LISTO PARA LA CONVERGENCIA-->TUDO QUE VOCÊ PRECISA PARA ESTAR PREPARADO PARA A CONVERGÊNCIA
 (1420)subtitles<==>Subtítulos-->Legendas
-(1421)Listen up, this is Sorensen from CEC.   Cut off their limbs!  It's the only way they go down!  It's their limbs, that's the secret!  Comms are down, we can't get a broadcast out, so tell everyone you see!  <==>Atención, aquí Sorenson, de CEC. ¡Cercenadles las extremidades! ¡Es la única forma de abatirlos! ¡Sus extremidades son el punto débil! ¡Hemos perdido las comunicaciones, no podemos transmitir, así que contádselo a todo el que veáis!-->Atenção, aqui é Sorensen, do CEC.   Corte seus membros! É a única maneira de abatê-los!  Seus membros são seu ponto fraco!  Perdemos as comunicações, não podemos transmitir, então diga isso a todos que encontrar!
+(1421)Listen up, this is Sorensen from CEC.   Cut off their limbs!  It's the only way they go down!  It's their limbs, that's the secret!  Comms are down, we can't get a broadcast out, so tell everyone you see!  <==>Atención, aquí Sorenson, de CEC. ¡Cercenadles las extremidades! ¡Es la única forma de abatirlos! ¡Sus extremidades son el punto débil! ¡Hemos perdido las comunicaciones, no podemos transmitir, así que contádselo a todo el que veáis!-->Atenção, aqui é Sorensen, do CEC.   Corte seus membros! É a única maneira de abatê-los!  Seus membros são seu ponto fraco!  Perdemos as comunicações, não podemos transmitir, por isso conte isso a todos que encontrar!
 (1422)Strategically Dismember Your Friends In Multiplayer<==>Cercena estratégicamente a tus amigos en Multijugador-->Desmebre estrategicamente seus amigos no modo vários jogadores
 (1423)any map<==>Cualquier mapa-->qualquer mapa
 (1424)ANY MAP<==>CUALQUIER MAPA-->QUALQUER MAPA
 (1425-REPETIDO)pack<==>jauría-->matilha 
-(1426)Boris, you read me? The warehouse filter's been broken for 3 days.  THREE DAYS no one cares about us.  Damn supervisors, do you think they'd let those layoffs leave them breathing their own stink for 3 days?  Me and the guys worked out a deal with gamma sector repair shift, they'll sneak over here on their lunch break and help us out.  I need you to ghost out their RIG's while they're here.  Call me and confirm.  Hatchins out.<==>Boris, ¿me recibes? El filtro del almacén lleva 3 días roto. Hace TRES DÍAS que nadie se preocupa de nosotros. Malditos supervisores, ¿tú crees que a esos les dejarían respirando su propio hedor durante 3 días? Los chicos y yo hemos hecho un trato con el turno de reparación del sector gamma; vendrán hasta aquí en la hora de la comida y nos ayudarán a salir. Necesito que hagas desaparecer sus DRI mientras están aquí. Llámame para confirmar. Hatchins, corto.-->Boris, está me ouvindo? O filtro do armazém quebrou faz três dias.  Faz três dias que ninguém se preocupa conosco.  Malditos supervisores, você acha que eles ficariam respirando seu próprio fedor durante três dias?  Eu e os garotos fizemos um trato com o turno de reparação do setor gama; eles virão aqui na sua hora de almoço e nos ajudarão a sair.  Preciso que você faça os DRI deles desaparecer enquanto estiverem aqui.  Me ligue para confirmar.  Hatchins, desligo.
-(1427)Where did those patients go?<==>¿Dónde están esos pacientes?-->Para onde esses pacientes foram?
+(1426)Boris, you read me? The warehouse filter's been broken for 3 days.  THREE DAYS no one cares about us.  Damn supervisors, do you think they'd let those layoffs leave them breathing their own stink for 3 days?  Me and the guys worked out a deal with gamma sector repair shift, they'll sneak over here on their lunch break and help us out.  I need you to ghost out their RIG's while they're here.  Call me and confirm.  Hatchins out.<==>Boris, ¿me recibes? El filtro del almacén lleva 3 días roto. Hace TRES DÍAS que nadie se preocupa de nosotros. Malditos supervisores, ¿tú crees que a esos les dejarían respirando su propio hedor durante 3 días? Los chicos y yo hemos hecho un trato con el turno de reparación del sector gamma; vendrán hasta aquí en la hora de la comida y nos ayudarán a salir. Necesito que hagas desaparecer sus DRI mientras están aquí. Llámame para confirmar. Hatchins, corto.-->Boris, você está me ouvindo? O filtro do armazém está quebrado há três dias.  Faz três dias que ninguém se preocupa conosco.  Malditos supervisores, você acha que eles ficariam respirando seu próprio fedor durante três dias?  Eu e os garotos fizemos um trato com o turno de reparação do setor gamma; eles virão aqui na sua hora de almoço e nos ajudarão a sair.  Preciso que você faça os DRI deles desaparecerem enquanto estiverem aqui.  Me ligue para confirmar.  Hatchins, desligo.
+(1427)Where did those patients go?<==>¿Dónde están esos pacientes?-->Para onde foram esses pacientes?
 (1428)Tests? What kind of tests?<==>¿Pruebas? ¿Qué clase de pruebas?-->Avaliações? Que tipo de avaliações?
 (1429)      Disable the security mainframe.<==>Desactiva el ordenador central de seguridad.-->      Desative o servidor da segurança.
 (1430-IGUAIS)Robert Kyle
 (1431-IGUAIS)Eduardo Rivera Sanchez
 (1432-IGUAIS)1
 (1433)Senior Technical Artist<==>Diseñador técnico sénior-->Artista Técnico Sênior 
-(1434)Free Trial Already Activated<==>Versión de prueba gratuita ya activada-->Versão de avaliação gratuita ativada
+(1434)Free Trial Already Activated<==>Versión de prueba gratuita ya activada-->Versão de avaliação gratuita já ativada
 (1435)Lighters<==>Iluminadores-->Iluminadores
 (1436-REPETIDO)Unlocked by special promotion<==>Desbloqueado por promoción especial-->Desbloqueado por promoção especial
 (1437-IGUAIS)1
@@ -1455,7 +1455,7 @@
 (1455)Chapter 15<==>Capítulo 15-->Capítulo 15:\nFim da Linha
 (1456)Chapter 16<==>Capítulo 16-->Capítulo 16
 (1457)Press [RDUp] when stasis is low.<==>Pulsa [RDUp] para recuperar estabilización.-->Pressione [RDUp] para recuperar estabilização.
-(1458)This is Gabe Weller.    If anyone finds this, our chain of command has broken, starting at the top. Tiedemann's order to "kill all key subjects" is lunacy, he means to kill all the patients in the hospital!  I'm abandoning orders and heading there now to defend Lexine.  I need help stopping Captain Forrester before he can reach her.  Don't listen to Tiedemann, he's lost it.   Weller out.<==>Soy Gabe Weller. Si alguien encuentra esto, informo de que la cadena de mando se ha roto desde lo más alto. La orden de Tiedemann de "matar a todos los sujetos clave" es una locura; ¡lo que quiere es matar a todos los pacientes del hospital! No tengo intención de cumplir las órdenes y me dirigiré hacia allí para proteger a Lexine. Necesito ayuda para detener al capitán Forrester antes de que la encuentre. No escuchéis a Tiedemann. Se ha vuelto loco. Weller, corto.-->Aqui é Gabe Weller. Se alguém encontrar isso, informo que a cadeia de comando se rompeu, começando pelo topo. A ordem de Tiedemann de "matar todos os sujeitos chave" é uma loucura, ele quer matar todos os pacientes do hospital!  Não tenho a intenção de seguir as ordens e estou indo proteger a Lexine.  Preciso de ajuda para deter o capitão Forrester antes que ele a encontre.  Não escutem o Tiedemann, ele está louco.   Weller, desligo.
+(1458)This is Gabe Weller.    If anyone finds this, our chain of command has broken, starting at the top. Tiedemann's order to "kill all key subjects" is lunacy, he means to kill all the patients in the hospital!  I'm abandoning orders and heading there now to defend Lexine.  I need help stopping Captain Forrester before he can reach her.  Don't listen to Tiedemann, he's lost it.   Weller out.<==>Soy Gabe Weller. Si alguien encuentra esto, informo de que la cadena de mando se ha roto desde lo más alto. La orden de Tiedemann de "matar a todos los sujetos clave" es una locura; ¡lo que quiere es matar a todos los pacientes del hospital! No tengo intención de cumplir las órdenes y me dirigiré hacia allí para proteger a Lexine. Necesito ayuda para detener al capitán Forrester antes de que la encuentre. No escuchéis a Tiedemann. Se ha vuelto loco. Weller, corto.-->Aqui é Gabe Weller. Se alguém encontrar isso, informo que a cadeia de comando se rompeu, começando pelo topo. A ordem de Tiedemann de "matar todos os sujeitos chave" é uma loucura, ele quer matar todos os pacientes do hospital!  Não tenho a intenção de cumprir as ordens e estou indo proteger a Lexine.  Preciso de ajuda para deter o capitão Forrester antes que ele a encontre.  Não escutem o Tiedemann, ele está louco.   Weller, desligo.
 (1459-REPETIDO)This is Gabe Weller.    If anyone finds this, our chain of command has broken, starting at the top. Tiedemann's order to "kill all key subjects" is lunacy, he means to kill all the patients in the hospital!  I'm abandoning orders and heading there now to defend Lexine.  I need help stopping Captain Forrester before he can reach her.  Don't listen to Tiedemann, he's lost it.   Weller out.<==>Soy Gabe Weller. Si alguien encuentra esto, informo de que la cadena de mando se ha roto desde lo más alto. La orden de Tiedemann de "matar a todos los sujetos clave" es una locura; ¡lo que quiere es matar a todos los pacientes del hospital! No tengo intención de cumplir las órdenes y me dirigiré hacia allí para proteger a Lexine. Necesito ayuda para detener al capitán Forrester antes de que la encuentre. No escuchéis a Tiedemann. Se ha vuelto loco. Weller, corto.-->Aqui é Gabe Weller. Se alguém encontrar isso, informo que a cadeia de comando se rompeu, começando pelo topo. A ordem de Tiedemann de "matar todos os sujeitos chave" é uma loucura, ele quer matar todos os pacientes do hospital!  Não tenho a intenção de seguir as ordens e estou indo proteger a Lexine.  Preciso de ajuda para deter o capitão Forrester antes que ele a encontre.  Não escutem o Tiedemann, ele está louco.   Weller, desligo.
 (1460)QA Software Engineers<==>Ingenieros de software de control de calidad-->Engenheiros de Software do Controle de Qualidade
 (1461-IGUAIS)Brian Bartram
@@ -1464,7 +1464,7 @@
 (1464)Global Product Manager<==>Jefe de producto global-->Gerente de Produto Global
 (1465)HAZARD LINE GUN<==>CAÑÓN LINEAL DE RIESGO-->CANHÃO LINEAR DE RISCO
 (1466)You have {n} save(s) remaining.\nAre you sure you want to save?<==>Te queda(n) {n} guardado(s).\n¿Seguro que quieres guardar?-->Você ainda tem {n} salvamentos(s).\nTem certeza que deseja salvar?
-(1467)ENGINES FIRING<==>MOTORES ACT.-->MOTOR FUNCIONANDO
+(1467)ENGINES FIRING<==>MOTORES ACT.-->MOTORES FUNCIONANDO
 (1468-IGUAIS)Alex Muscat
 (1469)Purchase new items here.  They will be added to your Inventory.  See description below for details.<==>Aquí puedes comprar objetos nuevos. Se añadirán a tu inventario. Consulta la descripción que aparece a continuación para obtener más información.-->Compre novos itens aqui.  Eles serão adicionados ao seu inventário.  Veja a descrição abaixo para obter mais informações.
 (1470)FEEDING SYSTEM OFFLINE<==>SISTEMA DE ALIMENTACIÓN DESCONECTADO-->SISTEMA DE ALIMENTAÇÃO DESLIGADO
