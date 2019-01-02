@@ -1535,10 +1535,10 @@
 (1535)extras<==>Extras-->Extras
 (1536)Tiedemann, this evacuation is illegal, you KNOW THAT.<==>Tiedemann, esta evacuación es ilegal. YA LO SABE.-->Tiedemann, essa evacuação é ilegal, você SABE DISSO.
 (1537)I don't need a lecture from you, and you know I'm right.  Project protocol specifically forbids evacuation in the event of a breach!<==>No me dé charlas, sabe que tengo razón. ¡El protocolo del proyecto prohíbe expresamente la evacuación en caso de ruptura!-->Não preciso de uma lição de moral, você sabe que tenho razão.  O protocolo do projeto proíbe expressamente a evacuação em caso de ruptura!
-(1538)Very well sir.<==>Muy bien, señor.-->Muito bem senhor.
-(1539) RIG sync to Shuttle Gambodia, now.  Lars out.<==>Sincronización de DRI con el transbordador Gambodia, ahora. Lars, corto.--> Sincronização do DRI com o transportador Gambodia, agora.  Lars, desligo.
+(1538)Very well sir.<==>Muy bien, señor.-->Muito bem, senhor.
+(1539) RIG sync to Shuttle Gambodia, now.  Lars out.<==>Sincronización de DRI con el transbordador Gambodia, ahora. Lars, corto.--> Sincronização de DRI com o transportador Gambodia, agora.  Lars, desligo.
 (1540-IGUAIS)1
-(1541)Cannot retrieve information from the Xbox LIVE Marketplace. Please check your connection and try again.<==>No se puede recuperar la información del Bazar Xbox LIVE. Comprueba tu conexión y vuelve a intentarlo.-->Não foi possível conectar na Xbox Live Marketplace. Verifique sua conexão e tente novamente.
+(1541)Cannot retrieve information from the Xbox LIVE Marketplace. Please check your connection and try again.<==>No se puede recuperar la información del Bazar Xbox LIVE. Comprueba tu conexión y vuelve a intentarlo.-->Não foi possível conectar no Xbox Live Marketplace. Verifique sua conexão e tente novamente.
 (1542-IGUAIS)0
 (1543)PLEASE RESPECT THE SANCTITY AND QUIET THIS ROOM PROVIDES<==>RESPETE LA SANTIDAD Y TRANQUILIDAD DE ESTA SALA-->RESPEITE A SANTIDADE E TRANQUILIDADE DESSA SALA 
 (1544)Points<==>Puntos-->Pontos
@@ -1546,26 +1546,26 @@
 (1546)Compressed Energy Charge for the Handheld Graviton Accelerator.\n - Inventory Slot Stack Size: 15<==>Carga de energía comprimida para el acelerador de gravitones portátil.\n - Tamaño del bloque de ranuras de inventario: 15-->Carga de energia comprimida para o acelerador gravitacional portátil.\n - Quantidade máxima armazenada em um espaço do inventário: 15
 (1547)Are you sure you want to leave the game lobby?<==>¿Seguro que quieres salir del punto del encuentro?-->Tem certeza que deseja sair do ponto de encontro?
 (1548)+{n}\nHEAL<==>+{n}\nCURACIÓN-->+{n}\nCURA
-(1549)PARTY CRASHER<==>PARTY CRASHER3Åàe-->GRUPO DE COLISÃO
+(1549)PARTY CRASHER<==>PARTY CRASHER3Åàe-->PARTY CRASHER
 (1550)Unable to connect to the EA Servers. Please try again later.<==>No se ha podido conectar con los servidores de EA. Inténtalo de nuevo más tarde.-->Não foi possível conectar aos servidores da EA. Tente novamente mais tarde.
 (1551)Repairs in Progress.  Please Stand By.<==>Reparación en curso. Espere.-->Reparos em curso.  Por favor aguarde.
 (1552)QTY<==>CANT.-->QTDE
-(1553)Welcome to your workstation \nSgt. Armand Fattouh.\nYou have 3 unread messages///\n\nPlease select an option.\n-launch Securiscope 2.0\n-launch EG Sprawl Watch\n-exit HRSPPLVR\n-sync your RIG<==>Bienvenido a su terminal de trabajo, \nSgto. Armand Fattouh.\nTiene 3 mensajes pendientes.///\n\nSeleccione una opción.\n-iniciar Securiscope 2.0\n-iniciar Ejevigilancia GT\n-salir de HRSPPLVR\n-sincronizar DRI-->Bem vindo à sua estação de tarbalho, \nSgt. Armand Fattouh.\nVocê tem 3 mensagens não lidas.///\n\nSelecione uma opção.\n-iniciar Securiscope 2.0\n-iniciar EG Sprawl Watch\n-sair do HRSPPLVR\n-sincronizar seu DRI
+(1553)Welcome to your workstation \nSgt. Armand Fattouh.\nYou have 3 unread messages///\n\nPlease select an option.\n-launch Securiscope 2.0\n-launch EG Sprawl Watch\n-exit HRSPPLVR\n-sync your RIG<==>Bienvenido a su terminal de trabajo, \nSgto. Armand Fattouh.\nTiene 3 mensajes pendientes.///\n\nSeleccione una opción.\n-iniciar Securiscope 2.0\n-iniciar Ejevigilancia GT\n-salir de HRSPPLVR\n-sincronizar DRI-->Bem vindo à sua estação de tarbalho, \nSgto. Armand Fattouh.\nVocê tem 3 mensagens não lidas.///\n\nSelecione uma opção.\n-iniciar Securiscope 2.0\n-iniciar EG Sprawl Watch\n-sair do HRSPPLVR\n-sincronizar DRI
 (1554)SCHEMATIC TEMP<==>DIAGRAMA TEMPORAL-->DIAGRAMA TEMPORAL
 (1555)CANISTERS<==>BOTES-->TUBOS
 (1556-REPETIDO)LINE GUN<==>CAÑÓN LINEAL-->CANHÃO LINEAR
 (1557)Project Manager<==>Jefe de proyecto-->Gerente de Projeto
 (1558-IGUAIS)5
 (1559)ARMOR<==>BLINDAJE-->BLINDAGEM 
-(1560)Warning! Power drain in progress. Gravity systems and life support going off-line.<==>¡Alerta! Se está produciendo una pérdida de energía. Los sistemas de gravedad y de soporte vital se están desconectando.-->Atenção! Está ocoorrendo uma perda de energia. Os sistemas de gravidade e suporte vital estão sendo desligados.
-(1561)Warning:  There is an obstruction in the tram tunnel ahead.  Please disembark at the Medical Deck. You may use an alternate route.  A service technician has been notified of the delay.<==>Alerta: hay un obstáculo en el túnel del monorraíl. Desembarque en la cubierta médica. Puede seguir una ruta alternativa. Hemos notificado a un técnico de servicio del retraso.-->Alerta:   Há uma obstrução no túnel do trem. Desembarque na plataforma médica. Você pode usar uma rota alternativa. Um técnico de serviço foi notificado do atraso.
-(1562)Ishimura system status:  Gravity and Life support are on reserve power.  All primary systems are offline.    Main centrifuge is offline for repair order 8836.<==>Estado del sistema del Ishimura: la gravedad y el soporte vital están en reserva. Los sistemas primarios están desconectados. La centrifugadora principal está inactiva y pendiente de reparación, orden 8836.-->Estado do sistema da Ishimura:  a gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrifugadora principal está desligada para reparos, ordem 8836.
-(1563-REPETIDO)Ishimura system status:  Gravity and Life support are on reserve power.  All primary systems are offline.    Main centrifuge is offline for repair order 8836.<==>Estado del sistema del Ishimura: la gravedad y el soporte vital están en reserva. Los sistemas primarios están desconectados. La centrifugadora principal está inactiva y pendiente de reparación, orden 8836.-->Estado do sistema da Ishimura:  a gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrifugadora principal está desligada para reparos, ordem 8836.
-(1564)Ejection sequence initiated.  Launch in 3 ... 2 ... 1.  Launch.<==>Secuencia de eyección iniciada. Lanzamiento en 3..., 2..., 1. Despegue. -->Sequência de lançamento Iniciada.  Lançamento em 3 ... 2 ... 1.  Lançado.
-(1565)Proximity warning.  Impact detected.  Guidance system malfunction.  <==>Alerta de proximidad. Alerta: impacto detectado. Error en el sistema de guiado.-->Alerta de proximidade.  Impacto detectado.  Erro no sistema de condução.  
+(1560)Warning! Power drain in progress. Gravity systems and life support going off-line.<==>¡Alerta! Se está produciendo una pérdida de energía. Los sistemas de gravedad y de soporte vital se están desconectando.-->Alerta! Está ocorrendo uma perda de energia. Os sistemas de gravidade e de suporte vital estão sendo desligados.
+(1561)Warning:  There is an obstruction in the tram tunnel ahead.  Please disembark at the Medical Deck. You may use an alternate route.  A service technician has been notified of the delay.<==>Alerta: hay un obstáculo en el túnel del monorraíl. Desembarque en la cubierta médica. Puede seguir una ruta alternativa. Hemos notificado a un técnico de servicio del retraso.-->Alerta:   Há uma obstrução no túnel do trem. Desembarque na plataforma médica. Você pode usar uma rota alternativa. Um técnico em serviço foi notificado do atraso.
+(1562)Ishimura system status:  Gravity and Life support are on reserve power.  All primary systems are offline.    Main centrifuge is offline for repair order 8836.<==>Estado del sistema del Ishimura: la gravedad y el soporte vital están en reserva. Los sistemas primarios están desconectados. La centrifugadora principal está inactiva y pendiente de reparación, orden 8836.-->Estado do sistema da Ishimura:  a gravidade e o suporte vital estão usando energia reserva.  Os sistemas primários estão desligados. A centrifugadora principal está desligada para reparos, ordem 8836.
+(1563-REPETIDO)Ishimura system status:  Gravity and Life support are on reserve power.  All primary systems are offline.    Main centrifuge is offline for repair order 8836.<==>Estado del sistema del Ishimura: la gravedad y el soporte vital están en reserva. Los sistemas primarios están desconectados. La centrifugadora principal está inactiva y pendiente de reparación, orden 8836.-->Estado do sistema da Ishimura:  a gravidade e o suporte vital usando energia reserva.  Os sistemas primários estão desligados. A centrifugadora principal está desligada para reparos, ordem 8836.
+(1564)Ejection sequence initiated.  Launch in 3 ... 2 ... 1.  Launch.<==>Secuencia de eyección iniciada. Lanzamiento en 3..., 2..., 1. Despegue. -->Sequência de lançamento Iniciada.  Executando em 3 ... 2 ... 1.  Lançado.
+(1565)Proximity warning.  Impact detected.  Guidance system malfunction.  <==>Alerta de proximidad. Alerta: impacto detectado. Error en el sistema de guiado.-->Alerta de proximidade.  Impacto detectado.  Falha no sistema de condução.  
 (1566)All guidance systems off line. <==>Todos los sistemas de guiado desactivados.-->Sistemas de condução desligados. 
 (1567)Brace for impact.<==>Prepárense para el impacto.-->Prepare-se para o impacto.
-(1568)Gravity and Life support on reserve power. Primary systems offline.  Main centrifuge offline for repairs.<==>Gravedad y soporte vital en reserva. Sistemas primarios desconectados. Centrifugadora principal inactiva y pendiente de reparación.-->A gravidade e o suporte vital estão na reserva.  Os sistemas primários estão desligados. A centrifugadora principal está desligada para reparos. 
+(1568)Gravity and Life support on reserve power. Primary systems offline.  Main centrifuge offline for repairs.<==>Gravedad y soporte vital en reserva. Sistemas primarios desconectados. Centrifugadora principal inactiva y pendiente de reparación.-->A gravidade e o suporte vital estão usando energia reserva.  Os sistemas primários estão desligados. A centrifugadora principal está desligada para reparos. 
 (1569)Gravity tethers engaged...<==>Anclajes gravitatorios acoplados...-->Travas gravitacionais acopladas...
 (1570)Unexpected obstruction ahead.  Shutting down.   Welcome to the Medical Deck.<==>Obstrucción inesperada más adelante. Cerrando. Bienvenido a la cubierta médica.-->Obstrução inesperada mais à frente.  Desligando.   Bem vindo à plataforma médica.
 (1571)Warning:  The Engineering deck has not completed final clean-up and decontamination.<==>Alerta: la cubierta de ingeniería no ha completado la limpieza y la descontaminación finales.-->Alerta:   A plataforma de engenharia não completou a limpeza e descontaminação finais.
@@ -1578,55 +1578,55 @@
 (1578)Sarah, for her patience and understanding. Love u!<==>Sarah, por su paciencia y comprensión. ¡Te quiero!-->Sarah, pela sua paciência e compreensão. Te amo!
 (1579)Sevonne for all your love and support<==>Sevonne por todo tu amor y tu apoyo-->Sevonne por todo seu amor e apoio
 (1580)Shanghai misses Jack!<==>¡Shanghai extraña a Jack!-->Xangai sente saudades de Jack!
-(1581)Sheila Dean and our Betta Lu<==>Sheila Dean y nuestra Betta Lu-->Sheila Dean e nossa Lu Betta
+(1581)Sheila Dean and our Betta Lu<==>Sheila Dean y nuestra Betta Lu-->Sheila Dean e nossa Betta Lu
 (1582-IGUAIS)Shianna Huynh
 (1583)Shout out to all my HO-mies!<==>¡Un saludo a todos mis colegas!-->Um cumprimento a todos meus colegas!
 (1584)Sinead and Victor Hayes<==>Sinead y Victor Hayes-->Sinead e Victor Hayes
-(1585)South Van Awesome<==>South Van Genio-->South Van Awesome
-(1586)Special thanks to Becky and Apollo Roosevelt<==>Agradecimientos especiales a Becky y Apollo Roosevelt-->Um agradecimento especial a Becky e Roosevelt Apollo
-(1587)Special thanks to mom, yost and jericho<==>Agradecimientos especiales a mamá, yost y jericho-->Agradecimentos especiais a minha mãe, Yost e Jericó
+(1585)South Van Awesome<==>South Van Genio-->South Van Fantástico 
+(1586)Special thanks to Becky and Apollo Roosevelt<==>Agradecimientos especiales a Becky y Apollo Roosevelt-->Agradecimentos especiais a Becky e Apollo Roosevelt 
+(1587)Special thanks to mom, yost and jericho<==>Agradecimientos especiales a mamá, yost y jericho-->Agradecimentos especiais minha mãe, Yost e Jericó
 (1588)Special Thanks to my brain<==>Agradecimiento especial a mi cerebro-->Um agradecimento especial ao meu cérebro
 (1589)Special thanks to my girlfriend, Sara.<==>Agradecimiento especial a mi novia, Sara-->Um agradecimento especial para minha namorada, Sara.
-(1590)Special Thanks: Crossie,  Minou  & Baby<==>Agradecimientos especiales: Crossie, Minou y Baby-->Agradecimentos especiais: Crossie, Minou & Baby
-(1591)Stacey D. Vandermeer, Ava Colette and Lea Coryn.<==>Stacey D. Vandermeer, Ava Colette y Lea Coryn. -->Stacey Vandermeer D., Colette Ava e Coryn Lea.
-(1592)Steve & Brycen Johnson<==>Steve y Brycen Johnson-->Steve & Johnson Brycen
-(1593)Taewoong Kwon & Shinyoung Jang for all your love<==>Taewoong Kwon y Shinyoung Jang por todo vuestro amor-->Taewoong Kwon & Jang Shinyoung para todo seu amor
-(1594)Tanya Gascoigne & Family<==>Tanya Gascoigne y familia-->Tanya Gascoigne & Família
+(1590)Special Thanks: Crossie,  Minou  & Baby<==>Agradecimientos especiales: Crossie, Minou y Baby-->Agradecimentos especiais: Crossie, Minou e Baby
+(1591)Stacey D. Vandermeer, Ava Colette and Lea Coryn.<==>Stacey D. Vandermeer, Ava Colette y Lea Coryn. -->Stacey Vandermeer D., Ava Colette e Lea Coryn.
+(1592)Steve & Brycen Johnson<==>Steve y Brycen Johnson-->Steve e Brycen Johnson 
+(1593)Taewoong Kwon & Shinyoung Jang for all your love<==>Taewoong Kwon y Shinyoung Jang por todo vuestro amor-->Taewoong Kwon e Shinyoung Jang por todo seu amor
+(1594)Tanya Gascoigne & Family<==>Tanya Gascoigne y familia-->Tanya Gascoigne e Família
 (1595)Thank you Jonjon and Eloisa for being there! =)<==>¡Gracias por estar ahí, Jonjon y Eloisa! =)-->Obrigado Jonjon e Eloisa para estarem aí! =)
-(1596)Thank you to my wife Nancy and my son Max<==>Gracias a mi esposa Nancy y a mi hijo Max-->Obrigado à minha esposa Nancy e meu filho Max
-(1597)Thank you to those who are no longer with us.<==>Gracias a los que ya no están con nosotros.-->Obrigado áqueles que não estão mais conosco.
-(1598)Thanks 2 my girlfriend for giving me my little boy<==>Gracias a mi novia por darme a mi pequeño-->Obrigado à minha namorada por me dar meu pequeno
+(1596)Thank you to my wife Nancy and my son Max<==>Gracias a mi esposa Nancy y a mi hijo Max-->Obrigado à minha esposa Nancy e ao meu filho Max
+(1597)Thank you to those who are no longer with us.<==>Gracias a los que ya no están con nosotros.-->Obrigado àqueles que não estão mais conosco.
+(1598)Thanks 2 my girlfriend for giving me my little boy<==>Gracias a mi novia por darme a mi pequeño-->Obrigado à minha namorada por me dar meu garotinho 
 (1599)Thanks all for helping make Shanghai our new home!<==>¡Gracias a todos por ayudar a hacer de Shanghai nuestro nuevo hogar!-->Obrigado a todos por ajudar a fazer  de Xangai nossa nova casa!
 (1600)Thanks and love to Rach, Lily and Hamish<==>Agradecimientos y amor para Rach, Lily y Hamish-->Agradecimentos e amor a Rach, Lily e Hamish
-(1601)Thanks Colleen, I'd be your wingman any day!<==>¡Gracias Colleen, soy tu copiloto siempre que quieras!-->Obrigado Colleen, eu seria seu copiloto sempre que quiser!
-(1602)Thanks Dad, Mom, Mayuri, Ayush, and Ashi<==>Gracias, papá, mamá, Mayuri, Ayush y Ashi-->Obrigado, papai, mamãe, Ayush, Mayuri e Ashi
+(1601)Thanks Colleen, I'd be your wingman any day!<==>¡Gracias Colleen, soy tu copiloto siempre que quieras!-->Obrigado Colleen, serei seu copiloto sempre que quiser!
+(1602)Thanks Dad, Mom, Mayuri, Ayush, and Ashi<==>Gracias, papá, mamá, Mayuri, Ayush y Ashi-->Obrigado, papai, mamãe, Mayuri, Ayush e Ashi
 (1603)Thanks everyone! Make sure you swim together first<==>¡Gracias a todos! Aseguraos de nadar juntos antes-->Obrigado a todos! Certifiquem-se de nadar juntos antes
 (1604)Thanks family,friends,Eva & Aliens<==>Gracias, familia, amigos, Eva y alienígenas-->Obrigado família, amigos, Eva e alienígenas
 (1605)Thanks for all the laughs and smiles<==>Gracias por todas las risas y sonrisas-->Obrigado por todos os risos e sorrisos
-(1606)Thanks Mom, Dad, Bros, and friends for everything<==>Gracias por todo, mamá, papá, hermanos y amigos-->Obrigado por tudo, mamãe, papai, irmãos e amigos 
+(1606)Thanks Mom, Dad, Bros, and friends for everything<==>Gracias por todo, mamá, papá, hermanos y amigos-->Obrigado mamãe, papai, irmãos e amigos 
 (1607)Thanks team. Best wishes for the future!<==>Gracias, equipo. ¡Mis mejores deseos para el futuro!-->Obrigado, equipe. Meus melhores desejos para o futuro!
 (1608)Thanks to 1,3,7-trimethylxanthine<==>Gracias a 1,3,7-trimethylxanthine-->Obrigado 1,3,7-trimetilxantina
-(1609)Thanks to Clara, William and Nicolas<==>Obrigado Clara, William y Nicolas-->Obrigado William Clara, e Nicolas
-(1610)Thanks to Jenny Martin and Lila Mathus<==>Gracias a Jenny Martin y Lila Mathus-->Obrigado Jenny Mathus Martin e Lila
+(1609)Thanks to Clara, William and Nicolas<==>Obrigado Clara, William y Nicolas-->Obrigado Clara, William e Nicolas
+(1610)Thanks to Jenny Martin and Lila Mathus<==>Gracias a Jenny Martin y Lila Mathus-->Obrigado Jenny Martin e Lila Mathus
 (1611)Thanks to Linda and Elias<==>Gracias a Linda y Elias-->Obrigado Linda e Elias
-(1612)Thanks to my Katana umbrella for protecting me!<==>¡Gracias a mi paraguas katana por protegerme!-->Obrigado ao meu guarda-chuva por me proteger!
+(1612)Thanks to my Katana umbrella for protecting me!<==>¡Gracias a mi paraguas katana por protegerme!-->Obrigado ao meu guarda-chuvas katana por me proteger!
 (1613)Thanks to my wife Jillian, I love you!<==>Gracias a mi esposa, Jillian. ¡Te quiero!-->Obrigado à minha esposa Jillian, eu te amo!
 (1614)Thanks to Sandy for teaching me the Chinese tongue<==>Gracias a Sandy por enseñarme el idioma chino-->Obrigado Sandy por me ensinar a língua chinesa
 (1615)Thanks to the motherland<==>Gracias a la madre patria-->Obrigado à pátria mãe 
 (1616)Thanks to Val & Alex Yazijian <==>Gracias a Val y Alex Yazijian-->Obrigado Val e Alex Yazijian
-(1617)Thanks to VGS, a great achievement on an epic game<==>Gracias a VGS, un gran logro con un juego épico-->Obrigado à VGS, uma grande conquista em um jogo épico
+(1617)Thanks to VGS, a great achievement on an epic game<==>Gracias a VGS, un gran logro con un juego épico-->Obrigado VGS, uma grande conquista com um jogo épico
 (1618)Thanks to Vicky and Sam for keeping me demented<==>Gracias a Vicky y Sam por mantenerme demente-->Obrigado Vicky e Sam por me manter demente
 (1619)Thanks to Yummi and my family for supporting me<==>Gracias a Yummi y a mi familia por apoyarme-->Obrigado Yummi e minha família por me apoiar
-(1620)Thanks to: Te, Andy, TuTu & YaYa<==>Gracias a: Te, Andy, TuTu y YaYa-->Obrigado Te, tutu, Andy & YaYa
+(1620)Thanks to: Te, Andy, TuTu & YaYa<==>Gracias a: Te, Andy, TuTu y YaYa-->Obrigado Te, Andy, Tutu e YaYa
 (1621)Thanx to my lovely wife (and mom-to-be) Eunkyoung<==>Gracias a mi encantadora esposa (y futura mamá) Eunkyoung-->Obrigado à minha adorável esposa (e futura mãe) Eunkyoung
-(1622)The extended Silverman and Greene clan<==>El clan Silverman y Greene ampliado-->O clã Silverman e Greene ampliado
+(1622)The extended Silverman and Greene clan<==>El clan Silverman y Greene ampliado-->O ampliado clã Silverman e Greene 
 (1623-IGUAIS)The Gravity Surge Chronality
-(1624)The Keenan family and Ms. Alex Schuck: you rock!<==>La familia Keenan y D.ª Alex Schuck: ¡sois geniales!-->A família Keenan e Ms. Alex Schuck: vocês são geniais!
+(1624)The Keenan family and Ms. Alex Schuck: you rock!<==>La familia Keenan y D.ª Alex Schuck: ¡sois geniales!-->A família Keenan e Ms. Alex Schuck: vocês são demais!
 (1625-IGUAIS)Thitaya Pahsukkul
 (1626)Thnx me for being down right fierce<==>Gracias a mí por ser tan genial-->Obrigado a mim por ser tão genial
 (1627)Thnx to my Brazilian bombshell and two angels<==>Gracias a mi bombón brasileño y mis dos ángeles-->Obrigado ao meu bombom brasileiro e meus dois anjos
-(1628)Thomas Boyd, Tim Wilson, and Tom Frisina.<==>Thomas Boyd, Tim Wilson y Tom Frisina.-->Thomas Boyd, Tim Wilson, e Tom Frisina.
-(1629)Thx 2 Heather, Claudio, & my team!<==>¡Gracias a Heather, Claudio y mi equipo!-->Obrigado Heather, Claudio, e minha equipe!
+(1628)Thomas Boyd, Tim Wilson, and Tom Frisina.<==>Thomas Boyd, Tim Wilson y Tom Frisina.-->Thomas Boyd, Tim Wilson e Tom Frisina.
+(1629)Thx 2 Heather, Claudio, & my team!<==>¡Gracias a Heather, Claudio y mi equipo!-->Obrigado Heather, Claudio e minha equipe!
 (1630)Thx Brittany, Lucas and Tall Paul!<==>¡Gracias, Brittany, Lucas y Tall Paul!-->Obrigado Brittany, Lucas e Paulo!
 (1631)Thx everyone on DS2, you all gave me lots of help<==>Gracias a todo el equipo de DS2, me habéis ayudado mucho-->Obrigado a toda equipe de DS2, vocês todos me ajudaram muito 
 (1632)Thx to etataP & Melkior<==>Gracias a etataP y Melkior-->Obrigado etataP e Melkior
@@ -1642,15 +1642,15 @@
 (1642)To my wife Dina, and my kids Ava, Seth, and Audrey<==>A mi esposa, Dina, y mis hijos, Ava, Seth y Audrey-->Para minha esposa Dina e meus filhos Ava, Seth e Audrey
 (1643)To NikkyDee: let's get married!<==>A NikkyDee: ¡cásate conmigo!-->Para NikkyDee: casa comigo!
 (1644)To Sharon, Amy and Jade<==>A Sharon, Amy y Jade-->Para Sharon, Amy e Jade
-(1645)To the love of my life Lily & my awesome son Ian<==>Al amor de mi vida, Lily, y mi maravilloso hijo, Ian-->Para o amor da minha vida,  Lily, e meu filho maravilhoso Ian
+(1645)To the love of my life Lily & my awesome son Ian<==>Al amor de mi vida, Lily, y mi maravilloso hijo, Ian-->Para o amor da minha vida,  Lily, e meu maravilhoso filho Ian
 (1646)To Vaenita Hari for believing in me<==>A Vaenita Hari por creer en mí-->Para Vaenita Hari por acreditar em mim
 (1647)Truly Worth All of 2010 - DWH<==>Ha merecido la pena dedicarle todo 2010 - DWH-->Valeu a pena dedicar todo o ano de 2010 - DWH
-(1648)Tuyet, Gabby, Tyler and Lola Omie<==>Tuyet, Gabby, Tyler y Lola Omie-->Tuyet, Gabby Tyler e Lola Omie 
+(1648)Tuyet, Gabby, Tyler and Lola Omie<==>Tuyet, Gabby, Tyler y Lola Omie-->Tuyet, Gabby, Tyler e Lola Omie 
 (1649-IGUAIS)Wallace, Wendolene & Esther Betschart
 (1650)Wessam Bahnassi <==>Wessam Bahnassi -->Wessam Bahnassi 
 (1651)Yvonne, Masey, and Zara Milham<==>Yvonne, Masey y Zara Milham-->Yvonne, Masey e Milham Zara
 (1652-IGUAIS)1
-(1653)QA Tools Team<==>Equipo de herramientas de control de calidad-->Equipe de ferramentas de controle de quslidade
+(1653)QA Tools Team<==>Equipo de herramientas de control de calidad-->Equipe de Ferramentas de Controle de Qualidade 
 (1654)Development Directors<==>Directores de desarrollo-->Diretores de Desenvolvimento
 (1655-IGUAIS)Rich Ridlen
 (1656)///playgroup<==>///Grupo de juego-->///Grupo de jogo
@@ -1660,14 +1660,14 @@
 (1660)QA<==>Control de calidad-->Controle de Qualidade
 (1661)[MenuB]Back<==>[MenuB]Atrás-->[MenuB]Voltar
 (1662)Hacker Contact Beam Schematic<==>Diagrama de rayo de contacto de pirateo-->Diagrama de raio de contato hacker
-(1663)invite Xbox LIVE Party<==>Invitar a Xbox LIVE Party-->invite Xbox LIVE Party
+(1663)invite Xbox LIVE Party<==>Invitar a Xbox LIVE Party-->convidar para Xbox LIVE Party
 (1664)//visuals<==>//Objetos visuales-->//visuais
-(1665)Captain Mathius' RIG, containing his access codes.<==>DRI del capitán Mathius que contiene sus códigos de acceso.-->DRI do capitão Mathius, contendo seus códigos de acesso.
+(1665)Captain Mathius' RIG, containing his access codes.<==>DRI del capitán Mathius que contiene sus códigos de acceso.-->DRI do capitão Mathius, que contém seus códigos de acesso.
 (1666)You must be signed into an Xbox LIVE enabled gamer profile to access online content.<==>Para acceder al contenido online, es necesario iniciar sesión con un perfil de jugador con Xbox LIVE habilitado.-->Você deve estar conectado na Xbox Live para ter acesso ao conteúdo online.
 (1667)RESTORED<==>ACTIVADO-->RESTAURADO
 (1668-REPETIDO)name<==>Nombre-->nome
 (1669)Chemical mixture with an alien DNA sample.<==>Compuesto químico con una muestra de ADN alienígena.-->Mistura química com uma amostra de DNA alienígena.
-(1670)Watch this space for upcoming announcements<==>Consulta próximos anuncios en este espacio.-->Veja nesse espaço os próximos anúncios 
+(1670)Watch this space for upcoming announcements<==>Consulta próximos anuncios en este espacio.-->Consulte os próximos anúncios nesse espaço
 (1671)+{n} TRIPLE KILL<==>+{n} BAJA TRIPLE-->+{n} BAIXA TRIPLA
 (1672)[RDLeft]EA Account [RDUp]Xbox LIVE Party [RDDown]select [RDRight]back<==>[RDLeft]Cuenta EA [RDUp]Xbox LIVE Party [RDDown]Seleccionar [RDRight]Atrás-->[RDLeft]Conta EA [RDUp]Xbox LIVE Party [RDDown]Selecionar [RDRight]Voltar
 (1673)aim (pull and hold)<==>apuntar (mantener pulsado)-->mirar (mantenha pressionado)
@@ -1680,17 +1680,17 @@
 (1680)You unlocked increased health for the Puker<==>Has desbloqueado más salud para el vomitador.-->Você desbloqueou mais saúde para o vomitador
 (1681-IGUAIS)2
 (1682)reload<==>recargar-->recarregar
-(1683)Audio Engineering<==>Ingeniería de sonido-->Engenharia de Áudio
+(1683)Audio Engineering<==>Ingeniería de sonido-->Engenharia de Som
 (1684-IGUAIS)Susan Santos
 (1685-REPETIDO)KEY ITEMS<==>OBJ. CLAVE-->ITENS CHAVE
-(1686)Exit to 360 Dashboard? OR Continue without saving?<==>¿Salir a Interfaz Xbox? ¿O continuar sin guardar?-->Sair para a interface do Xbox? Ou continue sem salvar? 
+(1686)Exit to 360 Dashboard? OR Continue without saving?<==>¿Salir a Interfaz Xbox? ¿O continuar sin guardar?-->Sair para a interface do Xbox 360? Ou continuar sem salvar? 
 (1687)Additional Animation<==>Animación adicional-->Animação Adicional
 (1688)Secondary Fire DAM +5% / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a wide energy beam.  Can slice many objects at once.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a timed energy mine.<==>DÑO disparo secundario: +5% / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo de energía ancho. Muy útil para cortar varios objetos a la vez.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para disparar una mina de energía temporizada.-->DANO disparo secundário +5% / REC -5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um raio espesso de energia.  Muito útil para cortar vários objetos de uma vez.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rsbottom] para disparar uma mina de energia temporizada. 
 (1689)EARS Mastering Lab<==>Laboratorio de masterización-->Laboratório de Masterização
-(1690)EARTHGOV SECURITY SUIT<==>TRAJE DE SEGURIDAD DEL GOBIERNO-->TRAJE DE SEGURANÇA DO GOVERNO
+(1690)EARTHGOV SECURITY SUIT<==>TRAJE DE SEGURIDAD DEL GOBIERNO-->TRAJE DE SEGURANÇA DO GOVERNO DA TERRA
 (1691-IGUAIS)Spark Chen
 (1692-IGUAIS)Joe Xu
-(1693)Beginning Full Diagnostic Scan<==>Comenzando escáner de diagnóstico completo-->Iniciando escaner de diagnóstico
+(1693)Beginning Full Diagnostic Scan<==>Comenzando escáner de diagnóstico completo-->Iniciando escaner de diagnóstico completo
 (1694)Tiedemann's severed Government Sector from the rest of the Sprawl! It's slipping away, and so are my chances of destroying the Marker.\n\nBut I have a plan. The Ishimura's gravity tethers are strong enough to hold an entire planetary hemisphere - I should be able to use them to snare Government Sector long enough to get across.<==>¡Tiedemann ha separado el sector gubernamental del resto del Eje! Se está alejando, y con él, mis posibilidades de destruir la Efigie.\n\nPero tengo un plan. Los anclajes gravitatorios del Ishimura son lo bastante fuertes como para atraer un hemisferio planetario entero, debería poder usarlos para atrapar el sector gubernamental el tiempo suficiente como para acceder a él.-->Tiedemann separou o setor governamental do resto do Eixo! Está se afastando,  e com ele minhas chances de destruir o Marker.\n\nMas tenho um plano. As travas gravitacionais da Ishimura são forte o suficiente para segurar todo um hemisfério do planeta - eu deveria usá-los para distrair o setor governamental por tempo suficiente para poder atravessar.
 (1695)Human Boosters<==>Impulsores humanos-->Impulsores humanos
 (1696)Escape the hospital.<==>Huye del hospital.-->Fuja do hospital.
