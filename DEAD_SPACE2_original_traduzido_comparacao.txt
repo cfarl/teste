@@ -1691,11 +1691,11 @@
 (1691-IGUAIS)Spark Chen
 (1692-IGUAIS)Joe Xu
 (1693)Beginning Full Diagnostic Scan<==>Comenzando escáner de diagnóstico completo-->Iniciando escaner de diagnóstico completo
-(1694)Tiedemann's severed Government Sector from the rest of the Sprawl! It's slipping away, and so are my chances of destroying the Marker.\n\nBut I have a plan. The Ishimura's gravity tethers are strong enough to hold an entire planetary hemisphere - I should be able to use them to snare Government Sector long enough to get across.<==>¡Tiedemann ha separado el sector gubernamental del resto del Eje! Se está alejando, y con él, mis posibilidades de destruir la Efigie.\n\nPero tengo un plan. Los anclajes gravitatorios del Ishimura son lo bastante fuertes como para atraer un hemisferio planetario entero, debería poder usarlos para atrapar el sector gubernamental el tiempo suficiente como para acceder a él.-->Tiedemann separou o setor governamental do resto do Eixo! Está se afastando,  e com ele minhas chances de destruir o Marker.\n\nMas tenho um plano. As travas gravitacionais da Ishimura são forte o suficiente para segurar todo um hemisfério do planeta - eu deveria usá-los para distrair o setor governamental por tempo suficiente para poder atravessar.
+(1694)Tiedemann's severed Government Sector from the rest of the Sprawl! It's slipping away, and so are my chances of destroying the Marker.\n\nBut I have a plan. The Ishimura's gravity tethers are strong enough to hold an entire planetary hemisphere - I should be able to use them to snare Government Sector long enough to get across.<==>¡Tiedemann ha separado el sector gubernamental del resto del Eje! Se está alejando, y con él, mis posibilidades de destruir la Efigie.\n\nPero tengo un plan. Los anclajes gravitatorios del Ishimura son lo bastante fuertes como para atraer un hemisferio planetario entero, debería poder usarlos para atrapar el sector gubernamental el tiempo suficiente como para acceder a él.-->Tiedemann separou o setor governamental do resto do Eixo! Ele está se afastando, e com ele minhas chances de destruir o Marker.\n\nMas tenho um plano. As travas gravitacionais da Ishimura são forte o suficiente para segurar todo um hemisfério planetário - eu poderia usá-los para segurar o setor governamental por tempo suficiente para chegar até lá.
 (1695)Human Boosters<==>Impulsores humanos-->Impulsores humanos
 (1696)Escape the hospital.<==>Huye del hospital.-->Fuja do hospital.
 (1697-REPETIDO)extras<==>Extras-->Extras
-(1698)Continue free trial ({h} hours remaining).<==>Continúa con la versión de prueba gratuita (quedan {h} horas).-->Continuar com a versão de avaliação gratuita nas ({h} horas restantes).
+(1698)Continue free trial ({h} hours remaining).<==>Continúa con la versión de prueba gratuita (quedan {h} horas).-->Continuar com a versão de avaliação gratuita (ainda restam {h} horas).
 (1699)FORGED LINE GUN<==>CAÑÓN LINEAL FORJADO-->CANHÃO LINEAR FORJADO
 (1700-IGUAIS)1
 (1701)DETONATOR<==>DETONADOR-->DETONADOR
@@ -1703,7 +1703,7 @@
 (1703-IGUAIS)Rafael Sabino
 (1704)Unlock Security Doors<==>Desbloquea las puertas de seguridad.-->Desbloqueia as portas de segurança
 (1705){g} (default)<==>{g} (predet.)-->{g} (padrão)
-(1706)Gravity Tethers: ENGAGED<==>Anclajes gravitatorios: ACTIVADOS-->Travas Gravitacionais: ACTIVADAS
+(1706)Gravity Tethers: ENGAGED<==>Anclajes gravitatorios: ACTIVADOS-->Travas Gravitacionais: ATIVADAS
 (1707)You unlocked increased damage for the Force Gun<==>Has desbloqueado más daño para el cañón de energía.-->Você desbloqueou mais danos para o Canhão de Energia
 (1708)Senior Producer<==>Productor sénior-->Produtor Sênior
 (1709-IGUAIS)EA Canada
@@ -1712,7 +1712,7 @@
 (1712)//Hydroponics<==>//Sistema hidropónico-->//Sistema hidropônico
 (1713)//Cargo Hold<==>//Compartimento de carga-->//Compartimento de carga
 (1714)//Mining Deck<==>//Cubierta de extracción-->//Plataforma de extração
-(1715)//Flight Deck<==>//Cubierta de vuelo-->//Cobertura de voo
+(1715)//Flight Deck<==>//Cubierta de vuelo-->//Plataforma de voo
 (1716)//Science/Medical Deck<==>//Cubierta médica/científica-->//Plataforma médica/científica
 (1717)//Crew Deck<==>//Cubierta de la tripulación-->//Plataforma da tripulação
 (1718)//Bridge<==>//Puente-->//Ponte
@@ -1734,7 +1734,7 @@
 (1734)rpm<==>r. p. m.-->rpm
 (1735)DEFAULTS<==>PREDETERMINADOS-->PADRÕES
 (1736)Detonator Schematic<==>Diagrama de detonador-->Diagrama do detonador
-(1737)Are you sure you want to quit?  You will lose any unsaved data.<==>¿Seguro que quieres salir?\nPerderás todos los datos no guardados.-->Tem certeza de que deseja sair? Você vai perder todos os dados não salvos.
+(1737)Are you sure you want to quit?  You will lose any unsaved data.<==>¿Seguro que quieres salir?\nPerderás todos los datos no guardados.-->Tem certeza que deseja sair? Você perderá todos os dados não salvos.
 (1738-IGUAIS)Nicolas Acosta Barruti
 (1739-IGUAIS)Nadia Aimasso
 (1740-IGUAIS)David Beltrame
@@ -1748,14 +1748,14 @@
 (1748)LARGE AIR CAN\nSchematic Acquired\nDownload at the Store<==>BOTE DE AIRE GRANDE\nDiagrama Adquirido\nDescargar en el almacén-->TUBO DE AR GRANDE\nDiagrama Adquirido\nBaixar na loja
 (1749)primary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>disparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->disparo principal: cortadora mineral de grande energia\ndisparo secundário: muda a orientação do raio
 (1750-REPETIDO)primary fire: high energy mineral cutter\nalternate fire: toggles beam orientation<==>disparo principal: cortadora de mineral de gran energía\ndisparo secundario: cambio de orientación del rayo-->disparo principal: cortadora mineral de grande energia\ndisparo secundário: muda a orientação do raio
-(1751)TITAN STATION\nCHURCH OF UNITOLOGY\n\nCome hear the truth about Unitology.   See our rich history, hear about the compelling truths hidden for centuries, and learn about the glorious unity that awaits us all.   The church is always open to the curious, so come check out our extended tour hours during Saturnal Periapsis, alone or with a group!    We never turn anyone away.   Altman be praised.<==>ESTACIÓN TITÁN\nIGLESIA DE LA UNIOLOGÍA\n\nVengan y oigan la verdad sobre la Uniología. Contemplen nuestra riqueza histórica, escuchen las fascinantes verdades ocultas durante siglos y conozcan la gloriosa unidad que nos espera a todos. La iglesia está siempre abierta para los curiosos, ¡consulten los horarios de las visitas ampliadas, individuales o en grupo, durante la periapsis saturnina! Jamás excluimos a nadie. Alabado sea Altman.-->ESTAÇÃO TITÃ\nIGREJA DA UNITOLOGIA\n\Venham e escutem a verdade sobre a Unitologia.   Contemplem nossa riqueza história, escutem sobre as fascinantes verdades ocultas durante séculos, e conheçam a gloriosa unidade que nos espera. A igreja está sempre aberta para os curiosos, consultem os horários das visitas ampliadas, individuais ou em grupo, durante a periapsis saturnina! Jamais excluímos alguém. Louvado seja Altman.
+(1751)TITAN STATION\nCHURCH OF UNITOLOGY\n\nCome hear the truth about Unitology.   See our rich history, hear about the compelling truths hidden for centuries, and learn about the glorious unity that awaits us all.   The church is always open to the curious, so come check out our extended tour hours during Saturnal Periapsis, alone or with a group!    We never turn anyone away.   Altman be praised.<==>ESTACIÓN TITÁN\nIGLESIA DE LA UNIOLOGÍA\n\nVengan y oigan la verdad sobre la Uniología. Contemplen nuestra riqueza histórica, escuchen las fascinantes verdades ocultas durante siglos y conozcan la gloriosa unidad que nos espera a todos. La iglesia está siempre abierta para los curiosos, ¡consulten los horarios de las visitas ampliadas, individuales o en grupo, durante la periapsis saturnina! Jamás excluimos a nadie. Alabado sea Altman.-->ESTAÇÃO TITÃ\nIGREJA DA UNITOLOGIA\n\Venham ouvir a verdade sobre a Unitologia.   Contemplem nossa riqueza história, escutem as fascinantes verdades ocultas durante séculos, e conheçam a gloriosa unidade que nos espera. A igreja está sempre aberta para os curiosos, por isso consultem os horários das visitas ampliadas, individuais ou em grupo, durante a Periapsis Saturnina! Nunca deimaos ninguém de fora. Altman seja louvado.
 (1752)prevent the destruction of the final marker<==>Evita la destrucción de la última Efigie.-->impeça a destruição do último marker
 (1753)The server is unable to redeem this code at this time, please try again later.<==>El servidor no puede canjear ese código en este momento. Vuelve a intentarlo más tarde.-->O servidor não é capaz de recuperar esse código no momento, por favor, tente novamente mais tarde.
 (1754)test [Start] test [Select] TEST [LStick] 123 [RStick] TEST 123 [LStick3] 123 [RStick3] 123 [select] TEST [start] test <==>test [Start] test [Select] TEST [LStick] 123 [RStick] TEST 123 [LStick3] 123 [RStick3] 123 [select] TEST [start] test -->test [Start] test [Select] TEST [LStick] 123 [RStick] TEST 123 [LStick3] 123 [RStick3] 123 [select] TEST [start] test 
 (1755)temporary inv text for schematic<==>Texto temporal para diagrama-->Texto temporário para diagrama
 (1756)Wide-beamed slicer with timed mines.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to fire a wide energy beam.  Can slice many objects at once.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a timed energy mine.<==>Arma trituradora de rayo ancho con minas temporizadas.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar un rayo de energía ancho. Muy útil para cortar varios objetos a la vez.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para disparar una mina de energía temporizada.-->Arma trituradora de raio horizontal com minas temporizadas.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar um raio de energia horizontal.  Muito útil para cortar vários objetos de uma só vez.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar uma mina de energia temporizada.
 (1757)Hand Cannon<==>CAÑÓN HAND-->Canhão Manual
-(1758)Welcome to Titan Station Transit....TST!\n- CEC commuter passes are available now at the new discounted rate.\n- Student discounts require valid enrollment records in your RIG.\n- EarthGov secure and EarthGov private lanes board every hour, blue trains only.\n\n3 major spokes connect Public and Government sectors.\nSpoke Trains depart every 15 minutes during the hours of:\n   0600 - 1000\n   1600 - 1900\nSpoke Trains depart every half hour during non-rush hours.\n\nPublic Sector trains connect Alpha through Epsilon sectors, in a loop that services the shard and star side of each sector.\nPublic Sector trains depart each station every 15 minutes.<==>Bienvenido a la Estación de Tránsito Titán o... ¡ETT!\n- La nueva tarifa rebajada de los abonos de CEC ya está en vigor.\n- Para descuentos de estudiantes, es necesario disponer de registros de matriculación válidos en el DRI.\n- Las rutas Gobierno de la Tierra seguro y Gobierno de la Tierra privado admiten pasajeros cada hora; solo trenes azules.\n\n3 rutas radiales principales conectan los sectores público y gubernamental.\nLos trenes radiales salen cada 15 minutos entre las siguientes horas:\n   0600 - 1000\n   1600 - 1900\nLos trenes radiales salen cada media hora durante las horas valle.\n\nLos trenes del sector público conectan los sectores alfa a épsilon en un bucle que cubre los dos lados de cada sector.\nLos trenes del sector público salen de todas las estaciones cada 15 minutos.-->Bem vindo à Estação de Trânsito Titã....ETT!\n- A nova tarifa com descontos do CEC está em vigor.\n- Para descontos de estudantes é necessário dispor de registros de matrícula válidos no DRI.\n- As rotas seguras e privadas do Governo da Terra admitem passageiros a cada hora; somente trens azuis.\n\n3 as rotas radiais conectam os setores público e governamental.\nOs trens radiais saem a cada 15 minutos entre as seguintes horas:\n   0600 - 1000\n   1600 - 1900\nOs trens radiais saem a cada meia hora durante as outras horas.\n\nOs trens do setor público conectam os Setores Alpha E Epsilon, em um percurso que cobre os lados de cada setor.\nOs trens do setor público saem de todas as estações a cada 15 minutos.
+(1758)Welcome to Titan Station Transit....TST!\n- CEC commuter passes are available now at the new discounted rate.\n- Student discounts require valid enrollment records in your RIG.\n- EarthGov secure and EarthGov private lanes board every hour, blue trains only.\n\n3 major spokes connect Public and Government sectors.\nSpoke Trains depart every 15 minutes during the hours of:\n   0600 - 1000\n   1600 - 1900\nSpoke Trains depart every half hour during non-rush hours.\n\nPublic Sector trains connect Alpha through Epsilon sectors, in a loop that services the shard and star side of each sector.\nPublic Sector trains depart each station every 15 minutes.<==>Bienvenido a la Estación de Tránsito Titán o... ¡ETT!\n- La nueva tarifa rebajada de los abonos de CEC ya está en vigor.\n- Para descuentos de estudiantes, es necesario disponer de registros de matriculación válidos en el DRI.\n- Las rutas Gobierno de la Tierra seguro y Gobierno de la Tierra privado admiten pasajeros cada hora; solo trenes azules.\n\n3 rutas radiales principales conectan los sectores público y gubernamental.\nLos trenes radiales salen cada 15 minutos entre las siguientes horas:\n   0600 - 1000\n   1600 - 1900\nLos trenes radiales salen cada media hora durante las horas valle.\n\nLos trenes del sector público conectan los sectores alfa a épsilon en un bucle que cubre los dos lados de cada sector.\nLos trenes del sector público salen de todas las estaciones cada 15 minutos.-->Bem vindo à Estação de Trânsito Titã....ETT!\n- A nova tarifa com descontos do CEC está em vigor.\n- Para descontos de estudantes é necessário dispor de registros de matrícula válidos no DRI.\n- As rotas seguras e privadas do Governo da Terra admitem passageiros a cada hora; somente trens azuis.\n\n3 rotas radiais principais conectam os setores público e governamental.\nOs trens radiais saem a cada 15 minutos entre as seguintes horas:\n   0600 - 1000\n   1600 - 1900\nOs trens radiais saem a cada meia hora fora dos horários de pico.\n\nOs trens do setor público conectam os setores alpha E epsilon, em um percurso que cobre os dois lados de cada setor.\nOs trens do setor público saem de todas as estações a cada 15 minutos.
 (1759)QA Assistant Leads<==>Ayudantes del jefe de control de calidad-->Ajudantes do Chefe de Controle de Qualidade
 (1760-IGUAIS)Bernardo Colmegna
 (1761-IGUAIS)Julian  De Nicola
@@ -1764,17 +1764,17 @@
 (1764-IGUAIS)Ezequiel Levy
 (1765-IGUAIS)Andres Oses
 (1766-IGUAIS)Augusto Woelfert
-(1767)G10 LOCAL GRAVITY GENERATOR\n\nTo avoid damaging the G10 gravity core, this procedure should only be performed by a qualified Kinesis technician.\n\nSTEP 1: Use Kinesis to deploy the two outermost electromagnetic arms, holding the G10's outer ring steady.\nSTEP 2: Deploy the two middle arms, and steady the center ring.\nSTEP 3: Finally, deploy the innermost arms. This will steady the inner ring, and shut down the generator.\n\n[Microwave interference may cause the electromagnetic arms to retract unexpectedly. If this occurs, use a Stasis module to hold them in place until the shutdown procedure is completed.]<==>GENERADOR DE GRAVEDAD LOCAL G10\n\nPara evitar daños al núcleo de gravedad del G10, este procedimiento solo debe llevarlo a cabo un técnico de cinética certificado.\n\nPASO 1: Usar la cinética para poner en marcha los dos brazos electromagnéticos exteriores manteniendo estable el anillo exterior del G10.\nPASO 2: Poner en marcha los dos brazos intermedios y estabilizar el anillo central.\nPASO 3: Poner en marcha los brazos interiores. Esto estabilizará el anillo interior y desconectará el generador.\n\n[La interferencia de microondas puede provocar la retracción inesperada de los brazos electromagnéticos. Si esto sucediese, usar un módulo de estabilización para mantenerlos en su lugar hasta que se complete el proceso de desconexión.]-->GERADOR DE GRAVIDADE LOCAL G10\n\nPara evitar danos ao núcleo de gravidade do G10, esse procedimento só deve ser realizado por um técnico de cinética qualificado.\n\nPASSO 1: Usar a cinética para movimentar os dois braços eletromagnéticos exteriores, mantendo estável o anel externo do G10.\nPASSO 2: Movimentar os dois braços intermediários e estabilizar o anel central.\nPASSO 3: Movimentar os dois braços interiores. Isso vai estabilizar o anel interno e vai desligar o gerador.\n\n[A interferência de microondas pode provocar a retração inesperada dos braços eletromagnéticos. Se isso acontecer, use um módulo de estabilização para mantê-los no seu lugar até a conclusão do processo de desligamento.]
+(1767)G10 LOCAL GRAVITY GENERATOR\n\nTo avoid damaging the G10 gravity core, this procedure should only be performed by a qualified Kinesis technician.\n\nSTEP 1: Use Kinesis to deploy the two outermost electromagnetic arms, holding the G10's outer ring steady.\nSTEP 2: Deploy the two middle arms, and steady the center ring.\nSTEP 3: Finally, deploy the innermost arms. This will steady the inner ring, and shut down the generator.\n\n[Microwave interference may cause the electromagnetic arms to retract unexpectedly. If this occurs, use a Stasis module to hold them in place until the shutdown procedure is completed.]<==>GENERADOR DE GRAVEDAD LOCAL G10\n\nPara evitar daños al núcleo de gravedad del G10, este procedimiento solo debe llevarlo a cabo un técnico de cinética certificado.\n\nPASO 1: Usar la cinética para poner en marcha los dos brazos electromagnéticos exteriores manteniendo estable el anillo exterior del G10.\nPASO 2: Poner en marcha los dos brazos intermedios y estabilizar el anillo central.\nPASO 3: Poner en marcha los brazos interiores. Esto estabilizará el anillo interior y desconectará el generador.\n\n[La interferencia de microondas puede provocar la retracción inesperada de los brazos electromagnéticos. Si esto sucediese, usar un módulo de estabilización para mantenerlos en su lugar hasta que se complete el proceso de desconexión.]-->GERADOR DE GRAVIDADE LOCAL G10\n\nPara evitar danos ao núcleo de gravidade do G10, esse procedimento só deve ser realizado por um técnico qualificado em cinética.\n\nPASSO 1: Use a cinética para movimentar os dois braços eletromagnéticos exteriores, mantendo estável o anel externo do G10.\nPASSO 2: Movimente os dois braços intermediários e estabilize o anel central.\nPASSO 3: Movimente os dois braços interiores. Isso vai estabilizar o anel interno e desligar o gerador.\n\n[A interferência de microondas pode provocar a retração inesperada dos braços eletromagnéticos. Se isso acontecer, use um módulo de estabilização para mantê-los em seu lugar até a conclusão do processo de desligamento.]
 (1768)Open<==>Abrir-->Abrir
 (1769-IGUAIS)Activ8
-(1770)QA Testers<==>Pruebas de control de calidad-->Teste de Controle de Qualidade
+(1770)QA Testers<==>Pruebas de control de calidad-->Testes de Controle de Qualidade
 (1771)ACTIVATED<==>ACTIVADO-->ATIVADO
 (1772)Primary Fire CHG -0.1 sec / Primary Fire DAM +5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] to charge a high intensity blast, then release.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a blast of kinetic energy into the ground to push away all nearby objects.<==>CRG disparo principal: -0,1 seg. / DÑO disparo principal: +5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para cargar el disparo y suelta para disparar.\n• [c=CUSTOM2] Disp. secundario [c=RESET]: pulsa [rstop] para disparar energía cinética al suelo.-->CRG disparo principal -0.1 seg / DANO disparo principal +5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: Segure [rsbottom] para carregar o disparo, depois solte para disparar.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar uma rajada de energia cinética no chão para afastar todos os objetos próximos.
 (1773)Weller's Fight<==>La lucha de Weller-->A Luta de Weller
 (1774)A NEW HOPE<==>UNA NUEVA ESPERANZA-->UMA NOVA ESPERANÇA
 (1775)Picked Up<==>Recogido-->Coletado
 (1776)Inventory Full<==>Inventario lleno-->Inventário Cheio
-(1777)Bring this schematic to the store to unlock the Hacker Contact Beam.<==>Lleva este diagrama al almacén para desbloquear el rayo de contacto de pirateo.-->Leve esse diagrama até a loja para desbloquear o raio de contato hacker.
+(1777)Bring this schematic to the store to unlock the Hacker Contact Beam.<==>Lleva este diagrama al almacén para desbloquear el rayo de contacto de pirateo.-->Leve esse diagrama até a loja para desbloquear o Raio de Contato Hacker.
 (1778)Medium Air Can Schematic<==>Diagrama de bote de aire mediano-->Diagrama do tubo de ar médio
 (1779-IGUAIS)0
 (1780)MIXING AGENTS<==>AGENTES MEZCLADORES-->AGENTES MISTURADORES
@@ -1782,11 +1782,11 @@
 (1782)EMERGENCY LOCKDOWN<==>BLOQUEO DE EMERGENCIA-->BLOQUEIO DE EMERGÊNCIA
 (1783)AN EMERGENCY LOCKDOWN IS IN EFFECT. HEAD TO THE NEAREST EVACUATION EXIT.<==>BLOQUEO DE EMERGENCIA ACTIVO. DIRÍJANSE A LA SALIDA DE EVACUACIÓN MÁS PRÓXIMA.-->UM BLOQUEIO DE EMERGÊNCIA ESTÁ ATIVO. DIRIJA-SE PARA A SAÍDA DE EVACUAÇÃO MAIS PRÓXIMA.
 (1784-IGUAIS)1
-(1785)primary fire: powerful semi-automatic rifle\nalternate fire: zoomed view<==>disparo principal: potente rifle semiautomático\ndisparo secundario: vista con zoom-->disparo principal: pontente rifle semi-automático\ndisparo secundário: visão ampliada
+(1785)primary fire: powerful semi-automatic rifle\nalternate fire: zoomed view<==>disparo principal: potente rifle semiautomático\ndisparo secundario: vista con zoom-->disparo principal: potente rifle semi-automático\ndisparo secundário: visão ampliada
 (1786-IGUAIS)1
 (1787-IGUAIS)2
 (1788)DIAGNOSTIC REPORT<==>INFORME DE DAÑOS-->RELATÓRIO DE DIAGNÓSTICO
-(1789)Nicole Has Died<==>Nicole ha muerto-->Nicole morrem o
+(1789)Nicole Has Died<==>Nicole ha muerto-->Nicole morreu
 (1790)Audio<==>Sonido-->Áudio
 (1791)SEVERED<==>CORTADAS 1/2-->CORTADAS
 (1792)ARRIVED ON BRIDGE<==>EN EL PUENTE-->CHEGOU NA PONTE
@@ -1806,7 +1806,7 @@
 (1806-REPETIDO)PERSONAL LOG:  HOWARD PHILLIPS<==>REGISTRO PERSONAL: HOWARD PHILLIPS-->REGISTRO PESSOAL: HOWARD PHILLIPS
 (1807-IGUAIS)1
 (1808)Senior Development Directors<==>Directores de desarrollo sénior-->Diretores de Desenvolvimento Sênior
-(1809)The Earthgov Security Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Detonator, Seeker Rifle, and Pulse Rifle get a 5% damage bonus.\nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de seguridad del gobierno ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación [c=RESET]: 5% más de daño con detonador, rifle buscador y rifle de impulsos. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O traje de segurança do governo oferece uma funcionalidade única para o usuário:\n• [c=CUSTOM3] Bônus de Armas [c=RESET]: 5% a mais de dano para o Detonador, Rifle Caçador, e Rifle de Impulsos.\nSua compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI conserva a maior melhoria de blindagem e inventário.
+(1809)The Earthgov Security Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Detonator, Seeker Rifle, and Pulse Rifle get a 5% damage bonus.\nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de seguridad del gobierno ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación [c=RESET]: 5% más de daño con detonador, rifle buscador y rifle de impulsos. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O traje de segurança do governo da Terra oferece uma funcionalidade única para que o usa:\n• [c=CUSTOM3] Bônus de Armas [c=RESET]: 5% a mais de dano com o detonador, o rifle buscador e o rifle de impulsos.\nSua compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI conserva a maior melhoria de blindagem e inventário.
 (1810-IGUAIS)Andrew Boyd
 (1811-REPETIDO)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado ao matar o portador
 (1812-IGUAIS)1
@@ -1846,7 +1846,7 @@
 (1846)quit<==>Salir-->Sair
 (1847-IGUAIS)5
 (1848)Free Trial Expired<==>Versión de prueba gratuita caducada-->Versão de Avaliação Expirada
-(1849)EMERGENCY SHUTTLE RECALL<==>ANULACIÓN DEL TRANSBORDADOR DE EMERGENCIA-->ANULAÇÃO DO TRANSPOTADOR DE EMERGÊNCIA
+(1849)EMERGENCY SHUTTLE RECALL<==>ANULACIÓN DEL TRANSBORDADOR DE EMERGENCIA-->ANULAÇÃO DO TRANSPORTADOR DE EMERGÊNCIA
 (1850)OVERRIDE SHUTTLE CONTROLS<==>ANULAR CONTROLES DEL TRANSBORDADOR-->ANULAR CONTROLES DO TRANSPORTADOR
 (1851)REMOTE PILOTING SHUTTLE<==>CONTROL REMOTO DEL TRANSBORDADOR-->CONTROLE REMOTO DO TRANSPORTADOR
 (1852)SHUTTLE DOCKED<==>TRANSBORDADOR ACOPLADO-->TRANSPORTADOR ACOPLADO
@@ -1854,17 +1854,17 @@
 (1854)Move items here from your Inventory to store them for later use.  Sell items here for additional credits.  Move items from the Safe back to your Inventory as needed.<==>Mueve objetos aquí desde tu inventario para almacenarlos hasta que los necesites. Vende objetos aquí para conseguir más créditos. Mueve objetos de la caja fuerte al inventario según los vayas necesitando.-->Mova para cá os itens do seu inventário para armazená-los para uso posterior. Venda itens aqui para conseguir mais créditos. Mova itens do cofre para o inventário, conforme necessário.
 (1855-IGUAIS)2
 (1856)Sets the target on fire when shot<==>Prende fuego al objetivo.-->Trava o tiro no alvo quando ativado
-(1857)The Privacy Policy explains what personal and non-personal information EA collects, where that information is stored, and how EA may process, use and share that information.<==>La Política de privacidad explica qué tipo de información personal y no personal recopila EA, dónde se almacena esa información y cómo puede procesar, utilizar y compartir EA esa información.-->A Política de privacidade explica que tipo de informações pessoais e não pessoais são coletadas pela EA, se essa informação é armazenada e como a EA pode processar, utilizar e compartilhar essas informações.
+(1857)The Privacy Policy explains what personal and non-personal information EA collects, where that information is stored, and how EA may process, use and share that information.<==>La Política de privacidad explica qué tipo de información personal y no personal recopila EA, dónde se almacena esa información y cómo puede procesar, utilizar y compartir EA esa información.-->A política de privacidade explica que tipo de informações pessoais e não pessoais são coletadas pela EA, onde essa informação é armazenada e como a EA pode processar, usar e compartilhar essas informações.
 (1858)[What the hell...]<==>[¡Qué demonios...!]-->[Mas que diabos...]
 (1859-IGUAIS)Mario Valle
 (1860-IGUAIS)Jaap Tuinman
-(1861)short ranged puke & alternate fire snare <==>Vómito de corto alcance y atrapamiento secundario.-->Vômito de curto alcance paralisação secundária
+(1861)short ranged puke & alternate fire snare <==>Vómito de corto alcance y atrapamiento secundario.-->Vômito de curto alcance e paralisação secundária
 (1862-IGUAIS)ò
 (1863-IGUAIS)j
 (1864)redeem code<==>Canjear código-->Recuperar código
 (1865-IGUAIS)Ò
 (1866-IGUAIS)J
-(1867)Deep-space emergency beacon.<==>Baliza de emergencia en el espacio.-->Faról de Emergência de Deep-space.
+(1867)Deep-space emergency beacon.<==>Baliza de emergencia en el espacio.-->Farol de emergência no espaço.
 (1868)The specified password is too long.<==>La contraseña especificada es demasiado larga.-->A senha digitada é muito grande.
 (1869)Build Engineer<==>Ingeniero de compilación-->Engenheiro de Compilação
 (1870-IGUAIS)1
@@ -1872,7 +1872,7 @@
 (1872-IGUAIS)Primo Navidad
 (1873-IGUAIS)Seth Swanson
 (1874-IGUAIS)Shane Ushijima
-(1875)CHURCH TOUR<==>VISITA A LA IGLESIA-->VISITE A IGREJA
+(1875)CHURCH TOUR<==>VISITA A LA IGLESIA-->VISITA À IGREJA
 (1876-IGUAIS)PROPERTY RECLAIMATION
 (1877)defend<==>defender-->defender
 (1878)credits description<==>descripción de créditos-->Descrição dos créditos
@@ -1880,12 +1880,12 @@
 (1880-IGUAIS)2
 (1881)//empty//<==>//libre//-->//vazio//
 (1882)SEEKER SHELLS<==>PROYECTILES BUSCADORES-->PROJÉTEIS BUSCADORES
-(1883)The email address and password do not match.<==>La dirección de correo electrónico y la contraseña no concuerdan.-->O endereço de email e senha não estão corretas.
+(1883)The email address and password do not match.<==>La dirección de correo electrónico y la contraseña no concuerdan.-->O endereço de email e senha não estão corretos.
 (1884-IGUAIS)[Lstick] + [RDDown]
 (1885)Stop<==>PARAR-->Parar
 (1886)Scanning<==>Escaneando...-->Escaneando
 (1887)Access denied<==>Acceso denegado.-->Acesso negado
-(1888)Access granted<==>Acceso autorizado-->Acesso permitido
+(1888)Access granted<==>Acceso autorizado-->Acesso autorizado
 (1889-IGUAIS)Tony Gialdini
 (1890-IGUAIS)David Woldman
 (1891-IGUAIS)Louis Gascoigne
@@ -1925,19 +1925,19 @@
 (1925)Engineering Elite Suit<==>TRAJE DE INGEN. DE ELITE-->Traje de Engenheiro de Elite
 (1926-IGUAIS)Æ
 (1927-IGUAIS)U
-(1928)Heavy damage energy projector.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] to charge a high intensity blast, then release.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a blast of kinetic energy into the ground to push away all nearby objects.<==>Proyector de energía de gran daño.\n• [c=CUSTOM2] Disp. principal [c=RESET]: mantén pulsado [rsbottom] para cargar el disparo y suelta para disparar.\n• [c=CUSTOM2] Disp. secundario [c=RESET]: pulsa [rstop] para disparar energía cinética al suelo.-->Projetor de energia de grande dano.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: segure [rsbottom] para carregar o disparo e solte para disparar.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar uma carga de energia cinética no chão. 
-(1929)I don't know who the hell needs a whole roll of toilet paper to wipe their ass, but I'm gonna kick their ass if I ever find them.  This is the 5th week in a row that some jackass has clogged the toilets in here.  We're in space for crying out loud, if this plumbing gets jacked, someone has to space walk and get a helmet full of crap to clean it out.  KNOCK IT OFF.<==>No sé quién diablos necesita un rollo de papel higiénico entero para limpiarse el culo, pero si lo descubro, se lo pateo. Esta es la quinta semana seguida que algún gilipollas atasca los retretes. Estamos en el espacio, por el amor de Dios, si las cañerías se atascan, alguien tiene que darse un paseo espacial y llenarse el casco de mierda para desatascarlas. YA ESTÁ BIEN.-->Eu não sei quem diabos precisa de um rolo inteiro de papel higiênico para limpar a bunda, mas se eu descubro quem é, chuto sua bunda. Essa é a quinta semana seguida que algum idiota entope o banheiro aqui. Nós estamos no espaço, pelo amor de Deus, se esse encanamento estourar, alguém vai ter que passear no espaço e encher a fuselagem de merda para limpar a bagunça.  PAREM COM ISSO.
-(1930)Primary Fire DUR +1 sec / Secondary Fire DAM +10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to tether a blade in a short radius from the saw.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to eject a blade from the saw at high velocity.<==>DUR disparo principal: +1 seg. / DÑO disparo secundario: +10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para anclar una cuchilla en un radio corto.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una cuchilla desde la sierra a gran velocidad.-->DUR do disparo principal: +1 seg / DANO do disparo secundário: +10%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para lançar uma lâmina da serra a grande velocidade. \n• [c=CUSTOM2] Disparo Secundário [c=RESET]: Pressione [rstop] para lançar uma lâmina da serra em graande velocidade.
-(1931){g} here is the email used for your EA Account:<==>{g}, aquí tienes el correo electrónico asociado a tu cuenta EA:-->{g} aqui está o email utilizado para sua Conta EA:
+(1928)Heavy damage energy projector.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] to charge a high intensity blast, then release.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to fire a blast of kinetic energy into the ground to push away all nearby objects.<==>Proyector de energía de gran daño.\n• [c=CUSTOM2] Disp. principal [c=RESET]: mantén pulsado [rsbottom] para cargar el disparo y suelta para disparar.\n• [c=CUSTOM2] Disp. secundario [c=RESET]: pulsa [rstop] para disparar energía cinética al suelo.-->Projetor de energia de grande dano.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: segure [rsbottom] para carregar o disparo e solte para disparar.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para disparar uma carga de energia cinética no chão e afastar objetos próximos. 
+(1929)I don't know who the hell needs a whole roll of toilet paper to wipe their ass, but I'm gonna kick their ass if I ever find them.  This is the 5th week in a row that some jackass has clogged the toilets in here.  We're in space for crying out loud, if this plumbing gets jacked, someone has to space walk and get a helmet full of crap to clean it out.  KNOCK IT OFF.<==>No sé quién diablos necesita un rollo de papel higiénico entero para limpiarse el culo, pero si lo descubro, se lo pateo. Esta es la quinta semana seguida que algún gilipollas atasca los retretes. Estamos en el espacio, por el amor de Dios, si las cañerías se atascan, alguien tiene que darse un paseo espacial y llenarse el casco de mierda para desatascarlas. YA ESTÁ BIEN.-->Eu não sei quem diabos precisa de um rolo inteiro de papel higiênico para limpar a bunda, mas se eu descubro quem é, vou chutar a sua bunda. Essa é a quinta semana seguida que algum idiota entope o banheiro aqui. Nós estamos no espaço, pelo amor de Deus, se esse encanamento estourar, alguém vai ter que dar um passeio no espaço e encher o capacete de merda para limpar a bagunça.  PAREM COM ISSO.
+(1930)Primary Fire DUR +1 sec / Secondary Fire DAM +10%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to tether a blade in a short radius from the saw.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to eject a blade from the saw at high velocity.<==>DUR disparo principal: +1 seg. / DÑO disparo secundario: +10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para anclar una cuchilla en un radio corto.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una cuchilla desde la sierra a gran velocidad.-->DUR do disparo principal: +1 seg / DANO do disparo secundário: +10%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para segurar uma lâmina em um raio curto da serra. \n• [c=CUSTOM2] Disparo Secundário [c=RESET]: Pressione [rstop] para lançar uma lâmina da serra em grande velocidade.
+(1931){g} here is the email used for your EA Account:<==>{g}, aquí tienes el correo electrónico asociado a tu cuenta EA:-->{g}, aqui está o endereço eletrônico associado à sua Conta EA:
 (1932)quit lobby<==>Salir de punto de encuentro-->Sair do ponto de encontro
-(1933)The Contact Beam is the most powerful weapon, but requires a charge for each shot.<==>El rayo de contacto es el arma más potente, pero requiere una carga por cada disparo.-->O raio de contatoé a arma mais poderosa de todas, mas requer uma carga para cada disparo.
+(1933)The Contact Beam is the most powerful weapon, but requires a charge for each shot.<==>El rayo de contacto es el arma más potente, pero requiere una carga por cada disparo.-->O raio de contato é a arma mais poderosa de todas, mas requer uma carga para cada disparo.
 (1934)prevent the delivery of the repair unit<==>Evita que la unidad de reparación llegue a su destino.-->evite que a unidade de reparos chegue ao seu destino
 (1935)SEEKER SHELLS\nSchematic Acquired\nDownload at the Store<==>PROYECTILES BUSCADORES\nDiagrama Adquirido\nDescargar en el almacén-->ESCUDOS BUSCADORES\nDiagrama Adquirido\nBaixe na loja
 (1936)Detonator<==>Detonador-->Detonador
 (1937)Schematic type temp<==>Tipo de diagrama temporal-->Tipo de diagrama temporal
 (1938)Hacker Suit Schematic<==>Diagrama de traje de pirateo-->Diagrama do Traje Hacker
 (1939)FEEDING PROCESS INITIATED<==>PROCESO DE ALIMENTACIÓN INICIADO-->PROCESSO DE ALIMENTAÇÃO INICIADO
-(1940)LARGE CURRENCY<==>DIVISA GRANDE-->GRANDE CAPITAL
+(1940)LARGE CURRENCY<==>DIVISA GRANDE-->DIVISA GRANDE
 (1941)Bring this schematic to the store to unlock the Detonator Mines.<==>Lleva este diagrama al almacén para desbloquear las minas de detonación.-->Leve esse diagrama até a loja para desbloquear as minas de detonação.
 (1942-IGUAIS)5.1 Surround
 (1943)Solid Red<==>Rojo liso-->Vermelho Liso
@@ -1950,25 +1950,25 @@
 (1950)You have lost your connection to the EA Servers. You will be returned to the Main Menu.<==>Se ha perdido la conexión con los servidores de EA. Volverás al menú principal.-->Você perdeu a conexão com os servidores da EA. Você voltará para o menu principal.
 (1951)RIOT SECURITY SUIT<==>TRAJE DE SEGURIDAD ANTIDISTURBIOS-->TRAJE DE SEGURANÇA ANTIDISTURBIOS
 (1952)Contact Beam Schematic<==>Diagrama de rayo de contacto-->Diagrama do raio de contato
-(1953)The Patrol Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Pulse Rifle and Seeker Rifle get a 5% damage bonus. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de patrulla ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de arma [c=RESET]: un 5% adicional de daño para el rifle de impulsos y el rifle buscador. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje de Patrulha oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM3] Bônus de Armas [c=RESET]: 5% de dano adicional para o rifle de impulsos e o rifle buscador. \nA compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI conserva a maior melhoria de blindagem e inventário.
+(1953)The Patrol Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Pulse Rifle and Seeker Rifle get a 5% damage bonus. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de patrulla ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de arma [c=RESET]: un 5% adicional de daño para el rifle de impulsos y el rifle buscador. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje de Patrulha oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM3] Bônus de Armas [c=RESET]: 5% de dano adicional para o rifle de impulsos e o rifle buscador.\nA compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI conserva a maior melhoria de blindagem e inventário.
 (1954-REPETIDO)Development Directors<==>Directores de desarrollo-->Diretores de Desenvolvimento
 (1955)Development Managers<==>Gestores de desarrollo-->Gestores de Desenvolvimento
-(1956)(while jumping/sprinting)<==>(al saltar/acelerar)-->(enquanto pula/corre)
+(1956)(while jumping/sprinting)<==>(al saltar/acelerar)-->(ao saltar/acelerar)
 (1957)Gravity<==>Gravedad-->Gravidade
 (1958-REPETIDO)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isso vai aumentar o dano do DISPARO SECUNDÁRIO.
-(1959)Nav cards required<==>Se necesitan cartas de navegación-->Cartas de navegação necessárias
+(1959)Nav cards required<==>Se necesitan cartas de navegación-->São necessárias cartas de navegação
 (1960)Test fire shuttle<==>Probar encendido del transbordador-->Testar arranque do transportador
 (1961)Engine firing<==>Encendido de motores-->Arranque dos motores
-(1962)RELEASE DOCKING CLAMPS<==>SOLTAR GANCHOS DE ANCLAJE-->SOLTAR GANCHOS DE ANCORAGEM
-(1963)Docking clamps released<==>Ganchos de anclaje sueltos-->Ganchos de ancoragem soltos
+(1962)RELEASE DOCKING CLAMPS<==>SOLTAR GANCHOS DE ANCLAJE-->LIBERAR GANCHOS DE ANCORAGEM
+(1963)Docking clamps released<==>Ganchos de anclaje sueltos-->Ganchos de ancoragem liberados
 (1964)Pilot required<==>Se necesita piloto-->É necessário um piloto
 (1965)retry<==>volver a intentar-->Tentar novamente
 (1966)change view<==>Cambiar vista-->Mudar visão
-(1967)To: All Government Employees\n\nA number of security breaches have occurred in the past week that could have been avoided if proper protocol was followed. I'd like to take this time to remind employees that all government facilities are considered secure locations. Badges should be worn in a highly visible location at all times. Guests and civilians are not allowed beyond the atrium without a badged escort. Maintenance contractors from the CEC must present proper authorization papers and are to be escorted at all times. Let's keep our workplace safe and secure.\n\nLane Brennek\nDirector of Human Resources\nEarth Government Colonial Alliance\nTitan Station<==>Para: Todos los empleados gubernamentales\n\nLa pasada semana se produjeron una serie de infracciones de seguridad que podían haberse evitado siguiendo el protocolo adecuado. Quisiera aprovechar para recordar a los empleados que todas las instalaciones gubernamentales se consideran ubicaciones seguras. Las identificaciones deben llevarse siempre en un lugar visible. Los invitados y los civiles no pueden ir más allá del atrio sin un escolta debidamente identificado. Los contratistas de mantenimiento de CEC deben presentar los papeles de autorización pertinentes e ir acompañados por un escolta en todo momento. Mantengamos seguro nuestro lugar de trabajo.\n\nLane Brennek\nDirectora de Recursos Humanos\nAlianza colonial del gobierno de la Tierra\nEstación Titán-->Para: Todos os empregados governamentais\n\nNa semana passada aconteceram uma série de infrações de segurança que poderiam ter sido evitadas se o protocolo adequado tivesse sido seguido. Quero aproveitar para lembrar aos empregados que todas as instalações governamentais são consideradas locais seguros. Crachás devem ser usados em um local vísivel o tempo todo. Visitantes e civis não podem ir além do atrio sem uma escolta devidamente identificada. Os contratados para manutenção do CEC devem apresentar os papéis de autorização pertinentes e estar acompanhados por uma escolta o tempo todo. Vamos manter seguro nosso local de trabalho.\n\nLane Brennek\nDiretora de Recursos Humanos\nAliança Colonial do Governo da Terra\nEstação Titã
+(1967)To: All Government Employees\n\nA number of security breaches have occurred in the past week that could have been avoided if proper protocol was followed. I'd like to take this time to remind employees that all government facilities are considered secure locations. Badges should be worn in a highly visible location at all times. Guests and civilians are not allowed beyond the atrium without a badged escort. Maintenance contractors from the CEC must present proper authorization papers and are to be escorted at all times. Let's keep our workplace safe and secure.\n\nLane Brennek\nDirector of Human Resources\nEarth Government Colonial Alliance\nTitan Station<==>Para: Todos los empleados gubernamentales\n\nLa pasada semana se produjeron una serie de infracciones de seguridad que podían haberse evitado siguiendo el protocolo adecuado. Quisiera aprovechar para recordar a los empleados que todas las instalaciones gubernamentales se consideran ubicaciones seguras. Las identificaciones deben llevarse siempre en un lugar visible. Los invitados y los civiles no pueden ir más allá del atrio sin un escolta debidamente identificado. Los contratistas de mantenimiento de CEC deben presentar los papeles de autorización pertinentes e ir acompañados por un escolta en todo momento. Mantengamos seguro nuestro lugar de trabajo.\n\nLane Brennek\nDirectora de Recursos Humanos\nAlianza colonial del gobierno de la Tierra\nEstación Titán-->Para: Todos os empregados do governo\n\nNa semana passada aconteceram uma série de violações de segurança que poderiam ter sido evitadas se o protocolo adequado tivesse sido seguido. Eu gostaria de aproveitar a oportunidade para lembrar os empregados que todas as instalações governamentais são consideradas locais seguros. Os crachás devem ser usados sempre em um lugar visível. Os visitantes e civis não podem ir além do átrio sem uma escolta devidamente identificada. Os contratados para manutenção do CEC devem apresentar os papéis de autorização pertinentes e devem estar o tempo todo acompanhados por uma escolta. Vamos manter nosso local de trabalho seguro.\n\nLane Brennek\nDiretora de Recursos Humanos\nAliança Colonial do Governo da Terra\nEstação Titã
 (1968)PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!<==>El hospital-->PLACEHOLDER TEXT - DON'T EXPORT WITH THIS FIELD BLANK!
 (1969)Creative Director<==>Director creativo-->Créditos da Adaptação
 (1970-IGUAIS)2
-(1971)Director of Research <==>Director de investigación-->Diretor de Pesquisas
+(1971)Director of Research <==>Director de investigación-->Diretor de Pesquisa
 (1972)delete existing data<==>borrar datos existentes-->Apagar dados existentes
 (1973)rescues<==>rescates-->Resgates
 (1974-IGUAIS)4
@@ -1977,16 +1977,16 @@
 (1977-IGUAIS)$
 (1978-IGUAIS)Selvaggia Salvati
 (1979-IGUAIS)Paolo Giovenco
-(1980)Art Director<==>Director artístico-->Diretor Artístico
+(1980)Art Director<==>Director artístico-->Diretor de Artes
 (1981)TRAM REPAIR<==>REPARACIÓN DEL MONORRAÍL-->REPARAÇÃO DO TREM
 (1982)CONTACT BEAM\nSchematic Acquired\nDownload at the Store<==>LÁSER DE CONTACTO\nDiagrama Adquirido\nDescargar en el almacén-->LASER DE CONTATO\nDiagrama Adquirido\nBaixe na loja
 (1983)You unlocked increased damage for the Javelin Gun<==>Has desbloqueado más daño para el cañón jabalina.-->Você desbloqueou mais dano para o canhão de dardos.
 (1984)Schematic Downloaded:<==>Diagrama descargado:-->Diagrama Baixado:
-(1985)[Seems like everyone was trying to pack in a hurry.]<==>[Parece que tenían prisa por hacer las maletas.]-->[Parece que estavam com pressa em fazer as malas.]
+(1985)[Seems like everyone was trying to pack in a hurry.]<==>[Parece que tenían prisa por hacer las maletas.]-->[Parece que estavam com pressa para fazer as malas.]
 (1986-REPETIDO)Click [LStick]<==>Haz clic en [LStick]-->Pressione [LStick]
 (1987)Translator<==>Traductor-->Tradutor
-(1988)Projectile Ammunition for the Seeker Rifle.\n - Inventory Slot Stack Size: 15<==>Munición para el rifle buscador.\n - Tamaño del bloque de ranuras de inventario: 15-->Munição para o Rifle Buscador.\n - Quantidade máxima armazenada em um espaço do inventário: 15
-(1989)Government Sector - we've finally made it. I'm heading to Ellie's location now.\n\nBut how far is this going to go? Ellie helped me get here, but she can't help me destroy the Marker. Even I'M not sure how to do that. She could become just another casualty, the longer we stick together...<==>Sector gubernamental, lo hemos logrado. Ahora me dirijo a la posición de Ellie.\n\n¿Pero hasta dónde va a llegar esto? Ellie me ha ayudado a llegar hasta aquí, pero no puede ayudarme a destruir la Efigie. Ni siquiera YO estoy seguro de cómo hacerlo. Cuanto más tiempo permanezcamos juntos, más posibilidades hay de que acabe siendo otra víctima...-->Setor Governamental - finalmente chegamos. Agora estou indo até a posição da Ellie.\n\Mas até onde isso vai chegar? Ellie me ajudou a chegar aqui, mas não pode me ajudar a destruir o Marker. Nem mesmo eu sei como fazer isso. Quanto mais tempos permanecemos juntos, mais chances existem de que ela acabe se tornando outra vítima...
+(1988)Projectile Ammunition for the Seeker Rifle.\n - Inventory Slot Stack Size: 15<==>Munición para el rifle buscador.\n - Tamaño del bloque de ranuras de inventario: 15-->Munição para o rifle buscador.\n - Quantidade máxima armazenada em um espaço do inventário: 15
+(1989)Government Sector - we've finally made it. I'm heading to Ellie's location now.\n\nBut how far is this going to go? Ellie helped me get here, but she can't help me destroy the Marker. Even I'M not sure how to do that. She could become just another casualty, the longer we stick together...<==>Sector gubernamental, lo hemos logrado. Ahora me dirijo a la posición de Ellie.\n\n¿Pero hasta dónde va a llegar esto? Ellie me ha ayudado a llegar hasta aquí, pero no puede ayudarme a destruir la Efigie. Ni siquiera YO estoy seguro de cómo hacerlo. Cuanto más tiempo permanezcamos juntos, más posibilidades hay de que acabe siendo otra víctima...-->Setor Governamental - finalmente conseguimos chegar aqui. Agora estou indo até onde está a Ellie.\n\Mas até onde isso vai chegar? Ellie me ajudou a chegar aqui, mas não pode me ajudar a destruir o Marker. Nem mesmo eu sei como fazer isso. Quanto mais tempos permanecemos juntos, mais chances existem de que ela acabe se tornando outra vítima...
 (1990-IGUAIS)[RDUp]
 (1991-IGUAIS)[LSTop]
 (1992-IGUAIS)[LSBottom]
@@ -2022,7 +2022,7 @@
 (2022)QA Test Lead<==>Jefe de pruebas de control de calidad-->Chefe de Testes do Controle de Qualidade
 (2023-IGUAIS)4
 (2024)connecting...<==>Conectando...-->Conectando...
-(2025)respawn<==>Resucitar-->Ressucitar
+(2025)respawn<==>Resucitar-->Ressuscitar
 (2026-IGUAIS)Christina Yen
 (2027-IGUAIS)Michael Yen
 (2028)01 [Divine Discovery]<==>01 [Descubrimiento divino]-->01 [Descobrimento Divino]
@@ -2034,8 +2034,8 @@
 (2034)The storage device was removed during use. Delete failed.<==>El dispositivo de almacenamiento fue extraído durante su uso. Error al borrar.-->O dispositivo de armazenamento foi removido durante o uso. Erro ao apagar.
 (2035)You unlocked increased health for the Lurker<==>Has desbloqueado más salud para el merodeador.-->Você desbloqueou mais saúde para o Espreitador.
 (2036)destroy the power junction to the security doors<==>Destruye la caja de derivación de energía de las puertas de seguridad.-->Destrua a caixa de força das portas de segurança
-(2037)No storage device selected. You will need to select a storage device to save games.<==>No hay dispositivo de almacenamiento seleccionado. Deberás seleccionar uno para poder guardar partidas.-->Nenhum dispositivo de armazenamento foi selecionado. Você precisa selecionar um dispositivo para salvar seu jogo.
-(2038)jump<==>saltar-->pular
+(2037)No storage device selected. You will need to select a storage device to save games.<==>No hay dispositivo de almacenamiento seleccionado. Deberás seleccionar uno para poder guardar partidas.-->Nenhum dispositivo de armazenamento foi selecionado. Você precisa selecionar um dispositivo de armazenamento para salvar seu jogo.
+(2038)jump<==>saltar-->saltar
 (2039-IGUAIS)Jasper Kaw
 (2040)stasis<==>estabilización-->estabilização
 (2041)UNLOCKED<==>DESBLOQ.-->DESBLOQUEADO
@@ -2047,38 +2047,38 @@
 (2047)BODY CLEANSING<==>BODY CLEANSING-->LIMPEZA DO CORPO
 (2048-IGUAIS).....................
 (2049)completed<==>completado-->concluído
-(2050)This demo is intended for promotional purposes only and may not be sold, rented or reproduced by any party. Any unauthorized use of this demo is prohibited by applicable law.<==>El objetivo de esta demo es meramente promocional y no se puede vender, alquilar, o reproducir por ninguna de las partes. Queda prohibido cualquier uso no autorizado por la legislación aplicable.-->O objetivo dessa demonstração é meramente promocional e não deve ser vendido, alugado ou reproduzido por nenhuma das partes. Qualquer uso não autorizado dessa demonstração é proibido por lei.
+(2050)This demo is intended for promotional purposes only and may not be sold, rented or reproduced by any party. Any unauthorized use of this demo is prohibited by applicable law.<==>El objetivo de esta demo es meramente promocional y no se puede vender, alquilar, o reproducir por ninguna de las partes. Queda prohibido cualquier uso no autorizado por la legislación aplicable.-->O objetivo dessa demonstração é meramente promocional e não pode ser vendido, alugado ou reproduzido por nenhum parceiro. Qualquer uso não autorizado dessa demonstração é proibido por lei.
 (2051)What is an EA Account?<==>¿Qué es una cuenta EA?-->O que é uma conta EA?
 (2052)You unlocked additional Stasis energy<==>Has desbloqueado más energía de estabilización.-->Você desbloqueou mais energia de estabilização.
 (2053)Bring this schematic to the store to unlock the Contact Beam.<==>Lleva este diagrama al almacén para desbloquear el rayo de contacto.-->Leve esse diagrama até a loja para desbloquear o raio de contato.
-(2054)Welcome to MicroStore: CEC Engineer Isaac Clarke.  Updating inventory to CEC engineering load out.<==>Bienvenido a MicroStore: ingeniero de CEC Isaac Clarke. Actualizando inventario en el equipo de ingeniería de CEC.-->Seja bem-vindo a MicroStore: engenheiro de CEC Isaac Clarke. Atualizando inventário para equipe engenharia da CEC.
+(2054)Welcome to MicroStore: CEC Engineer Isaac Clarke.  Updating inventory to CEC engineering load out.<==>Bienvenido a MicroStore: ingeniero de CEC Isaac Clarke. Actualizando inventario en el equipo de ingeniería de CEC.-->Seja bem-vindo à MicroStore: Engenheiro de CEC Isaac Clarke. Atualizando inventário para equipe de engenharia da CEC.
 (2055)Thanks for shopping MicroStore. Have a pleasant day. <==>Gracias por comprar en MicroStore. Tenga un buen día.-->Obrigado por comprar na MicroStore. Tenha um bom dia.
-(2056)Microstore thanks you. Have a pleasant day.  Be safe in space!.<==>MicroStore le da las gracias. Tenga un buen día. ¡Cuidado en el espacio!-->Microstore te agradece. Tenha um bom dia. Cuidado no espaço!
+(2056)Microstore thanks you. Have a pleasant day.  Be safe in space!.<==>MicroStore le da las gracias. Tenga un buen día. ¡Cuidado en el espacio!-->Microstore agradece pela sua preferência. Tenha um bom dia. Cuidado no espaço!
 (2057-REPETIDO)There's always more in store at Microstore.  Thanks for shopping! <==>En MicroStore encontrará siempre lo que busca. ¡Gracias por su compra!-->Na Microstore você sempre encontrará o que procura. Obrigado pela compra!
 (2058-REPETIDO)Transaction complete.  Come back soon.<==>Transacción completada. Vuelva cuando quiera.-->Transação concluída. Volte quando quiser.
-(2059)New RIG Registration: Isaac Clarke. Location: Hospital, Alpha Sector, Titan Station. We are currently over the...northern hemisphere...of Saturn. An emergency evacuation order is in progress. Please comply immediately.<==>Nuevo registro de DRI: Isaac Clarke. Ubicación: hospital, sector alfa, estación Titán. Ahora mismo estamos sobre el... hemisferio norte... de Saturno. Hay una orden de evacuación de emergencia en curso. Por favor, cúmplala de inmediato.-->Novo registro do DRI: Isaac Clarke. Localização: hospital, setor alpha, estação Titã. Agora mesmo nós estamos sobre o...hemisfério norte...de Saturno. Há uma ordem de evacuação de emergência em curso. Por favor, cumpram-na de imediato.
-(2060)Heat Warning.  The storage area is beyond current safety limits. <==>Alerta térmica: la zona de almacenamiento no está dentro de los límites de seguridad.-->Alerta térmico: a zona de armazenamento não está dentro dos limites de segurança.
+(2059)New RIG Registration: Isaac Clarke. Location: Hospital, Alpha Sector, Titan Station. We are currently over the...northern hemisphere...of Saturn. An emergency evacuation order is in progress. Please comply immediately.<==>Nuevo registro de DRI: Isaac Clarke. Ubicación: hospital, sector alfa, estación Titán. Ahora mismo estamos sobre el... hemisferio norte... de Saturno. Hay una orden de evacuación de emergencia en curso. Por favor, cúmplala de inmediato.-->Novo registro de DRI: Isaac Clarke. Localização: hospital, setor alpha, estação Titã. Agora mesmo estamos sobre o...hemisfério norte...de Saturno. Há uma ordem de evacuação de emergência em curso. Por favor, cumpram-na de imediato.
+(2060)Heat Warning.  The storage area is beyond current safety limits. <==>Alerta térmica: la zona de almacenamiento no está dentro de los límites de seguridad.-->Alerta térmico: a área de armazenamento não está dentro dos limites de segurança.
 (2061)Design<==>Diseño-->Design
 (2062)take your chances <==>Arriésgate.-->Arrisque-se
 (2063)Control Center<==>Centro de control-->Centro de Controle
 (2064)Decon Chamber<==>Cámara desinfección-->Câmara de Desinfecção
-(2065)Centrifuge Room<==>Sala de la centrifugadora-->Sala da centrifugadora
+(2065)Centrifuge Room<==>Sala de la centrifugadora-->Sala da Centrifugadora
 (2066)Warning: Authorized personnel only.<==>Alerta: solo personal autorizado-->Alerta: somente pessoal autorizado.
-(2067)Clean yourself up. You stink.<==>Aséese. Apesta.-->Limp-se. Você esta fedendo.
-(2068)Whoa it's spinning. I'm getting dizzy!<==>¡Esto gira! ¡Me estoy mareando!-->Isso gira! Estou ficando enjoado!
+(2067)Clean yourself up. You stink.<==>Aséese. Apesta.-->Limpe-se. Você está fedendo.
+(2068)Whoa it's spinning. I'm getting dizzy!<==>¡Esto gira! ¡Me estoy mareando!-->Oa, está girando! Estou ficando enjoado!
 (2069)Share Usage Data<==>Compartir datos de uso-->Compartilhar dados de uso
-(2070)Your free trial has expired. Please purchase an online access code.<==>Tu versión de prueba gratuita ha caducado. Adquiere un código de acceso online.-->Sua versão de avaliação gratuita expirou. Por favor compre um código de acesso online.
+(2070)Your free trial has expired. Please purchase an online access code.<==>Tu versión de prueba gratuita ha caducado. Adquiere un código de acceso online.-->Sua versão de avaliação gratuita expirou. Por favor adquira um código de acesso online.
 (2071)RESTRICTED ACCESS<==>ACCESO RESTRINGIDO-->ACESSO RESTRITO
 (2072-IGUAIS)3
 (2073)PULSE RIFLE<==>RIFLE DE IMPULSOS-->RIFLE DE IMPULSOS
 (2074)skill<==>habilidad-->Habilidade
 (2075-IGUAIS)Marketing
-(2076)//internal check......\n/inertial dampeners...ONLINE\n/environmental intermix chamber...ONLINE\n/phase variance set...ONLINE\n/engineer check...<==>//comprobación interna......\n/amortiguadores inerciales...CONECTADOS\n/cámara de interpolación ambiental...CONECTADA\n/grupo de variación de fase...CONECTADO\n/comprobación de ingeniería...-->//verificação interna......\n/amortecedores de inercia...CONECTADOS\n/câmara de interpolação ambiental...CONECTADA\n/grupo de variação de fase...CONECTADO\n/verificando engenharia...
+(2076)//internal check......\n/inertial dampeners...ONLINE\n/environmental intermix chamber...ONLINE\n/phase variance set...ONLINE\n/engineer check...<==>//comprobación interna......\n/amortiguadores inerciales...CONECTADOS\n/cámara de interpolación ambiental...CONECTADA\n/grupo de variación de fase...CONECTADO\n/comprobación de ingeniería...-->//verificação interna......\n/amortecedores de inércia...CONECTADOS\n/câmara de interpolação ambiental...CONECTADO\n/grupo de variação de fase...CONECTADO\n/verificação de engenharia...
 (2077)//external check......\n/deflector polarity...SET\n/improbability drive...42\n/trans-warp field generator...SET\n/design check...<==>//comprobación externa......\n/polaridad del deflector...CONFIGURADA\n/unidad de improbabilidad...42\n/generador de campo de transdistorsión...CONFIGURADO\n/comprobación de diseño...-->//verificação externa......\n/polaridade do refletor...CONFIGURADA\n/unidade de improbabilidade...42\n/gerador do campo de transdistorção...CONFIGURADO\n/verificação de design...
 (2078)//shockpoint generator\n/interface to hull...SET\n/set to standby...SET\n/activate phase relay...SET\n/update overclock timing...SET\n/production check...<==>//generador de motor de distorsión\n/interfaz al casco...CONFIGURADO\n/ajuste de espera...CONFIGURADA\n/activar transmisor de fase...CONFIGURADO\n/actualizar sincronización de sobreaceleración...CONFIGURADO\n/comprobación de producción...-->//gerador de motor de distorção\n/interface da fuselagem...CONFIGURADO\n/ajuste de espera...CONFIGURADO\n/ativar transmissão de fase...CONFIGURADO\n/atualizar sincronização de sobreaceleração...CONFIGURADO\n/verificação de produção...
-(2079)//magnetic bindings\n/bind magno sever...SET\n/bind cargo hold...SET\n/bind passenger hold...SET\n/bind LE stiff...SET\n/design check...<==>//enlaces magnéticos\n/conectar megacortadora...CONFIGURADO\n/conectar sujección de carga...CONFIGURADO\n/conectar sujección de pasajeros...CONFIGURADO\n/conectar endurecimiento de superficie...CONFIGURADO\n/comprobación de diseño...-->//enlaces magnéticos\n/conectar megacortadora...CONFIGURADO\n/conectar área de carga...CONFIGURADO\n/conectar área de passageiros...CONFIGURADO\n/conectar endurecimento da superfície...CONFIGURADO\n/verificando design...
-(2080)//shockpoint graph\n/begin equation...0\n/flush dampeners...1\n/load computation...3\n/begin safety check...4\n/enter penumbra...5\n/navigation check...<==>//gráfico de motor de distorsión\n/comenzar ecuación...0\n/soltar amortiguadores...1\n/cargar cálculos...3\n/iniciar comprobación de seguridad...4\n/entrando en penumbra...5\n/comprobación de navegación-->//gráfico do motor de distorção\n/começar equação...0\n/soltar amortecedores...1\n/carregar cálculos...3\n/iniciar verificação de segurança...4\n/entrando na penumbra...5\n/verificando navegação...
-(2081)//destination graph\n/usg ishimura plot...FOUND\n/determine variance...SET\n/flux capacitor...SET\n/launch nav anchor...SET\n/enginner check...<==>//gráfico de destino\n/esquema del usg ishimura...ENCONTRADO\n/determinar varianza...CONFIGURADO\n/capacitador de flujo...CONFIGURADO\n/iniciar anclaje de navegación...CONFIGURADO\n/comprobación de ingeniería...-->//gráfico de destino\n/esquema do usg ishimura...ENCONTRADO\n/determinar variância...CONFIGURADO\n/capacitador de fluxo...CONFIGURADO\n/iniciar âncora de navegação...CONFIGURADO\n/verificando engenharia...
+(2079)//magnetic bindings\n/bind magno sever...SET\n/bind cargo hold...SET\n/bind passenger hold...SET\n/bind LE stiff...SET\n/design check...<==>//enlaces magnéticos\n/conectar megacortadora...CONFIGURADO\n/conectar sujección de carga...CONFIGURADO\n/conectar sujección de pasajeros...CONFIGURADO\n/conectar endurecimiento de superficie...CONFIGURADO\n/comprobación de diseño...-->//enlaces magnéticos\n/conectar megacortadora...CONFIGURADO\n/conectar área de carga...CONFIGURADO\n/conectar área de passageiros...CONFIGURADO\n/conectar endurecimento de superfície...CONFIGURADO\n/verificação de design...
+(2080)//shockpoint graph\n/begin equation...0\n/flush dampeners...1\n/load computation...3\n/begin safety check...4\n/enter penumbra...5\n/navigation check...<==>//gráfico de motor de distorsión\n/comenzar ecuación...0\n/soltar amortiguadores...1\n/cargar cálculos...3\n/iniciar comprobación de seguridad...4\n/entrando en penumbra...5\n/comprobación de navegación-->//gráfico do motor de distorção\n/começar equação...0\n/soltar amortecedores...1\n/carregar cálculos...3\n/iniciar verificação de segurança...4\n/entrando na penumbra...5\n/verificação de navegação...
+(2081)//destination graph\n/usg ishimura plot...FOUND\n/determine variance...SET\n/flux capacitor...SET\n/launch nav anchor...SET\n/enginner check...<==>//gráfico de destino\n/esquema del usg ishimura...ENCONTRADO\n/determinar varianza...CONFIGURADO\n/capacitador de flujo...CONFIGURADO\n/iniciar anclaje de navegación...CONFIGURADO\n/comprobación de ingeniería...-->//gráfico de destino\n/esquema da usg ishimura...ENCONTRADO\n/determinar variância...CONFIGURADO\n/capacitador de fluxo...CONFIGURADO\n/iniciar âncora de navegação...CONFIGURADO\n/verificação de engenharia...
 (2082)//SC-KELLION\n/Wai Lao Class Shuttle\n/Zebra Industries\n/12700-Zed-Beta<==>//SC-KELLION\n/Transbordador de clase Wai Lao\n/Zebra Industries\n/12700-Zed-Beta-->//SC-KELLION\n/Transportador de classe Wai Lao\n/Indústrias Zebra\n/12700-Zed-Beta
 (2083)//Shockpoint<==>//Motor de distorsión-->//Motor de distorção
 (2084)//Initialiize Shockpoint<==>//Iniciar motor de distorsión-->//Iniciar motor de distorção
@@ -2090,17 +2090,17 @@
 (2090)Environment Art<==>Diseño de entornos-->Design de Ambiente
 (2091)PATROL SEEKER RIFLE<==>RIFLE BUSCADOR DE PATRULLA-->RIFLE BUSCADOR DE PATRULHA
 (2092-REPETIDO)Chapter 9<==>Capítulo 9-->Capítulo 9 - O Transporte
-(2093)Motion Capture Directors<==>Directores de captura de movimiento-->Diretores de captura de movimento
+(2093)Motion Capture Directors<==>Directores de captura de movimiento-->Diretores de Captura de Movimento
 (2094)sprint<==>acelerar-->correr
 (2095)Observation Center<==>Centro de observación-->Centro de Observação
 (2096)Left<==>Izquierdo-->Esquerda
 (2097)Right<==>Derecho-->Direita
-(2098)The dampening system built into the shielding around the Marker Test Beds SHOULD be blocking the signal entirely. But I swear the dementia signal is STILL getting through. Not a single thing registers on any sensor outside the shield walls. Put the same sensor inside with the Marker, and it goes off the charts. So we've either missed something entirely, or...I don't know what. You know, if we have, oh man, please heaven help us.<==>El sistema de amortiguación construido sobre la protección que rodea los bancos de pruebas de la Efigie DEBERÍA bloquear la señal por completo, pero puedo afirmar que de algún modo la señal de demencia AÚN la atraviesa. Ningún sector fuera de los muros de protección registra lo más mínimo. Si colocamos el mismo sensor dentro con la Efigie, se sale de las gráficas. Hemos pasado algo por alto, o... no sé. Si es así, que dios nos ayude.-->O sistema de atenuação construído sobre a proteção que rodeia os bancos de avaliação do Marker DEVERIAM bloquear completamente os sinais. Mas eu posso afirmar que de alguma forma o sinal de demência CONTINUA atravessando. Nenhum setor fora dos muros de proteção registra o mínimo sinal. Se colocarmos o mesmo sensor dentro do Marker, ele sai dos gráficos.  Nós deixamos alguma coisa passar, ou... não sei o que está acontecendo. Se for isso, então Deus nos ajude.
+(2098)The dampening system built into the shielding around the Marker Test Beds SHOULD be blocking the signal entirely. But I swear the dementia signal is STILL getting through. Not a single thing registers on any sensor outside the shield walls. Put the same sensor inside with the Marker, and it goes off the charts. So we've either missed something entirely, or...I don't know what. You know, if we have, oh man, please heaven help us.<==>El sistema de amortiguación construido sobre la protección que rodea los bancos de pruebas de la Efigie DEBERÍA bloquear la señal por completo, pero puedo afirmar que de algún modo la señal de demencia AÚN la atraviesa. Ningún sector fuera de los muros de protección registra lo más mínimo. Si colocamos el mismo sensor dentro con la Efigie, se sale de las gráficas. Hemos pasado algo por alto, o... no sé. Si es así, que dios nos ayude.-->O sistema de atenuação construído sobre a proteção ao redor dos bancos de avaliação do Marker DEVERIAM bloquear completamente os sinais. Mas eu posso afirmar que de alguma forma o sinal de demência CONTINUA atravessando. Nenhum setor fora dos muros de proteção registra o mínimo sinal. Se colocarmos o mesmo sensor junto com o Marker, ele sai dos gráficos.  Nós deixamos alguma coisa passar, ou... não sei o que está acontecendo. Se for isso, então Deus nos ajude.
 (2099)increased magazine size<==>mayor tamaño del cargador-->maior tamanho do carregador
 (2100-REPETIDO)survivalist<==>Difícil-->Sobrevivência
 (2101-IGUAIS)1
 (2102)Store<==>Almacén-->Loja
-(2103)AUDIOLOG\nADDED<==>REGISTRO SONORO\nAÑADIDO-->REGISTRO SONORO\nADICIONADO
+(2103)AUDIOLOG\nADDED<==>REGISTRO SONORO\nAÑADIDO-->REGISTRO DE ÁUDIO\nADICIONADO
 (2104-IGUAIS)Reynaldo Andaya
 (2105-IGUAIS)Sean Archdeacon
 (2106-IGUAIS)Raasahn Browder
@@ -2110,7 +2110,7 @@
 (2110-IGUAIS)Nick Cooprider
 (2111-IGUAIS)Cooper Drinkward
 (2112-IGUAIS)Joseph Guevarra
-(2113)Free Trial Activated<==>Versión de prueba gratuita activada-->Versão de avaliação ativada.
+(2113)Free Trial Activated<==>Versión de prueba gratuita activada-->Versão de avaliação gratuita ativada.
 (2114)Rivet Bolts Schematic<==>Diagrama de roblones-->Diagrama de Rebites
 (2115)(Oxygen)<==>(oxígeno)-->(oxigênio)
 (2116)Press START button to continue.<==>Pulsa el botón START para continuar-->Pressione o botão START para continuar.
@@ -2118,7 +2118,7 @@
 (2118)ACTIVATE BRIDGE<==>ACTIVAR PUENTE-->ATIVAR PONTE
 (2119)BRIDGE ACTIVATED<==>PUENTE ACTIVADO-->PONTE ATIVADA
 (2120)BRIDGE UP<==>SUBIR PUENTE-->SUBIR PONTE
-(2121)BRIDGE MALFUNCTION<==>ERROR EN EL PUENTE-->MAL FUNCIONAMENTO  DA PONTE
+(2121)BRIDGE MALFUNCTION<==>ERROR EN EL PUENTE-->FALHA NO FUNCIONAMENTO DA PONTE
 (2122)You unlocked increased damage for the Line Gun<==>Has desbloqueado más daño para el cañón lineal.-->Você desbloqueou mais danos para o Canhão Linear.
 (2123-REPETIDO)Chapter 4<==>Capítulo 4-->Capítulo 4 - Filhos do Marker
 (2124)Oxygen Recharge<==>Oxígeno-->Recarga de Oxigênio
@@ -2134,13 +2134,13 @@
 (2134)Dom Regan<==>Dom Regan-->Brazilian Warriors
 (2135)RUBY SEMICONDUCTOR<==>SEMICONDUCTOR DE RUBÍ-->SEMICONDUTOR DE RUBI
 (2136)Cenrtifuge is currently offline. Please activate clutches.<==>La centrifugadora está desconectada. Active los acoplamientos.-->A centrifuga está desligada. Ative os acoplamentos.
-(2137)Clutches Engaged. Activate Console.<==>Acoplamientos conectados. Activar consola.-->Acoplamentos conectados. Ativar console.
+(2137)Clutches Engaged. Activate Console.<==>Acoplamientos conectados. Activar consola.-->Acoplamentos conectados. Ative o console.
 (2138-IGUAIS)Hack?
 (2139)General<==>General-->Geral
 (2140)Medium Med Pack Schematic<==>Diagrama de botiquín mediano-->Diagrama de Kit Médico Médio
 (2141)Hydrazine industrial torch.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull and hold [rsbottom] for a steady stream of flame.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch an entire flame fuel canister at a target for heavy damage.<==>Antorcha industrial de hidracina.\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para lanzar una llamarada.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar un bote entero de combustible inflamable a un objetivo y causarle graves daños.-->Tocha industrial de hidrazina.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: mantenha pressionado [rsbottom] para lançar chamas.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar um tubo inteiro de combustível inflamável em um alvo para causar grandes danos.
 (2142)Tiger Camo Blue<==>Azul camuflaje tigre-->Azul camuflagem tigre 
-(2143)The Bloody Vintage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Flamethrower, Javelin, and Force Gun get a 5% damage bonus. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje vintage sangriento ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación [c=RESET]: 5% más de daño con lanzallamas, cañón jabalina y cañón de energía. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje Vintage Sangrento oferece uma funcionalidades única a quem o usa:\n• [c=CUSTOM3] Bônus nas armas [c=RESET]: 5% a mais de danos com o lança-chamas, canhão de dardos, e canhão de energia. \nA compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
+(2143)The Bloody Vintage Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Weapon Bonus [c=RESET]: Flamethrower, Javelin, and Force Gun get a 5% damage bonus. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje vintage sangriento ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación [c=RESET]: 5% más de daño con lanzallamas, cañón jabalina y cañón de energía. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O Traje Vintage Sangrento oferece uma funcionalidades única a quem o usa:\n• [c=CUSTOM3] Bônus nas armas [c=RESET]: 5% a mais de danos com o lança-chamas, canhão de dardos e canhão de energia. \nA compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
 (2144)Claw Arm Malfunction! Manual Replacement Required.<==>¡Fallo en el brazo prensor! Necesaria sustitución manual.-->Falha no braço da prensa! Necessária substituição manual.
 (2145)Claws Attached. Activate Center Console.<==>Pinzas acopladas. Activar consola central.-->Pinças acopladas. Ative o console central.
 (2146)Component of military grade explosive device. Construct at certified Bench.<==>Componente de dispositivo explosivo militar. Fabricar en banco certificado.-->Componente de dispositivo explosivo militar. Fabricar em um banco certificado.
@@ -2156,21 +2156,21 @@
 (2156)Executive Assistant<==>Ayudante ejecutivo-->Assistente Executivo
 (2157-REPETIDO)save your progress?<==>¿guardar progresos?-->Salvar seu progresso?
 (2158)DANGER DANGER DANGER<==>PELIGRO PELIGRO PELIGRO-->PERIGO PERIGO PERIGO
-(2159)Dangerous anomalies detected.  Clear boulders before restoring gravity.<==>Detectadas anomalías peligrosas. Despeje las rocas para restablecer la gravedad.-->Anomalias perigosas detectadas. Remova as rochas antes de restaurar a gravidade.
+(2159)Dangerous anomalies detected.  Clear boulders before restoring gravity.<==>Detectadas anomalías peligrosas. Despeje las rocas para restablecer la gravedad.-->Anomalias perigosas detectadas. Remova as rochas para restaurar a gravidade.
 (2160)ANOMALIES<==>ANOMALÍAS-->ANOMALIAS
 (2161)me<==>Yo-->Eu
 (2162)CIRCUIT OCCUPIED!<==>¡CIRCUITO OCUPADO!-->CIRCUITO OCUPADO!
-(2163)This circuit has already been overridden.<==>El circuito ya se ha anulado.-->Esse circuito já foi anulado.
+(2163)This circuit has already been overridden.<==>El circuito ya se ha anulado.-->Esse circuito já foi sobreposto.
 (2164-IGUAIS)Todd Allendorf
 (2165-IGUAIS)Jay Wells
 (2166)Online Code Already Used<==>Código online ya utilizado-->Código Online já utilizado
 (2167)store<==>Almacén-->Loja
 (2168-IGUAIS)2
 (2169)Tiger Camo Viral Yellow<==>Amarillo viral camuflaje tigre-->Amarelo Viral Camuflagem Tigre 
-(2170)If you decline the registration of your EA Account, you will not be able to take advantage of any of the online features and additional single player content may not be available.<==>Si rechazas el registro de tu cuenta EA, no podrás beneficiarte de ninguna de las funciones online y es posible que el contenido adicional para Un jugador no esté disponible.-->Se você não fizer o registro da sua Conta EA, não poderá desfrutar de nenhum recurso online e o conteúdo adicional para um jogador pode não estar disponível.
+(2170)If you decline the registration of your EA Account, you will not be able to take advantage of any of the online features and additional single player content may not be available.<==>Si rechazas el registro de tu cuenta EA, no podrás beneficiarte de ninguna de las funciones online y es posible que el contenido adicional para Un jugador no esté disponible.-->Se você não fizer o registro da sua Conta EA, não poderá desfrutar de nenhuma das funcionalidades online e é possível que o conteúdo adicional para um jogador pode não estar disponível.
 (2171-IGUAIS)1
 (2172)Mix Agents<==>Mezclar agentes-->Mesclar Agentes
-(2173)Indoctrination Test Phase 1\nResults for:  Casey Milham\n\nDesire to socially belong:  High\nUnassertiveness:   Low\nGullibility:  Low\nTolerance for ambiguity:  High\nCultural disillusionment:   Low\nIdealism:  High\nSusceptibility to trance-like states:   Low\nSelf-confidence:   High\nA desire for spiritual meaning:  Low\nAwareness of group influence on individuals:  High\n\nThis subject is highly unlikely to stay affiliated with the Church after a short period of time.   We would expect him to exit the system after the Tithing Requirements section of Initiation.   We should invite him to go as far as he'd like, but do not book future earnings against him.<==>Prueba de adoctrinamiento, fase 1\nResultados de: Casey Milham\n\nDeseo de aceptación social: alto\nInseguridad: baja\nIngenuidad: baja\nTolerancia a la ambigüedad: alta\nDecepción cultural: baja\nIdealismo: alto\nSusceptibilidad a estados de trance: baja\nConfianza en sí mismo: alta\nDeseo de sentido espiritual: bajo\nConsciencia de la influencia de grupo en individuos: alta\n\nLa probabilidad de que el sujeto permanezca afiliado a la Iglesia tras un breve periodo de tiempo es muy baja. Esperaríamos su salida del sistema tras la fase de Requisitos del Diezmo de la iniciación. Deberíamos invitarle a llegar hasta donde quiera, pero sin contar con obtener futuras ganancias de él.-->Teste de doutrinamento, fase 1\nResultados de: Casey Milham\n\nDesejo de aceitação social: alto\nInsegurança: Baixa\nIngenuidade: Baixa\nTolerância a ambiguidade: Alta\nDecepção cultural: baixa\nIdealismo: alto\nSuscetibilidade a estados de transe: baixa\nAuto-confiança: alta\nDesejo de sentido espiritual: baixo\nConsciência da influência de grupo em indivíduos: Alta\n\nA probabilidade desse sujeito permanecer afiliado à Igreja após um breve período de tempo é muito baixa. Esperamos sua saída do sistema após a fase dos Requisitos do Dízimo da iniciação. Nós deveríamos convidá-lo a chegar até onde quiser, mas sem esperamos futuros ganhos dele.
+(2173)Indoctrination Test Phase 1\nResults for:  Casey Milham\n\nDesire to socially belong:  High\nUnassertiveness:   Low\nGullibility:  Low\nTolerance for ambiguity:  High\nCultural disillusionment:   Low\nIdealism:  High\nSusceptibility to trance-like states:   Low\nSelf-confidence:   High\nA desire for spiritual meaning:  Low\nAwareness of group influence on individuals:  High\n\nThis subject is highly unlikely to stay affiliated with the Church after a short period of time.   We would expect him to exit the system after the Tithing Requirements section of Initiation.   We should invite him to go as far as he'd like, but do not book future earnings against him.<==>Prueba de adoctrinamiento, fase 1\nResultados de: Casey Milham\n\nDeseo de aceptación social: alto\nInseguridad: baja\nIngenuidad: baja\nTolerancia a la ambigüedad: alta\nDecepción cultural: baja\nIdealismo: alto\nSusceptibilidad a estados de trance: baja\nConfianza en sí mismo: alta\nDeseo de sentido espiritual: bajo\nConsciencia de la influencia de grupo en individuos: alta\n\nLa probabilidad de que el sujeto permanezca afiliado a la Iglesia tras un breve periodo de tiempo es muy baja. Esperaríamos su salida del sistema tras la fase de Requisitos del Diezmo de la iniciación. Deberíamos invitarle a llegar hasta donde quiera, pero sin contar con obtener futuras ganancias de él.-->Teste de doutrinamento, fase 1\nResultados de: Casey Milham\n\nDesejo de aceitação social: Alto\nInsegurança: Baixa\nIngenuidade: Baixa\nTolerância a ambiguidade: Alta\nDecepção cultural: Baixa\nIdealismo: Alto\nSuscetibilidade a estados de transe: baixa\nAuto-confiança: Alta\nDesejo de sentido espiritual: Baixo\nConsciência da influência de grupo em indivíduos: Alta\n\nA probabilidade dessa pessoa permanecer afiliada à Igreja após um breve período de tempo é muito baixa. Esperaríamos sua saída do sistema após a fase dos Requisitos do Dízimo da Iniciação. Deveríamos convidá-la a chegar até onde quiser, mas sem esperarmos futuros ganhos.
 (2174-REPETIDO)This will increase the damage of ALT FIRE<==>Se aumentará el daño del DISPARO SECUNDARIO.-->Isso vai aumentar o dano do DISPARO SECUNDÁRIO.
 (2175-IGUAIS)Simon Everett
 (2176-IGUAIS)Adam Gousetis
@@ -2182,18 +2182,18 @@
 (2182)Be sure to check out the game's tutorials from your Rig or Pause Menu<==>Asegúrate de consultar los tutoriales del juego desde tu DRI o el menú de pausa.-->Assegure-se de consultar os tutoriais do jogo no seu DRI ou no menu de pausa.
 (2183)High<==>Alta-->Alta
 (2184-IGUAIS)1
-(2185)TITAN STATION Quarterly Economic Report\nCLASSIFIED:  Authorized Persons Only\n**DO NOT FORWARD**\n\nTitan Station unemployment grew unexpectedly to 9.5%, due to collateral job losses from the ongoing collapse of local planetcracking business.\n\nThe aftermath of the Ishimura incident continues to depress all planetcracking activity, as more and more support services go out of business, leaving less and less capacity for planetcracking.\n\nHowever, Titan Station continues to post a small profit, buoyed solely by the cash influx from EarthGov's scientific research and operations facilities.   Human Needs and Services Organization has been spared the brunt of the planetcracking collapse by the pick-up in traffic with Government Sector.\n\nPlanetcracker docks, ships services, mining supplies and tool vendors continue to post heavy losses.\nHowever the CEC itself has found moderate new life for its facility in the R&D department of the Government.<==>Informe económico trimestral de la ESTACIÓN TITÁN\nCONFIDENCIAL: Solo personal autorizado\n**NO REENVIAR**\n\nEl desempleo en la estación Titán aumentó inesperadamente hasta el 9,5% debido a la pérdida colateral de empleos derivada de la crisis que atraviesa el sector local de la extracción planetaria.\n\nLas consecuencias del incidente del Ishimura continúan afectando a toda la actividad de extracción planetaria: cada vez son más los servicios de apoyo que cesan su actividad, lo que deja cada vez menos capacidad para la extracción planetaria.\n\nNo obstante, la estación Titán continúa presentando un pequeño margen de beneficios, mantenido exclusivamente gracias a la inyección de efectivo procedente de las instalaciones de operaciones e investigación científica del gobierno de la Tierra. La Organización de Necesidades y Servicios Humanos se ha librado de los efectos del desplome del sector de la extracción planetaria gracias al aumento del tráfico con el sector gubernamental.\n\nLos proveedores de plataformas de extracción planetaria, servicios de naves y herramientas y material de minería continúan registrando fuertes pérdidas. Sin embargo, CEC ha encontrado una moderada nueva vida para su instalación en el departamento de I+D del gobierno.-->Informe Econômico Trimestral da ESTAÇÃO TITÃ\nCONFIDENCIAL: Somente pessoal autorizado\n**NÃO REENVIAR**\n\nO desemprego na Estação Titã aumentou inesperadamente para 9.5%, devido à perda colateral de empregos devido à crise que atravessa o setor de extração planetária.\n\nAs consequências do incidente com a Ishimura continuam afetando toda a atividade de extração planetária: cada vez mais são os serviços de apoio que encerram suas atividades, o que deixa cada vez menos capacidade para extração planetária.\n\nNão obstante, a estação Titã continua apresentando uma pequena margem de benefícios, mantidos exclusivamente graças à injeção de verbas procedentes das instalações de operações e investigação do governo da Terra. A Organização de Necessidades e Serviços Humanos se livrou dos efeitos negativos da extração planetária graças ao aumento do tráfico com o setor governamental.\n\nOs fornecedores de plataformas de extração planetária, serviços de naves, ferramentas e materiais de mineração continuam registrando fortes perdas.\nNo entanto, a CEC encontrou uma nova vida para sua instalação no departamento de I&D do Governo.
+(2185)TITAN STATION Quarterly Economic Report\nCLASSIFIED:  Authorized Persons Only\n**DO NOT FORWARD**\n\nTitan Station unemployment grew unexpectedly to 9.5%, due to collateral job losses from the ongoing collapse of local planetcracking business.\n\nThe aftermath of the Ishimura incident continues to depress all planetcracking activity, as more and more support services go out of business, leaving less and less capacity for planetcracking.\n\nHowever, Titan Station continues to post a small profit, buoyed solely by the cash influx from EarthGov's scientific research and operations facilities.   Human Needs and Services Organization has been spared the brunt of the planetcracking collapse by the pick-up in traffic with Government Sector.\n\nPlanetcracker docks, ships services, mining supplies and tool vendors continue to post heavy losses.\nHowever the CEC itself has found moderate new life for its facility in the R&D department of the Government.<==>Informe económico trimestral de la ESTACIÓN TITÁN\nCONFIDENCIAL: Solo personal autorizado\n**NO REENVIAR**\n\nEl desempleo en la estación Titán aumentó inesperadamente hasta el 9,5% debido a la pérdida colateral de empleos derivada de la crisis que atraviesa el sector local de la extracción planetaria.\n\nLas consecuencias del incidente del Ishimura continúan afectando a toda la actividad de extracción planetaria: cada vez son más los servicios de apoyo que cesan su actividad, lo que deja cada vez menos capacidad para la extracción planetaria.\n\nNo obstante, la estación Titán continúa presentando un pequeño margen de beneficios, mantenido exclusivamente gracias a la inyección de efectivo procedente de las instalaciones de operaciones e investigación científica del gobierno de la Tierra. La Organización de Necesidades y Servicios Humanos se ha librado de los efectos del desplome del sector de la extracción planetaria gracias al aumento del tráfico con el sector gubernamental.\n\nLos proveedores de plataformas de extracción planetaria, servicios de naves y herramientas y material de minería continúan registrando fuertes pérdidas. Sin embargo, CEC ha encontrado una moderada nueva vida para su instalación en el departamento de I+D del gobierno.-->Relatório Econômico Trimestral da ESTAÇÃO TITÃ\nCONFIDENCIAL: Somente pessoal autorizado\n**NÃO REENVIAR**\n\nO desemprego na estação Titã aumentou de forma inesperada para 9.5%, devido à perda colateral de empregos devido à crise que atravessa o setor de extração planetária.\n\nAs consequências do incidente com a Ishimura continuam afetando toda a atividade de extração planetária: cada vez mais os serviços de apoio encerram suas atividades, o que deixa cada vez menos capacidade para a extração planetária.\n\nNão obstante, a estação Titã continua apresentando uma pequena margem de benefícios, mantidos exclusivamente graças à injeção de verbas procedentes das instalações de operações e investigação científica do governo da Terra. A Organização de Necessidades e Serviços Humanos se livrou dos efeitos negativos da extração planetária graças ao aumento do tráfico com o setor governamental.\n\nOs fornecedores de plataformas de extração planetária, serviços de naves, ferramentas e materiais de mineração continuam registrando fortes perdas.\nNo entanto, a CEC encontrou uma nova vida para sua instalação no departamento de I&D do Governo.
 (2186)COO<==>Director de operaciones-->Diretor de Operações
 (2187)You've unlocked the zealot difficulty setting where resources are minimal, and enemies are virtually unstoppable.<==>Has desbloqueado la dificultad extrema, en la que los recursos son mínimos, y los enemigos, virtualmente imparables.-->Você desbloqueou a dificuldade extrema, onde os recursos são mínimos e os inimigos virtualmente imparáveis.
 (2188)prevent the opening of the initial containment shield<==>Evita la apertura del primer escudo de contención.-->Evite a abertura do primeiro escudo de contenção.
 (2189)killed by:<==>Autor de la baja:-->Morto por:
-(2190)US Studios Group<==>Grupo de estudios de EE. UU.-->Grupo de estudios US 
+(2190)US Studios Group<==>Grupo de estudios de EE. UU.-->Grupo de Estúdios US 
 (2191)GET US SOME ANSWERS<==>RESPUESTAS-->RESPOSTAS
 (2192)PROGRESS REPORT<==>INFORME DE PROGRESO-->RELATÓRIO DE PROGRESSO
 (2193)STEP 1<==>PASO 1-->PASSO 1
-(2194)HAVING PROBLEMS<==>PROBLEMAS-->PROBLEMAS
+(2194)HAVING PROBLEMS<==>PROBLEMAS-->TENDO PROBLEMAS
 (2195)WHERE ARE YOU?<==>¿DÓNDE ESTÁS?-->ONDE VOCÊ ESTÁ?
-(2196)ARRAYS ARE OUT OF ALIGNMENT<==>PANELES SIN ALINEAR-->PAINÉIS NÃO ALINHADOS
+(2196)ARRAYS ARE OUT OF ALIGNMENT<==>PANELES SIN ALINEAR-->OS PAINÉIS ESTÃO DESALINHADOS
 (2197)SNAG<==>OBSTÁCULO-->OBSTÁCULO
 (2198)THRUSTER HINT<==>PISTA DE PROPULSOR-->PISTA DO PROPULSOR
 (2199)HOWARD PHILLIPS HINT<==>PISTA DE HOWARD PHILLIPS-->PISTA DO HOWARD PHILLIPS
@@ -2207,7 +2207,7 @@
 (2207)Tram damaged! Please repair and try again.<==>¡Sigue dañado! Repáralo e intenta otra vez.-->Trem danificado! Repare-o e tente novamente.
 (2208)Call tram to access main decks.<==>Llama al monorraíl para acceder a las cubiertas princi.-->Chame o trem para acessar as plataformas principais.
 (2209)Tram en route<==>Monorraíl en camino-->Trem à caminho
-(2210)Military-grade assault rifle with a high rate of fire.\n• [c=CUSTOM2] Primary Fire [c=RESET]:  pull and hold [rsbottom] to fire a fully automatic barrage of energy packets.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch a grenade at your target.<==>Rifle de asalto militar con un elevado índice de disparo.\n - [c=CUSTOM2]Disparo principal[c=RESET]: mantén pulsado [rsbottom] para disparar de forma automática paquetes de energía.\n - [c=CUSTOM2]Disparo secundario[c=RESET]: pulsa [rstop] para lanzar una granada.-->Rifle de assalto militar com um elevado índice de disparo.\n• [c=CUSTOM2] Disparo Principal [c=RESET]:  mantenha pressionado [rsbottom] para disparar de forma automática pacotes de energia.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar uma granada no seu alvo.
+(2210)Military-grade assault rifle with a high rate of fire.\n• [c=CUSTOM2] Primary Fire [c=RESET]:  pull and hold [rsbottom] to fire a fully automatic barrage of energy packets.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch a grenade at your target.<==>Rifle de asalto militar con un elevado índice de disparo.\n - [c=CUSTOM2]Disparo principal[c=RESET]: mantén pulsado [rsbottom] para disparar de forma automática paquetes de energía.\n - [c=CUSTOM2]Disparo secundario[c=RESET]: pulsa [rstop] para lanzar una granada.-->Rifle de assalto militar com elevado índice de disparo.\n• [c=CUSTOM2] Disparo Principal [c=RESET]:  mantenha pressionado [rsbottom] para disparar de forma automática pacotes de energia.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar uma granada no seu alvo.
 (2211-IGUAIS)1
 (2212-IGUAIS)1
 (2213-REPETIDO)PULSE RIFLE<==>RIFLE DE IMPULSOS-->RIFLE DE IMPULSOS
@@ -2233,11 +2233,11 @@
 (2233)LOCKED DOOR<==>PUERTA BLOQUEADA-->PORTA BLOQUEADA
 (2234)   Ride the drill to Government Sector.<==>Ve en el taladro al sector gubernamental.-->   Conduza a escavadeira até o Setor Governamental.
 (2235-IGUAIS)Brian West
-(2236)escape<==>Huida-->fuga   
+(2236)escape<==>Huida-->fuga  
 (2237-IGUAIS)176
 (2238-REPETIDO)escape<==>Huida-->fuga   
 (2239-IGUAIS)1
-(2240)Select an item and press [RDUp] to remove\nall installed nodes for reuse.\nCost: 5000 credits<==>Selecciona un objeto y pulsa [RDUp] para retirar\ntodos los nodos instalados para su reutilización.\nCoste: 5000 créditos-->Selecione um item e pressione [RDUp] para remover\ntodos os nodos instalados para reutilização.\nCusto: 5000 créditos
+(2240)Select an item and press [RDUp] to remove\nall installed nodes for reuse.\nCost: 5000 credits<==>Selecciona un objeto y pulsa [RDUp] para retirar\ntodos los nodos instalados para su reutilización.\nCoste: 5000 créditos-->Selecione um item e pressione [RDUp] para remover\ntodos os nodos instalados para sua reutilização.\nCusto: 5000 créditos
 (2241)Multiplayer Environment Artists<==>Diseñadores de entornos multijugador-->Artistas do Ambiente Multijogador
 (2242)explosion<==>Explosión-->Explosão
 (2243-IGUAIS)[LDRight]
@@ -2266,10 +2266,10 @@
 (2266)///restart options<==>///opciones de reinicio-->///opções de reinicio
 (2267-IGUAIS)1
 (2268)Tear Through Space With Full Zero-Gravity Movement<==>Atraviesa el espacio con total movimiento de gravedad cero-->Atravesse o espaço com total movimento de gravidade zero
-(2269)ERROR<==>ERROR-->ERRO
+(2269)ERROR<==>ERROR-->FALHA
 (2270)LARGE MED PACK<==>BOTIQUÍN GRANDE-->KIT MÉDICO GRANDE
 (2271)Stop Cannon Control activation<==>Impide la activación del control del cañón.-->Impeça a ativação do controle do canhão. 
-(2272)Looks like the tram's evacuation protocols have been tripped. I'll have to rewire this one to get it running.<==>Parece que los protocolos de evacuación del monorraíl se han activado. Tendré que arreglar este para ponerlo en marcha.-->Parece que os protocolos de evacuação do trem foram ativados. Vou ter que regular esse para ele poder andar outra vez.
+(2272)Looks like the tram's evacuation protocols have been tripped. I'll have to rewire this one to get it running.<==>Parece que los protocolos de evacuación del monorraíl se han activado. Tendré que arreglar este para ponerlo en marcha.-->Parece que os protocolos de evacuação do trem foram ativados. Vou ter que regular esse para que possa andar outra vez.
 (2273-IGUAIS)1
 (2274)Additional Lighting<==>Iluminación adicional-->Iluminação Adicional
 (2275-IGUAIS)0
@@ -2285,17 +2285,17 @@
 (2285-IGUAIS)X
 (2286-IGUAIS)Andrew Green
 (2287)Weapon Slots Full<==>Ranuras de armas ocupadas-->Espaços de armas cheios
-(2288)DECK C: MINING<==>CUBIERTA C: EXTRACCIÓN-->PLATAFORMA C: MINERAÇÃO
+(2288)DECK C: MINING<==>CUBIERTA C: EXTRACCIÓN-->PLATAFORMA C: EXTRAÇÃO
 (2289)IMPALEMENT<==>EMPALAMIENTO-->EMPALAMENTO
 (2290)NODES DEPLETED!<==>¡NODOS VACÍOS!-->SEM NODOS!
 (2291)Node reserves are empty. Unable to comply.<==>Las reservas del nodo están vacías. No se puede acceder.-->As reservas de nodos estão vazias. Não foi possível aceitar.
 (2292)Hello? Hello?<==>¿Hola? ¿Hola?-->Olá? Olá?
-(2293)Help me! Please, God, somebody help me!<==>¡Ayuda! ¡Por favor, señor, que alguien me ayude!-->Me ajude! Por favor, Deus, alguém me ajude!
-(2294)Is someone there? Anyone?<==>¿Hay alguien ahí? ¿Alguien?-->Tem alguém ai? Alguém?
-(2295)Oh God, I'm all alone in here.<==>Oh, dios. Aquí no hay nadie.-->Oh Deus, estou sozinho aqui.
+(2293)Help me! Please, God, somebody help me!<==>¡Ayuda! ¡Por favor, señor, que alguien me ayude!-->Socorro! Por favor, Deus, alguém me ajude!
+(2294)Is someone there? Anyone?<==>¿Hay alguien ahí? ¿Alguien?-->Tem alguém aí? Alguém?
+(2295)Oh God, I'm all alone in here.<==>Oh, dios. Aquí no hay nadie.-->Oh deus, estou sozinho aqui.
 (2296)Help!  Help!<==>¡Ayuda! ¡Ayuda!-->Socorro! Socorro!
-(2297)Can anyone hear me?<==>¿Alguien me oye?-->Alguém pode me ouvir?
-(2298)Where did everyone go?<==>¿Dónde está todo el mundo?-->Onde está todo mundo?
+(2297)Can anyone hear me?<==>¿Alguien me oye?-->Alguém está me ouvindo?
+(2298)Where did everyone go?<==>¿Dónde está todo el mundo?-->Para onde foi todo mundo?
 (2299)Who's out there?<==>¿Quién está ahí?-->Quem está aí?
 (2300)I can hear you, come help me, please!<==>¡Te oigo, ven a ayudarme, por favor!-->Eu posso te ouvir, venha me ajudar, por favor!
 (2301)Is there anyone out there?<==>¿Hay alguien ahí? ¿Hay alguien ahí?-->Tem alguém aí?
@@ -2303,21 +2303,21 @@
 (2303)You! You! Thank God, please, come help me! <==>¡Tú! ¡Tú! ¡Gracias a dios! ¡Por favor, ven y ayúdame!-->Você! Você! Graças  a Deus, por favor, me ajude!
 (2304)Wh..Where are the doctors? <==>¿Dónde... dónde están los médicos?-->O..Onde estão os médicos? 
 (2305)Are you a doctor?<==>¿Eres médico?-->Você é um médico?
-(2306)Where are my doctors?<==>¿Dónde están mis médicos?-->Onde estão meus médicos?
+(2306)Where are my doctors?<==>¿Dónde están mis médicos?-->Onde estão os meus médicos?
 (2307)Why am I awake?<==>¿Por qué estoy despierto?-->Por que estou acordado?
-(2308)Oh God, please, please help me.<==>Oh, dios, por favor, ayúdame.-->Oh Deus, por favor, me ajude.
-(2309)Oh God, I'm in so much pain, please help me!<==>¡Oh, dios, me duele mucho, ayúdame, por favor!-->Oh Deus, está doendo tanto, por favor me ajude!
+(2308)Oh God, please, please help me.<==>Oh, dios, por favor, ayúdame.-->Oh deus, por favor, me ajude.
+(2309)Oh God, I'm in so much pain, please help me!<==>¡Oh, dios, me duele mucho, ayúdame, por favor!-->Oh deus, está doendo tanto, por favor me ajude!
 (2310)What the fuck are you doing?<==>¿Qué demonios estás haciendo?-->Mas que diabos você está fazendo?
-(2311)Ow, God, please do something.<==>Ah, dios, por favor, haz algo.-->Ah, Deus, por favor, faça alguma coisa.
-(2312)I need more drugs.  The anesthesia is wearing off.<==>Necesito más fármacos. La anestesia pierde efecto.-->Eu preciso de mais medicamentos. A anestesia está passando.
-(2313)Oh God, I'm going to vomit.<==>Oh, dios, voy a vomitar.-->Oh Deus, vou vomitar.
+(2311)Ow, God, please do something.<==>Ah, dios, por favor, haz algo.-->Oh, deus, por favor, faça alguma coisa.
+(2312)I need more drugs.  The anesthesia is wearing off.<==>Necesito más fármacos. La anestesia pierde efecto.-->Preciso de mais medicamentos. A anestesia está passando.
+(2313)Oh God, I'm going to vomit.<==>Oh, dios, voy a vomitar.-->Oh deus, acho que vou vomitar.
 (2314)Are you just going to stand there, or are you going to help me?<==>¿Te vas a quedar ahí parado, o me vas a ayudar?-->Você vai ficar aí parado, ou vai me ajudar?
-(2315)Please...please get me out of this, I'll do anything.<==>Por.. por favor... Sácame de aquí. Haré lo que sea.-->Por favor...por favor me tire daqui, eu farei qualquer coisa.
-(2316)Rendezvous with Ellie and Stross.<==>Reúnete con Ellie y Stross.-->Encontre Ellie e Stross.
-(2317)Oh God, come on man.<==>Oh dios, vamos hombre.-->Oh Deus, vamos homem.
+(2315)Please...please get me out of this, I'll do anything.<==>Por.. por favor... Sácame de aquí. Haré lo que sea.-->Por favor...por favor me tire daqui, farei qualquer coisa.
+(2316)Rendezvous with Ellie and Stross.<==>Reúnete con Ellie y Stross.-->Encontre-se com Ellie e Stross.
+(2317)Oh God, come on man.<==>Oh dios, vamos hombre.-->Oh deus, vamos homem.
 (2318)What the hell are you doing?  <==>¿Qué demonios estás haciendo?-->Mas que diabos você está fazendo?
-(2319)Jesus man, help me!  Would you fucking help me!?<==>¡Por dios, ayúdame! ¡Ayúdame, joder!-->Por Deus, me ajude! Você poderia me ajudar, porra!?
-(2320)Oh my God!<==>¡Oh, dios mio!-->Oh meu Deus!
+(2319)Jesus man, help me!  Would you fucking help me!?<==>¡Por dios, ayúdame! ¡Ayúdame, joder!-->Por deus, me ajude! Você poderia me ajudar, caramba!?
+(2320)Oh my God!<==>¡Oh, dios mio!-->Oh meu deus!
 (2321-REPETIDO)What the fuck are you doing?<==>¿Qué demonios estás haciendo?-->Mas que diabos você está fazendo?
 (2322)Help!<==>¡Ayuda!-->Socorro!
 (2323-REPETIDO)Help!<==>¡Ayuda!-->Socorro!
