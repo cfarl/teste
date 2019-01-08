@@ -4069,7 +4069,7 @@
 (4069)Daina, I thought you were routing me to residential. This looks like... a Unitology recruitment center?  Am I still on track? <==>Daina, creía que me enviabas al sector residencial. Esto parece... un centro de reclutamiento de la Uniología. ¿Voy bien?-->Daina, pensei que você estava me encaminhando para o setor residencial. Isso parece... um centro de recrutamento da Unitologia?  Estou no caminho certo? 
 (4070)Daina! Tiedemann's soldiers have found me! They're tracking me in some sort of gunship!<==>¡Daina! ¡Los soldados de Tiedemann me han encontrado! ¡Me siguen en una especie de nave!-->Daina! Os soldados de Tiedemann me encontraram! Eles estão me seguindo em algum tipo de nave!
 (4071)Daina, what the hell route is this?<==>Daina, ¿qué clase de ruta es esta?-->Daina, que diabos de rota é essa?
-(4072)Fly against the flow of the garbage.  Wonderful.<==>Avanzar contra el tráfico de residuos. Fantástico.-->Avançar contra o tráfico de resíduos.  Fantástico.
+(4072)Fly against the flow of the garbage.  Wonderful.<==>Avanzar contra el tráfico de residuos. Fantástico.-->Avançar contra o fluxo de resíduos.  Sensacional.
 (4073)Daina?  The Church of Unitology?  Why here?<==>¿Daina? ¿La Iglesia de la Uniología? ¿Por qué aquí?-->Daina?  A Igreja da Unitologia?  Por que aqui?
 (4074)No, Daina, we shouldn't be in here.  This is the last place we want to be right now...<==>No, Daina, no deberíamos estar aquí. Este es el último lugar en el que queremos estar ahora mismo...-->Não, Daina, não deveríamos estar aqui.  Esse é o último lugar onde queremos estar agora...
 (4075)Stross. Yes I see the symbols. <==>Stross. Sí, veo los símbolos.-->Stross. Sim, eu vejo os símbolos. 
@@ -4121,17 +4121,17 @@
 (4121)Look, I think we got off to a bad start here. I'm Isaac.<==>Oye, creo que hemos empezado con mal pie. Soy Isaac.-->Olha, acho que começamos com o pé esquerdo. Eu sou Isaac.
 (4122)I'm trying to get to the Transport Hub. I need to get to the Government Sector.<==>Intento llegar al nodo de transporte. Debo acudir al sector gubernamental.-->Estou tentando chegar ao centro de transporte. Preciso ir até o setor governamental.
 (4123)Hey I can help you. Besides, we got a better chance if we stick together. Don't you agree?<==>Eh, puedo ayudarte. Tendremos más probabilidades si avanzamos juntos. ¿No estás de acuerdo?-->Ei, eu posso te ajudar. Além disso, teremos mais chances se formos juntos. Você não concorda?
-(4124)I'm not listening to this. You may fool Stross, but I know you're not real.<==>No pienso escucharte. Puede que engañes a Stross, pero sé que no eres real.-->Eu não estou te ouvindo. Você pode ter enganado Stross, mas eu sei que não é real.
-(4125) You're just a hallucination! Stross knows how to destroy you!  He knows how to destroy the Marker. We will destroy you!<==>¡Eres una alucinación! Stross sabe cómo acabar contigo. Sabe cómo destruir la Efigie. Te vamos a destruir.--> Você é só uma alucinação! Stross sabe como acabar com você.  Ele sabe como destruir o Marker. Nós vamos te destruir!
+(4124)I'm not listening to this. You may fool Stross, but I know you're not real.<==>No pienso escucharte. Puede que engañes a Stross, pero sé que no eres real.-->Eu não estou te ouvindo. Você pode até enganar o Stross, mas eu sei que não é real.
+(4125) You're just a hallucination! Stross knows how to destroy you!  He knows how to destroy the Marker. We will destroy you!<==>¡Eres una alucinación! Stross sabe cómo acabar contigo. Sabe cómo destruir la Efigie. Te vamos a destruir.--> Você é só uma alucinação! Stross sabe como acabar com você.  Ele sabe como destruir o Marker. Nós vamos destruir você!
 (4126)Wait, you're CEC?<==>Espera, ¿eres de CEC?-->Espere, você é da CEC?
 (4127)Engineer.<==>Ingeniero.-->Engenheiro.
-(4128)Are you insane? You cut off power to life support! There may be other survivors over here!<==>¿Estás loco? ¡Has cortado la electricidad del soporte vital! ¡Puede que haya más supervivientes!-->Você ficou louco? Você cortou a energia do suporte vital! Pode ser que tenha outros sobreviventes aqui!
+(4128)Are you insane? You cut off power to life support! There may be other survivors over here!<==>¿Estás loco? ¡Has cortado la electricidad del soporte vital! ¡Puede que haya más supervivientes!-->Você ficou louco? Você cortou a energia do suporte vital! Pode ser que haja outros sobreviventes aqui!
 (4129)Ellie... Do you know what a marker is?<==>Ellie... ¿Tú sabes lo que es una Efigie?-->Ellie... Você sabe o que é um Marker?
-(4130)Yes it's real. Tiedemann made one using codes, patterns stored in our heads...mine and Stross. Everything that's happening on this station is happening because of that Marker. I have to get to it and destroy it and I need Stross to tell me how.<==>Sí, existe. Tiedemann fabricó una con códigos, patrones almacenados en mi cabeza y en la de Stross. Lo que pasa en esta estación se debe a esa Efigie. Debo acceder a ella y destruirla y necesito que Stross me diga cómo.-->Sim, ele é real. Tiedemann construiu um usando códigos, padrões armazenados na minha cabeça...e na do Stross. Tudo que está acontecendo nessa estação é por causa desse Marker. Eu tenho que chegar até ele e destruí-lo, e preciso que Stross me diga como.
+(4130)Yes it's real. Tiedemann made one using codes, patterns stored in our heads...mine and Stross. Everything that's happening on this station is happening because of that Marker. I have to get to it and destroy it and I need Stross to tell me how.<==>Sí, existe. Tiedemann fabricó una con códigos, patrones almacenados en mi cabeza y en la de Stross. Lo que pasa en esta estación se debe a esa Efigie. Debo acceder a ella y destruirla y necesito que Stross me diga cómo.-->Sim, ele existe. Tiedemann construiu um usando códigos, padrões armazenados nas nossas cabeças...na minha e na do Stross. Tudo que está acontecendo nessa estação é por causa desse Marker. Eu tenho que chegar até ele e destruí-lo, e preciso que Stross me diga como fazer isso.
 (4131)Will you help me?<==>¿Me vas a ayudar?-->Você vai me ajudar?
-(4132)Ok good, listen we need power.  Without it we have no air and no train. The Sprawl's gotta have back-up batteries somewhere.<==>Bien, escucha. Necesitamos electricidad. Sin ella, no tendremos oxígeno ni tren. Habrá baterías de repuesto en algún lugar del Eje.-->Bem,  escute. Precisamos de energia.  Sem ela, não temos ar e nem trem. Deve ter baterias de reposição em algum lugar do Eixo.
-(4133)Ok... alright , good. I'm heading there now.  If I can start them up and get some power to the train.<==>Bien, voy hacia allí. Quizá pueda activarlo y generar electricidad para el tren.-->Ok... tudo bem, ótimo. Eu estou indo até lá.  Quem sabe eu possa ativá-lo e gerar energia para o trem.
-(4134)Take Stross. Keep him safe.<==>Llévate a Stross. Mantenlo a salvo.-->Leve o Stross. Matenha-o a salvo.
+(4132)Ok good, listen we need power.  Without it we have no air and no train. The Sprawl's gotta have back-up batteries somewhere.<==>Bien, escucha. Necesitamos electricidad. Sin ella, no tendremos oxígeno ni tren. Habrá baterías de repuesto en algún lugar del Eje.-->Tudo bem, escute. Precisamos de energia.  Sem energia, não temos oxigênio e não temos trem. Deve haver baterias de reposição em algum lugar do Eixo.
+(4133)Ok... alright , good. I'm heading there now.  If I can start them up and get some power to the train.<==>Bien, voy hacia allí. Quizá pueda activarlo y generar electricidad para el tren.-->Ok... tudo bem, ótimo. Eu estou indo para lá agora.  Quem sabe eu posso ativá-lo, e gerar energia para o trem.
+(4134)Take Stross. Keep him safe.<==>Llévate a Stross. Mantenlo a salvo.-->Leve o Stross. Mantenha-o a salvo.
 (4135)Ellie<==>Ellie.-->Ellie
 (4136)How's Stross doing?<==>¿Qué tal está Stross?-->Como está o Stross?
 (4137)Ellie, try to keep him focused. I need to know what he's trying to tell me.<==>Ellie, intenta concentrarte. Tengo que averiguar lo que intenta decirme.-->Ellie, tente mantê-lo concentrado. Eu preciso saber o que ele está tentando me dizer.
@@ -4139,60 +4139,60 @@
 (4139)Don't worry, I can fix this. I'm heading outside to have a look.<==>No te preocupes, puedo arreglarlo. Iré afuera a echar un vistazo.-->Não se preocupe, eu posso concertar isso. Estou indo lá fora para dar uma olhada.
 (4140)He's hallucinating, Ellie. It's part of the sickness.<==>Está alucinando, Ellie. Es parte de la enfermedad.-->Ele está tendo alucinações, Ellie. Isso faz parte da enfermidade.
 (4141)Stross, what's wrong? Ellie?<==>Stross, ¿qué ocurre? ¿Ellie?-->Stross, o que está acontecendo? Ellie?
-(4142)Ellie, it looks like two of the mirrors are out of alignment. How's he doing?<==>Ellie, parece que hay dos espejos no alineados. ¿Cómo está Stross?-->Ellie, parece que dois dos espelhos estão desalinhados. Como está o Stross?
+(4142)Ellie, it looks like two of the mirrors are out of alignment. How's he doing?<==>Ellie, parece que hay dos espejos no alineados. ¿Cómo está Stross?-->Ellie, parece que dois dos espelhos estão fora de alinhamento. Como está o Stross?
 (4143)If Stross dies, so do my chances of destroying the Marker. Keep him alive and get to that panel.  <==>Si Stross muere, con él se va mi oportunidad de destruir la Efigie. Mantenlo con vida y ve al panel.-->Se Stross morrer, com ele se vão as minhas chances de destruir o Marker. Mantenha-o vivo e vá até o painel.  
-(4144)Dammit! We'll have to look for him later. Ellie, you have to get to those panels!<==>¡Maldita sea! Lo buscaremos más tarde. ¡Ellie, tienes que llegar a esos paneles!-->Droga! Vamos ter que procurar por ele depois. Ellie, você tem que chegar naqueles painéis!
+(4144)Dammit! We'll have to look for him later. Ellie, you have to get to those panels!<==>¡Maldita sea! Lo buscaremos más tarde. ¡Ellie, tienes que llegar a esos paneles!-->Droga! Vamos ter que procurar por ele depois. Ellie, você precisa chegar naqueles painéis!
 (4145)Ellie, get out of there...<==>Ellie, sal de ahí...-->Ellie, saia daí...
-(4146)ELLIE! Ellie come in!  Ellie!  Shit.<==>¡ELLIE! ¡Ellie háblame! ¡Ellie! ¡Joder!-->ELLIE! Ellie fale comigo!  Ellie!  Merda.
+(4146)ELLIE! Ellie come in!  Ellie!  Shit.<==>¡ELLIE! ¡Ellie háblame! ¡Ellie! ¡Joder!-->ELLIE! Ellie fale comigo!  Ellie!  Droga.
 (4147)Ellie?! Ellie, are you alright?!<==>¡¿Ellie?! Ellie, ¡¿estás bien?!-->Ellie?! Ellie, você está bem?!
-(4148)Oh shit, they'll cut us off! Get to the hub!  - I'll meet you as soon as I can!<==>¡Oh, mierda, nos van a incomunicar! ¡Dirígete al nodo! ¡Me reuniré contigo cuanto antes!-->Oh merda, eles vão nos cortar! Vá para o centro!  - Me encontrarei com você assim que puder!
-(4149)played<==>Tiempo-->jogado
+(4148)Oh shit, they'll cut us off! Get to the hub!  - I'll meet you as soon as I can!<==>¡Oh, mierda, nos van a incomunicar! ¡Dirígete al nodo! ¡Me reuniré contigo cuanto antes!-->Ah droga, eles vão cortar nossa comunicação! Vá para o centro!  - Vou me encontrar com você assim que puder!
+(4149)played<==>Tiempo-->tempo
 (4150)Ellie! Where are you?<==>Ellie... ¿Dónde estás?-->Ellie! Onde você está?
-(4151)Move! Move! Move! Head for the factory! Ellie, can you get the door to the factory open?<==>¡Vamos, vamos, vamos! ¡Dirígete a la fábrica! ¿Podrías conseguir abrir la puerta de la fábrica?-->Vamos! Vamos! Vamos! Vá para a fábrica! Ellie, você consegue abrir a porta da fábrica?
+(4151)Move! Move! Move! Head for the factory! Ellie, can you get the door to the factory open?<==>¡Vamos, vamos, vamos! ¡Dirígete a la fábrica! ¿Podrías conseguir abrir la puerta de la fábrica?-->Vamos! Vamos! Vamos! Corra para a fábrica! Ellie, você consegue abrir a porta da fábrica?
 (4152)No choice, go! Go!<==>¡No hay elección! ¡Vamos! ¡Vamos!-->Sem chance, vai! Vai!
 (4153)Ellie? Are you guys there? Did you make it?<==>¿Ellie? ¿Estáis ahí? ¿Lo habéis conseguido?-->Ellie? Vocês estão aí? Vocês conseguiram?
 (4154)Take it easy, it's okay --<==>Tranquila, no pasa nada...-->Tenha calma, está tudo bem...
 (4155)It doesn't have to be this way, Tiedemann!<==>¡No tiene por qué ser así, Tiedemann!-->Isso não tem que ser assim, Tiedemann!
-(4156)I think I've hit a dead end. Looks like some kind of venting system up ahead.<==>Creo que estoy en un callejón sin salida. Parece que hay un sistema de ventilación más adelante.-->Eu acho que estou em um beco sem saída. Parece que tem algum tipo de sistema de ventilação mais à frente.
-(4157)Ellie, can't you shut these things off?<==>Ellie, ¿puedes cerrar esas cosas?-->Ellie, você pode fechar essas coisas?
-(4158)All right, I've released the Transport. Meet me at the landing.<==>Bien, he liberado el transporte. Reúnete conmigo en la plataforma.-->Tudo bem, eu liberei o transporte. Me encontre na plataforma.
+(4156)I think I've hit a dead end. Looks like some kind of venting system up ahead.<==>Creo que estoy en un callejón sin salida. Parece que hay un sistema de ventilación más adelante.-->Eu acho que cheguei em um beco sem saída. Parece que há algum tipo de sistema de ventilação mais à frente.
+(4157)Ellie, can't you shut these things off?<==>Ellie, ¿puedes cerrar esas cosas?-->Ellie, você consegue fechar essas coisas?
+(4158)All right, I've released the Transport. Meet me at the landing.<==>Bien, he liberado el transporte. Reúnete conmigo en la plataforma.-->Tudo bem, eu liberei o transporte. Encontrem-se comigo na plataforma.
 (4159)Get out of my head! You're not Nicole!<==>¡Sal de mi cabeza! ¡Tú no eres Nicole!-->Saia da minha cabeça! Você não é a Nicole!
 (4160)Stross, listen to me, listen to me!<==>¡Stross, escúchame, escúchame!-->Stross, me escute, me escute!
 (4161)Right. Let's go.<==>Bien. Vamos.-->Certo. Vamos lá.
 (4162)Oh my God!  It can't be - that's the Ishimura...<==>¡Oh, dios! No puede ser... Es el Ishimura...-->Oh meu Deus!  Não pode ser... é a Ishimura...
-(4163)What?  Terrorist attack?  What happened on board that ship was no terrorist attack.<==>¿Qué? ¿Un ataque terrorista? Lo que sucedió en esa nave no fue un ataque terrorista.-->O quê?  Um ataque terrorista?  O que aconteceu com essa nave não foi um ataque terrorista.
-(4164)warning<==>atención-->aviso
-(4165)You have unlocked the Hacker Suit schematic and other helpful items left behind by Franco Delille. Look for the four doors throughout the game with the Conduit Room sign to find your items inside.<==>Has desbloqueado el diagrama del traje de pirateo y otros objetos útiles que Franco Delille se ha dejado. Busca por el juego las cuatro puertas con el letrero de sala de distribución; tus objetos estarán dentro.-->Você desbloqueou o diagrama do traje hacker e outros itens úteis deixados por Franco Delille. Procure pelo jogo as quatro portas com a placa de sala de distribuição para encontar seus itens.
+(4163)What?  Terrorist attack?  What happened on board that ship was no terrorist attack.<==>¿Qué? ¿Un ataque terrorista? Lo que sucedió en esa nave no fue un ataque terrorista.-->O quê?  Um ataque terrorista?  O que aconteceu a bordo dessa nave não foi um ataque terrorista.
+(4164)warning<==>atención-->atenção
+(4165)You have unlocked the Hacker Suit schematic and other helpful items left behind by Franco Delille. Look for the four doors throughout the game with the Conduit Room sign to find your items inside.<==>Has desbloqueado el diagrama del traje de pirateo y otros objetos útiles que Franco Delille se ha dejado. Busca por el juego las cuatro puertas con el letrero de sala de distribución; tus objetos estarán dentro.-->Você desbloqueou o diagrama do traje hacker e outros itens úteis deixados por Franco Delille. Procure no jogo as quatro portas com a placa da sala de distribuição para encontrar seus itens.
 (4166-IGUAIS)4
 (4167)weapon<==>Arma-->arma
 (4168)You unlocked increased magazine size for the Force Gun<==>Has desbloqueado un mayor tamaño del cargador para el cañón de energía.-->Você desbloqueou um maior tamanho do carregador para o canhão de energia
 (4169)Confirm<==>Confirmar-->Confirmar
 (4170)CALL TRAM?<==>¿LLAMAR?-->CHAMAR?
 (4171)Ionized Gas Cartridge for the Plasma Cutter.\n - Inventory Slot Stack Size: 25<==>Munición para la cortadora de plasma.\n- Tamaño del bloque de ranuras de inventario: 25\n-->Munição para a Cortadora de Plasma.\n - Quantidade máxima armazenada em um espaço do inventário: 25
-(4172)That's where all this started, Ellie.  Everything that's happening here happened on that ship. I saw it, I was...onboard when it happ... happened.<==>Ahí empezó todo, Ellie. Lo que está pasando aquí pasó antes en esa nave. Yo lo vi, yo estaba... a bordo cuando suced...-->Foi aí que tudo começou, Ellie.  O que está acontecendo aqui também aconteceu nessa nave. Eu vi isso, eu estava...à bordo quando acon... aconteceu.
+(4172)That's where all this started, Ellie.  Everything that's happening here happened on that ship. I saw it, I was...onboard when it happ... happened.<==>Ahí empezó todo, Ellie. Lo que está pasando aquí pasó antes en esa nave. Yo lo vi, yo estaba... a bordo cuando suced...-->Foi ali que tudo começou, Ellie.  O que está acontecendo aqui também aconteceu nessa nave. Eu vi isso, eu estava...à bordo quando acon... aconteceu.
 (4173)Hey, what's happening?<==>Eh, ¿qué ocurre?-->Ei, o que está acontecendo?
 (4174)Stay here.  I'll take a look.<==>Quédate aquí. Iré a echar un vistazo.-->Fique aqui.  Vou dar uma olhada.
-(4175)Ok, Ellie! Get ready, one more!<==>¡Vale, Ellie! ¡Prepárate, uno más!-->Ok, Ellie! Prepare-se, aí vem mais um!
-(4176)Yes it will.  Tell Stross to hold on, here we go...<==>Así es. Dile a Stross que aguante, allá vamos...-->É isso.  Diga a Stross para aguentar, estamos indo... 
+(4175)Ok, Ellie! Get ready, one more!<==>¡Vale, Ellie! ¡Prepárate, uno más!-->Tudo bem, Ellie! Prepare-se, aí vem mais um!
+(4176)Yes it will.  Tell Stross to hold on, here we go...<==>Así es. Dile a Stross que aguante, allá vamos...-->É isso.  Diga ao Stross para aguentar, estamos indo... 
 (4177)Ugh! Uh! Go! Go! Go!<==>¡Agh! ¡Uh! ¡Vamos! ¡Vamos! ¡Vamos!-->Agh! Uh! Vai! Vai! Vai!
 (4178)Oh. God. Come on.<==>Oh dios, vamos.-->Oh. Deus. Vamos.
-(4179)He's using the solar beam! We have to stop the transport! Now!<==>¡Va a utilizar el haz solar! ¡Hay que detener el transporte! ¡Ahora! ¡Uh!-->Ele está usando o feixe solar! Temos que deter o transporte! Agora!
-(4180)Back us up!  Back us up to that station!<==>¡Cúbrenos! ¡Hasta esa estación!-->Cubra-nos!  Cubra-nos até essa estação!
+(4179)He's using the solar beam! We have to stop the transport! Now!<==>¡Va a utilizar el haz solar! ¡Hay que detener el transporte! ¡Ahora! ¡Uh!-->Ele está usando o feixe solar! Temos que parar o transporte! Agora!
+(4180)Back us up!  Back us up to that station!<==>¡Cúbrenos! ¡Hasta esa estación!-->Cubra-nos!  Cubra-nos até a estação!
 (4181)Just do it, Ellie! Hurry!  Uh!  The Ishimura. If the gravity tethers are still functional I can-<==>¡Tú hazlo, rápido! ¡Uh! El Ishimura. Si los anclajes gravitatorios siguen operativos...-->Faça isso, Ellie! Depressa!  Ei!  A Ishimura. Se as travas gravitacionais ainda estiverem funcionando eu posso...
-(4182)If I can line up the tracks for a few seconds you should be able to get the Transport across. Stay ready, and take care of Stross.<==>Si consigo alinear las vías unos segundos podrías hacer cruzar el transporte. Prepárate, y cuida de Stross.-->Se eu conseguir alinhar as vias por alguns segundos, você poderá conseguir cruzar o Transporte. Se prepare, e cuide de Stross.
+(4182)If I can line up the tracks for a few seconds you should be able to get the Transport across. Stay ready, and take care of Stross.<==>Si consigo alinear las vías unos segundos podrías hacer cruzar el transporte. Prepárate, y cuida de Stross.-->Se eu conseguir alinhar as vias por alguns segundos, você poderá conseguir atravessar com o transporte. Fique pronta, e cuide do Stross.
 (4183)Stick around. I'm full of bad ideas.<==>No te vayas. Tengo un montón de malas ideas.-->Fique por perto. Estou tendo um monte de ideias ruins.
 (4184)You're not going to break me.<==>No me doblegarás.-->Você não vai me enrolar.
 (4185)Ellie? I'm almost to the Captain's Nest to activate the tethers.<==>¿Ellie? Casi estoy en el refugio del capitán para activar los anclajes.-->Ellie? Estou quase na cabine do capitão para ativar as travas.
-(4186)No, just go! I'll use one of the escape pods and meet you there! Now go!<==>¡No, tú vete! ¡Yo iré por una de las cápsulas de escape y te encontraré allí! ¡Vete ya!-->Não, você vai! Vou usar uma das cápsulas de fuga e te encontro lá! Agora vai!
+(4186)No, just go! I'll use one of the escape pods and meet you there! Now go!<==>¡No, tú vete! ¡Yo iré por una de las cápsulas de escape y te encontraré allí! ¡Vete ya!-->Não, você vai! Vou usar uma das cápsulas de fuga e te encontrarei lá! Agora vá!
 (4187)Time to go...<==>Hora de irse...-->Hora de partir...
-(4188)I don't know. I don't know what you are, okay?<==>No lo sé. No sé lo que eres.-->Eu não sei. Eu não sei quem você é, ok?
+(4188)I don't know. I don't know what you are, okay?<==>No lo sé. No sé lo que eres.-->Eu não sei. Eu não sei quem é você, tá?
 (4189)I'm away! Ellie? Did you make it?<==>¡Estoy fuera! ¿Ellie? ¿Lo conseguisteis?-->Estou fora! Ellie? Você conseguiu?
 (4190)Stross! No!!!<==>¡Stross! ¡¡No!!-->Stross! Não!!!
 (4191)Stroooossss!!!<==>¡¡¡Stroooossss!!!-->Stroooossss!!!
 (4192)Stross! God dammit!<==>¡Stross! ¡Maldita sea!-->Stross! Droga!
 (4193-REPETIDO)Oh God, Ellie!<==>¡Oh, dios, Ellie!-->Oh Deus, Ellie!
 (4194)Shut up! Just shut... up! The Marker... It was you... you made him do it! You made me kill him, didn't you?<==>¡Cállate! ¡Tú... cállate! La Efigie... ¡Fuiste tú...  le obligaste a hacerlo! Tú me obligaste a matarlo, ¿verdad?-->Cala a boca! Só cale a... boca! O Marker... Foi você... você me obrigou a fazer isso! Você me obrigou a matá-lo, não foi? 
-(4195)You're nothing... you can't hurt me... you are not real... you can't... hurt... me...<==>No eres nada... No puedes hacerme daño... No eres real... No... puedes... hacerme... daño...-->Você não pode... você não pode me ferir... você não é real... Você não pode... me... ferir...
+(4195)You're nothing... you can't hurt me... you are not real... you can't... hurt... me...<==>No eres nada... No puedes hacerme daño... No eres real... No... puedes... hacerme... daño...-->Você não é nada... você não pode me ferir... você não é real... você não pode... me... ferir...
 (4196)Cause you were my everything. And if I let you go, I got nothing left. <==>Porque lo eras todo para mí. Y si te dejo ir, no me quedará nada.-->Porque você era tudo para mim. E se eu deixar você ir, não me restará nada. 
 (4197)Stross is dead, Ellie. <==>Stross ha muerto, Ellie.-->Stross está morto, Ellie. 
 (4198)Stross couldn't lead us to the Marker. He was running away from his guilt.<==>Stross no podía conducirnos a la Efigie. Huía de su propia culpa.-->Stross não podia nos levar até o Marker. Ele estava fugindo da sua própria culpa.
@@ -4206,16 +4206,16 @@
 (4206)Nothing... Nothing.<==>Nada... nada.-->Nada... Nada.
 (4207)Uh...<==>Eh...-->Eh...
 (4208)Thanks<==>Gracias.-->Obrigado
-(4209)Ok I'm on! <==>¡Bien, estoy!-->Ok, estou bem! 
+(4209)Ok I'm on! <==>¡Bien, estoy!-->Tudo bem, deixe comigo! 
 (4210)Whoa whoa whoa whoa whoa! Stop!  STOP!  <==>¡Eh, eh, eh, eh! ¡Alto! ¡ALTO!-->Whoa whoa whoa whoa whoa! Pare!  PARE!  
-(4211)So how do we get in there?  <==>¿Y cómo entramos ahí?-->Então, como vamos fazer para entrar aí?  
+(4211)So how do we get in there?  <==>¿Y cómo entramos ahí?-->Então, como vamos fazer para entrar ali?  
 (4212)You know I'm riding on top of this thing, right?  Ellie?  Ellie? Ellie! Ellie! Ellie!<==>Ya sabes que seré yo el que se suba, ¿no? ¿Ellie? ¿Ellie? ¡Ellie! ¡Ellie!-->Você sabe que estou em cima dessa coisa, não sabe?  Ellie?  Ellie? Ellie! Ellie! Ellie!
-(4213)Ugh! Holy crap that hurt.<==>¡Agh! Mierda, eso duele.-->Agh! Merda, isso dói.
-(4214)Why?  So I can let you go too?  I can't do that Nicole.  I never wanted to let you go. <==>¿Por qué? ¿Para perderte a ti también? No puedo hacer eso, Nicole. Nunca quise que te fueras.-->Por quê?  Para perder você também?  Não posso fazer isso, Nicole.  Eu nunca quis que você fosse. 
+(4213)Ugh! Holy crap that hurt.<==>¡Agh! Mierda, eso duele.-->Agh! Mas que droga, isso dói.
+(4214)Why?  So I can let you go too?  I can't do that Nicole.  I never wanted to let you go. <==>¿Por qué? ¿Para perderte a ti también? No puedo hacer eso, Nicole. Nunca quise que te fueras.-->Por quê?  Para perder você também?  Não posso fazer isso, Nicole.  Eu nunca quis que você fosse embora. 
 (4215)What is that? I can feel it in my head.<==>¿Qué es eso? Está dentro de mi cabeza.-->O que é isso? Está dentro da minha cabeça.
 (4216)I still don't know what to do.<==>Sigo sin saber qué hacer.-->Eu ainda não sei o que fazer.
-(4217)Oh my God. I built that?<==>Dios mío... ¿Yo fabriqué... eso?-->Oh meu Deus. Eu contruí isso?
-(4218)What - what are they doing?<==>¿Qué...?-->O que... o que eles estão fazendo?
+(4217)Oh my God. I built that?<==>Dios mío... ¿Yo fabriqué... eso?-->Oh meu deus. Eu contruí isso?
+(4218)What - what are they doing?<==>¿Qué...?-->O quê... o que eles estão fazendo?
 (4219)DS2 QA Testers<==>Pruebas de control de calidad de DS2-->Testes de Controle de Qualidade de DS2
 (4220-REPETIDO)Unlocked by killing the wearer<==>Desbloqueado al matar a quien lo lleva-->Desbloqueado ao matar o portador
 (4221)damage<==>daño-->dano
@@ -4230,7 +4230,7 @@
 (4230)BULKHEAD FIGHT<==>LUCHA DE CONTENCIÓN-->LUTA DE CONTENÇÃO
 (4231)RUN ISAAC<==>CORRE, ISAAC-->CORRE, ISAAC
 (4232)WHERE THE HELL AM I?<==>¿DÓNDE COÑO ESTOY?-->ONDE DIABOS EU ESTOU?
-(4233)KINESIS ROOM HINT<==>PISTA DE SALA DE CINÉTICA-->DICA DE SALA DE CINÉTICA
+(4233)KINESIS ROOM HINT<==>PISTA DE SALA DE CINÉTICA-->DICA DA SALA DE CINÉTICA
 (4234)STASIS HINT<==>PISTA DE ESTABILIZACIÓN-->DICA DE ESTABILIZAÇÃO
 (4235)CUT OFF THEIR LIMBS!\n<==>¡CERCENADLES LAS EXTREMIDADES!\n-->CORTE SUAS EXTREMIDADES!\n
 (4236)SHOTGUN WEDDING<==>MATRIMONIO DE CONVENIENCIA-->MATRIMÔNO DE CONVENIÊNCIA
@@ -4247,18 +4247,18 @@
 (4247)Goodbye, Nicole.<==>Adiós, Nicole.-->Adeus, Nicole.
 (4248)You're kidding.<==>¿En serio?-->Você está falando sério?
 (4249)Ellie?  Ellie!<==>¿Ellie? ¡Ellie!-->Ellie?  Ellie!
-(4250)Can you get the door open on your end?<==>¿Puedes abrir la puerta desde ahí?-->Você pode abrir a porta daí?
+(4250)Can you get the door open on your end?<==>¿Puedes abrir la puerta desde ahí?-->Você consegue abrir a porta daí?
 (4251)There has to be another way in.<==>Habrá otra forma de entrar.-->Deve haver outra maneira de entrar.
 (4252)Alright, do it.<==>Bien, hazlo.-->Tudo bem, faça isso.
 (4253)Hold it together, Stross. I'll be there soon.<==>Aguanta, Stross. Pronto estaré contigo.-->Aguente, Stross. Eu estarei aí em breve.
 (4254)Ellie! Come in!<==>¡Ellie! ¡Responde!-->Ellie! Responda!
 (4255)I'll be there!  I'll be there!<==>¡Llegaré! ¡Llegaré!-->Estou indo! Estou indo!
-(4256)Well, we better move fast.  Those things are going to find a way up the hole we drilled. There's gotta be an elevator or something connecting these floors. I'm gonna try to make my way to you.<==>Debemos darnos prisa. Esas cosas subirán por el agujero que hemos taladrado. Tiene que haber un ascensor o algo que conecte las plantas. Voy a intentar avanzar hacia ti.-->Bem, é melhor agirmos rápido.  Essas coisas vão vir pelo buraco que escavamos.Deve haver um elevador ou algo que conecte esses pisos. Vou tentar chegar até você.
+(4256)Well, we better move fast.  Those things are going to find a way up the hole we drilled. There's gotta be an elevator or something connecting these floors. I'm gonna try to make my way to you.<==>Debemos darnos prisa. Esas cosas subirán por el agujero que hemos taladrado. Tiene que haber un ascensor o algo que conecte las plantas. Voy a intentar avanzar hacia ti.-->Bem, é melhor nos apressarmos.  Essas coisas vão subir pelo buraco que escavamos. Deve haver um elevador ou algo parecido que conecte esses pisos. Vou tentar chegar até você.
 (4257)It's your best chance Ellie. You got life support, comms... Hey, you're gonna be rescued.<==>Es tu mejor opción, Ellie. Tienes soporte vital, comunicaciones... Eh, te rescatarán.-->É a sua melhor opção, Ellie. Você tem suporte vital, comunicações... Ei, você vai ser resgatada.
-(4258) I need you to be rescued.  I couldn't save Nicole, but I can save you Ellie. So, uh... bye.<==>Necesito que te rescaten. No pude salvar a Nicole, pero puedo salvarte a ti, Ellie. Así que... Adiós.--> Eu preciso que você seja resgatada.  Eu não pude salvar a Nicole, mas posso te salvar Ellie. Então, uh... adeus.
+(4258) I need you to be rescued.  I couldn't save Nicole, but I can save you Ellie. So, uh... bye.<==>Necesito que te rescaten. No pude salvar a Nicole, pero puedo salvarte a ti, Ellie. Así que... Adiós.--> Eu preciso que você seja resgatada.  Eu não pude salvar a Nicole, mas posso salvar você, Ellie. Então, uh... adeus.
 (4259-IGUAIS)Nicole.
 (4260)...The Ishimura.<==>... ¡El Ishimura!-->...A Ishimura.
-(4261)They found something.<==>Encontraron algo.-->Eles encontraram algo.
+(4261)They found something.<==>Encontraron algo.-->Eles encontraram uma coisa.
 (4262)The Marker.<==>La Efigie.-->O Marker.
 (4263)It spoke to me...<==>Me hablaba...-->Ele falava comigo...
 (4264)Calm down, I'll cut you out of there.  Is that a tissue laser?  A plasma cutter?<==>Tranquilízate, te sacaré de ahí. ¿Es eso un láser de tejidos? ¿Una cortadora de plasma?-->Calma, eu vou tirá-lo daí.  Isso é um laser de tecidos?  Uma cortadora de plasma?
@@ -4273,15 +4273,15 @@
 (4273)Stross? Stross?<==>¡Stross! ¡STROSS!-->Stross? Stross?
 (4274)Hurry. There's something out here, too...<==>Deprisa. Aquí fuera también hay algo...-->Depressa. Tem alguma coisa aqui fora...
 (4275)Daina, you there? <==>Daina, ¿estás ahí?-->Daina, você está aí? 
-(4276)Let me see what I can do.<==>A ver qué puedo hacer.-->Deixe-me ver o que posso fazer.
+(4276)Let me see what I can do.<==>A ver qué puedo hacer.-->Vamos ver o que posso fazer.
 (4277)Daina? Daina? Important that I what?<==>¿Daina? ¿Daina? ¿Importante que no qué?-->Daina? Daina? O que é importante?
 (4278)You mean the Marker? <==>¿Te refieres a la Efigie?-->Você está falando do Marker? 
 (4279)Do you know where the Marker is Stross?<==>¿Tú sabes dónde está la Efigie, Stross?-->Você sabe onde está o Marker, Stross?
-(4280)Stross, Stross! Where are you going? Shit!<==>¡Stross, Stross! ¿Adónde vas?... ¡Mierda!-->Stross, Stross! Onde você está indo? Merda!
+(4280)Stross, Stross! Where are you going? Shit!<==>¡Stross, Stross! ¿Adónde vas?... ¡Mierda!-->Stross, Stross! Onde você está indo? Droga!
 (4281)I don't remember any sessions. <==>No recuerdo ninguna sesión.-->Não me lembro de nenhuma sessão. 
 (4282)Who? Who comes back? Who?!<==>¿Quién? ¿Quién vuelve? ¡¿Quién?!-->Quem? Quem vai voltar? Quem?!
-(4283)Stross, don't follow him! He's not really there!  <==>¡Stross, no lo sigas! ¡No es real!-->Stross, não siga ele! Ele não está aí de verdade!  
-(4284)Stross, calm down! He can't hurt you!<==>¡Stross, cálmate! ¡No puede hacerte daño!-->Stross, acalme-se! Ele não pode te machucar!
+(4283)Stross, don't follow him! He's not really there!  <==>¡Stross, no lo sigas! ¡No es real!-->Stross, não o siga! Ele não está aí de verdade!  
+(4284)Stross, calm down! He can't hurt you!<==>¡Stross, cálmate! ¡No puede hacerte daño!-->Stross, se acalme! Ele não pode te machucar!
 (4285)HAZARD SUIT<==>TRAJE DE RIESGO-->TRAJE DE PERIGO
 (4286)Buy?<==>¿Comprar?-->Comprar?
 (4287)DEACTIVATING<==>DESACTIVANDO-->DESATIVANDO
@@ -4289,11 +4289,11 @@
 (4289-IGUAIS)Stross...
 (4290)Stross! Listen to me! You need to keep moving. Can you get to the train? Can you do that?<==>¡Stross! ¡Escúchame! Tienes que seguir avanzando. ¿Puedes llegar al tren? ¿Podrás hacerlo?-->Stross! Me escute! Você precisa seguir em frente. Você consegue chegar no trem? Você consegue fazer isso?
 (4291)Ellie! Take it easy! His name is Stross. I know him.<==>¡Ellie! ¡Tranquila! Se llama Stross. Lo conozco.-->Ellie! Fique calma! Ele se chama Stross. Eu o conheço.
-(4292)Ellie! I need him to be - not dead. I need him.<==>¡Ellie! Necesito que siga... que no muera. Lo necesito.-->Ellie! Eu preciso que ele... que ele não morra. Preciso dele.
-(4293)Ellie, I've got the elevator repaired. I'm heading up to the array. How's Stross doing? <==>Ellie, he arreglado el ascensor. Me dirijo al panel. ¿Qué tal le va a Stross?-->Ellie, consegui consertar o elevador. Estou indo até o painel. Como está o Stross? 
+(4292)Ellie! I need him to be - not dead. I need him.<==>¡Ellie! Necesito que siga... que no muera. Lo necesito.-->Ellie! Eu preciso que ele... não morra. Preciso dele.
+(4293)Ellie, I've got the elevator repaired. I'm heading up to the array. How's Stross doing? <==>Ellie, he arreglado el ascensor. Me dirijo al panel. ¿Qué tal le va a Stross?-->Ellie, consegui consertar o elevador. Estou indo para o painel. Como está o Stross? 
 (4294)It already is.  Just keep moving.<==>Ya lo está haciendo. Seguid adelante.-->Ele já está causando.  Siga em frente.
-(4295)Ellie, I'm on my way to the mirrors now. I have to realign them manually. How's Stross?<==>Ellie, ahora voy de camino hacia los espejos. Tengo que realinearlos manualmente. ¿Cómo está Stross?-->Ellie, agora estou indo até os espelhos. Tenho que realinhá-los manualmente. Como está o Stross?
-(4296)Alright Ellie, one down.  How's it lookin on your end?<==>Bien, Ellie, uno menos. ¿Cómo te va por ahí?-->Tudo bem Ellie, um a menos.  Como está indo aí?
+(4295)Ellie, I'm on my way to the mirrors now. I have to realign them manually. How's Stross?<==>Ellie, ahora voy de camino hacia los espejos. Tengo que realinearlos manualmente. ¿Cómo está Stross?-->Ellie, estou indo agora até os espelhos. Tenho que realinhá-los manualmente. Como está o Stross?
+(4296)Alright Ellie, one down.  How's it lookin on your end?<==>Bien, Ellie, uno menos. ¿Cómo te va por ahí?-->Tudo bem Ellie, um a menos.  Como está indo por aí?
 (4297)Ellie...I know, I'm sorry.<==>Ellie... Lo sé, lo siento.-->Ellie...Eu sei, me desculpe.
 (4298)We'll get through this. Let's figure out how to meet up. <==>Saldremos de esta. Pensemos en cómo podemos encontrarnos.-->Nós vamos sair dessa. Vamos pensar em como podemos nos encontrar. 
 (4299)Are you guys okay?<==>¿Estáis bien?-->Vocês estão bem?
@@ -4304,64 +4304,64 @@
 (4304)He's not gonna make it.  We gotta keep moving.<==>No lo conseguirá. Tenemos que seguir adelante.-->Ele não vai conseguir.  Temos que seguir em frente.
 (4305)Stay here and, uh,  try to get him on his feet.<==>Iré yo. Quédate y... Intenta que se ponga en pie.-->Eu irei. Fique aqui e, uh,  tente colocá-lo em pé.
 (4306)Ellie, I've got the centrifuge on-line. I'm heading back towards the tram station.<==>Ellie, he activado la centrifugadora. Me dirijo de vuelta a la estación de monorraíl.-->Ellie, consegui ativar a centrifugadora. Estou voltando para a estação de trem.
-(4307)Great.  Let's hope this works. It'll be tight, you ready?<==>Bien. Esperemos que funcione. Haré fuerza. ¿Estás lista?-->Ótimo.  Espero que funcione. Vai ser difícil, está pronta?
-(4308)Okay, heading in now.<==>Bien, voy allá-->Ok, estou indo.
+(4307)Great.  Let's hope this works. It'll be tight, you ready?<==>Bien. Esperemos que funcione. Haré fuerza. ¿Estás lista?-->Ótimo.  Espero que isso funcione. Vai ser difícil, está pronta?
+(4308)Okay, heading in now.<==>Bien, voy allá-->Tudo bem, estou indo agora.
 (4309)Why did you do it, Stross?!<==>¡¿Por qué lo has hecho, Stross?!-->Por que você fez isso, Stross?!
 (4310)What can't you face?  What's the last step?<==>¿A qué no puedes hacer frente? ¿Cuál es el último paso?-->O que você não pode enfrentar?  Qual é o último passo?
 (4311)Stross!!!  Dammit!<==>¡¡Stross!! ¡¡Maldita sea!!-->Stross!!!  Droga!
-(4312)I've got problems on this end too, get somewhere safe.<==>Yo también tengo problemas aquí, ponte a salvo.-->Eu também tenho alguns problemas aqui, vá para algum lugar seguro.
-(4313)Ellie. I'm back inside.  Where are you?  Where's Stross?<==>Ellie. Estoy dentro otra vez. ¿Dónde estás tú? ¿Y Stross?-->Ellie. Estou dentro outra vez.  Onde você está?  Onde você está Stross?
+(4312)I've got problems on this end too, get somewhere safe.<==>Yo también tengo problemas aquí, ponte a salvo.-->Eu também estou com problemas aqui, vá para algum lugar seguro.
+(4313)Ellie. I'm back inside.  Where are you?  Where's Stross?<==>Ellie. Estoy dentro otra vez. ¿Dónde estás tú? ¿Y Stross?-->Ellie. Estou dentro outra vez.  Onde você está?  Onde está o Stross?
 (4314)I'll get there as soon as I can. Stay safe.<==>Estaré ahí lo antes posible. Mantente a salvo.-->Vou chegar aí o mais rápido que puder. Mantenha-se à salvo.
 (4315)I don't know. <==>No lo sé.-->Eu não sei. 
 (4316)Well, how was it supposed to happen, Tiedemann?<==>¿Cómo tenía que ocurrir, Tiedemann?-->Bem, como tinha de acontecer, Tiedemann?
 (4317)Why? What the hell is it doing?<==>¿Por qué? ¿Qué demonios hace?-->Por quê? Que diabos ele está fazendo?
 (4318)I'm full of bad ideas, remember?<==>Tengo un montón de malas ideas, ¿recuerdas?-->Estou tendo um monte de ideias ruins, lembra?
 (4319)Wait! No! Ellie! Ellie, it's too late! Steer clear of the station!<==>¡Espera! ¡No! ¡Ellie! ¡Ellie, es demasiado tarde! ¡Aléjate de la estación!-->Espere! Não! Ellie! Ellie, é tarde demais! Fique longe da estação!
-(4320)I'm pushing it as hard as I can!<==>¡Empujo tan fuerte como puedo!-->Estou empurrando o mais forte que eu posso!
+(4320)I'm pushing it as hard as I can!<==>¡Empujo tan fuerte como puedo!-->Estou empurrando o mais forte que posso!
 (4321)Almost there!<==>¡Ya casi está!-->Quase lá!
 (4322)Yes we are, just hold on!<==>¡Sí lo haremos, aguanta!-->Sim, nós faremos, aguente firme!
 (4323)I'm trying!   I'm trying!<==>¡Lo intento! ¡Lo intento!-->Estou tentando!   Estou tentando!
-(4324)Holy crap!<==><Explosión>-->Puta merda!
+(4324)Holy crap!<==><Explosión>-->Minha nossa!
 (4325)Stross? <==>¿Stross?-->Stross? 
-(4326)Stross! Ellie?  Shit!<==>¡Stross! ¿Ellie? ¡Joder!-->Stross! Ellie?  Merda!
+(4326)Stross! Ellie?  Shit!<==>¡Stross! ¿Ellie? ¡Joder!-->Stross! Ellie?  Droga!
 (4327)Aw fuck!<==>¡Ah, joder!-->Ah, droga!
-(4328)Shit, no waypoint.  What the hell?<==>Mierda, no hay referencia. ¿Qué demonios? Maldita sea.-->Merda, não há referência.  Mas que diabos?
+(4328)Shit, no waypoint.  What the hell?<==>Mierda, no hay referencia. ¿Qué demonios? Maldita sea.-->Droga, não há referência.  Mas que diabos?
 (4329)Whoa! Whoa! Hey! Hey! <==>¡Eh! ¡Eh! ¡Alto! ¡Alto!-->Ouw! Ouw! Ei! Ei! 
 (4330)But I'll never see you again!<==>¡Pero nunca volveré a verte!-->Mas eu nunca mais vou voltar a te ver outra vez!
 (4331-REPETIDO)Shit!<==>¡Mierda!-->Merda!
 (4332)Nothing <==>Nada.-->Nada 
-(4333)Crap, looks like I have to dodge these lasers to make my way around to the other side.  This'll be fun.<==>Mierda, parece que tendré que esquivar esos láseres para llegar al otro lado. Será divertido.-->Merda, parece que terei que desviar esses lasers para chegar do outro lado.  Isso vai ser divertido.
+(4333)Crap, looks like I have to dodge these lasers to make my way around to the other side.  This'll be fun.<==>Mierda, parece que tendré que esquivar esos láseres para llegar al otro lado. Será divertido.-->Droga, parece que terei que desviar esses lasers para chegar do outro lado.  Isso vai ser divertido.
 (4334)I should be able to Kinesis these bridge pieces into place.<==>Usaré el módulo cinético para colocar las piezas del puente.-->Vou usar o módulo cinético para colocar as peças no lugar.
 (4335)I know.  I've had a lot of practice.<==>Lo sé. Ya tengo práctica.-->Eu sei.  Tenho prática no assunto.
-(4336)I'll do my best.<==>Haré todo lo que pueda.-->Vou fazer o meu melhor.
-(4337)  I fell into a Surgery Pit, I'm locked in.<==>He caído en una sala de cirugía. Estoy encerrado.-->  Eu caí em uma sala de cirurgía, estou preso nela.
-(4338)Alright, I'm on it.<==>Vale, estoy en ello.-->Tudo bem, estou nele.
+(4336)I'll do my best.<==>Haré todo lo que pueda.-->Vou fazer o que puder.
+(4337)  I fell into a Surgery Pit, I'm locked in.<==>He caído en una sala de cirugía. Estoy encerrado.-->  Caí em uma sala de cirurgia, estou preso nela.
+(4338)Alright, I'm on it.<==>Vale, estoy en ello.-->Tudo bem, estou dentro.
 (4339-REPETIDO)Daina, the door to the ER doesn't recognize me.  It's closing before I can get through.<==>Daina, la puerta de urgencias no me reconoce. Se cierra antes de dejarme pasar.-->Daina, a porta de emergência não me reconhece.  Ela está fechando antes de me deixar passar.
 (4340-REPETIDO)Stasis.  Got it, thanks.<==>Estabilización. Entendido, gracias.-->Estabilização.  Entendi, obrigado.
 (4341) Daina, what the hell route is this?<==>Daina, ¿qué clase de ruta es esta?--> Daina, que diabos de caminho é esse?
 (4342-IGUAIS)1
 (4343)Hey, you made it.<==>Eh, lo has conseguido.-->Ei, você conseguiu.
 (4344)Relax! Relax!<==>¡Cálmate, cálmate!-->Calma! Calma!
-(4345) Fly against the flow of the garbage.  Wonderful.<==>Avanzar contra el tráfico de residuos. Fantástico.--> Avançar contra o tráfico de resíduos.  Fantástico.
+(4345) Fly against the flow of the garbage.  Wonderful.<==>Avanzar contra el tráfico de residuos. Fantástico.--> Avançar contra o fluxo de resíduos.  Sensacional.
 (4346-REPETIDO)No, but I think I've seen it.<==>No, pero me parece verla.-->Não, mas eu acho que a vi.
 (4347)A coffin?  Why do you know that?<==>¿Un ataúd? ¿Cómo lo sabes?-->Um caixão?  Como sabe disso?
 (4348-REPETIDO)Right.  thanks.<==>Bien. Gracias.-->Certo.  Obrigado.
 (4349)  Ellie, there are thrusters already in place on the underside of the Elevator Pod.   How much force do they yield?<==>Ellie, los propulsores ya están colocados en la parte baja de la cápsula del ascensor. ¿Cuánta fuerza generan?-->  Ellie, os propulsores já estão colocados na parte inferior da cápsula do elevador.   Quanta força eles geram?
 (4350)Red tips.   Got it, thanks.<==>Boquillas rojas. Vale, gracias.-->Pontas vermelhas.   Entendido, obrigado.
-(4351)Ellie, the door in here only opens for Howard Phillips, the station keeper.  But he's dead.  Can you open it?<==>Ellie, el único que puede abrir esta puerta es Howard Phillips, el guardia de la estación. Pero está muerto. ¿Puedes abrirla?-->Ellie, o único que pode abrir essa porta é Howard Phillips, o guarda da estação.  Mas ele está morto.  Você pode abri-la?
-(4352)Use his body to fool the door, okay, I'll try it.<==>Utilizar su cuerpo para engañar a la puerta, vale. Lo intentaré.-->Use seu corpo para enganar a porta. Vou tentar isso.
-(4353)Ellie, I need to get this mainframe offline.   I'm inside the core.<==>Ellie, tengo que desconectar el ordenador central. Estoy en el núcleo.-->Ellie, preciso desconectar o computador central.   Estou dentro do núcleo.
+(4351)Ellie, the door in here only opens for Howard Phillips, the station keeper.  But he's dead.  Can you open it?<==>Ellie, el único que puede abrir esta puerta es Howard Phillips, el guardia de la estación. Pero está muerto. ¿Puedes abrirla?-->Ellie, o único que pode abrir essa porta é Howard Phillips, o guarda da estação.  Mas ele está morto.  Você consegue abri-la?
+(4352)Use his body to fool the door, okay, I'll try it.<==>Utilizar su cuerpo para engañar a la puerta, vale. Lo intentaré.-->Usar o corpo para enganar a porta. Tudo bem, vou tentar isso.
+(4353)Ellie, I need to get this mainframe offline.   I'm inside the core.<==>Ellie, tengo que desconectar el ordenador central. Estoy en el núcleo.-->Ellie, preciso desligar o computador central.   Estou dentro do núcleo.
 (4354) You've done this before?<==>¿Has hecho esto antes?--> Você já fez isso antes?
 (4355) Mmm. Tell me about it sometime.  But not now.   Kinesis, Fuses, match the floor panel, got it.  Thanks.<==>Mmm... Ya me lo contarás en otro momento, ahora no. Cinética, fusibles, coincidir con el panel del suelo. Entendido, gracias.--> Mmm. Me conte isso um outro dia.  Agora não.   Cinética, fusíveis, coincidir com o painel do chão. Entendido, obrigado.
-(4356)Okay, I'm on it.<==>Vale, estoy en ello.-->Ok, estou dentro.
-(4357) Ellie, this is a death trap!<==>¡Ellie, esto es una trampa mortal!--> Ellie, essa é uma armadilha mortal!
-(4358)Alright, this is going to be tricky.<==>Bien, esto no va a ser fácil.-->Tudo bem, isso vai ser complicado.
+(4356)Okay, I'm on it.<==>Vale, estoy en ello.-->Tudo bem, estou dentro.
+(4357) Ellie, this is a death trap!<==>¡Ellie, esto es una trampa mortal!--> Ellie, isso é uma armadilha mortal!
+(4358)Alright, this is going to be tricky.<==>Bien, esto no va a ser fácil.-->Tudo bem, isso não vai ser fácil.
 (4359) Ellie, another valve hatch is sealed shut.   I can't get through.<==>Ellie, hay otra escotilla de válvula cerrada. No puedo pasar.--> Ellie, há outra escotilha de válvula fechada.   Não consigo passar.
 (4360-REPETIDO)Alright, I look for them.<==>Vale, los buscaré.-->Tudo bem, eu vou atrás deles.
-(4361)Ellie, the damn cooling core is extended and pieces are everywhere.<==>Ellie, el núcleo de refrigeración está desmontado y hay muchas piezas.-->Ellie, o núcleo de refrigeração está desmontado e tem peças por toda parte.
-(4362)Yeah, I see tube paths on the floating components.   I think I can match them up with the right sockets.   <==>Sí, veo conexiones de tubos en los componentes que flotan. Creo que puedo encajarlos en sus tomas.-->Sim, estou vendo tubos de refrigeração junto das peças que estão flutuando.   Acho que posso encaixá-los nos lugares corretos.   
-(4363) I know, I'm going as fast as I can.   I'll contact you when I'm done.<==>Lo sé, voy lo más rápido que puedo. Te llamaré cuando termine.--> Eu sei, estou indo o mais rápido que posso.   Entrarei em contato quando terminar.
-(4364)I'll see if I can rewire it from down here?<==>Intentaré derivarla desde aquí abajo.-->Vou ver se consigo religá-lo daqui.
+(4361)Ellie, the damn cooling core is extended and pieces are everywhere.<==>Ellie, el núcleo de refrigeración está desmontado y hay muchas piezas.-->Ellie, o núcleo de refrigeração está desmontado e tem peças por todo lado.
+(4362)Yeah, I see tube paths on the floating components.   I think I can match them up with the right sockets.   <==>Sí, veo conexiones de tubos en los componentes que flotan. Creo que puedo encajarlos en sus tomas.-->Sim, estou vendo conexões de tubos junto das peças que estão flutuando.   Acho que posso encaixá-los nos lugares corretos.   
+(4363) I know, I'm going as fast as I can.   I'll contact you when I'm done.<==>Lo sé, voy lo más rápido que puedo. Te llamaré cuando termine.--> Eu sei, estou indo o mais rápido que posso.   Entrarei em contato assim que terminar.
+(4364)I'll see if I can rewire it from down here?<==>Intentaré derivarla desde aquí abajo.-->Vou ver se consigo religá-lo daqui de baixo.
 (4365)Come on man.<==>Vamos, tío.-->Vamos lá.
 (4366)Listen<==>Escuche.-->Ouça
 (4367)Don't do it!<==>¡No lo haga!-->Não faça isso!
@@ -4372,9 +4372,9 @@
 (4372)I'm trying, I'm trying!<==>¡Lo intento! ¡Lo intento!-->Estou tentando, estou tentando!
 (4373)Wait...Wait!<==>Espera... ¡Espera!-->Espere...Espere!
 (4374)Ellie...<==>Ellie...-->Ellie...
-(4375)...fuck... Motherfucker... Fuck... Dammit<==>...Joder... Cabrón... Joder... Maldita sea.-->...droga... filho da puta... droga... maldição
-(4376)\n...die...shit...fuck...die...<==>\n...Muere... Mierda... Joder... Muere...-->\n...morre...merda...droga...morre...
-(4377)...fucking stop... fucker... mother-fucker... die<==>...Para, coño... Cabrón... Hijo de perra... Muere.-->...Para, caralho... desgraçado... filho da puta... morre
+(4375)...fuck... Motherfucker... Fuck... Dammit<==>...Joder... Cabrón... Joder... Maldita sea.-->...droga... desgraçado... droga... maldição
+(4376)\n...die...shit...fuck...die...<==>\n...Muere... Mierda... Joder... Muere...-->\n...morre...desgraçado...droga...morre...
+(4377)...fucking stop... fucker... mother-fucker... die<==>...Para, coño... Cabrón... Hijo de perra... Muere.-->...Para, droga... desgraçado... filho da puta... morre
 (4378-REPETIDO)...fuck... Motherfucker... Fuck... Dammit<==>...Joder... Cabrón... Joder... Maldita sea.-->...droga... filho da puta... droga... maldição
 (4379-REPETIDO)\n...die...shit...fuck...die...<==>\n...Muere... Mierda... Joder... Muere...-->\n...morre...merda...droga...morre...
 (4380-REPETIDO)...fucking stop... fucker... mother-fucker... die<==>...Para, coño... Cabrón... Hijo de perra... Muere.-->...Para, caralho... desgraçado... filho da puta... morre
@@ -4383,7 +4383,7 @@
 (4383)Ellie!  There's a giant tentacle blocking the transport door.  It's wrapped around a big tank.<==>¡Ellie! Un tentáculo gigante bloquea la puerta del transporte. Está enrollado a un gran depósito.-->Ellie!  Tem um tentáculo gigante bloqueando a porta do transporte.  Está enrolado em um grande depósito.
 (4384-REPETIDO)Who are you?<==>¿Quién eres?-->Quem é você?
 (4385-REPETIDO)Why?  What's going on?<==>¿Por qué? ¿Qué sucede?-->Por quê?  O que está acontecendo?
-(4386)How do you know that? How do you know all this about me?<==>¿Cómo lo sabes? ¿Cómo sabes que me infecté?-->Como você sabe disso? Como você sabe tudo isso sobre mim?
+(4386)How do you know that? How do you know all this about me?<==>¿Cómo lo sabes? ¿Cómo sabes que me infecté?-->Como você sabe disso? Como você sabe isso tudo sobre mim?
 (4387)Why should I trust you?<==>¿Por qué me fiaría de ti?-->Por que eu deveria confiar em você?
 (4388-REPETIDO)Fuck.<==>Joder.-->Droga.
 (4389)Why are you helping me? <==>¿Por qué me ayudas?-->Por que você está me ajudando? 
@@ -4394,10 +4394,10 @@
 (4394)Wait!  WAIT!  Who is?  Who's after us?<==>¡Espera! ¡ESPERA! ¿Quién? ¿Quién nos persigue?-->Espere!  ESPERE!  Quem é?  Quem é que está atrás de nós?
 (4395)Daina, your fucking route didn't work.  There's a security lockdown!<==>Daina, tu ruta no ha funcionado. ¡Hay un bloqueo de seguridad!-->Daina, sua rota não funcionou.  Há um bloqueio de segurança!
 (4396-REPETIDO)Look, I don't need your help.<==>Mira, no necesito tu ayuda.-->Olha, eu não preciso da sua ajuda.
-(4397)Aw shit.  <==>Joder.-->Ah, merda.  
-(4398)Daina?  Daina!  Okay, you're right.  I do need your help.   Talk to me.<==>¿Daina? ¡Daina! Vale, tienes razón. Necesito tu ayuda. Háblame.-->Daina?  Daina! Ok, você está certa.  Preciso da sua ajuda.   Fale comigo.
-(4399)Fine. So where the hell am I?  How did another necromorph outbreak get started?<==>Vale. ¿Dónde coño estoy? ¿Cómo se ha desatado otro brote de necromorfos?-->Bem. Então, onde diabos eu estou?  Como começou outro surto de necromorfos?
-(4400)Okay, I'm past the Morgue.  How much further?<==>Vale, he pasado la morgue. ¿Cuánto falta?-->Ok, passei pelo necrotério.  Quanto falta?
+(4397)Aw shit.  <==>Joder.-->Ah, droga.  
+(4398)Daina?  Daina!  Okay, you're right.  I do need your help.   Talk to me.<==>¿Daina? ¡Daina! Vale, tienes razón. Necesito tu ayuda. Háblame.-->Daina?  Daina! Tudo bem, você está certa.  Preciso da sua ajuda.   Fale comigo.
+(4399)Fine. So where the hell am I?  How did another necromorph outbreak get started?<==>Vale. ¿Dónde coño estoy? ¿Cómo se ha desatado otro brote de necromorfos?-->Tudo bem. Então, onde diabos eu estou?  Como começou outro surto de necromorfos?
+(4400)Okay, I'm past the Morgue.  How much further?<==>Vale, he pasado la morgue. ¿Cuánto falta?-->Tudo bem, passei pelo necrotério.  Quanto falta?
 (4401)Isaac:  Alright.<==>Isaac: Vale.-->Isaac:  Tudo bem.
 (4402-REPETIDO)Jeezus that thing was angry. Daina?  I'm out of the hospital.<==>Madre mía, esa cosa estaba cabreada. ¿Daina? Salgo del hospital.-->Meu Deus, essa coisa estava nervosa. Daina?  Saí do hospital.
 (4403-REPETIDO)Hang on. I need more answers.  How long have I been here?  <==>Espera. Necesito más respuestas. ¿Cuánto tiempo llevo aquí?-->Espere. Preciso de mais respostas.  Há quanto tempo estou aqui?  
@@ -4406,18 +4406,18 @@
 (4406-REPETIDO)Who are you?<==>¿Quién eres?-->Quem é você?
 (4407)I don't know what you're talking about.   Why are you calling me?!<==>No sé de qué estás hablando. ¡¿Para qué me llamas?!-->Não sei do que você está falando.   Por que você está me chamando?!
 (4408)ah Fuck!<==>¡Ah, joder!-->Ah, droga!
-(4409)There are necromorphs everywhere, is the entire Sprawl infected?!  How did this happen? The Marker was destroyed Daina, I destroyed it!<==>Hay necromorfos por todas partes. ¡¿Está infectado todo El Eje?! ¿Es posible? ¡La Efigie fue destruida, Daina! ¡Yo la destruí!-->Há necromorfos por toda parte, todo o Eixo está infectado?!  Como isso aconteceu? O Marker foi destruído, Daina, eu o destruí!
+(4409)There are necromorphs everywhere, is the entire Sprawl infected?!  How did this happen? The Marker was destroyed Daina, I destroyed it!<==>Hay necromorfos por todas partes. ¡¿Está infectado todo El Eje?! ¿Es posible? ¡La Efigie fue destruida, Daina! ¡Yo la destruí!-->Há necromorfos por toda parte, será que todo o Eixo está infectado?!  Como isso aconteceu? O Marker foi destruído, Daina, eu o destruí!
 (4410-REPETIDO)Daina, I need a new route.<==>Daina, necesito otra ruta.-->Daina, preciso de uma outra rota.
 (4411-REPETIDO)Unscheduled stop. Where am I?<==>Parada imprevista. ¿Dónde estoy?-->Parada imprevista. Onde estou?
 (4412)Okay.<==>Bien.-->Tudo bem.
 (4413)protect the detonator<==>Protege el detonador.-->Proteja o detonador
 (4414)ALT. FIRE (AIM MODE)\nCURB STOMP<==>DISPARO SEC. (MODO AP.)\nPISOTÓN-->DISPARO SEC. (MODO MIRA)\nPISADA
 (4415-IGUAIS)1
-(4416)Dismember, Impale, And Stomp Your Way Across The Sprawl<==>Cercena, empala y pisa para avanzar hacia El Eje-->Desmembre, empale, e pise para avançar até o Eixo
-(4417)Primary Fire DUR +1 sec / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to tether a blade in a short radius from the saw.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to eject a blade from the saw at high velocity.<==>DUR disparo principal: +1 seg. / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para anclar una cuchilla en un radio corto.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una cuchilla desde la sierra a gran velocidad.-->DUR. do disparo principal: +1 seg / REC: -5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para amarrar uma lâmina em um curto raio da serra.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar uma lâmina da serra em grande velocidade.
-(4418)Hey Daina, there's this crazy guy that keeps contacting me. I saw him back at the hospital.<==>Eh, Daina, hay un tipo raro que se pone en contacto conmigo. Lo vi en el hospital.-->Ei Daina, tem um doido que está entrando em contato comigo. Eu o vi no hospital.
+(4416)Dismember, Impale, And Stomp Your Way Across The Sprawl<==>Cercena, empala y pisa para avanzar hacia El Eje-->Desmembre, empale e pise para avançar até o Eixo
+(4417)Primary Fire DUR +1 sec / REL -5%\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] to tether a blade in a short radius from the saw.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to eject a blade from the saw at high velocity.<==>DUR disparo principal: +1 seg. / REC: -5%\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para anclar una cuchilla en un radio corto.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una cuchilla desde la sierra a gran velocidad.-->DUR. do disparo principal: +1 seg / REC: -5%\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para segurar uma lâmina em um curto raio da serra.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar uma lâmina da serra em grande velocidade.
+(4418)Hey Daina, there's this crazy guy that keeps contacting me. I saw him back at the hospital.<==>Eh, Daina, hay un tipo raro que se pone en contacto conmigo. Lo vi en el hospital.-->Ei Daina, tem um maluco que está entrando em contato comigo. Eu o vi no hospital.
 (4419)Yeah? Why was he there?  What does he want?<==>¿Sí? ¿Por qué estaba allí? ¿Qué quiere?-->Sim? Por que ele estava ali?  O que ele quer?
-(4420)Okay, I'll be careful.<==>Tendré cuidado.-->Ok, vou tomar cuidado.
+(4420)Okay, I'll be careful.<==>Tendré cuidado.-->Tudo bem, vou tomar cuidado.
 (4421-REPETIDO)Daina, I thought you were routing me to residential. This looks like... a Unitology recruitment center?  Am I still on track? <==>Daina, creía que me enviabas al sector residencial. Esto parece... un centro de reclutamiento de la Uniología. ¿Voy bien?-->Daina, pensei que você estava me enviando para o setor residencial. Isso parece... um centro de recrutamento da Unitologia?  Estou no caminho certo? 
 (4422-REPETIDO)Daina! Tiedemann's soldiers have found me! They're tracking me in some sort of gunship!<==>¡Daina! ¡Los soldados de Tiedemann me han encontrado! ¡Me siguen en una especie de nave!-->Daina! Os soldados de Tiedemann me encontraram! Eles estão me seguindo em algum tipo de nave!
 (4423-REPETIDO)Daina, what the hell route is this?<==>Daina, ¿qué clase de ruta es esta?-->Daina, que diabos de rota é essa?
@@ -4430,17 +4430,17 @@
 (4430-REPETIDO)No, but I think I've seen it.<==>No, pero me parece verla.-->Não, mas eu acho que a vi.
 (4431-REPETIDO)A coffin?  Why do you know that?<==>¿Un ataúd? ¿Cómo lo sabes?-->Um caixão?  Como sabe disso?
 (4432-REPETIDO)Right.  thanks.<==>Bien. Gracias.-->Certo.  Obrigado.
-(4433)Daina?! You're a Unitologist? Of course you are. Why did I trust you?<==>¡¿Daina?! ¿Eres de la Uniología? Claro que lo eres. ¿Por qué confié en ti?-->Daina?! Você é uma Unitologista? É claro que é. Por que confiei em você?
+(4433)Daina?! You're a Unitologist? Of course you are. Why did I trust you?<==>¡¿Daina?! ¿Eres de la Uniología? Claro que lo eres. ¿Por qué confié en ti?-->Daina?! Você é uma Unitologista? É claro que é. Por que fui confiar em você?
 (4434)What do you want Stross? Look, it's over.  All my plans just blew out the window.<==>¿Qué quieres, Stross? Escucha, se acabó. Todos mis planes acaban de irse al garete.-->O que você quer, Stross? Veja, acabou. Todos meus planos acabaram de ir para o espaço.
 (4435)I don't understand.  <==>No lo entiendo.-->Eu não entendo.  
 (4436)Whoa Stross!  What are you doing?!<==>Stross,  ¿Qué haces?-->Whoa, Stross!  O que você está fazendo?!
 (4437)Stross, it's me!  <==>¡Stross, soy yo!-->Stross, sou eu!  
 (4438)Stross!<==>¡Stross!-->Stross!
-(4439)I'm not running anymore. I know what I have to do.  Well, this drill is a stroke of good luck, finally.  Why don't you get up to the cab try to get it started. I'll look for the other power cell.<==>Yo ya no huyo. Sé lo que tengo que hacer. Con este taladro hemos tenido un golpe de suerte. Por qué no subes a la cabina e intentas activarlo. Buscaré la otra célula de energía.-->Eu não estou mais correndo. Eu sei o que tenho que fazer.  Essa escavadeira foi um golpe de sorte.  Por que você não vai até a cabine e tente ativá-la? Vou procurar outra célula de energia.
+(4439)I'm not running anymore. I know what I have to do.  Well, this drill is a stroke of good luck, finally.  Why don't you get up to the cab try to get it started. I'll look for the other power cell.<==>Yo ya no huyo. Sé lo que tengo que hacer. Con este taladro hemos tenido un golpe de suerte. Por qué no subes a la cabina e intentas activarlo. Buscaré la otra célula de energía.-->Não estou mais fugindo. Eu sei o que tenho que fazer.  Essa escavadeira foi um golpe de sorte.  Por que não sobe na cabine e tente ativá-la? Vou procurar outra célula de energia.
 (4440)At least you were in the cockpit...<==>Al menos tú estabas en la cabina.-->Pelo menos você estava na cabine...
-(4441)Dammit! There's more of them out here. I'll try to keep them off us.<==>¡Maldita sea! Ahí hay más cosas de esas. Intentaré mantenerlas alejadas.-->Droga! Tem mais dessas coisas aqui. Vou tentar mantê-los longe de nós.
+(4441)Dammit! There's more of them out here. I'll try to keep them off us.<==>¡Maldita sea! Ahí hay más cosas de esas. Intentaré mantenerlas alejadas.-->Droga! Tem mais dessas coisas aqui. Vou tentar mantê-las afastadas de nós.
 (4442)Oh, yeah.  Good times.<==>Ah, sí. Estoy de maravilla.-->Ah, sim.  Bem pensado.
-(4443)I'll try to keep them off! You just steer clear of those walls.<==>¡Intentaré mantenerlos a raya! Tú aléjate de los muros.-->Vou tentar mantê-los longe de nós! Você fique longe das paredes.
+(4443)I'll try to keep them off! You just steer clear of those walls.<==>¡Intentaré mantenerlos a raya! Tú aléjate de los muros.-->Vou tentar mantê-los afastados de nós! Você fique longe das paredes.
 (4444-REPETIDO)You sure this is the right way? How can you tell where you're going?<==>¿Seguro que es por aquí? ¿Cómo puedes saber a dónde vas?-->Você tem certeza que esse é o caminho certo? Como pode saber para onde estamos indo?
 (4445-REPETIDO)Daina, the door to the ER doesn't recognize me.  It's closing before I can get through.<==>Daina, la puerta de urgencias no me reconoce. Se cierra antes de dejarme pasar.-->Daina, a porta de emergência não me reconhece.  Ela está fechando antes de me deixar passar.
 (4446-REPETIDO)Stasis.  Got it, thanks.<==>Estabilización. Entendido, gracias.-->Estabilização.  Entendi, obrigado.
@@ -4448,54 +4448,54 @@
 (4448-REPETIDO)Thanks.<==>Gracias.-->Obrigado.
 (4449)Yeah, it's a good tactic.   I've got one.<==>Sí, es una buena táctica. Tengo una.-->Sim, é uma boa tática.   Tenho uma.
 (4450-REPETIDO)Holy shit!<==>¡Mierda!-->Puta Merda!
-(4451)Whoa, hey. Hey! Holy shit! Ah, FUCK!<==><Gritos>-->Whoa, ei. Ei! Puta Merda! Ah, DROGA! 
+(4451)Whoa, hey. Hey! Holy shit! Ah, FUCK!<==><Gritos>-->Whoa, ei. Ei! Minha nossa! Ah, DROGA! 
 (4452-REPETIDO)Hey!  Hey!  <==>¡Eh! ¡Eh!-->Ei!  Ei!  
-(4453)Ellie, there are thrusters already in place on the underside of the Elevator Pod.   How much force do they yield?<==>Ellie, los propulsores están colocados en la parte baja de la cápsula del ascensor. ¿Cuánta fuerza generan?-->Ellie, os propulsores já estão colocados na parte de baixo da cápsula do elevador.   Quanta força eles geram?
+(4453)Ellie, there are thrusters already in place on the underside of the Elevator Pod.   How much force do they yield?<==>Ellie, los propulsores están colocados en la parte baja de la cápsula del ascensor. ¿Cuánta fuerza generan?-->Ellie, os propulsores já foram colocados na parte de baixo da cápsula do elevador.   Quanta força eles geram?
 (4454-REPETIDO)Red tips.   Got it, thanks.<==>Boquillas rojas. Vale, gracias.-->Pontas vermelhas.   Entendido, obrigado.
 (4455-REPETIDO)Ellie, the door in here only opens for Howard Phillips, the station keeper.  But he's dead.  Can you open it?<==>Ellie, el único que puede abrir esta puerta es Howard Phillips, el guardia de la estación. Pero está muerto. ¿Puedes abrirla?-->Ellie, o único que pode abrir essa porta é Howard Phillips, o guarda da estação.  Mas ele está morto.  Você pode abri-la?
-(4456)Use his body to fool the door, okay, I'll give it a shot.<==>Utilizar su cuerpo para engañar a la puerta, vale. Lo intentaré.-->Use seu corpo para enganar a porta. Certo, vou tentar.
-(4457)Hey Ellie, I need to get this mainframe offline. I'm inside the core.<==>Eh, Ellie, tengo que desconectar el ordenador central. Estoy en el núcleo.-->Ei Ellie, preciso desconectar o computador central. Estou dentro do núcleo.
+(4456)Use his body to fool the door, okay, I'll give it a shot.<==>Utilizar su cuerpo para engañar a la puerta, vale. Lo intentaré.-->Usar seu corpo para enganar a porta. Tudo bem, vou tentar.
+(4457)Hey Ellie, I need to get this mainframe offline. I'm inside the core.<==>Eh, Ellie, tengo que desconectar el ordenador central. Estoy en el núcleo.-->Ei Ellie, preciso desligar o computador central. Estou dentro do núcleo.
 (4458)What, so you're saying you've done this before?<==>¿Quieres decir que esto ya lo has hecho antes?-->O quê, então está dizendo que já fez isto antes?
-(4459)Hm.  Tell me about it sometime.  But not now.   Kinesis, Fuses, match the floor panel, got it.  Thanks.<==>Mmm... Ya me lo contarás en otro momento, ahora no. Cinética, fusibles, coincidir con el panel del suelo. Entendido, gracias.-->Mmm. Me conte isso outro dia.  Agora não.   Cinética, fusíveis, coincidir com o painel do chão. Entendido.  Obrigado.
-(4460-REPETIDO)Okay, I'm on it.<==>Vale, estoy en ello.-->Ok, estou dentro.
+(4459)Hm.  Tell me about it sometime.  But not now.   Kinesis, Fuses, match the floor panel, got it.  Thanks.<==>Mmm... Ya me lo contarás en otro momento, ahora no. Cinética, fusibles, coincidir con el panel del suelo. Entendido, gracias.-->Mmm. Me conte isso um outro dia.  Agora não.   Cinética, fusíveis, coincidir com o painel do chão. Entendido.  Obrigado.
+(4460-REPETIDO)Okay, I'm on it.<==>Vale, estoy en ello.-->Tudo bem, estou dentro.
 (4461-REPETIDO)Perfect!<==>¡Genial!-->Perfeito!
 (4462-REPETIDO)It's not.<==>No.-->Não.
 (4463)Explosive canisters, I'll look for them, thanks.<==>Botes explosivos, los buscaré, gracias.-->Tubos explosivos, vou procurar por eles, obrigado.
 (4464)Ellie, this is a death trap!<==>¡Ellie, esto es una trampa mortal!-->Ellie, isso é uma armadilha mortal!
 (4465-REPETIDO)Alright, this is going to be tricky.<==>Bien, esto no va a ser fácil.-->Tudo bem, isso vai ser complicado.
-(4466)Ellie, another hatch valve is sealed shut.   I can't get through.<==>Ellie, hay otra escotilla de válvula cerrada. No puedo pasar.-->Ellie, há outra escotilha de válvula selada.   Eu não consigo passar.
-(4467)Alright, alright I'll look for them.<==>Vale, vale, los buscaré.-->Tudo bem, tudo bem, vou procurá-los.
+(4466)Ellie, another hatch valve is sealed shut.   I can't get through.<==>Ellie, hay otra escotilla de válvula cerrada. No puedo pasar.-->Ellie, há outra escotilha de válvula fechada.   Eu não consigo passar.
+(4467)Alright, alright I'll look for them.<==>Vale, vale, los buscaré.-->Tudo bem, tudo bem, vou procurar por eles.
 (4468)Okay Ellie, I found the transport, but there's a problem with the release mechanism.<==>Vale, Ellie, he encontrado el transporte, pero hay un problema con el mecanismo de arranque.-->Tudo bem, Ellie, encontrei o transporte, mas há um problema com o mecanismo de arranque.
 (4469)Yeah.  I'll let you know when it's fixed.<==>Sí. Te avisaré cuando esté arreglado.-->Sim.  Te aviso quando estiver consertado.
 (4470)I think so, looks like I just need to find some spare parts.<==>Creo que sí, parece que debo buscar piezas de repuesto.-->Acho que sim, parece que só preciso encontrar algumas peças de reposição.
-(4471)Alright, I see you.  I'll meet you there.<==>Vale, te veo. Nos encontramos allí.-->Tudo bem, nos vemos depois.  Eu vou te encontro lá.
+(4471)Alright, I see you.  I'll meet you there.<==>Vale, te veo. Nos encontramos allí.-->Tudo bem, nos vemos depois.  Te encontro lá.
 (4472-REPETIDO)Faster, Ellie! Faster!<==>¡Más rápido, Ellie! ¡Rápido!-->Mais rápido, Ellie! Mais rápido!
-(4473)Ellie, I'm in. There should still be a computer in the flight lounge. I can check the ship's status from there.<==>Ellie, estoy dentro. Aún debería haber un ordenador en la sala de vuelo. Comprobaré el estado de la nave desde allí.-->Ellie, entrei. Ainda deve ter um computador na sala de voo. Posso verificar o estado da nave dali.
-(4474)Last time I was here, things didn't go so well. Look, I'll contact you soon.<==>La última vez que estuve aquí, las cosas no fueron muy bien. Escucha, te llamaré pronto.-->A última vez que estive aqui, as coisas não correram tão bem. Olha, entrarei em contato em breve.
-(4475)Damn it, that's what I thought.<==>Mierda, eso me había parecido.-->Merda, era isso que eu estava pensando.
+(4473)Ellie, I'm in. There should still be a computer in the flight lounge. I can check the ship's status from there.<==>Ellie, estoy dentro. Aún debería haber un ordenador en la sala de vuelo. Comprobaré el estado de la nave desde allí.-->Ellie, estou dentro. Ainda deve haver um computador na sala de voo. Posso verificar o estado da nave dali.
+(4474)Last time I was here, things didn't go so well. Look, I'll contact you soon.<==>La última vez que estuve aquí, las cosas no fueron muy bien. Escucha, te llamaré pronto.-->Da última vez em que estive aqui, as coisas não correram muito bem. Olha, entrarei em contato em breve.
+(4475)Damn it, that's what I thought.<==>Mierda, eso me había parecido.-->Droga, é como eu havia imaginado.
 (4476)The gravity centrifuge is under repair.  I'm going to have to go down to Engineering. This should be interesting.<==>La centrifugadora está averiada. Voy a tener que bajar a Ingeniería. Esto será interesante.-->A centrifugadora não está funcionando.  Vou ter que ir até lá para verificar. Isso vai ser interessante.
 (4477)I don't know how it could be.  I'll let you know. <==>No tengo ni idea. Ya te lo diré.-->Não tenho nem ideia.  Já te digo. 
 (4478) YEAH I KNOW! I'll call you back!<==>¡SÍ, LO SÉ! ¡Te volveré a llamar!--> SIM, EU SEI! Eu volto a te ligar!
 (4479)Okay, no Ellie, it isn't safe.  But I'm on my way to the centrifuge.<==>Vale, no, Ellie, no es seguro. Pero voy hacia la centrifugadora.-->Tudo bem, não, Ellie, não é seguro.  Mas estou indo para a centrifugadora.
-(4480) I'll call you when its online.<==>Te llamaré cuando esté en marcha.--> Vou te chamar quando estiver funcionando.
+(4480) I'll call you when its online.<==>Te llamaré cuando esté en marcha.--> Eu te ligo quando estiver funcionando.
 (4481-REPETIDO)Ellie, the damn cooling core is extended and pieces are everywhere.<==>Ellie, el núcleo de refrigeración está desmontado y hay muchas piezas.-->Ellie, o núcleo de refrigeração está desmontado e tem peças por toda parte.
-(4482)Yeah, I see tube paths on the floating components.   I think I can match them up with the right sockets. <==>Sí, veo conexiones de tubos en los componentes que flotan. Creo que puedo encajarlos en sus tomas.-->Sim, estou vendo conexões de tubos nos componentes que estão flutuando.   Acho que posso encaixá-los em seus lugares.   
+(4482)Yeah, I see tube paths on the floating components.   I think I can match them up with the right sockets. <==>Sí, veo conexiones de tubos en los componentes que flotan. Creo que puedo encajarlos en sus tomas.-->Sim, estou vendo conexões de tubos junto dos componentes que estão flutuando.   Acho que posso encaixá-los em seus devidos lugares.   
 (4483)I know, I'm going as fast as I can.  Look, I'll contact you when I'm done.<==>Lo sé, voy lo más rápido que puedo. Oye, te llamaré cuando termine.-->Eu sei, estou indo o mais rápido que posso.  Olha, entrarei em contato quando terminar.
-(4484)What? Oh shit. Are you okay?<==>¿Qué? Mierda. ¿Estás bien?-->O quê? Oh merda. Você está bem?
-(4485)I'm almost there. I'm headed to the bridge now to activate the gravity tethers.<==>Ya casi estoy. Me dirijo al puente para activar los anclajes gravitatorios.-->Estou quase lá. Estou indo para a ponte para ativar as travas gravitacionais.
-(4486)Crap. <==>Mierda.-->Merda. 
+(4484)What? Oh shit. Are you okay?<==>¿Qué? Mierda. ¿Estás bien?-->O quê? Oh droga. Você está bem?
+(4485)I'm almost there. I'm headed to the bridge now to activate the gravity tethers.<==>Ya casi estoy. Me dirijo al puente para activar los anclajes gravitatorios.-->Estou quase lá. Estou indo agora para a ponte para ativar as travas gravitacionais.
+(4486)Crap. <==>Mierda.-->Droga. 
 (4487)Alright, I'm on my way back up.<==>Muy bien, ya voy de vuelta.-->Tudo bem, já estou voltando.
-(4488)No, still looking.  Just one more, right?<==>No, sigo buscando. Solo queda una, ¿verdad?-->Não, ainda estou procurando.  Só mais um, certo?
+(4488)No, still looking.  Just one more, right?<==>No, sigo buscando. Solo queda una, ¿verdad?-->Não, ainda estou procurando.  Só falta uma, certo?
 (4489-REPETIDO)Okay.<==>Bien.-->Tudo bem.
 (4490)Fine.  Except I haven't found one yet.<==>Bien. Solo que aún no he encontrado ninguna.-->Tudo bem.  Só que ainda não encontrei nenhuma.
 (4491)Spinny thing.   <==>Cosa giratoria.-->Coisa giratória.   
 (4492)I knew that.  I'll get it, hold on.<==>Lo sabía. Iré a por ella. Espera.-->Eu sabia.  Vou atrás dela, espere um pouco.
-(4493)I'll see if I can rewire it from down here.<==>Intentaré derivarla desde aquí abajo.-->Vou ver se consigo religá-lo daqui.
+(4493)I'll see if I can rewire it from down here.<==>Intentaré derivarla desde aquí abajo.-->Vou ver se consigo religá-lo daqui de baixo.
 (4494)What?  Is it damaged? <==>¿Qué? ¿Tiene algún daño?-->O quê?  Ela está danificada? 
-(4495)One of us is.  It's too dangerous for you to stay here Ellie...<==>Uno de los lo hará. Es peligroso que te quedes, Ellie...-->Um de nós fará isso.  É muito perigoso para você ficar aqui Ellie...
+(4495)One of us is.  It's too dangerous for you to stay here Ellie...<==>Uno de los lo hará. Es peligroso que te quedes, Ellie...-->Um de nós fará isso.  É muito perigoso ficar aqui, Ellie...
 (4496-REPETIDO)Crap, looks like I have to dodge these lasers to make my way around to the other side.  This'll be fun.<==>Mierda, parece que tendré que esquivar esos láseres para llegar al otro lado. Será divertido.-->Merda, parece que terei que desviar esses lasers para chegar do outro lado.  Isso vai ser divertido.
 (4497-REPETIDO)I should be able to Kinesis these bridge pieces into place.<==>Usaré el módulo cinético para colocar las piezas del puente.-->Vou usar o módulo cinético para colocar as peças no lugar.
-(4498)What the hell?!<==>¡Pero ¿qué leches...?!-->Mas q'ue diabos?!
+(4498)What the hell?!<==>¡Pero ¿qué leches...?!-->Mas que diabos?!
 (4499)What?!<==>¿Qué?-->O quê?!
 (4500)melee<==>cuerpo a cuerpo-->golpear
 (4501)PROGRESS REPORT 1<==>PROGRESS REPORT 15Åàeå£-->RELATÓRIO DE PROGRESSO 1
@@ -4510,7 +4510,7 @@
 (4510)Nic?<==>¿Nic?-->Nic?
 (4511)Nicole?<==>¿Nicole?-->Nicole?
 (4512-REPETIDO)Nicole?<==>¿Nicole?-->Nicole?
-(4513)The makers?  You mean me?  But Stross said we could destroy the Marker.<==>¿Creadores? ¿Te refieres a mí? Pero Stross dijo que podíamos destruir la Efigie.-->Criadores?  Você quer dizer, eu?  Mas Stross me disse que poderíamos destruir o Marker.
+(4513)The makers?  You mean me?  But Stross said we could destroy the Marker.<==>¿Creadores? ¿Te refieres a mí? Pero Stross dijo que podíamos destruir la Efigie.-->Os criadores?  Você quer dizer, eu?  Mas Stross me disse que poderíamos destruir o Marker.
 (4514)Goddammit, I trusted you!<==>¡Maldita sea, confié en ti!-->Droga, eu confiei em você!
 (4515)Fuck you... and fuck your marker!<==>¡Que os den! ¡A ti y a tu Efigie!-->Vai para o inferno... você e seu Marker!
 (4516)Hey! Hey!<==>¡Eh! ¡Alto! ¡Alto!-->Ei! Ei!
@@ -4520,7 +4520,7 @@
 (4520)ACCESS DENIED<==>ACCESO DENEGADO-->ACESSO NEGADO
 (4521)change difficulty<==>Cambiar dificultad-->mudar dificuldade
 (4522)You've unlocked credits that can be spent at the in-game store.<==>Has desbloqueado créditos que puedes gastar en el almacén del juego.-->Você desbloqueou créditos que podem ser gastos na loja do jogo.
-(4523)Shit! The Transport Hub is destroyed. The only way out of this mess is to escape into the CEC Facility!<==>¡Mierda! El nodo de transporte está destruido. ¡El único modo de salir de este caos es huyendo a la instalación de CEC!-->Merda! O centro de transporte está destruído. O único meio de sair dessa bagunça é fugindo para a instalação do CEC!
+(4523)Shit! The Transport Hub is destroyed. The only way out of this mess is to escape into the CEC Facility!<==>¡Mierda! El nodo de transporte está destruido. ¡El único modo de salir de este caos es huyendo a la instalación de CEC!-->Droga! O centro de transporte está destruído. O único modo de sair dessa bagunça é fugindo para a instalação do CEC!
 (4524)top<==>Arriba-->cima
 (4525)Top<==>Arriba-->Cima
 (4526)Secondary Fire DAM +5% / REL -10%\n• [c=CUSTOM2] Primary Fire [c=RESET]:  pull and hold [rsbottom] to fire a fully automatic barrage of energy packets.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] to launch a grenade at your target.<==>DÑO disparo secundario: +5% / REC: -10%\n• [c=CUSTOM2] Disparo principal [c=RESET]: mantén pulsado [rsbottom] para disparar un aluvión automático de paquetes de energía.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzarle una granada a tu objetivo.-->DANO disparo secundário: +5% / REC: -10%\n• [c=CUSTOM2] Disparo Principal [c=RESET]:  mantenha pressionado [rsbottom] para disparar uma enxurrada automática de pacotes de energia.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar uma granada no seu alvo.
@@ -4545,7 +4545,7 @@
 (4545)Luxury Redefined<==>Lujo redefinido-->Luxo Redefinido
 (4546)TST.  Be There. On Time.<==>ETT. Esté allí. A tiempo.-->ETT.  Esteja lá. A tempo.
 (4547)Technicians Please Sign Out<==>Técnicos, registren la salida-->Técnicos, por favor registrem a saída
-(4548)WE'RE SORRY, THIS AREA CURRENTLY NOT AVAILABLE<==>LO SENTIMOS, ZONA NO DISPONIBLE EN ESTE MOMENTO-->SINTO MUITO, ESSA ÁREA NÃO ESTÁ DISPONÍVEL
+(4548)WE'RE SORRY, THIS AREA CURRENTLY NOT AVAILABLE<==>LO SENTIMOS, ZONA NO DISPONIBLE EN ESTE MOMENTO-->SINTO MUITO, ESSA ÁREA NÃO ESTÁ DISPONÍVEL NESSE MOMENTO
 (4549)Authorized Personnel Only<==>Solo personal autorizado-->Somente pessoal autorizado
 (4550)Unlock Your Potential<==>Descubra su potencial-->Descubra seu potencial
 (4551)WARNING: EXTREME DANGER<==>ALERTA: PELIGRO EXTREMO-->ALERTA: PERIGO EXTREMO
@@ -4561,16 +4561,16 @@
 (4561)//store<==>//Almacén-->//loja
 (4562-IGUAIS)0
 (4563-REPETIDO)destroy<==>Destruir-->destruir
-(4564)Break fuses to disable locks.<==>Rompe fusibles para desactivar bloqueos.-->Quebre os fusíveis para desativar as travas.
+(4564)Break fuses to disable locks.<==>Rompe fusibles para desactivar bloqueos.-->Quebre os fusíveis para desativar os bloqueios.
 (4565)Bring this schematic to the store to unlock the Flamethrower.<==>Lleva este diagrama al almacén para desbloquear el lanzallamas.-->Leve esse diagrama até a loja para desbloquear o lança-chamas.
 (4566-IGUAIS)Jesse Kalb
 (4567)OBJECTIVE\nINACTIVE<==>OBJETIVO\nINACTIVO-->OBJETIVO\nINATIVO
 (4568-REPETIDO)ARCTIC SECURITY SUIT<==>TRAJE DE SEGURIDAD DE ARCTIC-->TRAJE DE SEGURANÇA DO ÁRTICO
-(4569)MISSION: The power is out and the Humans need to locate firing coordinates for the Solar Array. Can the Necromorphs stop them from total destruction?<==>MISIÓN: No hay electricidad y los humanos necesitan localizar las coordenadas de disparo para el panel solar. ¿Podrás los necromorfos impedir la destrucción total?-->MISSÃO: não há eletricidade e os seres humanos precisam localizar as coordenadas de disparo para o painel solar. Poderão os necromorfos impedir a destruição total?
+(4569)MISSION: The power is out and the Humans need to locate firing coordinates for the Solar Array. Can the Necromorphs stop them from total destruction?<==>MISIÓN: No hay electricidad y los humanos necesitan localizar las coordenadas de disparo para el panel solar. ¿Podrás los necromorfos impedir la destrucción total?-->MISSÃO: não há eletricidade e os humanos precisam localizar as coordenadas de disparo para o painel solar. Poderão os necromorfos impedir a destruição total?
 (4570)RESTORE POWER?<==>¿RESTABLECER ENERGÍA?-->REESTABLECER ENERGIA?
 (4571)POWER ACTIVATED<==>ENERGÍA ACTIVADA-->ENERGIA ATIVADA
 (4572)POWER MALFUNCTION<==>FALLO DE ENERGÍA-->FALHA DE ENERGIA
-(4573)STASIS ENEMIES<==>FRENAR A ENEMIGOS-->PARAR INIMIGOS
+(4573)STASIS ENEMIES<==>FRENAR A ENEMIGOS-->DESACELERAR INIMIGOS
 (4574)EA Games President<==>Presidente de EA Games-->Presidente da EA Games
 (4575)Done<==>Terminado-->Feito
 (4576-REPETIDO)Done<==>Terminado-->Feito
@@ -4584,9 +4584,9 @@
 (4584-IGUAIS)TJ Phan
 (4585-REPETIDO)QA Testers<==>Pruebas de control de calidad-->Teste de Controle de Qualidade
 (4586)The Hazard Suit grants unique functionality to the wearer:\n• [c=CUSTOM3] Med Pack Bonus [c=RESET]: an additional 10% healed when using Med Packs. \nPurchase guarantees a minimum of 15 inventory slots and 15% armor. Your RIG retains the highest upgrade of Armor and Inventory.<==>El traje de riesgo ofrece una funcionalidad única a quien lo lleva:\n• [c=CUSTOM3] Bonificación de botiquín [c=RESET]: un 10% adicional de curación al usar los botiquines. \nSu compra garantiza un mínimo de 15 ranuras de inventario y un 15% de blindaje. Tu DRI conserva la mayor mejora de blindaje e inventario.-->O traje de perigo oferece uma funcionalidade única a quem o usa:\n• [c=CUSTOM3] Bônus de kit médico [c=RESET]: um adicional de 10% de cura ao usar os kits médicos. \nA compra garante um mínimo de 15 espaços de inventário e 15% de blindagem. Seu DRI mantém a maior melhoria de blindagem e inventário.
-(4587)Offline<==>Desconectado-->Desconectado
+(4587)Offline<==>Desconectado-->Desligado
 (4588)Urban Camo Army Green<==>Verde militar camuflaje urbano-->Verde militar camuflagem urbana
-(4589)Meet Nicole to destroy the Marker.<==>Reúnete con Nicole para destruir la Efigie.-->Reúna-se com Nicole para destruir o Marker.
+(4589)Meet Nicole to destroy the Marker.<==>Reúnete con Nicole para destruir la Efigie.-->Encontre Nicole para destruir o Marker.
 (4590)Advanced<==>Avanzado-->Avançado
 (4591-IGUAIS)Deutsch
 (4592-IGUAIS)Mike Deir
@@ -4616,7 +4616,7 @@
 (4616)hard core<==>Imposible-->Impossível
 (4617)voice volume<==>Vol. voces-->Volume da voz
 (4618)+{n} DOUBLE KILL<==>+{n} BAJA DOBLE-->+{n} MORTE DUPLA
-(4619)Ripper Schematic<==>Diagrama de sierra trituradora-->Diagrama de serra trituradora
+(4619)Ripper Schematic<==>Diagrama de sierra trituradora-->Diagrama da serra trituradora
 (4620)//Lateral\nGeniculate<==>//Geniculado\nlateral-->//Geniculado\nLateral
 (4621)Hard core is not available in "new game+"<==>La dificultad Imposible no está disponible en "Nueva partida +".-->A dificuldade Impossível não está disponível em "Novo jogo+"
 (4622-IGUAIS)1
@@ -4624,7 +4624,7 @@
 (4624)FLAME FUEL SCHEMATIC<==>Diagrama de combustible inflamable-->DIAGRAMA DE COMBUSTÍVEL INFLAMÁVEL
 (4625-REPETIDO)ACCESS DENIED<==>ACCESO DENEGADO-->ACESSO NEGADO
 (4626)Marker Access<==>Acceso a la Efigie-->Acesso ao Marker
-(4627)Marker Thermal Vent Conduits<==>Conductos de ventilación térmica de la Efigie-->Canais de Ventilação Térmica do Marker
+(4627)Marker Thermal Vent Conduits<==>Conductos de ventilación térmica de la Efigie-->Condutos de Ventilação Térmica do Marker
 (4628-REPETIDO)Restricted Access<==>Acceso restringido-->Acesso Restrito
 (4629-REPETIDO)Marker Access<==>Acceso a la Efigie-->Acesso ao Marker
 (4630-REPETIDO)Marker Access<==>Acceso a la Efigie-->Acesso ao Marker
@@ -4644,22 +4644,22 @@
 (4644)Concept Art<==>Arte conceptual-->Arte Conceitual
 (4645)You unlocked increased magazine size for the Plasma Cutter<==>Has desbloqueado un mayor tamaño del cargador para la cortadora de plasma.-->Você desbloqueou um maior tamanho do carregador para a cortadora de plasma
 (4646-IGUAIS)3
-(4647)Indoctrination Room<==>Sala de adoctrinamiento-->Sala de Doutrinação
+(4647)Indoctrination Room<==>Sala de adoctrinamiento-->Sala de Doutrinamento
 (4648)Executive Assistant, US Studios, EA Games<==>Ayudante ejecutivo de estudios de EE. UU. de EA Games-->Assistente executivo dos estúdios de EE. UU. da EA Games
 (4649-REPETIDO)//extras<==>//Extras-->//Extras
 (4650)RESPEC<==>REESPEC.-->REFAZER
 (4651)RANGE<==>ALCANCE-->ALCANCE
-(4652)Increases the splash damage radius of the mines<==>Aumenta el radio del daño de las minas.-->Aumente o alcance de dano das minas
+(4652)Increases the splash damage radius of the mines<==>Aumenta el radio del daño de las minas.-->Aumenta o alcance de dano das minas
 (4653)joining game...<==>Uniéndose a la partida...-->entrando no jogo...
 (4654)//online menu<==>//Menú online-->//menu online
 (4655)[MenuA]CONTINUE     [MenuB]BACK     [RDLeft]STORAGE DEVICE     [RDUp]DELETE<==>[MenuA]Aceptar   [MenuB]Atrás   [RDLeft]Disp. Almacen.   [RDUp]Borrar-->[MenuA]CONTINUAR     [MenuB]VOLTAR     [RDLeft]DISP. ARMAZENAMENTO     [RDUp]APAGAR
 (4656-IGUAIS)1
 (4657)Lead Online Engineer<==>Jefe de ingeniería online-->Chefe da Engenharia Online
 (4658-IGUAIS)Laura Larson
-(4659)Are you sure you want to overwrite %1 on storage device %2?<==>¿Seguro que quieres sobrescribir %1 en el dispositivo de almacenamiento %2?-->Tem certeza que quer substituir %1 no dispositivo de armazenamento?
+(4659)Are you sure you want to overwrite %1 on storage device %2?<==>¿Seguro que quieres sobrescribir %1 en el dispositivo de almacenamiento %2?-->Tem certeza que quer substituir %1 no dispositivo de armazenamento %2?
 (4660-IGUAIS)1
 (4661)Travel<==>Viaje-->Viagem
-(4662)Gravity Tethers: OFFLINE<==>Anclajes gravitatorios: DESACTIVADOS-->Travas Gravitacionais: DESATIVADAS
+(4662)Gravity Tethers: OFFLINE<==>Anclajes gravitatorios: DESACTIVADOS-->Travas Gravitacionais: DESLIGADAS
 (4663)prevent the delivery of the linac<==>Evita que el linac llegue al banco de trabajo.-->Impeça que o linac chegue na bancada de trabalho
 (4664)Unlocked at level 16<==>Desbloqueado en el nivel 16-->Desbloqueado no nível 16
 (4665-REPETIDO)AIR<==>AIRE-->AR
@@ -4678,12 +4678,12 @@
 (4678)CHR<==>CAR-->CAR
 (4679)///game setup<==>///Configuración de juego-->//Configuração do Jogo
 (4680)SETTINGS<==>OPCIONES-->Configurações
-(4681)Are you sure you wish to allow EA to share your information with selected partners?<==>¿Seguro que quieres permitir a EA compartir tus datos con socios seleccionados?-->Você tem certeza que deseja que a EA compartilhe suas informações com os parceiros selecionados?
+(4681)Are you sure you wish to allow EA to share your information with selected partners?<==>¿Seguro que quieres permitir a EA compartir tus datos con socios seleccionados?-->Você tem certeza que quer permitir que a EA compartilhe suas informações com os parceiros selecionados?
 (4682-IGUAIS)1
 (4683-REPETIDO)SAFE<==>CAJA FUERTE-->COFRE
 (4684)The code you entered has been disabled. Please use another code.<==>El código introducido se ha deshabilitado. Utiliza otro código.-->O código que você inseriu foi desabilitado. Por favor use outro código.
 (4685)01/28/2011<==>28/01/2011-->28/01/2011
-(4686)Level Designers<==>Diseñadores de niveles-->Construtor de Níveis
+(4686)Level Designers<==>Diseñadores de niveles-->Construtores de Níveis
 (4687)DMG<==>DAÑ-->DANO
 (4688)01/25/2011<==>25/01/2011-->25/01/2011
 (4689-IGUAIS)DUR
@@ -4695,7 +4695,7 @@
 (4695-IGUAIS)6
 (4696-IGUAIS)6
 (4697)ENG<==>ENE-->ENG
-(4698)We gotta go Boss, more's coming.<==>Tenemos que irnos, jefe. Vienen más.-->Temos que ir, chefe. Mais estão vindo.
+(4698)We gotta go Boss, more's coming.<==>Tenemos que irnos, jefe. Vienen más.-->Temos que ir, chefe. Estão vindo mais.
 (4699-IGUAIS)^
 (4700-IGUAIS)^
 (4701)look / aim<==>mirar/apuntar-->olhar / mirar
@@ -5065,7 +5065,7 @@
 (5065)He's a psychopath Isaac, stay clear of him.  He murdered his own wife and child.<==>Es un psicópata, Isaac. Mantente lejos de él. Asesinó a su mujer y a su hjo.-->Ele é um psicopata Isaac, fique longe dele. Ele assassinou sua própria mulher e seu filho.
 (5066)Yes.  There's an old maintenance access point in there that will take you through the waste disposal system and into the Cassini Towers.  Stay sharp.<==>Si, ahí hay un antiguo punto de acceso de mantenimiento que te llevará por el sistema de eliminación de residuos hasta las Torres Cassini. Mantente alerta.-->Sim. há um antigo ponto de acesso de manutenção lá que va te levar através do sistema de eliminação de resíduos até as Torres Cassini. Mantenha-se alerta.
 (5067)You're almost here! Hurry.<==>¡Ya casi has llegado! ¡Rápido!-->Você já está quase lá! Rápido! 
-(5068)Sorry Isaac.   You'll have to fly against the flow of the garbage upstream to get out.<==>Lo siento, Isaac. Avanza contra la dirección del tráfico de residuos para salir.-->Sinto muito, Isaac. Você vai ter que avançar contra o tráfico de resíduos para sair.
+(5068)Sorry Isaac.   You'll have to fly against the flow of the garbage upstream to get out.<==>Lo siento, Isaac. Avanza contra la dirección del tráfico de residuos para salir.-->Sinto muito, Isaac. Você vai ter que avançar contra o fluxo de resíduos para sair.
 (5069)It's Tiedemann! He's found you! Into the Church, hurry! <==>¡Es Tiedemann! ¡Te ha encontrado! ¡Entra en la iglesia, rápido! -->É o Tiedemann! Ele te encontrou! Entre na Igreja, rápido!
 (5070) Isaac, my brother died trying to rescue you. This is important. This will work.  I'm in a safe room at the top of the Church. Meet me there, okay?<==>Isaac, mi hermano murió intentando rescatarte. Esto es importante. Funcionará. Estoy en una sala de seguridad en lo alto de la iglesia. Reúnete conmigo aquí, ¿vale?-->Isaac, meu irmão morreu tentando te resgatar. Isso é importante. Vai funcionar. Estou em uma sala de segurança no topo da Igreja. Me encontre aqui, certo?
 (5071)It's one of the few places on Titan Station that Tiedemann can't monitor. Separation of Church and State.  <==>Es un lugar en la estación Titán que el Gobierno de la Tierra no puede supervisar. Separación entre Iglesia y Estado.-->É um dos poucos lugares na estação Titã que Tiedemann não pode monitorar. A separação da Igreja e do Estado.
@@ -5097,7 +5097,7 @@
 (5097) Isaac, where are you?  <==>Isaac, ¿dónde estás?-->Isaac, onde você está?
 (5098)Well try to break the glass with something in the room.   <==>Rompe el cristal con algo de la habitación.-->Bem, tente quebrar o vidro com alguma coisa da sala.
 (5099-REPETIDO)Is there a stasis module around there somewhere?  Try using one to slow down the door so you can get through.<==>¿Ves algún módulo de estabilización por ahí? Usa uno para ralentizar el movimiento de la puerta para poder cruzar.-->Você está vendo algum módulo de estabilização por aí? Tente usar um para diminuir a velocidade da porta para você conseguir passar.
-(5100) Sorry Isaac.   You'll have to fly against the flow of the garbage upstream to get out.<==>Lo siento, Isaac. Tendrás que avanzar contra la dirección del tráfico de residuos para salir.-->Sinto muito, Isaac. Você vai ter que avançar contra a direção do fluxo de resíduos para sair.
+(5100) Sorry Isaac.   You'll have to fly against the flow of the garbage upstream to get out.<==>Lo siento, Isaac. Tendrás que avanzar contra la dirección del tráfico de residuos para salir.-->Sinto muito, Isaac. Você vai ter que avançar contra o fluxo de resíduos para sair.
 (5101) Isaac, have you gone through a small circular door in the roof yet?<==>Isaac, ¿has cruzado ya una pequeña puerta circular en el tejado?-->Isaac, você já passou por uma pequena porta circular no telhado?
 (5102-REPETIDO)Be careful, you'll have to time it just right, it's only open for a split second after a coffin comes through.  <==>Ten cuidado, sincroniza tu movimiento, se abre solo durante una fracción de segundo mientras pasa un ataúd.-->Tenha cuidado, sincronize seu movimento, ele se abre somente durante uma fração de segundo, para passagem de um caixão.  
 (5103-REPETIDO)They're Unitologists.  Everything everywhere is about coffins.<==>Son de la Uniología, ahí todo tiene que ver con ataúdes.-->Eles são Unitologistas. Tudo aqui tem a ver com caixões.
