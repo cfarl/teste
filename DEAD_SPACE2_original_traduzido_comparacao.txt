@@ -487,7 +487,7 @@
 (0487)3 stasis shots<==>3 disparos de estabilización-->3 disparos de estabilização
 (0488)test speakers<==>Comprobar altavoces-->testar alto-falantes
 (0489)MEDIUM MED PACK<==>BOTIQUÍN MEDIANO-->KIT MÉDICO MÉDIO
-(0490)SCANNER ONLINE<==>ESCÁNER CONECTADO-->O SCANNER ESTÁ ONLINE
+(0490)SCANNER ONLINE<==>ESCÁNER CONECTADO-->SCANNER FUNCIONANDO
 (0491)accept<==>Aceptar-->aceitar
 (0492-IGUAIS)Douglas Brooks
 (0493)ACCESSING...<==>ACCEDIENDO...-->ACESSANDO...
@@ -1173,9 +1173,9 @@
 (1173)CLAW ENGAGED<==>PINZA ACOPLADA-->GARRA ACOPLADA
 (1174)Bring this schematic to the store to unlock the Javelin Gun.<==>Lleva este diagrama al almacén para desbloquear el cañón jabalina.-->Leve esse diagrama até a loja para desbloquear o canhão de dardos.
 (1175)Authorized CEC Employees Only<==>Solo empleados de CEC autorizados-->Somente empregados do CEC estão autorizados
-(1176)Please Stand in Formation for Scan<==>Manténganse en fila para escáner-->Mantenha-se na fila para escanear
-(1177-REPETIDO)Please Stand in Formation for Scan<==>Manténganse en fila para escáner-->Mantenha-se na fila para escanear
-(1178-REPETIDO)Please Stand in Formation for Scan<==>Manténganse en fila para escáner-->Mantenha-se na fila para escanear
+(1176)Please Stand in Formation for Scan<==>Manténganse en fila para escáner-->Mantenha-se na fila para escaneamento
+(1177-REPETIDO)Please Stand in Formation for Scan<==>Manténganse en fila para escáner-->Mantenha-se na fila para escaneamento
+(1178-REPETIDO)Please Stand in Formation for Scan<==>Manténganse en fila para escáner-->Mantenha-se na fila para escaneamento
 (1179)Remember to Sync Your RIG<==>Recuerde sincronizar su DRI-->Lembre-se de sincronizar seu DRI
 (1180-REPETIDO)Power Node Access Only<==>Acceso exclusivo con nodo de energía-->Acesso permitido somente com nodo de energia
 (1181)De-link Control Nodes Before Break<==>Desvincular nodos de control antes del descanso-->Desvincular nodos de controle antes do descanso
@@ -1690,7 +1690,7 @@
 (1690)EARTHGOV SECURITY SUIT<==>TRAJE DE SEGURIDAD DEL GOBIERNO-->TRAJE DE SEGURANÇA DO GOVERNO DA TERRA
 (1691-IGUAIS)Spark Chen
 (1692-IGUAIS)Joe Xu
-(1693)Beginning Full Diagnostic Scan<==>Comenzando escáner de diagnóstico completo-->Iniciando escaner de diagnóstico completo
+(1693)Beginning Full Diagnostic Scan<==>Comenzando escáner de diagnóstico completo-->Iniciando exame de diagnóstico completo
 (1694)Tiedemann's severed Government Sector from the rest of the Sprawl! It's slipping away, and so are my chances of destroying the Marker.\n\nBut I have a plan. The Ishimura's gravity tethers are strong enough to hold an entire planetary hemisphere - I should be able to use them to snare Government Sector long enough to get across.<==>¡Tiedemann ha separado el sector gubernamental del resto del Eje! Se está alejando, y con él, mis posibilidades de destruir la Efigie.\n\nPero tengo un plan. Los anclajes gravitatorios del Ishimura son lo bastante fuertes como para atraer un hemisferio planetario entero, debería poder usarlos para atrapar el sector gubernamental el tiempo suficiente como para acceder a él.-->Tiedemann separou o setor governamental do resto do Eixo! Ele está se afastando, e com ele minhas chances de destruir o Marker.\n\nMas tenho um plano. As travas gravitacionais da Ishimura são forte o suficiente para segurar todo um hemisfério planetário - eu poderia usá-los para segurar o setor governamental por tempo suficiente para chegar até lá.
 (1695)Human Boosters<==>Impulsores humanos-->Impulsores humanos
 (1696)Escape the hospital.<==>Huye del hospital.-->Fuja do hospital.
@@ -3429,7 +3429,7 @@
 (3429)WARNING: SOLAR ARRAY IS OFFLINE<==>ATENCIÓN: EL PANEL SOLAR ESTÁ DESACTIVADO-->ATENÇÃO: O PAINEL SOLAR ESTÁ DESLIGADO
 (3430)WARNING: ZERO GRAVITY AREA<==>ATENCIÓN: ZONA DE GRAVEDAD CERO-->ATENÇÃO: ZONA DE GRAVIDADE ZERO
 (3431-REPETIDO)WARNING: SOLAR ARRAY IS OFFLINE<==>ATENCIÓN: EL PANEL SOLAR ESTÁ DESACTIVADO-->ATENÇÃO: O PAINEL SOLAR ESTÁ DESATIVADO
-(3432)DNA Identity Scan Required<==>Escáner de ADN obligatorio-->Sondagem de DNA obrigatória
+(3432)DNA Identity Scan Required<==>Escáner de ADN obligatorio-->Exame de DNA obrigatório
 (3433)WARNING:  POWER GRID UNSTABLE<==>ATENCIÓN: RED ELÉCTRICA INESTABLE-->ATENÇÃO: REDE ELÉTRICA INSTÁVEL
 (3434)Caution! Delicate Equipment!<==>¡Precaución! ¡Equipo delicado!-->Cuidado! Equipamento Delicado!
 (3435)Authorized Engineers Only<==>Solo ingenieros autorizados-->Somente engenheiros autorizados
@@ -5601,15 +5601,15 @@
 (5601)Unauthorized Visitor, mainframe. <==>Visitante no autorizado, ordenador central.-->Visitante não autorizado, computador central. 
 (5602)Unauthorized access to the computer mainframe is a violation of Titan Station Civic Code. Replace all panels and back away from the fuseboard.<==>El acceso no autorizado al ordenador central es una infracción del código civil de la estación Titán. Sustituya todos los paneles y aléjese de la caja de derivación.-->O acesso não autorizado ao computador central é uma violação do código civil da estação Titã. Substitua todos os painéis e se afaste da caixa de força.
 (5603)Warning. Mainframe electric shielding has been deactivated. Proceed with caution.<==>Alerta. La protección electrónica del ordenador central se ha desactivado. Proceda con precaución.-->Alerta. A proteção eletrônica do computador central foi desativada. Prossiga com cuidado.
-(5604)Warning. You are now in violation of multiple subsections of the Titan Station Civic Code. Stand clear of all machinery immediately.<==>Alerta. Está infringiendo múltiples artículos del código civil de la estación Titán. Aléjese de la maquinaria de inmediato.-->Alerta. Você está infringindo vários artigos do código civil da estação Titã. Afaste-se do maquinário imediatamente.
-(5605)Mainframe containment compromised. Security has been notified. <==>Protección del ordenador central en riesgo. Se ha enviado una notificación de seguridad.-->A proteção do computador central está comprometida. Foi enviada uma notificação para a segurança. 
+(5604)Warning. You are now in violation of multiple subsections of the Titan Station Civic Code. Stand clear of all machinery immediately.<==>Alerta. Está infringiendo múltiples artículos del código civil de la estación Titán. Aléjese de la maquinaria de inmediato.-->Alerta. Você está infringindo vários artigos do código civil da estação Titã. Afaste-se imediatamente do maquinário.
+(5605)Mainframe containment compromised. Security has been notified. <==>Protección del ordenador central en riesgo. Se ha enviado una notificación de seguridad.-->A proteção do computador central foi comprometida. Foi enviada uma notificação para a segurança. 
 (5606)Mainframe circuits are extremely fragile. Please step away. Damaging the mainframe circuits will cause lapses in programming. For your safety, step away from the circuits.<==>Los circuitos del ordenador central son extremadamente delicados. Aléjese.-->Os circuitos do computador central são extremamente delicados. Afaste-se. Danos nos circuitos do computador central podem causar falhas de programação. Para sua segurança, afaste-se dos circuitos.
 (5607)Damaging  the mainframe circuits will cause lapses in programming. For your safety, step away from the circuits.<==>Los daños en los circuitos del ordenador central pueden provocar fallos de programación. Por su propia seguridad, aléjese de los circuitos.-->Danos nos circuitos do computador central podem causar falhas de programação. Para sua segurança, afaste-se dos circuitos.
-(5608)Primary systems are unstable. <==>Los sistemas principales son inestables.-->Os sistemas principais estão instáveis.
+(5608)Primary systems are unstable. <==>Los sistemas principales son inestables.-->Os sistemas primários estão instáveis.
 (5609)Backup systems have been compromised.<==>Los sistemas de seguridad están en riesgo.-->Os sistemas de segurança estão comprometidos.
 (5610)System shutdown imminent.<==>Bloqueo del sistema inminente.-->Desligamento iminente do sistema.
 (5611)Automated functions - off-line. Lock outs - offline. Station reverting to manual operation only. ANTI off-line...<==>Funciones automáticas: desconectadas. Cierres de seguridad: desconectados. La estación pasa a funcionamiento exclusivamente manual. ANTI desconectado...-->Funções automáticas: desligadas. Travas de segurança: desligadas. A estação está passando para o funcionamento exclusivamente manual. ANTI desligado...
-(5612)Your RIG is not authorized to access this area. Please step away from the door.<==>Su DRI no tiene autorización en esta zona. Sepárese de la puerta.-->Seu DRI não está autorizado a acessar essa área. Por favor, afaste-se da porta.
+(5612)Your RIG is not authorized to access this area. Please step away from the door.<==>Su DRI no tiene autorización en esta zona. Sepárese de la puerta.-->Seu DRI não tem autorização para acessar essa área. Por favor, afaste-se da porta.
 (5613)Initiating System Lockdown<==>Iniciando bloqueo del sistema-->Iniciando bloqueio do sistema
 (5614)System Lockdown Complete<==>Bloqueo del sistema completado.-->Bloqueio do sistema concluído
 (5615)Activating anti-personnel system.<==>Activando sistema antipersonal.-->Ativando sistema anti-pessoal.
@@ -5620,14 +5620,14 @@
 (5620)CONFIRM<==>CONFIRMAR-->CONFIRMAR
 (5621)%s has been added to your friends list.<==>Se ha añadido a %s a tu lista de amigos.-->%s foi adicionado à sua lista de amigos.
 (5622-IGUAIS)Isaac Clarke
-(5623)I can't go anywhere until this elevator is fixed. Zero G is enabled, and the magnetic tethers seem to be functioning. I just need to move the elevator into position somehow...<==>No puedo ir a ningún sitio hasta que este ascensor esté arreglado. La gravedad cero está activada y los anclajes magnéticos parecen funcionar. Solo necesito mover el ascensor a su posición de alguna forma...-->Não posso ir a lugar algum até esse elevador esteja funcionando. A gravidade zero está ativada, e as travas magnéticas parecem estar funcionando. Eu só preciso mover o elevador para sua posição de alguma forma...
+(5623)I can't go anywhere until this elevator is fixed. Zero G is enabled, and the magnetic tethers seem to be functioning. I just need to move the elevator into position somehow...<==>No puedo ir a ningún sitio hasta que este ascensor esté arreglado. La gravedad cero está activada y los anclajes magnéticos parecen funcionar. Solo necesito mover el ascensor a su posición de alguna forma...-->Não posso ir a lugar algum até que esse elevador esteja funcionando. A gravidade zero está ativada, e as travas magnéticas parecem estar funcionando. Eu só preciso mover o elevador para sua posição, de alguma maneira...
 (5624)Start a new game<==>Empieza una nueva partida.-->Comece um novo jogo
 (5625)MOVEMENT<==>MOVIMIENTO-->MOVIMENTO
 (5626-IGUAIS)2
 (5627)Click [RStick] twice<==>Haz clic dos veces en\n[RStick].-->Pressione [RStick] duas vezes
-(5628)Key to the Elevators on the Crew Deck.<==>Llave de los ascensores de la cubierta de la tripulación.-->Chave para os elevadores do setor da tripulação.
+(5628)Key to the Elevators on the Crew Deck.<==>Llave de los ascensores de la cubierta de la tripulación.-->Chave dos elevadores do setor da tripulação.
 (5629-IGUAIS)3
-(5630)DIRE<==>DECISIÓN NEFASTA-->DECISÃO TERRÍVEL
+(5630)DIRE<==>DECISIÓN NEFASTA-->TERRÍVEL DECISÃO
 (5631)TIEDEMANN'S LAST HOPE<==>LA ÚLTIMA ESPERANZA DE TIEDEMANN-->A ÚLTIMA ESPERANÇA DE TIEDEMANN
 (5632-IGUAIS)1
 (5633)Pull [RSBottom]<==>Pulsa [RSBottom].-->Pressione [RSBottom]
@@ -5641,8 +5641,8 @@
 (5641-IGUAIS)2
 (5642-IGUAIS)2
 (5643)Use Kinesis to grab and launch enemy limbs.<==>Utiliza la cinética para atrapar y lanzar extremidades de enemigos.-->Use a cinética para apanhar e lançar membros de inimigos.
-(5644)OVERRIDE\nDOOR LOCK<==>ANULAR\nBLOQUEO DE PUERTA-->ANULAR\nBLOQUEIO DE PORTA
-(5645)DOOR LOCK\nOVERRIDDEN<==>BLOQUEO DE PUERTA\nANULADO-->BLOQUEIO DE PORTA\nANULADO
+(5644)OVERRIDE\nDOOR LOCK<==>ANULAR\nBLOQUEO DE PUERTA-->DESATIVAR\nBLOQUEIO DE PORTA
+(5645)DOOR LOCK\nOVERRIDDEN<==>BLOQUEO DE PUERTA\nANULADO-->BLOQUEIO DE PORTA\nDESATIVADO
 (5646)[RDDown]USE<==>[RDDown]USAR-->[RDDown]USAR
 (5647)DEMISE<==>DEMISE1Å-->DEMISE
 (5648)THE CLOGGER<==>EL ATASCO-->O CLOGGER
@@ -5655,10 +5655,10 @@
 (5655)Urban Camo Military<==>Militar camuflaje urbano-->Militar Camuflagem Urbano
 (5656)<empty><==><libre>--><vazio>
 (5657)mute<==>Silenciar-->silenciar
-(5658)This will remove all power nodes from the graph and place them in your inventory for a cost of 5000 credits.  \n[MenuA] YES  [MenuB] NO<==>Esto retirará todos los nodos de energía del gráfico y los colocará en tu inventario por un coste de 5000 créditos.  \n[MenuA] SÍ  [MenuB] NO-->Isso vai remover todos os nodos de energia do gráfico e colocá-los no seu inventário, por um custo de 5000 créditos.  \n[MenuA] SIM  [MenuB] NÃO
+(5658)This will remove all power nodes from the graph and place them in your inventory for a cost of 5000 credits.  \n[MenuA] YES  [MenuB] NO<==>Esto retirará todos los nodos de energía del gráfico y los colocará en tu inventario por un coste de 5000 créditos.  \n[MenuA] SÍ  [MenuB] NO-->Isso vai remover todos os nodos de energia do circuito e colocá-los no seu inventário, por um custo de 5000 créditos.  \n[MenuA] SIM  [MenuB] NÃO
 (5659-REPETIDO)LINE RACKS<==>MUNICIÓN LINEAL-->MUNIÇÃO LINEAR
 (5660)Security Elite Suit<==>TRAJE DE SEGURIDAD DE ÉLITE-->Traje de Segurança de Elite
-(5661)Personal Log: Howard Phillips\nRecord number: 466\n\nI've been trying to stay out of range of ANTI's interfaces as much as I can.  I don't want to hear her excuses anymore about my transfer requests.  Every time I ask, I just get computerized bullshit.\n\nTwenty-three requests!  I've put in twenty-three requests, and not one response.  I know she's lying, I know she never sent them.\n\nI showed ANTI, though. I let all my birds out of their cages at lunch!  It was beautiful, they were all flying around, free and happy.   I wish I could be them.  ANTI was spouting regulations and talking about "abnormal profiles."   I didn't care.   I danced with the birds all day.  I love my birds. I want to go home.<==>Registro personal: Howard Phillips\nNúmero de registro: 466\n\nHe estado intentando permanecer fuera del alcance de las interfaces de ANTI lo máximo posible. Ya no quiero seguir escuchando sus excusas sobre mis solicitudes de traslado. Cada vez que pregunto, no recibo más que chorradas computerizadas.\n\n¡Veintitrés solicitudes! Llevo ya veintitrés solicitudes y ni una respuesta. Sé que me miente, que nunca las envió.\n\nPero le he enseñado a ANTI quién soy yo. ¡He dejado salir a todos mis pájaros de sus jaulas durante la comida! Fue hermoso verlos volar de un lado a otro, libres y felices. Ojalá fuese yo uno de ellos. ANTI no dejaba de soltar reglas y de hablar de "perfiles anómalos", pero me dio igual. Yo bailé con los pájaros todo el día. Adoro a mis pájaros. Quiero irme a casa.-->Registro Pessoal: Howard Phillips\nNúmero de registro: 466\n\nTenho tentando permanecer fora do alcance das interfaces de ANTI o máximo possível. Eu não quero mais ouvir suas desculpas sobre minhas solicitações de transferência. Toda vez que pergunto, não recebo mais que besteiras computadorizadas.\n\nVinte e três solicitações! Já tenho 23 solicitações e nenhuma resposta. Sei que ela está mentindo, que nunca as enviou.\n\nMas eu mostrei a ANTI quem eu sou. Deixei todas minhas aves sairem de suas gaiolas na hora do almoço! Foi lindo vê-las voando de um lado para outro, livres e felizes.   Eu gostaria de ser uma delas.  ANTI não deixava de dizer regras e falar sobre "perfis anômalos."  Mas eu não me importei.  Eu dancei com as aves durante todo o dia.  Eu amo meus pássaros. Quero ir para casa.
+(5661)Personal Log: Howard Phillips\nRecord number: 466\n\nI've been trying to stay out of range of ANTI's interfaces as much as I can.  I don't want to hear her excuses anymore about my transfer requests.  Every time I ask, I just get computerized bullshit.\n\nTwenty-three requests!  I've put in twenty-three requests, and not one response.  I know she's lying, I know she never sent them.\n\nI showed ANTI, though. I let all my birds out of their cages at lunch!  It was beautiful, they were all flying around, free and happy.   I wish I could be them.  ANTI was spouting regulations and talking about "abnormal profiles."   I didn't care.   I danced with the birds all day.  I love my birds. I want to go home.<==>Registro personal: Howard Phillips\nNúmero de registro: 466\n\nHe estado intentando permanecer fuera del alcance de las interfaces de ANTI lo máximo posible. Ya no quiero seguir escuchando sus excusas sobre mis solicitudes de traslado. Cada vez que pregunto, no recibo más que chorradas computerizadas.\n\n¡Veintitrés solicitudes! Llevo ya veintitrés solicitudes y ni una respuesta. Sé que me miente, que nunca las envió.\n\nPero le he enseñado a ANTI quién soy yo. ¡He dejado salir a todos mis pájaros de sus jaulas durante la comida! Fue hermoso verlos volar de un lado a otro, libres y felices. Ojalá fuese yo uno de ellos. ANTI no dejaba de soltar reglas y de hablar de "perfiles anómalos", pero me dio igual. Yo bailé con los pájaros todo el día. Adoro a mis pájaros. Quiero irme a casa.-->Registro Pessoal: Howard Phillips\nNúmero de registro: 466\n\nTenho tentando permanecer fora do alcance das interfaces da ANTI o máximo possível. Eu não quero mais ouvir suas desculpas sobre minhas solicitações de transferência. Toda vez que pergunto, não recebo mais que besteiras computadorizadas.\n\nVinte e três solicitações! Já fiz 23 solicitações e não obtive nenhuma resposta. Sei que ela está mentindo, que nunca as enviou.\n\nMas eu mostrei a ANTI quem eu sou. Deixei todas minhas aves saírem de suas gaiolas na hora do almoço! Foi lindo vê-las voando de um lado para outro, livres e felizes.   Eu gostaria de ser uma delas.  ANTI não deixava de dizer regras e falar sobre "perfis anômalos."  Mas eu não me importei.  Dancei com as aves durante todo o dia.  Amo meus pássaros. Quero ir para casa.
 (5662-REPETIDO)+{n} QUAD KILL<==>+{n} BAJA CUÁD.-->+{n} BAIXA QUADR.
 (5663-REPETIDO)Audio<==>Sonido-->Áudio
 (5664)UI Programmers<==>Programadores de IU-->Programadores de IU
@@ -5669,7 +5669,7 @@
 (5669-IGUAIS)LINAC
 (5670)MISSION: The Necromorphs have infested several pipelines connecting to one of the fuel cores in the CEC facility. A security team was sent in to detonate the fuel core, setting off a chain reaction that would destroy the pipeline along with all the Necromorphs. Contact was lost with the first security team, a second team was sent in to finish the job.<==>MISIÓN: Los necromorfos han invadido varios conductos conectados a uno de los núcleos de combustible en la instalación de CEC. Se ha enviado un equipo de seguridad a detonar el núcleo, lo que iniciaría una reacción en cadena que destruiría el conducto y acabaría con los necromorfos. Se ha perdido el contacto con el primer equipo de seguridad y se ha enviado un segundo equipo para terminar el trabajo.-->MISSÃO: Os necromorfos invadiram vários condutos conectados a um dos núcleos de combustível na instalação da CEC. Uma equipe de segurança foi enviada para detonar o núcleo, o que desencadearia uma reação em cadeia que destruiria o conduto e acabaria com todos os necromorfos. Foi perdido o contato com a primeira equipe de segurança, e uma segunda equipe foi enviada para terminar o trabalho.
 (5671)A.I. Lurker<==>Merodeador de I.A.-->Espreitador de I.A.
-(5672)Trapped in the Titan Mines and surrounded by Necromorphs, Tiedemann's security forces attempt to stop the outbreak by constructing a Shockmine.<==>Atrapadas en las minas Titán y rodeadas por necromorfos, las fuerzas de seguridad de Tiedemann intentan detener el brote mediante la construcción de una mina expansiva.-->Presos nas minas Titã e rodeados por necromorfos, as forças de segurança de Tiedemann tentavam deter a epidemia mediante a construção de uma mina expansiva.
+(5672)Trapped in the Titan Mines and surrounded by Necromorphs, Tiedemann's security forces attempt to stop the outbreak by constructing a Shockmine.<==>Atrapadas en las minas Titán y rodeadas por necromorfos, las fuerzas de seguridad de Tiedemann intentan detener el brote mediante la construcción de una mina expansiva.-->Presos nas minas Titã e cercados por necromorfos, as forças de segurança de Tiedemann tentavam deter a epidemia mediante a construção de uma mina expansiva.
 (5673-IGUAIS)Ai-Fen Lo
 (5674)  It's not her anymore!<==>¡Ya no es ella!-->  Já não é mais ela!
 (5675)She's dead!  That thing is not your mother! <==>¡Ha muerto! ¡Esa cosa no es tu madre!-->Ela está morta! Essa coisa não é a sua mãe! 
@@ -5684,7 +5684,7 @@
 (5684-REPETIDO)ENERGY ANOMALY DETECTED<==>ANOMALÍA ELÉCTRICA DETECTADA-->ANOMALIA ELÉTRICA DETECTADA
 (5685-REPETIDO)ENERGY ANOMALY DETECTED<==>ANOMALÍA ELÉCTRICA DETECTADA-->ANOMALIA ELÉTRICA DETECTADA
 (5686-REPETIDO)THIS AREA IS LOCKED DOWN<==>ESTA ZONA ESTÁ CERRADA-->ESSA ÁREA ESTÁ BLOQUEADA
-(5687)Zero-G Certification Required<==>Certificación de gravedad cero obligatoria-->Certificação de Gravidade Zero obrigatória
+(5687)Zero-G Certification Required<==>Certificación de gravedad cero obligatoria-->Certificação de gravidade zero obrigatória
 (5688-REPETIDO)ENERGY ANOMALY DETECTED<==>ANOMALÍA ELÉCTRICA DETECTADA-->ANOMALIA ELÉTRICA DETECTADA
 (5689-REPETIDO)Power Node Access Only<==>Acceso exclusivo con nodo de energía-->Acesso permitido somente com nodo de energia
 (5690-REPETIDO)ENERGY ANOMALY DETECTED<==>ANOMALÍA ELÉCTRICA DETECTADA-->ANOMALIA ELÉTRICA DETECTADA
@@ -5711,7 +5711,7 @@
 (5711-IGUAIS)Sean Marr
 (5712-IGUAIS)Jeremy Natividad
 (5713-IGUAIS)Mike Rodriguez
-(5714)Unable to login. There is no valid persona associated with the user account.<==>No se ha podido iniciar sesión. No hay una identidad válida asociada a la cuenta de usuario.-->Não foi possícel fazer o login. Não há uma identidade válida associada à conta do usuário.
+(5714)Unable to login. There is no valid persona associated with the user account.<==>No se ha podido iniciar sesión. No hay una identidad válida asociada a la cuenta de usuario.-->Não foi possível fazer o login. Não há uma identidade válida associada à conta do usuário.
 (5715)Upgrade equipment.<==>Mejorar equipo.-->Melhorar equipamento.
 (5716-IGUAIS)Geoff Garnett
 (5717-IGUAIS)Andrew Lackey
@@ -5747,11 +5747,11 @@
 (5747)Employee Entrance<==>Entrada de empleados-->Entrada de funcionários
 (5748)Patient Care<==>Cuidado de pacientes-->Atendimento de pacientes
 (5749)Vehicle Maintenance Bay<==>Plataforma de mantenimiento de vehículos-->Plataforma de manutenção de veículos
-(5750)Audiolog, RIG number 438642. I've been selected for a special secret mission, down in the core systems on the Shard. I hope I can do them proud. Altman be praised.<==>Registro sonoro, DRI número 438642. Me han seleccionado para una misión secreta especial en los sistemas centrales del Eje. Espero ser un orgullo. Alabado sea Altman.-->Registro sonoro, DRI número 438642. Fui escolhido para uma missão secreta especial, nos sistemas centrais do Eixo. Espero que possa deixá-los orgulhosos. Altman seja louvado.
-(5751)Oh, God... I'm sorry. I didn't know what I was doing... I placed my faith in the Church and trusted them. What an idiot. Now there's something loose on the Sprawl, and the Church has abandoned me here!<==>Oh, dios... Lo siento. No sabía lo que hacía... Deposité mi fe en la Iglesia y confié en ella. ¡Qué idiota! ¡Ahora hay algo suelto en El Eje y la Iglesia me ha abandonado aquí!-->Oh, Deus... Sinto muito. Eu não sabia o que estava fazendo... Depositei minha fé na Igreja e confiei nela. Que idiota. Agora tem algo solto no Eixo, e a Igreja me abandonou aqui!
-(5752)Maybe I can make this right. Director Tiedemann asked me to repair the quarantine seal on Crossover Tube A. I don't know if I'll even make it there -- but it's my fault these things are loose in the first place. I have to try!<==>Tal vez pueda arreglar esto. El director Tiedemann me pidió que reparase el sello de cuarentena del tubo de paso A. No sé ni si llegaré hasta allí, pero esas cosas andan sueltas por mi culpa. ¡Debo intentarlo!-->Talvez eu possa consertar isso. O diretor Tiedemann me pediu para reparar o selo de quarentena do tubo de cruzamento A. Não sei nem se chegarei até ali, mas essas coisas estão soltas por minha culpa. Eu tenho que tentar!
-(5753)I'm almost at the Crossover Tube. If I can repair the seal, it'll stop the creatures from reaching the Public Sector. And then I'm going to tell everyone what the Church did!<==>Ya casi estoy en el tubo de paso. Si logro reparar el sello, impediré que las criaturas lleguen al sector público. ¡Y luego les contaré a todos lo que hizo la Iglesia!-->Estou quase no tubo de cruzamento. Se conseguir reparar o selo, impedirei que as criaturas cheguem no setor público. E então vou contar a todos o que a Igreja fez!
-(5754)Audiolog, RIG number 438642. These could be my last words. The monsters are loose. I couldn't stop them. And now the reactor core is overheating -- which will destroy the entire Sprawl if I can't fix it! So... I hope someone hears this. It means I did that much right, at least.<==>Registro sonoro, DRI número 438642. Estas podrían ser mis últimas palabras. Los monstruos están sueltos. No he podido detenerlos. Y ahora el núcleo del reactor se está sobrecalentando y acabará destruyendo El Eje si no logro arreglarlo! Así que... espero que alguien oiga esto. Significaría que, al menos, he hecho algo bien.-->Registro sonoro, DRI número 438642. Essas podem ser minhas últimas palavras. Os monstros estão soltos. Eu não consegui detê-los. E agora o núcleo do reator está superaquecendo, e vai acabar destruindo o Eixo inteiro se eu não conseguir consertá-lo! Então... espero que alguém escute isso. Isso significaria que, pelo menos, fiz algo de bom.
+(5750)Audiolog, RIG number 438642. I've been selected for a special secret mission, down in the core systems on the Shard. I hope I can do them proud. Altman be praised.<==>Registro sonoro, DRI número 438642. Me han seleccionado para una misión secreta especial en los sistemas centrales del Eje. Espero ser un orgullo. Alabado sea Altman.-->Registro sonoro, DRI número 438642. Fui selecionado para uma missão secreta especial, nos sistemas centrais do Eixo. Espero que possa deixá-los orgulhosos. Altman seja louvado.
+(5751)Oh, God... I'm sorry. I didn't know what I was doing... I placed my faith in the Church and trusted them. What an idiot. Now there's something loose on the Sprawl, and the Church has abandoned me here!<==>Oh, dios... Lo siento. No sabía lo que hacía... Deposité mi fe en la Iglesia y confié en ella. ¡Qué idiota! ¡Ahora hay algo suelto en El Eje y la Iglesia me ha abandonado aquí!-->Oh, Deus... Sinto muito. Eu não sabia o que estava fazendo... Depositei minha fé na Igreja e confiei nela. Que idiota. Agora tem uma coisa solta no Eixo, e a Igreja me abandonou aqui!
+(5752)Maybe I can make this right. Director Tiedemann asked me to repair the quarantine seal on Crossover Tube A. I don't know if I'll even make it there -- but it's my fault these things are loose in the first place. I have to try!<==>Tal vez pueda arreglar esto. El director Tiedemann me pidió que reparase el sello de cuarentena del tubo de paso A. No sé ni si llegaré hasta allí, pero esas cosas andan sueltas por mi culpa. ¡Debo intentarlo!-->Talvez eu possa consertar isso. O diretor Tiedemann me pediu para reparar a selagem de quarentena do tubo de cruzamento A. Não sei nem se chegarei até lá, mas essas coisas estão soltas por minha culpa. Tenho que tentar!
+(5753)I'm almost at the Crossover Tube. If I can repair the seal, it'll stop the creatures from reaching the Public Sector. And then I'm going to tell everyone what the Church did!<==>Ya casi estoy en el tubo de paso. Si logro reparar el sello, impediré que las criaturas lleguen al sector público. ¡Y luego les contaré a todos lo que hizo la Iglesia!-->Estou quase no tubo de cruzamento. Se conseguir reparar a selagem, impedirei que as criaturas cheguem no setor público. E então vou contar para todo mundo o que a Igreja fez!
+(5754)Audiolog, RIG number 438642. These could be my last words. The monsters are loose. I couldn't stop them. And now the reactor core is overheating -- which will destroy the entire Sprawl if I can't fix it! So... I hope someone hears this. It means I did that much right, at least.<==>Registro sonoro, DRI número 438642. Estas podrían ser mis últimas palabras. Los monstruos están sueltos. No he podido detenerlos. Y ahora el núcleo del reactor se está sobrecalentando y acabará destruyendo El Eje si no logro arreglarlo! Así que... espero que alguien oiga esto. Significaría que, al menos, he hecho algo bien.-->Registro sonoro, DRI número 438642. Essas podem ser minhas últimas palavras. Os monstros estão soltos. Eu não consegui detê-los. Agora o núcleo do reator está superaquecendo, e vai acabar destruindo o Eixo inteiro se eu não conseguir consertá-lo! Então... espero que alguém escute isso. Isso significaria que, pelo menos, fiz algo de bom.
 (5755)For veteran Dead Space players. Ammo and health are less plentiful, and enemies are more deadly.<==>Para jugadores de Dead Space veteranos. La munición y la salud son menos abundantes, y los enemigos, más letales.-->Para os jogadores veteranos de Dead Space. A munição e a saúde são menos abundantes, e os inimigos mais letais.
 (5756)FLUCTUATIONS<==>FLUCTUACIONES-->FLUTUAÇÕES
 (5757-REPETIDO)RESPEC<==>REESPEC.-->REFAZER
@@ -5783,7 +5783,7 @@
 (5783-IGUAIS)P
 (5784)REPLACING THE TRAM<==>SUSTITUIR EL MONORRAÍL-->SUBSTITUINDO O TREM
 (5785)Human Resources<==>Recursos humanos-->Recursos Humanos
-(5786)STASIS: Use stasis in combat to slow enemies<==>ESTABILIZACIÓN: Usa la estabilización en combate para frenar a los enemigos.-->ESTABILIZAÇÃO: Use a estabilização em combate para retardar os inimigos. 
+(5786)STASIS: Use stasis in combat to slow enemies<==>ESTABILIZACIÓN: Usa la estabilización en combate para frenar a los enemigos.-->ESTABILIZAÇÃO: Use a estabilização em combate para desacelerar os inimigos. 
 (5787)DIAMOND SEMICONDUCTOR<==>SEMICONDUCTOR DE DIAMANTE-->SEMICONDUTOR DE DIAMANTE
 (5788)Manually Attach Claws to Initiate Repairs<==>Acopla manualmente las pinzas para iniciar las reparaciones-->Acople manualmente as pinças para iniciar os reparos
 (5789)Brute<==>Bestia-->Besta
