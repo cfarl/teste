@@ -6749,10 +6749,10 @@
 (6749)SAME SIGNAL<==>MISMA SEÑAL-->MESMO SINAL
 (6750)SHIELD QUESTIONS<==>PREGUNTAS SOBRE ESCUDO-->PERGUNTAS SOBRE ESCUDO
 (6751)PATIENT FOUR<==>PACIENTE CUATRO-->PACIENTE QUATRO
-(6752)COMPLETE SEQUENCE<==>SECUENCIA COMPLETADA-->SEQUÊNCIA FINALIZADA
+(6752)COMPLETE SEQUENCE<==>SECUENCIA COMPLETADA-->SEQUÊNCIA COMPLETADA
 (6753)MARKER SUCCESS!<==>¡ÉXITO DE LA EFIGIE!-->ÊXITO DO MARKER!
 (6754)TINY MARKER<==>EFIGIE EN MINIATURA-->MARKER EM MINIATURA
-(6755)IT'S MAKING US MAKE IT!<==>¡NOS ESTÁ OBLIGANDO!-->ESTÁ NOS OBRIGANDO!
+(6755)IT'S MAKING US MAKE IT!<==>¡NOS ESTÁ OBLIGANDO!-->ESTÁ NOS OBRIGANDO A FAZER ISSO!
 (6756)pulse rifle<==>Rifle de impulsos-->rifle de impulsos
 (6757-IGUAIS)'
 (6758-IGUAIS)'
@@ -6765,13 +6765,13 @@
 (6765-IGUAIS)1
 (6766)EA PRIVACY POLICY<==>POLÍTICA DE PRIVACIDAD DE EA-->POLÍTICA DE PRIVACIDADE DA EA
 (6767-IGUAIS)1
-(6768)QA Administrative Assistant<==>Ayudante administrativo de control de calidad-->Assistente de QA
-(6769)Enemies are weak. With some effort, you can survive.<==>Los enemigos son débiles. Con un poco de esfuerzo, podrás sobrevivir.-->Os inimigos são fracos. Com um pouco de esforço você conseguirá sobreviver.
+(6768)QA Administrative Assistant<==>Ayudante administrativo de control de calidad-->Assistente Administrativo de Controle de Qualidade 
+(6769)Enemies are weak. With some effort, you can survive.<==>Los enemigos son débiles. Con un poco de esfuerzo, podrás sobrevivir.-->Os inimigos são fracos. Com um pouco de esforço, você conseguirá sobreviver.
 (6770)2 stasis shots<==>2 disparos de estabilización-->2 disparos de estabilização
-(6771)quick turn<==>giro rápido-->virar rapidamente
+(6771)quick turn<==>giro rápido-->giro rápido
 (6772)ITEM<==>OBJETO-->ITEM
 (6773-IGUAIS)Steve Timson
-(6774)Isaac's Suit<==>Traje de Isaac-->Traje de Isaac
+(6774)Isaac's Suit<==>Traje de Isaac-->Traje do Isaac
 (6775-IGUAIS)0
 (6776-IGUAIS)1
 (6777-IGUAIS)Ericka Sykes
@@ -6794,13 +6794,13 @@
 (6794)Fuel Pressurization Tower Mid Level<==>Torre de presurización de combustible, nivel intermedio-->Torre de pressurização de combustível, nível inferior
 (6795)Transport Mechanism Control<==>Control de mecanismo de transporte-->Controle do mecanismo de transporte
 (6796)Pressurized Fuel Storage<==>Almacén de combustible presurizado-->Depósito de combustível pressurizado
-(6797)Elevator to Fuel Mega Storage<==>Ascensor a megaalmacén de combustible-->Elevador para o mega depósito de Combustível
+(6797)Elevator to Fuel Mega Storage<==>Ascensor a megaalmacén de combustible-->Elevador para o mega depósito de combustível
 (6798)Fuel Mega Storage<==>Megaalmacén de combustible-->Mega depósito de combustível
-(6799)evacuate via the escape pods<==>Huye en una cápsula de escape.-->Evacue usando uma cápsula de fuga.
-(6800)you now have the ability to equip the javelin gun\nprimary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>Ahora ya puedes equipar el cañón jabalina\ndisparo principal: jabalina explosiva\ndisparo secundario: detonación de la última jabalina disparada-->Você agora pode equipar o canhão de dardosn\nDisparo Principal: dardo explosivo\nDisparo Secundário: detona o último dardo disparado
+(6799)evacuate via the escape pods<==>Huye en una cápsula de escape.-->Escape usando uma cápsula de fuga.
+(6800)you now have the ability to equip the javelin gun\nprimary fire: explosive javelin\nalternate fire: detonates last javelin fired<==>Ahora ya puedes equipar el cañón jabalina\ndisparo principal: jabalina explosiva\ndisparo secundario: detonación de la última jabalina disparada-->Você agora pode equipar o canhão de dardos\nDisparo Principal: dardo explosivo\nDisparo Secundário: detona o último dardo disparado
 (6801)LISTEN<==>ACTIVAR-->ESCUTAR
 (6802)high<==>Alta-->alto
-(6803)Handheld Graviton Accelerator.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] for a short range, high powered blast of kinetic energy with wide area of effect.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] for a long range, tight radius energy projection.<==>Acelerador de gravitones portátil.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar una potente ráfaga de energía cinética de corto alcance con un gran radio de acción.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una proyección de energía de largo alcance y radio de acción ajustado.-->Acelerador de gravidade portátil.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar uma potente rajada de energia cinética de curto alcance e com grande raio de ação.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar uma projeção de energia de longo alcance e raio de ação ajustado.
+(6803)Handheld Graviton Accelerator.\n• [c=CUSTOM2] Primary Fire [c=RESET]: pull [rsbottom] for a short range, high powered blast of kinetic energy with wide area of effect.\n• [c=CUSTOM2] Secondary Fire [c=RESET]: press [rstop] for a long range, tight radius energy projection.<==>Acelerador de gravitones portátil.\n• [c=CUSTOM2] Disparo principal [c=RESET]: pulsa [rsbottom] para disparar una potente ráfaga de energía cinética de corto alcance con un gran radio de acción.\n• [c=CUSTOM2] Disparo secundario [c=RESET]: pulsa [rstop] para lanzar una proyección de energía de largo alcance y radio de acción ajustado.-->Acelerador de gravitons portátil.\n• [c=CUSTOM2] Disparo Principal [c=RESET]: pressione [rsbottom] para disparar uma potente rajada de energia cinética de curto alcance e com um grande raio de ação.\n• [c=CUSTOM2] Disparo Secundário [c=RESET]: pressione [rstop] para lançar uma projeção de energia de longo alcance e raio de ação ajustado.
 (6804)CHARGE<==>CARGA-->CARGA
 (6805)video_log_6_2<==>video_log_6_23Åàe-->video_log_6_2
 (6806)Gialdini Food Court<==>Zona de comida Gialdini-->Zona de Comida Gialdini
@@ -6828,11 +6828,11 @@
 (6828)Reconstruction Room<==>Sala de reconstrucción-->Sala de reconstrução
 (6829)Data Monitoring Room Access<==>Acceso a sala de monitorización de datos-->Acesso à sala de monitoramento de dados
 (6830)Data Monitoring Room<==>Sala de monitorización de datos-->Sala de monitoramento de dados
-(6831)Thermal Conduit Access<==>Acceso a conducto térmico-->Acesso ao condutor térmico
+(6831)Thermal Conduit Access<==>Acceso a conducto térmico-->Acesso ao conduto térmico
 (6832)Project Inner Core<==>Núcleo interno del proyecto-->Núcleo interno do projeto
 (6833)Project Interface Room<==>Sala de interfaz del proyecto-->Sala de interface do projeto
 (6834-REPETIDO)Marker Access<==>Acceso a la Efigie-->Acesso ao Marker
-(6835)TEXT MESSAGE\nFrom: Sally Hennen\nTo: Marion Hennen\n\nMarion, sorry I missed your call, I was busy at the Church thing I told you about. I know, I've been spending a lot of time with them, but I love it there. They're so welcoming and kind. They really like me. And they've invited me to become an Initiate! I think I'm going to do it. They've helped me see beyond our lives here in this universe, here in these bodies. There's a beautiful oneness waiting for us all, after this life of anger and sadness. and disappointment. There's a reading tonight at the Church sanctuary, so I may be there if you call. I hope to talk to you soon, and don't worry about those forms they sent you, I can explain. k, bye, love you!\n\nSally<==>MENSAJE DE TEXTO\nDe: Sally Hennen\nPara: Marion Hennen\n\nMarion, siento no haberte cogido la llamada, estaba ocupada con el asunto ese de la Iglesia del que te hablé. Lo sé, paso mucho tiempo con ellos, pero es que me encanta. Son muy amables y cordiales. Les gusto de verdad. ¡Y me han invitado a hacerme iniciada! Creo que lo voy a hacer. Me han ayudado a ver más allá de nuestras vidas en el universo, en nuestros cuerpos. Existe una hermosa unidad que nos espera a todos después de esta vida de ira, tristeza y decepción. Esta noche hay una lectura en el santuario de la Iglesia, así que estaré allí si me llamas. Espero que hablemos pronto, y no te preocupes por los formularios que te mandaron, te lo puedo explicar. ¡Bien, adiós, te quiero!\n\nSally-->MENSAGEM DE TEXTO\nDe: Sally Hennen\nPara: Marion Hennen\n\nMarion, sinto muito não ter atendido sua ligação, eu estava ocupada com aquele assunto da Igreja do qual eu havia te falado. Eu sei, tenho passado muito tempo com eles, mas gosto muito de lá. Eles são tão amáveis e cordiais. Gosto deles, de verdade. E eles me convidaram para me tornar uma iniciada! Acho que vou fazer isso. Eles me ajudaram a ver além de nossas vidas aqui nesse universo, nesse corpo. Existe uma linda unidade esperando por todos nós depois dessa vida de ódio, tristeza e decepção. Essa noite vai haver uma leitura no santuário da Igreja, e por isso estarei ali se você ligar. Espero que possamos nos falar em breve, e não se preocupe com aqueles formulários que te enviaram, eu posso explicar. Tudo bem, então tchau, eu te amo!\n\nSally
+(6835)TEXT MESSAGE\nFrom: Sally Hennen\nTo: Marion Hennen\n\nMarion, sorry I missed your call, I was busy at the Church thing I told you about. I know, I've been spending a lot of time with them, but I love it there. They're so welcoming and kind. They really like me. And they've invited me to become an Initiate! I think I'm going to do it. They've helped me see beyond our lives here in this universe, here in these bodies. There's a beautiful oneness waiting for us all, after this life of anger and sadness. and disappointment. There's a reading tonight at the Church sanctuary, so I may be there if you call. I hope to talk to you soon, and don't worry about those forms they sent you, I can explain. k, bye, love you!\n\nSally<==>MENSAJE DE TEXTO\nDe: Sally Hennen\nPara: Marion Hennen\n\nMarion, siento no haberte cogido la llamada, estaba ocupada con el asunto ese de la Iglesia del que te hablé. Lo sé, paso mucho tiempo con ellos, pero es que me encanta. Son muy amables y cordiales. Les gusto de verdad. ¡Y me han invitado a hacerme iniciada! Creo que lo voy a hacer. Me han ayudado a ver más allá de nuestras vidas en el universo, en nuestros cuerpos. Existe una hermosa unidad que nos espera a todos después de esta vida de ira, tristeza y decepción. Esta noche hay una lectura en el santuario de la Iglesia, así que estaré allí si me llamas. Espero que hablemos pronto, y no te preocupes por los formularios que te mandaron, te lo puedo explicar. ¡Bien, adiós, te quiero!\n\nSally-->MENSAGEM DE TEXTO\nDe: Sally Hennen\nPara: Marion Hennen\n\nMarion, sinto muito não ter atendido sua ligação, eu estava ocupada com aquele assunto da Igreja do qual eu havia te falado. Eu sei, tenho passado muito tempo com eles, mas gosto muito de estar lá. Eles são muito amáveis e gentis. Gosto deles, de verdade. E eles me convidaram para me tornar uma iniciada! Acho que vou fazer isso. Eles me ajudaram a ver além de nossas vidas aqui nesse universo, nesse corpo. Existe uma linda unidade esperando por todos nós, depois dessa vida de ódio, tristeza e decepção. Essa noite vai haver uma leitura no santuário da Igreja, por isso estarei ali se você ligar. Espero que possamos nos falar em breve, e não se preocupe com aqueles formulários que eles te enviaram, eu explico depois. Tudo bem, então tchau, eu te amo!\n\nSally
 (6836-IGUAIS)ê
 (6837-IGUAIS)[
 (6838-IGUAIS)Ê
@@ -6855,7 +6855,7 @@
 (6855)Playground Warning: No teacher on Duty<==>Alerta en el patio: no hay ningún profesor vigilando-->Alerta no pátio: não há nenhum professor vigiando
 (6856)To Transport Hub.    Do not board train without parental supervision.<==>Para o centro de transporte. Prohibido subir al tren sin supervisión paterna.-->Para o centro de transporte. Proibido subir no trem sem a supervisão dos pais.
 (6857-IGUAIS)Make Us Whole Make Us Whole Make Us Whole Make Us Whole Make Us Whole Make Us Whole
-(6858)Snare Government Sector with the Ishimura's gravity tethers.<==>Atrapa el sector gubernamental con los anclajes gravitatorios del Ishimura.-->Capture o setor governamental com a trava gravitacional da Ishimura.
+(6858)Snare Government Sector with the Ishimura's gravity tethers.<==>Atrapa el sector gubernamental con los anclajes gravitatorios del Ishimura.-->Capture o setor governamental com as travas gravitacionais da Ishimura.
 (6859)///audio<==>///Sonido-->///audio
 (6860)acquire<==>Adquirir-->adquirir
 (6861)LINE RACKS\nSchematic Acquired\nDownload at the Store<==>MUNICIÓN LINEAL\nDiagrama Adquirido\nDescargar en el almacén-->MUNIÇÃO LINEAR\nDiagrama Adquirido\nBaixe na loja
