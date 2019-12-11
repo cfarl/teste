@@ -22,7 +22,7 @@ Select item to discard.|----|Selecione o item que deseja descartar.|----|Selecci
 
 View or change Rush's equipment.|----|Ver e modificar o equipamento do Rush.|----|Muestra y modifica el equipo de Rush.
 
-View Rush's arts.|----|Mostra as artes do Rush.|----|Muestra las artes de Rush.
+View Rush's arts.|----|Ver as artes do Rush.|----|Muestra las artes de Rush.
 
 View or change unions.|----|Ver ou modificar grupos.|----|Consulta o modifica las unidades.
 
