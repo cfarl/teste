@@ -1,0 +1,23 @@
+double slash -#> duplo corte
+ Golpe Cruzado => corte cruzado
+ Snowfall>>Vento Polar
+ Smash,Quebranto, Devastação>>Quebra-Costela
+ Cross Break->Ponto de Cruz
+ Victory Sweep>>Vitória Certa
+ Moonshadow->Meia Lua
+ Cyclone->Bumerangue
+ Rift Cleaver,Grieta astral->???
+ Blood Rage,sangria,Fúria Sangrenta->Fúria de Sangue
+ Third Eye->???
+ Triple Axel,Balanza, Equilíbrio Esmagador=>Ponto de Equilíbrio
+ Thunderclap,Trovoada->Tormenta
+ Cascade Strike,Golpe encadeado->Golpes em Cascata
+ Heaven Pierce,Perfuração Celeste->Perfurador Celestial
+ Quad Slice,Tetracorte,Fatiada Quádrupla->Quatro Cortes
+ Fury Blow,Vendaval,Golpe Furioso->Vendaval
+ Twin Gimlet,Trepanador,Perfuração Dupla->Dupla Perfuração 
+ Focus Strike,Cizalla,Ataque Focado->Ataque Preciso
+ Earthrender,Marejada, Submissão Terrestre->Maremoto
+ 
+ shard->cristal
+ Orphic Ward->Cetro do Imperador
