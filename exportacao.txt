@@ -1126,9 +1126,9 @@ A fighting style using one hand\r\nto wield a single blade.|----|Técnicas de co
 
 A fighting style wielding a one-handed\r\nweapon with both hands.|----|Técnicas de combate designadas para o uso de\r\numa arma de uma mão com ambas as mãos.|----|Técnicas de combate diseñadas para blandir\r\nun arma de tamaño estándar con ambas manos.
 
-A fighting style using weapons\r\nequipped to both hands at once.|----|Técnicas de combate designadas para o uso de armas\r\nque usam as duas mãos ao mesmo tempo.|----|Técnicas de combate diseñadas para luchar\r\ncon dos armas de filo, una en cada mano.
+A fighting style using weapons\r\nequipped to both hands at once.|----|Técnicas de combate designadas para o uso de\r\narmas que usam as duas mãos ao mesmo tempo.|----|Técnicas de combate diseñadas para luchar\r\ncon dos armas de filo, una en cada mano.
 
-A fighting style using weapons so\r\nlarge they need both hands.|----|Técnicas de combate designadas para o uso de\r\narmas tão grandes que requerem o uso de ambas as mãos.|----|Técnicas de combate diseñadas para luchar\r\ncon armas tan grandes que requieren\r\nel uso de ambas manos.
+A fighting style using weapons so\r\nlarge they need both hands.|----|Técnicas de combate designadas para o uso de\r\narmas tão grandes que requerem o uso de ambas\r\nas mãos.|----|Técnicas de combate diseñadas para luchar\r\ncon armas tan grandes que requieren\r\nel uso de ambas manos.
 
 A sovani fighting style using\r\nfour blades at once.|----|Técnicas de combate sovani que usam\r\nquatro lâminas de uma só vez.|----|Técnicas de combate sovanis en las que\r\nse emplean cuatro armas de filo a la vez.
 
@@ -1160,7 +1160,7 @@ Item arts involving the creation\r\nof explosives.|----|Técnicas que permitem a
 
 Item arts involving the combination\r\nof shards to attack.|----|Técnicas que envolvem a combinação de cristais\r\npara atacar o inimigo.|----|Técnicas que combinan cristales\r\npara atacar al enemigo.
 
-Item arts involving the creation\r\nof traps.|----|Técnicas permitem a criação\r\nde armadilhas.|----|Técnicas que permiten crear trampas.
+Item arts involving the creation\r\nof traps.|----|Técnicas que permitem a criação\r\nde armadilhas.|----|Técnicas que permiten crear trampas.
 
 Techniques unlocking the power\r\nwithin specific weapons and shields.|----|Técnicas que liberam o poder de\r\ncertas armas e escudos.|----|Técnicas que liberan el poder\r\nde ciertas armas y escudos.
 
@@ -1176,11 +1176,11 @@ Techniques to summon\r\nbound Remnants.|----|Técnicas que permitem invocar\r\nR
 
 A type of blade.\r\nLong, strong, and reliable.|----|Um tipo de arma de fio.\r\nLonga, forte, e confiável.|----|Un tipo de arma de filo versátil y poderoso.
 
-A type of blade.\r\nThis variety of sword was created\r\nfor enhanced slicing power.|----|Um tipo de arma de fio.\r\nEssa variedade de espada foi desenhada especialmente\r\npara realizar ataques cortantes.|----|Un tipo de arma de filo. Esta variedad\r\nde la espada está diseñada especialmente\r\npara realizar ataques cortantes.
+A type of blade.\r\nThis variety of sword was created\r\nfor enhanced slicing power.|----|Um tipo de arma de fio. Essa variedade de\r\nespada foi desenhada especialmente para\r\nrealizar ataques cortantes.|----|Un tipo de arma de filo. Esta variedad\r\nde la espada está diseñada especialmente\r\npara realizar ataques cortantes.
 
 A type of breaker.\r\nA heavy, destructive weapon used\r\nsince the most ancient of times.|----|Um tipo de arma pesada.\r\nUma arma de demolição e destruição usada\r\ndesde os tempos mais remotos.|----|Un tipo de arma pesada cuyo impacto\r\nresulta absolutamente demoledor.\r\nSe usa desde tiempos remotos.
 
-A type of breaker.\r\nA bludgeoning weapon, for when\r\nyou need your target's limbs intact.|----|Um tipo de arma pesada.\r\nUma arma que causa danos por contusão, para quando\r\nvocê quiser nocautear seu inimigo sem mutilá-lo.|----|Un tipo de arma pesada ideal para realizar\r\nataques contundentes. Tiene la ventaja\r\nde que noquea al enemigo sin mutilarlo.
+A type of breaker.\r\nA bludgeoning weapon, for when\r\nyou need your target's limbs intact.|----|Um tipo de arma pesada. Uma arma que causa\r\ndanos por contusão, para quando você quiser\r\nnocautear seu inimigo sem mutilá-lo.|----|Un tipo de arma pesada ideal para realizar\r\nataques contundentes. Tiene la ventaja\r\nde que noquea al enemigo sin mutilarlo.
 
 A type of polearm.\r\nTheir long range keeps enemies\r\naway...as do their pointy tips.|----|Um tipo de arma com haste.\r\nSeu longo alcance mantém os inimigos\r\ndistantes... assim como sua ponta afiada.|----|Un tipo de arma de asta cuya longitud\r\ny afilada punta permiten mantener a raya\r\nal más tenaz de los rivales.
 
@@ -5936,7 +5936,7 @@ An herb with powers of mending.\r\nUsed in Herb item arts.|----|Uma erva com pod
 
 An herb with leaves like metal.\r\nUsed in Herb item arts.|----|Uma erva com folhas duras como o metal.\r\nÉ usada para fazer misturas de ervas.|----|Una planta con hojas duras como el metal.\r\nSe usa para elaborar mezclas de hierbas.
 
-A fresh medicinal oil.\r\nUsed in Potion item arts.|----|Um óleo medicinal que produz uma agradável\r\nsensação de frescor.\r\nÉ usado para elaborar poções.|----|Un aceite medicinal cuyo contacto produce\r\nuna agradable sensación de frescor. Se usa\r\npara elaborar pociones.
+A fresh medicinal oil.\r\nUsed in Potion item arts.|----|Um óleo medicinal que produz uma agradável\r\nsensação de frescor. É usado para elaborar\r\npoções.|----|Un aceite medicinal cuyo contacto produce\r\nuna agradable sensación de frescor. Se usa\r\npara elaborar pociones.
 
 A mystical medicinal oil.\r\nUsed in Potion item arts.|----|Um óleo medicinal com propriedades místicas.\r\nÉ usado para elaborar poções.|----|Un aceite medicinal de propiedades místicas.\r\nSe utiliza para elaborar pociones.
 
@@ -5944,15 +5944,15 @@ A medicinal oil hot to the touch.\r\nUsed in Potion item arts.|----|Um óleo med
 
 A medicinal ale made from aerial insecta.\r\nUsed in Potion item arts.|----|Um licor medicinal a base de insetos voadores.\r\nÉ usado para elaborar poções.|----|Un licor medicinal a base de insectos aéreos.\r\nSuele utilizarse para elaborar pociones.
 
-A medicinal ale made from mystic fiend\r\nliver.\r\nUsed in Potion item arts.|----|Um licor medicinal preparado com o fígado de\r\num demônio místico.\r\nÉ usado para elaborar poções.|----|Un licor medicinal preparado con el hígado\r\nde un demonio místico. Suele utilizarse\r\npara elaborar pociones.
+A medicinal ale made from mystic fiend\r\nliver.\r\nUsed in Potion item arts.|----|Um licor medicinal preparado com o fígado de\r\num demônio místico. É usado para elaborar\r\npoções.|----|Un licor medicinal preparado con el hígado\r\nde un demonio místico. Suele utilizarse\r\npara elaborar pociones.
 
-A medicinal ale made from beastman\r\nintestines.\r\nUsed in Potion item arts.|----|Um licor medicinal elaborado a partir das\r\nentranhas de um homem-fera.\r\nÉ usada para elaborar poções.|----|Un licor medicinal elaborado a partir\r\nde los intestinos de un hombre bestia.\r\nSe utiliza para elaborar pociones.
+A medicinal ale made from beastman\r\nintestines.\r\nUsed in Potion item arts.|----|Um licor medicinal elaborado a partir das\r\nentranhas de um homem-fera. É usado para\r\nelaborar poções.|----|Un licor medicinal elaborado a partir\r\nde los intestinos de un hombre bestia.\r\nSe utiliza para elaborar pociones.
 
-A medicinal ale made from land dragon\r\nwomb.\r\nUsed in Potion item arts.|----|Um licor medicinal fermentado no ventre\r\nde um Dragão de Terra.\r\nÉ usada para elaborar poções.|----|Un licor medicinal fermentado en el vientre\r\nde un dragón de tierra. Suele utilizarse\r\npara elaborar pociones.
+A medicinal ale made from land dragon\r\nwomb.\r\nUsed in Potion item arts.|----|Um licor medicinal fermentado no ventre de\r\num Dragão de Terra. É usado para elaborar\r\npoções.|----|Un licor medicinal fermentado en el vientre\r\nde un dragón de tierra. Suele utilizarse\r\npara elaborar pociones.
 
-A medicinal ale made from sky dragon\r\nmarrow.\r\nUsed in Potion item arts.|----|Um licor medicinal elaborado com o tutano dos\r\nossos de um Dragão do Céu.\r\nÉ usada para elaborar poções.|----|Un licor medicinal elaborado con el tuétano\r\nde los huesos de un dragón del cielo.\r\nSe utiliza para elaborar pociones.
+A medicinal ale made from sky dragon\r\nmarrow.\r\nUsed in Potion item arts.|----|Um licor medicinal elaborado com o tutano dos\r\nossos de um Dragão do Céu. É usado para\r\nelaborar poções.|----|Un licor medicinal elaborado con el tuétano\r\nde los huesos de un dragón del cielo.\r\nSe utiliza para elaborar pociones.
 
-A medicinal ale made from war dragon\r\nheart.\r\nUsed in Potion item arts.|----|Um licor medicinal elaborado com o coração\r\nde um dragão de guerra.\r\nÉ usada para elaborar poções.|----|Un licor medicinal elaborado con el corazón\r\nde un dragón de guerra. Suele utilizarse\r\npara elaborar pociones.
+A medicinal ale made from war dragon\r\nheart.\r\nUsed in Potion item arts.|----|Um licor medicinal elaborado com o coração\r\nde um dragão de guerra. É usada para elaborar\r\npoções.|----|Un licor medicinal elaborado con el corazón\r\nde un dragón de guerra. Suele utilizarse\r\npara elaborar pociones.
 
 Water containing many minerals.\r\nUsed in Lotion item arts.|----|Um líquido rico em minerais.\r\nÉ usado para elaborar loções.|----|Un líquido rico en minerales.\r\nSe utiliza para elaborar ungüentos.
 
@@ -6216,21 +6216,21 @@ A beautiful flower with a tranquil air.\r\nIts sweet scent is very calming.|----
 
 (REPETIDO)A recipe for ring creation.\r\nA customization component.|----|Instruções para criar certos tipos de anéis.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de anillos.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for armlet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\nbraceletes. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de brazaletes.\r\nSirven para mejorar tu equipo.
 
 (REPETIDO)A recipe for earring creation.\r\nA customization component.|----|Instruções para criar certos tipos de brincos.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de pendientes.\r\nSirven para mejorar tu equipo.
 
@@ -6264,37 +6264,37 @@ A beautiful flower with a tranquil air.\r\nIts sweet scent is very calming.|----
 
 (REPETIDO)A recipe for sash creation.\r\nA customization component.|----|Instruções para criar certos tipos de cintos.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de cintos.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for anklet creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntornozeleiras. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de tobilleras.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs.\r\nServem para melhorar seu equipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
+(REPETIDO)A recipe for charm creation.\r\nA customization component.|----|Instruções para criar certos tipos de\r\ntalismãs. Servem para melhorar seu\r\nequipamento.|----|Instrucciones para fabricar\r\ncierto tipo de talismanes.\r\nSirven para mejorar tu equipo.
 
 (REPETIDO)A recipe for gem creation.\r\nA customization component.|----|Instruções para criar certos tipos de gemas.\r\nServem para melhorar seu equipamento.|----|Instrucciones para tallar\r\ncierto tipo de gemas.\r\nSirven para mejorar tu equipo.
 
@@ -6572,7 +6572,7 @@ A beautiful gem of a lavender color.\r\nIt is mainly used for accessories.|----|
 
 A beautiful gem of a violet color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor violeta.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color violeta.\r\nSirve para fabricar accesorios.
 
-A red metal used in everyday items.\r\nA customization component.|----|Um metal vermelho usado para fabricar objetos\r\nde uso diário.\r\nServe para melhorar seu equipamento.|----|Un metal rojizo muy utilizado\r\npara fabricar objetos de uso diario.\r\nSirve para mejorar tu equipo.
+A red metal used in everyday items.\r\nA customization component.|----|Um metal vermelho usado para fabricar objetos\r\nde uso diário. Serve para melhorar seu\r\nequipamento.|----|Un metal rojizo muy utilizado\r\npara fabricar objetos de uso diario.\r\nSirve para mejorar tu equipo.
 
 A black metal used for weapon creation.\r\nA customization component.|----|Um metal negro usado na fabricação de armas.\r\nServe para melhorar seu equipamento.|----|Un metal negro muy utilizado\r\npara fabricar armas.\r\nSirve para mejorar tu equipo.
 
@@ -6588,7 +6588,7 @@ A crystal containing lots of mystic energy.\r\nA customization component.|----|U
 
 A metal with a unique design much\r\nlike the rings on a tree.\r\nA customization component.|----|Um metal de concepção bastante peculiar, com\r\nanéis parecidos com os anéis de uma árvore.\r\nServe para melhorar seu equipamento.|----|Un metal con unos peculiares\r\nanillos iguales a los de los árboles.\r\nSirve para mejorar tu equipo.
 
-Refined copper from Gaslin Caves.\r\nIt is more durable than regular\r\ncopper ore.|----|Um lingote de cobre refinado das Cavernas de\r\nGaslin. É mais resistente que o minério\r\nde cobre comum.|----|Un lingote de cobre refinado\r\nde las cavernas de Gaslin, más\r\nresistente que el cobre normal.
+Refined copper from Gaslin Caves.\r\nIt is more durable than regular\r\ncopper ore.|----|Um lingote de cobre refinado das Cavernas de\r\nGaslin. É mais resistente que o minério de\r\ncobre comum.|----|Un lingote de cobre refinado\r\nde las cavernas de Gaslin, más\r\nresistente que el cobre normal.
 
 Refined iron from Mt. Vackel.\r\nIt is more durable than regular\r\niron ore.|----|Um lingote de ferro refinado do Monte Vackel.\r\nÉ mais resistente que o minério\r\nde ferro comum.|----|Un lingote de hierro refinado\r\ndel monte Vackel, más resistente\r\nque el hierro normal.
 
@@ -6600,7 +6600,7 @@ High quality refined platinum.\r\nIt is more durable than gold ore.|----|Um ling
 
 High quality refined divine dragonyte.\r\nIt is very durable.|----|Um lingote de dragonita celestial refinada\r\ne de alta qualidade. É muito resistente.|----|Un lingote de dragonita refinada\r\nde calidad excepcional.\r\nEs tremendamente resistente.
 
-High quality refined mystic skelenyte.\r\nIt contains lots of mystic energy.|----|Um lingote de esquelonita mística refinada\r\ne de alta qualidade.\r\nContém uma grande energia mística.|----|Un lingote de esquelonita refinada\r\nde calidad excepcional.\r\nContiene una gran energía mística.
+High quality refined mystic skelenyte.\r\nIt contains lots of mystic energy.|----|Um lingote de esquelonita mística refinada\r\ne de alta qualidade. Contém uma grande energia\r\nmística.|----|Un lingote de esquelonita refinada\r\nde calidad excepcional.\r\nContiene una gran energía mística.
 
 High quality refined blacksteel.\r\nIt is very durable.|----|Um lingote de aço negro refinado e de alta\r\nqualidade. É muito resistente.|----|Un lingote de aceroscuro refinado\r\ntremendamente resistente.
 
@@ -6862,7 +6862,7 @@ A faded carapace from a creature\r\nthat lived for ten thousand years.\r\nIt is 
 
 A withered husk from a beast.\r\nIt is hard to determine from which beast.|----|Uma muda de pele descartada por um monstro.\r\nÉ difícil determinar a qual criatura pertence.|----|Una muda de piel desechada\r\npor un monstruo. No es fácil\r\nsaber de qué criatura procede.
 
-A shed husk from a beast.\r\nIt is tough and light enough to process\r\neasily.|----|Uma muda de pele descartada por um monstro.\r\nÉ dura, leve e fácil\r\nde manipular.|----|Una piel desechada por un monstruo,\r\ndura pero ligera y fácil de manipular.
+A shed husk from a beast.\r\nIt is tough and light enough to process\r\neasily.|----|Uma muda de pele descartada por um monstro.\r\nÉ extremamente leve e dura, mas muito fácil\r\nde manipular.|----|Una piel desechada por un monstruo,\r\ndura pero ligera y fácil de manipular.
 
 A beast husk as tough as iron.\r\nIts metallic nature makes it useful\r\nfor armor creation.|----|Um pedaço de couro de monstro duro como ferro.\r\nSua natureza metálica o torna útil\r\nna fabricação de armaduras.|----|Una muda de piel dura como el hierro.\r\nResulta muy útil para fabricar armaduras.
 
@@ -7684,7 +7684,7 @@ A fragment from the Icy Idol.\r\nA breed component with lots of\r\nmystic energy
 
 An agent used in summoning the Icy Idol.\r\nA rare component.|----|Um talismão usado para invocar o Ídolo\r\nGlacial. Um componente singular.|----|Un talismán que se utiliza para convocar\r\nal tótem glacial. Un componente singular.
 
-A fragment from the Charged Idol.\r\nA breed component with lots of\r\nmystic energy.|----|Um fragmento do Ídolo Divino.\r\nUm componente carregado de\r\nenergia mística.|----|Un fragmento del tótem divino.\r\nSe trata de un componente cargado\r\nde energía mística.
+A fragment from the Charged Idol.\r\nA breed component with lots of\r\nmystic energy.|----|Um fragmento do Ídolo Divino.\r\nUm componente carregado de energia\r\nmística.|----|Un fragmento del tótem divino.\r\nSe trata de un componente cargado\r\nde energía mística.
 
 An agent used in summoning\r\nthe Charged Idol.\r\nA rare component.|----|Um talismã usado para invocar\r\no Ídolo Divino.\r\nUm componente singular.|----|Un talismán que se utiliza para convocar\r\nal tótem divino. Un componente singular.
 
