@@ -1620,7 +1620,7 @@ Enthralled\n!|----|Hipnotizado\n!|----|Hipnosis\n!
 
 Don't have enough \nAP\n for that!|----|Você não tem \nAP\n suficiente para isso!|----|¡No tienes suficientes \nPA\n para llevar a cabo esa acción!
 
-Don't have the right \nitems\n for that!|----|Você não tem os\nitens\n necessários para isso!|----|¡No tienes los \nmateriales\n necesarios!
+Don't have the right \nitems\n for that!|----|Você não tem os \nitens\n necessários para isso!|----|¡No tienes los \nmateriales\n necesarios!
 
 Marching|----|Marchando|----|En marcha
 
@@ -1646,7 +1646,7 @@ All status ailments have been cured.|----|Todas as alterações de status foram 
 
 Union was destroyed!|----|O grupo foi destruído!|----|¡Unidad destruida!
 
-Enthralled! Can't take orders!|----|O grupo está hipnotizado\r\ne não pode receber ordens!|----|La unidad está en discronía\r\ny no puede recibir órdenes.
+Enthralled! Can't take orders!|----|O grupo está hipnotizado e não pode receber ordens!|----|La unidad está en discronía\r\ny no puede recibir órdenes.
 
 Defending!|----|Em guarda!|----|La unidad está hipnotizada\r\ny no puede recibir órdenes.
 
@@ -1706,13 +1706,13 @@ Unconscious, no physical resistance.\r\nCannot act or react until turn ends.|---
 
 Body turning to stone.\r\nAny damage taken causes instant KO.|----|O personagem está virando pedra.\r\nQualquer dano causará nocaute instantâneo.|----|El personaje se convierte en piedra\r\ny quedará K.O. si sufre daños.
 
-Engulfed in flames.\r\nFlame defense = 0. Always act last.|----|Coberto pelas chamas.\r\nDefesa contra fogo = 0. Obrigado a atuar em último lugar.|----|Obliga a actuar en último lugar\r\ny reduce a 0 la defensa contra fuego.
+Engulfed in flames.\r\nFlame defense = 0. Always act last.|----|Coberto pelas chamas.\r\nSem defesa contra fogo. Obrigado a atuar em último lugar.|----|Obliga a actuar en último lugar\r\ny reduce a 0 la defensa contra fuego.
 
-Struck by lightning.\r\nThunder defense = 0. No Trigger Chances.|----|Atingido por raio.\r\nDefesa contra eletricidade = 0. Sem chances de agir.|----|Impide usar ocasiones de oro y reduce\r\na 0 la defensa contra electricidad.
+Struck by lightning.\r\nThunder defense = 0. No Trigger Chances.|----|Atingido por raio.\r\nSem defesa contra eletricidade. Sem chances de ouro.|----|Impide usar ocasiones de oro y reduce\r\na 0 la defensa contra electricidad.
 
-Covered in ice. Frost defense = 0.\r\nExtra Hit limited to 1.|----|Coberto por gelo. Defesa contra gelo = 0.\r\nGolpe Extra limitado a 1.|----|Impide usar golpes extra\r\ny reduce a 0 la defensa contra frío.
+Covered in ice. Frost defense = 0.\r\nExtra Hit limited to 1.|----|Coberto por gelo. Sem defesa contra gelo.\r\nGolpe Extra limitado a 1.|----|Impide usar golpes extra\r\ny reduce a 0 la defensa contra frío.
 
-Burnt by acid.\r\nLytic defense = 0. Special Defense = 0.|----|Queimado por ácido.\r\nDefesa contra ácido = 0. Defesa especial = 0.|----|Reduce a 0 la defensa especial\r\ny la defensa contra ácido.
+Burnt by acid.\r\nLytic defense = 0. Special Defense = 0.|----|Queimado por ácido.\r\nSem defesa contra ácido. Sem defesa especial.|----|Reduce a 0 la defensa especial\r\ny la defensa contra ácido.
 
 Gained a power not of this world.\r\nGain 5 more actions.|----|Ganhou um poder que não é desse mundo.\r\nGanhou 5 ações a mais.|----|Todos los ataques realizados durante\r\neste turno serán golpes maestros. Un poder extraterreno otorga\r\ncinco acciones extra al personaje.
 
@@ -1758,7 +1758,7 @@ Able to take any blow without taking\r\ndamage.|----|O grupo pode absorver qualq
 
 Union's morale high.\r\nStats boosted.|----|A moral do grupo está alta e seus\r\natributos receberam bonificações.|----|La unidad recibe bonificaciones\r\na sus atributos.
 
-Union's morale very high. Stats boosted,\r\n150% likelihood of Trigger Chance.|----|A moral do grupo está muito alta. Seus atributos foram melhorados e\r\naumentou em 150% a frequência de Chance de Ouro.|----|Mejora los atributos y eleva en un 50%\r\nla frecuencia de las ocasiones de oro.
+Union's morale very high. Stats boosted,\r\n150% likelihood of Trigger Chance.|----|A moral do grupo está muito alta. Seus atributos foram melhorados e\r\naumentou em 50% a frequência de Chance de Ouro.|----|Mejora los atributos y eleva en un 50%\r\nla frecuencia de las ocasiones de oro.
 
 Army's morale very high.\r\nStats boosted, deal 2x damage.|----|A moral do exército está muito alta.\r\nSeus atributos foram melhorados e ele causa 2x mais danos.|----|Mejora los atributos y duplica\r\nlos daños causados al enemigo.
 
@@ -1800,177 +1800,177 @@ Conjurations enabled for a unit in the union.|----|Permite que um personagem do 
 
 BATTLE TALK DUMMY|----|BATTLE TALK DUMMY|----|Diálogos de batalla
 
-Guess it's time, huh?\r\nAll troops, fall back!\r\nAny stragglers'll get caught in the blast!|----|Acho que é hora, não?\r\nTodas as tropas, recuar!\r\nQuem ficar será atingido pela explosão.|----|Llegó el momento de la verdad...\r\n¡Soldados! ¡Alejaos de la zona de impacto\r\no la explosión os alcanzará!
+Guess it's time, huh?\r\nAll troops, fall back!\r\nAny stragglers'll get caught in the blast!|----|Acho que está hora, não é mesmo?\r\nTodas as tropas, recuar!\r\nQuem ficar na zona de impacto será atingido pela explosão!|----|Llegó el momento de la verdad...\r\n¡Soldados! ¡Alejaos de la zona de impacto\r\no la explosión os alcanzará!
 
-Eh?\r\nWhat is Emma doing?\r\nShe's too close!|----|Ahn?\r\nO que Emma está fazendo?\r\nEla está muito perto!|----|¿Qué demonios hace Emma?\r\n¡Está demasiado cerca!
+Eh?\r\nWhat is Emma doing?\r\nShe's too close!|----|Hã?\r\nO que a Emma está fazendo?\r\nEla está muito perto!|----|¿Qué demonios hace Emma?\r\n¡Está demasiado cerca!
 
-The Gae Bolg's firing sequence is complete.\r\nNot even Lord David can stop it now...|----|A sequência de disparos do Gae Bolg está completa.\r\nNem mesmo o Lorde David pode pará-la agora...|----|La secuencia de disparo del Gae Bolg\r\nya está en marcha... ¡A estas alturas,\r\nni siquiera lord David puede detenerla!
+The Gae Bolg's firing sequence is complete.\r\nNot even Lord David can stop it now...|----|A sequência de disparos do Gae Bolg foi completada.\r\nNem mesmo Lorde David pode detê-la agora...|----|La secuencia de disparo del Gae Bolg\r\nya está en marcha... ¡A estas alturas,\r\nni siquiera lord David puede detenerla!
 
-The monsters here're pretty weak to poundings. So long\r\nas everybody sticks to \nphysical attacks\n, we'll be in the\r\nclear. 'Course, with me here, you'd be winning anyway!|----|Os monstros daqui são vulneráveis à ataques físicos. Enquanto todos\r\nmantiverem os ataques físicos\n, vamos\r\nficar bem. Mas é claro que comigo aqui,\n vocês estariam ganhando de qualquer forma!|----|Los monstruos de esta zona son bastante vulnerables\r\na los \nataques físicos\n... ¡Y ésa es justo la especialidad\r\nde un servidor!
+The monsters here're pretty weak to poundings. So long\r\nas everybody sticks to \nphysical attacks\n, we'll be in the\r\nclear. 'Course, with me here, you'd be winning anyway!|----|Os monstros daqui são vulneráveis à ataques físicos. Enquanto\r\ntodos mantiverem os \nataques físicos\r\n, vamos ficar bem. Mas é claro que comigo aqui,\n vocês estariam vencendo de qualquer maneira!|----|Los monstruos de esta zona son bastante vulnerables\r\na los \nataques físicos\n... ¡Y ésa es justo la especialidad\r\nde un servidor!
 
 Hunh... Let's give it a shot!|----|Hunh... Vamos tentar então!|----|Bueno... ¡Vamos allá!
 
-Awright! Let's move!|----|Certo! Vamos nos mover!|----|De acuerdo... ¡A por ellos!
+Awright! Let's move!|----|Certo! Vamos em frente!|----|De acuerdo... ¡A por ellos!
 
-The monsters here are weak against mystic arts.\r\nYou'd do best to concentrate on \nmystic attacks\n.\r\nI'm here with you, so you shouldn't have any trouble!|----|Os monstros são vulneráveis às artes místicas. \r\nSeria melhor vocês se concentrarem em\nataques mistícos\n.\r\nEu estou aqui com vocês, então não terão problemas!|----|Estos monstruos son vulnerables a los hechizos...\r\nLo mejor será concentrarnos en los \nataques místicos\n.\r\n¡Conmigo en vuestro bando, no tendréis ningún problema!
+The monsters here are weak against mystic arts.\r\nYou'd do best to concentrate on \nmystic attacks\n.\r\nI'm here with you, so you shouldn't have any trouble!|----|Os monstros são vulneráveis às artes místicas. \r\nÉ melhor vocês se concentrarem em \nataques mistícos\n.\r\nEstou aqui com vocês, por isso não terão problemas!|----|Estos monstruos son vulnerables a los hechizos...\r\nLo mejor será concentrarnos en los \nataques místicos\n.\r\n¡Conmigo en vuestro bando, no tendréis ningún problema!
 
-Okay, I'll give it a go!|----|Certo, eu vou tentar!|----|De acuerdo, lo intentaré.
+Okay, I'll give it a go!|----|Certo, vou tentar!|----|De acuerdo, lo intentaré.
 
 Well then. Shall we?|----|Pois então. Podemos?|----|Muy bien... ¡En marcha!
 
 Character Description dummy help|----|Character Description dummy help|----|Descripciones de personajes
 
-A mitra youth raised on Eulam Island.\r\nFriendly, honest, and open to a fault, he\r\ncares deeply for his family.|----|Um jovem mistra criado na Ilha de Eulam.\r\nAmigável, honesto e cordial. Se importa\r\nprofundamente com sua família.|----|Un mitra criado en la isla de Eulam.\r\nEs sincero, honrado y cordial.\r\nLe preocupa el bienestar de su familia.
+A mitra youth raised on Eulam Island.\r\nFriendly, honest, and open to a fault, he\r\ncares deeply for his family.|----|Um jovem mitra criado na Ilha de Eulam.\r\nAmigável, honesto e cordial, ele se preocupa\r\nmuito com sua família.|----|Un mitra criado en la isla de Eulam.\r\nEs sincero, honrado y cordial.\r\nLe preocupa el bienestar de su familia.
 
-Rush's sister. Sweet and cheerful, but with\r\na deep stubborn streak. Able to control\r\nRemnants through Marion's Blessing.|----|Irmã do Rush. Doce e alegre, mas extremamente\r\nteimosa. É capaz de controlar Remanescentes\r\natravés da Benção de Marion.|----|La hermana pequeña de Rush:\r\nencantadora, pero un poco cabezota.\r\nTiene el don de controlar las reliquias.
+Rush's sister. Sweet and cheerful, but with\r\na deep stubborn streak. Able to control\r\nRemnants through Marion's Blessing.|----|A irmã mais nova do Rush. Doce e alegre, mas\r\nbastante teimosa. Tem o dom de controlar\r\nRemanescentes, através da Benção de Marion.|----|La hermana pequeña de Rush:\r\nencantadora, pero un poco cabezota.\r\nTiene el don de controlar las reliquias.
 
-The ruler of Athlum.\r\nCool-headed and poised.\r\nControls the Remnant Gae Bolg.|----|O governante de Athlum.\r\nCabeça fria e descontraído.\r\nControla o Remanescente Gae Bolg.|----|Un joven sensato y desenvuelto\r\nque gobierna la ciudad de Athlum.\r\nTiene a su cargo el Gae Bolg.
+The ruler of Athlum.\r\nCool-headed and poised.\r\nControls the Remnant Gae Bolg.|----|O governante de Athlum.\r\nUm jovem sensato e descontraído.\r\nControla o Remanescente Gae Bolg.|----|Un joven sensato y desenvuelto\r\nque gobierna la ciudad de Athlum.\r\nTiene a su cargo el Gae Bolg.
 
-One of Athlum's Four Generals.\r\nStern and driven, but dedicated\r\nto Athlum\Tand her only daughter.|----|Um dos quatro generais de Athlum.\r\nSéria e decidida, mas dedicada\r\na Athlum, e sua única filha.|----|Uno de los cuatro generales de Athlum.\r\nEs una mujer seria y decidida que daría\r\nsu vida por Athlum... o por su única hija.
+One of Athlum's Four Generals.\r\nStern and driven, but dedicated\r\nto Athlum\Tand her only daughter.|----|Um dos quatro generais de Athlum.\r\nUma mulher séria e decidida, que daria sua\r\nvida por Athlum... ou por sua única filha.|----|Uno de los cuatro generales de Athlum.\r\nEs una mujer seria y decidida que daría\r\nsu vida por Athlum... o por su única hija.
 
-One of Athlum's Four Generals.\r\nHas pledged herself to Athlum, as her\r\nmother\Tand namesake\Tbefore her.|----|Um dos quatro generais de Athlum.\r\nJurou servir Athlum, assim como sua mãe\r\ne outros antes dela.|----|Uno de los generales de Athlum.\r\nAl igual que su madre y tocaya,\r\nha jurado servir a Athlum.
+One of Athlum's Four Generals.\r\nHas pledged herself to Athlum, as her\r\nmother\Tand namesake\Tbefore her.|----|Um dos quatro generais de Athlum.\r\nAssim como sua mãe e seus descendentes,\r\njurou servir Athlum.|----|Uno de los generales de Athlum.\r\nAl igual que su madre y tocaya,\r\nha jurado servir a Athlum.
 
-One of Athlum's Four Generals.\r\nCovered in hardened muscle, but a big\r\nsoftie at heart. Sees David as a brother.|----|Um dos quatro generais de Athlum.\r\nMusculoso mas com um coração de ouro.\r\n Vê David como um irmão.|----|Uno de los generales de Athlum.\r\nPese a ser una mole de músculos,\r\nen el fondo tiene un corazón de oro.
+One of Athlum's Four Generals.\r\nCovered in hardened muscle, but a big\r\nsoftie at heart. Sees David as a brother.|----|Um dos quatro generais de Athlum.\r\nApesar de ser um monte de músculos, tem um\r\ncoração de ouro. Ele vê David como um irmão.|----|Uno de los generales de Athlum.\r\nPese a ser una mole de músculos,\r\nen el fondo tiene un corazón de oro.
 
-One of Athlum's Four Generals.\r\nMaster of intelligence gathering, he's\r\nalso quite the history buff.|----|Um dos quatro generais de Athlum.\r\nMestre da espionagem, ele\r\ntambém é um conhecedor de história.|----|Uno de los generales de Athlum.\r\nEs un gran maestro del espionaje\r\ny todo un experto en historia.
+One of Athlum's Four Generals.\r\nMaster of intelligence gathering, he's\r\nalso quite the history buff.|----|Um dos quatro generais de Athlum.\r\nÉ um mestre da espionagem, e também\r\num grande conhecedor de história.|----|Uno de los generales de Athlum.\r\nEs un gran maestro del espionaje\r\ny todo un experto en historia.
 
-Leader of the Four Generals, and David's\r\nright hand. It is unknown why a sovani,\r\ninfamous for their pride, works for Athlum.|----|Líder dos quatro generais, e mão direita de\r\nDavid. Não se sabe por que um dos sovani,\r\nconhecidos pelo seu orgulho, trabalha para Athlum.|----|El líder de los generales de Athlum\r\ny la mano derecha de David. Su orgullo\r\nde sovani no le impide servir a Athlum.
+Leader of the Four Generals, and David's\r\nright hand. It is unknown why a sovani,\r\ninfamous for their pride, works for Athlum.|----|O líder dos quatro generais, e mão direita\r\nde David. Não se sabe por que um dos\r\norgulhosos sovanis trabalha para Athlum.|----|El líder de los generales de Athlum\r\ny la mano derecha de David. Su orgullo\r\nde sovani no le impide servir a Athlum.
 
-Chairman of the Congress.\r\nA grizzled yama well known as a warrior.\r\nBound to the Remnant Bilqis.|----|Presidente do conselho.\r\nUm yama veterano e um famoso guerreiro.\r\nVinculado ao Remanescente Bilqis.|----|El Presidente del Consejo, un yama\r\nveterano y un famoso guerrero.\r\nEstá vinculado a la reliquia Bilquis.
+Chairman of the Congress.\r\nA grizzled yama well known as a warrior.\r\nBound to the Remnant Bilqis.|----|O Presidente do Conselho.\r\nUm yama veterano e um famoso guerreiro.\r\nEstá vinculado ao Remanescente Bilqis.|----|El Presidente del Consejo, un yama\r\nveterano y un famoso guerrero.\r\nEstá vinculado a la reliquia Bilquis.
 
-Former director of the Academy.\r\nSkilled and insatiably curious, she's\r\nstudied Remnants for years.|----|Antiga diretora da academia.\r\nHabilidosa e de curiosidade insaciável, ela\r\nestudou Remanescentes por anos. |----|La antigua directora de la Academia\r\ny toda una estudiosa de las reliquias.\r\nDestaca por su talento y curiosidad.
+Former director of the Academy.\r\nSkilled and insatiably curious, she's\r\nstudied Remnants for years.|----|A antiga diretora da academia. Talentosa \r\ne dotada de uma insaciável curiosidade,\r\nestudou os Remanescentes durante anos.|----|La antigua directora de la Academia\r\ny toda una estudiosa de las reliquias.\r\nDestaca por su talento y curiosidad.
 
-Ex-captain of the Third Committee.\r\nRough, but open and jovial.\r\nBound to the Remnant Lob Omen.|----|Ex-capitão do terceiro comitê.\r\nDuro, mas aberto e jovial.\r\nVinculado ao Remanescente Lob Omen.|----|El antiguo capitán del Tercer Comité.\r\nAunque va de duro, es un tipo alegre\r\ny sincero. Está vinculado al Lob Omen.
+Ex-captain of the Third Committee.\r\nRough, but open and jovial.\r\nBound to the Remnant Lob Omen.|----|O antigo capitão do Terceiro Comitê. Apesar\r\nde rude, é um sujeito alegre e sincero.\r\nEstá vinculado ao Remanescente Lob Omen.|----|El antiguo capitán del Tercer Comité.\r\nAunque va de duro, es un tipo alegre\r\ny sincero. Está vinculado al Lob Omen.
 
-Sellsword from Celapaleis. Enamored\r\nof Violet. Tends towards the dramatic,\r\nbut often regrets this bluster later.|----|Mercenário de Celapaleis. Apaixonado\r\npor Violet. Tende a ser dramático,\r\nmas frequentemente se arrepende.|----|Un mercenario de Celapalais\r\nperdidamente enamorado de Violet.\r\nMuy hábil, pero un poco impetuoso.
+Sellsword from Celapaleis. Enamored\r\nof Violet. Tends towards the dramatic,\r\nbut often regrets this bluster later.|----|Um mercenário de Celapaleis. Apaixonado\r\npor Violet. Tende a ser dramático,\r\nmas geralmente se arrepende depois.|----|Un mercenario de Celapalais\r\nperdidamente enamorado de Violet.\r\nMuy hábil, pero un poco impetuoso.
 
-An amnesiac desert wanderer.\r\nHis scarred face hints at a rough\r\npast. Is what he remembers real?|----|Um vagabundo do deserto.\r\nSuas cicatrizes demonstram um passado\r\nduro. Ele não lembra de nada mesmo?|----|Un vagabundo del desierto cuyas\r\ncicatrices delatan un oscuro pasado.\r\n¿Será verdad que no recuerda nada?
+An amnesiac desert wanderer.\r\nHis scarred face hints at a rough\r\npast. Is what he remembers real?|----|Um vagabundo sem memória do deserto.\r\nSuas cicatrizes demonstram um passado\r\nduro. Será que não lembra de nada mesmo?|----|Un vagabundo del desierto cuyas\r\ncicatrices delatan un oscuro pasado.\r\n¿Será verdad que no recuerda nada?
 
-Captain of the Order of Melphina.\r\nChivalrous, honorable, and dedicated.\r\nSworn to Marsha, Forest Maiden leader.|----|Capitão da Ordem de Melphina.\r\nCavalheiro, honroso, e delicado.\r\nPrestou juramento a Marsha, líder de Donzela do Bosque.|----|El caballeroso, honorable y leal capitán\r\nde la Orden de Melphina.\r\nHa jurado proteger a la doncella Marsha.
+Captain of the Order of Melphina.\r\nChivalrous, honorable, and dedicated.\r\nSworn to Marsha, Forest Maiden leader.|----|O capitão da Ordem de Melphina. Cavalheiro,\r\nhonrado, e leal. Jurou proteger Marsha,\r\nlíder das Donzelas do Bosque.|----|El caballeroso, honorable y leal capitán\r\nde la Orden de Melphina.\r\nHa jurado proteger a la doncella Marsha.
 
-An infamously savage bandit.\r\nOf late has avoided mindless\r\nviolence, seeking redemption.|----|Um bandido selvagem infame.\r\nFaz algum tempo que abandou a\r\nviolência procurando se redimir.|----|Un bandido de infame reputación.\r\nHace algún tiempo que abandonó\r\nla violencia y busca redimirse.
+An infamously savage bandit.\r\nOf late has avoided mindless\r\nviolence, seeking redemption.|----|Um bandido de infame reputação.\r\nJá faz algum tempo que abandou a\r\nviolência, procurando se redimir.|----|Un bandido de infame reputación.\r\nHace algún tiempo que abandonó\r\nla violencia y busca redimirse.
 
-Son of the marquis of Royotia.\r\nPure-hearted and slightly naïve.\r\nSworn to his paramour, Charlotte.|----|Filho do marquês de Royotia.\r\nDe coração puro e levemente ingênuo.\r\nPrestou juramento a sua amada, Charlotte.|----|Hijo del marqués de Royotia. Un joven\r\nde corazón puro y algo inocentón\r\nque adora a su amada Charlotte.
+Son of the marquis of Royotia.\r\nPure-hearted and slightly naïve.\r\nSworn to his paramour, Charlotte.|----|O filho do marquês de Royotia.\r\nUm jovem de coração puro e um pouco ingênuo.\r\nPrestou juramento a sua amada, Charlotte.|----|Hijo del marqués de Royotia. Un joven\r\nde corazón puro y algo inocentón\r\nque adora a su amada Charlotte.
 
-A frail youth mourning his dead\r\ntwin sister, Kate. Perhaps there\r\nis a way he can find happiness...|----|Um jovem frágil em luto pela sua irmã gêmea\r\n morta, Kate. Talvez aja uma forma\r\nde ele encontrar felicidade...|----|Un joven escuchimizado que sufre por\r\nla pérdida de Kate, su hermana gemela.\r\nTal vez un día encuentre la felicidad...
+A frail youth mourning his dead\r\ntwin sister, Kate. Perhaps there\r\nis a way he can find happiness...|----|Uma jovem frágil que sofre pela perda da\r\nsua irmã gêmea, Kate. Talvez um dia\r\nela possa encontrar a felicidade...|----|Un joven escuchimizado que sufre por\r\nla pérdida de Kate, su hermana gemela.\r\nTal vez un día encuentre la felicidad...
 
-A striking female warrior.\r\nDriven and a bit anachronistic.\r\nHer heart burns for revenge.|----|Uma imponente guerreira.\r\nUm pouco antiquada.\r\nSeu coração clama por vingança.|----|Una imponente guerrera, impetuosa\r\ny algo chapada a la antigua, que arde\r\nen deseos de vengar a su pueblo.
+A striking female warrior.\r\nDriven and a bit anachronistic.\r\nHer heart burns for revenge.|----|Uma imponente e impetuosa guerreira.\r\nUm pouco antiquada.\r\nSeu coração clama por vingança.|----|Una imponente guerrera, impetuosa\r\ny algo chapada a la antigua, que arde\r\nen deseos de vengar a su pueblo.
 
-Wife of a powerful aristocrat in\r\nCelapaleis. The sad story of her\r\nown family's fall moves many.|----|Esposa de um poderoso aristocrata em \r\nCelapaleis. A triste história da queda de sua família\r\né uma verdadeira tragédia.|----|La esposa de un poderoso noble\r\nde Celapalais. La historia de su familia\r\nes una verdadera tragedia.
+Wife of a powerful aristocrat in\r\nCelapaleis. The sad story of her\r\nown family's fall moves many.|----|A esposa de um poderoso aristocrata de\r\nCelapaleis. A triste história da queda de\r\nsua família é uma verdadeira tragédia.|----|La esposa de un poderoso noble\r\nde Celapalais. La historia de su familia\r\nes una verdadera tragedia.
 
-A rough, belligerent warrior who\r\nrages against all restraints\Tas\r\nif trying to forget a painful past.|----|Uma guerreira bruta e agressiva que\r\que odeia que a controlem\ncomo\r\nse a fizesse lembrar se seu passado.|----|Una guerrera agresiva y belicosa\r\nque odia que intenten controlarla.\r\nDicen que trata de olvidar su pasado.
+A rough, belligerent warrior who\r\nrages against all restraints\Tas\r\nif trying to forget a painful past.|----|Uma guerreira bruta e agressiva que odeia\r\naqueles que tentam controlá-la. Dizem que\r\nestá tentando esquecer seu passado.|----|Una guerrera agresiva y belicosa\r\nque odia que intenten controlarla.\r\nDicen que trata de olvidar su pasado.
 
-A self-absorbed and frivolous\r\nmage who became a mercenary to\r\nfinance her excessive expenses.|----|Uma maga egocêntrica e fútil\r\nque se tornou uma mercenária para manter\r\nseu padrão de vida.|----|Una maga frívola y egocéntrica\r\nque se hizo mercenaria para poder\r\ncostearse sus numerosos caprichos.
+A self-absorbed and frivolous\r\nmage who became a mercenary to\r\nfinance her excessive expenses.|----|Uma maga egocêntrica e fútil\r\nque se tornou uma mercenária para\r\nbancar seus numeros caprichos.|----|Una maga frívola y egocéntrica\r\nque se hizo mercenaria para poder\r\ncostearse sus numerosos caprichos.
 
-Rhagoh's dead twin sister. But\r\nas if in response to his dearest\r\nwish, she suddenly reappeared.|----|A irmã gêmea morta de Rhagoh. Ela\r\nvoltou dos mortos atendendo\r\nas súplicas do irmão.|----|La hermana de Rhagoh. Ha regresado\r\nde entre los muertos, como si hubiera\r\nescuchado las súplicas de su hermano.
+Rhagoh's dead twin sister. But\r\nas if in response to his dearest\r\nwish, she suddenly reappeared.|----|A irmã gêmea de Rhagoh. Ela\r\nvoltou dos mortos atendendo\r\nàs súplicas do irmão.|----|La hermana de Rhagoh. Ha regresado\r\nde entre los muertos, como si hubiera\r\nescuchado las súplicas de su hermano.
 
-Kosmosfest's Cosmos Maiden.\r\nAbsentminded\Tor empty-headed.\r\nWishes to rid the world of war.|----|A Donzela da Festa Cósmica.\r\Distraída\nou cabeça oca.\r\nDeseja livrar o mundo da guerra.|----|La ninfa de la Gala Cósmica.\r\nDesea librar al mundo de la guerra,\r\npero es un tanto corta de luces.
+Kosmosfest's Cosmos Maiden.\r\nAbsentminded\Tor empty-headed.\r\nWishes to rid the world of war.|----|A Donzela da Festa Cósmica.\r\nDistraída e cabeça oca.\r\nDeseja livrar o mundo da guerra.|----|La ninfa de la Gala Cósmica.\r\nDesea librar al mundo de la guerra,\r\npero es un tanto corta de luces.
 
-A mercenary based in Athlum.\r\nCautious, and always prepared.\r\nSaving money for someone dear.|----|Um mercenário que mora em Athlum.\r\nCuidadoso e sempre preparado.\r\nGuardando dinheiro para alguém querido.|----|Un mercenario afincado en Athlum.\r\nEs un hombre cauto, empeñado en ahorrar\r\npara agasajar a sus seres queridos.
+A mercenary based in Athlum.\r\nCautious, and always prepared.\r\nSaving money for someone dear.|----|Um mercenário que vive em Athlum.\r\nCuidadoso e sempre preparado.\r\nEstá guardando dinheiro para alguém querido.|----|Un mercenario afincado en Athlum.\r\nEs un hombre cauto, empeñado en ahorrar\r\npara agasajar a sus seres queridos.
 
-Fabled warrior of the underworld.\r\nWrathful and a lone wolf, but at\r\ntimes is quite kind to others.|----|Famoso guerreiro do submundo.\r\nRaivoso e um lobo solitário, mas às vezes\r\né gentil com os outros|----|Un famoso guerrero del Inframundo.\r\nEs muy solitario y propenso al enfado,\r\npero es muy amable cuando se lo propone.
+Fabled warrior of the underworld.\r\nWrathful and a lone wolf, but at\r\ntimes is quite kind to others.|----|Um famoso guerreiro do submundo. É um lobo\r\nsolitário e propenso à ira, mas às vezes\r\ntambém é muito amável com os outros.|----|Un famoso guerrero del Inframundo.\r\nEs muy solitario y propenso al enfado,\r\npero es muy amable cuando se lo propone.
 
-An experienced and skilled\r\ncommander. Younger fighters\r\neagerly seek his training.|----|Um comandante experiente e habilidoso.\r\n Jovens lutadores buscam\r\npor seus ensinamentos.|----|Un comandante hábil y experto.\r\nLos guerreros más jóvenes arden\r\nen deseos de entrenar con él.
+An experienced and skilled\r\ncommander. Younger fighters\r\neagerly seek his training.|----|Um comandante experiente e habilidoso.\r\nOs guerreiros mais jovens lutadores morrem\r\nde vontade de treinar com ele.|----|Un comandante hábil y experto.\r\nLos guerreros más jóvenes arden\r\nen deseos de entrenar con él.
 
-An honest young mage. Weak\r\ndue to a past injury, he began to\r\nstudy mystic arts, rare for yama.|----|Um jovem mago honesto. Fraco\r\ndevido a um machucado antigo, ele começou a estudar\r\nas artes místicas, o que é raro para um yama.|----|Un mago joven y honrado que arrastra\r\nlas secuelas de una vieja herida.\r\nEs uno de los pocos hechiceros yama.
+An honest young mage. Weak\r\ndue to a past injury, he began to\r\nstudy mystic arts, rare for yama.|----|Um mago jovem e honrado. Enfraquecido\r\npor uma antiga ferida, ele começou a estudar\r\nartes místicas, o que é raro para um yama.|----|Un mago joven y honrado que arrastra\r\nlas secuelas de una vieja herida.\r\nEs uno de los pocos hechiceros yama.
 
-More a danger to himself than\r\nto others, this troublemaker is\r\noddly endearing, if very strange.|----|É mais um perigo para si mesmo do que\r\npara os outros, esse encrenqueiro é\r\nestranhamente cativante.|----|Este «alborotador» es más peligroso\r\npara sí mismo que para los demás,\r\npero tiene un cierto encanto.
+More a danger to himself than\r\nto others, this troublemaker is\r\noddly endearing, if very strange.|----|Esse encrenqueiro é mais perigoso para\r\nsi mesmo do que para os outros,\r\nmas possui um certo encanto.|----|Este «alborotador» es más peligroso\r\npara sí mismo que para los demás,\r\npero tiene un cierto encanto.
 
-Royotian miner who, along with\r\nPagus and Maddox, dreamt of\r\nfinding a legendary Remnant...|----|Um mineiro de Royotian, junto de\r\nPagus e Maddox, sonha em\r\nencontrar o lendário Remanescente...|----|Un minero de Royotia que, junto\r\ncon Pagus y Maddox, soñaba con\r\nencontrar una reliquia legendaria.
+Royotian miner who, along with\r\nPagus and Maddox, dreamt of\r\nfinding a legendary Remnant...|----|Um mineiro de Royotia que, junto com\r\nPagus e Maddox, sonhava\r\nencontrar um lendário Remanescente...|----|Un minero de Royotia que, junto\r\ncon Pagus y Maddox, soñaba con\r\nencontrar una reliquia legendaria.
 
-A young adventurer, deeply\r\nconcerned about Baaluk's\r\nfuture. Naïve, but dedicated.|----|Um jovem aventureiro, profundamente\r\npreocupado com o futuro de\r\nBaaluk. Ingênuo, mas dedicado.|----|Un joven aventurero de Baaluk\r\ninquieto por el futuro de su ciudad.\r\nEs joven e inocente, pero muy leal.
+A young adventurer, deeply\r\nconcerned about Baaluk's\r\nfuture. Naïve, but dedicated.|----|Um jovem aventureiro de Baaluk,\r\nmuito preocupado com o futuro da sua cidade.\r\nÉ um jovem inocente, mas muito leal.|----|Un joven aventurero de Baaluk\r\ninquieto por el futuro de su ciudad.\r\nEs joven e inocente, pero muy leal.
 
-Ex-Celapaleian general. Once\r\nshared a vision with Pagus.\r\nA real chatterbox of an old man.|----|Um antigo general de Celapaleian. Compartilhou\r\num sonho com Pagus.\r\nUm velho muito falador.|----|Un antiguo general de Celapalais\r\nque compartió un sueño con Pagus.\r\nUn viejecito muy parlanchín.
+Ex-Celapaleian general. Once\r\nshared a vision with Pagus.\r\nA real chatterbox of an old man.|----|Um antigo general de Celapalais.r\nCompartilhou uma visão com Pagus.\r\nUm velhote bastante falador.|----|Un antiguo general de Celapalais\r\nque compartió un sueño con Pagus.\r\nUn viejecito muy parlanchín.
 
-Once ran the Steel Syndicate with Torgal,\r\nbut objects to its current actions. Becomes\r\nquite nasty when he needs to ask a favor.|----|Comandou o Irmandade de Aço com Torgal,\r\nmas é contra suas recentes ações. Se torna\r\ndesgradável quando precisa pedir um favor.|----|Un sovani que creó la Hermandad del Acero\r\ncon Torgal y ahora reniega de sus ideales.\r\nSe vuelve muy borde cuando necesita ayuda.
+Once ran the Steel Syndicate with Torgal,\r\nbut objects to its current actions. Becomes\r\nquite nasty when he needs to ask a favor.|----|Um sovani que criou a Irmandade de Aço com\r\nTorgal, mas que agora renega seus ideais. Se\r\ntorna muito desgradável para pedir um favor.|----|Un sovani que creó la Hermandad del Acero\r\ncon Torgal y ahora reniega de sus ideales.\r\nSe vuelve muy borde cuando necesita ayuda.
 
-Leader of the Silver Falcons. Surprisingly\r\npublic for a sovani. Dutiful and principled,\r\nbut despised by those in power.|----|Lider dos Falcões Prateados. Uma das\r\npoucas figuras públicas dos sovanis. Obediente e com princípios,\r\nmas odiado pelos poderosos.|----|El líder de los Halcones Argénteos y una\r\nde las pocas figuras públicas sovani.\r\nSus principios le crean muchos enemigos.
+Leader of the Silver Falcons. Surprisingly\r\npublic for a sovani. Dutiful and principled,\r\nbut despised by those in power.|----|O lider dos Falcões Prateados. Um dos poucos\r\nsovanis bem conhecidos. Honrado e cheio de\r\nprincípios, isso lhe trouxe muitos inimigos.|----|El líder de los Halcones Argénteos y una\r\nde las pocas figuras públicas sovani.\r\nSus principios le crean muchos enemigos.
 
-An aloof young knight.\r\nRelatively inexperienced, but his\r\ntalent\Tand pride\Tare top-class.|----|Um jovem cavaleiro muito distante.\r\nSem experiência, mas seu\r\ntalento e orgulho são de primeira classe.|----|Un joven caballero muy distante\r\ny poco experimentado, pero dotado\r\nde un talento (y un orgullo) inmensos.
+An aloof young knight.\r\nRelatively inexperienced, but his\r\ntalent\Tand pride\Tare top-class.|----|Um jovem cavaleiro muito distante.\r\nCom pouca experiência, mas dotado de\r\num talento e orgulho imensos.|----|Un joven caballero muy distante\r\ny poco experimentado, pero dotado\r\nde un talento (y un orgullo) inmensos.
 
-A rough and violent fighter who\r\nfought for the Imperator until\r\nhe was imprisoned by the Fallen.|----|Um lutador agressivo e violento que\r\nlutou pelo Imperador até\r\nser preso pelo Fallen.|----|Un guerrero belicoso y pendenciero\r\nque luchó por el primer Emperador\r\nhasta que el Condenado lo aprisionó.
+A rough and violent fighter who\r\nfought for the Imperator until\r\nhe was imprisoned by the Fallen.|----|Um lutador agressivo e violento que\r\nlutou pelo primeiro Imperador até\r\nque fosse aprisionado pelo Condenado.|----|Un guerrero belicoso y pendenciero\r\nque luchó por el primer Emperador\r\nhasta que el Condenado lo aprisionó.
 
-Subcommander of the Order of Melphina.\r\nA skilled fighter with a strong\Tif\r\nintolerant\Tsense of justice.|----|Subcomandante da ordem de Melphina.\r\nUm lutador habilidoso com uma forte e\r\nintolerante senso de justiça.|----|Subcomandante de la Orden de Melphina.\r\nTiene un fuerte sentido de la justicia,\r\npero no es demasiado tolerante.
+Subcommander of the Order of Melphina.\r\nA skilled fighter with a strong\Tif\r\nintolerant\Tsense of justice.|----|O subcomandante da Ordem de Melphina.\r\nUm lutador habilidoso com um forte e\r\nintolerante senso de justiça.|----|Subcomandante de la Orden de Melphina.\r\nTiene un fuerte sentido de la justicia,\r\npero no es demasiado tolerante.
 
-Knight in the Order of Melphina.\r\nBrave youth who trusts Roberto\r\nimplicitly. Sworn to Leticia.|----|Cavaleiro da ordem de Melphina.\r\njovem corajoso que confia em Roberto cegamente.\r\n Prestou juramento a Leticia.|----|Un joven caballero de la Orden\r\nde Melphina que confía ciegamente\r\nen Robert. Ha jurado proteger a Leticia.
+Knight in the Order of Melphina.\r\nBrave youth who trusts Roberto\r\nimplicitly. Sworn to Leticia.|----|Um jovem cavaleiro da Ordem de Melphina.\r\nConfia cegamente em Roberto.\r\nJurou proteger Letícia.|----|Un joven caballero de la Orden\r\nde Melphina que confía ciegamente\r\nen Robert. Ha jurado proteger a Leticia.
 
-Knight in the Order of Melphina.\r\nGraduate of Melphina's Law\r\nAcademy. Smart and gentle.|----|Cavaleiro da ordem de Melphina.\r\nFormado na Academia de Direito de Melphina.\r\n Inteligente e gentil.|----|Licenciado de la Facultad de Derecho\r\nde Melphina y caballero de la Orden.\r\nUna persona amable e inteligente.
+Knight in the Order of Melphina.\r\nGraduate of Melphina's Law\r\nAcademy. Smart and gentle.|----|Um cavaleiro da ordem de Melphina.\r\nFormado na Academia de Direito de Melphina.\r\nAmável e Inteligente.|----|Licenciado de la Facultad de Derecho\r\nde Melphina y caballero de la Orden.\r\nUna persona amable e inteligente.
 
-Knight in the Order of Melphina.\r\nFriendly and outgoing, but\r\neasily spooked.|----|Cavaleiro da ordem de Melphina.\r\nAmigável e extrovertido, mas\r\nse assusta facilmente.|----|Un caballero de la Orden de Melphina.\r\nEs amigable y extrovertido, pero se asusta\r\ncon facilidad.
+Knight in the Order of Melphina.\r\nFriendly and outgoing, but\r\neasily spooked.|----|Um cavaleiro da ordem de Melphina.\r\nAmigável e extrovertido, mas\r\nse assusta com facilidade.|----|Un caballero de la Orden de Melphina.\r\nEs amigable y extrovertido, pero se asusta\r\ncon facilidad.
 
-An agent of the Duke of Ghor,\r\nand fully dedicated to his lord.\r\nAn attractive swordsman.|----|Um agente do Duque de Ghor,\r\ne totalmente dedicado ao seu lord.\r\nUm mercenário atraente.|----|Un atractivo espadachín y agente\r\ndel duque de Ghor. Su lealtad está\r\nfuera de toda duda.
+An agent of the Duke of Ghor,\r\nand fully dedicated to his lord.\r\nAn attractive swordsman.|----|Um agente do Duque de Ghor,\r\nmuito leal e dedicado ao seu senhor.\r\nUm mercenário atraente.|----|Un atractivo espadachín y agente\r\ndel duque de Ghor. Su lealtad está\r\nfuera de toda duda.
 
-An agent of the Duke of Ghor,\r\nand fully dedicated to his lord.\r\nSerious and driven.|----|Um agente do Duque de Ghor,\r\ne totalmente dedicado ao seu lord.\r\nSério e focado.|----|Un agente del duque de Ghor sumamente\r\nserio y responsable. Su lealtad está\r\nfuera de toda duda.
+An agent of the Duke of Ghor,\r\nand fully dedicated to his lord.\r\nSerious and driven.|----|Um agente do Duque de Ghor,\r\nmuito leal e dedicado ao seu senhor.\r\nSério e responsável.|----|Un agente del duque de Ghor sumamente\r\nserio y responsable. Su lealtad está\r\nfuera de toda duda.
 
 City Location Dummy|----|City Location Dummy|----|Ciudades
 
-(REPETIDO)Please select a destination.|----|Por favor, selecione o destino.|----|Elige dónde deseas ir.
+(REPETIDO)Please select a destination.|----|Selecione um destino.|----|Elige dónde deseas ir.
 
 Return to World Map|----|Voltar ao Mapa do Mundo|----|Volver al mapa del mundo
 
-A quaint, bustling street leading from the main gate to the town square. It is lined with shops for the people of the town to enjoy.|----|Uma pitoresca e movimentada rua que leva do portão principal à praça da cidade. Nela encontram-se lojas para o deleite da população local.|----|Una calle bulliciosa y pintoresca que lleva desde la entrada principal hasta la plaza Mayor. Está repleta de tiendas donde se reúnen los habitantes de la ciudad.
+A quaint, bustling street leading from the main gate to the town square. It is lined with shops for the people of the town to enjoy.|----|Uma rua movimentada e pitoresca que leva do portão principal à praça da cidade. Está repleta de lojas onde se reúnem os habitantes da cidade.|----|Una calle bulliciosa y pintoresca que lleva desde la entrada principal hasta la plaza Mayor. Está repleta de tiendas donde se reúnen los habitantes de la ciudad.
 
-Many travelers visit this open area in front of Athlum Castle just for a look at the Valeria Heart.|----|Muitos viajantes visitam o espaço aberto em frente ao Castelo de Athlum apenas para apreciar o Coração Valente.|----|Muchos viajeros visitan esta gran plaza situada frente al Castillo de Athlum sólo para contemplar el Corazón Valeroso.
+Many travelers visit this open area in front of Athlum Castle just for a look at the Valeria Heart.|----|Muitos viajantes visitam essa grande praça, situada em frente ao Castelo de Athlum, só para contemplar o Coração Valente.|----|Muchos viajeros visitan esta gran plaza situada frente al Castillo de Athlum sólo para contemplar el Corazón Valeroso.
 
-Many townspeople gather in this residential district. The latest gossip is always available.|----|Muitos habitantes se reúnem neste distrito residencial. Por aqui há sempre novos rumores...|----|Muchos habitantes de la ciudad suelen reunirse en este barrio residencial. Es un lugar ideal para ponerse al día sobre los últimos cotilleos.
+Many townspeople gather in this residential district. The latest gossip is always available.|----|Muitos habitantes da cidade se reúnem nesse bairro residencial. É um lugar ideal para ficar sabendo das últimas novidades.|----|Muchos habitantes de la ciudad suelen reunirse en este barrio residencial. Es un lugar ideal para ponerse al día sobre los últimos cotilleos.
 
-With the Valeria Heart directly in its sight, this castle was once a stronghold during times of war.|----|Com o Coração Valente diretamente na mira, este castelo tornou-se uma fortaleza em tempos de guerra.|----|Este castillo dominado por el Corazón Valeroso fue una antigua fortaleza en tiempos de guerra.
+With the Valeria Heart directly in its sight, this castle was once a stronghold during times of war.|----|Esse castelo, dominado pelo Coração Valente, foi uma antiga fortaleza em tempos de guerra.|----|Este castillo dominado por el Corazón Valeroso fue una antigua fortaleza en tiempos de guerra.
 
-The Brimuslabus looks down upon this pastoral town, a gathering spot for people from neighboring settlements.|----|O Brimuslabus contempla esta cidade pastoral, que serve como um ponto de encontro para assentamentos vizinhos.|----|El Brimuslabus preside esta bucólica ciudad, donde se reúnen los habitantes de los asentamientos vecinos.
+The Brimuslabus looks down upon this pastoral town, a gathering spot for people from neighboring settlements.|----|O Brimuslabus protege essa bucólica cidade, onde se reúnem os habitantes dos assentamentos vizinhos.|----|El Brimuslabus preside esta bucólica ciudad, donde se reúnen los habitantes de los asentamientos vecinos.
 
-A simple but practical manor, the administrators of Baaluk use this building to conduct their business.|----|Embora simples, esta mansão é utilizada pelos administradores de Baaluk para fins comerciais.|----|Una mansión sencilla pero práctica que utilizan los administradores de Baaluk para sus negocios.
+A simple but practical manor, the administrators of Baaluk use this building to conduct their business.|----|Uma mansão simples mas prática, utilizada pelos administradores de Baaluk para conduzir seus negócios.|----|Una mansión sencilla pero práctica que utilizan los administradores de Baaluk para sus negocios.
 
-This sprawling boulevard runs down the middle of town. It is lined with shops on both east and west sides.|----|Esta extensa avenida, enfileirada com lojas por ambos os lados, desce até o centro da cidade.|----|Esta larga avenida atraviesa la ciudad de punta a punta y cuenta con numerosas tiendas a ambos lados.
+This sprawling boulevard runs down the middle of town. It is lined with shops on both east and west sides.|----|Essa extensa avenida atravessa a cidade de ponta a ponta e conta com numerosas lojas de ambos os lados.|----|Esta larga avenida atraviesa la ciudad de punta a punta y cuenta con numerosas tiendas a ambos lados.
 
-The glow of the Remnant Umbermarici defines this residential area. Many of the residents are very familiar with the area, as most have been here since birth.|----|A incandescência do Remanescente Umbermarici representa esta área residencial. Muitos de seus moradores nasceram aqui e, portanto, a conhecem bem.|----|El suave resplandor del Umbermarici caracteriza a esta zona residencial. La mayoría de sus habitantes conocen bien el lugar, ya que han vivido aquí toda su vida.
+The glow of the Remnant Umbermarici defines this residential area. Many of the residents are very familiar with the area, as most have been here since birth.|----|O brilho suave do Remanescente Umbermarici caracteriza essa área residencial. A maioria dos seus habitantes conhecem bem o lugar, já que viveram aqui durante toda sua vida.|----|El suave resplandor del Umbermarici caracteriza a esta zona residencial. La mayoría de sus habitantes conocen bien el lugar, ya que han vivido aquí toda su vida.
 
-A castle built in the Celapaleian style. The cracked earth creates the illusion of a floating palace.|----|Um castelo construído ao estilo de Celapaleian. A terra rachada cria a ilusão de ser um palácio flutuante.|----|Un castillo diseñado con el estilo característico de Celapalais. Las grietas del suelo hacen que parezca estar flotando en el aire.
+A castle built in the Celapaleian style. The cracked earth creates the illusion of a floating palace.|----|Um castelo construído ao estilo característico de Celapalais. As rachaduras do solo fazem com que pareça estar flutuando no ar.|----|Un castillo diseñado con el estilo característico de Celapalais. Las grietas del suelo hacen que parezca estar flotando en el aire.
 
-For centuries, pilgrims and wanderers alike have considered this promenade the gateway to the many temples of this holy city.|----|Durante séculos, peregrinos e andarilhos consideraram este caminho a passagem para os diversos templos desta cidade sagrada.|----|Numerosos peregrinos y trotamundos han recorrido esta avenida a lo largo de los siglos para visitar los templos de esta ciudad sagrada.
+For centuries, pilgrims and wanderers alike have considered this promenade the gateway to the many temples of this holy city.|----|Durante séculos, peregrinos e andarilhos tem recorrido a essa avenida para visitar os diversos templos dessa cidade sagrada.|----|Numerosos peregrinos y trotamundos han recorrido esta avenida a lo largo de los siglos para visitar los templos de esta ciudad sagrada.
 
-Temples honoring the Sacred Lands line the streets of this most historic of districts. Many who seek spiritual aid reside here.|----|Diversos templos erguidos em reverência às Terras Sagradas encontram-se neste histórico distrito. Muitos daqueles que buscam por ajuda espiritual moram aqui.|----|Las calles de este vecindario están salpicadas de templos erigidos en honor a las Tierras Sagradas. Muchos acuden aquí en busca de paz espiritual.
+Temples honoring the Sacred Lands line the streets of this most historic of districts. Many who seek spiritual aid reside here.|----|As ruas desse distrito histórico estão repletas de templos erguidos em reverência às Terras Sagradas. Muitos vem aqui em busca de paz espiritual.|----|Las calles de este vecindario están salpicadas de templos erigidos en honor a las Tierras Sagradas. Muchos acuden aquí en busca de paz espiritual.
 
-A commercial area found in the newer section of town. Rare merchandise and information can be found here.|----|Uma área comercial encontra-se na nova seção da cidade. Raras mercadorias e informações podem ser encontradas nela.|----|Un barrio comercial situado en el casco nuevo. Es un lugar ideal para conseguir información y mercancías exóticas.
+A commercial area found in the newer section of town. Rare merchandise and information can be found here.|----|Um bairro comercial situado na parte nova da cidade. É um lugar ideal para conseguir informação e mercadorias exóticas.|----|Un barrio comercial situado en el casco nuevo. Es un lugar ideal para conseguir información y mercancías exóticas.
 
-Many important facilities are housed in this district located directly beneath the Sacred Lands.|----|Importantes instalações estão situadas neste distrito abaixo das Terras Sagradas.|----|Este barrio situado debajo de las Tierras Sagradas cuenta con numerosos edificios importantes.
+Many important facilities are housed in this district located directly beneath the Sacred Lands.|----|Esse bairro situado abaixo das Terras Sagradas conta com diversos edifícios importantes.|----|Este barrio situado debajo de las Tierras Sagradas cuenta con numerosos edificios importantes.
 
-A town built at the foot of an old fortress, founded as merchants relocated to service the soldiers stationed there.|----|Uma cidade construída rente a esta antiga fortaleza foi fundada por comerciantes à serviço dos soldados alí sediados.|----|Un grupo de mercaderes fundó esta población a los pies de una antigua fortificación para abastecer a los soldados allí guarnecidos.
+A town built at the foot of an old fortress, founded as merchants relocated to service the soldiers stationed there.|----|Um grupo de mercadores fundou essa cidade, aos pés de uma antiga fortaleza, para abastecer os soldados ali guarnecidos.|----|Un grupo de mercaderes fundó esta población a los pies de una antigua fortificación para abastecer a los soldados allí guarnecidos.
 
-A castle which also doubles as a stronghold. Its exterior is interesting, as it has the appearance of both.|----|Um castelo que parece até uma fortaleza. A área externa é deveras intrigante, visto que apresenta a aparência tanto de um quanto de outro.|----|Un castillo que también sirve como fortaleza. Su aspecto exterior es interesante, ya que incorpora elementos de ambos tipos de edificios.
+A castle which also doubles as a stronghold. Its exterior is interesting, as it has the appearance of both.|----|Um castelo que também serve como fortaleza. Seu aspecto exterior é deveras intrigante, visto que incorpora elementos de ambos os tipos de edifícios.|----|Un castillo que también sirve como fortaleza. Su aspecto exterior es interesante, ya que incorpora elementos de ambos tipos de edificios.
 
-The streets of this town are made of wooden planks, showing a uniqueness that proves its isolation from other areas.|----|As ruas desta cidade são feitas de tábuas de madeira, o que revela sua singularidade e isolamento perante ao resto do mundo.|----|Las calles de esta ciudad, construidas con tablones de madera, delatan su originalidad y su aislamiento del resto del mundo.
+The streets of this town are made of wooden planks, showing a uniqueness that proves its isolation from other areas.|----|As ruas dessa cidade foram construídas com tábuas de madeira, o que revela sua singularidade e isolamento do resto do mundo.|----|Las calles de esta ciudad, construidas con tablones de madera, delatan su originalidad y su aislamiento del resto del mundo.
 
-A humble castle built within nature, it is also the residence of the Lord of Melphina.|----|Um humilde castelo construído em meio a natureza em que reside o Senhor de Melphina.|----|Un humilde castillo en plena naturaleza que sirve como residencia al señor de Melphina.
+A humble castle built within nature, it is also the residence of the Lord of Melphina.|----|Um humilde castelo construído em meio à natureza, e que serve de residência ao senhor de Melphina.|----|Un humilde castillo en plena naturaleza que sirve como residencia al señor de Melphina.
 
-A large sluice doubles as the gate to this town.|----|Uma larga eclusa que serve como portão para a cidade.|----|Una presa de grandes dimensiones que sirve como entrada a la ciudad.
+A large sluice doubles as the gate to this town.|----|Uma enorme eclusa que serve como entrada para a cidade.|----|Una presa de grandes dimensiones que sirve como entrada a la ciudad.
 
-Many people live in this residential district, which has a relaxing atmosphere. Travelers often stop by this area.|----|Muitas pessoas moram neste harmonioso distrito residencial. Viajantes param por aqui com frequência.|----|Un barrio residencial muy tranquilo. Además de ser el hogar de mucha gente, es un lugar de paso habitual para los viajeros.
+Many people live in this residential district, which has a relaxing atmosphere. Travelers often stop by this area.|----|Muitas pessoas vivem nesse tranquilo bairro residencial. Viajantes passam por aqui com bastante frequência.|----|Un barrio residencial muy tranquilo. Además de ser el hogar de mucha gente, es un lugar de paso habitual para los viajeros.
 
-Many facilities and shops line the streets of this district filled with people, from merchants to travelers from other towns.|----|Muitas instalações e lojas aglomeram-se neste distrito povoado por mercadores e viajantes.|----|Un barrio lleno de edificios y tiendas, cuyas calles siempre están llenas de mercaderes y viajeros procedentes de otras ciudades.
+Many facilities and shops line the streets of this district filled with people, from merchants to travelers from other towns.|----|Um bairro cheio de lojas e edifícios, cujas ruas estão sempre cheias de mercadores e viajantes procendentes de outras cidades.|----|Un barrio lleno de edificios y tiendas, cuyas calles siempre están llenas de mercaderes y viajeros procedentes de otras ciudades.
 
-The Gwayn perches protectively over this old castle. The castle wings are named after flowers.|----|O Gwayn empoleira-se protetoramente sobre esse velho castelo, cujas alas foram nomeadas com nome de flores.|----|El Gwayn otorga su protección a este castillo, cuyas alas reciben el nombre de flores silvestres.
+The Gwayn perches protectively over this old castle. The castle wings are named after flowers.|----|O Gwayn outorga sua proteção a esse antigo castelo, cujas alas recebem o nome de flores silvestres.|----|El Gwayn otorga su protección a este castillo, cuyas alas reciben el nombre de flores silvestres.
 
-This district is filled with all kinds\Tfrom dangerous people to travelers just passing through.|----|Neste distrito há pessoas de todos os tipos, desde as mais perigosas até simples viajantes.|----|En este barrio se puede encontrar a gente de todo tipo, desde sujetos más bien poco amistosos a viajeros de paso.
+This district is filled with all kinds\Tfrom dangerous people to travelers just passing through.|----|Nesse bairro é possível encontrar gente de todo tipo, desde pessoas perigosas até viajantes de passagem pela cidade.|----|En este barrio se puede encontrar a gente de todo tipo, desde sujetos más bien poco amistosos a viajeros de paso.
 
-This castle stands as though it looks upon the entire town. It was recently rebuilt after one of the lookout towers collapsed in an earthquake.|----|Este castelo eleva-se a ponto de parecer encarar toda a cidade. Recentemente, foi restaurado devida a queda de um dos seus mirantes em um terremoto.|----|Desde este castillo se domina toda la ciudad. Hace poco que fue reconstruido, ya que una de las torres se desplomó a causa de un terremoto.
+This castle stands as though it looks upon the entire town. It was recently rebuilt after one of the lookout towers collapsed in an earthquake.|----|A partir desse castelo é possível observar toda a cidade. Faz pouco tempo que ele foi reformado, devido à queda de uma das torres de vigília durante um terremoto.|----|Desde este castillo se domina toda la ciudad. Hace poco que fue reconstruido, ya que una de las torres se desplomó a causa de un terremoto.
 
-Many travelers visit this corridor, which has a great view of the Harmonium.|----|Muitos viajantes visitam esse corredor, o qual proporciona uma bela visão do Harmonium.|----|Este lugar es una visita obligada para cualquier viajero, ya que ofrece una excelente vista del Harmonio.
+Many travelers visit this corridor, which has a great view of the Harmonium.|----|Esse lugar é um ponto de visita obrigatório para qualquer viajante, visto que oferece uma excelente vista do Harmonium.|----|Este lugar es una visita obligada para cualquier viajero, ya que ofrece una excelente vista del Harmonio.
 
-These streets were once lined with workshops of craftsmen working for the God Emperor. Even today, the merchandise offered here is of the highest quality.|----|Estas ruas já foram repletas de oficinas de artesãos que trabalhavam para o Imperador Celestial. Ainda hoje as mercadorias daqui são consideradas as de melhor qualidade.|----|Antiguamente, estas calles acogían los talleres de los artesanos que trabajaban para el Emperador celestial. Aún hoy en día, los productos que se venden siguen siendo de la mejor calidad.
+These streets were once lined with workshops of craftsmen working for the God Emperor. Even today, the merchandise offered here is of the highest quality.|----|Essas ruas já foram repletas de oficinas de artesãos que trabalhavam para o Imperador Celestial. Ainda hoje as mercadorias aqui vendidas continuam sendo da melhor qualidade.|----|Antiguamente, estas calles acogían los talleres de los artesanos que trabajaban para el Emperador celestial. Aún hoy en día, los productos que se venden siguen siendo de la mejor calidad.
 
-Built to represent the God Emperor's prestige, this was known to be the greatest castle of its time.|----|Construído a fim de representar a influência do Imperador Celestial, este foi o mais grandioso castelo da época.|----|Este castillo se construyó para reflejar el prestigio del Emperador celestial. En su momento fue el más grande del mundo.
+Built to represent the God Emperor's prestige, this was known to be the greatest castle of its time.|----|Esse castelo foi construído para representar o prestígio do Imperador Celestial. Na sua época, ficou conhecido como sendo o mais grandioso castelo.|----|Este castillo se construyó para reflejar el prestigio del Emperador celestial. En su momento fue el más grande del mundo.
 
-Many merchants handle their trade business in this district before heading back to their homeland.|----|Muitos comerciantes ocuparam-se com seus negócios neste distrito antes de retornarem às suas terras natais. |----|Muchos mercaderes llevan a cabo sus negocios en este distrito antes de regresar a su tierra natal.
+Many merchants handle their trade business in this district before heading back to their homeland.|----|Muitos comerciantes levam a cabo seus negócios nesse distrito, antes de retornarem à sua terra natal.|----|Muchos mercaderes llevan a cabo sus negocios en este distrito antes de regresar a su tierra natal.
 
-This district was built around an underground oasis, which provides the town with its blessing. Rarities from the southwestern area of the continent are often found here.|----|Este distrito foi construído entorno de um oásis subterrâneo, o qual proporciona à cidade suas bênçãos. Raridades da parte sudoeste do continente são frequentemente encontradas aqui.|----|Este distrito ha prosperado gracias al oasis que se encuentra bajo su superficie. Es el mejor lugar para conseguir artículos exóticos procedentes del suroeste del continente.
+This district was built around an underground oasis, which provides the town with its blessing. Rarities from the southwestern area of the continent are often found here.|----|Esse distrito prosperou graças ao oásis que se encontra embaixo da sua superfície. É o melhor lugar para conseguir artigos exóticos procedentes da parte sudoeste do continente.|----|Este distrito ha prosperado gracias al oasis que se encuentra bajo su superficie. Es el mejor lugar para conseguir artículos exóticos procedentes del suroeste del continente.
 
-The Lords of Balterossa, administrators of the underground water supply, now reside in this castle. It was formerly the home of the town's guild leader.|----|Os Senhores de Balterossa, administradores do aquífero subterrâneo, residem no castelo atualmente. Anteriormente, esta havia sido a casa da guilda líder da cidade.|----|Los señores de Balterossa, que administran el acuífero subterráneo, habitan en este castillo. Anteriormente era la residencia del líder del gremio local.
+The Lords of Balterossa, administrators of the underground water supply, now reside in this castle. It was formerly the home of the town's guild leader.|----|Os senhores de Balterossa, que administram o aquífero subterrâneo, residem nesse castelo. Antigamente essa era a residência do líder da guilda local.|----|Los señores de Balterossa, que administran el acuífero subterráneo, habitan en este castillo. Anteriormente era la residencia del líder del gremio local.
 
-Although the Catacombs are no longer in use, some say screams can be heard from within.|----|Embora as Catacumbas não estejam em uso, alguns dizem que pode-se ouvir gritos advindos de seu interior.|----|Aunque las Catacumbas ya no están en uso, hay quien dice que en ocasiones se oyen gritos procedentes de su interior.
+Although the Catacombs are no longer in use, some say screams can be heard from within.|----|Embora as Catacumbas não estejam mais em uso, há quem diga que gritos podem ser ouvidos do seu interior.|----|Aunque las Catacumbas ya no están en uso, hay quien dice que en ocasiones se oyen gritos procedentes de su interior.
 
-(REPETIDO)An abandoned acropolis that has long fallen into disrepair. It's said that wandering souls haunt the area, beckoning thieves and monsters.|----|Uma acrópole abandonada da qual restam apenas ruínas. Dizem que serve de refúgio às almas penadas, que se dedicam a atrair monstros e ladrões.|----|Una fortaleza abandonada de la que apenas quedan algunas ruinas. Dicen que está invadida por almas en pena que se dedican a atraer a monstruos y ladrones.
+(REPETIDO)An abandoned acropolis that has long fallen into disrepair. It's said that wandering souls haunt the area, beckoning thieves and monsters.|----|Uma fortaleza abandonada da qual restam apenas ruínas. Dizem que serve de refúgio a almas penadas, que se dedicam a atrair monstros e ladrões.|----|Una fortaleza abandonada de la que apenas quedan algunas ruinas. Dicen que está invadida por almas en pena que se dedican a atraer a monstruos y ladrones.
 
-(REPETIDO)The longest waterway in the world. Running mostly through narrow, underground caverns, it is off-limits to most.|----|O mais extenso fluvial no mundo, repleto de estreitas e submersas cavernas, é para muitos inacessível.|----|Se trata de la canalización más grande del mundo. Sus estrechos túneles discurren bajo tierra y sólo unos pocos tienen acceso a ellos.
+(REPETIDO)The longest waterway in the world. Running mostly through narrow, underground caverns, it is off-limits to most.|----|A mais extensa canalização do mundo. Seus túneis estreitos correm por debaixo da terra, e somente algumas poucas pessoas tem acesso a eles.|----|Se trata de la canalización más grande del mundo. Sus estrechos túneles discurren bajo tierra y sólo unos pocos tienen acceso a ellos.
 
 item help dummy|----|item help dummy|----|Ayuda: objetos
 
@@ -8496,127 +8496,127 @@ A captured Mercurius.\r\nIt can be sold at a high price\r\nand the taste is inde
 
 LOCATION DUMMY|----|LOCATION DUMMY|----|Ubicaciones
 
-(REPETIDO)Please select a destination.|----|Por favor, selecione um destino.|----|Elige dónde deseas ir.
+(REPETIDO)Please select a destination.|----|Selecione um destino.|----|Elige dónde deseas ir.
 
-Home of the Congress and the Sacred Lands, Elysion is generally considered the heart of the continent. Its long history gives it a unique flavor, both modern and historic.|----|Lar do Congresso e das Terras sagradas, Elysion é geralmente considerada o coração do continente. Sua longa história lhe dá um aroma único, tanto moderno quanto histórico.|----|Elysion, hogar del Consejo y de las Tierras Sagradas, suele considerarse como el corazón del continente. Su ilustre historia la convierte en una ciudad única, moderna a la par que tradicional.
+Home of the Congress and the Sacred Lands, Elysion is generally considered the heart of the continent. Its long history gives it a unique flavor, both modern and historic.|----|Lar do Conselho e das Terras Sagradas, Elysion é geralmente considerada como sendo o coração do continente. Sua longa história faz dela uma cidade única, tanto moderna quanto histórica.|----|Elysion, hogar del Consejo y de las Tierras Sagradas, suele considerarse como el corazón del continente. Su ilustre historia la convierte en una ciudad única, moderna a la par que tradicional.
 
-A bustling metropolis protected by the Remnant Gwayn. Canals are found everywhere due to flood control measures.|----|Uma agitada metrópole protegida pelo Remanescente Gwayn. Canais são encontrados por toda parte como medidas para controlar as inundações.|----|Una bulliciosa metrópolis protegida por la reliquia Gwayn. Cuenta con numerosos canales para protegerla de las inundaciones.
+A bustling metropolis protected by the Remnant Gwayn. Canals are found everywhere due to flood control measures.|----|Uma movimentada metrópole protegida pelo Remanescente Gwayn. Canais são encontrados por toda parte como medida para protegê-la das inundações.|----|Una bulliciosa metrópolis protegida por la reliquia Gwayn. Cuenta con numerosos canales para protegerla de las inundaciones.
 
-For 1000 years this town has been the seat of the God Emperor. However, today it holds only a shadow of its former grandeur.|----|Por 1000 anos esta cidade foi o lar do Imperador Celestial. No entanto, hoje ela não passa de uma sombra de sua antiga grandeza.|----|Pese a ser la residencia del Emperador celestial desde hace un millar de años, en la actualidad esta ciudad no es más que una sombra de su gloria pasada.
+For 1000 years this town has been the seat of the God Emperor. However, today it holds only a shadow of its former grandeur.|----|Durante mil anos essa cidade foi o lar do Imperador Celestial. No entanto, hoje ela não passa de uma sombra de sua antiga grandeza.|----|Pese a ser la residencia del Emperador celestial desde hace un millar de años, en la actualidad esta ciudad no es más que una sombra de su gloria pasada.
 
-A proud city ruled by David Nassau. Positioned at the outskirts of Celapaleis, it has become known as Celapaleis's first line of defense.|----|Uma orgulhosa cidade governada por David Nassau. Posicionada nos arredores de Celapaleis, se tornou conhecida como a primeira linha de defesa de Celapaleis.|----|Una orgullosa ciudad gobernada por David Nassau. Está situada en los límites de Celapalais y es conocida como la primera línea de defensa de los dominios del duque de Qubine.
+A proud city ruled by David Nassau. Positioned at the outskirts of Celapaleis, it has become known as Celapaleis's first line of defense.|----|Uma orgulhosa cidade governada por David Nassau. Está situada nos arredores de Celapaleis e se tornou conhecida como a primeira linha de defesa dos domínios do duque de Qubine.|----|Una orgullosa ciudad gobernada por David Nassau. Está situada en los límites de Celapalais y es conocida como la primera línea de defensa de los dominios del duque de Qubine.
 
-The capital of Celapaleis. This town has a modern air that is seen in few others.|----|A capital de Celapaleis. Esta cidade possui um ar moderno que se encontra em poucos lugares.|----|La capital del ducado de Qubine. Una ciudad que destaca por su modernidad sin parangón.
+The capital of Celapaleis. This town has a modern air that is seen in few others.|----|A capital de Celapaleis. Uma cidade que se destaca pela sua modernidade, algo que se encontra em poucos outros lugares.|----|La capital del ducado de Qubine. Una ciudad que destaca por su modernidad sin parangón.
 
-The Duke of Ghor rules over this town that shares its borders with the main powers of the world.|----|O Duque de Ghor governa esta cidade, a qual faz fronteira com as principais forças do mundo.|----|El duque de Ghor gobierna esta ciudad, que comparte fronteras con los países más poderosos del mundo.
+The Duke of Ghor rules over this town that shares its borders with the main powers of the world.|----|O Duque de Ghor governa esta cidade, que faz fronteira com os países mais poderosos do mundo.|----|El duque de Ghor gobierna esta ciudad, que comparte fronteras con los países más poderosos del mundo.
 
-One of the three great leading towns of the worldwide economy, it is also called the Sand Sea Gate, as it controls all trade through the Great Sand Sea.|----|Uma das três grandes principais cidades da economia mundial, é também chamada de Sand Sea Gate, já que controla todo o comércio do Grande Oceano de Areia.|----|Una de las tres potencias comerciales más importantes del mundo. También se la conoce como «Puerta del Desierto», ya que controla el tránsito de mercancías por el Océano de Arena.
+One of the three great leading towns of the worldwide economy, it is also called the Sand Sea Gate, as it controls all trade through the Great Sand Sea.|----|Uma das três principais cidades da economia mundial, é também conhecida como a Porta do Deserto, já que controla todo o trânsito de mercadorias pelo Grande Oceano de Areia.|----|Una de las tres potencias comerciales más importantes del mundo. También se la conoce como «Puerta del Desierto», ya que controla el tránsito de mercancías por el Océano de Arena.
 
-A scholarly town surrounded by trees and streams. An archaic knightly order exists side-by-side with some of the most forward-thinking scholars in the world.|----|Uma cidade acadêmica cercada por árvores e riachos. Uma arcaica ordem de cavaleiros existe lado a lado com alguns dos estudiosos mais visionários do mundo.|----|Una ciudad de intelectuales rodeada de árboles y manantiales. En sus calles conviven una antigua orden de caballeros y los pensadores más vanguardistas del mundo.
+A scholarly town surrounded by trees and streams. An archaic knightly order exists side-by-side with some of the most forward-thinking scholars in the world.|----|Uma cidade de intelectuais rodeada por árvores e riachos. Em suas ruas convivem uma antiga ordem de cavaleiros e os pensadores mais visionários do mundo.|----|Una ciudad de intelectuales rodeada de árboles y manantiales. En sus calles conviven una antigua orden de caballeros y los pensadores más vanguardistas del mundo.
 
-This ancient mining town flourished after commencing trade with Balterossa. It is now known throughout the world.|----|A antiga cidade mineradora prosperou após abrir comércio com Balterossa. Agora é conhecida em todo o mundo.|----|Esta antigua ciudad minera prosperó gracias al comercio con Balterossa. Actualmente es famosa en todo el mundo.
+This ancient mining town flourished after commencing trade with Balterossa. It is now known throughout the world.|----|Essa antiga cidade mineradora prosperou graças ao comércio com Balterossa. Agora é conhecida em todo o mundo.|----|Esta antigua ciudad minera prosperó gracias al comercio con Balterossa. Actualmente es famosa en todo el mundo.
 
-It is said that ancient deities beckoned people to start a town in this land, far from civilization. This town is quite nondescript and has little local flavor to offer.|----|Dizem que antigas divindades convocaram as pessoas para começarem uma cidade nesta terra, longe da civilização. Esta cidade não possui nada de marcante e tem pouco a oferecer.|----|Se dice que esta antigua ciudad fue fundada bajo las órdenes de los dioses. Se trata de un lugar alejado de la civilización y carente de características particulares.
+It is said that ancient deities beckoned people to start a town in this land, far from civilization. This town is quite nondescript and has little local flavor to offer.|----|Dizem que antigas divindades convocaram as pessoas para construir uma cidade nesse lugar, longe da civilização. Essa cidade não possui nada de especial e tem muito pouco a oferecer.|----|Se dice que esta antigua ciudad fue fundada bajo las órdenes de los dioses. Se trata de un lugar alejado de la civilización y carente de características particulares.
 
-Long ago this area was home to a bustling village, blessed with fertile soil by the Remnant Rubber Soul.|----|Há muito tempo, esta área era o lar de um movimentado vilarejo, agraciado com solo fértil pelo Remanescente Almelástica.|----|Hace tiempo se alzaba en este lugar una bulliciosa aldea cuyas tierras gozaban de una gran fertilidad gracias a la bendición del Almalástica.
+Long ago this area was home to a bustling village, blessed with fertile soil by the Remnant Rubber Soul.|----|Há muito tempo atrás se encontrava nesse lugar um movimentado vilarejo, cujas terras gozavam de uma grande fertilidade, graças à benção concedida pelo Remanescente Almelástica.|----|Hace tiempo se alzaba en este lugar una bulliciosa aldea cuyas tierras gozaban de una gran fertilidad gracias a la bendición del Almalástica.
 
-Large trees with thick trunks make up this dense forest. Many who wander in are never seen again. Despite its name, it is a place filled with much color.|----|Grandes árvores com troncos grossos formam esta densa floresta. Muitos que entraram nela nunca mais foram vistos. Apesar de seu nome, é um lugar bem colorido.|----|Un frondoso bosque formado por grandes árboles de troncos gigantescos. Pese a su idílico aspecto, muchos han desaparecido al intentar atravesarlo.
+Large trees with thick trunks make up this dense forest. Many who wander in are never seen again. Despite its name, it is a place filled with much color.|----|Uma densa floresta formada por grandes árvores de troncos gigantescos. Muitos que nela entraram nela nunca mais foram vistos. Apesar do seu nome, é um lugar que possui uma grande variedade de cores.|----|Un frondoso bosque formado por grandes árboles de troncos gigantescos. Pese a su idílico aspecto, muchos han desaparecido al intentar atravesarlo.
 
-Strong winds and waves speed the erosion of this seaside cliff. The atmosphere of the area changes every few decades from calm to stormy. It is currently in a time of calm.|----|Fortes ventos e ondas aceleram a erosão deste penhasco. A atmosfera da área muda de poucas em poucas décadas, da calmaria para tempestade. Neste momento está em uma época calma.|----|Un acantilado azotado por fuertes vientos y mareas. El clima de la zona cambia cada pocas décadas, alternando etapas tranquilas con fuertes tormentas. Ahora mismo, reina la calma...
+Strong winds and waves speed the erosion of this seaside cliff. The atmosphere of the area changes every few decades from calm to stormy. It is currently in a time of calm.|----|Um penhasco devastado pela erosão causada por fortes ventos e ondas marinhas. O clima da região muda a cada poucas décadas, alternando entre fases de calmaria e fortes tormentas. Nesse momento, reina a calmaria.|----|Un acantilado azotado por fuertes vientos y mareas. El clima de la zona cambia cada pocas décadas, alternando etapas tranquilas con fuertes tormentas. Ahora mismo, reina la calma...
 
-A massive castle wall built by an ancient Lord of Nagapur. It is often referred to as the Ramparts of Shame by those opposed to its existence.|----|Uma enorme muralha construída por um antigo Lorde de Nagapur. Ela é geralmente chamada de Ramparts of Shame por aqueles que se opõem à sua existência.|----|Una gigantesca fortificación construida por el antiguo señor de Nagapur. Quienes se oponen a su existencia suelen referirse a ella como «la Muralla de la Vergüenza».
+A massive castle wall built by an ancient Lord of Nagapur. It is often referred to as the Ramparts of Shame by those opposed to its existence.|----|Uma enorme fortificação construída pelo antigo senhor de Nagapur. Aqueles que se opõem à sua existência se referem a ela como as Muralhas da Vergonha.|----|Una gigantesca fortificación construida por el antiguo señor de Nagapur. Quienes se oponen a su existencia suelen referirse a ella como «la Muralla de la Vergüenza».
 
-An old trade route that connects Elysion and Celapaleis. It runs along a luminescent limestone cliff.|----|Uma antiga rota comercial que conecta Elysion e Celapaleis. Ela passa por um penhasco de calcário luminescente.|----|Una antigua ruta comercial entre Elysion y Celapalais que recorre un acantilado luminiscente de roca caliza.
+An old trade route that connects Elysion and Celapaleis. It runs along a luminescent limestone cliff.|----|Uma antiga rota comercial entre Elysion e Celapaleis. Ela passa por um penhasco de calcário luminescente.|----|Una antigua ruta comercial entre Elysion y Celapalais que recorre un acantilado luminiscente de roca caliza.
 
-The highest mountain peak of the land, legend claims that a divine figure resides here. The rough path to get to the top is said to be a test to weed out the unworthy.|----|O pico mais alto desta terra, as lendas dizem que um ser divino reside aqui. Dizem que o árduo caminho para chegar ao topo é um teste para eliminar aqueles que não são dignos.|----|La cumbre más alta de la región, donde se dice que habita un ente celestial. Los peligros de la ruta que lleva hasta la cima se encargan de hacer desistir a quienes no son dignos de contemplarla.
+The highest mountain peak of the land, legend claims that a divine figure resides here. The rough path to get to the top is said to be a test to weed out the unworthy.|----|O pico mais alto da região, onde segundo as lendas é habitado por um ser divino. Dizem que os perigos do caminho que leva até o topo se encarregam de fazer desistir todos aqueles que não são dignos de contemplá-la.|----|La cumbre más alta de la región, donde se dice que habita un ente celestial. Los peligros de la ruta que lleva hasta la cima se encargan de hacer desistir a quienes no son dignos de contemplarla.
 
-A moor created by the melting snow from Mt. Vackel. The cold water halts the growth of vegetation and even the neighboring forests.|----|Um pântano criado pela neve derretida do Monte Vackel. A água fria impede o crescimento da vegetação e até mesmo das florestas vizinhas.|----|Un pantano creado por el deshielo del monte Vackel. La baja temperatura del agua impide el crecimiento de la vegetación e incluso afecta a los bosques cercanos.
+A moor created by the melting snow from Mt. Vackel. The cold water halts the growth of vegetation and even the neighboring forests.|----|Um pântano criado pelo degelo do Monte Vackel. A baixa temperatura da água impede o crescimento da vegetação e afeta até mesmo as florestas nos seus arredores.|----|Un pantano creado por el deshielo del monte Vackel. La baja temperatura del agua impide el crecimiento de la vegetación e incluso afecta a los bosques cercanos.
 
-These highlands are found at the foot of Mt. Vackel. The name means Land of Beautiful Horses.|----|Estas terras se encontram aos pés do Monte Vackel. O nome significa Terra dos Belos Cavalos.|----|Esta zona está situada a los pies del monte Vackel. Su nombre significa «tierra de los grandes caballos».
+These highlands are found at the foot of Mt. Vackel. The name means Land of Beautiful Horses.|----|Essas terras estão situadas aos pés do Monte Vackel. Seu nome significa Terra dos Grandes Cavalos.|----|Esta zona está situada a los pies del monte Vackel. Su nombre significa «tierra de los grandes caballos».
 
-An important trade route running along the Dobraza Ravine. It's not a particularly safe road, but many use it to find that great deal.|----|Uma importante rota de comércio que passa pela Dobraza Ravine. Não é uma estrada particularmente segura, mas muitos a usam para conseguirem os melhores negócios.|----|Una ruta comercial de gran importancia que recorre el barranco de Dobraza. No es particularmente segura, pero es la forma más rápida de atravesar las montañas..
+An important trade route running along the Dobraza Ravine. It's not a particularly safe road, but many use it to find that great deal.|----|Uma rota comercial de grande importância que passa pelo desfiladeiro de Dobraza. Não é um caminho particularmente seguro, mas é a maneira mais rápida de atravessar as montanhas.|----|Una ruta comercial de gran importancia que recorre el barranco de Dobraza. No es particularmente segura, pero es la forma más rápida de atravesar las montañas..
 
-An enormous desert area that takes up a third of the continent. It is said that a great city existed here long ago.|----|Uma enorme área deserta que ocupa um terço do continente. Dizem que uma grande cidade existiu há muito tempo aqui.|----|Una gigantesca zona desértica que ocupa un tercio del continente. Se dice que aquí se alzaba una gran ciudad en tiempos remotos.
+An enormous desert area that takes up a third of the continent. It is said that a great city existed here long ago.|----|Uma enorme área de deserto que ocupa um terço do continente. Dizem que aqui se encontrava uma grande cidade, em tempos remotos.|----|Una gigantesca zona desértica que ocupa un tercio del continente. Se dice que aquí se alzaba una gran ciudad en tiempos remotos.
 
-The only path leading into Baaluk, it is said that an ancient deity split a mountain in two in order to lure people within.|----|O único caminho que leva até Baaluk, dizem que uma antiga divindade dividiu uma montanha em duas para levar as pessoas para dentro.|----|La única ruta que lleva a Baaluk. Se dice que una antigua divinidad partió la montaña en dos para atraer a los primeros habitantes del valle.
+The only path leading into Baaluk, it is said that an ancient deity split a mountain in two in order to lure people within.|----|O único caminho que leva até Baaluk. Dizem que uma antiga divindade partiu a montanha em duas para atrair os primeiros habitantes do vale.|----|La única ruta que lleva a Baaluk. Se dice que una antigua divinidad partió la montaña en dos para atraer a los primeros habitantes del valle.
 
-A large, lava-filled cavern leading to Royotia. It's dangerous, but less so than the mountain pass.|----|Uma grande caverna cheia de lava que leva até Royotia. É perigosa, mas não tanto quanto o desfiladeiro da montanha.|----|Una gran caverna que conduce a Royotia. Aunque está surcada por ríos de lava, es menos peligrosa que el paso de la montaña.
+A large, lava-filled cavern leading to Royotia. It's dangerous, but less so than the mountain pass.|----|Uma grande caverna que conduz a Royotia. Mesmo sendo atravessada por rios de lava, é ainda menos perigosa que o caminho da montanha.|----|Una gran caverna que conduce a Royotia. Aunque está surcada por ríos de lava, es menos peligrosa que el paso de la montaña.
 
-One of the last remaining parts of Wyrmskeep. It got its name from the cherry blossoms engraved in its ceiling\Tan adornment that can no longer be seen.|----|Uma das últimas partes restantes de Wyrmskeep. Recebeu o seu nome das flores de cerejeira entalhadas no seu enfeite de teto que não pode mais ser visto.|----|Uno de los últimos vestigios de Fordragón. Debía su nombre a los grabados de flores de cerezo que decoraban su bóveda, pero su belleza ya no es más que un recuerdo.
+One of the last remaining parts of Wyrmskeep. It got its name from the cherry blossoms engraved in its ceiling\Tan adornment that can no longer be seen.|----|Um dos últimos vestígios de Wyrmskeep. Recebeu seu nome devido às flores de cerejeira entalhadas no seu teto. Essa beleza, no entanto, agora não passa de uma lembrança.|----|Uno de los últimos vestigios de Fordragón. Debía su nombre a los grabados de flores de cerezo que decoraban su bóveda, pero su belleza ya no es más que un recuerdo.
 
-The late Baron Vonn d'Herouet once resided in this castle. Rumors pervade that there is a labyrinth below it, but they have yet to be confirmed.|----|O falecido Barão Vonn d'Herouet residiu neste castelo. Rumores dizem que há um labirinto abaixo dele, mas eles ainda precisam ser confirmados.|----|El difunto barón Von d'Herouet habitó en este castillo hace mucho tiempo. Corre el rumor de que existe un laberinto bajo los cimientos, pero nadie ha sido capaz de demostrarlo.
+The late Baron Vonn d'Herouet once resided in this castle. Rumors pervade that there is a labyrinth below it, but they have yet to be confirmed.|----|O falecido Barão Vonn d'Herouet viveu nesse castelo. Correm rumores de que existe um labirinto embaixo de suas fundações, mas esses rumores nunca foram confirmados.|----|El difunto barón Von d'Herouet habitó en este castillo hace mucho tiempo. Corre el rumor de que existe un laberinto bajo los cimientos, pero nadie ha sido capaz de demostrarlo.
 
-Many years ago, an enormous cavern was discovered during a series of earthquakes. It still has not been fully explored.|----|Muitos anos atrás, uma enorme caverna foi encontrada durante uma série de terremotos. Ainda não foi totalmente explorada.|----|Hace mucho tiempo, una serie de terremotos reveló la existencia de esta colosal caverna. Todavía no ha sido explorada por completo.
+Many years ago, an enormous cavern was discovered during a series of earthquakes. It still has not been fully explored.|----|Muitos anos atrás, uma série de terremotos revelou a existência dessa enorme caverna. No entanto, ela ainda não foi totalmente explorada.|----|Hace mucho tiempo, una serie de terremotos reveló la existencia de esta colosal caverna. Todavía no ha sido explorada por completo.
 
-A village that once flourished with the blessing of the Rubber Soul. All that's left today is the remains of an old monastery.|----|Uma vila que prosperou com a bênção do Almelástica. Tudo o que resta hoje são as ruínas de um antigo monastério.|----|Un pueblo que prosperó gracias a la protección del Almalástica. En la actualidad, lo único que queda en pie son las ruinas de un antiguo monasterio.
+A village that once flourished with the blessing of the Rubber Soul. All that's left today is the remains of an old monastery.|----|Um povoado que prosperou graças à proteção do Almelástica. Na atualidade, tudo que restou dali são as ruínas de um antigo monastério.|----|Un pueblo que prosperó gracias a la protección del Almalástica. En la actualidad, lo único que queda en pie son las ruinas de un antiguo monasterio.
 
-A network of caves that connects the torn earth of the region. As the caves steadily expand, so does the danger that the ground above may collapse at any time.|----|Uma rede de cavernas que conecta a terra despedaçada da região. À medida que as cavernas vão aumentando, o mesmo acontece com o perigo de que o solo acima possa desmoronar a qualquer momento.|----|Una red de cuevas que surcan el subsuelo de la región. A medida que se van extendiendo, las tierras de la superficie amenazan con venirse abajo de un momento a otro.
+A network of caves that connects the torn earth of the region. As the caves steadily expand, so does the danger that the ground above may collapse at any time.|----|Uma rede de cavernas que percorre o subsolo da região. À medida em que as cavernas vão se extendendo, aumenta o perigo de que as terras logo acima possam desmoronar a qualquer momento.|----|Una red de cuevas que surcan el subsuelo de la región. A medida que se van extendiendo, las tierras de la superficie amenazan con venirse abajo de un momento a otro.
 
-(REPETIDO)The longest waterway in the world. Running mostly through narrow, underground caverns, it is off-limits to most.|----|A maior hidrovia do mundo. Passando principalmente por cavernas estreitas e subterrâneas, está fora dos limites para a maioria.|----|Se trata de la canalización más grande del mundo. Sus estrechos túneles discurren bajo tierra y sólo unos pocos tienen acceso a ellos.
+(REPETIDO)The longest waterway in the world. Running mostly through narrow, underground caverns, it is off-limits to most.|----|A mais extensa canalização do mundo. Seus túneis estreitos correm por debaixo da terra, e somente algumas poucas pessoas tem acesso a eles.|----|Se trata de la canalización más grande del mundo. Sus estrechos túneles discurren bajo tierra y sólo unos pocos tienen acceso a ellos.
 
-Although this vacant morgue is no longer in use, some say screams can be heard from within.|----|Embora este necrotério vazio não esteja mais em uso, alguns dizem que gritos podem ser ouvidos de dentro dele.|----|Aunque este antiguo depósito de cadáveres ya no está en uso, se dice que en ocasiones se oyen gritos procedentes del interior.
+Although this vacant morgue is no longer in use, some say screams can be heard from within.|----|Embora esse antigo necrotério não esteja mais em uso, dizem que às vezes são ouvidos gritos procedentes do seu interior.|----|Aunque este antiguo depósito de cadáveres ya no está en uso, se dice que en ocasiones se oyen gritos procedentes del interior.
 
-A mysterious space inside the Remnant Elysion. It is said that time flows at a different pace within.|----|Um espaço misterioso dentro do Remanescente Elysion. Dizem que o tempo flui em uma velocidade diferente.|----|Un misterioso lugar situado en el interior de la reliquia de Elysion. Se dice que el tiempo fluye a una velocidad distinta en su interior.
+A mysterious space inside the Remnant Elysion. It is said that time flows at a different pace within.|----|Um lugar misterioso situado no interior do Remanescente de Elysion. Dizem que o tempo flui em uma velocidade diferente ali.|----|Un misterioso lugar situado en el interior de la reliquia de Elysion. Se dice que el tiempo fluye a una velocidad distinta en su interior.
 
-These tunnels have been inhabited by monsters for several hundred years, and it doesn't seem like they will be cleared out for practical use anytime soon.|----|Estes túneis servem de lar para monstros há séculos. Não parece que ninguém consiga limpá-los para pôr em uso prático em curto prazo.|----|Estos túneles han servido de hogar a los monstruos desde hace siglos. No parece probable que nadie pueda ponerlos en funcionamiento a corto plazo.
+These tunnels have been inhabited by monsters for several hundred years, and it doesn't seem like they will be cleared out for practical use anytime soon.|----|Esses túneis tem sido habitados por monstros durante centenas de anos, e não parece provável que alguém consiga colocá-los em funcionamento em curto prazo.|----|Estos túneles han servido de hogar a los monstruos desde hace siglos. No parece probable que nadie pueda ponerlos en funcionamiento a corto plazo.
 
-An enormous cave beneath the Great Sand Sea. Some believe the vestiges of a kingdom long lost to the desert remain here.|----|Uma gigantesca caverna que se entende sob o Grande Oceano de Areia. Muitos creem que é um vestígio de um antigo reino do deserto.|----|Una gigantesca cueva que se extiende bajo el Océano de Arena. Muchos creen que es un vestigio de un antiguo reino del desierto.
+An enormous cave beneath the Great Sand Sea. Some believe the vestiges of a kingdom long lost to the desert remain here.|----|Uma gigantesca caverna que se entende por debaixo do Grande Oceano de Areia. Muitos acreditam que elas são o vestígio de um antigo reino do deserto.|----|Una gigantesca cueva que se extiende bajo el Océano de Arena. Muchos creen que es un vestigio de un antiguo reino del desierto.
 
-It is said that many, many years ago, a creature known as the Yvalock inhabited this spot. Some refer to it as the Animate Cave.|----|É dito que há muito, muito tempo, uma criatura conhecida como Yvalock vivia neste local. Também é conhecida como Caverna Encantada.|----|Se dice que hace mucho, mucho tiempo, una criatura conocida como Ivalock vivía en este lugar. También se la conoce como la «Gruta Viviente».
+It is said that many, many years ago, a creature known as the Yvalock inhabited this spot. Some refer to it as the Animate Cave.|----|Dizem que há muito, muito tempo atrás, uma criatura conhecida como Yvalock habitava esse lugar. É também conhecido pelo nome de Caverna Encantada.|----|Se dice que hace mucho, mucho tiempo, una criatura conocida como Ivalock vivía en este lugar. También se la conoce como la «Gruta Viviente».
 
-This tower is said to be inhabited by the legendary Queen Flaumello. Some say that the tower does not exist and is merely a mirage shown by the queen.|----|É dito que esta torre é lar da lendária Rainha Flaumello. Dizem que, na realidade, a torre não existe: trata-se somente de uma miragem criada pela Rainha.|----|Se cree que esta torre es el hogar de la legendaria reina Flaumello. Dicen que, en realidad, la torre no existe: se trata tan sólo de un espejismo creado por la Reina.
+This tower is said to be inhabited by the legendary Queen Flaumello. Some say that the tower does not exist and is merely a mirage shown by the queen.|----|Dizem que essa torre é habitada pela lendária rainha Flaumello. Alguns acreditam, também, que a torre não existe de verdade, e que se trata de uma miragem criada pela rainha.|----|Se cree que esta torre es el hogar de la legendaria reina Flaumello. Dicen que, en realidad, la torre no existe: se trata tan sólo de un espejismo creado por la Reina.
 
-(REPETIDO)An abandoned acropolis that has long fallen into disrepair. It's said that wandering souls haunt the area, beckoning thieves and monsters.|----|Uma acrópole abandonada da qual restam apenas ruínas. Dizem que serve de refúgio às almas penadas, que se dedicam a atrair monstros e ladrões.|----|Una fortaleza abandonada de la que apenas quedan algunas ruinas. Se dice que sirve de refugio a las almas en pena, que se dedican a atraer a monstruos y ladrones.
+(REPETIDO)An abandoned acropolis that has long fallen into disrepair. It's said that wandering souls haunt the area, beckoning thieves and monsters.|----|Uma fortaleza abandonada da qual restam apenas ruínas. Dizem que serve de refúgio a almas penadas, que se dedicam a atrair monstros e ladrões.|----|Una fortaleza abandonada de la que apenas quedan algunas ruinas. Se dice que sirve de refugio a las almas en pena, que se dedican a atraer a monstruos y ladrones.
 
-(REPETIDO)An underground cavern that has been maintained from the days of the Imperator. It has entrances from every region, though no one knows why this is so.|----|Uma caverna subterrânea que está conservada desde os tempos do Primeiro Imperador Celestial. Comunica entre si inúmeras regiões, mas ninguém conhece suas origens.|----|Una caverna subterránea que se conserva desde los tiempos del primer Emperador celestial. Comunica entre sí numerosas regiones, pero nadie conoce sus orígenes.
+(REPETIDO)An underground cavern that has been maintained from the days of the Imperator. It has entrances from every region, though no one knows why this is so.|----|Uma caverna subterrânea que foi conservada desde os tempos do primeiro Imperador Celestial. Ela comunica entre si inúmeras regiões, mas ninguém conhece suas origens.|----|Una caverna subterránea que se conserva desde los tiempos del primer Emperador celestial. Comunica entre sí numerosas regiones, pero nadie conoce sus orígenes.
 
-(REPETIDO)An underground cavern that has been maintained from the days of the Imperator. It has entrances from every region, though no one knows why this is so.|----|Uma caverna subterrânea que está conservada desde os tempos do Primeiro Imperador Celestial. Comunica entre si inúmeras regiões, mas ninguém conhece suas origens.|----|Una caverna subterránea que se conserva desde los tiempos del primer Emperador celestial. Comunica entre sí numerosas regiones, pero nadie conoce sus orígenes.
+(REPETIDO)An underground cavern that has been maintained from the days of the Imperator. It has entrances from every region, though no one knows why this is so.|----|Uma caverna subterrânea que foi conservada desde os tempos do primeiro Imperador Celestial. Ela comunica entre si inúmeras regiões, mas ninguém conhece suas origens.|----|Una caverna subterránea que se conserva desde los tiempos del primer Emperador celestial. Comunica entre sí numerosas regiones, pero nadie conoce sus orígenes.
 
-(REPETIDO)An underground cavern that has been maintained from the days of the Imperator. It has entrances from every region, though no one knows why this is so.|----|Uma caverna subterrânea que está conservada desde os tempos do Primeiro Imperador Celestial. Comunica entre si inúmeras regiões, mas ninguém conhece suas origens.|----|Una caverna subterránea que se conserva desde los tiempos del primer Emperador celestial. Comunica entre sí numerosas regiones, pero nadie conoce sus orígenes.
+(REPETIDO)An underground cavern that has been maintained from the days of the Imperator. It has entrances from every region, though no one knows why this is so.|----|Uma caverna subterrânea que foi conservada desde os tempos do primeiro Imperador Celestial. Ela comunica entre si inúmeras regiões, mas ninguém conhece suas origens.|----|Una caverna subterránea que se conserva desde los tiempos del primer Emperador celestial. Comunica entre sí numerosas regiones, pero nadie conoce sus orígenes.
 
-(REPETIDO)An underground cavern that has been maintained from the days of the Imperator. It has entrances from every region, though no one knows why this is so.|----|Uma caverna subterrânea que está conservada desde os tempos do Primeiro Imperador Celestial. Comunica entre si inúmeras regiões, mas ninguém conhece suas origens.|----|Una caverna subterránea que se conserva desde los tiempos del primer Emperador celestial. Comunica entre sí numerosas regiones, pero nadie conoce sus orígenes.
+(REPETIDO)An underground cavern that has been maintained from the days of the Imperator. It has entrances from every region, though no one knows why this is so.|----|Uma caverna subterrânea que foi conservada desde os tempos do primeiro Imperador Celestial. Ela comunica entre si inúmeras regiões, mas ninguém conhece suas origens.|----|Una caverna subterránea que se conserva desde los tiempos del primer Emperador celestial. Comunica entre sí numerosas regiones, pero nadie conoce sus orígenes.
 
-(REPETIDO)An underground cavern that has been maintained from the days of the Imperator. It has entrances from every region, though no one knows why this is so.|----|Uma caverna subterrânea que está conservada desde os tempos do Primeiro Imperador Celestial. Comunica entre si inúmeras regiões, mas ninguém conhece suas origens.|----|Una caverna subterránea que se conserva desde los tiempos del primer Emperador celestial. Comunica entre sí numerosas regiones, pero nadie conoce sus orígenes.
+(REPETIDO)An underground cavern that has been maintained from the days of the Imperator. It has entrances from every region, though no one knows why this is so.|----|Uma caverna subterrânea que foi conservada desde os tempos do primeiro Imperador Celestial. Ela comunica entre si inúmeras regiões, mas ninguém conhece suas origens.|----|Una caverna subterránea que se conserva desde los tiempos del primer Emperador celestial. Comunica entre sí numerosas regiones, pero nadie conoce sus orígenes.
 
-(REPETIDO)An underground cavern that has been maintained from the days of the Imperator. It has entrances from every region, though no one knows why this is so.|----|Uma caverna subterrânea que está conservada desde os tempos do Primeiro Imperador Celestial. Comunica entre si inúmeras regiões, mas ninguém conhece suas origens.|----|Una caverna subterránea que se conserva desde los tiempos del primer Emperador celestial. Comunica entre sí numerosas regiones, pero nadie conoce sus orígenes.
+(REPETIDO)An underground cavern that has been maintained from the days of the Imperator. It has entrances from every region, though no one knows why this is so.|----|Uma caverna subterrânea que foi conservada desde os tempos do primeiro Imperador Celestial. Ela comunica entre si inúmeras regiões, mas ninguém conhece suas origens.|----|Una caverna subterránea que se conserva desde los tiempos del primer Emperador celestial. Comunica entre sí numerosas regiones, pero nadie conoce sus orígenes.
 
-This underground relic was sealed off by the Imperator. The artifacts left here bear no resemblance to those from any other era.|----|O Primeiro Imperador Celestial mandou selar todos os acessos a esta relíquia subterrânea. Os artefatos que ficaram aqui têm um aspecto muito peculiar em relação a outros.|----|El primer Emperador celestial mandó cerrar todos los accesos a esta reliquia subterránea. Los artefactos que quedaron aquí tienen un aspecto muy particular.
+This underground relic was sealed off by the Imperator. The artifacts left here bear no resemblance to those from any other era.|----|O primeiro Imperador Celestial mandou selar todos os acessos a essa relíquia subterrânea. Os artefatos que permaneceram aqui têm um aspecto muito peculiar.|----|El primer Emperador celestial mandó cerrar todos los accesos a esta reliquia subterránea. Los artefactos que quedaron aquí tienen un aspecto muy particular.
 
-One of Blackdale's many caverns. Discovered after a rockslide years ago.|----|Uma das numerosas cavernas de ValeNegro. Foi descoberta há muitos anos, depois de um deslizamento de rochas.|----|Una de las numerosas cavernas de Vallenegro. Fue descubierta hace años, después de un desprendimiento.
+One of Blackdale's many caverns. Discovered after a rockslide years ago.|----|Uma das numerosas cavernas de ValeNegro. Foi descoberta anos atrás, depois de um deslizamento de rochas.|----|Una de las numerosas cavernas de Vallenegro. Fue descubierta hace años, después de un desprendimiento.
 
-A plain bordering Athlum. Many have fought here unsuccessfully in hopes of invading Celapaleis.|----|Uma planície que rodeia Athlum. Foi cenário de numerosas batalhas contra exércitos que tentaram invadir Celapaleis.|----|Una llanura que rodea Athlum. Ha sido el escenario de numerosas batallas contra ejércitos que han intentado invadir Celapalais.
+A plain bordering Athlum. Many have fought here unsuccessfully in hopes of invading Celapaleis.|----|Uma planície que rodeia Athlum. Tem sido o cenário de numerosas batalhas contra exércitos que tentaram invadir Celapaleis.|----|Una llanura que rodea Athlum. Ha sido el escenario de numerosas batallas contra ejércitos que han intentado invadir Celapalais.
 
-A plateau above a string of caves. Portions of it crumble away on a daily basis, providing new paths into the cave.|----|Esta planície se encontra sobre uma rede de cavernas. De vez em quando ocorrem desabamentos, revelando novas entradas às cavernas.|----|Esta planicie se encuentra sobre una red de cavernas. A menudo se producen derrumbamientos que abren nuevas entradas a las cuevas.
+A plateau above a string of caves. Portions of it crumble away on a daily basis, providing new paths into the cave.|----|Essa planície se encontra logo acima de uma rede de cavernas. De vez em quando ocorrem desabamentos, que abrem novas entradas às cavernas.|----|Esta planicie se encuentra sobre una red de cavernas. A menudo se producen derrumbamientos que abren nuevas entradas a las cuevas.
 
-A ravine that provides protection for Celapaleis, it is said that an eagle once built a nest here to guard the town from invaders.|----|Uma ravina que protege a cidade de Celapaleis. Dizem que antigamente serviu de ninho para uma águia que defendia a cidade dos invasores|----|Un barranco que protege la ciudad de Celapalais. Dicen que antiguamente sirvió de hogar a un águila que defendía la ciudad frente a los invasores.
+A ravine that provides protection for Celapaleis, it is said that an eagle once built a nest here to guard the town from invaders.|----|Uma desfiladeiro que protege a cidade de Celapaleis. Dizem que antigamente serviu de ninho para uma águia que defendia a cidade de seus invasores.|----|Un barranco que protege la ciudad de Celapalais. Dicen que antiguamente sirvió de hogar a un águila que defendía la ciudad frente a los invasores.
 
-A battlefield that has seen many deaths. People say that whoever controls this plain controls Nagapur.|----|Um campo de batalha que foi cenário de muitas mortes. Dizem que quem controla esta planície, controla Nagapur.|----|Un campo de batalla que ha sido el escenario de muchas muertes. Se dice que quien controle esta llanura controlará Nagapur.
+A battlefield that has seen many deaths. People say that whoever controls this plain controls Nagapur.|----|Um campo de batalha que tem sido o cenário de muitas mortes. Dizem que quem controla essa planície também controla Nagapur.|----|Un campo de batalla que ha sido el escenario de muchas muertes. Se dice que quien controle esta llanura controlará Nagapur.
 
-(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que defendeu Elysion de muitos invasores. Ninguém recorda seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
+(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que defendeu Elysion de muitos invasores. Ninguém se lembra do seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
 
-(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que defendeu Elysion de muitos invasores. Ninguém recorda seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
+(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que defendeu Elysion de muitos invasores. Ninguém se lembra do seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
 
-(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que defendeu Elysion de muitos invasores. Ninguém recorda seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
+(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que defendeu Elysion de muitos invasores. Ninguém se lembra do seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
 
-(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que defendeu Elysion de muitos invasores. Ninguém recorda seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
+(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que defendeu Elysion de muitos invasores. Ninguém se lembra do seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
 
-(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que defendeu Elysion de muitos invasores. Ninguém recorda seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
+(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que defendeu Elysion de muitos invasores. Ninguém se lembra do seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
 
-(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que defendeu Elysion de muitos invasores. Ninguém recorda seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
+(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que defendeu Elysion de muitos invasores. Ninguém se lembra do seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
 
-A fortress of great importance since ancient times. It is also called the King's Fortress due to its placement.|----|Uma fortaleza de grande importância desde tempos remotos. Também é conhecida como Fortaleza do Rei devido à sua localização.  |----|Una fortificación que ha gozado de gran importancia desde tiempos inmemoriales. También se la conoce como «Fortaleza del Rey» debido a su ubicación.
+A fortress of great importance since ancient times. It is also called the King's Fortress due to its placement.|----|Uma fortaleza que tem gozado de grande importância, desde tempos imemoráveis. É também conhecida como Fortaleza do Rei, devido à sua localização.|----|Una fortificación que ha gozado de gran importancia desde tiempos inmemoriales. También se la conoce como «Fortaleza del Rey» debido a su ubicación.
 
-The Holy War occurred in this land. Many battles that take place here rage into all-out war because of its geography.|----|Esta região foi cenário da Guerra Santa. Devido à sua localização, as guerras que ocorreram aqui tornaram-se generalizadas.|----|Esta región fue el escenario de la Guerra Sacra. Debido a su ubicación, las guerras que tienen lugar en ella suelen arrastrar a los países vecinos.
+The Holy War occurred in this land. Many battles that take place here rage into all-out war because of its geography.|----|Essa região foi o cenário da Guerra Santa. Devido à sua localização, as guerras que ocorreram aqui se arrastaram também aos países vizinhos.|----|Esta región fue el escenario de la Guerra Sacra. Debido a su ubicación, las guerras que tienen lugar en ella suelen arrastrar a los países vecinos.
 
-A rocky pass over Mt. Vackel to the Imperial City of Undelwalt. It's said the path is too treacherous for even the largest of armies to pass.|----|Um caminho rochoso que leva do Monte Vackel à Cidade Imperial de Undelwalt. Dizem que nem o exército mais poderosos do mundo seria capaz de atravessar este traiçoeiro caminho.|----|Un camino rocoso que conduce desde el monte Vackel a la ciudad imperial de Undelwalt. Dicen que ni el ejército más poderoso del mundo sería capaz de atravesar esta traicionera senda.
+A rocky pass over Mt. Vackel to the Imperial City of Undelwalt. It's said the path is too treacherous for even the largest of armies to pass.|----|Um caminho rochoso que liga o Monte Vackel à Cidade Imperial de Undelwalt. Dizem que nem o exército mais poderosos do mundo seria capaz de atravessar este traiçoeiro caminho.|----|Un camino rocoso que conduce desde el monte Vackel a la ciudad imperial de Undelwalt. Dicen que ni el ejército más poderoso del mundo sería capaz de atravesar esta traicionera senda.
 
-A plain that gradually melts into the marshes of Crookfen. Fighting on this boggy ground provides a disadvantage to both sides.|----|Uma planície que se funde pouco a pouco com os Pântanos de Crookfen. Trata-se de um terreno traiçoeiro e perigoso para qualquer combatente.|----|Una llanura que se funde poco a poco con los pantanos de Marismarchita. Se trata de un terreno traicionero y peligroso para cualquier combatiente.
+A plain that gradually melts into the marshes of Crookfen. Fighting on this boggy ground provides a disadvantage to both sides.|----|Uma planície que pouco a pouco se mistura aos pântanos de Crookfen. Lutar nesse terreno traiçoeiro e perigoso é desvantajoso para qualquer combatente.|----|Una llanura que se funde poco a poco con los pantanos de Marismarchita. Se trata de un terreno traicionero y peligroso para cualquier combatiente.
 
-Flatlands found northeast of the Great Sand Sea.  The heat and lack of moisture cause many to lose their lives. It is also called the Salamander's Belly.|----|Uma planície situada à nordeste do Grande Oceano de Areia. As altas temperaturas e a escassez de água já foram a perdição de muitos viajantes. Também é conhecida como Ventre da Salamandra.|----|Una llanura situada al noreste del Océano de Arena. Las altas temperaturas y la escasez de agua han sido la perdición de muchos viajeros. También se la conoce como «Vientre de la Salamandra».
+Flatlands found northeast of the Great Sand Sea.  The heat and lack of moisture cause many to lose their lives. It is also called the Salamander's Belly.|----|Uma planície situada ao nordeste do Grande Oceano de Areia. As altas temperaturas e a escassez de água já foram a perdição de muitos viajantes. Também é conhecida como Ventre da Salamandra.|----|Una llanura situada al noreste del Océano de Arena. Las altas temperaturas y la escasez de agua han sido la perdición de muchos viajeros. También se la conoce como «Vientre de la Salamandra».
 
-Flatlands found west of the Great Sand Sea. Strong winds blow hot sand into the air, giving it the nickname Salamander's Tail.|----|Uma planície situada à oeste do Grande Oceano de Areia. Os redemoinhos de areia levantados pelo vento lhe deram o nome de Cauda da Salamandra.|----|Una llanura situada al oeste del Océano de Arena. Los remolinos de arena que levanta el viento le han valido el apodo de «Cola de la Salamandra».
+Flatlands found west of the Great Sand Sea. Strong winds blow hot sand into the air, giving it the nickname Salamander's Tail.|----|Uma planície situada ao oeste do Grande Oceano de Areia. Os redemoinhos de areia levantados pelo vento lhe deram o nome de Cauda da Salamandra.|----|Una llanura situada al oeste del Océano de Arena. Los remolinos de arena que levanta el viento le han valido el apodo de «Cola de la Salamandra».
 
-A plain that exists in the south of the Great Sand Sea. It is said that the salamander's flickering tongue constantly changes the view of the landscape.|----|Uma planície situada à sul do Grande Oceano de Areia. Dizem que a paisagem muda a cada vez que a salamandra movimenta sua língua.|----|Una llanura situada al sur del Océano de Arena. Se dice que el paisaje cambia cada vez que la salamandra chasquea la lengua.
+A plain that exists in the south of the Great Sand Sea. It is said that the salamander's flickering tongue constantly changes the view of the landscape.|----|Uma planície situada ao sul do Grande Oceano de Areia. Dizem que a paisagem muda a cada vez que a salamandra estala sua língua.|----|Una llanura situada al sur del Océano de Arena. Se dice que el paisaje cambia cada vez que la salamandra chasquea la lengua.
 
 Mr. Diggs' Skilz dummy help|----|Mr. Diggs' Skilz dummy help|----|Ayuda: habilidades del señor Garras
 
@@ -21346,9 +21346,9 @@ Celapaleis 13th Defense Squadron|----|13º Esquadrão de Defesa de Celapaleis|--
 
 (REPETIDO)Baulson|----|Baulson|----|Baulson
 
-(REPETIDO)Violet|----|Violeta|----|Violet
+(REPETIDO)Violet|----|Violet|----|Violet
 
-(REPETIDO)Violet|----|Violeta|----|Violet
+(REPETIDO)Violet|----|Violet|----|Violet
 
 (REPETIDO)Paris|----|Paris|----|Paris
 
@@ -21376,31 +21376,31 @@ Celapaleis 13th Defense Squadron|----|13º Esquadrão de Defesa de Celapaleis|--
 
 (REPETIDO)Wyngale|----|Wyngale|----|Wyngale
 
-Duke Ghor Group|----|Grupo do Duke de Ghor|----|Guardia del duque de Ghor
+Duke Ghor Group|----|Guarda do Duke de Ghor|----|Guardia del duque de Ghor
 
 (REPETIDO)Haruko|----|Haruko|----|Haruko
 
 (REPETIDO)Anti-Remnant Activist|----|Ativista Anti-Remanescente|----|Activista antirreliquias
 
-Anti-Remnant Bodyguards|----|Guarda-costas Anti-Remanescente|----|Milicias antirreliquias
+Anti-Remnant Bodyguards|----|Milícias Anti-Remanescente|----|Milicias antirreliquias
 
 Anti-Remnant Terrorist Group|----|Grupo Terrorista Anti-Remanescente|----|Terroristas antirreliquias
 
 Jager Squad|----|Esquadrão Jager|----|Escuadrón Jäger
 
-(REPETIDO)Third Committee Melee Squad|----|Esquadrão de Batalha do Terceiro Comitê|----|Soldados del Tercer Comité
+(REPETIDO)Third Committee Melee Squad|----|Soldados do Terceiro Comitê|----|Soldados del Tercer Comité
 
-(REPETIDO)Third Committee Mystic Squad|----|Esquadrão Mísico do Terceiro Comitê|----|Místicos del Tercer Comité
+(REPETIDO)Third Committee Mystic Squad|----|Esquadrão Místico do Terceiro Comitê|----|Místicos del Tercer Comité
 
-(REPETIDO)Third Committee Support Squad|----|Esquadrão de Apoio do Terceiro Comitê|----|Refuerzos del Tercer Comité
+(REPETIDO)Third Committee Support Squad|----|Reforços do Terceiro Comitê|----|Refuerzos del Tercer Comité
 
-(REPETIDO)Roeas Squad|----|Esquadrão Roeas|----|Escuadrón Roeas
+(REPETIDO)Roeas Squad|----|Esquadrão de Roeas|----|Escuadrón Roeas
 
 Castanea Squad|----|Esquadrão Castanea|----|Escuadrón Castanea
 
 Invasion Force: Strike Squad|----|Invasores: Esquadrão de Ataque|----|Soldados del Invasor
 
-Invasion Force: Escort Squad|----|Invasores: Esquadrão de Escolta|----|Escolta del Invasor
+Invasion Force: Escort Squad|----|Invasores: Defensores|----|Escolta del Invasor
 
 Invasion Force: Magus Squad|----|Invasores: Esquadrão de Magos|----|Místicos del Invasor
 
@@ -21408,51 +21408,51 @@ Invasion Force: Magus Squad|----|Invasores: Esquadrão de Magos|----|Místicos d
 
 (REPETIDO)Base Defense: Commandos|----|Base de Defesa: Comandos|----|Comandos de la base
 
-(REPETIDO)Base Defense: Cleric Squad|----|Base de Defesa: Esquadrão Clérigo|----|Sacerdotes del Invasor
+(REPETIDO)Base Defense: Cleric Squad|----|Base de Defesa: Esquadrão de Sacerdotes|----|Sacerdotes del Invasor
 
 (REPETIDO)Base Defense: Magus Squad|----|Base de Defesa: Esquadrão de Magos|----|Místicos de la base
 
-(REPETIDO)Base Defense: Support Squad|----|Base de Defesa: Esquadrão de Apoio|----|Refuerzos de la base
+(REPETIDO)Base Defense: Support Squad|----|Base de Defesa: Reforços|----|Refuerzos de la base
 
 (REPETIDO)Base Defense: Tactics Squad|----|Base de Defesa: Esquadrão Tático|----|Grupo de mando de la base
 
-Conqueror Army: Snievan Division|----|Exército do Conquistador: Divisão Snievana|----|División de Snievan
+Conqueror Army: Snievan Division|----|Exército do Conquistador: Divisão de Snievan|----|División de Snievan
 
-(REPETIDO)Base Defense: Escort Squad|----|Base de Defesa: Esquadrão de Escolta|----|Defensores de la base
+(REPETIDO)Base Defense: Escort Squad|----|Base de Defesa: Defensores|----|Defensores de la base
 
 (REPETIDO)Base Defense: Stormtroopers|----|Base de Defesa: Tropas de Assalto|----|Soldados de la base
 
 (REPETIDO)Base Defense: Commandos|----|Base de Defesa: Comandos|----|Comandos de la base
 
-(REPETIDO)Base Defense: Cleric Squad|----|Base de Defesa: Esquadrão Clérigo|----|Sacerdotes de la base
+(REPETIDO)Base Defense: Cleric Squad|----|Base de Defesa: Esquadrão de Sacerdotes|----|Sacerdotes de la base
 
 (REPETIDO)Base Defense: Tactics Squad|----|Base de Defesa: Esquadrão Tático|----|Cuerpo táctico de la base
 
-(REPETIDO)Base Defense: Special Team|----|Base de Defesa: Time Especial|----|Marines de la base
+(REPETIDO)Base Defense: Special Team|----|Base de Defesa: Grupo Especial|----|Marines de la base
 
-Conqueror Army: Zuido Division|----|Exército do Conquistador: Divisão Zuido|----|División de Zuido
+Conqueror Army: Zuido Division|----|Exército do Conquistador: Divisão de Zuido|----|División de Zuido
 
 (REPETIDO)Base Defense: Stormtroopers|----|Base de Defesa: Tropas de Assalto|----|Soldados de la base
 
-(REPETIDO)Base Defense: Support Squad|----|Base de Defesa: Esquadrão de Apoio|----|Refuerzos de la base
+(REPETIDO)Base Defense: Support Squad|----|Base de Defesa: Reforços|----|Refuerzos de la base
 
-(REPETIDO)Base Defense: Escort Squad|----|Base de Defesa: Esquadrão de Escolta|----|Defensores de la base
+(REPETIDO)Base Defense: Escort Squad|----|Base de Defesa: Defensores|----|Defensores de la base
 
 (REPETIDO)Base Defense: Magus Squad|----|Base de Defesa: Esquadrão de Magos|----|Místicos de la base
 
 (REPETIDO)Base Defense: Tactics Squad|----|Base de Defesa: Esquadrão Tático|----|Cuerpo táctico de la base
 
-Conqueror Army: Ludope Division|----|Exército do Conquistador: Divisão Ludope|----|División de Ludope
+Conqueror Army: Ludope Division|----|Exército do Conquistador: Divisão de Ludope|----|División de Ludope
 
 (REPETIDO)Base Defense: Stormtroopers|----|Base de Defesa: Tropas de Assalto|----|Soldados de la base
 
-(REPETIDO)Base Defense: Support Squad|----|Base de Defesa: Esquadrão de Apoio|----|Refuerzos de la base
+(REPETIDO)Base Defense: Support Squad|----|Base de Defesa: Reforços|----|Refuerzos de la base
 
 (REPETIDO)Base Defense: Commandos|----|Base de Defesa: Comandos|----|Comandos de la base
 
 (REPETIDO)Base Defense: Magus Squad|----|Base de Defesa: Esquadrão de Magos|----|Místicos de la base
 
-(REPETIDO)Base Defense: Escort Squad|----|Base de Defesa: Esquadrão de Escolta|----|Defensores de la base
+(REPETIDO)Base Defense: Escort Squad|----|Base de Defesa: Defensores|----|Defensores de la base
 
 (REPETIDO)Base Defense: Tactics Squad|----|Base de Defesa: Esquadrão Tático|----|Cuerpo táctico de la base
 
@@ -21460,31 +21460,31 @@ Conqueror Army: Twin Division|----|Exército do Conquistador: Divisão Gêmeas|-
 
 (REPETIDO)Base Defense: Stormtroopers|----|Base de Defesa: Tropas de Assalto|----|Soldados de la base
 
-(REPETIDO)Base Defense: Special Team|----|Base de Defesa: Esquadrão Especial|----|Marines la base
+(REPETIDO)Base Defense: Special Team|----|Base de Defesa: Grupo Especial|----|Marines la base
 
-(REPETIDO)Base Defense: Escort Squad|----|Base de Defesa: Esquadrão de Escolta|----|Defensores de la base
+(REPETIDO)Base Defense: Escort Squad|----|Base de Defesa: Defensores|----|Defensores de la base
 
 (REPETIDO)Base Defense: Magus Squad|----|Base de Defesa: Esquadrão de Magos|----|Místicos de la base
 
 (REPETIDO)Base Defense: Tactics Squad|----|Base de Defesa: Esquadrão Tático|----|Cuerpo táctico de la base
 
-Base Defense: Beastmasters|----|Base de Defesa: Feroz|----|Tropas bestiales de la base
+Base Defense: Beastmasters|----|Base de Defesa: Tropas Bestiais|----|Tropas bestiales de la base
 
-Conqueror Army: Young Division|----|Exército do Conquistador: Divisão Jovem|----|División de Young
+Conqueror Army: Young Division|----|Exército do Conquistador: Divisão de Young|----|División de Young
 
 (REPETIDO)Base Defense: Stormtroopers|----|Base de Defesa: Tropas de Assalto|----|Soldados de la base
 
 (REPETIDO)Base Defense: Magus Squad|----|Base de Defesa: Esquadrão de Magos|----|Místicos de la base
 
-(REPETIDO)Base Defense: Escort Squad|----|Base de Defesa: Esquadrão de Escolta|----|Defensores de la base
+(REPETIDO)Base Defense: Escort Squad|----|Base de Defesa: Defensores|----|Defensores de la base
 
 (REPETIDO)Base Defense: Commandos|----|Base de Defesa: Comandos|----|Comandos de la base
 
-(REPETIDO)Base Defense: Support Squad|----|Base de Defesa: Esquadrão de Apoio|----|Refuerzos de la base
+(REPETIDO)Base Defense: Support Squad|----|Base de Defesa: Reforços|----|Refuerzos de la base
 
 (REPETIDO)Base Defense: Tactics Squad|----|Base de Defesa: Esquadrão Tático|----|Cuerpo táctico de la base
 
-Conqueror Army: Milton Division|----|Exército do Conquistador: Divisão Milton|----|División de Milton
+Conqueror Army: Milton Division|----|Exército do Conquistador: Divisão de Milton|----|División de Milton
 
 Base Defense: Stormtrooper Aces|----|Base de Defesa: Tropas de Assalto de Elite|----|Soldados de élite de la base
 
@@ -21494,23 +21494,23 @@ Base Defense: Support Aces|----|Base de Defesa: Reforços de Elite|----|Refuerzo
 
 Base Defense: Magus Aces|----|Base de Defesa: Magos de Elite|----|Místicos de élite de la base
 
-Siege Force: Escort Team|----|Força de Cerco: Time Escoltador|----|Tropas de asedio defensivas
+Siege Force: Escort Team|----|Força de Cerco: Tropas de Escolta|----|Tropas de asedio defensivas
 
 Siege Force: Stormtroopers|----|Força de Cerco: Tropas de Assalto|----|Tropas de asedio ofensivas
 
 Siege Force: Assist Team|----|Força de Cerco: Time de Apoio|----|Tropas de asedio auxiliares
 
-Siege Force: Beastmasters|----|Força de Cerco: Feroz|----|Tropas de asedio bestiales
+Siege Force: Beastmasters|----|Força de Cerco: Tropas Bestiais|----|Tropas de asedio bestiales
 
 Siege Force: Mystic Squad|----|Força de Cerco: Esquadrão Místico|----|Místicos de asedio
 
-Conqueror Elite: Beastmasters|----|Elite Conquistadora: Feroz|----|Bestias de élite del Invasor
+Conqueror Elite: Beastmasters|----|Tropas de Elite do Conquistador: Tropas Bestiais|----|Bestias de élite del Invasor
 
-Conqueror Elite: Stormtroopers|----|Elite Conquistadora: Tropas de Assalto|----|Soldados de élite del Invasor
+Conqueror Elite: Stormtroopers|----|Tropas de Elite do Conquistador: Tropas de Assalto|----|Soldados de élite del Invasor
 
-Conqueror Elite: Commandos|----|Elite Conquistadora: Comandos|----|Comandos de élite del Invasor
+Conqueror Elite: Commandos|----|Tropas de Elite do Conquistador: Comandos|----|Comandos de élite del Invasor
 
-Conqueror Elite: Assist Team|----|Elite Conquistadora: Time de Apoio|----|Refuerzos de élite del Invasor
+Conqueror Elite: Assist Team|----|Tropas de Elite do Conquistador: Time de Apoio|----|Refuerzos de élite del Invasor
 
 (REPETIDO)Third Committee Combat Squad|----|Esquadrão de Combate do Terceiro Comitê|----|Combatientes del Comité
 
@@ -21522,21 +21522,21 @@ Mobile Commandos: Assist Team|----|Comando Móvel: Time de Apoio|----|Comando de
 
 Mobile Commandos: Mystic Team|----|Comando Móvel: Time Místico|----|Comando místico móvil
 
-(REPETIDO)Roeas Squad|----|Esquadrão Roeas|----|Escuadrón de Roeas
+(REPETIDO)Roeas Squad|----|Esquadrão de Roeas|----|Escuadrón de Roeas
 
-(REPETIDO)The Tested|----|O Testado|----|Aspirantes
+(REPETIDO)The Tested|----|Aspirantes|----|Aspirantes
 
-(REPETIDO)The Tested|----|O Testado|----|Aspirantes
+(REPETIDO)The Tested|----|Aspirantes|----|Aspirantes
 
-(REPETIDO)The Tested|----|O Testado|----|Aspirantes
+(REPETIDO)The Tested|----|Aspirantes|----|Aspirantes
 
 (REPETIDO)Third Committee Combat Squad|----|Esquadrão de Combate do Terceiro Comitê|----|Combatientes del Comité
 
-(REPETIDO)Third Committee Melee Squad|----|Esquadrão dorpo a Corpo do Terceiro Comitê|----|Soldados del Tercer Comité
+(REPETIDO)Third Committee Melee Squad|----|Soldados do Terceiro Comitê|----|Soldados del Tercer Comité
 
 (REPETIDO)Third Committee Mystic Squad|----|Esquadrão Místico do Terceiro Comitê|----|Místicos del Tercer Comité
 
-(REPETIDO)Third Committee Support Squad|----|Esquadrão de Apoio do Terceiro Comitê|----|Refuerzos del Tercer Comité
+(REPETIDO)Third Committee Support Squad|----|Reforços do Terceiro Comitê|----|Refuerzos del Tercer Comité
 
 Character Names dummy|----|Character Names dummy|----|Nombres de personajes
 
