@@ -1,5 +1,11 @@
 Union Board -< grupo (correto Painel do Grupo)??
 unit -≥ unidade
+power grip -> pegada dupla (antes estava ambas as mãos)
+Flash Strike -> Ataque Relâmpago (estava Ataque Lampejante)
+
+parei na 1907 - city location
+
+
 status -> status
 recipes - fórmulas
 item arts - artes de itens (trocar por Artes de Objetos???)
