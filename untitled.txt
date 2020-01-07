@@ -2,8 +2,20 @@ Union Board -< grupo (correto Painel do Grupo)??
 unit -≥ unidade
 power grip -> pegada dupla (antes estava ambas as mãos)
 Flash Strike -> Ataque Relâmpago (estava Ataque Lampejante)
+formação Slash -> está Golpe de Chicote. Sugestão: Açoite
+wing -> ala
+tuck -> rapieira (estoque, em espanhol)
+staff -> bastão, cetro
+saber -> katana
 
-parei na 1907 - city location
+
+parei na 4019
+3039-57
+
+2 x 2 h semana
+220 mês
+terça e quinta de 9 às 11h
+Prof. Nox
 
 
 status -> status
