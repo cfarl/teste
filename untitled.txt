@@ -7,9 +7,21 @@ wing -> ala
 tuck -> rapieira (estoque, em espanhol)
 staff -> bastão, cetro
 saber -> katana
+Dwarf's Cabochon -> Estrela Anã???
+ Elf's Emerald -> Esmeralda Élfica
+ Spiritlord -> Senhores Espirituais ou arquiespectros??
+ Torre Flaumello -> Torre de Flaumello
+ Ninho de Yvalock -> Ninho de Ivalock????
+ Rawhide -> pedaço de couro
+ phials -> frascos
+ Marauders -> saqueadores???
+ Cherry Pavilion -> Pavilhão das Cerejeiras
+ Wyrmskeep -> Fordragão????
+ crina, cabeleira -> verificar se o monstro tem mesmo isso
+ Barb -> ferrão
 
 
-parei na 4019
+parei na 5107
 3039-57
 
 2 x 2 h semana

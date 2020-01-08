@@ -4016,7 +4016,7 @@ Sovani-oriented quarterstaff.|----|Um cajado longo típico dos sovanis.|----|Una
 
 A strengthened Agares.|----|Uma versão reforçada do Agares.|----|Una versión reforzada del agares\r\npropia de los emperadores sovanis.
 
-Common small shield that affords light\r\nprotection at no cost to maneuverability.|----|Escudo pequeno comum que oferece proteção leve\r\nsem dificultar os movimentos do portador.|----|Un pequeño escudo corriente que protege\r\nal portador sin dificultar sus movimientos.
+Common small shield that affords light\r\nprotection at no cost to maneuverability.|----|Um escudo pequeno comum que oferece proteção leve\r\nsem dificultar os movimentos do portador.|----|Un pequeño escudo corriente que protege\r\nal portador sin dificultar sus movimientos.
 
 (REPETIDO)Reinforced to the seventh order.|----|Com reforço até o nível sete.|----|Un escudo de séptima categoría\r\ndigno de un soldado.
 
@@ -4040,11 +4040,11 @@ Common small shield that affords light\r\nprotection at no cost to maneuverabili
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Rare small shield that draws enemy\r\nattacks.|----|Escudo pequeno raro que atrai os\r\nataques dos inimigos.|----|Un pequeño escudo singular que atrae\r\nlos ataques del enemigo.
+Rare small shield that draws enemy\r\nattacks.|----|Um escudo pequeno singular que atrai os\r\nataques dos inimigos.|----|Un pequeño escudo singular que atrae\r\nlos ataques del enemigo.
 
-(REPETIDO)Sturdier than its standard counterpart.|----|Mais resistente que seu equivalente padrão.|----|Un escudo más resistente\r\nque su equivalente común.
+(REPETIDO)Sturdier than its standard counterpart.|----|Mais resistente que sua versão comum.|----|Un escudo más resistente\r\nque su equivalente común.
 
-(REPETIDO)Far more sturdy than its standard counterpart.|----|Muito mais resistente que seu equivalente\r\ncomum.|----|Un escudo mucho más resistente\r\nque su equivalente común.
+(REPETIDO)Far more sturdy than its standard counterpart.|----|Muito mais resistente que sua versão\r\ncomum.|----|Un escudo mucho más resistente\r\nque su equivalente común.
 
 (REPETIDO)Optimized for slashing damage.|----|Especialmente projetado para causar danos\r\ncortantes.|----|Un escudo diseñado especialmente\r\npara causar daños cortantes.
 
@@ -4056,37 +4056,13 @@ Rare small shield that draws enemy\r\nattacks.|----|Escudo pequeno raro que atra
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Custom small shield for a cautious qsiti.|----|Escudo pequeno especial projetado para qsitis\r\ncautelosos.|----|Un pequeño escudo especial\r\ndiseñado para qsitis cautelosos.
+Custom small shield for a cautious qsiti.|----|Um escudo pequeno especial projetado para qsitis\r\ncautelosos.|----|Un pequeño escudo especial\r\ndiseñado para qsitis cautelosos.
 
-Prized small shield to protect knights\r\nmounted on dragons.|----|Escudo pequeno de primeira qualidade\r\nprojetado para proteção de cavaleiros montados\r\nem dragões.|----|Un pequeño escudo de primera calidad\r\ndiseñado para proteger a los caballeros\r\nque montan a lomos de dragones.
+Prized small shield to protect knights\r\nmounted on dragons.|----|Um escudo pequeno de primeira qualidade\r\nprojetado para proteção de cavaleiros montados\r\nem dragões.|----|Un pequeño escudo de primera calidad\r\ndiseñado para proteger a los caballeros\r\nque montan a lomos de dragones.
 
-Prized small shield fitted with the Pixie's\r\nRose.|----|Escudo pequeno de primeira qualidade equipado\r\ncom uma Rosa de Fada.|----|Un pequeño escudo de primera calidad\r\ndotado del poder de la rosa de las hadas.
+Prized small shield fitted with the Pixie's\r\nRose.|----|Um escudo pequeno de primeira qualidade equipado\r\ncom uma Rosa de Fada.|----|Un pequeño escudo de primera calidad\r\ndotado del poder de la rosa de las hadas.
 
-Common middle shield that tapers down\r\nfrom its wide crest like a wing.|----|Escudo médio comum cujas bordas se estreitam\r\ncomo a asa de um pássaro.|----|Un escudo mediano corriente cuyos rebordes\r\nse estrechan como el ala de un pájaro.
-
-(REPETIDO)Reinforced to the seventh order.|----|Com reforço até o nível sete.|----|Un escudo de séptima categoría\r\ndigno de un soldado.
-
-(REPETIDO)Reinforced to the sixth order.|----|Com reforço até o nível seis.|----|Un escudo de sexta categoría\r\ndigno de un líder.
-
-(REPETIDO)Reinforced to the fifth order.|----|Com reforço até o nível cinco.|----|Un escudo de quinta categoría\r\ndigno de un caballero.
-
-(REPETIDO)Reinforced to the fourth order.|----|Com reforço até o nível quatro.|----|Un escudo de cuarta categoría\r\ndigno de un maestro.
-
-(REPETIDO)Reinforced to the third order.|----|Com reforço até o nível três.|----|Un escudo de tercera categoría\r\ndigno de un gran héroe.
-
-(REPETIDO)Reinforced to the second order.|----|Com reforço até o nível dois.|----|Un escudo de segunda categoría\r\ndigno de un emperador.
-
-(REPETIDO)Reinforced to the first order.|----|Com reforço até o nível um.|----|Un escudo de primera categoría\r\nforjado en el mismísimo cielo.
-
-(REPETIDO)Endowed with magnificent dragon-ore.|----|Tem como adorno um magnífico minério draconiano.|----|Un escudo incrustado con vetas\r\nde un valioso mineral draconiano.
-
-(REPETIDO)Endowed with enchanted crystal.|----|Tem como adorno um cristal encantado.|----|Un escudo decorado con cristales\r\nde grandes poderes místicos.
-
-(REPETIDO)Endowed with legendarily rigid steel.|----|Tem como adorno um metal legendário.|----|Un escudo decorado con vetas\r\nde un metal legendario.
-
-(REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
-
-Common middle shield covering a wide\r\narea with minimal encumbrance.|----|Escudo médio comum que protege uma grande\r\nárea, com mínimo de esforço.|----|Un escudo mediano corriente que protege\r\nun área extensa con el mínimo esfuerzo.
+Common middle shield that tapers down\r\nfrom its wide crest like a wing.|----|Um escudo médio comum cujas bordas se estreitam\r\ncomo a asa de um pássaro.|----|Un escudo mediano corriente cuyos rebordes\r\nse estrechan como el ala de un pájaro.
 
 (REPETIDO)Reinforced to the seventh order.|----|Com reforço até o nível sete.|----|Un escudo de séptima categoría\r\ndigno de un soldado.
 
@@ -4110,11 +4086,35 @@ Common middle shield covering a wide\r\narea with minimal encumbrance.|----|Escu
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Arcane middle shield sanctified by\r\nspirits.|----|Escudo médio arcano santificado\r\npelos espíritos.|----|Un escudo mediano arcano\r\nbendecido por los espíritus.
+Common middle shield covering a wide\r\narea with minimal encumbrance.|----|Um escudo médio comum que protege uma área\r\nextensa, com um mínimo de esforço.|----|Un escudo mediano corriente que protege\r\nun área extensa con el mínimo esfuerzo.
 
-(REPETIDO)Sturdier than its standard counterpart.|----|Mais resistente que seu equivalente padrão.|----|Un escudo más resistente\r\nque su equivalente común.
+(REPETIDO)Reinforced to the seventh order.|----|Com reforço até o nível sete.|----|Un escudo de séptima categoría\r\ndigno de un soldado.
 
-(REPETIDO)Far more sturdy than its standard counterpart.|----|Muito mais resistente que seu equivalente\r\npadrão.|----|Un escudo mucho más resistente\r\nque su equivalente común.
+(REPETIDO)Reinforced to the sixth order.|----|Com reforço até o nível seis.|----|Un escudo de sexta categoría\r\ndigno de un líder.
+
+(REPETIDO)Reinforced to the fifth order.|----|Com reforço até o nível cinco.|----|Un escudo de quinta categoría\r\ndigno de un caballero.
+
+(REPETIDO)Reinforced to the fourth order.|----|Com reforço até o nível quatro.|----|Un escudo de cuarta categoría\r\ndigno de un maestro.
+
+(REPETIDO)Reinforced to the third order.|----|Com reforço até o nível três.|----|Un escudo de tercera categoría\r\ndigno de un gran héroe.
+
+(REPETIDO)Reinforced to the second order.|----|Com reforço até o nível dois.|----|Un escudo de segunda categoría\r\ndigno de un emperador.
+
+(REPETIDO)Reinforced to the first order.|----|Com reforço até o nível um.|----|Un escudo de primera categoría\r\nforjado en el mismísimo cielo.
+
+(REPETIDO)Endowed with magnificent dragon-ore.|----|Tem como adorno um magnífico minério draconiano.|----|Un escudo incrustado con vetas\r\nde un valioso mineral draconiano.
+
+(REPETIDO)Endowed with enchanted crystal.|----|Tem como adorno um cristal encantado.|----|Un escudo decorado con cristales\r\nde grandes poderes místicos.
+
+(REPETIDO)Endowed with legendarily rigid steel.|----|Tem como adorno um metal legendário.|----|Un escudo decorado con vetas\r\nde un metal legendario.
+
+(REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
+
+Arcane middle shield sanctified by\r\nspirits.|----|Um escudo médio arcano santificado\r\npelos espíritos.|----|Un escudo mediano arcano\r\nbendecido por los espíritus.
+
+(REPETIDO)Sturdier than its standard counterpart.|----|Mais resistente que sua versão comum.|----|Un escudo más resistente\r\nque su equivalente común.
+
+(REPETIDO)Far more sturdy than its standard counterpart.|----|Muito mais resistente que sua versão\r\npadrão.|----|Un escudo mucho más resistente\r\nque su equivalente común.
 
 (REPETIDO)Infused with fire.|----|Um item infundido com o poder do fogo.|----|Un escudo cubierto de llamas.
 
@@ -4132,43 +4132,19 @@ Arcane middle shield sanctified by\r\nspirits.|----|Escudo médio arcano santifi
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Master middle shield unbending as a\r\nknight's honor.|----|Escudo médio mítico tão inflexível como\r\na honra de um cavaleiro.|----|Un mítico escudo mediano tan inflexible\r\ncomo el honor de un caballero.
+Master middle shield unbending as a\r\nknight's honor.|----|Um escudo médio mítico tão inflexível como\r\na honra de um cavaleiro.|----|Un mítico escudo mediano tan inflexible\r\ncomo el honor de un caballero.
 
-Custom middle shield composed of\r\na four-ore alloy.|----|Escudo médio especial forjado com uma\r\nliga de quatro metais.|----|Un escudo mediano especial forjado\r\ncon una aleación de cuatro metales.
+Custom middle shield composed of\r\na four-ore alloy.|----|Um escudo médio especial forjado com uma\r\nliga de quatro metais.|----|Un escudo mediano especial forjado\r\ncon una aleación de cuatro metales.
 
-Prized middle shield effective against\r\noverhead attacks.|----|Escudo médio de primeira qualidade eficaz para\r\ndeter ataques aéreos.|----|Un escudo mediano de primera calidad\r\neficaz para detener ataques aéreos.
+Prized middle shield effective against\r\noverhead attacks.|----|Um escudo médio de primeira qualidade eficaz contra\r\nataques aéreos.|----|Un escudo mediano de primera calidad\r\neficaz para detener ataques aéreos.
 
-Prized middle shield tough\r\nas a wyrm's armor.|----|Escudo médio de primeira qualidade tão\r\nresistente quanto as escamas de um dragão.|----|Un escudo mediano de primera calidad\r\ntan sólido como las escamas de un draco.
+Prized middle shield tough\r\nas a wyrm's armor.|----|Um escudo médio de primeira qualidade tão\r\nresistente quanto as escamas de um dragão.|----|Un escudo mediano de primera calidad\r\ntan sólido como las escamas de un draco.
 
-Prized middle shield fitted with the Boggart's\r\nTrapezoid.|----|Escudo médio de primeira qualidade equipado\r\ncom um Cristal de Gnomo.|----|Un escudo mediano de primera calidad\r\ndotado del poder del cristal gnómico.
+Prized middle shield fitted with the Boggart's\r\nTrapezoid.|----|Um escudo médio de primeira qualidade equipado\r\ncom um Cristal de Gnomo.|----|Un escudo mediano de primera calidad\r\ndotado del poder del cristal gnómico.
 
-Custom middle shield trusted to protect\r\nthe citizens of Athlum.|----|Escudo médio especial que criado para\r\nproteger os cidadãos de Athlum.|----|Un escudo mediano especial creado\r\npara proteger a las gentes de Athlum.
+Custom middle shield trusted to protect\r\nthe citizens of Athlum.|----|Um escudo médio especial criado para\r\nproteger os cidadãos de Athlum.|----|Un escudo mediano especial creado\r\npara proteger a las gentes de Athlum.
 
-Common large shield reserved for\r\nthe bloodiest battles.|----|Escudo largo comum reservado para as\r\nbatalhas mais sangrentas.|----|Un gran escudo corriente reservado\r\npara los combates más sangrientos.
-
-(REPETIDO)Reinforced to the seventh order.|----|Com reforço até o nível sete.|----|Un escudo de séptima categoría\r\ndigno de un soldado.
-
-(REPETIDO)Reinforced to the sixth order.|----|Com reforço até o nível seis.|----|Un escudo de sexta categoría\r\ndigno de un líder.
-
-(REPETIDO)Reinforced to the fifth order.|----|Com reforço até o nível cinco.|----|Un escudo de quinta categoría\r\ndigno de un caballero.
-
-(REPETIDO)Reinforced to the fourth order.|----|Com reforço até o nível quatro.|----|Un escudo de cuarta categoría\r\ndigno de un maestro.
-
-(REPETIDO)Reinforced to the third order.|----|Com reforço até o nível três.|----|Un escudo de tercera categoría\r\ndigno de un gran héroe.
-
-(REPETIDO)Reinforced to the second order.|----|Com reforço até o nível dois.|----|Un escudo de segunda categoría\r\ndigno de un emperador.
-
-(REPETIDO)Reinforced to the first order.|----|Com reforço até o nível um.|----|Un escudo de primera categoría\r\nforjado en el mismísimo cielo.
-
-(REPETIDO)Endowed with magnificent dragon-ore.|----|Tem como adorno um magnífico minério draconiano.|----|Un escudo incrustado con vetas\r\nde un valioso mineral draconiano.
-
-(REPETIDO)Endowed with enchanted crystal.|----|Tem como adorno um cristal encantado.|----|Un escudo decorado con cristales\r\nde grandes poderes místicos.
-
-(REPETIDO)Endowed with legendarily rigid steel.|----|Tem como adorno um metal legendário.|----|Un escudo decorado con vetas\r\nde un metal legendario.
-
-(REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
-
-Common large shield able to withstand\r\nprolonged assaults.|----|Escudo largo comum capaz de resistir aos\r\nataques mais prolongados.|----|Un gran escudo corriente capaz de resistir\r\nlos ataques más prolongados.
+Common large shield reserved for\r\nthe bloodiest battles.|----|Um escudo grande comum reservado para as\r\nbatalhas mais sangrentas.|----|Un gran escudo corriente reservado\r\npara los combates más sangrientos.
 
 (REPETIDO)Reinforced to the seventh order.|----|Com reforço até o nível sete.|----|Un escudo de séptima categoría\r\ndigno de un soldado.
 
@@ -4192,11 +4168,35 @@ Common large shield able to withstand\r\nprolonged assaults.|----|Escudo largo c
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Rare large shield believed to answer\r\nthe prayers of its holder.|----|Escudo largo raro que, segundo dizem, é capaz\r\nde escutar as preces do seu portador.|----|Un gran escudo singular que, según dicen,\r\nescucha los ruegos de su portador.
+Common large shield able to withstand\r\nprolonged assaults.|----|Um escudo grande comum capaz de resistir aos\r\nataques mais prolongados.|----|Un gran escudo corriente capaz de resistir\r\nlos ataques más prolongados.
 
-(REPETIDO)Sturdier than its standard counterpart.|----|Mais resistente que seu equivalente padrão.|----|Un escudo más resistente\r\nque su equivalente común.
+(REPETIDO)Reinforced to the seventh order.|----|Com reforço até o nível sete.|----|Un escudo de séptima categoría\r\ndigno de un soldado.
 
-(REPETIDO)Far more sturdy than its standard counterpart.|----|Muito mais resistente que seu equivalente\r\ncomum.|----|Un escudo mucho más resistente\r\nque su equivalente común.
+(REPETIDO)Reinforced to the sixth order.|----|Com reforço até o nível seis.|----|Un escudo de sexta categoría\r\ndigno de un líder.
+
+(REPETIDO)Reinforced to the fifth order.|----|Com reforço até o nível cinco.|----|Un escudo de quinta categoría\r\ndigno de un caballero.
+
+(REPETIDO)Reinforced to the fourth order.|----|Com reforço até o nível quatro.|----|Un escudo de cuarta categoría\r\ndigno de un maestro.
+
+(REPETIDO)Reinforced to the third order.|----|Com reforço até o nível três.|----|Un escudo de tercera categoría\r\ndigno de un gran héroe.
+
+(REPETIDO)Reinforced to the second order.|----|Com reforço até o nível dois.|----|Un escudo de segunda categoría\r\ndigno de un emperador.
+
+(REPETIDO)Reinforced to the first order.|----|Com reforço até o nível um.|----|Un escudo de primera categoría\r\nforjado en el mismísimo cielo.
+
+(REPETIDO)Endowed with magnificent dragon-ore.|----|Tem como adorno um magnífico minério draconiano.|----|Un escudo incrustado con vetas\r\nde un valioso mineral draconiano.
+
+(REPETIDO)Endowed with enchanted crystal.|----|Tem como adorno um cristal encantado.|----|Un escudo decorado con cristales\r\nde grandes poderes místicos.
+
+(REPETIDO)Endowed with legendarily rigid steel.|----|Tem como adorno um metal legendário.|----|Un escudo decorado con vetas\r\nde un metal legendario.
+
+(REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
+
+Rare large shield believed to answer\r\nthe prayers of its holder.|----|Um escudo grande singular que, segundo dizem, é capaz\r\nde escutar as preces do seu portador.|----|Un gran escudo singular que, según dicen,\r\nescucha los ruegos de su portador.
+
+(REPETIDO)Sturdier than its standard counterpart.|----|Mais resistente que sua versão comum.|----|Un escudo más resistente\r\nque su equivalente común.
+
+(REPETIDO)Far more sturdy than its standard counterpart.|----|Muito mais resistente que sua versão\r\ncomum.|----|Un escudo mucho más resistente\r\nque su equivalente común.
 
 (REPETIDO)Optimized for slashing damage.|----|Especialmente projetado para causar danos\r\ncortantes.|----|Un escudo diseñado especialmente\r\npara causar daños cortantes.
 
@@ -4208,19 +4208,19 @@ Rare large shield believed to answer\r\nthe prayers of its holder.|----|Escudo l
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Prized large shield with a mystic coating\r\nthat gives it a liquid appearance.|----|Escudo largo de primeira qualidade com um\r\nrevestimento místico que lhe dá um aspecto\r\naquoso.|----|Un gran escudo de primera calidad\r\ncuyo peculiar recubrimiento le otorga\r\nun aspecto acuoso.
+Prized large shield with a mystic coating\r\nthat gives it a liquid appearance.|----|Um escudo grande de primeira qualidade com um\r\nrevestimento místico que lhe dá um aspecto\r\naquoso.|----|Un gran escudo de primera calidad\r\ncuyo peculiar recubrimiento le otorga\r\nun aspecto acuoso.
 
-Master large shield trusted in lands familiar\r\nand foreign.|----|Escudo largo mítico que goza de uma grande\r\nreputação em terras distantes.|----|Un gran escudo mítico que goza\r\nde una gran reputación en tierras lejanas.
+Master large shield trusted in lands familiar\r\nand foreign.|----|Um escudo grande mítico que goza de uma grande\r\nreputação em terras distantes.|----|Un gran escudo mítico que goza\r\nde una gran reputación en tierras lejanas.
 
-Prized large shield by which borders\r\nare kept.|----|Escudo largo de primeira qualidade projetado\r\npara defender as fronteiras de um território.|----|Un gran escudo de primera calidad\r\ndiseñado para defender las fronteras\r\nde un territorio.
+Prized large shield by which borders\r\nare kept.|----|Um escudo grande de primeira qualidade projetado\r\npara defender as fronteiras de um território.|----|Un gran escudo de primera calidad\r\ndiseñado para defender las fronteras\r\nde un territorio.
 
-Master large shield for those who think of\r\nno other life than their own.|----|Escudo largo mítico para aqueles que não\r\npensam em outra coisas senão seus próprios\r\nassuntos.|----|Un gran escudo mítico para aquellos\r\na quienes solamente les preocupan\r\nsus propios asuntos.
+Master large shield for those who think of\r\nno other life than their own.|----|Um escudo grande mítico para aqueles que se\r\npreocupam somente com seus próprios\r\nassuntos.|----|Un gran escudo mítico para aquellos\r\na quienes solamente les preocupan\r\nsus propios asuntos.
 
-Prized large shield fitted with the Siren's\r\nSquare.|----|Escudo largo de primeira qualidade equipado\r\ncom um Quadrado da Sereia.|----|Un gran escudo de primera calidad\r\nque lleva engastada una princesa\r\nde las sirenas.
+Prized large shield fitted with the Siren's\r\nSquare.|----|Um escudo grande de primeira qualidade equipado\r\ncom um Quadrado da Sereia.|----|Un gran escudo de primera calidad\r\nque lleva engastada una princesa\r\nde las sirenas.
 
-Custom middle shield trusted to protect\r\nthe citizens of Celapaleis.|----|Escudo médio especial que projetado para\r\nproteger os cidadãos de Celapaleis.|----|Un escudo mediano especial diseñado\r\npara proteger a las gentes de Celapalais.
+Custom middle shield trusted to protect\r\nthe citizens of Celapaleis.|----|Um escudo médio especial que projetado para\r\nproteger os cidadãos de Celapaleis.|----|Un escudo mediano especial diseñado\r\npara proteger a las gentes de Celapalais.
 
-Common great shield that renders its\r\nholder a roaming fortress.|----|Grande escudo comum que transforma seu\r\nportador em uma fortaleza ambulante.|----|Un enorme escudo corriente que transforma\r\na su portador en una fortaleza ambulante.
+Common great shield that renders its\r\nholder a roaming fortress.|----|Um enorme escudo comum que transforma seu\r\nportador em uma fortaleza ambulante.|----|Un enorme escudo corriente que transforma\r\na su portador en una fortaleza ambulante.
 
 (REPETIDO)Reinforced to the seventh order.|----|Com reforço até o nível sete.|----|Un escudo de séptima categoría\r\ndigno de un soldado.
 
@@ -4244,11 +4244,11 @@ Common great shield that renders its\r\nholder a roaming fortress.|----|Grande e
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Arcane great shield born of the chaotic\r\nvoid.|----|Grande escudo arcano nascido do\r\nvazio caótico.|----|Un enorme escudo arcano surgido del caos.
+Arcane great shield born of the chaotic\r\nvoid.|----|Um enorme escudo arcano nascido do\r\ncaos.|----|Un enorme escudo arcano surgido del caos.
 
-(REPETIDO)Sturdier than its standard counterpart.|----|Mais resistente que seu equivalente padrão.|----|Un escudo más resistente\r\nque su equivalente común.
+(REPETIDO)Sturdier than its standard counterpart.|----|Mais resistente que sua versão comum.|----|Un escudo más resistente\r\nque su equivalente común.
 
-(REPETIDO)Far more sturdy than its standard counterpart.|----|Muito mais resistente que seu equivalente\r\ncomum.|----|Un escudo mucho más resistente\r\nque su equivalente común.
+(REPETIDO)Far more sturdy than its standard counterpart.|----|Muito mais resistente que sua versão\r\ncomum.|----|Un escudo mucho más resistente\r\nque su equivalente común.
 
 (REPETIDO)Infused with fire.|----|Um item infundido com o poder do fogo.|----|Un escudo cubierto de llamas.
 
@@ -4266,439 +4266,439 @@ Arcane great shield born of the chaotic\r\nvoid.|----|Grande escudo arcano nasci
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Prized great shield as large as a table.|----|Grande escudo de primeira qualidade tão largo\r\nquanto uma mesa.|----|Un enorme escudo de primera calidad\r\ntan grande como una mesa de comedor.
+Prized great shield as large as a table.|----|Um enorme escudo de primeira qualidade tão grande\r\nquanto uma mesa.|----|Un enorme escudo de primera calidad\r\ntan grande como una mesa de comedor.
 
-Master great shield drawing power from\r\nsage crystals embedded within.|----|Grande escudo mítico que drena seu poder dos\r\ncristais de sabedoria nele embutidos.|----|Un enorme escudo mítico que debe su poder\r\na los cristales místicos que lo decoran.
+Master great shield drawing power from\r\nsage crystals embedded within.|----|Um enorme escudo mítico que drena seu poder dos\r\ncristais místicos nele encrustados.|----|Un enorme escudo mítico que debe su poder\r\na los cristales místicos que lo decoran.
 
-Accessory worn about the neck\r\nto bolster mystic defense.|----|Acessório usado no pescoço para aumentar a\r\ndefesa mística.|----|Un accesorio que se coloca\r\nen torno al cuello para aumentar\r\nla defensa mística del portador.
+Accessory worn about the neck\r\nto bolster mystic defense.|----|Um acessório que se usa no pescoço para aumentar a\r\ndefesa mística.|----|Un accesorio que se coloca\r\nen torno al cuello para aumentar\r\nla defensa mística del portador.
 
-(REPETIDO)More effective than its standard counterpart.|----|Mais eficaz que seu equivalente padrão.|----|Una versión más efectiva\r\ndel collar normal.
+(REPETIDO)More effective than its standard counterpart.|----|Mais efetivo que sua versão comum.|----|Una versión más efectiva\r\ndel collar normal.
 
-(REPETIDO)Far more effective than its standard counterpart.|----|Muito mais eficaz que seu equivalente padrão.|----|Una versión aún más efectiva\r\ndel collar normal.
+(REPETIDO)Far more effective than its standard counterpart.|----|Muito mais efetivo que sua versão comum.|----|Una versión aún más efectiva\r\ndel collar normal.
 
-Neckwear of serpentine crystal,\r\nworn to bolster mystic defense.|----|Colar de cristais serpentinos,\r\nusado para melhorar a defesa mística.|----|Un collar hecho de cristal serpentino\r\nque mejora la defensa mística.
+Neckwear of serpentine crystal,\r\nworn to bolster mystic defense.|----|Um colar feito de cristal serpentino,\r\nusado para melhorar a defesa mística.|----|Un collar hecho de cristal serpentino\r\nque mejora la defensa mística.
 
-Neckwear of iridescent crystal,\r\nworn to bolster mystic defense.|----|Colar de cristais iridescentes,\r\nusado para melhorar a defesa mística.|----|Un collar hecho de cristal iridiscente\r\nque mejora la defensa mística.
+Neckwear of iridescent crystal,\r\nworn to bolster mystic defense.|----|Um colar feito de cristais iridescentes,\r\nusado para melhorar a defesa mística.|----|Un collar hecho de cristal iridiscente\r\nque mejora la defensa mística.
 
-Neckwear of blacksteel worn\r\nto bolster mystic defense.|----|Colar de aço negro usado para\r\nmelhorar a defesa mística.|----|Un collar de sombracero que mejora\r\nla defensa mística de su portador.
+Neckwear of blacksteel worn\r\nto bolster mystic defense.|----|Um colar feito de aço negro, usado para\r\nmelhorar a defesa mística.|----|Un collar de sombracero que mejora\r\nla defensa mística de su portador.
 
-Neckwear adorned with blue crystals,\r\nworn to strengthen mystic defense.|----|Colar adornado com cristais azuis,\r\nusado para melhorar a defesa mística.|----|Un collar decorado con cristales azules\r\nque refuerzan los ataques místicos.
+Neckwear adorned with blue crystals,\r\nworn to strengthen mystic defense.|----|Um colar adornado com cristais azuis,\r\nusado para melhorar a defesa mística.|----|Un collar decorado con cristales azules\r\nque refuerzan los ataques místicos.
 
-Neckwear bearing the Knocker's Ceylon\r\nthat offers superb mystic protection.|----|Colar que porta a Aldrava de Ceylon,\r\noferecendo excelente proteção mística.|----|Un collar que porta un triángulo de ladrón. Otorga una gran defensa mística.
+Neckwear bearing the Knocker's Ceylon\r\nthat offers superb mystic protection.|----|Um colar equipado com a Aldrava de Ceylon,\r\noferecendo grande proteção mística.|----|Un collar que porta un triángulo de ladrón. Otorga una gran defensa mística.
 
-Neckwear bearing the Ondine's Pear that\r\noffers superb mystic protection.|----|Colar que porta a Gema de Ondina,\r\noferecendo excelente proteção mística.|----|Un collar engastado con un óvalo de ondina.\r\nOtorga una gran defensa mística.
+Neckwear bearing the Ondine's Pear that\r\noffers superb mystic protection.|----|Um colar equipado com a Gema de Ondina,\r\noferecendo grande proteção mística.|----|Un collar engastado con un óvalo de ondina.\r\nOtorga una gran defensa mística.
 
-Neckwear bearing the Mermaid's Barrel\r\nthat offers superb mystic protection.|----|Colar que porta a Pérola da Sereia,\r\noferecendo excelente proteção mística.|----|Un collar que porta un abalorio de nereida.\r\nOtorga una gran defensa mística.
+Neckwear bearing the Mermaid's Barrel\r\nthat offers superb mystic protection.|----|Um colar equipado com a Pérola da Sereia,\r\noferecendo grande proteção mística.|----|Un collar que porta un abalorio de nereida.\r\nOtorga una gran defensa mística.
 
-Neckwear crafted in Melphina that\r\nbolsters mystic defense.|----|Colar fabricado em Melphina e que\r\nmelhora a defesa mística.|----|Un collar creado en Melphina que mejora\r\nla defensa mística de su portador.
+Neckwear crafted in Melphina that\r\nbolsters mystic defense.|----|Um colar fabricado em Melphina e que\r\nmelhora a defesa mística.|----|Un collar creado en Melphina que mejora\r\nla defensa mística de su portador.
 
-Neckwear fashioned from the fragments of\r\nan idol, enchanted by a mysterious power.|----|Colar elaborado a partir dos fragmentos de um\r\nídolo e encantado com um misterioso poder.|----|Un colgante elaborado\r\ncon los restos de un tótem.\r\nEncierra un misterioso poder...
+Neckwear fashioned from the fragments of\r\nan idol, enchanted by a mysterious power.|----|Um colar elaborado a partir dos fragmentos de um\r\nídolo e encantado com um misterioso poder.|----|Un colgante elaborado\r\ncon los restos de un tótem.\r\nEncierra un misterioso poder...
 
-Neckwear made from scales,\r\nworn to bolster mystic defense.|----|Colar feito de escamas,\r\nusado para melhorar a defesa mística.|----|Una gargantilla hecha de caparazón\r\nque mejora la defensa mística.
+Neckwear made from scales,\r\nworn to bolster mystic defense.|----|Um colar feito de escamas,\r\nusado para melhorar a defesa mística.|----|Una gargantilla hecha de caparazón\r\nque mejora la defensa mística.
 
-Neckwear made from horns,\r\nworn to bolster mystic defense.|----|Colar feito de chifres,\r\nusado para melhorar a defesa mística.|----|Un collar hecho de cuernos\r\nque mejora la defensa mística.
+Neckwear made from horns,\r\nworn to bolster mystic defense.|----|Um colar feito de chifres,\r\nusado para melhorar a defesa mística.|----|Un collar hecho de cuernos\r\nque mejora la defensa mística.
 
-Neckwear made from fangs,\r\nworn to bolster mystic defense.|----|Colar feito de presas,\r\nusado para melhorar a defesa mística.|----|Un collar hecho de colmillos\r\nque mejora la defensa mística.
+Neckwear made from fangs,\r\nworn to bolster mystic defense.|----|Um colar feito de presas,\r\nusado para melhorar a defesa mística.|----|Un collar hecho de colmillos\r\nque mejora la defensa mística.
 
-Neckwear made from bones,\r\nworn to bolster mystic defense.|----|Colar feito de ossos,\r\nusado para melhorar a defesa mística.|----|Un collar hecho de hueso\r\nque mejora la defensa mística.
+Neckwear made from bones,\r\nworn to bolster mystic defense.|----|Um colar feito de ossos,\r\nusado para melhorar a defesa mística.|----|Un collar hecho de hueso\r\nque mejora la defensa mística.
 
-Neckwear made from claws,\r\nworn to bolster mystic defense.|----|Colar feito de garras,\r\nusado para melhorar a defesa mística.|----|Una cadena hecha de garras\r\nque mejora la defensa mística.
+Neckwear made from claws,\r\nworn to bolster mystic defense.|----|Um colar feito de garras,\r\nusado para melhorar a defesa mística.|----|Una cadena hecha de garras\r\nque mejora la defensa mística.
 
-Neckwear made from skulls,\r\nworn to bolster mystic defense.|----|Colar feito de crânios,\r\nusado para melhorar a defesa mística.|----|Una cadena hecha de calaveras\r\nque mejora la defensa mística.
+Neckwear made from skulls,\r\nworn to bolster mystic defense.|----|Um colar feito de crânios,\r\nusado para melhorar a defesa mística.|----|Una cadena hecha de calaveras\r\nque mejora la defensa mística.
 
-Neckwear made from beaks,\r\nworn to bolster mystic defense.|----|Colar feito de bicos,\r\nusado para melhorar a defesa mística.|----|Una cadena hecha de picos\r\nque mejora la defensa mística.
+Neckwear made from beaks,\r\nworn to bolster mystic defense.|----|Um colar feito de bicos,\r\nusado para melhorar a defesa mística.|----|Una cadena hecha de picos\r\nque mejora la defensa mística.
 
-Neckwear made from feathers,\r\nworn to bolster mystic defense.|----|Colar feito de plumas,\r\nusado para melhorar a defesa mística.|----|Una cadena hecha de plumas\r\nque mejora la defensa mística.
+Neckwear made from feathers,\r\nworn to bolster mystic defense.|----|Um colar feito de plumas,\r\nusado para melhorar a defesa mística.|----|Una cadena hecha de plumas\r\nque mejora la defensa mística.
 
-Neckwear sewn of flowers,\r\nworn to bolster mystic defense.|----|Colar feito de flores entrelaçadas,\r\nusado para melhorar a defesa mística.|----|Una corona de flores entretejidas\r\nque mejora la defensa mística.
+Neckwear sewn of flowers,\r\nworn to bolster mystic defense.|----|Um colar feito de flores entrelaçadas,\r\nusado para melhorar a defesa mística.|----|Una corona de flores entretejidas\r\nque mejora la defensa mística.
 
-Neckwear featuring a dragon-shaped pendant\r\nto bolster mystic defense.|----|Colar com um pingente em forma de dragão,\r\nusado para melhorar a defesa mística.|----|Un collar con un colgante en forma\r\nde dragón. Mejora la defensa mística\r\nde su portador.
+Neckwear featuring a dragon-shaped pendant\r\nto bolster mystic defense.|----|Um colar com um pingente em forma de dragão,\r\nusado para melhorar a defesa mística.|----|Un collar con un colgante en forma\r\nde dragón. Mejora la defensa mística\r\nde su portador.
 
-Neckwear crafted from a mystic fiend to\r\nbolster mystic defense.|----|Colar fabricado a partir dos restos de um\r\ndemônio místico, usado para melhorar a defesa\r\nmística.|----|Una cadena hecha con los restos\r\nde un demonio místico que mejora\r\nla defensa mística de su portador.
+Neckwear crafted from a mystic fiend to\r\nbolster mystic defense.|----|Um colar fabricado a partir dos restos de um\r\ndemônio místico, usado para melhorar a defesa\r\nmística.|----|Una cadena hecha con los restos\r\nde un demonio místico que mejora\r\nla defensa mística de su portador.
 
-Neckwear crafted from a sky dragon to\r\nbolster mystic defense.|----|Colar fabricado a partir dos restos de um\r\ndragão do céu, usado para melhorar a defesa\r\nmística.|----|Una cadena hecha con los restos\r\nde un dragón del cielo que mejora\r\nla defensa mística de su portador.
+Neckwear crafted from a sky dragon to\r\nbolster mystic defense.|----|Um colar fabricado a partir dos restos de um\r\ndragão do céu, usado para melhorar a defesa\r\nmística.|----|Una cadena hecha con los restos\r\nde un dragón del cielo que mejora\r\nla defensa mística de su portador.
 
-Neckwear that inspires apocalyptic visions.\r\nBolsters mystic defense.|----|Colar que inspira visões apocalípticas.\r\nMelhora a defesa mística.|----|Un collar que hace que su portador\r\nexperimente visiones del apocalipsis\r\ny aumenta su defensa mística.
+Neckwear that inspires apocalyptic visions.\r\nBolsters mystic defense.|----|Um colar que faz seu portador ter visões do apocalipse,\r\nusado para melhorar a defesa mística.|----|Un collar que hace que su portador\r\nexperimente visiones del apocalipsis\r\ny aumenta su defensa mística.
 
-Neckwear that inspires nihilistic fantasies.\r\nBolsters mystic defense.|----|Colar que inspira visões de destruição.\r\nMelhora a defesa mística.|----|Un collar que hace que su portador\r\nexperimente visiones de destrucción\r\ny aumenta su defensa mística.
+Neckwear that inspires nihilistic fantasies.\r\nBolsters mystic defense.|----|Um colar que faz seu portador ter visões de destruição,\r\nusado para melhorar a defesa mística.|----|Un collar que hace que su portador\r\nexperimente visiones de destrucción\r\ny aumenta su defensa mística.
 
-Neckwear emblematic of life's eternal\r\ncircle.|----|Colar emblemático que representa\r\no eterno ciclo da vida.|----|Un collar que representa\r\nel eterno ciclo de la vida.
+Neckwear emblematic of life's eternal\r\ncircle.|----|Um colar emblemático que representa\r\no eterno ciclo da vida.|----|Un collar que representa\r\nel eterno ciclo de la vida.
 
-Accessory worn on the finger\r\nto increase intellect.|----|Acessório usado no dedo para aumentar\r\na inteligência do seu portador.|----|Un accesorio que se coloca en el dedo\r\npara aumentar la inteligencia del portador.
+Accessory worn on the finger\r\nto increase intellect.|----|Um acessório que se usa no dedo para aumentar\r\na inteligência do seu portador.|----|Un accesorio que se coloca en el dedo\r\npara aumentar la inteligencia del portador.
 
-(REPETIDO)More effective than its standard counterpart.|----|Mais eficaz que seu equivalente padrão.|----|Una versión más efectiva del anillo normal.
+(REPETIDO)More effective than its standard counterpart.|----|Mais efetivo que sua versão comum.|----|Una versión más efectiva del anillo normal.
 
 (REPETIDO)Far more effective than its standard\r\ncounterpart.|----|Muito mais eficaz que seu equivalente\r\ncomum.|----|Una versión aún más efectiva\r\ndel anillo normal.
 
-Ring of serpentine crystal,\r\nworn to increase intellect.|----|Anel de cristais serpentinos,\r\nusado para aumentar a inteligência.|----|Un anillo hecho de cristal serpentino\r\nque aumenta la inteligencia.
+Ring of serpentine crystal,\r\nworn to increase intellect.|----|Um anel feito de cristal serpentino,\r\nusado para aumentar a inteligência.|----|Un anillo hecho de cristal serpentino\r\nque aumenta la inteligencia.
 
-Ring of iridescent crystal,\r\nworn to increase intellect.|----|Anel de cristais iridescentes,\r\nusado para aumentar a inteligência.|----|Un anillo hecho de cristal iridiscente\r\nque aumenta la inteligencia.
+Ring of iridescent crystal,\r\nworn to increase intellect.|----|Um anel feito de cristais iridescentes,\r\nusado para aumentar a inteligência.|----|Un anillo hecho de cristal iridiscente\r\nque aumenta la inteligencia.
 
-Ring of blacksteel,\r\nworn to increase intellect.|----|Anel de aço negro,\r\nusado para aumentar a inteligência.|----|Un anillo hecho de sombracero\r\nque aumenta la inteligencia.
+Ring of blacksteel,\r\nworn to increase intellect.|----|Um anel feito de aço negro,\r\nusado para aumentar a inteligência.|----|Un anillo hecho de sombracero\r\nque aumenta la inteligencia.
 
-Ring set with a crimson gemstone\r\nto increase intellect.|----|Anel cravejado com uma gema de cor carmesim,\r\nque aumenta a inteligência do seu portador.|----|Un valioso anillo engastado con una gema\r\nde color carmesí que aumenta la inteligencia\r\nde su portador.
+Ring set with a crimson gemstone\r\nto increase intellect.|----|Um anel cravejado com uma gema de cor carmesim,\r\nque aumenta a inteligência do seu portador.|----|Un valioso anillo engastado con una gema\r\nde color carmesí que aumenta la inteligencia\r\nde su portador.
 
-Ring set with a smaragdine gemstone\r\nto increase intellect.|----|Anel cravejado com uma gema de cor esverdeada,\r\nque aumenta a inteligência do seu portador.|----|Un valioso anillo engastado con una gema\r\nde color verde que aumenta la inteligencia\r\nde su portador.
+Ring set with a smaragdine gemstone\r\nto increase intellect.|----|Um anel cravejado com uma gema de cor esverdeada,\r\nque aumenta a inteligência do seu portador.|----|Un valioso anillo engastado con una gema\r\nde color verde que aumenta la inteligencia\r\nde su portador.
 
-Ring set with a cerulean gemstone\r\nto increase intellect.|----|Anel cravejado com uma gema de cor azulada,\r\nque aumenta a inteligência do seu portador.|----|Un valioso anillo engastado con una gema\r\nde color azulado que aumenta la inteligencia\r\nde su portador.
+Ring set with a cerulean gemstone\r\nto increase intellect.|----|Um anel cravejado com uma gema de cor azulada,\r\nque aumenta a inteligência do seu portador.|----|Un valioso anillo engastado con una gema\r\nde color azulado que aumenta la inteligencia\r\nde su portador.
 
-Ring set with a pristine gemstone\r\nto increase intellect.|----|Anel cravejado com uma gema intocada,\r\nque aumenta a inteligência do seu portador.|----|Un valioso anillo engastado con una gema\r\nde brillo celestial que aumenta la inteligencia\r\nde su portador.
+Ring set with a pristine gemstone\r\nto increase intellect.|----|Um anel cravejado com uma gema de brilho celestial,\r\nque aumenta a inteligência do seu portador.|----|Un valioso anillo engastado con una gema\r\nde brillo celestial que aumenta la inteligencia\r\nde su portador.
 
-Ring bearing the Cúchulainn's Heart that\r\noffers intellectual insight.|----|Anel que porta o Coração de Herói, e que\r\noferece ao seu portador uma grande\r\ninteligência.|----|Un anillo que porta un corazón de héroe.\r\nOtorga una gran inteligencia.
+Ring bearing the Cúchulainn's Heart that\r\noffers intellectual insight.|----|Um anel equipado com um Coração de Herói, e que\r\noferece ao seu portador uma grande\r\ninteligência.|----|Un anillo que porta un corazón de héroe.\r\nOtorga una gran inteligencia.
 
-Ring bearing the Merman's French that\r\noffers intellectual insight.|----|Anel que traz o Tritão Francês, e que oferece\r\nao seu portador uma grande inteligência.|----|Un anillo que porta un trapecio de tritón.\r\nOtorga una gran inteligencia.
+Ring bearing the Merman's French that\r\noffers intellectual insight.|----|Um anel equipado com um Tritão Francês, e que oferece\r\nao seu portador uma grande inteligência.|----|Un anillo que porta un trapecio de tritón.\r\nOtorga una gran inteligencia.
 
-Ring bearing the Alp's Briolette that offers\r\nintellectual insight.|----|Anel que traz a Cruz Heráldica, e que oferece\r\nao seu portador uma grande inteligência.|----|Un anillo que porta una cruz de heraldo.\r\nOtorga una gran inteligencia.
+Ring bearing the Alp's Briolette that offers\r\nintellectual insight.|----|Um anel equipado com uma Cruz Heráldica, e que oferece\r\nao seu portador uma grande inteligência.|----|Un anillo que porta una cruz de heraldo.\r\nOtorga una gran inteligencia.
 
-Ring crafted in Elysion that increases\r\nintellect.|----|Anel fabricado em Elysion,\r\ne que aumenta a inteligência do seu portador.|----|Un anillo, obra de un artesano de Elysion,\r\nque otorga una gran inteligencia al portador.
+Ring crafted in Elysion that increases\r\nintellect.|----|Um anel fabricado em Elysion,\r\ne que aumenta a inteligência do seu portador.|----|Un anillo, obra de un artesano de Elysion,\r\nque otorga una gran inteligencia al portador.
 
-Ring fashioned from the fragments of an idol,\r\nenchanted by a mysterious power.|----|Anel elaborado a partir dos fragmentos de um\r\nídolo, e encantado com um misterioso poder.|----|Un sello elaborado\r\ncon los restos de un tótem.\r\nAumenta la inteligencia.
+Ring fashioned from the fragments of an idol,\r\nenchanted by a mysterious power.|----|Um anel elaborado a partir dos fragmentos de um\r\nídolo, e encantado com um misterioso poder.|----|Un sello elaborado\r\ncon los restos de un tótem.\r\nAumenta la inteligencia.
 
-Ring worn by Hannah of the Seven.|----|Anel que foi usado por Hannah, um dos sete\r\ngenerais.|----|Un anillo que fue propiedad\r\nde Hannah, uno de los siete\r\ngenerales.
+Ring worn by Hannah of the Seven.|----|Um anel que pertenceu a Hannah, um dos sete\r\ngenerais.|----|Un anillo que fue propiedad\r\nde Hannah, uno de los siete\r\ngenerales.
 
-Ring made from scales,\r\nworn to increase intellect.|----|Anel feito de escamas, usado para aumentar a\r\ninteligência do seu portador.|----|Un anillo hecho de escamas que aumenta\r\nla inteligencia del portador.
+Ring made from scales,\r\nworn to increase intellect.|----|Um anel feito de escamas, usado para aumentar a\r\ninteligência do seu portador.|----|Un anillo hecho de escamas que aumenta\r\nla inteligencia del portador.
 
-Ring made from horns,\r\nworn to increase intellect.|----|Anel feito de chifres, usado para aumentar a\r\ninteligência do seu portador.|----|Un anillo hecho de cuernos que aumenta\r\nla inteligencia del portador.
+Ring made from horns,\r\nworn to increase intellect.|----|Um anel feito de chifres, usado para aumentar a\r\ninteligência do seu portador.|----|Un anillo hecho de cuernos que aumenta\r\nla inteligencia del portador.
 
-Ring made from fangs,\r\nworn to increase intellect.|----|Anel feito de presas, usado para aumentar a\r\ninteligência do seu portador.|----|Un anillo hecho de colmillos que aumenta\r\nla inteligencia del portador.
+Ring made from fangs,\r\nworn to increase intellect.|----|Um anel feito de presas, usado para aumentar a\r\ninteligência do seu portador.|----|Un anillo hecho de colmillos que aumenta\r\nla inteligencia del portador.
 
-Ring made from bones,\r\nworn to increase intellect.|----|Anel feito de ossos, usado para aumentar a\r\ninteligência do seu portador.|----|Un anillo hecho de huesos que aumenta\r\nla inteligencia del portador.
+Ring made from bones,\r\nworn to increase intellect.|----|Um anel feito de ossos, usado para aumentar a\r\ninteligência do seu portador.|----|Un anillo hecho de huesos que aumenta\r\nla inteligencia del portador.
 
-Ring made from beaks,\r\nworn to increase intellect.|----|Anel feito de bicos, usado para aumentar a\r\ninteligência do seu portador.|----|Un anillo hecho de picos que aumenta\r\nla inteligencia del portador.
+Ring made from beaks,\r\nworn to increase intellect.|----|Um anel feito de bicos, usado para aumentar a\r\ninteligência do seu portador.|----|Un anillo hecho de picos que aumenta\r\nla inteligencia del portador.
 
-Ring sculpted from coral,\r\nworn to increase intellect.|----|Anel esculpido a partir de corais, usado para\r\naumentar a inteligência do seu portador.|----|Una sortija esculpida en coral que aumenta\r\nla inteligencia de su portador.
+Ring sculpted from coral,\r\nworn to increase intellect.|----|Um anel esculpido a partir de corais, usado para\r\naumentar a inteligência do seu portador.|----|Una sortija esculpida en coral que aumenta\r\nla inteligencia de su portador.
 
-Ring carved from Zalewood,\r\nworn to increase intellect.|----|Anel talhado em madeira de Zale, usado para\r\naumentar a inteligência do seu portador.|----|Una sortija tallada en madera de Zale.\r\nAumenta la inteligencia de su portador.
+Ring carved from Zalewood,\r\nworn to increase intellect.|----|Um anel talhado em madeira de Zale, usado para\r\naumentar a inteligência do seu portador.|----|Una sortija tallada en madera de Zale.\r\nAumenta la inteligencia de su portador.
 
-Ring of an ancient harpstring,\r\nworn to increase intellect.|----|Anel feito a partir das cordas de uma velha\r\nharpa, usado para aumentar a inteligência do\r\nseu portador.|----|Una sortija tejida a partir de las cuerdas\r\nde una vieja arpa. Aumenta la inteligencia\r\nde su portador.
+Ring of an ancient harpstring,\r\nworn to increase intellect.|----|Um anel feito a partir das cordas de uma velha\r\nharpa, usado para aumentar a inteligência do\r\nseu portador.|----|Una sortija tejida a partir de las cuerdas\r\nde una vieja arpa. Aumenta la inteligencia\r\nde su portador.
 
-Ring sewn of flowers,\r\nworn to increase intellect.|----|Anel feito de flores entrelaçadas, usado para\r\naumentar a inteligência do seu portador.|----|Un anillo compuesto de flores entretejidas.\r\nAumenta la inteligencia de su portador.
+Ring sewn of flowers,\r\nworn to increase intellect.|----|Um anel feito de flores entrelaçadas, usado para\r\naumentar a inteligência do seu portador.|----|Un anillo compuesto de flores entretejidas.\r\nAumenta la inteligencia de su portador.
 
-Ring forged by faeries to increase intellect.|----|Anel forjado pelas fadas para aumentar a\r\ninteligência.|----|Una sortija forjada por las hadas.\r\nAumenta la inteligencia de su portador.
+Ring forged by faeries to increase intellect.|----|Um anel forjado pelas fadas para aumentar a\r\ninteligência.|----|Una sortija forjada por las hadas.\r\nAumenta la inteligencia de su portador.
 
-Ring forged with mystic power,\r\nsaid to increase intellect.|----|Anel forjado com poderes místicos,\r\nsegundo dizem aumenta a inteligência.|----|Un anillo forjado bajo una gran aura mística\r\nque, según dicen, aumenta la inteligencia\r\nde su portador.
+Ring forged with mystic power,\r\nsaid to increase intellect.|----|Um anel forjado com poderes místicos,\r\nque dizem aumentar a inteligência.|----|Un anillo forjado bajo una gran aura mística\r\nque, según dicen, aumenta la inteligencia\r\nde su portador.
 
-Ring worn to symbolize lovers'\r\nendless devotion.|----|Anel que simboliza o amor eterno\r\ndos apaixonados.|----|Un anillo que simboliza el amor eterno\r\nentre dos enamorados.
+Ring worn to symbolize lovers'\r\nendless devotion.|----|Um anel que simboliza o amor eterno\r\ndos apaixonados.|----|Un anillo que simboliza el amor eterno\r\nentre dos enamorados.
 
-Ring awarded to academians and\r\nintellectuals.|----|Anel concedido à acadêmicos e\r\nintelectuais.|----|Una sortija que se otorga\r\na los pensadores más distinguidos.
+Ring awarded to academians and\r\nintellectuals.|----|Um anel concedido à acadêmicos e\r\nintelectuais.|----|Una sortija que se otorga\r\na los pensadores más distinguidos.
 
-Ring cast in praise of miracles.|----|Anel forjado para comemorar um grande milagre.|----|Una sortija forjada para conmemorar\r\nun gran milagro.
+Ring cast in praise of miracles.|----|Um anel forjado para comemorar um grande milagre.|----|Una sortija forjada para conmemorar\r\nun gran milagro.
 
-Accessory worn about the wrist\r\nto raise HP.|----|Acessório usado no pulso para\r\naumentar os PV de seu portador.|----|Un accesorio que se porta en la muñeca\r\ny aumenta los PV de su portador.
+Accessory worn about the wrist\r\nto raise HP.|----|Um acessório que se usa no pulso para\r\naumentar os PV do seu portador.|----|Un accesorio que se porta en la muñeca\r\ny aumenta los PV de su portador.
 
-(REPETIDO)More effective than its standard counterpart.|----|Mais eficaz que seu equivalente padrão.|----|Una versión más efectiva\r\ndel brazalete normal.
+(REPETIDO)More effective than its standard counterpart.|----|Mais efetivo que sua versão comum.|----|Una versión más efectiva\r\ndel brazalete normal.
 
-(REPETIDO)Far more effective than its standard counterpart.|----|Muito mais eficaz que seu equivalente padrão.|----|Una versión aún más efectiva\r\ndel brazalete normal.
+(REPETIDO)Far more effective than its standard counterpart.|----|Muito mais efetivo que sua versão comum.|----|Una versión aún más efectiva\r\ndel brazalete normal.
 
-Bracelet of serpentine crystal worn\r\nto raise HP.|----|Bracelete de cristais serpentinos,\r\nusado para aumentar os PV.|----|Un brazalete hecho de cristal serpentino\r\nque aumenta los PV del portador.
+Bracelet of serpentine crystal worn\r\nto raise HP.|----|Um bracelete feito de cristal serpentino,\r\nusado para aumentar os PV do portador.|----|Un brazalete hecho de cristal serpentino\r\nque aumenta los PV del portador.
 
-Bracelet of iridescent crystal worn\r\nto raise HP.|----|Bracelete de cristais iridescentes,\r\nusado para aumentar os PV.|----|Un brazalete hecho de cristal iridiscente\r\nque aumenta los PV del portador.
+Bracelet of iridescent crystal worn\r\nto raise HP.|----|Um bracelete feito de cristais iridescentes,\r\nusado para aumentar os PV do portador.|----|Un brazalete hecho de cristal iridiscente\r\nque aumenta los PV del portador.
 
-Bracelet of blacksteel,\r\nworn to raise HP.|----|Bracelete de aço negro,\r\nusado para aumentar os PV.|----|Un brazalete hecho de sombracero\r\nque aumenta los PV del portador.
+Bracelet of blacksteel,\r\nworn to raise HP.|----|Um bracelete feito de aço negro,\r\nusado para aumentar os PV do portador.|----|Un brazalete hecho de sombracero\r\nque aumenta los PV del portador.
 
-Bracelet adorned with red crystals,\r\nworn to raise HP.|----|Bracelete adornado com cristais vermelhos,\r\nusado para aumentar os PV.|----|Un brazalete engalanado con cristales\r\nde color escarlata que aumentan los PV\r\nde su portador.
+Bracelet adorned with red crystals,\r\nworn to raise HP.|----|Um bracelete adornado com cristais vermelhos,\r\nusado para aumentar os PV do portador.|----|Un brazalete engalanado con cristales\r\nde color escarlata que aumentan los PV\r\nde su portador.
 
-Bracelet bearing the Sylph's Marquise\r\nthat offers a considerable rise in HP.|----|Bracelete que porta a Marquesa de Silfo.\r\nAumenta consideravelmente os PV.|----|Un brazalete engastado con una marquesa\r\nde silfo que aumenta considerablemente\r\nlos PV de su portador.
+Bracelet bearing the Sylph's Marquise\r\nthat offers a considerable rise in HP.|----|Um bracelete equipado com uma Marquesa de Silfo.\r\nAumenta consideravelmente os PV do portador.|----|Un brazalete engastado con una marquesa\r\nde silfo que aumenta considerablemente\r\nlos PV de su portador.
 
-Bracelet bearing the Pixie's Rose that\r\noffers a considerable rise in HP.|----|Bracelete que porta a Rosa de Fada.\r\nAumenta consideravelmente os PV.|----|Un brazalete engastado con una rosa\r\nde hada que aumenta considerablemente\r\nlos PV de su portador.
+Bracelet bearing the Pixie's Rose that\r\noffers a considerable rise in HP.|----|Um bracelete equipado com uma Rosa de Fada.\r\nAumenta consideravelmente os PV do portador.|----|Un brazalete engastado con una rosa\r\nde hada que aumenta considerablemente\r\nlos PV de su portador.
 
-Bracelet bearing the Troll's Cushion that\r\noffers a considerable rise in HP.|----|Bracelete que porta o Selo de Troll.\r\nAumenta consideravelmente os PV.|----|Un brazalete engastado con un sello\r\nde troll que aumenta considerablemente\r\nlos PV de su portador.
+Bracelet bearing the Troll's Cushion that\r\noffers a considerable rise in HP.|----|Um bracelete equipado com um Selo de Troll.\r\nAumenta consideravelmente os PV do portador.|----|Un brazalete engastado con un sello\r\nde troll que aumenta considerablemente\r\nlos PV de su portador.
 
-Bracelet crafted in Nagapur that raises HP.|----|Bracelete fabricado em Nagapur que aumenta PV.|----|Una pulsera creada en Nagapur\r\nque aumenta los PV del portador.
+Bracelet crafted in Nagapur that raises HP.|----|Um bracelete fabricado em Nagapur que aumenta os PV do seu portador.|----|Una pulsera creada en Nagapur\r\nque aumenta los PV del portador.
 
-Bracelet crafted in Undelwalt that raises HP.|----|Bracelete fabricado em Undelwalt que aumenta\r\nPV.|----|Un brazalete creado en Undelwalt\r\nque aumenta los PV del portador.
+Bracelet crafted in Undelwalt that raises HP.|----|Um bracelete fabricado em Undelwalt que aumenta\r\nos PV do seu portador.|----|Un brazalete creado en Undelwalt\r\nque aumenta los PV del portador.
 
-Bracelet fashioned from the fragments of\r\nan idol, enchanted by a mysterious power.|----|Bracelete elaborado a partir dos fragmentos de\r\num ídolo e encantado com um misterioso poder.|----|Una muñequera elaborada\r\ncon los restos de un tótem.\r\nEncierra un misterioso poder...
+Bracelet fashioned from the fragments of\r\nan idol, enchanted by a mysterious power.|----|Um bracelete elaborado a partir dos fragmentos de\r\num ídolo e encantado com um misterioso poder.|----|Una muñequera elaborada\r\ncon los restos de un tótem.\r\nEncierra un misterioso poder...
 
-Bracelet worn by Young of the Seven.|----|Bracelete usado por Young, um dos sete\r\ngenerais.|----|Una muñequera que perteneció a Young,\r\nuno de los siete generales.
+Bracelet worn by Young of the Seven.|----|Um bracelete que pertenceu a Young, um dos sete\r\ngenerais.|----|Una muñequera que perteneció a Young,\r\nuno de los siete generales.
 
-Bracelet made from a carapace,\r\nworn to raise HP.|----|Bracelete feito a partir de uma carapaça,\r\nusado para aumentar os PV.|----|Un brazalete hecho de caparazón\r\nque aumenta los PV del portador.
+Bracelet made from a carapace,\r\nworn to raise HP.|----|Um bracelete feito a partir de uma carapaça,\r\nusado para aumentar os PV do seu portador.|----|Un brazalete hecho de caparazón\r\nque aumenta los PV del portador.
 
-Bracelet made from shells, worn to raise HP.|----|Bracelete feito de conchas, usado para\r\naumentar os PV.|----|Un brazalete hecho de conchas\r\nque aumenta los PV del portador.
+Bracelet made from shells, worn to raise HP.|----|Um bracelete feito de conchas, usado para\r\naumentar os PV do seu portador.|----|Un brazalete hecho de conchas\r\nque aumenta los PV del portador.
 
-Bracelet made from hide, worn to raise HP.|----|Bracelete feito de couro, usado para aumentar\r\nos PV.|----|Un brazalete hecho de piel curtida\r\nque aumenta los PV del portador.
+Bracelet made from hide, worn to raise HP.|----|Um bracelete feito de pele curtida, usado para aumentar\r\nos PV do seu portador.|----|Un brazalete hecho de piel curtida\r\nque aumenta los PV del portador.
 
-Bracelet made of leather, worn to raise HP.|----|Bracelete feito de couro, usado para aumentar\r\nos PV.|----|Un brazalete hecho de cuero\r\nque aumenta los PV del portador.
+Bracelet made of leather, worn to raise HP.|----|Um bracelete feito de couro, usado para aumentar\r\nos PV do seu portador.|----|Un brazalete hecho de cuero\r\nque aumenta los PV del portador.
 
-Bracelet made of rubber, worn to raise HP.|----|Bracelete feito de borracha, usado para\r\naumentar os PV.|----|Unas esposas de caucho que aumentan\r\nlos PV del portador.
+Bracelet made of rubber, worn to raise HP.|----|Um bracelete feito de borracha, usado para\r\naumentar os PV do seu portador.|----|Unas esposas de caucho que aumentan\r\nlos PV del portador.
 
-Bracelet made from pelts, worn to raise HP.|----|Bracelete feito de peles, usado para aumentar\r\nos PV.|----|Un brazalete hecho de pieles\r\nque aumenta los PV del portador.
+Bracelet made from pelts, worn to raise HP.|----|Um bracelete feito de peles, usado para aumentar\r\nos PV do seu portadores.|----|Un brazalete hecho de pieles\r\nque aumenta los PV del portador.
 
-Bracelet wrought of metal, worn to raise HP.|----|Bracelete forjado em metal, usado para\r\naumentar os PV.|----|Un brazalete hecho de metal forjado\r\nque aumenta los PV del portador.
+Bracelet wrought of metal, worn to raise HP.|----|Um bracelete forjado em metal, usado para\r\naumentar os PV do seu portador.|----|Un brazalete hecho de metal forjado\r\nque aumenta los PV del portador.
 
-Bracelet sculpted from coral,\r\nworn to raise HP.|----|Bracelete esculpido a partir de corais,\r\nusado para aumentar os PV.|----|Un brazalete hecho de coral esculpido\r\nque aumenta los PV del portador.
+Bracelet sculpted from coral,\r\nworn to raise HP.|----|Um bracelete esculpido a partir de corais,\r\nusado para aumentar os PV do seu portador.|----|Un brazalete hecho de coral esculpido\r\nque aumenta los PV del portador.
 
-Bracelet of chiseled obsidian,\r\nworn to raise HP.|----|Bracelete feito a partir de obsidiana talhada,\r\nusado para aumentar os PV.|----|Un brazalete hecho de obsidiana tallada\r\nque aumenta los PV del portador.
+Bracelet of chiseled obsidian,\r\nworn to raise HP.|----|Um bracelete feito a partir de obsidiana talhada,\r\nusado para aumentar os PV do seu portador.|----|Un brazalete hecho de obsidiana tallada\r\nque aumenta los PV del portador.
 
-Bracelet of interwoven Televa vines worn\r\nto raise HP.|----|Bracelete feito com folhas de televa\r\nentrelaçadas, usado para aumentar os PV.|----|Un brazalete elaborado con hojas\r\nde televa entretejidas. Aumenta los PV\r\ndel portador.
+Bracelet of interwoven Televa vines worn\r\nto raise HP.|----|Um bracelete feito com folhas de televa\r\nentrelaçadas, usado para aumentar os PV do seu portador.|----|Un brazalete elaborado con hojas\r\nde televa entretejidas. Aumenta los PV\r\ndel portador.
 
-Bracelet consecrated to a matronly deity\r\nworn to raise HP.|----|Bracelete consagrado a uma deusa da\r\nfertilidade, usado para aumentar os PV.|----|Un brazalete consagrado a una diosa\r\nde la fertilidad que aumenta los PV\r\ndel portador.
+Bracelet consecrated to a matronly deity\r\nworn to raise HP.|----|Um bracelete consagrado a uma deusa da\r\nfertilidade, usado para aumentar os PV do seu portador.|----|Un brazalete consagrado a una diosa\r\nde la fertilidad que aumenta los PV\r\ndel portador.
 
-Bracelet sanctified by spirits,\r\nworn to raise HP.|----|Bracelete santificado pelos espíritos,\r\nusado para aumentar os PV.|----|Un brazalete santificado por los espíritus\r\nque aumenta los PV del portador.
+Bracelet sanctified by spirits,\r\nworn to raise HP.|----|Um bracelete santificado pelos espíritos,\r\nusado para aumentar os PV do seu portador.|----|Un brazalete santificado por los espíritus\r\nque aumenta los PV del portador.
 
-Bracelet donned by knights,\r\nworn to defend the wrists and raise HP.|----|Bracelete usado por cavaleiros, a fim de\r\nproteger seus pulsos e aumentar os PV.|----|Un guantelete que portan los caballeros\r\npara proteger sus muñecas y aumentar\r\nsus PV.
+Bracelet donned by knights,\r\nworn to defend the wrists and raise HP.|----|Um bracelete usado por cavaleiros, para\r\nproteger seus pulsos e aumentar seus PV.|----|Un guantelete que portan los caballeros\r\npara proteger sus muñecas y aumentar\r\nsus PV.
 
-Bracelet that celebrates success and\r\nprosperity.|----|Bracelete que celebra o sucesso e a\r\nprosperidade.|----|Una muñequera que atrae el éxito\r\ny la prosperidad.
+Bracelet that celebrates success and\r\nprosperity.|----|Um bracelete que atrai o sucesso e a\r\nprosperidade.|----|Una muñequera que atrae el éxito\r\ny la prosperidad.
 
-Bracelet that bespeaks a compassionate\r\nheart.|----|Bracelete que revela a compaixão do coração\r\ndo seu proprietário.|----|Una muñequera que revela la compasión\r\nde su propietario.
+Bracelet that bespeaks a compassionate\r\nheart.|----|Um bracelete que revela a compaixão do coração\r\ndo seu proprietário.|----|Una muñequera que revela la compasión\r\nde su propietario.
 
-Bracelet conferred upon the righteous\r\nand true.|----|Bracelete que somente pode ser usado por\r\npessoas justas e honestas.|----|Una muñequera que sólo pueden llevar\r\nlas personas justas y honestas.
+Bracelet conferred upon the righteous\r\nand true.|----|Um bracelete que somente pode ser usado por\r\npessoas justas e honestas.|----|Una muñequera que sólo pueden llevar\r\nlas personas justas y honestas.
 
-Accessory worn on the ear to bolster\r\nphysical defense.|----|Acessório usado na orelha para melhorar a\r\ndefesa física.|----|Un accesorio que se coloca\r\nen la oreja. Mejora la defensa\r\nfísica del portador.
+Accessory worn on the ear to bolster\r\nphysical defense.|----|Um acessório que se usa na orelha para melhorar a\r\ndefesa física.|----|Un accesorio que se coloca\r\nen la oreja. Mejora la defensa\r\nfísica del portador.
 
-(REPETIDO)More effective than its standard counterpart.|----|Mais eficaz que seu equivalente padrão.|----|Una versión más efectiva\r\ndel pendiente normal.
+(REPETIDO)More effective than its standard counterpart.|----|Mais efetivo que sua versão comum.|----|Una versión más efectiva\r\ndel pendiente normal.
 
-(REPETIDO)Far more effective than its standard counterpart.|----|Muito mais eficaz que seu equivalente padrão.|----|Una versión aún más efectiva\r\ndel pendiente normal.
+(REPETIDO)Far more effective than its standard counterpart.|----|Muito mais efetivo que sua versão comum.|----|Una versión aún más efectiva\r\ndel pendiente normal.
 
-Earring of serpentine crystal,\r\nworn to bolster physical defense.|----|Brincos de cristais serpentinos,\r\nusados para melhorar a defesa física.|----|Un pendiente hecho de cristal serpentino\r\nque mejora la defensa física del portador.
+Earring of serpentine crystal,\r\nworn to bolster physical defense.|----|Um brinco feito de cristal serpentino,\r\nusado para melhorar a defesa física.|----|Un pendiente hecho de cristal serpentino\r\nque mejora la defensa física del portador.
 
-Earring of iridescent crystal,\r\nworn to bolster physical defense.|----|Brincos de cristais iridescentes,\r\nusados para melhorar a defesa física.|----|Un pendiente hecho de cristal iridiscente\r\nque mejora la defensa física del portador.
+Earring of iridescent crystal,\r\nworn to bolster physical defense.|----|Um brinco feito de cristais iridescentes,\r\nusado para melhorar a defesa física.|----|Un pendiente hecho de cristal iridiscente\r\nque mejora la defensa física del portador.
 
-Earring of blacksteel,\r\nworn to bolster physical defense.|----|Brincos de aço negro,\r\nusados para melhorar a defesa física.|----|Un pendiente hecho de sombracero\r\nque mejora la defensa física del portador.
+Earring of blacksteel,\r\nworn to bolster physical defense.|----|Um brinco feito de aço negro,\r\nusado para melhorar a defesa física.|----|Un pendiente hecho de sombracero\r\nque mejora la defensa física del portador.
 
-Earring set with a crimson gemstone\r\nto bolster physical defense.|----|Brincos contendo uma gema de cor carmesim\r\npara melhorar a defesa física.|----|Un pendiente de color carmesí que mejora\r\nla defensa física de su portador.
+Earring set with a crimson gemstone\r\nto bolster physical defense.|----|Um brinco contendo uma gema de cor carmesim,\r\nusado para melhorar a defesa física.|----|Un pendiente de color carmesí que mejora\r\nla defensa física de su portador.
 
-Earring set with a smaragdine gemstone\r\nto bolster physical defense.|----|Brincos contendo uma gema de cor esverdeada\r\npara melhorar a defesa física.|----|Un pendiente de intenso verdor que mejora\r\nla defensa física de su portador.
+Earring set with a smaragdine gemstone\r\nto bolster physical defense.|----|Um brinco contendo uma gema de cor esverdeada,\r\nusado para melhorar a defesa física.|----|Un pendiente de intenso verdor que mejora\r\nla defensa física de su portador.
 
-Earring set with a cerulean gemstone\r\nto bolster physical defense.|----|Brincos contendo uma gema de cor azulada\r\npara melhorar a defesa física.|----|Un pendiente de brillo celeste que mejora\r\nla defensa física de su portador.
+Earring set with a cerulean gemstone\r\nto bolster physical defense.|----|Um brinco contendo uma gema de cor azulada,\r\nusado para melhorar a defesa física.|----|Un pendiente de brillo celeste que mejora\r\nla defensa física de su portador.
 
-Earring set with a pristine gemstone\r\nto bolster physical defense.|----|Brincos contendo uma gema intocada\r\npara melhorar a defesa física.|----|Un pendiente de cuerno tallado que mejora\r\nla defensa física de su portador.
+Earring set with a pristine gemstone\r\nto bolster physical defense.|----|Um brinco contendo uma gema intocada,\r\nusado para melhorar a defesa física.|----|Un pendiente de cuerno tallado que mejora\r\nla defensa física de su portador.
 
-Earring with inlaid stormcrystal,\r\nworn to bolster physical defense.|----|Brincos com incrustações de cristais\r\ntempestuosos, usados para melhorar a defesa\r\nfísica.|----|Un cinturón engalanado con un cristal\r\nde fulgurita que aumenta la defensa física\r\nde su portador.
+Earring with inlaid stormcrystal,\r\nworn to bolster physical defense.|----|Um brinco com incrustações de cristais\r\ntempestuosos, usado para melhorar a defesa\r\nfísica.|----|Un cinturón engalanado con un cristal\r\nde fulgurita que aumenta la defensa física\r\nde su portador.
 
-Earring bearing the Spriggan's Step that\r\noffers superb physical protection.|----|Brincos que portam uma Fantasia de Fauno,\r\npara proteção contra ataques físicos.|----|Un pendiente engastado\r\ncon una fantasía de fauno.\r\nProtege contra los ataques físicos.
+Earring bearing the Spriggan's Step that\r\noffers superb physical protection.|----|Um brinco equipado com uma Fantasia de Fauno,\r\npara proteção contra ataques físicos.|----|Un pendiente engastado\r\ncon una fantasía de fauno.\r\nProtege contra los ataques físicos.
 
-Earring bearing the Brownie's Bead that\r\noffers superb physical protection.|----|Brincos que portam a Conta de Dríade,\r\npara proteção contra ataques físicos.|----|Un pendiente engastado\r\ncon una cuenta de dríada.\r\nProtege contra los ataques físicos.
+Earring bearing the Brownie's Bead that\r\noffers superb physical protection.|----|Um brinco equipado com uma Conta de Dríade,\r\npara proteção contra ataques físicos.|----|Un pendiente engastado\r\ncon una cuenta de dríada.\r\nProtege contra los ataques físicos.
 
-Earring bearing the Leprechaun's Scissor\r\nthat offers superb physical protection.|----|Brincos que trazem o Trevo de Leprechaun,\r\npara proteção contra ataques físicos.|----|Un pendiente engastado\r\ncon un trébol de leprechaun.\r\nProtege contra los ataques físicos.
+Earring bearing the Leprechaun's Scissor\r\nthat offers superb physical protection.|----|Um brinco equipado com um Trevo de Leprechaun,\r\npara proteção contra ataques físicos.|----|Un pendiente engastado\r\ncon un trébol de leprechaun.\r\nProtege contra los ataques físicos.
 
-Earring crafted in Athlum that bolsters\r\nphysical defense.|----|Brincos fabricados em Athlum para melhorar\r\na defesa física.|----|Un pendiente creado en Athlum\r\nque mejora la defensa física.
+Earring crafted in Athlum that bolsters\r\nphysical defense.|----|Um brinco fabricado em Athlum, que melhora\r\na defesa física.|----|Un pendiente creado en Athlum\r\nque mejora la defensa física.
 
-Earring fashioned from the fragments of\r\nan idol, enchanted by a mysterious power.|----|Brincos elaborados a partir dos fragmentos\r\nde um ídolo e encantados com um misterioso\r\npoder.|----|Un pendiente elaborado a partir de los restos\r\nde un tótem. Encierra un misterioso poder...
+Earring fashioned from the fragments of\r\nan idol, enchanted by a mysterious power.|----|Um brinco elaborado a partir dos fragmentos\r\nde um ídolo e encantados com um misterioso\r\npoder.|----|Un pendiente elaborado a partir de los restos\r\nde un tótem. Encierra un misterioso poder...
 
-Earring worn by Hinnah of the Seven.|----|Brincos usados por Hinnah, um dos sete\r\ngenerais.|----|Un cinturón que perteneció a Hinnah,\r\nuno de los siete generales.
+Earring worn by Hinnah of the Seven.|----|Um brinco que pertenceu a Hinnah, um dos sete\r\ngenerais.|----|Un cinturón que perteneció a Hinnah,\r\nuno de los siete generales.
 
-Earring made from scales,\r\nworn to bolster physical defense.|----|Brincos feitos de escamas,\r\nusados para melhorar a defesa física.|----|Un pendiente hecho de escamas\r\nque mejora la defensa física.
+Earring made from scales,\r\nworn to bolster physical defense.|----|Um brinco feito de escamas,\r\nusado para melhorar a defesa física.|----|Un pendiente hecho de escamas\r\nque mejora la defensa física.
 
-Earring made from horns,\r\nworn to bolster physical defense.|----|Brincos feitos de chifres,\r\nusados para melhorar a defesa física.|----|Un pendiente hecho de cuerno\r\nque mejora la defensa física.
+Earring made from horns,\r\nworn to bolster physical defense.|----|Um brinco feito de chifres,\r\nusado para melhorar a defesa física.|----|Un pendiente hecho de cuerno\r\nque mejora la defensa física.
 
-Earring made from fangs,\r\nworn to bolster physical defense.|----|Brincos feitos de presas,\r\nusados para melhorar a defesa física.|----|Un pendiente hecho de colmillos\r\nque mejora la defensa física.
+Earring made from fangs,\r\nworn to bolster physical defense.|----|Um brinco feito de presas,\r\nusado para melhorar a defesa física.|----|Un pendiente hecho de colmillos\r\nque mejora la defensa física.
 
-Earring made from bones,\r\nworn to bolster physical defense.|----|Brincos feitos de ossos,\r\nusados para melhorar a defesa física.|----|Un pendiente hecho de huesos\r\nque mejora la defensa física.
+Earring made from bones,\r\nworn to bolster physical defense.|----|Um brinco feito de ossos,\r\nusado para melhorar a defesa física.|----|Un pendiente hecho de huesos\r\nque mejora la defensa física.
 
-Earring made from beaks,\r\nworn to bolster physical defense.|----|Brincos feitos de bicos,\r\nusados para melhorar a defesa física.|----|Un pendiente hecho de picos\r\nque mejora la defensa física.
+Earring made from beaks,\r\nworn to bolster physical defense.|----|Um brinco feito de bicos,\r\nusado para melhorar a defesa física.|----|Un pendiente hecho de picos\r\nque mejora la defensa física.
 
-Earring made from feathers,\r\nworn to bolster physical defense.|----|Brincos feitos de plumas,\r\nusados para melhorar a defesa física.|----|Un pendiente hecho de plumas\r\nque mejora la defensa física.
+Earring made from feathers,\r\nworn to bolster physical defense.|----|Um brinco feito de plumas,\r\nusado para melhorar a defesa física.|----|Un pendiente hecho de plumas\r\nque mejora la defensa física.
 
-Earring wrought of metal.\r\nBolsters physical defense.|----|Brincos forjados em metal.\r\nReforçam a defesa física.|----|Un arete hecho de metal forjado\r\nque mejora la defensa física.
+Earring wrought of metal.\r\nBolsters physical defense.|----|Um brinco forjado em metal,\r\nusado para melhorar a defesa física.|----|Un arete hecho de metal forjado\r\nque mejora la defensa física.
 
-Earring sanctified by spirits,\r\nworn to bolster physical defense.|----|Brincos santificados por espíritos,\r\nusados para melhorar a defesa física.|----|Un pendiente consagrado por los espíritus.\r\nMejora la defensa física del portador.
+Earring sanctified by spirits,\r\nworn to bolster physical defense.|----|Um brinco santificado pelos espíritos,\r\nusado para melhorar a defesa física.|----|Un pendiente consagrado por los espíritus.\r\nMejora la defensa física del portador.
 
-Earcuff wrought of metal.\r\nBolsters physical defense.|----|Brincos forjados em metal.\r\nMelhoram a defesa física.|----|Un pendiente hecho de metal forjado\r\nque mejora la defensa física.
+Earcuff wrought of metal.\r\nBolsters physical defense.|----|Um brinco forjado em metal,\r\nusado para melhorar a defesa física.|----|Un pendiente hecho de metal forjado\r\nque mejora la defensa física.
 
-Earring void of color or light,\r\nworn to bolster physical defense.|----|Brincos carentes de cor e brilho,\r\nusados para melhorar a defesa física.|----|Un arete carente de brillo y color\r\nque mejora la defensa física.
+Earring void of color or light,\r\nworn to bolster physical defense.|----|Um brinco sem cor e brilho,\r\nusado para melhorar a defesa física.|----|Un arete carente de brillo y color\r\nque mejora la defensa física.
 
-Earring repugnantly wrapped in compound\r\neyes. Bolsters physical defense.|----|Brincos repugnantemente coberto de olhos de\r\ninsetos. Melhora a defesa física.|----|Un repugnante pendiente cubierto de ojos\r\nde insecto que mejora la defensa física\r\ndel portador.
+Earring repugnantly wrapped in compound\r\neyes. Bolsters physical defense.|----|Um brinco repugnante e coberto de olhos de\r\ninsetos. Melhora a defesa física.|----|Un repugnante pendiente cubierto de ojos\r\nde insecto que mejora la defensa física\r\ndel portador.
 
-Earring once worn by a valiant champion.\r\nBolsters physical defense.|----|Brincos que foi usado por um corajoso\r\nguerreiro. Melhoram a defesa física.|----|Un arete que antiguamente fue propiedad\r\nde un legendario paladín. Mejora la defensa\r\nfísica del portador.
+Earring once worn by a valiant champion.\r\nBolsters physical defense.|----|Um brinco que pertenceu a um corajoso\r\nguerreiro. Melhora a defesa física.|----|Un arete que antiguamente fue propiedad\r\nde un legendario paladín. Mejora la defensa\r\nfísica del portador.
 
-Earring that refuses to hear deterring\r\nwords.|----|Brincos que fazem seu portador se recusar a\r\nouvir palavras desencorajadores.|----|Un aro que obliga a su portador\r\na hacer oídos sordos a quienes tratan\r\nde disuadirlo.
+Earring that refuses to hear deterring\r\nwords.|----|Um brinco que faz seu portador deixar de\r\nouvir palavras desencorajadoras.|----|Un aro que obliga a su portador\r\na hacer oídos sordos a quienes tratan\r\nde disuadirlo.
 
-Earring that can tolerate all manner of\r\nprate and prattle.|----|Brincos que permitem suportar todo tipo\r\nde tagarelice e conversa fiada.|----|Un aro que permite aguantar incluso\r\nal más cargante de los charlatanes.
+Earring that can tolerate all manner of\r\nprate and prattle.|----|Um brinco que permite suportar todo tipo\r\nde tagarelice e conversa fiada.|----|Un aro que permite aguantar incluso\r\nal más cargante de los charlatanes.
 
-Earring that offers insight\r\ninto speakers' minds.|----|Brincos que permitem averiguar os\r\npensamentos do seu interlocutor.|----|Un aro que permite averiguar\r\nlo que piensa tu interlocutor.
+Earring that offers insight\r\ninto speakers' minds.|----|Um brinco que permite averiguar os\r\npensamentos do seu interlocutor.|----|Un aro que permite averiguar\r\nlo que piensa tu interlocutor.
 
-Accessory worn around the hip\r\nto heighten strength.|----|Acessório usado ao redor da cintura que\r\naumenta a força.|----|Un accesorio que se porta\r\nalrededor de la cintura\r\ny aumenta la fuerza del portador.
+Accessory worn around the hip\r\nto heighten strength.|----|Um acessório que se usa ao redor da cintura e que\r\naumenta a força do seu portador.|----|Un accesorio que se porta\r\nalrededor de la cintura\r\ny aumenta la fuerza del portador.
 
-(REPETIDO)More effective than its standard counterpart.|----|Mais eficaz que seu equivalente padrão.|----|Una versión más efectiva\r\ndel cinturón normal.
+(REPETIDO)More effective than its standard counterpart.|----|Mais efetivo que sua versão comum.|----|Una versión más efectiva\r\ndel cinturón normal.
 
-(REPETIDO)Far more effective than its standard counterpart.|----|Muito mais eficaz que seu equivalente padrão.|----|Una versión aún más efectiva\r\ndel cinturón normal.
+(REPETIDO)Far more effective than its standard counterpart.|----|Muito mais efetivo que sua versão comum.|----|Una versión aún más efectiva\r\ndel cinturón normal.
 
-Belt adorned with blue crystals\r\nto heighten strength.|----|Cinturão adornado com cristais azuis\r\npara aumentar a força.|----|Un cinturón engalanado con cristales\r\nde color azul que aumentan la fuerza\r\nde su portador.
+Belt adorned with blue crystals\r\nto heighten strength.|----|Um cinturão adornado com cristais azuis\r\nque aumentam a força do seu portador.|----|Un cinturón engalanado con cristales\r\nde color azul que aumentan la fuerza\r\nde su portador.
 
-Belt bearing the Goblin's Drop\r\nthat adds immense strength.|----|Cinturão que porta uma lágrima de duende\r\ne outorga uma imensa força.|----|Un cinturón engastado\r\ncon una lágrima de trasgo.\r\nOtorga una fuerza sobrehumana.
+Belt bearing the Goblin's Drop\r\nthat adds immense strength.|----|Um cinturão equipado com uma lágrima de duende\r\ne que concede uma imensa força.|----|Un cinturón engastado\r\ncon una lágrima de trasgo.\r\nOtorga una fuerza sobrehumana.
 
-Belt bearing the Boggart's Trapezoid that\r\nadds immense strength.|----|Cinturão que porta o Cristal de Gnomo\r\ne outorga uma imensa força.|----|Un cinturón engastado\r\ncon un cristal gnómico.\r\nOtorga una fuerza sobrehumana.
+Belt bearing the Boggart's Trapezoid that\r\nadds immense strength.|----|Um cinturão equipado com um Cristal de Gnomo\r\ne que concede uma imensa força.|----|Un cinturón engastado\r\ncon un cristal gnómico.\r\nOtorga una fuerza sobrehumana.
 
-Belt bearing the Kobold's Halfdutch that\r\nadds immense strength.|----|Cinturão que traz o Cabochão de Kobold\r\ne outorga uma imensa força.|----|Un cinturón engastado\r\ncon un cabujón de kobold.\r\nOtorga una fuerza sobrehumana.
+Belt bearing the Kobold's Halfdutch that\r\nadds immense strength.|----|Um cinturão equipado com um Cabochão de Kobold\r\ne que concede uma imensa força.|----|Un cinturón engastado\r\ncon un cabujón de kobold.\r\nOtorga una fuerza sobrehumana.
 
-Belt crafted in Ghor that\r\nheightens strength.|----|Cinturão fabricado em Ghor que\r\naumenta a força.|----|Un cinto creado en Ghor\r\nque eleva la fuerza del portador.
+Belt crafted in Ghor that\r\nheightens strength.|----|Um cinturão fabricado em Ghor que\r\naumenta a força do seu portador.|----|Un cinto creado en Ghor\r\nque eleva la fuerza del portador.
 
-Belt fashioned from the fragments of an idol,\r\nenchanted by a mysterious power.|----|Cinturão elaborado a partir dos fragmentos\r\nde um ídolo e encantado com um misterioso\r\npoder.|----|Un cinturón elaborado\r\ncon los restos de un tótem.\r\nEncierra un misterioso poder...
+Belt fashioned from the fragments of an idol,\r\nenchanted by a mysterious power.|----|Um cinturão elaborado a partir dos fragmentos\r\nde um ídolo e encantado com um misterioso\r\npoder.|----|Un cinturón elaborado\r\ncon los restos de un tótem.\r\nEncierra un misterioso poder...
 
-Belt worn by Snievan of the Seven.|----|Cinturão usado por Snievan, um dos sete\r\ngenerais.|----|Un cinturón que perteneció a Snievan,\r\nuno de los siete generales.
+Belt worn by Snievan of the Seven.|----|Um cinturão que pertenceu a Snievan, um dos sete\r\ngenerais.|----|Un cinturón que perteneció a Snievan,\r\nuno de los siete generales.
 
-Belt made from a carapace,\r\nworn to heighten strength.|----|Cinturão feito a partir de uma carapaça,\r\nusado para aumentar a força.|----|Un cinturón hecho de caparazón\r\nque aumenta la fuerza del portador.
+Belt made from a carapace,\r\nworn to heighten strength.|----|Um cinturão feito a partir de uma carapaça,\r\nusado para aumentar a força.|----|Un cinturón hecho de caparazón\r\nque aumenta la fuerza del portador.
 
-Belt made from shells,\r\nworn to heighten strength.|----|Cinturão feito de conchas,\r\nusado para aumentar a força.|----|Un cinturón hecho de conchas\r\nque aumenta la fuerza del portador.
+Belt made from shells,\r\nworn to heighten strength.|----|Um cinturão feito de conchas,\r\nusado para aumentar a força.|----|Un cinturón hecho de conchas\r\nque aumenta la fuerza del portador.
 
-Belt made of leather,\r\nworn to heighten strength.|----|Cinturão feito de couro,\r\nusado para aumentar a força.|----|Un cinturón hecho de cuero\r\nque aumenta la fuerza del portador.
+Belt made of leather,\r\nworn to heighten strength.|----|Um cinturão feito de couro,\r\nusado para aumentar a força.|----|Un cinturón hecho de cuero\r\nque aumenta la fuerza del portador.
 
-Belt made from tails,\r\nworn to heighten strength.|----|Cinturão feito de caudas,\r\nusado para aumentar a força.|----|Un cinturón hecho de colas\r\nque aumenta la fuerza del portador.
+Belt made from tails,\r\nworn to heighten strength.|----|Um cinturão feito de caudas,\r\nusado para aumentar a força.|----|Un cinturón hecho de colas\r\nque aumenta la fuerza del portador.
 
-Belt made of linen,\r\nworn to heighten strength.|----|Cinturão feito de linho,\r\nusado para aumentar a força.|----|Un cinturón hecho de lino\r\nque aumenta la fuerza del portador.
+Belt made of linen,\r\nworn to heighten strength.|----|Um cinturão feito de linho,\r\nusado para aumentar a força.|----|Un cinturón hecho de lino\r\nque aumenta la fuerza del portador.
 
-Belt made of cotton,\r\nworn to heighten strength.|----|Cinturão feito de algodão,\r\nusado para aumentar a força.|----|Un cinturón hecho de algodón\r\nque aumenta la fuerza del portador.
+Belt made of cotton,\r\nworn to heighten strength.|----|Um cinturão feito de algodão,\r\nusado para aumentar a força.|----|Un cinturón hecho de algodón\r\nque aumenta la fuerza del portador.
 
-Belt made of angora,\r\nworn to heighten strength.|----|Cinturão feito de lã,\r\nusado para aumentar a força.|----|Un cinturón hecho de lana\r\nque aumenta la fuerza del portador.
+Belt made of angora,\r\nworn to heighten strength.|----|Um cinturão feito de lã,\r\nusado para aumentar a força.|----|Un cinturón hecho de lana\r\nque aumenta la fuerza del portador.
 
-Belt made of alpaca,\r\nworn to heighten strength.|----|Cinturão feito de alpaca,\r\nusado para aumentar a força.|----|Un cinturón hecho de alpaca\r\nque aumenta la fuerza del portador.
+Belt made of alpaca,\r\nworn to heighten strength.|----|Um cinturão feito de alpaca,\r\nusado para aumentar a força.|----|Un cinturón hecho de alpaca\r\nque aumenta la fuerza del portador.
 
-Belt made of rubber,\r\nworn to heighten strength.|----|Cinturão feito de borracha,\r\nusado para aumentar a força.|----|Un cinturón hecho de goma\r\nque aumenta la fuerza del portador.
+Belt made of rubber,\r\nworn to heighten strength.|----|Um cinturão feito de borracha,\r\nusado para aumentar a força.|----|Un cinturón hecho de goma\r\nque aumenta la fuerza del portador.
 
-Belt made from pelts,\r\nworn to heighten strength.|----|Cinturão feito de peles,\r\nusado para aumentar a força.|----|Un cinturón hecho de pieles\r\nque aumenta la fuerza del portador.
+Belt made from pelts,\r\nworn to heighten strength.|----|Um cinturão feito de peles,\r\nusado para aumentar a força.|----|Un cinturón hecho de pieles\r\nque aumenta la fuerza del portador.
 
-Belt that promises to maximize potential\r\nand heighten strength.|----|Cinturão que ajuda seu portador a usar seu\r\nmáximo pontencial e aumenta sua força.|----|Un cinturón que ayuda al portador\r\na desarrollar al máximo su potencial\r\ny aumenta su fuerza.
+Belt that promises to maximize potential\r\nand heighten strength.|----|Um cinturão que ajuda a maximizar o\r\npontencial e aumentar a força do seu portador.|----|Un cinturón que ayuda al portador\r\na desarrollar al máximo su potencial\r\ny aumenta su fuerza.
 
-Belt worn by the ancient masters to\r\nheighten strength.|----|Cinturão usado por mestres da antiguidade para\r\naumentar a força.|----|Un cinturón que solían llevar los maestros\r\nde la antigüedad para aumentar su fuerza.
+Belt worn by the ancient masters to\r\nheighten strength.|----|Um cinturão usado por mestres da antiguidade para\r\naumentar sua força.|----|Un cinturón que solían llevar los maestros\r\nde la antigüedad para aumentar su fuerza.
 
-Belt that yearns to be free of restrictions.|----|Cinturão que anseia libertar-se de todo tipo\r\nde restrições.|----|Un cinturón que anhela liberarse\r\nde todo tipo de restricciones.
+Belt that yearns to be free of restrictions.|----|Um cinturão que anseia libertar-se de todo tipo\r\nde restrições.|----|Un cinturón que anhela liberarse\r\nde todo tipo de restricciones.
 
-Belt to which go the spoils of the victor.|----|Cinturão que atrai para si os espólios da\r\nguerra.|----|Un cinturón que atrae para sí\r\nlos despojos de la guerra.
+Belt to which go the spoils of the victor.|----|Um cinturão que atrai para si os espólios da\r\nguerra.|----|Un cinturón que atrae para sí\r\nlos despojos de la guerra.
 
-Belt worn in solitude as an act of contrition.|----|Cinturão usado pelos reclusos como penitência\r\npelos seus pecados.|----|Un cinturón que llevan quienes\r\nse recluyen como penitencia\r\npor sus pecados.
+Belt worn in solitude as an act of contrition.|----|Um cinturão usado pelos reclusos como penitência\r\npelos seus pecados.|----|Un cinturón que llevan quienes\r\nse recluyen como penitencia\r\npor sus pecados.
 
-Accessory clasped to the legs to enhance\r\nspeed.|----|Acessório que se usa nas pernas para melhorar\r\na velocidade.|----|Un accesorio que se porta\r\nen las piernas para mejorar\r\nla velocidad del portador.
+Accessory clasped to the legs to enhance\r\nspeed.|----|Um acessório que se usa nas pernas para melhorar\r\na velocidade.|----|Un accesorio que se porta\r\nen las piernas para mejorar\r\nla velocidad del portador.
 
-(REPETIDO)More effective than its standard counterpart.|----|Mais eficaz que seu equivalente padrão.|----|Una versión más efectiva\r\nde las grebas normales.
+(REPETIDO)More effective than its standard counterpart.|----|Mais efetivo que sua versão comum.|----|Una versión más efectiva\r\nde las grebas normales.
 
 (REPETIDO)Far more effective than its standard\r\ncounterpart.|----|Muito mais eficaz que seu equivalente\r\ncomum.|----|Una versión aún más efectiva\r\nde las grebas normales.
 
-Anklets of serpentine crystal,\r\nworn to enhance speed.|----|Tornozeleiras de cristais serpentinos,\r\nusadas para aumentar a velocidade.|----|Una tobillera hecha de cristal serpentino\r\nque aumenta la velocidad de su portador.
+Anklets of serpentine crystal,\r\nworn to enhance speed.|----|Uma tornozeleira feita de cristal serpentino,\r\nusada para aumentar a velocidade.|----|Una tobillera hecha de cristal serpentino\r\nque aumenta la velocidad de su portador.
 
-Anklets of iridescent crystal,\r\nworn to enhance speed.|----|Tornozeleiras de cristais iridescentes,\r\nusadas para aumentar a velocidade.|----|Una tobillera hecha de cristal iridiscente\r\nque aumenta la velocidad de su portador.
+Anklets of iridescent crystal,\r\nworn to enhance speed.|----|Uma tornozeleira feita de cristais iridescentes,\r\nusada para aumentar a velocidade.|----|Una tobillera hecha de cristal iridiscente\r\nque aumenta la velocidad de su portador.
 
-Anklets of blacksteel,\r\nworn to enhance speed.|----|Tornozeleiras de aço negro,\r\nusadas para aumentar a velocidade.|----|Una tobillera hecha de sombracero\r\nque aumenta la velocidad de su portador.
+Anklets of blacksteel,\r\nworn to enhance speed.|----|Uma tornozeleira feita de aço negro,\r\nusada para aumentar a velocidade.|----|Una tobillera hecha de sombracero\r\nque aumenta la velocidad de su portador.
 
-Anklets adorned with white crystals,\r\nworn to enhance speed.|----|Tornozeleiras adornadas com cristais brancos,\r\nusadas para aumentar a velocidade.|----|Unas grebas engalanadas con cristales\r\nde color blanco que aumentan el poder\r\nque aumenta la velocidad de su portador.
+Anklets adorned with white crystals,\r\nworn to enhance speed.|----|Uma tornozeleira adornada com cristais brancos,\r\nusada para aumentar a velocidade.|----|Unas grebas engalanadas con cristales\r\nde color blanco que aumentan el poder\r\nque aumenta la velocidad de su portador.
 
-Anklets bearing the Oberon's Baguette that\r\nrenders a vast improvement in speed.|----|Tornozeleiras decoradas com o Prisma de\r\nOberon, melhorando muito a velocidade.|----|Una tobillera decorada con\r\nel prisma de Oberón que otorga\r\nal portador una velocidad sobrenatural.
+Anklets bearing the Oberon's Baguette that\r\nrenders a vast improvement in speed.|----|Uma tornozeleira equipada com o Prisma de\r\nOberon, que aumenta a velocidade do seu portador.|----|Una tobillera decorada con\r\nel prisma de Oberón que otorga\r\nal portador una velocidad sobrenatural.
 
-Anklets bearing the Siren's Square that\r\nrenders a vast improvement in speed.|----|Tornozeleiras que trazem o Quadrado da Sereia,\r\nmelhorando muito a velocidade.|----|Una tobillera con la princesa \r\nde sirena que otorga al portador\r\nuna velocidad sobrenatural.
+Anklets bearing the Siren's Square that\r\nrenders a vast improvement in speed.|----|Uma tornozeleira equipada com o Quadrado da Sereia,\r\nque aumenta a velocidade do seu portador.|----|Una tobillera con la princesa \r\nde sirena que otorga al portador\r\nuna velocidad sobrenatural.
 
-Anklets bearing the Kelpie's Single that\r\nrenders a vast improvement in speed.|----|Tornozeleiras que trazem o Solitário de\r\nCorcel, melhorando muito a velocidade.|----|Una tobillera con la solitaria\r\nde corcel maldito que otorga\r\nal portador una gran velocidad.
+Anklets bearing the Kelpie's Single that\r\nrenders a vast improvement in speed.|----|Uma tornozeleira equipada com o Solitário de\r\nCorcel, que aumenta a velocidade do seu portador.|----|Una tobillera con la solitaria\r\nde corcel maldito que otorga\r\nal portador una gran velocidad.
 
-Anklets crafted in Baaluk that enhance\r\nspeed.|----|Tornozeleiras fabricadas em Baaluk que\r\naumentam a velocidade.|----|Una tobillera forjada en Baaluk\r\nque aumenta la velocidad de su portador.
+Anklets crafted in Baaluk that enhance\r\nspeed.|----|Uma tornozeleira fabricada em Baaluk que\r\naumenta a velocidade do seu portador.|----|Una tobillera forjada en Baaluk\r\nque aumenta la velocidad de su portador.
 
-Anklets crafted in Balterossa that enhance\r\nspeed.|----|Tornozeleiras fabricadas em Balterossa que\r\naumentam a velocidade.|----|Una tobillera forjada en Balterossa\r\nque aumenta la velocidad de su portador.
+Anklets crafted in Balterossa that enhance\r\nspeed.|----|Uma tornozeleira fabricada em Balterossa que\r\naumenta a velocidade do seu portador.|----|Una tobillera forjada en Balterossa\r\nque aumenta la velocidad de su portador.
 
-Anklets fashioned from the fragments of\r\nan idol, enchanted by a mysterious power.|----|Tornozeleiras elaboradas a partir dos\r\nfragmentos de um ídolo e encantadas com um\r\nmisterioso poder.|----|Unas grebas elaboradas con los restos\r\nde un tótem. Encierran un misterioso poder...
+Anklets fashioned from the fragments of\r\nan idol, enchanted by a mysterious power.|----|Uma tornozeleira elaborada a partir dos\r\nfragmentos de um ídolo e encantada com um\r\nmisterioso poder.|----|Unas grebas elaboradas con los restos\r\nde un tótem. Encierran un misterioso poder...
 
-Anklets made from a carapace,\r\nworn to enhance speed.|----|Tornozeleiras feitas de uma carapaça,\r\nusadas para aumentar a velocidade.|----|Unas grebas hechas de caparazón.\r\nAumentan la velocidad de su portador.
+Anklets made from a carapace,\r\nworn to enhance speed.|----|Uma tornozeleira feita de carapaça,\r\nusada para aumentar a velocidade.|----|Unas grebas hechas de caparazón.\r\nAumentan la velocidad de su portador.
 
-Anklets made from shells,\r\nworn to enhance speed.|----|Tornozeleiras feitas de conchas,\r\nusadas para aumentar a velocidade.|----|Unas grebas hechas de conchas.\r\nAumentan la velocidad de su portador.
+Anklets made from shells,\r\nworn to enhance speed.|----|Uma tornozeleira feita de conchas,\r\nusada para aumentar a velocidade.|----|Unas grebas hechas de conchas.\r\nAumentan la velocidad de su portador.
 
-Anklets made from horns,\r\nworn to enhance speed.|----|Tornozeleiras feitas de chifres,\r\nusadas para aumentar a velocidade.|----|Unas grebas hechas de cuernos.\r\nAumentan la velocidad de su portador.
+Anklets made from horns,\r\nworn to enhance speed.|----|Uma tornozeleira feita de chifres,\r\nusada para aumentar a velocidade.|----|Unas grebas hechas de cuernos.\r\nAumentan la velocidad de su portador.
 
-Anklets made from fangs,\r\nworn to enhance speed.|----|Tornozeleiras feitas de presas,\r\nusadas para aumentar a velocidade.|----|Unas grebas hechas de colmillos.\r\nAumentan la velocidad de su portador.
+Anklets made from fangs,\r\nworn to enhance speed.|----|Uma tornozeleira feita de presas,\r\nusada para aumentar a velocidade.|----|Unas grebas hechas de colmillos.\r\nAumentan la velocidad de su portador.
 
-Anklets made from bones,\r\nworn to enhance speed.|----|Tornozeleiras feitas de ossos,\r\nusadas para aumentar a velocidade.|----|Unas grebas hechas de huesos.\r\nAumentan la velocidad de su portador.
+Anklets made from bones,\r\nworn to enhance speed.|----|Uma tornozeleira feita de ossos,\r\nusada para aumentar a velocidade.|----|Unas grebas hechas de huesos.\r\nAumentan la velocidad de su portador.
 
-Anklets of polished Tashlon clamshells,\r\nworn to enhance speed.|----|Tornozeleiras feitas de conchas polidas de\r\ntashlon, usadas para aumentar a velocidade.|----|Unas tobilleras elaboradas con conchas\r\nde tashlon primorosamente pulidas.\r\nAumentan la velocidad de su portador.
+Anklets of polished Tashlon clamshells,\r\nworn to enhance speed.|----|Uma tornozeleira feita de conchas polidas de\r\ntashlon, usada para aumentar a velocidade.|----|Unas tobilleras elaboradas con conchas\r\nde tashlon primorosamente pulidas.\r\nAumentan la velocidad de su portador.
 
-Anklets of refined Surgill roots,\r\nworn to enhance speed.|----|Tornozeleiras feitas com raízes refinadas de\r\nsurgill, usadas para aumentar a velocidade.|----|Unas tobilleras elaboradas con raíces\r\nrefinadas del árbol de cargill. Aumentan\r\nla velocidad de su portador.
+Anklets of refined Surgill roots,\r\nworn to enhance speed.|----|Uma tornozeleira feita com raízes refinadas de\r\nsurgill, usada para aumentar a velocidade.|----|Unas tobilleras elaboradas con raíces\r\nrefinadas del árbol de cargill. Aumentan\r\nla velocidad de su portador.
 
-Anklets that stave off the cold\r\nas they enhance speed.|----|Tornozeleiras que protegem do frio ao mesmo\r\ntempo em que aumentam a velocidade.|----|Una prenda que protege del frío al tiempo\r\nque aumenta la velocidad de su portador.
+Anklets that stave off the cold\r\nas they enhance speed.|----|Uma tornozeleira que protege do frio ao mesmo\r\ntempo em que aumenta a velocidade.|----|Una prenda que protege del frío al tiempo\r\nque aumenta la velocidad de su portador.
 
-Anklets of tempered dragonscales,\r\nworn to enhance speed.|----|Tornozeleiras feitas de escamas de dragão\r\ntemperadas, usadas para aumentar a velocidade.|----|Unas tobilleras forjadas con escamas\r\nde dragón templadas. Aumentan la velocidad\r\ndel portador.
+Anklets of tempered dragonscales,\r\nworn to enhance speed.|----|Uma tornozeleira feita de escamas de dragão\r\ntemperadas, usada para aumentar a velocidade.|----|Unas tobilleras forjadas con escamas\r\nde dragón templadas. Aumentan la velocidad\r\ndel portador.
 
-Anklets carried on the momentum of one\r\ntriumphant thrill to the next.|----|Tornozeleiras que conduzem seu portador\r\naté a vitória.|----|Unas tobilleras que conducen\r\na su portador hacia la victoria.
+Anklets carried on the momentum of one\r\ntriumphant thrill to the next.|----|Uma tornozeleira que conduz seu portador\r\naté a vitória.|----|Unas tobilleras que conducen\r\na su portador hacia la victoria.
 
-Anklets that wallow constantly\r\nin the agony of defeat.|----|Tornozeleiras que fazem seu portador se\r\nremoer constantemente na agonia de uma\r\nderrota.|----|Unas tobilleras que hacen que su portador\r\nse regodee constantemente en el dolor\r\nde la derrota.
+Anklets that wallow constantly\r\nin the agony of defeat.|----|Uma tornozeleira que faz seu portador se\r\nremoer constantemente na dor de uma\r\nderrota.|----|Unas tobilleras que hacen que su portador\r\nse regodee constantemente en el dolor\r\nde la derrota.
 
-Anklets that transport all who\r\nbehold them to another world.|----|Tornozeleiras que transportam para outro mundo\r\ntodos aqueles que a contemplam.|----|Unas tobilleras que transportan a un mundo\r\nde fantasía a todos cuantos las contemplan.
+Anklets that transport all who\r\nbehold them to another world.|----|Uma tornozeleira que transporta para um outro mundo\r\ntodos aqueles que a contemplam.|----|Unas tobilleras que transportan a un mundo\r\nde fantasía a todos cuantos las contemplan.
 
-Accessory worn to raise AP.|----|Acessório usado para aumentar os PA.|----|Un accesorio que aumenta los PA.
+Accessory worn to raise AP.|----|Um acessório que aumenta os PA do seu portador.|----|Un accesorio que aumenta los PA.
 
-(REPETIDO)More effective than its standard counterpart.|----|Mais eficaz que seu equivalente padrão.|----|Una versión más efectiva\r\ndel amuleto normal.
+(REPETIDO)More effective than its standard counterpart.|----|Mais efetivo que sua versão comum.|----|Una versión más efectiva\r\ndel amuleto normal.
 
-(REPETIDO)Far more effective than its standard counterpart.|----|Muito mais eficaz que seu equivalente padrão.|----|Una versión aún más efectiva\r\ndel amuleto normal.
+(REPETIDO)Far more effective than its standard counterpart.|----|Muito mais efetivo que sua versão comum.|----|Una versión aún más efectiva\r\ndel amuleto normal.
 
-Amulet of serpentine crystal,\r\nworn to raise AP.|----|Amuleto feito de cristais serpentinos,\r\nusado para aumentar os PA.|----|Un amuleto hecho de cristal serpentino\r\nque aumenta los PA del portador.
+Amulet of serpentine crystal,\r\nworn to raise AP.|----|Um amuleto feito de cristal serpentino,\r\nusado para aumentar os PA do seu portador.|----|Un amuleto hecho de cristal serpentino\r\nque aumenta los PA del portador.
 
-Amulet of iridescent crystal,\r\nworn to raise AP.|----|Amuleto feito de cristais iridescentes,\r\nusado para aumentar os PA.|----|Un amuleto hecho de cristal iridiscente\r\nque aumenta los PA del portador.
+Amulet of iridescent crystal,\r\nworn to raise AP.|----|Um amuleto feito de cristais iridescentes,\r\nusado para aumentar os PA do seu portador.|----|Un amuleto hecho de cristal iridiscente\r\nque aumenta los PA del portador.
 
-Amulet of blacksteel, worn to raise AP.|----|Amuleto feito de aço negro, usado para\r\naumentar os PA.|----|Un amuleto hecho de sombracero\r\nque aumenta los PA del portador.
+Amulet of blacksteel, worn to raise AP.|----|Um amuleto feito de aço negro, usado para\r\naumentar os PA do seu portador.|----|Un amuleto hecho de sombracero\r\nque aumenta los PA del portador.
 
-Amulet crafted in Celapaleis that raises AP.|----|Amuleto criado em Celapaleis que aumenta\r\nos PA.|----|Un amuleto creado en Celapalais\r\nque aumenta los PA del portador.
+Amulet crafted in Celapaleis that raises AP.|----|Um amuleto criado em Celapaleis que aumenta\r\nos PA do seu portador.|----|Un amuleto creado en Celapalais\r\nque aumenta los PA del portador.
 
-Amulet crafted in Royotia that raises AP.|----|Amuleto criado em Royotia que aumenta PA.|----|Un amuleto creado en Royotia\r\nque aumenta los PA del portador.
+Amulet crafted in Royotia that raises AP.|----|Um amuleto criado em Royotia que aumenta os PA do seu portador.|----|Un amuleto creado en Royotia\r\nque aumenta los PA del portador.
 
-Amulet fashioned from the fragments of\r\nan idol, enchanted by a mysterious power.|----|Amuleto elaborado a partir dos fragmentos\r\nde um ídolo e encantado com um misterioso\r\npoder.|----|Un amuleto elaborado con los restos\r\nde un tótem. Encierra un misterioso poder...
+Amulet fashioned from the fragments of\r\nan idol, enchanted by a mysterious power.|----|Um amuleto elaborado a partir dos fragmentos\r\nde um ídolo e encantado com um misterioso\r\npoder.|----|Un amuleto elaborado con los restos\r\nde un tótem. Encierra un misterioso poder...
 
-Charm made from horns, worn to raise AP.|----|Talismã feito de chifres, usado para aumentar\r\nos AP.|----|Un talismán hecho de cuernos\r\nque aumenta los PA del portador.
+Charm made from horns, worn to raise AP.|----|Um talismã feito de chifres, usado para aumentar\r\nos PA do seu portador.|----|Un talismán hecho de cuernos\r\nque aumenta los PA del portador.
 
-Charm made from fangs, worn to raise AP.|----|Talismã feito de presas, usado para aumentar\r\nos PA.|----|Un talismán hecho de colmillos\r\nque aumenta los PA del portador.
+Charm made from fangs, worn to raise AP.|----|Um talismã feito de presas, usado para aumentar\r\nos PA do seu portador.|----|Un talismán hecho de colmillos\r\nque aumenta los PA del portador.
 
-Charm made from bones, worn to raise AP.|----|Talismã feito de ossos, usado para aumentar\r\nos PA.|----|Un talismán hecho de huesos\r\nque aumenta los PA del portador.
+Charm made from bones, worn to raise AP.|----|Um talismã feito de ossos, usado para aumentar\r\nos PA do seu portador.|----|Un talismán hecho de huesos\r\nque aumenta los PA del portador.
 
-Charm made from feathers, worn to raise AP.|----|Talismã feito de plumas, usado para aumentar\r\nos PA.|----|Un talismán hecho de plumas\r\nque aumenta los PA del portador.
+Charm made from feathers, worn to raise AP.|----|Um talismã feito de plumas, usado para aumentar\r\nos PA do seu portador.|----|Un talismán hecho de plumas\r\nque aumenta los PA del portador.
 
-Charm made from wings, worn to raise AP.|----|Talismã feito de asas, usado para aumentar\r\nos PA.|----|Un talismán hecho de alas\r\nque aumenta los PA del portador.
+Charm made from wings, worn to raise AP.|----|Um talismã feito de asas, usado para aumentar\r\nos PA do seu portador.|----|Un talismán hecho de alas\r\nque aumenta los PA del portador.
 
-Charm made from eyes, worn to raise AP.|----|Talismã feito de olhos, usado para aumentar\r\nos PA.|----|Un talismán hecho de ojos\r\nque aumenta los PA del portador.
+Charm made from eyes, worn to raise AP.|----|Um talismã feito de olhos, usado para aumentar\r\nos PA do seu portador.|----|Un talismán hecho de ojos\r\nque aumenta los PA del portador.
 
-Amulet wrought of metal, worn to raise AP.|----|Amuleto forjado em metal, usado para aumentar\r\nos PA.|----|Un amuleto hecho de metal forjado\r\nque aumenta los PA del portador.
+Amulet wrought of metal, worn to raise AP.|----|Um amuleto forjado em metal, usado para aumentar\r\nos PA do seu portador.|----|Un amuleto hecho de metal forjado\r\nque aumenta los PA del portador.
 
-Amulet sculpted from animal carcasses\r\nworn to raise AP.|----|Amuleto esculpido a partir das carcaças de\r\nanimais usado para aumentar os PA.|----|Un amuleto tallado a partir\r\nde huesos de animales.\r\nAumenta los PA del portador.
+Amulet sculpted from animal carcasses\r\nworn to raise AP.|----|Um amuleto esculpido a partir das carcaças de\r\nanimais, usado para aumentar os PA do seu portador.|----|Un amuleto tallado a partir\r\nde huesos de animales.\r\nAumenta los PA del portador.
 
-Charm crafted from a dragon to raise AP.|----|Talismã feito a partir do coração de um\r\ndragão para aumentar os PA.|----|Un talismán tallado a partir\r\ndel corazón de un dragón.\r\nAumenta los PA del portador.
+Charm crafted from a dragon to raise AP.|----|Um talismã feito a partir do coração de um\r\ndragão para aumentar os PA do seu portador.|----|Un talismán tallado a partir\r\ndel corazón de un dragón.\r\nAumenta los PA del portador.
 
-Amulet reflecting all it sees, worn to raise AP.|----|Amuleto que reflete tudo o que vê, usado para\r\naumentar os PA.|----|Un amuleto que refleja todo\r\ncuanto tiene delante.\r\nAumenta los PA del portador.
+Amulet reflecting all it sees, worn to raise AP.|----|Um amuleto que reflete tudo o que vê, usado para\r\naumentar os PA do seu portador.|----|Un amuleto que refleja todo\r\ncuanto tiene delante.\r\nAumenta los PA del portador.
 
-Amulet worn by travelers to keep evil at\r\nbay and raise AP.|----|Amuleto usado pelos viajantes para manter\r\no mal afastado e aumentar PA.|----|Un amuleto que suelen llevar\r\nlos viajeros para alejar el mal.\r\nAumenta los PA del portador.
+Amulet worn by travelers to keep evil at\r\nbay and raise AP.|----|Um amuleto usado para manter o mal afastado\r\ndos viajantes e aumentar os PA do seu portador.|----|Un amuleto que suelen llevar\r\nlos viajeros para alejar el mal.\r\nAumenta los PA del portador.
 
-Amulet beholden to the inevitability of fate.|----|Amuleto que representa os caprichos do\r\ndestino.|----|Un amuleto que representa\r\nlos caprichos del destino.
+Amulet beholden to the inevitability of fate.|----|Um amuleto que representa os caprichos do\r\ndestino.|----|Un amuleto que representa\r\nlos caprichos del destino.
 
-Amulet into which countless hopes and\r\ndreams are invested.|----|Amuleto em que foram depositados\r\ninúmeros sonhos e esperanças.|----|Un amuleto en el que\r\nse han depositado innumerables\r\nsueños y deseos.
+Amulet into which countless hopes and\r\ndreams are invested.|----|Um amuleto em que foram depositados\r\ninúmeros sonhos e esperanças.|----|Un amuleto en el que\r\nse han depositado innumerables\r\nsueños y deseos.
 
-Amulet of a power arcane and sacrosanct.|----|Amuleto contendo um poder arcano e\r\nsobrenatural.|----|Un amuleto que representa\r\nun poder sagrado y sobrenatural.
+Amulet of a power arcane and sacrosanct.|----|Um amuleto contendo um poder arcano e\r\nsobrenatural.|----|Un amuleto que representa\r\nun poder sagrado y sobrenatural.
 
-Trinket featuring an embossed flare.|----|Jóia onde está gravado o símbolo de uma\r\nlabareda.|----|Una hebilla que tiene grabado\r\nel símbolo de una llamarada.
+Trinket featuring an embossed flare.|----|Uma jóia onde está gravado o símbolo de uma\r\nlabareda.|----|Una hebilla que tiene grabado\r\nel símbolo de una llamarada.
 
-Trinket featuring an embossed bolt.|----|Jóia onde está gravado o símbolo de um raio.|----|Una hebilla que tiene grabado\r\nel símbolo de un relámpago.
+Trinket featuring an embossed bolt.|----|Uma jóia onde está gravado o símbolo de um raio.|----|Una hebilla que tiene grabado\r\nel símbolo de un relámpago.
 
-Trinket featuring an embossed shard.|----|Jóia onde está gravado o símbolo de um\r\ncristal de gelo.|----|Una hebilla que tiene grabado\r\nel símbolo de un cristal de hielo.
+Trinket featuring an embossed shard.|----|Uma jóia onde está gravado o símbolo de um\r\ncristal de gelo.|----|Una hebilla que tiene grabado\r\nel símbolo de un cristal de hielo.
 
-Trinket set with a volatile crystal.|----|Jóia onde está gravado o símbolo de um\r\ncristal volátil.|----|Una hebilla que tiene engastado\r\nun cristal inestable.
+Trinket set with a volatile crystal.|----|Uma jóia onde está gravado o símbolo de um\r\ncristal volátil.|----|Una hebilla que tiene engastado\r\nun cristal inestable.
 
-Trinket set with a toxic crystal.|----|Jóia onde está gravado o símbolo de um\r\ncristal tóxico.|----|Una hebilla que tiene engastado\r\nun cristal de sustancias tóxicas.
+Trinket set with a toxic crystal.|----|Uma jóia onde está gravado o símbolo de um\r\ncristal tóxico.|----|Una hebilla que tiene engastado\r\nun cristal de sustancias tóxicas.
 
-Trinket bearing the Dwarf's Cabochon.|----|Jóia decorada com o Cabochão dos Anões.|----|Un broche de gran belleza decorado\r\ncon una estrella enana.
+Trinket bearing the Dwarf's Cabochon.|----|Um broche decorado com um Cabochão dos Anões.|----|Un broche de gran belleza decorado\r\ncon una estrella enana.
 
-Trinket bearing the Leanen Sídhe's\r\nBrilliance.|----|Jóia decorada com o Brilhante de\r\nLeanan Sídhe.|----|Un broche que tiene engastado\r\nun brillante de musa.
+Trinket bearing the Leanen Sídhe's\r\nBrilliance.|----|Um broche decorado com um Brilhante de\r\nLeanan Sídhe.|----|Un broche que tiene engastado\r\nun brillante de musa.
 
-Trinket bearing the Elf's Emerald.|----|Jóia decorada com a Esmeralda dos Elfos.|----|Un broche que tiene engastado\r\nuna esmeralda élfica.
+Trinket bearing the Elf's Emerald.|----|Um broche decorado com uma Esmeralda Élfica.|----|Un broche que tiene engastado\r\nuna esmeralda élfica.
 
-Trinket bearing the Banshee's Octagon.|----|Jóia decorada com o Octógono de Banshee.|----|Un broche que tiene engastado\r\nun octógono de banshee.
+Trinket bearing the Banshee's Octagon.|----|Um broche decorado com um Octógono de Banshee.|----|Un broche que tiene engastado\r\nun octógono de banshee.
 
-Garment worn by Milton of the Seven.|----|Vestimenta usada por Milton, um dos sete\r\ngenerais.|----|Una prenda que fue propiedad de Milton,\r\nuno de los siete generales.
+Garment worn by Milton of the Seven.|----|Uma vestimenta que pertenceu a Milton, um dos sete\r\ngenerais.|----|Una prenda que fue propiedad de Milton,\r\nuno de los siete generales.
 
-Garment worn by Zuido of the Seven.|----|Vestimenta usada por Zuido, um dos sete\r\ngenerais.|----|Una prenda que fue propiedad de Zuido,\r\nuno de los siete generales.
+Garment worn by Zuido of the Seven.|----|Uma vestimenta que pertenceu a Zuido, um dos sete\r\ngenerais.|----|Una prenda que fue propiedad de Zuido,\r\nuno de los siete generales.
 
-Garment worn by Ludope of the Seven.|----|Vestimenta usada por Ludope, um dos sete\r\ngenerais.|----|Una prenda que fue propiedad de Ludope,\r\nuno de los siete generales.
+Garment worn by Ludope of the Seven.|----|Uma vestimenta que pertenceu a Ludope, um dos sete\r\ngenerais.|----|Una prenda que fue propiedad de Ludope,\r\nuno de los siete generales.
 
-Garment made from pelts.|----|Vestimenta feita de peles.|----|Una pañoleta hecha de pieles.
+Garment made from pelts.|----|Uma vestimenta feita de peles.|----|Una pañoleta hecha de pieles.
 
-Garment made from scales.|----|Vestimenta feita de escamas.|----|Una estola hecha de escamas.
+Garment made from scales.|----|Uma vestimenta feita de escamas.|----|Una estola hecha de escamas.
 
-Garment made from wings.|----|Vestimenta feita de asas.|----|Una estola hecha de alas de monstruo.
+Garment made from wings.|----|Uma vestimenta feita de asas.|----|Una estola hecha de alas de monstruo.
 
-Garment made from beast eyes.|----|Vestimenta feita de olhos de criaturas\r\nmonstruosas.|----|Un monóculo hecho a partir de los ojos\r\nde todo tipo de criaturas monstruosas.
+Garment made from beast eyes.|----|Uma vestimenta feita de olhos de criaturas\r\nmonstruosas.|----|Un monóculo hecho a partir de los ojos\r\nde todo tipo de criaturas monstruosas.
 
-Garment woven from linen.|----|Vestimenta tecida em linho.|----|Una prenda finamente tejida a partir\r\nde fibras de lino.
+Garment woven from linen.|----|Uma vestimenta tecida em linho.|----|Una prenda finamente tejida a partir\r\nde fibras de lino.
 
-Garment woven from angora.|----|Vestimenta tecida em lã.|----|Una prenda de angora que ayuda\r\na conservar el calor corporal.
+Garment woven from angora.|----|Uma vestimenta tecida em lã.|----|Una prenda de angora que ayuda\r\na conservar el calor corporal.
 
-Garment woven from alpaca.|----|Vestimenta tecida em alpaca.|----|Una prenda tejida con la lana\r\nde un animal exótico.
+Garment woven from alpaca.|----|Uma vestimenta tecida em alpaca.|----|Una prenda tejida con la lana\r\nde un animal exótico.
 
-Garment made of rubber.|----|Vestimenta feita de borracha.|----|Una prenda flexible fabricada con caucho.
+Garment made of rubber.|----|Uma vestimenta feita de borracha.|----|Una prenda flexible fabricada con caucho.
 
-Garment crafted from a fiend.|----|Vestimenta feita a partir dos restos de um\r\ndemônio.|----|Una estola hecha a partir de los restos\r\nde un demonio.
+Garment crafted from a fiend.|----|Uma vestimenta feita a partir dos restos de um\r\ndemônio.|----|Una estola hecha a partir de los restos\r\nde un demonio.
 
-Lipstick stained a sanguine shade.|----|Batom com coloração de tons de sangue.|----|Un pintalabios de color carmesí.
+Lipstick stained a sanguine shade.|----|Um batom de cor vermelho sangue.|----|Un pintalabios de color carmesí.
 
-Stone that prophesies the end of the world.|----|Rocha que profetiza o fim do mundo.|----|Una piedra cuyas inscripciones\r\nnarran la profecía del apocalipsis.
+Stone that prophesies the end of the world.|----|Uma rocha contendo inscrições que profetizam o fim do mundo.|----|Una piedra cuyas inscripciones\r\nnarran la profecía del apocalipsis.
 
 Guild Task dummy text|----|Guild Task dummy text|----|Pruebas del gremio
 
@@ -4706,7 +4706,7 @@ Monsters to slay: Flauros x 6\r\nLocation: The Great Subterrane|----|Objetivo: D
 
 Monsters to slay: Vulture x 5\r\nLocation: Lavafender|----|Objetivo: Derrotar 5 Abutres\r\nLocalização: Lavafender|----|Objetivo: Derrota a cinco buitres\r\nUbicación: Lavaluarte
 
-Monsters to slay: Rockgrater x 6\r\nLocation: The Numor Mines|----|Objetivo: Derrotar 6 Rebentarocha\r\nLocalização: As Minas de Numor|----|Objetivo: Derrota a seis revientarrocas\r\nUbicación: Minas de Numor
+Monsters to slay: Rockgrater x 6\r\nLocation: The Numor Mines|----|Objetivo: Derrotar 6 Rebentarochas\r\nLocalização: As Minas de Numor|----|Objetivo: Derrota a seis revientarrocas\r\nUbicación: Minas de Numor
 
 Monsters to slay: Glutton x 7\r\nLocation: The Catacombs|----|Objetivo: Derrotar 7 Glutões\r\nLocalização: As Catacumbas|----|Objetivo: Derrota a siete tragaldabas\r\nUbicación: Catacumbas
 
@@ -4724,7 +4724,7 @@ Monsters to slay: Spiritwood x 12\r\nLocation: The Numor Mines|----|Objetivo: De
 
 Monsters to slay: Charybdis x 15\r\nLocation: Flaumello Tower|----|Objetivo: Derrotar 15 Caribdis\r\nLocalização: Torre Flaumello|----|Objetivo: Derrota a 15 caribdis\r\nUbicación: Torre de Flaumello
 
-Monsters to slay: Mandragora x 9\r\nLocation: Yvalock's Nest|----|Objetivo: Derrotar 9 Mandrágora\r\nLocalização: Ninho de Yvalock|----|Objetivo: Derrota a nueve mandrágoras\r\nUbicación: Nido de Ivalock
+Monsters to slay: Mandragora x 9\r\nLocation: Yvalock's Nest|----|Objetivo: Derrotar 9 Mandrágoras\r\nLocalização: Ninho de Yvalock|----|Objetivo: Derrota a nueve mandrágoras\r\nUbicación: Nido de Ivalock
 
 Monsters to slay: Manhunter x 16\r\nLocation: Fornstrand|----|Objetivo: Derrotar 16 Caçahomens\r\nLocalização: Fornstrand|----|Objetivo: Derrota a 16 cazahombres\r\nUbicación: Fornstrand
 
@@ -4742,9 +4742,9 @@ Monster to slay: Bluetalon\r\nLocation: Flaumello Tower|----|Objetivo: Derrotar 
 
 Monster to slay: Mercurius\r\nLocation: Darken Forest|----|Objetivo: Derrotar um Mercuriano\r\nLocalização: Floresta Negra|----|Objetivo: Derrota a un mercurius\r\nUbicación: Bosque de Darken
 
-(REPETIDO)Hidden monster to slay: Unknown\r\nLocation: Unknown|----|Objetivo: Derrotar Monstro Desconhecido\r\nLocalização: Desconhecida|----|Objetivo: Derrota a un monstruo oculto\r\nUbicación: Desconocida
+(REPETIDO)Hidden monster to slay: Unknown\r\nLocation: Unknown|----|Objetivo: Derrotar um monstro desconhecido\r\nLocalização: Desconhecida|----|Objetivo: Derrota a un monstruo oculto\r\nUbicación: Desconocida
 
-(REPETIDO)Hidden monster to slay: Unknown\r\nLocation: Unknown|----|Objetivo: Derrotar Monstro Desconhecido\r\nLocalização: Desconhecida|----|Objetivo: Derrota a un monstruo oculto\r\nUbicación: Desconocida
+(REPETIDO)Hidden monster to slay: Unknown\r\nLocation: Unknown|----|Objetivo: Derrotar um monstro desconhecido\r\nLocalização: Desconhecida|----|Objetivo: Derrota a un monstruo oculto\r\nUbicación: Desconocida
 
 Obtain 4 Beastman Bones.|----|Consiga 4 ossos de homem-fera.|----|Consigue cuatro huesos de hombre bestia.
 
@@ -4762,7 +4762,7 @@ Obtain 4 Sky Dragon Husks.|----|Consiga 4 mudas de pele de dragão do céu.|----
 
 Obtain 2 pieces of Winged Insecta Meat.|----|Consiga 2 pedaços de carne de inseto alado.|----|Consigue dos trozos de carne de insecto alado.
 
-Obtain 3 Beastman Rawhides.|----|Consiga 3 carcaças de homem-fera.|----|Consigue tres fragmentos de cuero de hombre bestia.
+Obtain 3 Beastman Rawhides.|----|Consiga 3 pedaços de couro de homem-fera.|----|Consigue tres fragmentos de cuero de hombre bestia.
 
 Obtain 4 Darkfiend Talons.|----|Consiga 4 garras de demônio da escuridão.|----|Consigue cuatro garras de ser oscuro.
 
@@ -4792,7 +4792,7 @@ Obtain 3 Tanned Mystic Fiend Hides.|----|Consiga 3 peles curtidas de demônio m�
 
 Obtain 2 pelts of Archfiend Fur.|----|Consiga 2 pelagens de arquidemônio.|----|Consigue dos fragmentos de pelaje de archidemonio.
 
-Obtain 5 Faerie Rawhides.|----|Consiga 5 couros de ser mítico.|----|Consigue cinco fragmentos de cuero de ser mítico.
+Obtain 5 Faerie Rawhides.|----|Consiga 5 pedaços de couro de ser mítico.|----|Consigue cinco fragmentos de cuero de ser mítico.
 
 Obtain 4 pieces of Avian Fiend Meat.|----|Consiga 4 pedaços de carne de demônio alado.|----|Consigue cuatro trozos de carne de demonio alado.
 
@@ -4810,19 +4810,19 @@ Have 2 Freelancers in the party.|----|Tenha 2 freelancers no seu grupo.|----|Re�
 
 Have 3 Runemaidens in the party.|----|Tenha 3 adivinhas no seu grupo.|----|Reúne a tres adivinas en tu grupo.
 
-Have a party member with 35+ STR.|----|Tenha um personagem do seu grupo com 35+ FRC.|----|Consigue que un miembro de tu grupo\r\ndesarrolle una fuerza de 35 o superior.
+Have a party member with 35+ STR.|----|Tenha um personagem no seu grupo com 35+ FRC.|----|Consigue que un miembro de tu grupo\r\ndesarrolle una fuerza de 35 o superior.
 
-Have a party member with 33+ INT.|----|Tenha um personagem do seu grupo com 33+ INT.|----|Consigue que un miembro de tu grupo\r\ndesarrolle una inteligencia de 33 o superior.
+Have a party member with 33+ INT.|----|Tenha um personagem no seu grupo com 33+ INT.|----|Consigue que un miembro de tu grupo\r\ndesarrolle una inteligencia de 33 o superior.
 
-Have a party member with 25+ SPD.|----|Tenha um personagem do seu grupo com 25+ VEL.|----|Consigue que un miembro de tu grupo\r\ndesarrolle una velocidad de 25 o superior.
+Have a party member with 25+ SPD.|----|Tenha um personagem no seu grupo com 25+ VEL.|----|Consigue que un miembro de tu grupo\r\ndesarrolle una velocidad de 25 o superior.
 
-Have a party member with 40+ STR.|----|Tenha um personagem do seu grupo com 40+ FRC.|----|Consigue que un miembro de tu grupo\r\ndesarrolle una fuerza de 40 o superior.
+Have a party member with 40+ STR.|----|Tenha um personagem no seu grupo com 40+ FRC.|----|Consigue que un miembro de tu grupo\r\ndesarrolle una fuerza de 40 o superior.
 
-Have a party member with 45+ INT.|----|Tenha um personagem do seu grupo com 45+ INT.|----|Consigue que un miembro de tu grupo\r\ndesarrolle una inteligencia de 45 o superior.
+Have a party member with 45+ INT.|----|Tenha um personagem no seu grupo com 45+ INT.|----|Consigue que un miembro de tu grupo\r\ndesarrolle una inteligencia de 45 o superior.
 
-Have a party member with 30+ SPD.|----|Tenha um personagem do seu grupo com 30+ VEL.|----|Consigue que un miembro de tu grupo\r\ndesarrolle una velocidad de 30 o superior.
+Have a party member with 30+ SPD.|----|Tenha um personagem no seu grupo com 30+ VEL.|----|Consigue que un miembro de tu grupo\r\ndesarrolle una velocidad de 30 o superior.
 
-Create 100 battle chains.|----|Derrote 100 inimigos com ataque em cadeia.|----|Derrota a cien enemigos en cadena.
+Create 100 battle chains.|----|Derrote 100 inimigos com ataques em cadeia.|----|Derrota a cien enemigos en cadena.
 
 Bind 150 treasure chests.|----|Encontre 150 baús de tesouro.|----|Forja un vínculo con 150 cofres del tesoro.
 
@@ -4836,11 +4836,11 @@ Monsters to slay: Quien x 12\r\nLocation: The Numor Mines|----|Objetivo: Derrota
 
 Monsters to slay: Jhana Magus x 6\r\nLocation: The Heroic Ramparts|----|Objetivo: Derrotar 6 Magos Jhana\r\nLocalização: As Muralhas do Heroísmo|----|Objetivo: Derrota a seis místicos jhana\r\nUbicación: Murallas del Heroísmo
 
-Monsters to slay: Rockshell x 12\r\nLocation: The Aqueducts|----|Objetivo: Derrotar 12 Concha de Pedra\r\nLocalização: Os Aquedutos|----|Objetivo: Derrota a 12 caparapiedras\r\nUbicación: Acueducto
+Monsters to slay: Rockshell x 12\r\nLocation: The Aqueducts|----|Objetivo: Derrotar 12 Conchas de Pedra\r\nLocalização: Os Aquedutos|----|Objetivo: Derrota a 12 caparapiedras\r\nUbicación: Acueducto
 
 Monsters to slay: Barbarossa x 9\r\nLocation: The Aqueducts|----|Objetivo: Derrotar 9 Barbarossas\r\nLocalização: Os Aquedutos|----|Objetivo: Derrota a nueve barbarrojas\r\nUbicación: Acueducto
 
-Monsters to slay: Armorshell x 16\r\nLocation: Fornstrand|----|Objetivo: Derrotar 16 Concha Blindada\r\nLocalização: Fornstrand|----|Objetivo: Derrota a 16 caparaceros\r\nUbicación: Fornstrand
+Monsters to slay: Armorshell x 16\r\nLocation: Fornstrand|----|Objetivo: Derrotar 16 Conchas Blindada\r\nLocalização: Fornstrand|----|Objetivo: Derrota a 16 caparaceros\r\nUbicación: Fornstrand
 
 Monsters to slay: Vánargand x 18\r\nLocation: Berechevaltelle|----|Objetivo: Derrotar 18 Vanargands\r\nLocalização: Berechevaltelle|----|Objetivo: Derrota a 18 vánargands\r\nUbicación: Berechevaltelle
 
@@ -4850,29 +4850,29 @@ Monsters to slay: Hraesvelg x 10\r\nLocation: Mt. Vackel|----|Objetivo: Derrotar
 
 Monsters to slay: Weredragon x 20\r\nLocation: The Sixth Path, Siebenbur|----|Objetivo: Derrotar 20 Dracônicos\r\nLocalização: O Sexto Caminho, Siebenbur|----|Objetivo: Derrota a 20 dragóntropos\r\nUbicación: Sexta galería de Siebenpur
 
-Monster to slay: Dominator\r\nLocation: Blackdale|----|Objetivo: Derrote um Dominador\r\nLocalização: Valenegro|----|Objetivo: Derrota a un subyugador\r\nUbicación: Vallenegro
+Monster to slay: Dominator\r\nLocation: Blackdale|----|Objetivo: Derrotar um Dominador\r\nLocalização: Valenegro|----|Objetivo: Derrota a un subyugador\r\nUbicación: Vallenegro
 
-Monster to slay: Bloodthirsty Beast\r\nLocation: Ivory Peaks|----|Objetivo: Derrote uma Fera Sanguinária\r\nLocalização: Picos de Marfim|----|Objetivo: Derrota a una bestia voraz\r\nUbicación: Cerro de la Plata
+Monster to slay: Bloodthirsty Beast\r\nLocation: Ivory Peaks|----|Objetivo: Derrotar uma Fera Sanguinária\r\nLocalização: Picos de Marfim|----|Objetivo: Derrota a una bestia voraz\r\nUbicación: Cerro de la Plata
 
-Monster to slay: Void Intruder\r\nLocation: The Fourth Path, Siebenbur|----|Objetivo: Derrote um Intruso Etéreo\r\nLocalização: O Quarto Caminho, Siebenbur|----|Objetivo: Derrota a un intruso etéreo\r\nUbicación: Cuarta galería de Siebenpur
+Monster to slay: Void Intruder\r\nLocation: The Fourth Path, Siebenbur|----|Objetivo: Derrotar um Intruso Etéreo\r\nLocalização: O Quarto Caminho, Siebenbur|----|Objetivo: Derrota a un intruso etéreo\r\nUbicación: Cuarta galería de Siebenpur
 
-Monster to slay: Sledgehammer\r\nLocation: The Catacombs|----|Objetivo: Derrote um Marreta\r\nLocalização: As Catacumbas|----|Objetivo: Derrota a un martillo pilón\r\nUbicación: Catacumbas
+Monster to slay: Sledgehammer\r\nLocation: The Catacombs|----|Objetivo: Derrotar um Marreta\r\nLocalização: As Catacumbas|----|Objetivo: Derrota a un martillo pilón\r\nUbicación: Catacumbas
 
-Monster to slay: Ruler of the Dawn\r\nLocation: Ivory Peaks|----|Objetivo: Derrote um Regente do Amanhecer\r\nLocalização: Picos de Marfim|----|Objetivo: Derrota a un faro del alba\r\nUbicación: Cerro de la Plata
+Monster to slay: Ruler of the Dawn\r\nLocation: Ivory Peaks|----|Objetivo: Derrotar um Regente do Amanhecer\r\nLocalização: Picos de Marfim|----|Objetivo: Derrota a un faro del alba\r\nUbicación: Cerro de la Plata
 
-Monster to slay: Whitehorn\r\nLocation: Aveclyff|----|Objetivo: Derrote um Chifrebranco\r\nLocalização: Aveclyff|----|Objetivo: Derrota a un cuernoblanco\r\nUbicación: Aveclyff
+Monster to slay: Whitehorn\r\nLocation: Aveclyff|----|Objetivo: Derrotar um Chifrebranco\r\nLocalização: Aveclyff|----|Objetivo: Derrota a un cuernoblanco\r\nUbicación: Aveclyff
 
-Monster to slay: Snowtoad\r\nLocation: The Aqueducts|----|Objetivo: Derrote um Sapo da Neve\r\nLocalização: Os Aquedutos|----|Objetivo: Derrota a un sapo de nieve\r\nUbicación: Acueductos
+Monster to slay: Snowtoad\r\nLocation: The Aqueducts|----|Objetivo: Derrotar um Sapo da Neve\r\nLocalização: Os Aquedutos|----|Objetivo: Derrota a un sapo de nieve\r\nUbicación: Acueductos
 
-Monster to slay: Nightingale\r\nLocation: Fornstrand|----|Objetivo: Derrote uma Gralha\r\nLocalização: Fornstrand|----|Objetivo: Derrota a un estornino\r\nUbicación: Fornstrand
+Monster to slay: Nightingale\r\nLocation: Fornstrand|----|Objetivo: Derrotar uma Gralha\r\nLocalização: Fornstrand|----|Objetivo: Derrota a un estornino\r\nUbicación: Fornstrand
 
-Monster to slay: Nordri\r\nLocation: Aveclyff|----|Objetivo: Derrote um Nordri\r\nLocalização: Aveclyff|----|Objetivo: Derrota a un nordri\r\nUbicación: Aveclyff
+Monster to slay: Nordri\r\nLocation: Aveclyff|----|Objetivo: Derrotar um Nordri\r\nLocalização: Aveclyff|----|Objetivo: Derrota a un nordri\r\nUbicación: Aveclyff
 
-Monster to slay: Heaven's Lord\r\nLocation: Mt. Vackel|----|Objetivo: Derrote um Senhor dos Céus\r\nLocalização: Monte Vackel|----|Objetivo: Derrota a un señor del cielo\r\nUbicación: Monte Vackel
+Monster to slay: Heaven's Lord\r\nLocation: Mt. Vackel|----|Objetivo: Derrotar um Senhor dos Céus\r\nLocalização: Monte Vackel|----|Objetivo: Derrota a un señor del cielo\r\nUbicación: Monte Vackel
 
-Monster to slay: Sugriva\r\nLocation: Mt. Vackel|----|Objetivo: Derrote um Sugriva\r\nLocalização: Monte Vackel|----|Objetivo: Derrota a un sugriva\r\nUbicación: Monte Vackel
+Monster to slay: Sugriva\r\nLocation: Mt. Vackel|----|Objetivo: Derrotar um Sugriva\r\nLocalização: Monte Vackel|----|Objetivo: Derrota a un sugriva\r\nUbicación: Monte Vackel
 
-Monster to slay: Monopole\r\nLocation: The Sacred Lands|----|Objetivo: Derrote um Monópolo\r\nLocalização: As Terras Sagradas|----|Objetivo: Derrota a un monópolo\r\nUbicación: Tierras Sagradas
+Monster to slay: Monopole\r\nLocation: The Sacred Lands|----|Objetivo: Derrotar um Monópolo\r\nLocalização: As Terras Sagradas|----|Objetivo: Derrota a un monópolo\r\nUbicación: Tierras Sagradas
 
 (REPETIDO)Hidden monster to slay: Unknown\r\nLocation: Unknown|----|Objetivo: Derrotar Monstro Desconhecido\r\nLocalização: Desconhecida|----|Objetivo: Derrota a un monstruo oculto\r\nUbicación: Desconocida
 
@@ -4914,7 +4914,7 @@ Obtain a Nymph Core.|----|Consiga um núcleo de ondina.|----|Consigue un núcleo
 
 Obtain 4 pieces of Imperium.|----|Consiga 4 peças de imperium.|----|Consigue cuatro piezas de imperium.
 
-Obtain 3 phials of Ether Water.|----|Consiga 3 ampolas de água de éter.|----|Consigue tres ampollas de agua de éter.
+Obtain 3 phials of Ether Water.|----|Consiga 3 frascos de água de éter.|----|Consigue tres ampollas de agua de éter.
 
 Obtain 2 Heavy Metals.|----|Consiga 2 peças de metal pesado.|----|Consigue dos piezas de metal pesado.
 
@@ -4922,15 +4922,15 @@ Obtain 3 Coral.|----|Consiga 3 peças de coral.|----|Consigue tres piezas de cor
 
 Obtain 4 Voltaic Crystals.|----|Consiga 4 cristais voltáicos.|----|Consigue cuatro cristales voltaicos.
 
-Obtain 3 phials of Holy Water.|----|Consiga 3 ampolas de água benta.|----|Consigue tres ampollas de agua bendita.
+Obtain 3 phials of Holy Water.|----|Consiga 3 frascos de água benta.|----|Consigue tres ampollas de agua bendita.
 
 Obtain 3 pieces of Divine Metal.|----|Consiga 3 peças de metal celestial.|----|Consigue tres fragmentos de metal celestial.
 
 Obtain 4 Ur Seeds.|----|Consiga 4 sementes de gur.|----|Consigue cuatro semillas de gur.
 
-Obtain 3 vials of Black Oil.|----|Consiga 3 ampolas de azeite negro.|----|Consigue tres ampollas de aceite negro.
+Obtain 3 vials of Black Oil.|----|Consiga 3 frascos de azeite negro.|----|Consigue tres ampollas de aceite negro.
 
-Obtain a Legendary Platter.|----|Consiga uma bandeja lendária.|----|Consigue una bandeja legendaria.
+Obtain a Legendary Platter.|----|Consiga uma bandeja legendária.|----|Consigue una bandeja legendaria.
 
 Obtain a Dwarven Core.|----|Consiga um Núcleo Anão.|----|Consigue un núcleo enano.
 
@@ -4960,17 +4960,17 @@ Have 2 Marauders in the party.|----|Tenha 2 saqueadores no seu grupo.|----|Reún
 
 Have 2 Warriors in the party.|----|Tenha 2 guerreiros no seu grupo.|----|Reúne a dos guerreros en tu grupo.
 
-Have a party member with 26+ STR.|----|Tenha um personagem do seu grupo com 26+ FRC.|----|Consigue que un personaje de tu grupo\r\ndesarrolle una fuerza de 26 o superior.
+Have a party member with 26+ STR.|----|Tenha um personagem no seu grupo com 26+ FRC.|----|Consigue que un personaje de tu grupo\r\ndesarrolle una fuerza de 26 o superior.
 
 Have a party member with 30+ STR.|----|Tenha um personagem do seu grupo com 30+ FRC.|----|Consigue que un personaje de tu grupo\r\ndesarrolle una fuerza de 30 o superior.
 
-Have a party member with 39+ INT.|----|Tenha um personagem do seu grupo com 39+ INT.|----|Consigue que un personaje de tu grupo\r\ndesarrolle una inteligencia de 39 o superior.
+Have a party member with 39+ INT.|----|Tenha um personagem no seu grupo com 39+ INT.|----|Consigue que un personaje de tu grupo\r\ndesarrolle una inteligencia de 39 o superior.
 
-Create 10 battle chains.|----|Derrote 10 inimigos em cadeia.|----|Derrota a diez enemigos en cadena.
+Create 10 battle chains.|----|Derrote 10 inimigos com ataques em cadeia.|----|Derrota a diez enemigos en cadena.
 
-Create 30 battle chains.|----|Derrote 30 inimigos em cadeia.|----|Derrota a treinta enemigos en cadena.
+Create 30 battle chains.|----|Derrote 30 inimigos com ataques em cadeia.|----|Derrota a treinta enemigos en cadena.
 
-Create 50 battle chains.|----|Derrote 50 inimigos em cadeia.|----|Derrota a cincuenta enemigos en cadena.
+Create 50 battle chains.|----|Derrote 50 inimigos com ataques em cadeia.|----|Derrota a cincuenta enemigos en cadena.
 
 Bind 5 treasure chests.|----|Encontre 5 baús de tesouro.|----|Forja un vínculo con cinco cofres del tesoro.
 
@@ -4986,41 +4986,41 @@ Monsters to slay: Bune x 16\r\nLocation: Fornstrand|----|Objetivo: Derrotar 16 B
 
 Monsters to slay: Terrapest x 18\r\nLocation: The Sixth Path, Siebenbur|----|Objetivo: Derrotar 18 Terrapragas\r\nLocalização: O Sexto Caminho, Siebenbur|----|Objetivo: Derrota a 18 terrapestis\r\nUbicación: Sexta galería de Siebenpur
 
-Monsters to slay: Echidnamoth x 21\r\nLocation: Darken Forest|----|Objetivo: Derrotar 21 Mariposas de espinhos\r\nLocalização: Floresta Negra|----|Objetivo: Derrota a 21polillaespines\r\nUbicación: Bosque de Darken
+Monsters to slay: Echidnamoth x 21\r\nLocation: Darken Forest|----|Objetivo: Derrotar 21 Mariposas de Espinhos\r\nLocalização: Floresta Negra|----|Objetivo: Derrota a 21polillaespines\r\nUbicación: Bosque de Darken
 
 Monsters to slay: Ancbolder x 21\r\nLocation: The Ancient Ruins|----|Objetivo: Derrotar 21 Ancbolders\r\nLocalização: As Antigas Ruínas|----|Objetivo: Derrota a 21 ancbolders\r\nUbicación: Ruinas Ancestrales
 
-Monster to slay: Mad Hurricane\r\nLocation: The Heroic Ramparts|----|Objetivo: Derrote um Vento Feroz\r\nLocalização: As Muralhas do Heroísmo|----|Objetivo: Derrota a un viento feroz\r\nUbicación: Murallas del heroísmo
+Monster to slay: Mad Hurricane\r\nLocation: The Heroic Ramparts|----|Objetivo: Derrotar um Vento Feroz\r\nLocalização: As Muralhas do Heroísmo|----|Objetivo: Derrota a un viento feroz\r\nUbicación: Murallas del heroísmo
 
-Monster to slay: Cheiron\r\nLocation: Berechevaltelle|----|Objetivo: Derrote um Queiron\r\nLocalização: Berechevaltelle|----|Objetivo: Derrota a un quirón\r\nUbicación: Berechevaltelle
+Monster to slay: Cheiron\r\nLocation: Berechevaltelle|----|Objetivo: Derrotar um Queiron\r\nLocalização: Berechevaltelle|----|Objetivo: Derrota a un quirón\r\nUbicación: Berechevaltelle
 
-Monster to slay: Jurupari\r\nLocation: The Sixth Path, Siebenbur|----|Objetivo: Derrote um Jurupari\r\nLocalização: O Sexto Caminho, Siebenbur|----|Objetivo: Derrota a una satanoperca\r\nUbicación: Sexta galería de Siebenpur
+Monster to slay: Jurupari\r\nLocation: The Sixth Path, Siebenbur|----|Objetivo: Derrotar um Jurupari\r\nLocalização: O Sexto Caminho, Siebenbur|----|Objetivo: Derrota a una satanoperca\r\nUbicación: Sexta galería de Siebenpur
 
-Monster to slay: Goldenflyer\r\nLocation: Yvalock's Nest|----|Objetivo: Derrote uma Mosca Dourada\r\nLocalização: Ninho de Yvalock|----|Objetivo: Derrota a un mosco dorado\r\nUbicación: Nido de Ivalock
+Monster to slay: Goldenflyer\r\nLocation: Yvalock's Nest|----|Objetivo: Derrotar uma Mosca Dourada\r\nLocalização: Ninho de Yvalock|----|Objetivo: Derrota a un mosco dorado\r\nUbicación: Nido de Ivalock
 
-Monster to slay: Greentop\r\nLocation: The Sixth Path, Siebenbur|----|Objetivo: Derrote um Testaverde \r\nLocalização: O Sexto Caminho, Siebenbur|----|Objetivo: Derrota a un testaverde\r\nUbicación: Sexta galería de Siebenpur
+Monster to slay: Greentop\r\nLocation: The Sixth Path, Siebenbur|----|Objetivo: Derrotar um Testaverde \r\nLocalização: O Sexto Caminho, Siebenbur|----|Objetivo: Derrota a un testaverde\r\nUbicación: Sexta galería de Siebenpur
 
-Monster to slay: Euryale\r\nLocation: The Heroic Ramparts|----|Objetivo: Derrote um Euríale\r\nLocalização: As Muralhas do Heroísmo|----|Objetivo: Derrota a un euríale\r\nUbicación: Murallas del heroísmo
+Monster to slay: Euryale\r\nLocation: The Heroic Ramparts|----|Objetivo: Derrotar um Euríale\r\nLocalização: As Muralhas do Heroísmo|----|Objetivo: Derrota a un euríale\r\nUbicación: Murallas del heroísmo
 
-Monster to slay: King Plant\r\nLocation: Darken Forest|----|Objetivo: Derrote uma Planta Soberana\r\nLocalização: Floresta Negra|----|Objetivo: Derrota a un matojo soberano\r\nUbicación: Bosque de Darken
+Monster to slay: King Plant\r\nLocation: Darken Forest|----|Objetivo: Derrotar uma Planta Soberana\r\nLocalização: Floresta Negra|----|Objetivo: Derrota a un matojo soberano\r\nUbicación: Bosque de Darken
 
-Monster to slay: Austri\r\nLocation: Mt. Vackel|----|Objetivo: Derrote um Austri\r\nLocalização: Monte Vackel|----|Objetivo: Derrota a un austri\r\nUbicación: Monte Vackel
+Monster to slay: Austri\r\nLocation: Mt. Vackel|----|Objetivo: Derrotar um Austri\r\nLocalização: Monte Vackel|----|Objetivo: Derrota a un austri\r\nUbicación: Monte Vackel
 
-Monster to slay: Spiritbeast Rin\r\nLocation: Mt. Vackel|----|Objetivo: Derrote um Espírito Animal Rin\r\nLocalização: Monte Vackel|----|Objetivo: Derrota a un espíritu animal Rin\r\nUbicación: Monte Vackel
+Monster to slay: Spiritbeast Rin\r\nLocation: Mt. Vackel|----|Objetivo: Derrotar um Espírito Animal Rin\r\nLocalização: Monte Vackel|----|Objetivo: Derrota a un espíritu animal Rin\r\nUbicación: Monte Vackel
 
-Monster to slay: Valkyria\r\nLocation: Cherry Pavilion, Wyrmskeep|----|Objetivo: Derrote uma Valquíria\r\nLocalização: Pavilhão das Cerejas, Wyrmskeep|----|Objetivo: Derrota a una valquiria\r\nUbicación: Pabellón de los Cerezos (Fordragón)
+Monster to slay: Valkyria\r\nLocation: Cherry Pavilion, Wyrmskeep|----|Objetivo: Derrotar uma Valquíria\r\nLocalização: Pavilhão das Cerejas, Wyrmskeep|----|Objetivo: Derrota a una valquiria\r\nUbicación: Pabellón de los Cerezos (Fordragón)
 
-Monster to slay: Deadwood\r\nLocation: Darken Forest|----|Objetivo: Derrote uma Árvore Morta\r\nLocalização: Floresta Negra|----|Objetivo: Derrota a un leño exangüe\r\nUbicación: Bosque de Darken
+Monster to slay: Deadwood\r\nLocation: Darken Forest|----|Objetivo: Derrotar uma Árvore Morta\r\nLocalização: Floresta Negra|----|Objetivo: Derrota a un leño exangüe\r\nUbicación: Bosque de Darken
 
-Monster to slay: Tsenahale\r\nLocation: Mt. Vackel|----|Objetivo: Derrote um Tsenahale\r\nLocalização: Monte Vackel|----|Objetivo: Derrota a un tsenahale\r\nUbicación: Monte Vackel
+Monster to slay: Tsenahale\r\nLocation: Mt. Vackel|----|Objetivo: Derrotar um Tsenahale\r\nLocalização: Monte Vackel|----|Objetivo: Derrota a un tsenahale\r\nUbicación: Monte Vackel
 
-Monster to slay: Holy Servant\r\nLocation: The Ancient Ruins|----|Objetivo: Derrote um Servo Sagrado\r\nLocalização: As Antigas Ruínas|----|Objetivo: Derrota a un lacayo sacro\r\nUbicación: Ruinas Ancestrales
+Monster to slay: Holy Servant\r\nLocation: The Ancient Ruins|----|Objetivo: Derrotar um Servo Sagrado\r\nLocalização: As Antigas Ruínas|----|Objetivo: Derrota a un lacayo sacro\r\nUbicación: Ruinas Ancestrales
 
-Monster to slay: Oblivion Wing\r\nLocation: The Ancient Ruins|----|Objetivo: Derrote um Asa do Esquecimento\r\nLocalização: As Antigas Ruínas|----|Objetivo: Derrota a un ala del olvido\r\nUbicación: Ruinas Ancestrales
+Monster to slay: Oblivion Wing\r\nLocation: The Ancient Ruins|----|Objetivo: Derrotar um Asa do Esquecimento\r\nLocalização: As Antigas Ruínas|----|Objetivo: Derrota a un ala del olvido\r\nUbicación: Ruinas Ancestrales
 
-Monster to slay: Terror Wing\r\nLocation: The Ancient Ruins|----|Objetivo: Derrote um Asa do Terror\r\nLocalização: As Antigas Ruínas|----|Objetivo: Derrota a un ala del terror\r\nUbicación: Ruinas Ancestrales
+Monster to slay: Terror Wing\r\nLocation: The Ancient Ruins|----|Objetivo: Derrotar um Asa do Terror\r\nLocalização: As Antigas Ruínas|----|Objetivo: Derrota a un ala del terror\r\nUbicación: Ruinas Ancestrales
 
-Monster to slay: Demigod\r\nLocation: The Ancient Ruins|----|Objetivo: Derrote um Semideus\r\nLocalização: As Antigas Ruínas|----|Objetivo: Derrota a un semidiós\r\nUbicación: Ruinas Ancestrales
+Monster to slay: Demigod\r\nLocation: The Ancient Ruins|----|Objetivo: Derrotar um Semideus\r\nLocalização: As Antigas Ruínas|----|Objetivo: Derrota a un semidiós\r\nUbicación: Ruinas Ancestrales
 
 (REPETIDO)Hidden monster to slay: Unknown\r\nLocation: Unknown|----|Objetivo: Derrotar Monstro Desconhecido\r\nLocalização: Desconhecida|----|Objetivo: Derrota a un monstruo oculto\r\nUbicación: Desconocida
 
@@ -5046,7 +5046,7 @@ Obtain a Nidhogg Femur.|----|Consiga um fêmur de nidhogg.|----|Consigue un fém
 
 Obtain a Giant Shellfly Scalp.|----|Consiga uma cabeleira de moscascudo gigante.|----|Consigue una cabellera de vespoidea reina.
 
-Obtain a Medicinal Mandragora Seedling.|----|Consiga uma muda medicial de mandrágora.|----|Consigue un brote medicinal de mandrágora.
+Obtain a Medicinal Mandragora Seedling.|----|Consiga uma muda medicinal de mandrágora.|----|Consigue un brote medicinal de mandrágora.
 
 Obtain a Tough Brynhildr Husk.|----|Consiga uma muda de pele reforçada de brunhild.|----|Consigue una muda de piel reforzada de brunhild.
 
@@ -5066,7 +5066,7 @@ Obtain a Retral Feral Fang Scale.|----|Consiga uma escama dorsal de presa feroz.
 
 Obtain a Demon King Eye.|----|Consiga um olho de demônio rei.|----|Consigue un ojo de rey diablo.
 
-Obtain a vial of Grand Beetle Fluid.|----|Consiga uma ampola de extrato de Besouro Gigante.|----|Consigue una ampolla de extracto de mantis prócer.
+Obtain a vial of Grand Beetle Fluid.|----|Consiga um frasco de extrato de Besouro Gigante.|----|Consigue una ampolla de extracto de mantis prócer.
 
 Obtain an Inverted Vile Lizard Scale.|----|Consiga uma escama invertida de lagarto desprezível.|----|Consigue una escama invertida de saurio vil.
 
@@ -5094,7 +5094,7 @@ Obtain a Demonblade.|----|Consiga uma Espada Demoníaca.|----|Consigue una diabl
 
 Have 3 Scouts in the party.|----|Tenha 3 rastreadores no seu grupo.|----|Reúne a tres rastreadores en tu grupo.
 
-Have 3 Commanders in the party.|----|Tenha 3 comandante no seu grupo.|----|Reúne a tres comandantes en tu grupo.
+Have 3 Commanders in the party.|----|Tenha 3 comandantes no seu grupo.|----|Reúne a tres comandantes en tu grupo.
 
 Have 8 party members with 60+ STR.|----|Tenha 8 membros no seu grupo com 60+ FRC.|----|Consigue que 8 miembros de tu grupo\r\ntengan una FUE de 60 o superior.
 
