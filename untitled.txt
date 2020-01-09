@@ -17,17 +17,17 @@ Dwarf's Cabochon -> Estrela Anã???
  Marauders -> saqueadores???
  Cherry Pavilion -> Pavilhão das Cerejeiras
  Wyrmskeep -> Fordragão????
+ Dillmoor -> Brezalverde (espanhol), Pantanoverde???
+ First Path --> Primeiro Caminho. Trocar para Primeira Galeria???
  crina, cabeleira -> verificar se o monstro tem mesmo isso
  Barb -> ferrão
+ ale -> licor
+ oil -> óleo
 
+-----  Conferir tamanho das frases na guilda task
 
-parei na 5107
-3039-57
+parei na 6040
 
-2 x 2 h semana
-220 mês
-terça e quinta de 9 às 11h
-Prof. Nox
 
 
 status -> status
@@ -78,6 +78,7 @@ Telegnosis Adaptor - Adaptador de Radiestesia
 Dig Module - Módulo Escavador
 Mega Dig Module - Mega Módulo Escavador
 Burst Dig Module - Hiper Módulo Escavador
+
 Gold Digger - Escavador de Ouro
 Platinum Digger - Escavador de Platina
 Diamond Digger - Escavador de Diamante
@@ -88,8 +89,14 @@ Drill Storm - Tempestade Perfuradora
 Mega Drill Storm - Mega Tempestade Perfuradora
 Divine Drill Storm - Divina Tempestade Perfuradora
 
-c
+----_---------_----------------------_-----_----------
+Curso eletrônica
+3039-5750
 
+2 x 2 h semana
+220 mês
+terça e quinta de 9 às 11h
+Prof. Nox
 
 
 

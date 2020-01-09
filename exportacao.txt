@@ -5108,69 +5108,69 @@ Special Items dummy help|----|Special Items dummy help|----|Ayuda: artículos es
 
 A key Remnant that unlocks the seal\r\nto the door of the Robelia Ruins.|----|Um Remanescente que remove a barreira\r\nda porta nas Ruínas de Robélia.|----|Una reliquia capaz de abrir la puerta\r\nde las ruinas de Robelia.
 
-A key Remnant that unlocks the seal\r\nof the door to Marshallton.|----|Um Remanescente que remove a barreira\r\nda porta para Villamarshall.|----|Una reliquia que permite abrir\r\nlas puertas de Villamarshall.
+A key Remnant that unlocks the seal\r\nof the door to Marshallton.|----|Um Remanescente que remove a barreira\r\nda porta de Villamarshall.|----|Una reliquia que permite abrir\r\nlas puertas de Villamarshall.
 
-One of the three godstones of an\r\nancient kingdom. Engraved is a poem\r\nexulting the glories of love.|----|Uma das três pedras celestiais de um\r\nreino antigo. Gravado nela está um poema\r\nque fala sobre o poder do amor.|----|Una de las tres piedras celestes\r\ndel antiguo reino. Tiene tallado\r\nun poema sobre el poder del amor.
+One of the three godstones of an\r\nancient kingdom. Engraved is a poem\r\nexulting the glories of love.|----|Uma das três pedras celestiais de um\r\nreino antigo. Nela está gravado um poema\r\nque fala sobre o poder do amor.|----|Una de las tres piedras celestes\r\ndel antiguo reino. Tiene tallado\r\nun poema sobre el poder del amor.
 
 A key covered with moss.\r\nIt looks incredibly old.|----|Uma chave coberta de musgo.\r\nEla parece muito antiga.|----|Una llave cubierta de musgo.\r\nParece tremendamente antigua.
 
-A certificate of gratitude written by\r\nMeister Olebeag for having assisted\r\nMelphina's knightly order.|----|Um certificado de gratidão escrito por\r\nMestre Olebeag pela ajuda à\r\nordem dos cavaleiros de Melphina.|----|Un diploma otorgado por Olebeag a aquellos\r\nque han contribuido a la causa de la Orden.
+A certificate of gratitude written by\r\nMeister Olebeag for having assisted\r\nMelphina's knightly order.|----|Um certificado de gratidão concedido por\r\nMestre Olebeag pela contribuição à causa da\r\nordem dos cavaleiros de Melphina.|----|Un diploma otorgado por Olebeag a aquellos\r\nque han contribuido a la causa de la Orden.
 
-Received from Glenys, this key\r\nunlocks a mysterious door in\r\nDillmoor.|----|Recebida de Glenys, essa chave\r\nabre uma misteriosa porta em\r\nDillmoor.|----|Un regalo de Glenys. Esta llave abre\r\nuna misteriosa puerta en algún lugar\r\nde Brezalverde.
+Received from Glenys, this key\r\nunlocks a mysterious door in\r\nDillmoor.|----|Um presente de Glenys, essa chave\r\nabre uma misteriosa porta em\r\nDillmoor.|----|Un regalo de Glenys. Esta llave abre\r\nuna misteriosa puerta en algún lugar\r\nde Brezalverde.
 
 Proof given to those who have\r\ndefeated the omnipotent one.|----|Um distintivo dado àqueles que\r\nderrotaram o todo poderoso.|----|Un distintivo que portan quienes\r\nhan derrotado al Todopoderoso.
 
-A worn sword.\r\nThere is something very familiar about it...|----|Uma espada desgastada.\r\nHá alguma coisa de familiar nela...|----|Una espada desgastada.\r\nMe resulta familiar...
+A worn sword.\r\nThere is something very familiar about it...|----|Uma espada desgastada.\r\nEla me parece familiar...|----|Una espada desgastada.\r\nMe resulta familiar...
 
-A worn staff.\r\nThere is something very familiar about it...|----|Um velho bastão.\r\nHá alguma coisa de familiar nele...|----|Un bastón viejo.\r\nMe resulta familiar...
+A worn staff.\r\nThere is something very familiar about it...|----|Um velho bastão.\r\nEle me parece familiar...|----|Un bastón viejo.\r\nMe resulta familiar...
 
-A worn bandanna.\r\nThere is something very familiar about it...|----|Uma bandana desgastada.\r\nHá alguma coisa de familiar nela...|----|Un pañuelo raído.\r\nMe resulta familiar...
+A worn bandanna.\r\nThere is something very familiar about it...|----|Uma bandana desgastada.\r\nEla me parece familiar...|----|Un pañuelo raído.\r\nMe resulta familiar...
 
-A worn book.\r\nThere is something very familiar about it...|----|Um livro desgastado.\r\nHá alguma coisa de familiar nele...|----|Un libro estropeado.\r\nMe resulta familiar...
+A worn book.\r\nThere is something very familiar about it...|----|Um livro estragado.\r\nEle me parece familiar...|----|Un libro estropeado.\r\nMe resulta familiar...
 
-A worn letter.\r\nThere is something very familiar about it...|----|Uma velha carta.\r\nHá alguma coisa de familiar nela...|----|Una vieja carta.\r\nMe resulta familiar...
+A worn letter.\r\nThere is something very familiar about it...|----|Uma velha carta.\r\nEla me parece familiar...|----|Una vieja carta.\r\nMe resulta familiar...
 
-A worn belt.\r\nThere is something very familiar about it...|----|Um cinturão desgastado.\r\nHá alguma coisa de familiar nele...|----|Un cinturón raído.\r\nMe resulta familiar...
+A worn belt.\r\nThere is something very familiar about it...|----|Um cinturão desgastado.\r\nEle me parece familiar...|----|Un cinturón raído.\r\nMe resulta familiar...
 
-A worn pair of boots.\r\nThere is something very familiar about it...|----|Um par de botas usadas.\r\nHá alguma coisa de familiar nelas...|----|Un par de botas usadas.\r\nMe resultan familiares...
+A worn pair of boots.\r\nThere is something very familiar about it...|----|Um par de botas usadas.\r\nElas me parecem familiar...|----|Un par de botas usadas.\r\nMe resultan familiares...
 
-A worn shield.\r\nThere is something very familiar about it...|----|Um escudo desgastado.\r\nHá alguma coisa de familiar nele...|----|Un escudo deteriorado.\r\nMe resulta familiar...
+A worn shield.\r\nThere is something very familiar about it...|----|Um escudo usado.\r\nEle me parece familiar...|----|Un escudo deteriorado.\r\nMe resulta familiar...
 
 The extract from this plant has\r\nthe power to cure any sight-related\r\nillnesses.|----|O extrato dessa planta tem\r\no poder de curar qualquer enfermidade\r\nque afete a visão.|----|El extracto de esta planta tiene el poder\r\nde curar cualquier enfermedad que afecte\r\na la vista.
 
-The key to the door of the basement\r\nof Robelia Castle.\r\nIt looks like it's barely been used.|----|A chave para a porta do porão\r\ndo Castelo de Robélia.\r\nParece que quase não foi usada.|----|La llave de la puerta del sótano\r\ndel Castillo de Robelia. Parece\r\nque no se ha utilizado casi nunca.
+The key to the door of the basement\r\nof Robelia Castle.\r\nIt looks like it's barely been used.|----|A chave da porta do porão\r\ndo Castelo de Robélia.\r\nParece que foi muito pouco usada.|----|La llave de la puerta del sótano\r\ndel Castillo de Robelia. Parece\r\nque no se ha utilizado casi nunca.
 
-A red stone known as\r\nthe roc's wing.|----|Uma pedra vermelha conhecida com\r\na asa do roc.|----|Una piedra de color rojizo conocida\r\ncomo «el ala del Roc».
+A red stone known as\r\nthe roc's wing.|----|Uma pedra vermelha conhecida como\r\na asa do roc.|----|Una piedra de color rojizo conocida\r\ncomo «el ala del Roc».
 
-A seed of a white flower that replaces\r\nthe odor of death with a sweet smell.\r\nAvoid anyone showing interest in this item.|----|Uma semente de uma flor branca que encobre\r\no cheiro da morte com um doce aroma.\r\nEvite pessoas interessadas nesse item.|----|Una semilla que enmascara el hedor\r\nde la muerte, por lo que es codiciada\r\npor personajes poco recomendables.
+A seed of a white flower that replaces\r\nthe odor of death with a sweet smell.\r\nAvoid anyone showing interest in this item.|----|A semente de uma flor branca que encobre\r\no cheiro da morte com um doce aroma.\r\nEvite pessoas interessadas nesse item.|----|Una semilla que enmascara el hedor\r\nde la muerte, por lo que es codiciada\r\npor personajes poco recomendables.
 
 A red stone known as\r\nthe roc's feather.|----|Uma pedra vermelha conhecida como\r\na pluma do roc.|----|Una piedra de color rojizo conocida\r\ncomo «la pluma del Roc».
 
-A shiny marble polished to perfection,\r\ngiven to the white yama by a child.|----|Uma brilhante bola de gude primorosamente\r\npolida, dada por uma criança ao yama branco.|----|Una canica primorosamente pulida.\r\nUn niño se la regaló al yama blanco.
+A shiny marble polished to perfection,\r\ngiven to the white yama by a child.|----|Uma brilhante bola de gude primorosamente\r\npolida. Foi dada de presente por um menino ao yama branco.|----|Una canica primorosamente pulida.\r\nUn niño se la regaló al yama blanco.
 
-A piece of white chalk for drawing\r\ngiven to the white yama by a child.|----|Um pedaço de giz branco para desenhar\r\ndado por uma criança ao yama branco.|----|Un trozo de tiza blanca ideal para dibujar.\r\nUn niño se la regaló al yama blanco.
+A piece of white chalk for drawing\r\ngiven to the white yama by a child.|----|Um pedaço de giz branco, usado para desenhar.\r\nFoi dado de presente por um menino ao yama branco.|----|Un trozo de tiza blanca ideal para dibujar.\r\nUn niño se la regaló al yama blanco.
 
-A pretty ribbon once on a doll,\r\ngiven to the white yama by a child.|----|Um belo laço uma vez usado em uma boneca,\r\ndado por uma criança ao yama branco.|----|Un bonito lazo para el pelo usado\r\npara decorar muñecas. Una niña\r\nse lo regaló al yama blanco.
+A pretty ribbon once on a doll,\r\ngiven to the white yama by a child.|----|Um bonito laço de cabelo, que um dia pertenceu a uma boneca.\r\nFoi dado de presente por um menino ao yama branco.|----|Un bonito lazo para el pelo usado\r\npara decorar muñecas. Una niña\r\nse lo regaló al yama blanco.
 
-A small cog given to the white yama\r\nby a child.|----|Uma pequena engrenagem dada por uma criança\r\nao yama branco.|----|Un pequeño engranaje. Un niño se lo regaló\r\nal yama blanco.
+A small cog given to the white yama\r\nby a child.|----|Uma pequena engrenagem. Foi dado de presente por um menino\r\nao yama branco.|----|Un pequeño engranaje. Un niño se lo regaló\r\nal yama blanco.
 
-A small, silver bell with a pleasant jingle,\r\ngiven to the white yama by a child.|----|Um pequeno sino de prata com som bastante\r\nagradável, dado por uma criança ao yama\r\nbranco.|----|Una pequeña campana plateada cuyo sonido\r\nresulta muy agradable. Una niña se la regaló\r\nal yama blanco.
+A small, silver bell with a pleasant jingle,\r\ngiven to the white yama by a child.|----|Um pequeno sino de prata com som bastante\r\nagradável. Foi dado de presente por um menino\r\nao yama branco.|----|Una pequeña campana plateada cuyo sonido\r\nresulta muy agradable. Una niña se la regaló\r\nal yama blanco.
 
-A bird-shaped, wooden flute\r\ngiven to the white yama by a child.|----|Uma flauta de madeira em forma de pássaro\r\ndada por uma criança ao yama branco.|----|Una flauta de madera con forma de pájaro.\r\nUn niño se la regaló al yama blanco.
+A bird-shaped, wooden flute\r\ngiven to the white yama by a child.|----|Uma flauta de madeira em forma de pássaro.\r\nFoi dado de presente por um menino ao yama branco.|----|Una flauta de madera con forma de pájaro.\r\nUn niño se la regaló al yama blanco.
 
-A photo of Melphina's Second Brigade.\r\nThey look jovial, with their arms\r\naround each other's shoulders.|----|Um retrato dos soldados da Segunda Brigada de\r\nMelphina. Eles parecem bastante unidos, com os\r\nbraços ao redor das costas dos outros.|----|Un retrato de los soldados de la segunda\r\nbrigada de Melphina. Parecen muy unidos.
+A photo of Melphina's Second Brigade.\r\nThey look jovial, with their arms\r\naround each other's shoulders.|----|Um retrato dos soldados da segunda brigada de\r\nMelphina. Eles parecem muito unidos, com seus\r\nbraços ao redor dos ombos um dos outros.|----|Un retrato de los soldados de la segunda\r\nbrigada de Melphina. Parecen muy unidos.
 
 A red stone known as\r\nthe roc's jagged talon.|----|Uma pedra vermelha conhecida como\r\na garra do roc.|----|Una piedra de color rojizo conocida\r\ncomo «la garra del Roc».
 
 A flower from Hannah that represents\r\na new beginning. The pure white flower\r\npetals are reminiscent of falling snow.|----|Uma flor, presente de Hannah, que simboliza\r\num novo começo. Suas pétalas brancas\r\nlembram a neve recém caída.|----|Una flor, regalo de Hannah, que simboliza\r\nun nuevo comienzo. Sus pétalos recuerdan\r\na la nieve recién caída.
 
-A delicate earring with snowflake\r\ndesigns. The studs are old and worn.|----|Um delicado brinco em forma de flocos de neve.\r\nEle está bem velho e desgastado.|----|Un delicado pendiente con forma de copo\r\nde nieve. Está bastante viejo y gastado.
+A delicate earring with snowflake\r\ndesigns. The studs are old and worn.|----|Um delicado brinco em forma de floco de neve.\r\nEle está bem velho e desgastado.|----|Un delicado pendiente con forma de copo\r\nde nieve. Está bastante viejo y gastado.
 
-The key to the locked door in Mojcado\r\nCastle. A spell has been cast on it.|----|A chave que abre a porta do Castelo Mojcado.\r\nUma magia foi lançada nela.|----|Una llave hechizada que abre la puerta\r\nmisteriosa del Castillo de Muscato.
+The key to the locked door in Mojcado\r\nCastle. A spell has been cast on it.|----|A chave que abre a porta misteriosa do Castelo Mojcado.\r\nUma magia foi lançada sobre ela.|----|Una llave hechizada que abre la puerta\r\nmisteriosa del Castillo de Muscato.
 
 A red stone known as\r\nthe roc's fang.|----|Uma pedra vermelha conhecida como\r\na presa do roc.|----|Una piedra de color rojizo conocida\r\ncomo «el colmillo del Roc».
 
-A crimson-colored sword, soaked\r\nin the blood of its victims. It is\r\nalways on the hunt for new prey.|----|Uma espada de cor carmesim, encharcada com\r\no sangue de suas vítimas. Está\r\nsempre pronta para novas presas.|----|Una espada carmesí empapada en la sangre\r\nde sus víctimas. Su filo está siempre listo\r\npara degustar la carne de su próxima presa.
+A crimson-colored sword, soaked\r\nin the blood of its victims. It is\r\nalways on the hunt for new prey.|----|Uma espada de cor carmesim, encharcada com\r\no sangue de suas vítimas. Está\r\nsempre à caça de novas presas.|----|Una espada carmesí empapada en la sangre\r\nde sus víctimas. Su filo está siempre listo\r\npara degustar la carne de su próxima presa.
 
 A red stone known as\r\nthe roc's frenzy.|----|Uma pedra vermelha conhecida como\r\na fúria do roc.|----|Una piedra de color rojizo conocida\r\ncomo «la furia del Roc».
 
@@ -5180,9 +5180,9 @@ A red stone known as\r\nthe roc's sphere.|----|Uma pedra vermelha conhecida como
 
 A red stone known as\r\nthe roc's torrent.|----|Uma pedra vermelha conhecida como\r\na torrente do roc.|----|Una piedra de color rojizo conocida\r\ncomo «el torrente del Roc».
 
-A creation of Marion Marshall's.\r\nIt has the ability to seal and transform\r\nRemnants.|----|Um artefato criado por Marion Marshall.\r\nEle tem a capacidade de aprisionar e\r\ntransformar Remanescentes.|----|Un artefacto creado por Marion.\r\nTiene la capacidad de transformar\r\ny contener las reliquias.
+A creation of Marion Marshall's.\r\nIt has the ability to seal and transform\r\nRemnants.|----|Um artefato criado por Marion Marshall.\r\nEle tem a capacidade de capturar e\r\ntransformar Remanescentes.|----|Un artefacto creado por Marion.\r\nTiene la capacidad de transformar\r\ny contener las reliquias.
 
-Proof of Ophelia's decision to leave\r\nthe Order of Melphina. The polished\r\nblade shines with solemnity.|----|Uma prova da decisão de Ophelia de deixar\r\na Ordem de Melphina. A espada\r\npolida emite um brilho solene.|----|Una espada que emite un brillo solemne.\r\nOphelia renunció a blandirla cuando tomó\r\nla decisión de abandonar la Orden.
+Proof of Ophelia's decision to leave\r\nthe Order of Melphina. The polished\r\nblade shines with solemnity.|----|Uma espada que emite um brilho solene.\r\nOphelia renunciou a ela quando tomou a\r\ndecisão de deixar a Ordem de Melphina.|----|Una espada que emite un brillo solemne.\r\nOphelia renunció a blandirla cuando tomó\r\nla decisión de abandonar la Orden.
 
 The key to Lavafender.|----|A chave de Lavafender.|----|La llave de Lavaluarte.
 
@@ -5192,117 +5192,117 @@ A red stone similar to the Emeth Tag.\r\nFlames dance inside the stone.|----|Uma
 
 A note with a hint to deciphering\r\nthe ancient desert characters.\r\nC-4-B-E-A-1 is scribbled on it.|----|Uma nota que contém a dica para decifrar\r\nas runas do antigo deserto.\r\nC-4-B-E-A-1 está escrito nela.|----|Una nota que tiene garabateada una pista\r\npara descifrar las runas del desierto:\r\n«C-4-B-E-A-1».
 
-One of the three godstones of an\r\nancient kingdom. Engraved is a poem\r\nhonoring the dead.|----|Uma das três pedras celestiais de um\r\nreino antigo. Gravado nela está um poema\r\nem homenagem aos mortos.|----|Una de las tres piedras celestes\r\ndel antiguo reino. Tiene tallado\r\nun poema en honor a los muertos.
+One of the three godstones of an\r\nancient kingdom. Engraved is a poem\r\nhonoring the dead.|----|Uma das três pedras celestiais de um\r\nreino antigo. Nela está gravado um poema\r\nem homenagem aos mortos.|----|Una de las tres piedras celestes\r\ndel antiguo reino. Tiene tallado\r\nun poema en honor a los muertos.
 
 A famous Royotian beverage.\r\nIts bitterness can burn one's tongue\r\nwhen consumed.|----|Uma famosa bebida de Royotia.\r\nSeu sabor amargo produz uma sensação\r\nardente na língua.|----|Un famoso caldo de Royotia. Su amargo sabor\r\nproduce una sensación ardiente en la lengua.
 
-One of the three godstones of an\r\nancient kingdom. Engraved is a poem\r\nhonoring the people's wisdom.|----|Uma das três pedras celestiais de um\r\nreino antigo. Gravado nela está um poema\r\nem homenagem à sabedoria das pessoas.|----|Una de las tres piedras celestes\r\ndel antiguo reino. Tiene tallado\r\nun poema sobre la sabiduría.
+One of the three godstones of an\r\nancient kingdom. Engraved is a poem\r\nhonoring the people's wisdom.|----|Uma das três pedras celestiais de um\r\nreino antigo. Nela está gravado um poema\r\nem homenagem à sabedoria das pessoas.|----|Una de las tres piedras celestes\r\ndel antiguo reino. Tiene tallado\r\nun poema sobre la sabiduría.
 
-A scabbard crafted for a deadly sword.\r\nIt was never put to its intended use.|----|Uma bainha desenhada para alojar uma espada\r\nmortífera. Ela nunca chegou a ser usada.|----|Una vaina diseñada para alojar una espada.\r\nNadie ha llegado a utilizarla.
+A scabbard crafted for a deadly sword.\r\nIt was never put to its intended use.|----|Uma bainha projetada para alojar uma mortífera\r\nespada. Ela nunca chegou a ser usada.|----|Una vaina diseñada para alojar una espada.\r\nNadie ha llegado a utilizarla.
 
-A ring that soothes like\r\nthe calm of early morning.|----|Um anel que acalma como\r\na tranquilidade do entardecer.|----|Un anillo tan tranquilizador\r\ncomo la calma del atardecer.
+A ring that soothes like\r\nthe calm of early morning.|----|Um anel tão tranquilizador quanto\r\na calma do entardecer.|----|Un anillo tan tranquilizador\r\ncomo la calma del atardecer.
 
-A map used by a traveling couple\r\nlong ago. It is torn and smudged,\r\nmaking it useless.|----|Uma mapa usado por um casal de viajantes muito\r\ntempo atrás. Ele está rasgado e manchado,\r\nfazendo dele algo inservível.|----|Un mapa desgarrado, borroso e inservible\r\nque perteneció a una pareja de viajeros.
+A map used by a traveling couple\r\nlong ago. It is torn and smudged,\r\nmaking it useless.|----|Uma mapa que pertenceu a um casal de viajantes muito\r\ntempo atrás. Ele está rasgado e manchado,\r\ne por isso não serve para nada.|----|Un mapa desgarrado, borroso e inservible\r\nque perteneció a una pareja de viajeros.
 
-Ore that shines in seven colors, mined\r\nfrom an unknown corner of the world.|----|Um mineral que reluz sete cores, extraído\r\nde um canto desconhecido do mundo.|----|Un exótico mineral procedente\r\nde tierras ignotas que reluce\r\ncon los colores del arco iris.
+Ore that shines in seven colors, mined\r\nfrom an unknown corner of the world.|----|Um mineral que reluz as sete cores do arco-íris,\r\nprocedente de um canto desconhecido do mundo.|----|Un exótico mineral procedente\r\nde tierras ignotas que reluce\r\ncon los colores del arco iris.
 
-An ethereal white flower.\r\nIt can send one's words and\r\nthoughts to loved ones long gone.|----|Uma flor branca que emite um brilho etéreo.\r\nEla pode enviar mensagens e pensamentos para\r\nos seres queridos que faleceram.|----|Una flor blanca que emite un fulgor etéreo.\r\nSe dice que es capaz de enviar mensajes\r\na los seres queridos que han fallecido.
+An ethereal white flower.\r\nIt can send one's words and\r\nthoughts to loved ones long gone.|----|Uma flor branca que emite um brilho etéreo.\r\nDizem que é capaz de enviar mensagens para\r\nos seres queridos que já faleceram.|----|Una flor blanca que emite un fulgor etéreo.\r\nSe dice que es capaz de enviar mensajes\r\na los seres queridos que han fallecido.
 
 A holy chalice belonging to Melphina.\r\nIt is cracked in several places.|----|Um cálice sagrado pertencente à cidade de\r\nMelphina. Ele está rachado em vários lugares.|----|Un cáliz sagrado perteneciente a la ciudad\r\nde Melphina. Está agrietado por varios sitios.
 
 A letter from a mysterious woman.|----|Uma carta de uma mulher misteriosa.|----|Una carta de una mujer misteriosa.
 
-Proof given to those who have\r\ncompleted quests.|----|Um distintivo dado àqueles que conseguiram\r\ncompletar certas missões.|----|Un distintivo que se otorga a quienes\r\nlogran completar ciertas misiones.
+Proof given to those who have\r\ncompleted quests.|----|Um distintivo concedido àqueles que conseguiram\r\ncompletar certas missões.|----|Un distintivo que se otorga a quienes\r\nlogran completar ciertas misiones.
 
 A letter from a gloomy man.|----|Uma carta de um homem triste.|----|Una carta de un hombre triste.
 
-Given to those in the queensguard\r\nof the ancient desert kingdom.|----|Um distintivo dado àqueles da guarda real\r\ndo antigo reino do deserto.|----|Un distintivo que solían portar las tropas\r\nde la guardia real en el antiguo reino\r\ndel desierto.
+Given to those in the queensguard\r\nof the ancient desert kingdom.|----|Um distintivo concedido aos membros da guarda real\r\ndo antigo reino do deserto.|----|Un distintivo que solían portar las tropas\r\nde la guardia real en el antiguo reino\r\ndel desierto.
 
-A treasure of the Ancient Kingdom\r\nof Glenys. It has the power to\r\nvanquish phantoms.|----|Um tesouro do antigo reino\r\nde Glenys. Ele tem o poder de\r\nexpulsar os espectros.|----|Un tesoro del antiguo reino de Glenys\r\ndotado del poder de expulsar a los espectros.
+A treasure of the Ancient Kingdom\r\nof Glenys. It has the power to\r\nvanquish phantoms.|----|Um tesouro do antigo reino\r\nde Glenys. Ele tem o poder de\r\nexpulsar espectros.|----|Un tesoro del antiguo reino de Glenys\r\ndotado del poder de expulsar a los espectros.
 
-Proof given to a hero who protected\r\nthe ancient desert kingdom by slaughtering\r\ninvading monsters one after the other.|----|Um distintivo dado a um herói que protegeu\r\no antigo reino do deserto matando\r\nmonstros um atrás do outro.|----|Un distintivo que se otorgaba a aquellos\r\nque defendían el antiguo reino del desierto\r\nfrente a los monstruos.
+Proof given to a hero who protected\r\nthe ancient desert kingdom by slaughtering\r\ninvading monsters one after the other.|----|Um distintivo concedido a um herói que defendeu\r\no antigo reino do deserto matando\r\ninúmeros monstros.|----|Un distintivo que se otorgaba a aquellos\r\nque defendían el antiguo reino del desierto\r\nfrente a los monstruos.
 
 [Remnants 1]\r\nRemnants are mysterious objects\r\nthat hold powers beyond those of men.|----|[Remanescentes 1]\r\nRemanescentes são artefatos misteriosos que\r\npossuem poderes além da compreensão.|----|«Las reliquias son artefactos misteriosos\r\ncuyos poderes escapan a la comprensión».
 
 [Remnants 2]\r\nNo one knows when or how Remnants\r\nwere created.|----|[Remanescentes 2]\r\nNinguém sabe quando ou como os Remanescentes\r\nforam criados.|----|«Nadie sabe cómo ni cuándo\r\nfueron creadas las reliquias».
 
-[Remnants 3]\r\nMen have used Remnants as\r\nbeneficial tools since ancient times.|----|[Remanescentes 3]\r\nOs homens têm usado Remanescentes ao\r\nfavor desde tempos imemoráveis.|----|«Muchas reliquias han estado al servicio\r\nde las gentes del mundo desde tiempos\r\ninmemoriales».
+[Remnants 3]\r\nMen have used Remnants as\r\nbeneficial tools since ancient times.|----|[Remanescentes 3]\r\nOs homens têm usado Remanescentes ao\r\nseu favor desde tempos imemoráveis.|----|«Muchas reliquias han estado al servicio\r\nde las gentes del mundo desde tiempos\r\ninmemoriales».
 
 [Remnants 4]\r\nTowns and kingdoms were built\r\naround Remnants with strong powers.|----|[Remanescentes 4]\r\nCidade e reinos foram construídos\r\nem torno de poderosos Remanescentes.|----|«Numerosos reinos y ciudades surgieron\r\nen torno a las reliquias más poderosas».
 
-[Remnants 5]\r\nThe Imperial City of Undelwalt was\r\nthe first to be built around a Remnant.|----|[Remanescentes 5]\r\nA cidade imperial de Undelwalt foi a primeira\r\na ser construída em torno de um Remanescente.|----|«La ciudad imperial de Undelwalt\r\nfue la primera que se erigió\r\nen torno a una reliquia».
+[Remnants 5]\r\nThe Imperial City of Undelwalt was\r\nthe first to be built around a Remnant.|----|[Remanescentes 5]\r\nA cidade imperial de Undelwalt foi a primeira\r\na ser erguida em torno de um Remanescente.|----|«La ciudad imperial de Undelwalt\r\nfue la primera que se erigió\r\nen torno a una reliquia».
 
-[Remnants 6]\r\nA powerful Remnant can affect even\r\nthe environment around it.|----|[Remanescentes 6]\r\nUm poderoso Remanescentes pode até mesmo\r\nafetar o ambiente ao seu redor.|----|«Las reliquias más poderosas pueden incluso\r\ncausar cambios en su entorno».
+[Remnants 6]\r\nA powerful Remnant can affect even\r\nthe environment around it.|----|[Remanescentes 6]\r\nUm poderoso Remanescente pode até mesmo\r\nafetar o ambiente ao seu redor.|----|«Las reliquias más poderosas pueden incluso\r\ncausar cambios en su entorno».
 
 [Remnants 7]\r\nIt is said that a Remnant once caused a flourishing\r\ncity in the Great Sand Sea to fall into ruin.|----|[Remanescentes 7]\r\nDizem que um Remanescente causou a ruína de\r\numa próspera cidade no Grande Oceano de Areia.|----|«Una reliquia fue la responsable del auge\r\ny declive de una mítica ciudad situada\r\nen el Océano de Arena».
 
-[Remnants 8]\r\nIn order to use the powers of a Remnant,\r\none must bind it to himself.|----|[Remanescentes 8]\r\nPara poder usar os poderes de um Remanescente,\r\né preciso forjar um vínculo com ele.|----|«Para poder usar los poderes de una reliquia\r\nes preciso forjar un vínculo con ella».
+[Remnants 8]\r\nIn order to use the powers of a Remnant,\r\none must bind it to himself.|----|[Remanescentes 8]\r\nPara poder usar os poderes de um Remanescente\r\né preciso forjar um vínculo com ele.|----|«Para poder usar los poderes de una reliquia\r\nes preciso forjar un vínculo con ella».
 
 [Remnants 9]\r\nTo bind a Remnant, one simply needs to\r\nplace a hand over the Remnant and concentrate.|----|[Remanescentes 9]\r\nPara forjar um vínculo com um Remanescente\r\nbasta por uma mão sobre ele e se concentrar.|----|«Para forjar un vínculo con una reliquia,\r\nbasta con colocar la mano sobre ella\r\ny concentrarse».
 
-[Remnants 10]\r\nHowever, a Remnant can only be bound\r\nduring its Luminescence.|----|[Remanescentes 10]\r\nNo entanto, um vínculo só pode ser forjado\r\nquando o Remanescente emite sua luminescência.|----|«No obstante, solamente es posible\r\nforjar un vínculo con una reliquia\r\ncuando ésta emite luminiscencia».
+[Remnants 10]\r\nHowever, a Remnant can only be bound\r\nduring its Luminescence.|----|[Remanescentes 10]\r\nUm vínculo, no entanto, só pode ser forjado\r\nquando o Remanescente emite sua luminescência.|----|«No obstante, solamente es posible\r\nforjar un vínculo con una reliquia\r\ncuando ésta emite luminiscencia».
 
 [Remnants 11]\r\nLuminescence is a natural occurence\r\nthat causes light to emit from a Remnant.|----|[Remanescentes 11]\r\nA luminescência é um fenômeno natural\r\nque faz com que os Remanescentes emitam luz.|----|«La luminiscencia es un fenómeno natural\r\nque hace que las reliquias emitan luz».
 
-[Remnants 12]\r\nLuminescence occurs in a cycle,\r\nthe length differing for each Remnant.|----|[Remanescentes 12]\r\nA luminescência se produz de forma cíclica, o\r\nintervalo varia de um Remanescente para outro.|----|«La luminiscencia se produce de forma\r\ncíclica, aunque el intervalo difiere\r\nde una reliquia a otra».
+[Remnants 12]\r\nLuminescence occurs in a cycle,\r\nthe length differing for each Remnant.|----|[Remanescentes 12]\r\nA luminescência ocorre de forma cíclica, o\r\nintervalo varia de um Remanescente para outro.|----|«La luminiscencia se produce de forma\r\ncíclica, aunque el intervalo difiere\r\nde una reliquia a otra».
 
 [Remnants 13]\r\nA short cycle can be a few minutes,\r\nwhile a long cycle can take years.|----|[Remanescentes 13]\r\nUm intervalo curto pode durar alguns minutos,\r\nmas um intervalo longo pode levar anos.|----|«Un intervalo corto puede durar\r\ntan sólo unos minutos, mientras\r\nque uno largo puede llevar años».
 
-[Remnants 14]\r\nOne known Luminescence cycle is\r\nthat of the Remnant Ark: three months.|----|[Remanescentes 14]\r\nUm clico de luminescência conhecido é\r\no do Remanescente Arca: três meses.|----|«El Arca de Elysion experimenta\r\nun ciclo de luminiscencia una vez\r\ncada tres meses».
+[Remnants 14]\r\nOne known Luminescence cycle is\r\nthat of the Remnant Ark: three months.|----|[Remanescentes 14]\r\nO Remanescente Arca possui um ciclo de luminescência\r\nde três meses.|----|«El Arca de Elysion experimenta\r\nun ciclo de luminiscencia una vez\r\ncada tres meses».
 
 [Remnants 15]\r\nNo one knows why Luminescence\r\noccurs. Perhaps it is a signal.|----|[Remanescentes 15]\r\nNinguém sabe porque a luminescência\r\nacontece. Talvez seja um sinal.|----|«Nadie sabe cuál es la función\r\nde la luminiscencia. Tal vez se trate\r\nde una señal».
 
-[Remnants 16]\r\nIf a Remnant is bound to someone,\r\nit cannot be bound by anyone else.|----|[Remanescentes 16]\r\nSe um Remanescente tem um vínculo forjado com\r\numa pessoa, não pode mais se vincular a outra.|----|«Una vez que una reliquia ya tiene forjado\r\nun vínculo con una persona, nadie más podrá\r\nvincularse a ella».
+[Remnants 16]\r\nIf a Remnant is bound to someone,\r\nit cannot be bound by anyone else.|----|[Remanescentes 16]\r\nSe um Remanescente forja um vínculo com uma pessoa,\r\nninguém mais pode fazer isso.|----|«Una vez que una reliquia ya tiene forjado\r\nun vínculo con una persona, nadie más podrá\r\nvincularse a ella».
 
-[Remnants 17]\r\nA bound Remnant can only be operated\r\nby whom it is bound to.|----|[Remanescentes 17]\r\nUm Remanescente só pode ser usado pela pessoa\r\nque forjou um vínculo com ele.|----|«Una reliquia sólo puede ser usada\r\npor la persona que haya forjado un vínculo\r\ncon ella».
+[Remnants 17]\r\nA bound Remnant can only be operated\r\nby whom it is bound to.|----|[Remanescentes 17]\r\nUm Remanescente só pode ser usado pela pessoa\r\ncom o qual forjou um vínculo.|----|«Una reliquia sólo puede ser usada\r\npor la persona que haya forjado un vínculo\r\ncon ella».
 
-[Remnants 18]\r\nAn unbound Remnant is called\r\na Blank Remnant.|----|[Remanescentes 18]\r\nUm Remanescente sem vínculo é chamado de\r\num Remanescente em Branco.|----|«Las reliquias sin vincular también reciben\r\nel nombre de reliquias en blanco».
+[Remnants 18]\r\nAn unbound Remnant is called\r\na Blank Remnant.|----|[Remanescentes 18]\r\nUm Remanescente sem vínculo é chamado de\r\nRemanescente em Branco.|----|«Las reliquias sin vincular también reciben\r\nel nombre de reliquias en blanco».
 
-[Remnants 19]\r\nA Collapse is a misfortune triggered by a\r\nBlank Remnant being unbound for too long.|----|[Remanescentes 19]\r\nUm cataclismo é um infortúnio produzido quando\r\num Remanescente fica muito tempo sem vínculo.|----|«Los cataclismos se producen cuando\r\nuna reliquia pasa demasiado tiempo\r\nsin vincular».
+[Remnants 19]\r\nA Collapse is a misfortune triggered by a\r\nBlank Remnant being unbound for too long.|----|[Remanescentes 19]\r\nUm cataclismo é um evento produzido por\r\num Remanescente que está a muito tempo sem vínculo.|----|«Los cataclismos se producen cuando\r\nuna reliquia pasa demasiado tiempo\r\nsin vincular».
 
 [Remnants 20]\r\nThe most common effect of a Collapse\r\nis the spawning of monsters.|----|[Remanescentes 20]\r\nO efeito mais comum de um cataclismo\r\né a aparição de monstros.|----|«El efecto más frecuente de un cataclismo\r\nes la aparición de monstruos».
 
 [Remnants 21]\r\nSome forms of Collapse are said\r\nto affect people's minds.|----|[Remanescentes 21]\r\nAlguns tipos de cataclismo podem\r\nafetar a mente das pessoas.|----|«Algunos cataclismos pueden afectar\r\na la mente de quienes se encuentren cerca».
 
-[Remnants 22]\r\nOperating a Remnant wears away\r\nat the operator's soul.|----|[Remanescentes 22]\r\nO uso frequente de um Remanescente desgasta\r\na alma de quem o usa.|----|«El uso frecuente de reliquias somete\r\nel alma del usuario a una gran tensión».
+[Remnants 22]\r\nOperating a Remnant wears away\r\nat the operator's soul.|----|[Remanescentes 22]\r\nO uso frequente de um Remanescente consome\r\na alma de seu usuário.|----|«El uso frecuente de reliquias somete\r\nel alma del usuario a una gran tensión».
 
 [Remnants 23]\r\nThe core Remnants of each town\r\nare bound by the town's Lord.|----|[Remanescentes 23]\r\nOs Remanescentes mais importantes de cada\r\ncidade estão vinculados aos seus senhores.|----|«Las reliquias más importantes\r\nde cada ciudad están vinculadas\r\na sus respectivos señores».
 
-[Remnants 24]\r\nThe Remnant Elysion is currently\r\nunbound.|----|[Remanescentes 24]\r\nAtualmente, o Remanescente Elysion\r\nestá sem vínculo.|----|«En la actualidad, la reliquia conocida\r\ncomo las Tierras Sagradas está sin vincular».
+[Remnants 24]\r\nThe Remnant Elysion is currently\r\nunbound.|----|[Remanescentes 24]\r\nO Remanescente Elysion, atualmente,\r\nencontra-se sem vínculo.|----|«En la actualidad, la reliquia conocida\r\ncomo las Tierras Sagradas está sin vincular».
 
-[Remnants 25]\r\nA lord bound to a core Remnant is said\r\nto have a shorter lifespan than others.|----|[Remanescentes 25]\r\nUm senhor que forjou vínculos com um poderoso\r\nRemanescente tem uma vida mais curta.|----|«Los señores que han forjado vínculos\r\ncon reliquias poderosas suelen morir\r\na una edad más temprana de lo normal».
+[Remnants 25]\r\nA lord bound to a core Remnant is said\r\nto have a shorter lifespan than others.|----|[Remanescentes 25]\r\nOs senhores que forjaram vínculos com poderosos\r\nRemanescentes tem uma vida mais curta que o normal.|----|«Los señores que han forjado vínculos\r\ncon reliquias poderosas suelen morir\r\na una edad más temprana de lo normal».
 
-[Remnants 26]\r\nA Remnant's size does not relate to its strength,\r\nthough the core Remnants have great powers.|----|[Remanescentes 26]\r\nO poder de um Remanescente não depende do seu\r\ntamanho, mas os grandes podem ter muito poder.|----|«Aunque el poder de una reliquia no depende\r\nde su tamaño, algunas grandes reliquias\r\npueden llegar a ser muy poderosas».
+[Remnants 26]\r\nA Remnant's size does not relate to its strength,\r\nthough the core Remnants have great powers.|----|[Remanescentes 26]\r\nO poder de um Remanescente não depende do seu\r\ntamanho, mas os grandes são muito poderosos.|----|«Aunque el poder de una reliquia no depende\r\nde su tamaño, algunas grandes reliquias\r\npueden llegar a ser muy poderosas».
 
 [Remnants 27]\r\nIt is inferred that all Remnants were\r\ncreated from Elysion.|----|[Remanescentes 27]\r\nAcredita-se que todos os Remanescentes\r\nprocedem de Elysion.|----|«Se cree que todas las reliquias\r\nproceden de Elysion».
 
-[Remnants 28]\r\nRemnants constantly emit resonating waves.|----|[Remanescentes 28]\r\nOs Remanescentes constantemente emitem ondas\r\nde ressonância.|----|«Las reliquias emiten ondas de resonancia\r\nde forma constante».
+[Remnants 28]\r\nRemnants constantly emit resonating waves.|----|[Remanescentes 28]\r\nOs Remanescentes emitem ondas de\r\nressonância de forma constante.|----|«Las reliquias emiten ondas de resonancia\r\nde forma constante».
 
-[Remnants 29]\r\nRemnants are made from an unknown\r\nsubstance, unaffected by space or time.|----|[Remanescentes 29]\r\nOs Remanescentes são feitos de uma substância\r\ndesconhecida, imune ao espaço e ao tempo.|----|«Las reliquias están hechas\r\nde una sustancia desconocida\r\ninmune al paso del tiempo».
+[Remnants 29]\r\nRemnants are made from an unknown\r\nsubstance, unaffected by space or time.|----|[Remanescentes 29]\r\nOs Remanescentes são feitos de uma substância\r\ndesconhecida, imune à passagem do tempo.|----|«Las reliquias están hechas\r\nde una sustancia desconocida\r\ninmune al paso del tiempo».
 
-[Remnants 30]\r\nAn unproven theory suggests that\r\nRemnants are a type of life form.|----|[Remanescentes 30]\r\nUma teoria ainda não provada sugere que\r\nRemanescentes são uma forma de vida.|----|«Hay quien dice que las reliquias\r\nson formas de vida, aunque nadie\r\nha sido capaz de demostrarlo».
+[Remnants 30]\r\nAn unproven theory suggests that\r\nRemnants are a type of life form.|----|[Remanescentes 30]\r\nUma teoria ainda não comprovada sugere que\r\nos Remanescentes são formas de vida.|----|«Hay quien dice que las reliquias\r\nson formas de vida, aunque nadie\r\nha sido capaz de demostrarlo».
 
-[The Marshalls 1]\r\nThe Marshalls were an ancient clan,\r\ninfamous for their mysterious powers.|----|[Os Marshalls 1]\r\nOs Marshalls eram um antigo clã,\r\nfamoso por seus misteriosos poderes.|----|«Los Marshall eran un antiguo clan\r\nfamoso por sus misteriosos poderes».
+[The Marshalls 1]\r\nThe Marshalls were an ancient clan,\r\ninfamous for their mysterious powers.|----|[Os Marshalls 1]\r\nOs Marshalls eram um clã antigo,\r\nfamoso por seus misteriosos poderes.|----|«Los Marshall eran un antiguo clan\r\nfamoso por sus misteriosos poderes».
 
-[The Marshalls 2]\r\nA Marshall did not need a focus\r\nobject to use mystic arts.|----|[Os Marshalls 2]\r\nUm Marshall não precisa recorrer a\r\nnenhum objeto para usar artes místicas.|----|«Los Marshall no necesitan recurrir\r\na ningún objeto para canalizar sus\r\npoderes místicos».
+[The Marshalls 2]\r\nA Marshall did not need a focus\r\nobject to use mystic arts.|----|[Os Marshalls 2]\r\nUm Marshall não precisa de nenhum\r\nobjeto para canalizar energia mística.|----|«Los Marshall no necesitan recurrir\r\na ningún objeto para canalizar sus\r\npoderes místicos».
 
-[The Marshalls 3]\r\nThe Marshalls used magick, an ancient\r\nability that has long been forgotten.|----|[Os Marshalls 3]\r\nOs Marshalls usavam a magia arcana, uma antiga\r\narte que há muito tempo caiu no esquecimento.|----|«En cambio, los Marshall utilizan arcamagia,\r\nun antiguo arte que ha caído en el olvido\r\ndesde tiempos inmemoriales».
+[The Marshalls 3]\r\nThe Marshalls used magick, an ancient\r\nability that has long been forgotten.|----|[Os Marshalls 3]\r\nOs Marshalls usavam a magia arcana, uma antiga\r\narte há muito tempo esquecida.|----|«En cambio, los Marshall utilizan arcamagia,\r\nun antiguo arte que ha caído en el olvido\r\ndesde tiempos inmemoriales».
 
-[The Marshalls 4]\r\nThe Marshalls were said to have\r\ndeveloped many fantastic techniques.|----|[Os Marshalls 4]\r\nDizem que os Marshalls criaram\r\nmuitas técnicas de grande poder.|----|«Se dice que los Marshall crearon\r\nvarias técnicas de gran poder gracias\r\na esta forma de arte».
+[The Marshalls 4]\r\nThe Marshalls were said to have\r\ndeveloped many fantastic techniques.|----|[Os Marshalls 4]\r\nDizem que os Marshalls criaram\r\nvárias técnicas de grande poder.|----|«Se dice que los Marshall crearon\r\nvarias técnicas de gran poder gracias\r\na esta forma de arte».
 
 [The Marshalls 5]\r\nThe tablet discovered in Marshallton is one of\r\nthe last surviving relics of the Marshalls' skills.|----|[Os Marshalls 5]\r\nA tabuleta descoberta em Villamarshall é um\r\ndos últimos vestígios do poder dos Marshalls.|----|«La tablilla de Villamarshall es uno\r\nde los últimos vestigios del poder\r\nde los Marshall».
 
-[The Marshalls 6]\r\nThe Marshall tablet holds the power to seal\r\nand transform a Remnant into a talisman.|----|[Os Marshalls 6]\r\nA tabuleta de Marshall tem o poder de capturar\r\num Remanescente e transformá-lo em um talismã.|----|«La tablilla de Marshall cuenta\r\ncon el poder de sellar una reliquia\r\ny convertirla en un talismán».
+[The Marshalls 6]\r\nThe Marshall tablet holds the power to seal\r\nand transform a Remnant into a talisman.|----|[Os Marshalls 6]\r\nA tabuleta de Marshall possui o poder de capturar\r\num Remanescente e transformá-lo em um talismã.|----|«La tablilla de Marshall cuenta\r\ncon el poder de sellar una reliquia\r\ny convertirla en un talismán».
 
 [The Marshalls 7]\r\nWhile all such transformed Remnants are called\r\ntalismans, the exact forms they take on differ.|----|[Os Marshalls 7]\r\nEsses Remanescentes transformados são chamados\r\nde talismãs, mas sua forma exata pode variar.|----|«Estas reliquias transformadas\r\nse denominan talismanes, aunque\r\nsu forma externa puede variar».
 
 [The Marshalls 8]\r\nIn the form of a talisman, a Remnant\r\nwill not trigger a Collapse.|----|[Os Marshalls 8]\r\nNa forma de um talismã, um Remanescente\r\ndeixa de gerar cataclismos.|----|«Las reliquias dejan de generar cataclismos\r\nal ser transformadas en talismanes».
 
-[The Marshalls 9]\r\nA Remnant in talisman form can be used\r\nby anyone. It does not need to be bound.|----|[Os Marshalls 9]\r\nUm Remanescente convertido em talismã pode ser\r\nusado mesmo sem estar vinculado.|----|«Una vez convertida en talismán,\r\ncualquiera puede usar una reliquia\r\nsin necesidad de vincularla».
+[The Marshalls 9]\r\nA Remnant in talisman form can be used\r\nby anyone. It does not need to be bound.|----|[Os Marshalls 9]\r\nUm Remanescente convertido em talismã pode ser\r\nusado por qualquer um.|----|«Una vez convertida en talismán,\r\ncualquiera puede usar una reliquia\r\nsin necesidad de vincularla».
 
-[The Marshalls 10]\r\nThe Marshalls disappeared from history\r\nwith the age of the Imperator.|----|[Os Marshalls 10]\r\nOs Marshalls desapareceram da história\r\ncom a chegada da era Imperial.|----|«Los Marshall desaparecieron de la historia\r\ncon la llegada de la Era Imperial».
+[The Marshalls 10]\r\nThe Marshalls disappeared from history\r\nwith the age of the Imperator.|----|[Os Marshalls 10]\r\nOs Marshalls desapareceram da história\r\ncom a chegada da Era Imperial.|----|«Los Marshall desaparecieron de la historia\r\ncon la llegada de la Era Imperial».
 
-[The Third Committee 1]\r\nThe Third Committee is an Academy organization\r\nthat conducts illegal Remnant experiments.|----|[O Terceiro Comitê 1]\r\nO Terceiro Comitê é um grupo da Academia que\r\nconduz experimentos ilegais em Remanescentes.|----|«El Tercer Comité es un grupo vinculado\r\na la Academia que lleva a cabo todo tipo\r\nde experimentos ilegales».
+[The Third Committee 1]\r\nThe Third Committee is an Academy organization\r\nthat conducts illegal Remnant experiments.|----|[O Terceiro Comitê 1]\r\nO Terceiro Comitê é um braço da Academia que\r\nconduz experimentos ilegais em Remanescentes.|----|«El Tercer Comité es un grupo vinculado\r\na la Academia que lleva a cabo todo tipo\r\nde experimentos ilegales».
 
 [The Third Committee 2]\r\nProject HN:\r\nDevelopment of a man-made Remnant (Hypnos)|----|[O Terceiro Comitê 2]\r\nProjeto HN:\r\nCriação de um Remanescente artificial (Hipnos)|----|«Tercer Comité, proyecto HN:\r\nCreación de una reliquia artificial (Hipnos)».
 
@@ -5320,129 +5320,129 @@ Proof given to a hero who protected\r\nthe ancient desert kingdom by slaughterin
 
 [The Fallen 1]\r\nA creature once feared as a wrathful god. Records\r\nof its existence date back hundreds of years.|----|[O Condenado 1]\r\nUma criatura venerada como um deus maligno.\r\nLendas sobre este ser datam de séculos atrás.|----|«El Condenado era una criatura venerada\r\ncomo un dios maligno. Las primeras leyendas\r\nsobre este ser datan de hace varios siglos».
 
-[The Fallen 2]\r\nSome say it was created by the world itself\r\nas a way to rid itself of Remnants.|----|[O Condenado 2]\r\nAlguns dizem que ele enviado pelos céus\r\npara libertar os Remanescentes.|----|«Dicen que el Condenado fue enviado\r\npor los cielos para acabar con las reliquias».
+[The Fallen 2]\r\nSome say it was created by the world itself\r\nas a way to rid itself of Remnants.|----|[O Condenado 2]\r\nAlguns dizem que ele enviado pelos céus\r\npara acabar com os Remanescentes.|----|«Dicen que el Condenado fue enviado\r\npor los cielos para acabar con las reliquias».
 
-A map of Dillmoor.|----|Mapa de Dillmoor.|----|Un mapa de Brezalverde.
+A map of Dillmoor.|----|Um mapa de Dillmoor.|----|Un mapa de Brezalverde.
 
-A map of Darken Forest.|----|Mapa da Floresta Negra.|----|Un mapa del bosque de Darken.
+A map of Darken Forest.|----|Um mapa da Floresta Negra.|----|Un mapa del bosque de Darken.
 
-A map of Darken Forest including\r\nthe forest ruins.|----|Mapa da Floresta Negra que inclui\r\nas ruínas do bosque.|----|Un mapa del bosque de Darken\r\nque incluye las ruinas del bosque.
+A map of Darken Forest including\r\nthe forest ruins.|----|Um mapa da Floresta Negra que inclui\r\nas ruínas do bosque.|----|Un mapa del bosque de Darken\r\nque incluye las ruinas del bosque.
 
-A map of Fornstrand.|----|Mapa de Fornstrand.|----|Un mapa de Fornstrand.
+A map of Fornstrand.|----|Um mapa de Fornstrand.|----|Un mapa de Fornstrand.
 
-A map of the Heroic Ramparts.|----|Mapa das Muralhas do Heroísmo.|----|Un mapa de las Murallas del Heroísmo.
+A map of the Heroic Ramparts.|----|Um mapa das Muralhas do Heroísmo.|----|Un mapa de las Murallas del Heroísmo.
 
-A map of the Ivory Peaks.|----|Mapa dos Picos de Marfim.|----|Un mapa del Cerro de la Plata.
+A map of the Ivory Peaks.|----|Um mapa dos Picos de Marfim.|----|Un mapa del Cerro de la Plata.
 
-A map of Mt. Vackel.|----|Mapa do Monte Vackel.|----|Un mapa del monte Vackel.
+A map of Mt. Vackel.|----|Um mapa do Monte Vackel.|----|Un mapa del monte Vackel.
 
-A map of Crookfen.|----|Mapa de Crookfen.|----|Un mapa de Marismarchita.
+A map of Crookfen.|----|Um mapa de Crookfen.|----|Un mapa de Marismarchita.
 
-A map of Berechevaltelle.|----|Mapa de Berechevaltelle.|----|Un mapa de Berechevaltelle.
+A map of Berechevaltelle.|----|Um mapa de Berechevaltelle.|----|Un mapa de Berechevaltelle.
 
-A map of the Southwestern Road.|----|Mapa da Estrada do Sudoeste.|----|Un mapa de la Senda del Suroeste.
+A map of the Southwestern Road.|----|Um mapa da Estrada do Sudoeste.|----|Un mapa de la Senda del Suroeste.
 
-A map of the Great Sand Sea.|----|Mapa do Grande Oceano de Areia.|----|Un mapa del Océano de Arena.
+A map of the Great Sand Sea.|----|Um mapa do Grande Oceano de Areia.|----|Un mapa del Océano de Arena.
 
-A map of Lavafender.|----|Mapa de Lavafender.|----|Un mapa de Lavaluarte.
+A map of Lavafender.|----|Um mapa de Lavafender.|----|Un mapa de Lavaluarte.
 
-A map of Lavafender's lower tier.|----|Mapa do nível inferior de Lavafender.|----|Un mapa del nivel inferior de Lavaluarte.
+A map of Lavafender's lower tier.|----|Um mapa do nível inferior de Lavafender.|----|Un mapa del nivel inferior de Lavaluarte.
 
-A map of the Vale of the Gods.|----|Mapa do Vale dos Deuses.|----|Un mapa del Valle de los Dioses.
+A map of the Vale of the Gods.|----|Um mapa do Vale dos Deuses.|----|Un mapa del Valle de los Dioses.
 
-A map of the Cherry Pavilion in\r\nWyrmskeep.|----|Mapa do Pavilhão das Cerejas, em\r\nWyrmskeep.|----|Un mapa del Pabellón de los Cerezos,\r\nen el Castillo de Fordragón.
+A map of the Cherry Pavilion in\r\nWyrmskeep.|----|Um mapa do Pavilhão das Cerejeiras, em\r\nWyrmskeep.|----|Un mapa del Pabellón de los Cerezos,\r\nen el Castillo de Fordragón.
 
-(REPETIDO)A map of part of the Robelia Ruins.|----|Mapa de uma área das Ruínas de Robélia.|----|Un mapa de una sección\r\nde las ruinas de Robelia.
+(REPETIDO)A map of part of the Robelia Ruins.|----|Um mapa de uma área das Ruínas de Robélia.|----|Un mapa de una sección\r\nde las ruinas de Robelia.
 
-(REPETIDO)A map of part of the Robelia Ruins.|----|Mapa de uma área das Ruínas de Robélia.|----|Un mapa de una sección\r\nde las ruinas de Robelia.
+(REPETIDO)A map of part of the Robelia Ruins.|----|Um mapa de uma área das Ruínas de Robélia.|----|Un mapa de una sección\r\nde las ruinas de Robelia.
 
-A map of the Robelia Ruins' lower tier.|----|Mapa do nível inferior das Ruínas de Robélia.|----|Un mapa del nivel inferior\r\nde las ruinas de Robelia.
+A map of the Robelia Ruins' lower tier.|----|Um mapa do nível inferior das Ruínas de Robélia.|----|Un mapa del nivel inferior\r\nde las ruinas de Robelia.
 
-(REPETIDO)A map of part of the Gaslin Caves.|----|Mapa de uma área das Cavernas de Gaslin.|----|Un mapa de una sección\r\nde las cavernas de Gaslin.
+(REPETIDO)A map of part of the Gaslin Caves.|----|Um mapa de uma área das Cavernas de Gaslin.|----|Un mapa de una sección\r\nde las cavernas de Gaslin.
 
-(REPETIDO)A map of part of the Gaslin Caves.|----|Mapa de uma área das Cavernas de Gaslin.|----|Un mapa de una sección\r\nde las cavernas de Gaslin.
+(REPETIDO)A map of part of the Gaslin Caves.|----|Um mapa de uma área das Cavernas de Gaslin.|----|Un mapa de una sección\r\nde las cavernas de Gaslin.
 
-(REPETIDO)A map of part of the Gaslin Caves.|----|Mapa de uma área das Cavernas de Gaslin.|----|Un mapa de una sección\r\nde las cavernas de Gaslin.
+(REPETIDO)A map of part of the Gaslin Caves.|----|Um mapa de uma área das Cavernas de Gaslin.|----|Un mapa de una sección\r\nde las cavernas de Gaslin.
 
-(REPETIDO)A map of part of Aveclyff.|----|Mapa de uma área de Aveclyff.|----|Un mapa de una zona de Aveclyff.
+(REPETIDO)A map of part of Aveclyff.|----|Um mapa de uma área de Aveclyff.|----|Un mapa de una zona de Aveclyff.
 
-(REPETIDO)A map of part of Aveclyff.|----|Mapa de uma área de Aveclyff.|----|Un mapa de una zona de Aveclyff.
+(REPETIDO)A map of part of Aveclyff.|----|Um mapa de uma área de Aveclyff.|----|Un mapa de una zona de Aveclyff.
 
-(REPETIDO)A map of part of Blackdale.|----|Mapa de uma área de Valenegro.|----|Un mapa de una zona de Vallenegro.
+(REPETIDO)A map of part of Blackdale.|----|Um mapa de uma área de Valenegro.|----|Un mapa de una zona de Vallenegro.
 
-(REPETIDO)A map of part of Blackdale.|----|Mapa de uma área de Valenegro.|----|Un mapa de una zona de Vallenegro.
+(REPETIDO)A map of part of Blackdale.|----|Um mapa de uma área de Valenegro.|----|Un mapa de una zona de Vallenegro.
 
-A map of Blackdale's Second Entrance.|----|Mapa da segunda entrada de Valenegro.|----|Un mapa de la segunda entrada\r\nde Vallenegro.
+A map of Blackdale's Second Entrance.|----|Um mapa da segunda entrada de Valenegro.|----|Un mapa de la segunda entrada\r\nde Vallenegro.
 
-(REPETIDO)A map of part of the Aqueducts.|----|Mapa de uma área dos Aquedutos.|----|Un mapa de una sección del Acueducto.
+(REPETIDO)A map of part of the Aqueducts.|----|Um mapa de uma área dos Aquedutos.|----|Un mapa de una sección del Acueducto.
 
-(REPETIDO)A map of part of the Aqueducts.|----|Mapa de uma área dos Aquedutos.|----|Un mapa de una sección del Acueducto.
+(REPETIDO)A map of part of the Aqueducts.|----|Um mapa de uma área dos Aquedutos.|----|Un mapa de una sección del Acueducto.
 
-(REPETIDO)A map of part of the Catacombs.|----|Mapa de uma área das Catacumbas.|----|Un mapa de una sección de las Catacumbas.
+(REPETIDO)A map of part of the Catacombs.|----|Um mapa de uma área das Catacumbas.|----|Un mapa de una sección de las Catacumbas.
 
-(REPETIDO)A map of part of the Catacombs.|----|Mapa de uma área das Catacumbas.|----|Un mapa de una sección de las Catacumbas.
+(REPETIDO)A map of part of the Catacombs.|----|Um mapa de uma área das Catacumbas.|----|Un mapa de una sección de las Catacumbas.
 
-(REPETIDO)A map of part of the Numor Mines.|----|Mapa de uma área das Minas de Numor.|----|Un mapa de una sección\r\nde las minas de Numor.
+(REPETIDO)A map of part of the Numor Mines.|----|Um mapa de uma área das Minas de Numor.|----|Un mapa de una sección\r\nde las minas de Numor.
 
-(REPETIDO)A map of part of the Numor Mines.|----|Mapa de uma área das Minas de Numor.|----|Un mapa de una sección\r\nde las minas de Numor.
+(REPETIDO)A map of part of the Numor Mines.|----|Um mapa de uma área das Minas de Numor.|----|Un mapa de una sección\r\nde las minas de Numor.
 
-(REPETIDO)A map of part of the Numor Mines.|----|Mapa de uma área das Minas de Numor.|----|Un mapa de una sección\r\nde las minas de Numor.
+(REPETIDO)A map of part of the Numor Mines.|----|Um mapa de uma área das Minas de Numor.|----|Un mapa de una sección\r\nde las minas de Numor.
 
-A map of the Great Subterrane.|----|Mapa da Passagem Subterrânea.|----|Un mapa del pasaje de Subterra.
+A map of the Great Subterrane.|----|Um mapa da Passagem Subterrânea.|----|Un mapa del pasaje de Subterra.
 
-A map of the Yvalock's Nest.|----|Mapa do Ninho de Yvalock.|----|Un mapa del nido de Ivalock.
+A map of the Yvalock's Nest.|----|Um mapa do Ninho de Yvalock.|----|Un mapa del nido de Ivalock.
 
-(REPETIDO)A map of the Yvalock's Nest including\r\nthe additional sector.|----|Mapa do Ninho de Yvalock que inclui\r\numa área adicional.|----|Un mapa del nido de Ivalock\r\nque incluye una zona adicional.
+(REPETIDO)A map of the Yvalock's Nest including\r\nthe additional sector.|----|Um mapa do Ninho de Yvalock que inclui\r\numa área adicional.|----|Un mapa del nido de Ivalock\r\nque incluye una zona adicional.
 
-(REPETIDO)A map of the Yvalock's Nest including\r\nthe additional sector.|----|Mapa do Ninho de Yvalock que inclui\r\numa área adicional.|----|Un mapa del nido de Ivalock\r\nque incluye una zona adicional.
+(REPETIDO)A map of the Yvalock's Nest including\r\nthe additional sector.|----|Um mapa do Ninho de Yvalock que inclui\r\numa área adicional.|----|Un mapa del nido de Ivalock\r\nque incluye una zona adicional.
 
-A map of Siebebur's First Path.|----|Mapa do Primeiro Caminho de Siebebur.|----|Un mapa de la primera galería de Siebenpur.
+A map of Siebebur's First Path.|----|Um mapa do Primeiro Caminho de Siebebur.|----|Un mapa de la primera galería de Siebenpur.
 
-A map of Siebebur's Second Path.|----|Mapa do Segundo Caminho de Siebebur.|----|Un mapa de la segunda galería de Siebenpur.
+A map of Siebebur's Second Path.|----|Um mapa do Segundo Caminho de Siebebur.|----|Un mapa de la segunda galería de Siebenpur.
 
-A map of Siebebur's Third Path.|----|Mapa do Terceiro Caminho de Siebebur.|----|Un mapa de la tercera galería de Siebenpur.
+A map of Siebebur's Third Path.|----|Um mapa do Terceiro Caminho de Siebebur.|----|Un mapa de la tercera galería de Siebenpur.
 
-A map of Siebebur's Fourth Path.|----|Mapa do Quarto Caminho de Siebebur.|----|Un mapa de la cuarta galería de Siebenpur.
+A map of Siebebur's Fourth Path.|----|Um mapa do Quarto Caminho de Siebebur.|----|Un mapa de la cuarta galería de Siebenpur.
 
-A map of Siebebur's Fifth Path.|----|Mapa do Quinto Caminho de Siebebur.|----|Un mapa de la quinta galería de Siebenpur.
+A map of Siebebur's Fifth Path.|----|Um mapa do Quinto Caminho de Siebebur.|----|Un mapa de la quinta galería de Siebenpur.
 
-A map of Siebebur's Sixth Path.|----|Mapa do Sexto Caminho de Siebebur.|----|Un mapa de la sexta galería de Siebenpur.
+A map of Siebebur's Sixth Path.|----|Um mapa do Sexto Caminho de Siebebur.|----|Un mapa de la sexta galería de Siebenpur.
 
-A map of Flaumello Tower's lowest tier.|----|Mapa do nível inferior da Torre Flaumello.|----|Un mapa del nivel inferior\r\nde la Torre de Flaumello.
+A map of Flaumello Tower's lowest tier.|----|Um mapa do nível inferior da Torre de Flaumello.|----|Un mapa del nivel inferior\r\nde la Torre de Flaumello.
 
-A map of Flaumello Tower's middle tier.|----|Mapa do nível intermediário da\r\nTorre Flaumello.|----|Un mapa del nivel intermedio\r\nde la Torre de Flaumello.
+A map of Flaumello Tower's middle tier.|----|Um mapa do nível intermediário da\r\nTorre de Flaumello.|----|Un mapa del nivel intermedio\r\nde la Torre de Flaumello.
 
-A map of Flaumello Tower's highest tier.|----|Mapa do nível superior da Torre Flaumello.|----|Un mapa del nivel superior\r\nde la Torre de Flaumello.
+A map of Flaumello Tower's highest tier.|----|Um mapa do nível superior da Torre de Flaumello.|----|Un mapa del nivel superior\r\nde la Torre de Flaumello.
 
-(REPETIDO)A map of part of Mojcado Castle.|----|Mapa de uma área do Castelo Mojcado.|----|Un mapa de una sección\r\ndel Castillo de Muscato.
+(REPETIDO)A map of part of Mojcado Castle.|----|Um mapa de uma área do Castelo Mojcado.|----|Un mapa de una sección\r\ndel Castillo de Muscato.
 
-(REPETIDO)A map of part of Mojcado Castle.|----|Mapa de uma área do Castelo Mojcado.|----|Un mapa de una sección\r\ndel Castillo de Muscato.
+(REPETIDO)A map of part of Mojcado Castle.|----|Um mapa de uma área do Castelo Mojcado.|----|Un mapa de una sección\r\ndel Castillo de Muscato.
 
-(REPETIDO)A map of part of the Ancient Ruins.|----|Mapa de uma área das Antigas Ruínas.|----|Un mapa de una sección\r\nde las Ruinas Ancestrales.
+(REPETIDO)A map of part of the Ancient Ruins.|----|Um mapa de uma área das Antigas Ruínas.|----|Un mapa de una sección\r\nde las Ruinas Ancestrales.
 
-(REPETIDO)A map of part of the Ancient Ruins.|----|Mapa de uma área das Antigas Ruínas.|----|Un mapa de una sección\r\nde las Ruinas Ancestrales.
+(REPETIDO)A map of part of the Ancient Ruins.|----|Um mapa de uma área das Antigas Ruínas.|----|Un mapa de una sección\r\nde las Ruinas Ancestrales.
 
-(REPETIDO)A map of part of the Ancient Ruins.|----|Mapa de uma área das Antigas Ruínas.|----|Un mapa de una sección\r\nde las Ruinas Ancestrales.
+(REPETIDO)A map of part of the Ancient Ruins.|----|Um mapa de uma área das Antigas Ruínas.|----|Un mapa de una sección\r\nde las Ruinas Ancestrales.
 
-(REPETIDO)A map of part of the Ancient Ruins.|----|Mapa de uma área das Antigas Ruínas.|----|Un mapa de una sección\r\nde las Ruinas Ancestrales.
+(REPETIDO)A map of part of the Ancient Ruins.|----|Um mapa de uma área das Antigas Ruínas.|----|Un mapa de una sección\r\nde las Ruinas Ancestrales.
 
-(REPETIDO)A map of part of the Ancient Ruins.|----|Mapa de uma área das Antigas Ruínas.|----|Un mapa de una sección\r\nde las Ruinas Ancestrales.
+(REPETIDO)A map of part of the Ancient Ruins.|----|Um mapa de uma área das Antigas Ruínas.|----|Un mapa de una sección\r\nde las Ruinas Ancestrales.
 
-A map of Siebenbur's Seventh Path.|----|Mapa do Sétimo Caminho de Siebenbur.|----|Un mapa de la séptima galería de Siebenpur.
+A map of Siebenbur's Seventh Path.|----|Um mapa do Sétimo Caminho de Siebenbur.|----|Un mapa de la séptima galería de Siebenpur.
 
 A key Remnant that unlocks the seal\r\nof the stele in the Great Subterrane.|----|Um Remanescente que remove a barreira\r\ndo pedestal na Passagem Subterrânea.|----|Una reliquia que abre la barrera del pedestal\r\nsituado en el Pasaje de Subterra.
 
-A key Remnant that unlocks the seal\r\nto the Hall of the Mirror beneath the\r\nRobelia Ruins.|----|Um Remanescente que remove a barreira\r\npara a Sala do Espelho embaixo das\r\nRuínas de Robélia.|----|Una reliquia que abre la puerta situada\r\nen la sala del espejo, bajo las ruinas\r\ndel Castillo de Robelia.
+A key Remnant that unlocks the seal\r\nto the Hall of the Mirror beneath the\r\nRobelia Ruins.|----|Um Remanescente que remove a barreira\r\nna Sala do Espelho, embaixo das\r\nRuínas de Robélia.|----|Una reliquia que abre la puerta situada\r\nen la sala del espejo, bajo las ruinas\r\ndel Castillo de Robelia.
 
-A key Remnant left by the Imperator that\r\nunlocks the seal to the door of the Ancient Ruins.\r\nObtained through downloadable content.|----|Um Remanescente deixado pelo Imperador que\r\nremove a barreira da porta nas Antigas Ruínas.\r\nObtido por meio de conteúdo adicional.|----|Una reliquia del primer Emperador celestial\r\nque abre la puerta de las Ruinas Ancestrales.\r\nSe obtiene mediante una descarga de contenido.
+A key Remnant left by the Imperator that\r\nunlocks the seal to the door of the Ancient Ruins.\r\nObtained through downloadable content.|----|Um Remanescente do primeiro Imperador que\r\nremove a barreira da porta das Antigas Ruínas.\r\nObtido por meio de conteúdo adicional.|----|Una reliquia del primer Emperador celestial\r\nque abre la puerta de las Ruinas Ancestrales.\r\nSe obtiene mediante una descarga de contenido.
 
-A key needed to operate the teleporter\r\nto reach the Grammi Tier.\r\nIt is made from an unknown material.|----|Chave necessária para operar o\r\nteletransportador que conduz ao nível Grammi.\r\nEla é feita de material desconhecido.|----|Una llave de un material desconocido.\r\nSirve para activar el teletransportador\r\nque conduce al nivel Grammi.
+A key needed to operate the teleporter\r\nto reach the Grammi Tier.\r\nIt is made from an unknown material.|----|Uma chave que serve para ativar o\r\nteletransportador que conduz ao nível Grammi.\r\nEla é feita de material desconhecido.|----|Una llave de un material desconocido.\r\nSirve para activar el teletransportador\r\nque conduce al nivel Grammi.
 
-A key needed to operate the teleporter\r\nto reach the Metopon Tier.\r\nIt is made from an unknown material.|----|Chave necessária para operar o\r\nteletransportador que conduz ao nível Metopon.\r\nEla é feita de material desconhecido.|----|Una llave de un material desconocido.\r\nSirve para activar el teletransportador\r\nque conduce al nivel Metopon.
+A key needed to operate the teleporter\r\nto reach the Metopon Tier.\r\nIt is made from an unknown material.|----|Uma chave que serve para ativar o\r\nteletransportador que conduz ao nível Metopon.\r\nEla é feita de material desconhecido.|----|Una llave de un material desconocido.\r\nSirve para activar el teletransportador\r\nque conduce al nivel Metopon.
 
-A key needed to operate the teleporter\r\nto reach the Choros Tier.\r\nIt is made from an unknown material.|----|Chave necessária para operar o\r\nteletransportador que conduz ao nível Choros.\r\nEla é feita de material desconhecido.|----|Una llave de un material desconocido.\r\nSirve para activar el teletransportador\r\nque conduce al nivel Koros.
+A key needed to operate the teleporter\r\nto reach the Choros Tier.\r\nIt is made from an unknown material.|----|Uma chave que serve para ativar o\r\nteletransportador que conduz ao nível Choros.\r\nEla é feita de material desconhecido.|----|Una llave de un material desconocido.\r\nSirve para activar el teletransportador\r\nque conduce al nivel Koros.
 
-A scarlet metal plate engraved with\r\nancient writings, given to those who\r\nhave gone through the Ancient Ruins.|----|Uma placa de metal escarlate contendo\r\nantigas inscrições, entregue àqueles que\r\nqueriam atravessar as Antigas Ruínas.|----|Un grabado de metal escarlata\r\nque se otorga a quienes logran\r\natravesar las Ruinas Ancestrales.
+A scarlet metal plate engraved with\r\nancient writings, given to those who\r\nhave gone through the Ancient Ruins.|----|Uma placa de metal escarlate contendo\r\nantigas inscrições, que se concede àqueles que\r\nquerem atravessar as Antigas Ruínas.|----|Un grabado de metal escarlata\r\nque se otorga a quienes logran\r\natravesar las Ruinas Ancestrales.
 
 This orb contains the wisdom of the dragon\r\nrace and unlocks new guild tasks.\r\nObtained through downloadable content.|----|Essa orbe contém o conhecimento de um dragão\r\ne desbloqueia novas tarefas na guilda.\r\nObtida por meio de conteúdo adicional.|----|(Descarga de contenido)\r\nUn orbe que recoge el saber de un dragón.\r\nDesbloquea nuevas pruebas del gremio.
 
@@ -5450,69 +5450,69 @@ This orb contains the wisdom of the king\r\nand unlocks new guild tasks.\r\nObta
 
 This orb contains the wisdom of the ogre\r\nrace and unlocks new guild tasks.\r\nObtained through downloadable content.|----|Essa orbe contém o conhecimento de um ogro\r\ne desbloqueia novas tarefas na guilda.\r\nObtida por meio de conteúdo adicional.|----|(Descarga de contenido)\r\nUn orbe que recoge el saber de un ogro.\r\nDesbloquea nuevas pruebas del gremio.
 
-This orb contains the wisdom of oaths\r\nand unlocks new guild tasks.\r\nObtained through downloadable content.|----|Essa orbe contém o conhecimento de um\r\njuramento e que desbloqueia novas tarefas na\r\nguilda. Obtida por meio de conteúdo adicional.|----|(Descarga de contenido)\r\nUn orbe dotado del poder de un juramento.\r\nDesbloquea nuevas pruebas del gremio.
+This orb contains the wisdom of oaths\r\nand unlocks new guild tasks.\r\nObtained through downloadable content.|----|Essa orbe contém o poder de um\r\njuramento e que desbloqueia novas tarefas na\r\nguilda. Obtida por meio de conteúdo adicional.|----|(Descarga de contenido)\r\nUn orbe dotado del poder de un juramento.\r\nDesbloquea nuevas pruebas del gremio.
 
 This orb contains the wisdom of the mystic\r\nrace and unlocks new guild tasks.\r\nObtained through downloadable content.|----|Essa orbe contém o conhecimento dos magos\r\ne desbloqueia novas tarefas na guilda.\r\nObtida por meio de conteúdo adicional.|----|(Descarga de contenido)\r\nUn orbe lleno de conocimientos místicos.\r\nDesbloquea nuevas pruebas del gremio.
 
 This orb contains the wisdom of the gods\r\nand unlocks new guild tasks.\r\nObtained through downloadable content.|----|Essa orbe contém o conhecimento dos deuses\r\ne desbloqueia novas tarefas na guilda.\r\nObtida por meio de conteúdo adicional.|----|(Descarga de contenido)\r\nUn orbe que recoge el saber de los cielos.\r\nDesbloquea nuevas pruebas del gremio.
 
-This orb contains the wisdom of the promises\r\nand unlocks new guild tasks.\r\nObtained through downloadable content.|----|Essa orbe contém o conhecimento de uma\r\npromessa e desbloqueia novas tarefas na\r\nguilda. Obtida por meio de conteúdo adicional.|----|(Descarga de contenido)\r\nUn orbe dotado del poder de una promesa.\r\nDesbloquea nuevas pruebas del gremio.
+This orb contains the wisdom of the promises\r\nand unlocks new guild tasks.\r\nObtained through downloadable content.|----|Essa orbe contém o poder de uma\r\npromessa e desbloqueia novas tarefas na\r\nguilda. Obtida por meio de conteúdo adicional.|----|(Descarga de contenido)\r\nUn orbe dotado del poder de una promesa.\r\nDesbloquea nuevas pruebas del gremio.
 
-This orb contains the wisdom of life\r\nand unlocks new guild tasks.\r\nObtained through downloadable content.|----|Essa orbe contém o conhecimento da vida\r\ne desbloqueia novas tarefas na guilda.\r\nObtida por meio de conteúdo adicional.|----|(Descarga de contenido)\r\nUn orbe dotado del poder de la naturaleza.\r\nDesbloquea nuevas pruebas del gremio.
+This orb contains the wisdom of life\r\nand unlocks new guild tasks.\r\nObtained through downloadable content.|----|Essa orbe contém o poder da natureza\r\ne desbloqueia novas tarefas na guilda.\r\nObtida por meio de conteúdo adicional.|----|(Descarga de contenido)\r\nUn orbe dotado del poder de la naturaleza.\r\nDesbloquea nuevas pruebas del gremio.
 
-A stone said to grant eternal life.\r\nIt is given to those who have finished\r\nall of the secret guild tasks.|----|Uma pedra que dizem conceder a vida eterna.\r\nEla é dada àqueles que superaram\r\ntodas as tarefas secretas da guilda.|----|Una piedra mítica que otorga la vida eterna.\r\nSólo podrán poseerla aquellos que superen\r\ntodas las pruebas secretas.
+A stone said to grant eternal life.\r\nIt is given to those who have finished\r\nall of the secret guild tasks.|----|Uma pedra que concede a vida eterna.\r\nEla só pode ser dada para aqueles que superaram\r\ntodas as tarefas secretas da guilda.|----|Una piedra mítica que otorga la vida eterna.\r\nSólo podrán poseerla aquellos que superen\r\ntodas las pruebas secretas.
 
-An heirloom bequeathed by a legendary witch.\r\nEngraved are words in a cryptic language.|----|Uma relíquia de família que pertenceu a uma\r\nbruxa lendária. Contém inscrições em uma\r\nlinguagem misteriosa.|----|Un anillo que perteneció a una famosa bruja.\r\nEstá cubierto de extrañas inscripciones.
+An heirloom bequeathed by a legendary witch.\r\nEngraved are words in a cryptic language.|----|Uma relíquia de família que pertenceu a uma\r\nbruxa lendária. Contém inscrições em uma\r\nmisteriosa linguagem.|----|Un anillo que perteneció a una famosa bruja.\r\nEstá cubierto de extrañas inscripciones.
 
 A ring belonging to the mercenary Zane.\r\nThe metal is burnt and misshapen.|----|Um anel que pertenceu ao mercenário Zane.\r\nO metal está deformado pelo calor.|----|Un anillo que perteneció al mercenario Zane.\r\nEl metal está deformado por el calor.
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um item peculiar que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu o item.|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
+(REPETIDO)A peculiar item that increases the action\r\ncount available for Mr. Diggs.\r\n...Oops, he ate it.|----|Um estranho alimento que aumenta as\r\nhabilidades do Mr. Diggs.\r\n...Oops, ele comeu sem avisar!|----|Un extraño alimento que aumenta\r\nlas habilidades del señor Garras...\r\n¡Anda! ¡Si se lo ha zampado!
 
-An orb with great mystic energy\r\nthat emits a red aura. It is used\r\nto learn the mystic art of Invocations.|----|Uma orbe contendo grande energia mística\r\ne que emite uma aura vermelha. Ela é usada\r\npara aprender invocações.|----|Un orbe que emite una intensa aura rojiza.\r\nSe utiliza para aprender invocaciones.
+An orb with great mystic energy\r\nthat emits a red aura. It is used\r\nto learn the mystic art of Invocations.|----|Uma orbe contendo grande energia mística\r\ne que emite uma aura avermelhada. Ela é usada\r\npara aprender invocações.|----|Un orbe que emite una intensa aura rojiza.\r\nSe utiliza para aprender invocaciones.
 
-An orb with great mystic energy\r\nthat emits a blue aura. It is used\r\nto learn the mystic art of Evocations.|----|Uma orbe contendo grande energia mística\r\ne que emite uma aura azul. Ela é usada\r\npara aprender evocações.|----|Un orbe que emite una intensa aura azul.\r\nSe utiliza para aprender evocaciones.
+An orb with great mystic energy\r\nthat emits a blue aura. It is used\r\nto learn the mystic art of Evocations.|----|Uma orbe contendo grande energia mística\r\ne que emite uma aura azulada. Ela é usada\r\npara aprender evocações.|----|Un orbe que emite una intensa aura azul.\r\nSe utiliza para aprender evocaciones.
 
-An orb with great mystic energy\r\nthat emits a yellow aura. It is used\r\nto learn the mystic art of Hexes.|----|Uma orbe contendo grande energia mística\r\ne que emite uma aura amarela. Ela é usada\r\npara aprender maldições.|----|Un orbe que emite una intensa aura amarilla.\r\nSe utiliza para aprender maleficios.
+An orb with great mystic energy\r\nthat emits a yellow aura. It is used\r\nto learn the mystic art of Hexes.|----|Uma orbe contendo grande energia mística\r\ne que emite uma aura amarelada. Ela é usada\r\npara aprender maldições.|----|Un orbe que emite una intensa aura amarilla.\r\nSe utiliza para aprender maleficios.
 
-A powerful orb that emits a jade light.\r\nIt grants the user the ability to learn the mystic art of Remedies.|----|Uma orbe poderosa que emite uma luz verde.\r\nEla concede a habilidade de aprender remédios.|----|Una poderosa esfera que emite una luz\r\nde color verde. Permite aprender remedios.
+A powerful orb that emits a jade light.\r\nIt grants the user the ability to learn the mystic art of Remedies.|----|Uma poderosa orbe que emite uma luz esverdeada.\r\nEla concede a habilidade de aprender remédios.|----|Una poderosa esfera que emite una luz\r\nde color verde. Permite aprender remedios.
 
 An orb with great mystic energy\r\nthat emits a purple aura. It is used\r\nto learn the mystic art of Psionics.|----|Uma orbe contendo grande energia mística\r\ne que emite uma aura púrpura. Ela é usada\r\npara aprender sortilégios.|----|Un orbe que emite una intensa aura púrpura.\r\nSe utiliza para aprender sortilegios.
 
@@ -5526,191 +5526,191 @@ A recipe containing the formula\r\nfor the item art of Potions.|----|Uma receita
 
 A recipe containing the formula\r\nfor the item art of Lotions.|----|Uma receita contendo instruções para\r\nelaboração de loções.|----|Una fórmula que contiene recetas\r\npara elaborar diversos ungüentos.
 
-A recipe containing the formula\r\nfor the item art of Explosives.|----|Uma receita contendo instruções para\r\nelaboração de explosivos.|----|Una fórmula que contiene instrucciones\r\npara aprender técnicas de explosivos.
+A recipe containing the formula\r\nfor the item art of Explosives.|----|Uma receita contendo instruções para\r\naprender técnicas de explosivos.|----|Una fórmula que contiene instrucciones\r\npara aprender técnicas de explosivos.
 
-A recipe containing the formula\r\nfor the item art of Shards.|----|Uma receita contendo instruções para\r\nelaboração de cristais.|----|Una fórmula que contiene instrucciones\r\npara aprender técnicas de cristales.
+A recipe containing the formula\r\nfor the item art of Shards.|----|Uma receita contendo instruções para\r\naprender técnicas de cristais.|----|Una fórmula que contiene instrucciones\r\npara aprender técnicas de cristales.
 
 A recipe containing the formula\r\nfor the item art of Traps.|----|Uma receita contendo instruções para\r\nelaboração de armadilhas.|----|Una fórmula que contiene instrucciones\r\npara montar distintos tipos de trampas.
 
-A talisman shaped like a necklace.\r\nA mysterious pattern is engraved on it.|----|Um talismã em forma de colar.\r\nNele está gravado um misterioso padrão.|----|Un talismán en forma de colgante\r\ncon un misterioso grabado.
+A talisman shaped like a necklace.\r\nA mysterious pattern is engraved on it.|----|Um talismã em forma de colar.\r\nNele está inscrito um misterioso padrão.|----|Un talismán en forma de colgante\r\ncon un misterioso grabado.
 
-A talisman shaped like a necklace.\r\nIt was created by Marina using a tablet.|----|Um talismã em forma de colar.\r\nEle foi criado por Marina usando uma tabuleta.|----|Un talismán en forma de colgante creado\r\npor Marina gracias al poder de la tablilla.
+A talisman shaped like a necklace.\r\nIt was created by Marina using a tablet.|----|Um talismã em forma de colar.\r\nEle foi criado por Marina graças ao poder da tabuleta.|----|Un talismán en forma de colgante creado\r\npor Marina gracias al poder de la tablilla.
 
-The Gae Bolg's trigger Remnant.\r\nIt is passed down from generation\r\nto generation.|----|O Remanescente que ativa o Gae Bolg.\r\nEle é transmitido como herança de família de\r\ngeração em geração.|----|La reliquia que activa el Gae Bolg.\r\nUna herencia familiar transmitida\r\nde generación en generación.
+The Gae Bolg's trigger Remnant.\r\nIt is passed down from generation\r\nto generation.|----|O Remanescente que ativa o Gae Bolg.\r\nUma herança de família transmitida de\r\ngeração em geração.|----|La reliquia que activa el Gae Bolg.\r\nUna herencia familiar transmitida\r\nde generación en generación.
 
-An earring created by using\r\nthe tablet on Namul Sin and Niram Sin.|----|Um brinco criado com o uso\r\nda tabuleta em Namul Sin e Niram Sin.|----|Un pendiente místico creado al usar el poder\r\nde la tabilla con el Namul Sin y el Niram Sin.
+An earring created by using\r\nthe tablet on Namul Sin and Niram Sin.|----|Um brinco criado ao usar o poder\r\nda tabuleta em Namul Sin e Niram Sin.|----|Un pendiente místico creado al usar el poder\r\nde la tabilla con el Namul Sin y el Niram Sin.
 
-A chain created by using\r\nthe tablet on the Lob Omen.|----|Uma corrente criada com o uso\r\nda tabuleta no Lob Omen.|----|Una cadena mística creada al usar el poder\r\nde la tabilla sobre el Lob Omen.
+A chain created by using\r\nthe tablet on the Lob Omen.|----|Uma corrente criada ao usar o poder\r\nda tabuleta no Lob Omen.|----|Una cadena mística creada al usar el poder\r\nde la tabilla sobre el Lob Omen.
 
-A small, pipe-shaped Remnant.\r\nIt has the force to knock down even\r\nthe most distant monsters.|----|Um pequeno Remanescente em forma de tubo.\r\nEle é capaz de derrubar até mesmo\r\nos monstros mais distantes.|----|Una pequeña reliquia en forma de tubo,\r\ncapaz de tumbar a cualquier monstruo\r\ndesde una gran distancia.
+A small, pipe-shaped Remnant.\r\nIt has the force to knock down even\r\nthe most distant monsters.|----|Um pequeno Remanescente em forma de tubo.\r\nEle é capaz de nocautear até mesmo\r\nos monstros mais distantes.|----|Una pequeña reliquia en forma de tubo,\r\ncapaz de tumbar a cualquier monstruo\r\ndesde una gran distancia.
 
-A charm created by using\r\nthe tablet on the Tao Tie.|----|Um amuleto criado com o uso da\r\ntabuleta no Tao Tie.|----|Un talismán creado al usar el poder\r\nde la tabilla sobre el Tao Tie.
+A charm created by using\r\nthe tablet on the Tao Tie.|----|Um talismã criado com ao usar o poder\r\nda tabuleta no Tao Tie.|----|Un talismán creado al usar el poder\r\nde la tabilla sobre el Tao Tie.
 
-A staff created by using the tablet\r\non Brimuslabus.|----|Um bastão criado com o uso da tabuleta\r\nno Brimuslabus.|----|Un bastón creado al usar el poder\r\nde la tabilla sobre el Brimuslabus.
+A staff created by using the tablet\r\non Brimuslabus.|----|Um bastão criado com ao usar o poder da tabuleta\r\nno Brimuslabus.|----|Un bastón creado al usar el poder\r\nde la tabilla sobre el Brimuslabus.
 
-A book of mystic spells, created\r\nby using the tablet on the Blue Elf.|----|Um livro de magias, criado\r\ncom o uso da tabuleta na Lágrima Azul.|----|Un libro de hechizos creado al usar el poder\r\nde la tablilla sobre la Lágrima Azul.
+A book of mystic spells, created\r\nby using the tablet on the Blue Elf.|----|Um livro de magias, criado\r\nao usar o poder da tabuleta na Lágrima Azul.|----|Un libro de hechizos creado al usar el poder\r\nde la tablilla sobre la Lágrima Azul.
 
-A book of mystic spells, created\r\nby using the tablet on the Emeth Tag.|----|Um livro de magias, criado\r\ncom o uso da tabuleta no Emeth Tag.|----|Un libro de hechizos creado al usar el poder\r\nde la tabilla sobre el Emeth Tag.
+A book of mystic spells, created\r\nby using the tablet on the Emeth Tag.|----|Um livro de magias, criado\r\nao usar o poder da tabuleta no Emeth Tag.|----|Un libro de hechizos creado al usar el poder\r\nde la tabilla sobre el Emeth Tag.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from the Jhana.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos jhanas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los jhanas.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from the Jhana.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos jhanas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los jhanas.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from homunculi.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos homúnculos.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los homúnculos.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from homunculi.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos homúnculos.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los homúnculos.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from raptors.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos raptores.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los carroñeros.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from raptors.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos raptores.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los carroñeros.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from fenri.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos fenris.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los fenris.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from fenri.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos fenris.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los fenris.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from chimeras.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das quimeras.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las quimeras.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from chimeras.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das quimeras.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las quimeras.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from hydras.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das hidras.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las hidras.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from hydras.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das hidras.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las hidras.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from imps.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos diabretes.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los diablillos.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from imps.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos diabretes.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los diablillos.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from vile lizards.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos lagartos.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los saurios viles.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from vile lizards.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos lagartos.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los saurios viles.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from azhdahas.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos azhdahas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los azhdahas.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from azhdahas.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos azhdahas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los azhdahas.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from demons.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos demônios.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los diablos.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from demons.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos demônios.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los diablos.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from manticores.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos manticores.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las mantícoras.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from manticores.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos manticores.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las mantícoras.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from crabs.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos caranguejos.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los centollos.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from crabs.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos caranguejos.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los centollos.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from grand spiders.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das tarântulas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las tarántulas.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from grand spiders.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das tarântulas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las tarántulas.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from landworms.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos vermes.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los multípodos.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from landworms.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos vermes.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los multípodos.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from grand beetles.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos grandes besouros.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las mantis prócer.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from grand beetles.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos grandes besouros.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las mantis prócer.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from leap frogs.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos Sapo Saltitantes.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los batracios.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from leap frogs.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos sapos saltitantes.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los batracios.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from oarfish.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das avispoideas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las avispoideas.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from oarfish.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das avispoideas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las avispoideas.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from butterflies.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das mariposas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las mariposas.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from butterflies.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das mariposas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las mariposas.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from amoebas.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das amebas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las amebas.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from amoebas.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das amebas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de las amebas.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from flies.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das moscas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los nematóceros.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from flies.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das moscas.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los nematóceros.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from vultures.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos abutres.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los buitres.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from vultures.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos abutres.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los buitres.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from wyverns.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos wyverns.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los wyverns.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from wyverns.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos wyverns.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los wyverns.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from spiritlords.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos senhores espirituais.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los archiespectros.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from spiritlords.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos senhores espirituais.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los archiespectros.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from anthrovores.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos antropófagos.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los antropófagos.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from anthrovores.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos antropófagos.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los antropófagos.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from treants.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos ents.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los ents.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from treants.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos ents.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los ents.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from oculi.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos oculis.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los oculus.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from oculi.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos oculis.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los oculus.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from dragons.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos dragões.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los dragones.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from dragons.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos dragões.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los dragones.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from colossi.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos colossus.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los colosos.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from colossi.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos colossus.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los colosos.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from albic qsiti.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos qsitis albinos.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los qsitis albinos.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from albic qsiti.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos qsitis albinos.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los qsitis albinos.
 
-A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from phantoms.|----|Um informativo sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos espectros.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los espectros.
+A magazine about monsters.\r\nAllows for more components to\r\nbe obtained from phantoms.|----|Um informativo sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos espectros.|----|Una obra de carácter divulgativo.\r\nAumenta el número de componentes\r\nque se obtienen de los espectros.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from the Jhana.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos jhanas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los jhanas.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from the Jhana.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos jhanas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los jhanas.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from homunculi.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos homúnculos.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los homúnculos.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from homunculi.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos homúnculos.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los homúnculos.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from raptors.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos raptores.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los carroñeros.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from raptors.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos raptores.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los carroñeros.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from fenri.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos fenri.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los fenris.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from fenri.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos fenri.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los fenris.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from chimeras.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das quimeras.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las quimeras.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from chimeras.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das quimeras.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las quimeras.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from hydras.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das hidras.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las hidras.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from hydras.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das hidras.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las hidras.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from imps.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos diabretes.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los diablillos.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from imps.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos diabretes.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los diablillos.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from vile lizards.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos lagartos.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los saurios viles.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from vile lizards.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos lagartos.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los saurios viles.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from azhdahas.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos azhdahas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los azhdahas.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from azhdahas.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos azhdahas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los azhdahas.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from demons.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos demônios.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los diablos.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from demons.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos demônios.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los diablos.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from manticores.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos manticores.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las mantícoras.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from manticores.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos manticores.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las mantícoras.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from crabs.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos caranguejos.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los centollos.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from crabs.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos caranguejos.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los centollos.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from grand spiders.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das tarântulas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las tarántulas.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from grand spiders.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das tarântulas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las tarántulas.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from landworms.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos vermes.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los multípodos.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from landworms.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos vermes.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los multípodos.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from grand beetles.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos grande besouros.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las mantis prócer.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from grand beetles.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos grande besouros.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las mantis prócer.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from leap frogs.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos Sapo Saltitantes.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los batracios.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from leap frogs.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos sapos saltitantes.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los batracios.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from oarfish.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das avispoideas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las avispoideas.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from oarfish.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das avispoideas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las avispoideas.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from butterflies.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das mariposas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las mariposas.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from butterflies.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das mariposas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las mariposas.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from amoebas.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das amebas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las amebas.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from amoebas.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das amebas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de las amebas.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from flies.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes das moscas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los nematóceros.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from flies.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos das moscas.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los nematóceros.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from vultures.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos abutres.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los buitres.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from vultures.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos abutres.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los buitres.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from wyverns.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos wyverns.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los wyverns.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from wyverns.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos wyverns.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los wyverns.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from spiritlords.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos senhores espirituais.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los archiespectros.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from spiritlords.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos senhores espirituais.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los archiespectros.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from anthrovores.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos antropófagos.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los antropófagos.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from anthrovores.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos antropófagos.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los antropófagos.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from treants.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos ents.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los ents.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from treants.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos ents.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los ents.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from oculi.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos oculis.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los oculus.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from oculi.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos oculis.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los oculus.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from dragons.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos dragões.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los dragones.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from dragons.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos dragões.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los dragones.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from colossi.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos colossus.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los colosos.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from colossi.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos colossus.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los colosos.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from albic qsiti.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos qsitis albinos.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los qsitis albinos.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from albic qsiti.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos qsitis albinos.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los qsitis albinos.
 
-An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from phantoms.|----|Um informativo aprofundado sobre monstros.\r\nPermite a obtenção de mais\r\ncomponentes dos espectros.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los espectros.
+An in-depth magazine about monsters.\r\nAllows for more components to\r\nbe obtained from phantoms.|----|Um informativo aprofundado sobre monstros.\r\nAumenta o número de componentes\r\nobtidos dos espectros.|----|Un sesudo manual de anatomía.\r\nAumenta el número de componentes\r\nque se obtienen de los espectros.
 
-An old customization parchment for\r\nbeginners, written by Meco, a skilled\r\ncustomization craftsman.|----|Um velho pergaminho de personalização, feito\r\npara novatos, escrito por Meco, um habilidoso\r\nartesão.|----|Un manual dirigido a novatos que explica\r\ntécnicas para mejorar diversos artículos\r\nde equipo.
+An old customization parchment for\r\nbeginners, written by Meco, a skilled\r\ncustomization craftsman.|----|Um velho pergaminho contendo técnicas para melhorar equipamentos.\r\nFeito para novatos e escrito por Meco, um habilidoso\r\nartesão.|----|Un manual dirigido a novatos que explica\r\ntécnicas para mejorar diversos artículos\r\nde equipo.
 
-An old customization parchment for\r\nthe mediocre, written by Meco,\r\na skilled customization craftsman.|----|Um velho pergaminho de personalização, feito\r\npara iniciados, escrito por Meco, um\r\nhabilidoso artesão.|----|Un manual dirigido a iniciados que explica\r\ntécnicas para mejorar diversos artículos\r\nde equipo.
+An old customization parchment for\r\nthe mediocre, written by Meco,\r\na skilled customization craftsman.|----|Um velho pergaminho contendo técnicas para melhorar equipamentos.\r\nFeito para iniciados e escrito por Meco, um\r\nhabilidoso artesão.|----|Un manual dirigido a iniciados que explica\r\ntécnicas para mejorar diversos artículos\r\nde equipo.
 
-An old customization parchment for\r\nthe advanced, written by Meco,\r\na skilled customization craftsman.|----|Um velho pergaminho de personalização, feito\r\npara experientes, escrito por Meco, um\r\nhabilidoso artesão.|----|Un manual dirigido a aficionados que explica\r\ntécnicas avanzadas para mejorar diversos\r\nartículos de equipo.
+An old customization parchment for\r\nthe advanced, written by Meco,\r\na skilled customization craftsman.|----|Um velho pergaminho contendo técnicas para melhorar equipamentos.\r\nFeito para conhecedores e escrito por Meco, um\r\nhabilidoso artesão.|----|Un manual dirigido a aficionados que explica\r\ntécnicas avanzadas para mejorar diversos\r\nartículos de equipo.
 
-An old customization parchment for\r\nprofessionals, written by Meco, a skilled\r\ncustomization craftsman.|----|Um velho pergaminho de personalização, feito\r\npara professionais, escrito por Meco, um\r\nhabilidoso artesão.|----|Un manual dirigido a expertos que explica\r\ntécnicas complejas para mejorar diversos\r\nartículos de equipo.
+An old customization parchment for\r\nprofessionals, written by Meco, a skilled\r\ncustomization craftsman.|----|Um velho pergaminho contendo técnicas para melhorar equipamentos.\r\nFeito para professionais e escrito por Meco, um\r\nhabilidoso artesão.|----|Un manual dirigido a expertos que explica\r\ntécnicas complejas para mejorar diversos\r\nartículos de equipo.
 
-An old customization parchment for\r\nthe exceptional, written by Meco,\r\na skilled customization craftsman.|----|Um velho pergaminho de personalização, feito\r\npara mestres, escrito por Meco, um habilidoso\r\nartesão.|----|Un manual dirigido a maestros que explica\r\ntécnicas secretas para mejorar diversos\r\nartículos de equipo.
+An old customization parchment for\r\nthe exceptional, written by Meco,\r\na skilled customization craftsman.|----|Um velho pergaminho contendo técnicas para melhorar equipamentos.\r\nFeito para mestres e escrito por Meco, um habilidoso\r\nartesão.|----|Un manual dirigido a maestros que explica\r\ntécnicas secretas para mejorar diversos\r\nartículos de equipo.
 
-Certificate of achievement: Rank 1\r\n  Title:\r\n  Pendragon Student|----|Conquista: Nível 1\r\nTítulo:\r\nPendragon Student|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Pupilo de Pendragón (nivel 1).
+Certificate of achievement: Rank 1\r\n  Title:\r\n  Pendragon Student|----|Conquista: Nível 1\r\n Título:\r\n Estudante de Pendragon|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Pupilo de Pendragón (nivel 1).
 
-Certificate of achievement: Rank 2\r\n  Title:\r\n  Pendragon Academic|----|Conquista: Nível 2\r\nTítulo:\r\nProfessor de Pendragon|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Profesor de Pendragón (nivel 2).
+Certificate of achievement: Rank 2\r\n  Title:\r\n  Pendragon Academic|----|Conquista: Nível 2\r\n Título:\r\n Professor de Pendragon|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Profesor de Pendragón (nivel 2).
 
-Certificate of achievement: Rank 3\r\n  Title:\r\n  Pendragon Doctor|----|Conquista: Nível 3\r\nTítulo:\r\nDoutor de Pendragon|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Doctor de Pendragón (nivel 3).
+Certificate of achievement: Rank 3\r\n  Title:\r\n  Pendragon Doctor|----|Conquista: Nível 3\r\n Título:\r\n Doutor de Pendragon|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Doctor de Pendragón (nivel 3).
 
-Certificate of achievement: Rank 4\r\n  Title:\r\n  Pendragon Master|----|Conquista: Nível 4\r\nTítulo:\r\nMestre de Pendragon|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Maestro de Pendragón (nivel 4).
+Certificate of achievement: Rank 4\r\n  Title:\r\n  Pendragon Master|----|Conquista: Nível 4\r\n Título:\r\n Mestre de Pendragon|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Maestro de Pendragón (nivel 4).
 
-Certificate of achievement: Rank 5\r\n  Title:\r\n  Pendragon Lord|----|Conquista: Nível 5\r\nTítulo:\r\nSenhor de Pendragon|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Señor de Pendragón (nivel 5).
+Certificate of achievement: Rank 5\r\n  Title:\r\n  Pendragon Lord|----|Conquista: Nível 5\r\n Título:\r\n Senhor de Pendragon|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Señor de Pendragón (nivel 5).
 
-Certificate of achievement: Rank 1\r\n  Title:\r\n  Ascot Assistant|----|Conquista: Nível 1\r\nTítulo:\r\nAssistente Ascot|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano novicio (nivel 1).
+Certificate of achievement: Rank 1\r\n  Title:\r\n  Ascot Assistant|----|Conquista: Nível 1\r\n Título:\r\n Irmão Assistente|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano novicio (nivel 1).
 
-Certificate of achievement: Rank 2\r\n  Title:\r\n  Ascot Adjunct|----|Conquista: Nível 2\r\nTítulo:\r\nAdjunto Ascot|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano acólito (nivel 2).
+Certificate of achievement: Rank 2\r\n  Title:\r\n  Ascot Adjunct|----|Conquista: Nível 2\r\n Título:\r\n Irmão Adjunto|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano acólito (nivel 2).
 
-Certificate of achievement: Rank 3\r\n  Title:\r\n  Ascot Instructor|----|Conquista: Nível 3\r\nTítulo:\r\nInstrutor Ascot|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano instructor (nivel 3).
+Certificate of achievement: Rank 3\r\n  Title:\r\n  Ascot Instructor|----|Conquista: Nível 3\r\n Título:\r\n Irmão Instrutor|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano instructor (nivel 3).
 
-Certificate of achievement: Rank 4\r\n  Title:\r\n  Ascot Professor|----|Conquista: Nível 4\r\nTítulo:\r\nProfessor Ascot |----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano profesor (nivel 4).
+Certificate of achievement: Rank 4\r\n  Title:\r\n  Ascot Professor|----|Conquista: Nível 4\r\n Título:\r\n Irmão Professor |----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano profesor (nivel 4).
 
-Certificate of achievement: Rank 5\r\n  Title:\r\n  Ascot Emeritus|----|Conquista: Nível 5\r\nTítulo:\r\nEmérito Ascot |----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano emérito (nivel 5).
+Certificate of achievement: Rank 5\r\n  Title:\r\n  Ascot Emeritus|----|Conquista: Nível 5\r\n Título:\r\n Irmão Emérito |----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano emérito (nivel 5).
 
-Certificate of achievement: Rank 1\r\n  Title:\r\n  Nibelung Officer|----|Conquista: Nível 1\r\nTítulo:\r\nOficial Nibelung|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Recluta nibelungo (nivel 1).
+Certificate of achievement: Rank 1\r\n  Title:\r\n  Nibelung Officer|----|Conquista: Nível 1\r\n Título:\r\n Recruta Nibelungo|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Recluta nibelungo (nivel 1).
 
-Certificate of achievement: Rank 2\r\n  Title:\r\n  Nibelung Lieutenant|----|Conquista: Nível 2\r\nTítulo:\r\nTenente Nibelung|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Cadete nibelungo (nivel 2).
+Certificate of achievement: Rank 2\r\n  Title:\r\n  Nibelung Lieutenant|----|Conquista: Nível 2\r\n Título:\r\n Tenente Nibelungo|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Cadete nibelungo (nivel 2).
 
-Certificate of achievement: Rank 3\r\n  Title:\r\n  Nibelung Captain|----|Conquista: Nível 3\r\nTítulo:\r\nCapitão Nibelung|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Capitán nibelungo (nivel 3).
+Certificate of achievement: Rank 3\r\n  Title:\r\n  Nibelung Captain|----|Conquista: Nível 3\r\n Título:\r\n Capitão Nibelungo|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Capitán nibelungo (nivel 3).
 
-Certificate of achievement: Rank 4\r\n  Title:\r\n  Nibelung Colonel|----|Conquista: Nível 4\r\nTítulo:\r\nCoronel Nibelung|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Coronel nibelungo (nivel 4).
+Certificate of achievement: Rank 4\r\n  Title:\r\n  Nibelung Colonel|----|Conquista: Nível 4\r\n Título:\r\n Coronel Nibelungo|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Coronel nibelungo (nivel 4).
 
-Certificate of achievement: Rank 5\r\n  Title:\r\n  Nibelung General|----|Conquista: Nível 5\r\nTítulo:\r\nGeneral Nibelung|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde General nibelungo (nivel 5).
+Certificate of achievement: Rank 5\r\n  Title:\r\n  Nibelung General|----|Conquista: Nível 5\r\n Título:\r\n General Nibelungo|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde General nibelungo (nivel 5).
 
 A scroll used to learn the formation\r\nMelee Stance.|----|Um pergaminho que revela os segredos da\r\nformação Posição de Combate.|----|Un pergamino que revela los secretos\r\nde la formación «Posición almenar».
 
@@ -5922,17 +5922,17 @@ A root with powers of healing.\r\nUsed in Herb item arts.|----|Uma raiz com pode
 
 A bulb with powers of healing.\r\nUsed in Herb item arts.|----|Um bulbo com poderes de cura.\r\nÉ usado para fazer misturas de ervas.|----|Un bulbo con propiedades curativas.\r\nSe usa para elaborar mezclas de hierbas.
 
-A leaf with powers of restoration.\r\nUsed in Herb item arts.|----|Uma folha com poderes medicinais.\r\nÉ usada para fazer misturas de ervas.|----|Una hoja con propiedades medicinales.\r\nSe usa para elaborar mezclas de hierbas.
+A leaf with powers of restoration.\r\nUsed in Herb item arts.|----|Uma folha com propriedades medicinais.\r\nÉ usada para fazer misturas de ervas.|----|Una hoja con propiedades medicinales.\r\nSe usa para elaborar mezclas de hierbas.
 
-A bulb with powers of restoration.\r\nUsed in Herb item arts.|----|Um bulbo com poderes medicinais.\r\nÉ usado para fazer misturas de ervas.|----|Un bulbo con propiedades medicinales.\r\nSe usa para elaborar mezclas de hierbas.
+A bulb with powers of restoration.\r\nUsed in Herb item arts.|----|Um bulbo com propriedades medicinais.\r\nÉ usado para fazer misturas de ervas.|----|Un bulbo con propiedades medicinales.\r\nSe usa para elaborar mezclas de hierbas.
 
 A leaf cold to the touch.\r\nUsed in Herb item arts.|----|Uma folha fria ao toque.\r\nÉ usada para fazer misturas de ervas.|----|Una hoja que resulta muy fría al tacto.\r\nSe usa para elaborar mezclas de hierbas.
 
-An herb with powers of relaxation.\r\nUsed in Herb item arts.|----|Uma erva com poderes de relaxamento.\r\nÉ usada para fazer misturas de ervas.|----|Una planta con propiedades relajantes.\r\nSe usa para elaborar mezclas de hierbas.
+An herb with powers of relaxation.\r\nUsed in Herb item arts.|----|Uma erva com propriedades relaxantes.\r\nÉ usada para fazer misturas de ervas.|----|Una planta con propiedades relajantes.\r\nSe usa para elaborar mezclas de hierbas.
 
-An herb with powers of refreshment.\r\nUsed in Herb item arts.|----|Uma erva com poderes de refrescar.\r\nÉ usada para fazer misturas de ervas.|----|Una planta con propiedades refrescantes.\r\nSe usa para elaborar mezclas de hierbas.
+An herb with powers of refreshment.\r\nUsed in Herb item arts.|----|Uma erva com propriedades refrescantes.\r\nÉ usada para fazer misturas de ervas.|----|Una planta con propiedades refrescantes.\r\nSe usa para elaborar mezclas de hierbas.
 
-An herb with powers of mending.\r\nUsed in Herb item arts.|----|Uma erva com poderes de reparo.\r\nÉ usada para fazer misturas de ervas.|----|Una planta con propiedades sanadoras.\r\nSe usa para elaborar mezclas de hierbas.
+An herb with powers of mending.\r\nUsed in Herb item arts.|----|Uma erva com propriedades de reparação.\r\nÉ usada para fazer misturas de ervas.|----|Una planta con propiedades sanadoras.\r\nSe usa para elaborar mezclas de hierbas.
 
 An herb with leaves like metal.\r\nUsed in Herb item arts.|----|Uma erva com folhas duras como o metal.\r\nÉ usada para fazer misturas de ervas.|----|Una planta con hojas duras como el metal.\r\nSe usa para elaborar mezclas de hierbas.
 
@@ -5940,7 +5940,7 @@ A fresh medicinal oil.\r\nUsed in Potion item arts.|----|Um óleo medicinal que 
 
 A mystical medicinal oil.\r\nUsed in Potion item arts.|----|Um óleo medicinal com propriedades místicas.\r\nÉ usado para elaborar poções.|----|Un aceite medicinal de propiedades místicas.\r\nSe utiliza para elaborar pociones.
 
-A medicinal oil hot to the touch.\r\nUsed in Potion item arts.|----|Um óleo medicinal quente ao toque.\r\nÉ usado para elaborar poções.|----|Un aceite medicinal cuyo contacto produce\r\nuna sorprendente sensación de calor. Se usa\r\npara elaborar pociones.
+A medicinal oil hot to the touch.\r\nUsed in Potion item arts.|----|Um óleo medicinal que produz uma agradável\r\nsensação de calor. É usado para elaborar\r\npoções.|----|Un aceite medicinal cuyo contacto produce\r\nuna sorprendente sensación de calor. Se usa\r\npara elaborar pociones.
 
 A medicinal ale made from aerial insecta.\r\nUsed in Potion item arts.|----|Um licor medicinal a base de insetos voadores.\r\nÉ usado para elaborar poções.|----|Un licor medicinal a base de insectos aéreos.\r\nSuele utilizarse para elaborar pociones.
 
@@ -5948,17 +5948,17 @@ A medicinal ale made from mystic fiend\r\nliver.\r\nUsed in Potion item arts.|--
 
 A medicinal ale made from beastman\r\nintestines.\r\nUsed in Potion item arts.|----|Um licor medicinal elaborado a partir das\r\nentranhas de um homem-fera. É usado para\r\nelaborar poções.|----|Un licor medicinal elaborado a partir\r\nde los intestinos de un hombre bestia.\r\nSe utiliza para elaborar pociones.
 
-A medicinal ale made from land dragon\r\nwomb.\r\nUsed in Potion item arts.|----|Um licor medicinal fermentado no ventre de\r\num Dragão de Terra. É usado para elaborar\r\npoções.|----|Un licor medicinal fermentado en el vientre\r\nde un dragón de tierra. Suele utilizarse\r\npara elaborar pociones.
+A medicinal ale made from land dragon\r\nwomb.\r\nUsed in Potion item arts.|----|Um licor medicinal fermentado no ventre de\r\num dragão de terra. É usado para elaborar\r\npoções.|----|Un licor medicinal fermentado en el vientre\r\nde un dragón de tierra. Suele utilizarse\r\npara elaborar pociones.
 
-A medicinal ale made from sky dragon\r\nmarrow.\r\nUsed in Potion item arts.|----|Um licor medicinal elaborado com o tutano dos\r\nossos de um Dragão do Céu. É usado para\r\nelaborar poções.|----|Un licor medicinal elaborado con el tuétano\r\nde los huesos de un dragón del cielo.\r\nSe utiliza para elaborar pociones.
+A medicinal ale made from sky dragon\r\nmarrow.\r\nUsed in Potion item arts.|----|Um licor medicinal elaborado com o tutano dos\r\nossos de um dragão do céu. É usado para\r\nelaborar poções.|----|Un licor medicinal elaborado con el tuétano\r\nde los huesos de un dragón del cielo.\r\nSe utiliza para elaborar pociones.
 
-A medicinal ale made from war dragon\r\nheart.\r\nUsed in Potion item arts.|----|Um licor medicinal elaborado com o coração\r\nde um dragão de guerra. É usada para elaborar\r\npoções.|----|Un licor medicinal elaborado con el corazón\r\nde un dragón de guerra. Suele utilizarse\r\npara elaborar pociones.
+A medicinal ale made from war dragon\r\nheart.\r\nUsed in Potion item arts.|----|Um licor medicinal elaborado com o coração\r\nde um dragão de guerra. É usado para elaborar\r\npoções.|----|Un licor medicinal elaborado con el corazón\r\nde un dragón de guerra. Suele utilizarse\r\npara elaborar pociones.
 
 Water containing many minerals.\r\nUsed in Lotion item arts.|----|Um líquido rico em minerais.\r\nÉ usado para elaborar loções.|----|Un líquido rico en minerales.\r\nSe utiliza para elaborar ungüentos.
 
 Water with medicinal benefits.\r\nUsed in Lotion item arts.|----|Um líquido com propriedades medicinais.\r\nÉ usado para elaborar loções.|----|Un líquido con propiedades medicinales.\r\nSe utiliza para elaborar ungüentos.
 
-Water with powers of restoration.\r\nUsed in Lotion item arts.|----|Um líquido com propriedades restauradoras.\r\nÉ usada para elaborar loções.|----|Un líquido con propiedades restauradoras.\r\nSe utiliza para elaborar ungüentos.
+Water with powers of restoration.\r\nUsed in Lotion item arts.|----|Um líquido com propriedades restauradoras.\r\nÉ usado para elaborar loções.|----|Un líquido con propiedades restauradoras.\r\nSe utiliza para elaborar ungüentos.
 
 Thick water from the depths.\r\nUsed in Lotion item arts.|----|Um líquido turvo e espesso procedente das\r\nprofundezas da terra.\r\nÉ usado para elaborar loções.|----|Un líquido turbio y espeso procedente\r\nde las profundidades de la tierra. Se usa\r\npara elaborar ungüentos.
 
@@ -5966,11 +5966,11 @@ A carrot with poison-cleansing powers.\r\nUsed in Lotion item arts.|----|Um tub�
 
 A tiny mushroom.\r\nUsed in Lotion item arts.|----|Um pequeno cogumelo.\r\nÉ usado para elaborar loções.|----|Una seta de pequeño tamaño. Se utiliza\r\npara elaborar ungüentos.
 
-A seed that chimes when shaken.\r\nUsed in Lotion item arts.|----|Uma semente que emite sons quando agitada.\r\nÉ usada para elaborar loções.|----|Una semilla que suena como una campanilla\r\nal agitarla. Se usa para elaborar ungüentos.
+A seed that chimes when shaken.\r\nUsed in Lotion item arts.|----|Uma semente que soa como uma campainha quando agitada.\r\nÉ usada para elaborar loções.|----|Una semilla que suena como una campanilla\r\nal agitarla. Se usa para elaborar ungüentos.
 
 A bud that cleanses paralysis.\r\nUsed in Lotion item arts.|----|Uma flor que cura a paralisia.\r\nÉ usada para elaborar loções.|----|Una flor que cura la parálisis.\r\nSe utiliza para elaborar ungüentos.
 
-A bean with powers of restoration.\r\nUsed in Lotion item arts.|----|Um feijão com poderes de restauração.\r\nÉ usado para elaborar loções.|----|Una habichuela con propiedades renovadoras.\r\nSe utiliza para elaborar ungüentos.
+A bean with powers of restoration.\r\nUsed in Lotion item arts.|----|Um feijão com propiedades restauradoras.\r\nÉ usado para elaborar loções.|----|Una habichuela con propiedades renovadoras.\r\nSe utiliza para elaborar ungüentos.
 
 A berry containing an electrical charge.\r\nUsed in Lotion item arts.|----|Uma pequena fruta que contém uma carga\r\nelétrica. É usada para elaborar loções.|----|Una baya que contiene una carga eléctrica.\r\nSe utiliza para elaborar ungüentos.
 
@@ -5982,7 +5982,7 @@ An explosive made from tethys fire sage.\r\nUsed in Explosive item arts.|----|Um
 
 An explosive made from leros fire sage.\r\nUsed in Explosive item arts.|----|Uma substância volátil elaborada a partir da\r\nseiva da planta de leros.\r\nÉ usada para fabricar explosivos.|----|Una sustancia volátil elaborada con la savia\r\nde la planta de lerso. Suele utilizarse para\r\nfabricar explosivos.
 
-An explosive made from titan fire sage.\r\nUsed in Explosive item arts.|----|Uma substância volátil elaborada a partir da\r\nseiva de um abrusto titânico.\r\nÉ usada para fabricar outros explosivos.|----|Una sustancia volátil elaborada con la savia\r\nde un arbusto titánico. Suele utilizarse para\r\nfabricar explosivos.
+An explosive made from titan fire sage.\r\nUsed in Explosive item arts.|----|Uma substância volátil elaborada a partir da\r\nseiva de um arbusto titânico.\r\nÉ usada para fabricar explosivos.|----|Una sustancia volátil elaborada con la savia\r\nde un arbusto titánico. Suele utilizarse para\r\nfabricar explosivos.
 
 A fern that glows in the dark.\r\nUsed in Explosive item arts.|----|Uma planta que brilha no escuro.\r\nÉ usada para fabricar explosivos.|----|Un helecho que brilla en la oscuridad.\r\nSuele utilizarse para fabricar explosivos.
 
@@ -5996,41 +5996,41 @@ An acidic fern.\r\nUsed in Explosive item arts.|----|Uma planta de seiva ácida.
 
 A charm containing Oort's curse.\r\nUsed in Explosive item arts.|----|Um talismã que carrega consigo\r\na maldição de Oort.\r\nÉ usado para fabricar explosivos.|----|Un talismán que encierra una maldición.\r\nSe utiliza para fabricar explosivos.
 
-A piece of a mystic agent from an old stratum.\r\nUsed in Shard item arts.|----|Um pedaço de um reagente místico extraído de\r\num antigo extrato.\r\nUsado para enfeitiçar cristais.|----|Un fragmento de reactivo místico extraído\r\nde un antiguo yacimiento. Suele utilizarse\r\npara hechizar cristales.
+A piece of a mystic agent from an old stratum.\r\nUsed in Shard item arts.|----|Um fragmento de um reagente místico extraído de\r\numa antiga jazida.\r\nÉ usado para enfeitiçar cristais.|----|Un fragmento de reactivo místico extraído\r\nde un antiguo yacimiento. Suele utilizarse\r\npara hechizar cristales.
 
-A piece of a mystic agent from an ancient stratum.\r\nUsed in Shard item arts.|----|Um pedaço de um reagente místico místico\r\nextraído de um extrato ancestral.\r\nUsado para enfeitiçar cristais.|----|Un fragmento de reactivo místico extraído\r\nde un yacimiento ancestral. Suele utilizarse\r\npara hechizar cristales.
+A piece of a mystic agent from an ancient stratum.\r\nUsed in Shard item arts.|----|Um fragmento de um reagente místico místico\r\nextraído de uma antiga jazida.\r\nÉ usado para enfeitiçar cristais.|----|Un fragmento de reactivo místico extraído\r\nde un yacimiento ancestral. Suele utilizarse\r\npara hechizar cristales.
 
-A piece of a powerful mystic agent.\r\nUsed in Shard item arts.|----|Um pedaço de um poderoso reagente místico.\r\nUsado para enfeitiçar cristais.|----|Un fragmento de un potente reactivo místico.\r\nSuele utilizarse para hechizar cristales.
+A piece of a powerful mystic agent.\r\nUsed in Shard item arts.|----|Um fragmento de um poderoso reagente místico.\r\nÉ usado para enfeitiçar cristais.|----|Un fragmento de un potente reactivo místico.\r\nSuele utilizarse para hechizar cristales.
 
-A piece of an extraordinary mystic agent.\r\nUsed in Shard item arts.|----|Um reagente místico de extraordinário poder.\r\nUsado para enfeitiçar cristais.|----|Un reactivo místico de extraordinario poder.\r\nSe utiliza para hechizar cristales.
+A piece of an extraordinary mystic agent.\r\nUsed in Shard item arts.|----|Um reagente místico de extraordinário poder.\r\nÉ usado para enfeitiçar cristais.|----|Un reactivo místico de extraordinario poder.\r\nSe utiliza para hechizar cristales.
 
-Sand from the lithosphere.\r\nUsed in Shard item arts.|----|Areia proveniente da litosfera.\r\nUsada para enfeitiçar cristais.|----|Arena procedente de la litosfera.\r\nSe utiliza para hechizar cristales.
+Sand from the lithosphere.\r\nUsed in Shard item arts.|----|Areia proveniente da litosfera.\r\nÉ usada para enfeitiçar cristais.|----|Arena procedente de la litosfera.\r\nSe utiliza para hechizar cristales.
 
-Dirt from the athenosphere.\r\nUsed in Shard item arts.|----|Poeira proveniente da atenosfera.\r\nUsada para enfeitiçar cristais.|----|Gravilla procedente de la atenosfera.\r\nSe utiliza para hechizar cristales.
+Dirt from the athenosphere.\r\nUsed in Shard item arts.|----|Poeira proveniente da atenosfera.\r\nÉ usada para enfeitiçar cristais.|----|Gravilla procedente de la atenosfera.\r\nSe utiliza para hechizar cristales.
 
-Loam from the wadsleysphere.\r\nUsed in Shard item arts.|----|Lodo procedente da barisfera.\r\nUsado para enfeitiçar cristais.|----|Cieno procedente de la bariosfera.\r\nSe utiliza para hechizar cristales.
+Loam from the wadsleysphere.\r\nUsed in Shard item arts.|----|Lodo procedente da bariosfera.\r\nÉ usado para enfeitiçar cristais.|----|Cieno procedente de la bariosfera.\r\nSe utiliza para hechizar cristales.
 
-Mud from the ringwoodsphere.\r\nUsed in Shard item arts.|----|Barro procedente da maderosfera.\r\nUsado para enfeitiçar cristais.|----|Barro procedente de la anulasfera.\r\nSe utiliza para hechizar cristales.
+Mud from the ringwoodsphere.\r\nUsed in Shard item arts.|----|Barro procedente da maderosfera.\r\nÉ usado para enfeitiçar cristais.|----|Barro procedente de la anulasfera.\r\nSe utiliza para hechizar cristales.
 
-Bole from the pelopsphere.\r\nUsed in Shard item arts.|----|Pó procedente da peloposfera.\r\nUsada para enfeitiçar cristais.|----|Polvo procedente de la peloposfera.\r\nSe utiliza para hechizar cristales.
+Bole from the pelopsphere.\r\nUsed in Shard item arts.|----|Pó procedente da peloposfera.\r\nÉ usado para enfeitiçar cristais.|----|Polvo procedente de la peloposfera.\r\nSe utiliza para hechizar cristales.
 
-Clay from the martonsphere.\r\nUsed in Shard item arts.|----|Argila procedente da martosfera.\r\nUsada para enfeitiçar cristais.|----|Arcilla procedente de la martosfera.\r\nSe utiliza para hechizar cristales.
+Clay from the martonsphere.\r\nUsed in Shard item arts.|----|Argila procedente da martosfera.\r\nÉ usada para enfeitiçar cristais.|----|Arcilla procedente de la martosfera.\r\nSe utiliza para hechizar cristales.
 
-Tools used by a ranger.\r\nUsed in Trap item arts.|----|Ferramentas próprias de um explorador.\r\nPode ser utilizada para projetar armadilhas.|----|Herramientas propias de un explorador.\r\nSe usan para diseñar trampas.
+Tools used by a ranger.\r\nUsed in Trap item arts.|----|Ferramentas próprias de um explorador.\r\nSão usadas na construção de armadilhas.|----|Herramientas propias de un explorador.\r\nSe usan para diseñar trampas.
 
-A candle that can burn intensely.\r\nUsed in Trap item arts.|----|Uma vela que brilha com grande intensidade.\r\nPode ser utilizada para projetar armadilhas.|----|Una vela que brilla con gran intensidad.\r\nSe utiliza para diseñar trampas.
+A candle that can burn intensely.\r\nUsed in Trap item arts.|----|Uma vela que brilha com grande intensidade.\r\nÉ usada na construção de armadilhas.|----|Una vela que brilla con gran intensidad.\r\nSe utiliza para diseñar trampas.
 
-A box too evil for even a glance.\r\nUsed in Trap item arts.|----|Um artefato tão maligno é melhor nem\r\ncontemplá-lo.\r\nPode ser utilizado para projetar armadilhas.|----|Un artefacto tan maligno que es preferible\r\nno contemplarlo. Se utiliza para elaborar\r\ntrampas de gran complejidad.
+A box too evil for even a glance.\r\nUsed in Trap item arts.|----|Um artefato tão maligno é melhor nem\r\ncontemplá-lo.\r\nÉ usada na construção de armadilhas.|----|Un artefacto tan maligno que es preferible\r\nno contemplarlo. Se utiliza para elaborar\r\ntrampas de gran complejidad.
 
-A pest that reaps death.\r\nUsed in Trap item arts.|----|Uma praga carniceira.\r\nPode ser utilizada para projetar armadilhas.|----|Un pestis carroñero. Suele utilizarse\r\npara diseñar trampas.
+A pest that reaps death.\r\nUsed in Trap item arts.|----|Uma praga carniceira.\r\nÉ usada na construção de armadilhas.|----|Un pestis carroñero. Suele utilizarse\r\npara diseñar trampas.
 
-A fern that grows in the netherworld.\r\nUsed in Trap item arts.|----|Uma planta que cresce no mundo dos mortos.\r\nPode ser utilizada para projetar armadilhas.|----|Un helecho procedente del averno.\r\nSe utiliza para diseñar trampas.
+A fern that grows in the netherworld.\r\nUsed in Trap item arts.|----|Uma planta que cresce no mundo dos mortos.\r\nÉ usada na construção de armadilhas.|----|Un helecho procedente del averno.\r\nSe utiliza para diseñar trampas.
 
-A fern with a scent that induces paranoia.\r\nUsed in Trap item arts.|----|Uma planta cujo arona produz ataques de\r\nparanóia.\r\nPode ser utilizada para projetar armadilhas.|----|Un helecho cuyo aroma produce ataques\r\nde paranoia. Se utiliza para diseñar trampas.
+A fern with a scent that induces paranoia.\r\nUsed in Trap item arts.|----|Uma planta cujo aroma produz ataques de\r\nparanóia.\r\nÉ usada na construção de armadilhas.|----|Un helecho cuyo aroma produce ataques\r\nde paranoia. Se utiliza para diseñar trampas.
 
-A natural gas, black as onyx.\r\nUsed in Trap item arts.|----|Um gás natural, negro e opaco como ônix.\r\nPode ser utilizado para projetar armadilhas.|----|Un gas tan negro y opaco como las tinieblas\r\nmás impenetrables. Se utiliza para elaborar\r\ntrampas de gran complejidad.
+A natural gas, black as onyx.\r\nUsed in Trap item arts.|----|Um gás natural, negro e opaco como ônix.\r\nÉ usado na construção de armadilhas.|----|Un gas tan negro y opaco como las tinieblas\r\nmás impenetrables. Se utiliza para elaborar\r\ntrampas de gran complejidad.
 
-A flower with a scent that raises the spirit.\r\nUsed in Trap item arts.|----|Uma flor cujo aroma eleva o espírito.\r\nPode ser utilizada para projetar armadilhas.|----|Una flor cuyo aroma levanta el ánimo.\r\nSe utiliza para diseñar trampas.
+A flower with a scent that raises the spirit.\r\nUsed in Trap item arts.|----|Uma flor cujo aroma eleva o espírito.\r\nÉ usada na construção de armadilhas.|----|Una flor cuyo aroma levanta el ánimo.\r\nSe utiliza para diseñar trampas.
 
 An elixir from the Melphinian scientist.\r\nAnother failed experiment...or is it?\r\nIts use is unknown.|----|Um elixir do cientista louco de Melphina.\r\nDeve ser outro experimento que falhou...\r\nou será que não? Não se sabe para que serve.|----|Un elixir del científico loco de Melphina.\r\nDebe de ser otro de sus experimentos\r\nfallidos, pero nadie sabe para qué sirve.
 
