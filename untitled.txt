@@ -7,8 +7,6 @@ wing -> ala
 tuck -> rapieira (estoque, em espanhol)
 staff -> bastão, cetro
 saber -> katana
-Dwarf's Cabochon -> Estrela Anã???
- Elf's Emerald -> Esmeralda Élfica
  Spiritlord -> Senhores Espirituais ou arquiespectros??
  Torre Flaumello -> Torre de Flaumello
  Ninho de Yvalock -> Ninho de Ivalock????
@@ -19,14 +17,27 @@ Dwarf's Cabochon -> Estrela Anã???
  Wyrmskeep -> Fordragão????
  Dillmoor -> Brezalverde (espanhol), Pantanoverde???
  First Path --> Primeiro Caminho. Trocar para Primeira Galeria???
- crina, cabeleira -> verificar se o monstro tem mesmo isso
+ crina, cabeleira (mane) -> verificar se o monstro tem mesmo isso
  Barb -> ferrão
  ale -> licor
  oil -> óleo
+ medicines -> remédios????
+ ore -> minério????
+ sash -> faixa, cinto???
+ hide -> pele
+ husk -> muda de pele
+Dwarf's Cabochon -> Cabochão dos Anões, trocar para Estrela Anã (como no espanhol)???
+ Elf's Emerald -> Esmeralda Élfica
+Merman's French -> Tritão Francês (em espanhol trapecio de tritón)
+Mermaid's Barrel ->  Pérola da Sereia (em espanhol abalorio de nereida)
+Boggart's Trapezoid -> Cristal de Gnomo (trocar para Cristal Gnômico)
+Siren's Square -> Quadrado da Sereia  (em espanhol princesa de sirena)
+Knocker's Ceylon -> Aldrava de Ceylon (em espanhol triángulo de ladrón)
+vile lizard -> um lugar apareceu só "lagarto", landworm só verme
 
 -----  Conferir tamanho das frases na guilda task
 
-parei na 6040
+parei na 7400
 
 
 

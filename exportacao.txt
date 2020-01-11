@@ -6038,23 +6038,23 @@ Royotia's famous wine.\r\nKnown for its unique taste.\r\nIts use is unknown.|---
 
 Components dummy help|----|Components dummy help|----|Ayuda: componentes
 
-Nectar from the blackrose which\r\nfeeds on moonlight.\r\nIt is used for medicines.|----|O néctar da rosanegra, uma flor\r\nde grandes propriedades medicianis\r\nque cresce sob a luz da lua.|----|El néctar de la rosanegra, una flor\r\nde grandes propiedades medicinales\r\nque crece a la luz de la luna.
+Nectar from the blackrose which\r\nfeeds on moonlight.\r\nIt is used for medicines.|----|O néctar da rosanegra, uma flor\r\nde grandes propriedades medicinais\r\nque cresce sob a luz da lua.|----|El néctar de la rosanegra, una flor\r\nde grandes propiedades medicinales\r\nque crece a la luz de la luna.
 
 Oil from parasitic insects found on monsters.\r\nIt is used for medicines.|----|Um óleo extraído de insetos parasitas\r\nencontrados em monstros.\r\nÉ usado para fabricar remédios.|----|Un aceite extraído de un parásito\r\nque afecta a ciertos monstruos.\r\nSe utiliza para elaborar medicinas.
 
 A seed that grows in the dark.\r\nIt is used for medicines.|----|Uma semente que germina na escuridão.\r\nÉ usada para fabricar remédios.|----|Una semilla que germina de noche.\r\nSe utiliza para elaborar medicinas.
 
-Sand created over many years from\r\natmospheric particles.\r\nIt is used for medicines.|----|Um tipo de areia formala pela acumulação de\r\npartículas atmosféricas.\r\nÉ usada para fabricar remédios.|----|Un tipo de arena formado por\r\nla acumulación de polvo cósmico.\r\nSe utiliza para elaborar medicinas.
+Sand created over many years from\r\natmospheric particles.\r\nIt is used for medicines.|----|Um tipo de areia formada pela acumulação de\r\npartículas atmosféricas.\r\nÉ usada para fabricar remédios.|----|Un tipo de arena formado por\r\nla acumulación de polvo cósmico.\r\nSe utiliza para elaborar medicinas.
 
 A seed that grows in the night and\r\nwithers by morn.\r\nIt is used for medicines.|----|Uma semente que germina durante a noite\r\ne murcha pela manhã.\r\nÉ usada para fabricar remédios.|----|Una semilla que germina de noche\r\ny se marchita al llegar el día.\r\nSe utiliza para elaborar medicinas.
 
 An empty shell from an aerial insecta\r\nliving in the Salamander's Tail.\r\nAmazingly, it has maintained its shape.|----|A casca vazia de um inseto voador\r\nque vive na Cauda da Salamandra.\r\nEla ainda conserva sua forma característica.|----|La concha vacía de un insecto volador\r\nde la Cola de la Salamandra. Todavía\r\nconserva su forma característica.
 
-Rainbow-colored ore found in a discreet\r\ncorner of the world.|----|Um minério contendo as cores do arco-íris,\r\n encontrado em um lugar remoto do mundo.|----|Un mineral con los colores del arco iris.\r\nSolamente se halla en un recóndito lugar\r\nen los límites del mundo conocido.
+Rainbow-colored ore found in a discreet\r\ncorner of the world.|----|Um minério contendo as cores do arco-íris,\r\nsó encontrado em um lugar remoto do mundo.|----|Un mineral con los colores del arco iris.\r\nSolamente se halla en un recóndito lugar\r\nen los límites del mundo conocido.
 
 Ore found in Royotia.|----|Um minério procedente de Royotia.|----|Un mineral procedente de Royotia.
 
-A beautiful flower with a tranquil air.\r\nIts sweet scent is very calming.|----|Uma bela flor com de aspecto sereno.\r\nSeu doce aroma é muito tranquilizador.|----|Una bella flor de aspecto sereno.\r\nSu dulce aroma resulta\r\nsumamente tranquilizador.
+A beautiful flower with a tranquil air.\r\nIts sweet scent is very calming.|----|Uma bela flor de aspecto sereno.\r\nSeu doce aroma é muito tranquilizador.|----|Una bella flor de aspecto sereno.\r\nSu dulce aroma resulta\r\nsumamente tranquilizador.
 
 (REPETIDO)A recipe for weapon creation.\r\nA customization component.|----|Instruções para criar certos tipos de armas.\r\nServem para melhorar seu equipamento.|----|Instrucciones para forjar\r\ncierto tipo de armas.\r\nSirven para mejorar tu equipo.
 
@@ -6312,133 +6312,133 @@ A beautiful flower with a tranquil air.\r\nIts sweet scent is very calming.|----
 
 (REPETIDO)A recipe for gem creation.\r\nA customization component.|----|Instruções para criar certos tipos de gemas.\r\nServem para melhorar seu equipamento.|----|Instrucciones para tallar\r\ncierto tipo de gemas.\r\nSirven para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
-(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama esquemático.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
+(REPETIDO)A blueprint of some kind.\r\nA customization component.|----|Um tipo de diagrama.\r\nServe para melhorar seu equipamento.|----|Una especie de esquema.\r\nSirve para mejorar tu equipo.
 
 The core of the Elf's Emerald.\r\nHas high durability and holds\r\nlots of mystic energy.|----|Um núcleo de Esmeralda Élfica.\r\nContém uma grande energia mística\r\ne é extremamente resistente.|----|Un núcleo de esmeralda élfica.\r\nContiene una gran energía mística\r\ny es extremadamente resistente.
 
@@ -6488,7 +6488,7 @@ A raw stone of a steel blue color.\r\nIt can be polished to reveal a beautiful g
 
 A raw stone of a midnight blue color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor escura e azulada.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color negro azulado.\r\nAl pulirla se obtiene una hermosa gema.
 
-A raw stone of a sapphire color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor safira.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color azul zafiro.\r\nAl pulirla se obtiene una hermosa gema.
+A raw stone of a sapphire color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor azul,. safira.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color azul zafiro.\r\nAl pulirla se obtiene una hermosa gema.
 
 A raw stone of a rose color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor rosada.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color rosado.\r\nAl pulirla se obtiene una hermosa gema.
 
@@ -6502,7 +6502,7 @@ A raw stone of a turquoise color.\r\nIt can be polished to reveal a beautiful ge
 
 A raw stone of a copper color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor de cobre.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color cobrizo.\r\nAl pulirla se obtiene una hermosa gema.
 
-A raw stone of a coral color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor de coral.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto del color del coral.\r\nAl pulirla se obtiene una hermosa gema.
+A raw stone of a coral color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta da cor do coral.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto del color del coral.\r\nAl pulirla se obtiene una hermosa gema.
 
 A raw stone of a sepia color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor sépia.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color sepia.\r\nAl pulirla se obtiene una hermosa gema.
 
@@ -6510,7 +6510,7 @@ A raw stone of a navy blue color.\r\nIt can be polished to reveal a beautiful ge
 
 A raw stone of an auburn color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor castanho avermelhado.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color castaño rojizo.\r\nAl pulirla se obtiene una hermosa gema.
 
-A raw stone of a charcoal color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor de carvão.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color carbón.\r\nAl pulirla se obtiene una hermosa gema.
+A raw stone of a charcoal color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta da cor do carvão.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color carbón.\r\nAl pulirla se obtiene una hermosa gema.
 
 A raw stone of a scarlet color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor escarlate.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color escarlata.\r\nAl pulirla se obtiene una hermosa gema.
 
@@ -6520,11 +6520,11 @@ A raw stone of a crimson color.\r\nIt can be polished to reveal a beautiful gem.
 
 A raw stone of a tawny color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor parda.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color pardo.\r\nAl pulirla se obtiene una hermosa gema.
 
-A raw stone of a mahogany color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor de mogno.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color caoba.\r\nAl pulirla se obtiene una hermosa gema.
+A raw stone of a mahogany color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta da cor do mogno.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color caoba.\r\nAl pulirla se obtiene una hermosa gema.
 
 A raw stone of a persimmon color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor caqui.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color bermellón.\r\nAl pulirla se obtiene una hermosa gema.
 
-A raw stone of a lavender color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor de lavanda.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color lavanda.\r\nAl pulirla se obtiene una hermosa gema.
+A raw stone of a lavender color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor lavanda.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color lavanda.\r\nAl pulirla se obtiene una hermosa gema.
 
 A raw stone of a violet color.\r\nIt can be polished to reveal a beautiful gem.|----|Uma pedra bruta de cor violeta.\r\nPode ser polida para se obter uma bela gema.|----|Una piedra en bruto de color violeta.\r\nAl pulirla se obtiene una hermosa gema.
 
@@ -6532,7 +6532,7 @@ A beautiful gem of a steel blue color.\r\nIt is mainly used for accessories.|---
 
 A beautiful gem of a midnight blue color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor escura e azulada.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color negro azulado.\r\nSirve para fabricar accesorios.
 
-A beautiful gem of a sapphire color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor safira.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color azul zafiro.\r\nSirve para fabricar accesorios.
+A beautiful gem of a sapphire color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor azul safira.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color azul zafiro.\r\nSirve para fabricar accesorios.
 
 A beautiful gem of a rose color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor rosada.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color rosado.\r\nSirve para fabricar accesorios.
 
@@ -6546,7 +6546,7 @@ A beautiful gem of a turqoise color.\r\nIt is mainly used for accessories.|----|
 
 A beautiful gem of a copper color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor de cobre.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color cobrizo.\r\nSirve para fabricar accesorios.
 
-A beautiful gem of a coral color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor de coral.\r\nServe para fabricar acessórios.|----|Una hermosa gema del color del coral.\r\nSirve para fabricar accesorios.
+A beautiful gem of a coral color.\r\nIt is mainly used for accessories.|----|Uma bela gema da cor do coral.\r\nServe para fabricar acessórios.|----|Una hermosa gema del color del coral.\r\nSirve para fabricar accesorios.
 
 A beautiful gem of a sepia color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor sépia.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color sepia.\r\nSirve para fabricar accesorios.
 
@@ -6554,7 +6554,7 @@ A beautiful gem of a navy blue color.\r\nIt is mainly used for accessories.|----
 
 A beautiful gem of an auburn color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor castanho avermelhado.\r\nServe para fabricar acessórios.|----|Una hermosa gema\r\nde color castaño rojizo.\r\nSirve para fabricar accesorios.
 
-A beautiful gem of a charcoal color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor de carvão.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color carbón.\r\nSirve para fabricar accesorios.
+A beautiful gem of a charcoal color.\r\nIt is mainly used for accessories.|----|Uma bela gema da cor do carvão.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color carbón.\r\nSirve para fabricar accesorios.
 
 A beautiful gem of a scarlet color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor escarlate.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color escarlata.\r\nSirve para fabricar accesorios.
 
@@ -6564,11 +6564,11 @@ A beautiful gem of a crimson color.\r\nIt is mainly used for accessories.|----|U
 
 A beautiful gem of a tawny color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor parda.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color pardo.\r\nSirve para fabricar accesorios.
 
-A beautiful gem of a mahogany color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor de mogno.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color caoba.\r\nSirve para fabricar accesorios.
+A beautiful gem of a mahogany color.\r\nIt is mainly used for accessories.|----|Uma bela gema da cor do mogno.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color caoba.\r\nSirve para fabricar accesorios.
 
 A beautiful gem of a persimmon color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor caqui.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color bermellón.\r\nSirve para fabricar accesorios.
 
-A beautiful gem of a lavender color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor de lavanda.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color lavanda.\r\nSirve para fabricar accesorios.
+A beautiful gem of a lavender color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor lavanda.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color lavanda.\r\nSirve para fabricar accesorios.
 
 A beautiful gem of a violet color.\r\nIt is mainly used for accessories.|----|Uma bela gema de cor violeta.\r\nServe para fabricar acessórios.|----|Una hermosa gema de color violeta.\r\nSirve para fabricar accesorios.
 
@@ -6582,9 +6582,9 @@ A hard transition metal that can retain\r\na lot of mystic energy.\r\nA customiz
 
 An extremely heavy transition metal.\r\nA customization component.|----|Um metal de transição extremamente pesado.\r\nServe para melhorar seu equipamento.|----|Un metal de transición\r\nextremadamente pesado.\r\nSirve para mejorar tu equipo.
 
-A crystal that is said to hold the soul\r\nof the dragon god.\r\nA customization component.|----|Um cristal que dizem encerrar a alma\r\nde um deus dragão.\r\nServe para melhorar seu equipamento.|----|Un cristal que, según la leyenda,\r\nencierra el alma del dios dragón.\r\nSirve para mejorar tu equipo.
+A crystal that is said to hold the soul\r\nof the dragon god.\r\nA customization component.|----|Um cristal que, segundo a lenda, guarda a alma\r\nde um deus dragão.\r\nServe para melhorar seu equipamento.|----|Un cristal que, según la leyenda,\r\nencierra el alma del dios dragón.\r\nSirve para mejorar tu equipo.
 
-A crystal containing lots of mystic energy.\r\nA customization component.|----|Um cristal imbuído de bastante energia\r\nmística. Serve para melhorar seu equipamento.|----|Un cristal profundamente imbuido\r\nde energía mística.\r\nSirve para mejorar tu equipo.
+A crystal containing lots of mystic energy.\r\nA customization component.|----|Um cristal que contém muita energia\r\nmística. Serve para melhorar seu equipamento.|----|Un cristal profundamente imbuido\r\nde energía mística.\r\nSirve para mejorar tu equipo.
 
 A metal with a unique design much\r\nlike the rings on a tree.\r\nA customization component.|----|Um metal de concepção bastante peculiar, com\r\nanéis parecidos com os anéis de uma árvore.\r\nServe para melhorar seu equipamento.|----|Un metal con unos peculiares\r\nanillos iguales a los de los árboles.\r\nSirve para mejorar tu equipo.
 
@@ -6592,31 +6592,31 @@ Refined copper from Gaslin Caves.\r\nIt is more durable than regular\r\ncopper o
 
 Refined iron from Mt. Vackel.\r\nIt is more durable than regular\r\niron ore.|----|Um lingote de ferro refinado do Monte Vackel.\r\nÉ mais resistente que o minério\r\nde ferro comum.|----|Un lingote de hierro refinado\r\ndel monte Vackel, más resistente\r\nque el hierro normal.
 
-High quality refined steel from\r\nRoyotia. It is more durable than\r\nregular steel.|----|Um lingote de aço refinado e de alta qualidade\r\nproduzido em Royotia. É mais resistente\r\nque o aço comum.|----|Un lingote de acero refinado\r\nde Royotia, más resistente\r\nque el acero normal.
+High quality refined steel from\r\nRoyotia. It is more durable than\r\nregular steel.|----|Um lingote de aço refinado de alta qualidade\r\nproduzido em Royotia. É mais resistente\r\nque o aço comum.|----|Un lingote de acero refinado\r\nde Royotia, más resistente\r\nque el acero normal.
 
-High quality refined truesilver.\r\nIt is more durable than regular\r\nsilver ore.|----|Um lingote de puraprata refinada e de alta\r\nqualidade. É mais resistente que o minério\r\nde prata comum.|----|Un lingote de puraplata refinada\r\nde gran calidad, más resistente\r\nque la plata normal.
+High quality refined truesilver.\r\nIt is more durable than regular\r\nsilver ore.|----|Um lingote de puraprata refinada de alta\r\nqualidade. É mais resistente que o minério\r\nde prata comum.|----|Un lingote de puraplata refinada\r\nde gran calidad, más resistente\r\nque la plata normal.
 
-High quality refined platinum.\r\nIt is more durable than gold ore.|----|Um lingote de platina refinada e de alta\r\nqualidade. É mais resistente que o ouro.|----|Un lingote de platino refinado\r\nmás resistente que el oro.
+High quality refined platinum.\r\nIt is more durable than gold ore.|----|Um lingote de platina refinada de alta\r\nqualidade. É mais resistente que o ouro.|----|Un lingote de platino refinado\r\nmás resistente que el oro.
 
-High quality refined divine dragonyte.\r\nIt is very durable.|----|Um lingote de dragonita celestial refinada\r\ne de alta qualidade. É muito resistente.|----|Un lingote de dragonita refinada\r\nde calidad excepcional.\r\nEs tremendamente resistente.
+High quality refined divine dragonyte.\r\nIt is very durable.|----|Um lingote de dragonita celestial refinada\r\nde alta qualidade. É muito resistente.|----|Un lingote de dragonita refinada\r\nde calidad excepcional.\r\nEs tremendamente resistente.
 
-High quality refined mystic skelenyte.\r\nIt contains lots of mystic energy.|----|Um lingote de esquelonita mística refinada\r\ne de alta qualidade. Contém uma grande energia\r\nmística.|----|Un lingote de esquelonita refinada\r\nde calidad excepcional.\r\nContiene una gran energía mística.
+High quality refined mystic skelenyte.\r\nIt contains lots of mystic energy.|----|Um lingote de esquelonita mística refinada\r\nde alta qualidade. Contém uma grande energia\r\nmística.|----|Un lingote de esquelonita refinada\r\nde calidad excepcional.\r\nContiene una gran energía mística.
 
-High quality refined blacksteel.\r\nIt is very durable.|----|Um lingote de aço negro refinado e de alta\r\nqualidade. É muito resistente.|----|Un lingote de aceroscuro refinado\r\ntremendamente resistente.
+High quality refined blacksteel.\r\nIt is very durable.|----|Um lingote de aço negro refinado de alta\r\nqualidade. É muito resistente.|----|Un lingote de aceroscuro refinado\r\ntremendamente resistente.
 
 Quarried rock often used for\r\nconstruction.|----|Uma rocha extraída de uma pedreira. Pode ser\r\nutilizada em construções.|----|Una roca extraída de una cantera.\r\nSuele utilizarse en construcción.
 
-Scraps of metal of various sizes.\r\nThey are refined before use.|----|Restos de metal de tamanho variado.\r\nÉ preciso refiná-los para poder utilizar.|----|Restos de metal de varios tamaños.\r\nEs preciso refinarlos antes de\r\npoder utilizarlos.
+Scraps of metal of various sizes.\r\nThey are refined before use.|----|Restos de metal de tamanho variado.\r\nÉ preciso refiná-los para poder usar.|----|Restos de metal de varios tamaños.\r\nEs preciso refinarlos antes de\r\npoder utilizarlos.
 
 A heavy metal with a sheer shine.\r\nIt is easy to process and is used\r\nby many.|----|Um metal muito pesado e brilhante.\r\nÉ muito fácil de manipular e\r\ntem vários usos.|----|Un metal muy pesado y brillante.\r\nEs sumamente fácil de manipular\r\ny tiene muchísimos usos.
 
 A fossil of an ancient tree.\r\nIt contains lots of mystic energy\r\nmaking it perfect for accessories.|----|Uma antiga árvore fossilizada.\r\nContém grande energia mística\r\ne é ideal para fabricar acessórios.|----|Un viejo árbol fosilizado dotado\r\nde una gran energía mística.\r\nEs ideal para fabricar accesorios.
 
-An iron meteorite made from an otherworldly\r\nsubstance. It is refined and used as\r\na strengthening component.|----|Um meteorito de ferro composto por uma\r\nsubstância de outro mundo. Quando refinado\r\npossui propriedades fortificadoras.|----|Un meteorito compuesto\r\nde una sustancia sobrenatural\r\ncon propiedades fortificadoras.
+An iron meteorite made from an otherworldly\r\nsubstance. It is refined and used as\r\na strengthening component.|----|Um meteorito composto por uma\r\nsubstância de outro mundo. Quando refinado\r\npossui propriedades fortificadoras.|----|Un meteorito compuesto\r\nde una sustancia sobrenatural\r\ncon propiedades fortificadoras.
 
-A metal that can retain mystic energy.\r\nIt is melted and reused.|----|Um metal derretido e reforçado que armazena\r\nenergia mística.|----|Un metal derretido y reforjado\r\nque almacena la energía mística.
+A metal that can retain mystic energy.\r\nIt is melted and reused.|----|Um metal derretido e reforjado que pode reter\r\nenergia mística.|----|Un metal derretido y reforjado\r\nque almacena la energía mística.
 
-Metal turned holy through mystic means.\r\nIt is a very hard substance.|----|Um metal que se tornou sagrado por meio de um\r\nritual místico. É um material muito duro.|----|Un metal bendecido por medio\r\nde un ritual místico.\r\nEs un material sumamente duro.
+Metal turned holy through mystic means.\r\nIt is a very hard substance.|----|Um metal que se tornou sagrado por meio de um\r\nritual místico. É um material bastante duro.|----|Un metal bendecido por medio\r\nde un ritual místico.\r\nEs un material sumamente duro.
 
 A crystal from a vermillion bird stone.\r\nAfter solid solution strengthening,\r\nit can be used for making equipment.|----|Um cristal obtido de uma pedra de pássaro\r\nvermelhão. Uma vez dissolvido em uma solução,\r\npode ser usado na fabricação de equipamentos.|----|Un cristal de ave bermellón.\r\nUna vez disuelto en una solución,\r\nse puede usar para fabricar equipo.
 
@@ -6630,9 +6630,9 @@ A crystal from a thunder god stone.\r\nAfter solid solution strengthening,\r\nit
 
 A very light natural alloy.\r\nIt is not a very hard substance and\r\nis easy to process.|----|Um liga metálica muito leve.\r\nNão é particularmente dura,\r\nmas é fácil de manipular.|----|Una aleación muy ligera. Aunque no es\r\nparticularmente dura, resulta muy sencilla\r\nde manipular.
 
-A binary alloy made in a specific\r\nJhana fashion. It is easily processed and\r\nused in many everyday items.|----|Uma liga metálica binária elaborada de acordo\r\ncom uma tradição Jhana. É versátil e fácil de\r\nmanipular.|----|Una aleación binaria elaborada\r\nsiguiendo una tradición jhana.\r\nMuy versátil y fácil de manipular.
+A binary alloy made in a specific\r\nJhana fashion. It is easily processed and\r\nused in many everyday items.|----|Uma liga metálica binária elaborada de acordo\r\ncom uma tradição jhana. É muito versátil e\r\nfácil de manipular.|----|Una aleación binaria elaborada\r\nsiguiendo una tradición jhana.\r\nMuy versátil y fácil de manipular.
 
-A natural alloy with mystic energy.\r\nIt has been used as an agent for\r\nmystic spells since ancient times.|----|Uma liga metálica imbuída de energia mística.\r\nTem sido usada em diversos rituais\r\nmísticos desde tempos remotos.|----|Una aleación natural imbuida de energía.\r\nSe utiliza en diversos rituales místicos\r\ndesde tiempos remotos.
+A natural alloy with mystic energy.\r\nIt has been used as an agent for\r\nmystic spells since ancient times.|----|Uma liga metálica natural que contém energia mística.\r\nTem sido usada em diversos rituais\r\nmísticos desde tempos remotos.|----|Una aleación natural imbuida de energía.\r\nSe utiliza en diversos rituales místicos\r\ndesde tiempos remotos.
 
 A quaternary alloy created through\r\nthe Astra method.\r\nIt has a high corrosion resistance.|----|Uma liga metálica quaternária elaborada\r\nsegundo o método dos Astra.\r\nÉ muito resistente à corrosão.|----|Una aleación cuaternaria elaborada\r\nsegún el método de los astra.\r\nEs muy resistente a la corrosión.
 
@@ -6664,7 +6664,7 @@ A worn, useless mace.\r\nIt looks like it can be brought back\r\nto life through
 
 A worn, useless spear.\r\nIt looks like it can be brought back\r\nto life through customization.|----|Uma lança usada que não serve para nada.\r\nTalvez possa ser restaurada em alguma boa\r\noficina.|----|Una lanza en tan mal estado que resulta\r\ncompletamente inservible. Tal vez puedas\r\nrestaurarla en un taller.
 
-A worn, useless staff.\r\nIt looks like it can be brought back\r\nto life through customization.|----|Um cajado usado que não serve para nada.\r\nTalvez possa ser restaurado em alguma boa\r\noficina.|----|Un bastón en tan mal estado que resulta\r\ncompletamente inservible. Tal vez puedas\r\nrestaurarlo en un taller.
+A worn, useless staff.\r\nIt looks like it can be brought back\r\nto life through customization.|----|Um bastão usado que não serve para nada.\r\nTalvez possa ser restaurado em alguma boa\r\noficina.|----|Un bastón en tan mal estado que resulta\r\ncompletamente inservible. Tal vez puedas\r\nrestaurarlo en un taller.
 
 A worn, useless shield.\r\nIt looks like it can be brought back\r\nto life through customization.|----|Um escudo usado que não serve para nada.\r\nTalvez possa ser restaurado em alguma boa\r\noficina.|----|Un escudo en tan mal estado que resulta\r\ncompletamente inservible. Tal vez puedas\r\nrestaurarlo en un taller.
 
@@ -6684,7 +6684,7 @@ A worn, useless charm.\r\nIt looks like it can be brought back\r\nto life throug
 
 A dull, useless sword that\r\nwas once a grand weapon.|----|Uma espada lascada que não serve para nada.\r\nUm dia deve ter sido uma grande arma.|----|Una espada mellada e inservible.\r\nAntiguamente debió de ser un arma\r\nmuy apreciada por su propietario.
 
-A battered, useless katana that\r\nwas once a grand weapon.|----|Uma katana desgastada que não serve para nada.\r\nUm dia deve ter sido uma grande arma.|----|Una katana rota e inservible.\r\nAntiguamente debió de ser un arma\r\nmuy apreciada por su propietario.
+A battered, useless katana that\r\nwas once a grand weapon.|----|Uma katana quebrada que não serve para nada.\r\nUm dia deve ter sido uma grande arma.|----|Una katana rota e inservible.\r\nAntiguamente debió de ser un arma\r\nmuy apreciada por su propietario.
 
 A chipped, useless axe that\r\nwas once a grand weapon.|----|Um machado lascado que não serve para nada.\r\nUm dia deve ter sido uma grande arma.|----|Un hacha mellada e inservible.\r\nAntiguamente debió de ser un arma\r\nmuy apreciada por su propietario.
 
@@ -6692,39 +6692,39 @@ A rusted, useless mace that\r\nwas once a grand weapon.|----|Uma maça enferruja
 
 A crooked, useless spear that\r\nwas once a grand weapon.|----|Uma lança torta que não serve para nada.\r\nUm dia deve ter sido uma grande arma.|----|Una lanza doblada e inservible.\r\nAntiguamente debió de ser un arma\r\nmuy apreciada por su propietario.
 
-A bent, useless staff that\r\nwas once a grand weapon.|----|Um cajado torto que não serve para nada.\r\nUm dia deve ter sido uma grande arma.|----|Un bastón partido e inservible.\r\nAntiguamente debió de ser un arma\r\nmuy apreciada por su propietario.
+A bent, useless staff that\r\nwas once a grand weapon.|----|Um bastão partido que não serve para nada.\r\nUm dia deve ter sido uma grande arma.|----|Un bastón partido e inservible.\r\nAntiguamente debió de ser un arma\r\nmuy apreciada por su propietario.
 
 A damaged, useless shield that\r\nwas once a grand piece of armor.|----|Um escudo amassado que não serve para nada.\r\nUm dia deve ter sido uma grande arma.|----|Un escudo abollado e inservible.\r\nAntiguamente debió de ser un arma\r\nmuy apreciada por su propietario.
 
-A decayed, useless necklace that\r\nwas once a grand accessory.|----|Um colar estragado que não serve para nada.\r\nUm dia deve ter sido um grande acessório.|----|Un collar dañado por la corrosión.\r\nAntiguamente debió de ser\r\nun accesorio muy valioso.
+A decayed, useless necklace that\r\nwas once a grand accessory.|----|Um colar enferrujado que não serve para nada.\r\nUm dia deve ter sido um grande acessório.|----|Un collar dañado por la corrosión.\r\nAntiguamente debió de ser\r\nun accesorio muy valioso.
 
-A broken, useless ring that\r\nwas once a grand accessory.|----|Um anel quebrado que não serve para nada.\r\nUm dia deve ter sido um grande acessório.|----|Un anillo partido por la mitad.\r\nAntiguamente debió de ser\r\nun accesorio muy valioso.
+A broken, useless ring that\r\nwas once a grand accessory.|----|Um anel partido ao meio que não serve para nada.\r\nUm dia deve ter sido um grande acessório.|----|Un anillo partido por la mitad.\r\nAntiguamente debió de ser\r\nun accesorio muy valioso.
 
-A crushed, useless armlet that\r\nwas once a grand accessory.|----|Um bracelete amassado que não serve para nada.\r\nUm dia deve ter sido um grande acessório.|----|Un brazalete deformado.\r\nAntiguamente debió de ser\r\nun accesorio muy valioso.
+A crushed, useless armlet that\r\nwas once a grand accessory.|----|Um bracelete deformado que não serve para nada.\r\nUm dia deve ter sido um grande acessório.|----|Un brazalete deformado.\r\nAntiguamente debió de ser\r\nun accesorio muy valioso.
 
 A mangled, useless earring that\r\nwas once a grand accessory.|----|Um brinco estropiado que não serve para nada.\r\nUm dia deve ter sido um grande acessório.|----|Un pendiente muy estropeado.\r\nAntiguamente debió de ser\r\nun accesorio muy valioso.
 
 A torn, useless sash that was\r\nonce a grand accessory.|----|Uma faixa rasgada que não serve para nada.\r\nUm dia deve ter sido um grande acessório.|----|Un cinto andrajoso e inservible.\r\nAntiguamente debió de ser\r\nun accesorio muy valioso.
 
-A deteriorating, useless anklet that\r\nwas once a grand accessory.|----|Uma tornozeleira estragada que não serve para\r\nnada. Deve ter sido um grande acessório.|----|Una tobillera rota e inservible.\r\nAntiguamente debió de ser\r\nun accesorio muy valioso.
+A deteriorating, useless anklet that\r\nwas once a grand accessory.|----|Uma tornozeleira partida que não serve para\r\nnada. Deve ter sido um grande acessório.|----|Una tobillera rota e inservible.\r\nAntiguamente debió de ser\r\nun accesorio muy valioso.
 
 A moldy, useless charm that was\r\nonce a grand accessory.|----|Um talismã mofado que não serve para nada.\r\nUm dia deve ter sido um grande acessório.|----|Un talismán mohoso e inservible.\r\nAntiguamente debió de ser\r\nun accesorio muy valioso.
 
-A piece of an ancient vase.\r\nIt was found in a random town as trash.|----|Um pedaço de um vaso antigo.\r\nEle foi encontrado em um monte de lixo de uma\r\ncidade qualquer.|----|Un trozo de una antigua vasija\r\nrecogido de un montón de basura\r\nen un pueblo perdido.
+A piece of an ancient vase.\r\nIt was found in a random town as trash.|----|Um pedaço de um antigo vaso.\r\nEle foi encontrado em um monte de lixo de uma\r\ncidade qualquer.|----|Un trozo de una antigua vasija\r\nrecogido de un montón de basura\r\nen un pueblo perdido.
 
 An old, empty urn.|----|Uma urna velha e vazia.|----|Una urna vieja y vacía.
 
-A valuable antique pot.\r\nA favorite among enthusiasts.|----|Um vaso antigo e valioso.\r\nMuito cobiçado por colecionadores.|----|Una magnífica vasija antigua\r\ncodiciada por los coleccionistas.
+A valuable antique pot.\r\nA favorite among enthusiasts.|----|Um vaso antigo e valioso.\r\nMuito cobiçado pelos colecionadores.|----|Una magnífica vasija antigua\r\ncodiciada por los coleccionistas.
 
-A golden lamp emitting purple smoke.\r\nIt holds lots of mystic energy.|----|Uma lâmpada dourada que emite fumaça de cor\r\npúrpura. Contém uma grande energia mística.|----|Una lámpara dorada que emite\r\nun humo de color púrpura.\r\nContiene una gran energía mística.
+A golden lamp emitting purple smoke.\r\nIt holds lots of mystic energy.|----|Uma lâmpada dourada que solta fumaça de cor\r\npúrpura. Contém uma grande energia mística.|----|Una lámpara dorada que emite\r\nun humo de color púrpura.\r\nContiene una gran energía mística.
 
-A pot formerly owned by a famed family.\r\nIt tells the tale of the family's prime.|----|Um vaso que pertencia a uma ilustre família.\r\nNele está inscrita a história dessa família.|----|Una vasija que tiene inscrita\r\nla historia de la ilustre familia\r\na la que perteneció.
+A pot formerly owned by a famed family.\r\nIt tells the tale of the family's prime.|----|Um vaso que pertenceu a uma ilustre família.\r\nNele está inscrita a história dessa família.|----|Una vasija que tiene inscrita\r\nla historia de la ilustre familia\r\na la que perteneció.
 
 An atrocious-looking pot that\r\nvents a mysterious cloud of smoke.|----|Um vaso de aspecto horrendo que desprende\r\numa misteriosa nuvem de fumaça.|----|Una vasija de aspecto horrendo\r\nque desprende una misteriosa\r\nnube de humo.
 
-Part of a crumbling document.\r\nIt is barely legible.|----|Um fragmento de um manuscrito deteriorado\r\npelo tempo. Está praticamente ilegível.|----|Un fragmento de un manuscrito\r\ndeteriorado por el paso del tiempo.\r\nEs prácticamente ilegible.
+Part of a crumbling document.\r\nIt is barely legible.|----|Uma parte de um manuscrito deteriorado\r\npelo tempo. Está praticamente ilegível.|----|Un fragmento de un manuscrito\r\ndeteriorado por el paso del tiempo.\r\nEs prácticamente ilegible.
 
-A document from ancient times.\r\nIt is written in an ancient language\r\nand is incomprehensible.|----|Um antigo manuscrito de tempos remotos.\r\nFoi escrito em um linguagem antiga\r\ne difícil de ser compreendida.|----|Un antiguo manuscrito redactado\r\nen un idioma ancestral que parece\r\ncompletamente incomprensible.
+A document from ancient times.\r\nIt is written in an ancient language\r\nand is incomprehensible.|----|Um antigo manuscrito de tempos remotos.\r\nFoi escrito em um idioma ancestral\r\ne difícil de ser compreendida.|----|Un antiguo manuscrito redactado\r\nen un idioma ancestral que parece\r\ncompletamente incomprensible.
 
 A scripture written in a distinct language.\r\nAlthough it is torn, it still contains\r\nmystic energy.|----|Um escrito que foi redigido em um idioma bem\r\npeculiar. Embora esteja rasgado, ainda contém\r\nenergia mística.|----|Un escrito redactado en un idioma\r\nmuy peculiar. Aunque está dañado,\r\naún contiene energía mística.
 
@@ -6732,59 +6732,59 @@ A notation containing various formulas\r\nwritten by the late alchemist Reya.|--
 
 A piece of an old platter.\r\nA miracle was said to happen if ten\r\nwere collected.|----|Um pedaço de uma antiga bandeja.\r\nDizem que aquele que reunir dez dessas peças\r\npresenciará um milagre.|----|Un trozo de una antigua bandeja.\r\nSe dice que quien reúna diez\r\nde ellos presenciará un milagro.
 
-A valuable antique platter.\r\nA favorite among enthusiasts.|----|Uma bandeja antiga e valiosa.\r\nMuito cobiçada por colecionadores.|----|Una valiosa bandeja antigua\r\ncodiciada por los coleccionistas.
+A valuable antique platter.\r\nA favorite among enthusiasts.|----|Uma bandeja antiga e valiosa.\r\nMuito cobiçada pelos colecionadores.|----|Una valiosa bandeja antigua\r\ncodiciada por los coleccionistas.
 
-A platter used by aristocrats in older times.\r\nA major status symbol.|----|Uma bandeja usada por aristocratas em tempos\r\nantigos. Um símbolo de status elevado.|----|Una bandeja utilizada\r\npor los nobles de tiempos antiguos\r\ncomo símbolo de su gran alcurnia.
+A platter used by aristocrats in older times.\r\nA major status symbol.|----|Uma bandeja usada pelos aristocratas de tempos\r\nantigos. Um símbolo de status elevado.|----|Una bandeja utilizada\r\npor los nobles de tiempos antiguos\r\ncomo símbolo de su gran alcurnia.
 
-A large platter made by a legendary\r\ncraftsman. It is said to be priceless.|----|Uma grande bandeja fabricada por um lendário\r\nartesão. Seu valor é incalculável.|----|Una gran bandeja creada\r\npor un artesano legendario.\r\nSu valor es incalculable.
+A large platter made by a legendary\r\ncraftsman. It is said to be priceless.|----|Uma grande bandeja criada por um lendário\r\nartesão. Seu valor é incalculável.|----|Una gran bandeja creada\r\npor un artesano legendario.\r\nSu valor es incalculable.
 
-A medal of commemoration for something.\r\nThe letters have been scratched off\r\nand are illegible.|----|Uma medalha comemorativa.\r\nAs palavras nela inscrita foram raspadas\r\ne estão ilegíveis.|----|Una medalla conmemorativa.\r\nAlguien ha arañado la inscripción\r\nhasta hacerla ilegible.
+A medal of commemoration for something.\r\nThe letters have been scratched off\r\nand are illegible.|----|Uma medalha comemorativa.\r\nAs palavras nela inscritas foram raspadas\r\ne estão ilegíveis.|----|Una medalla conmemorativa.\r\nAlguien ha arañado la inscripción\r\nhasta hacerla ilegible.
 
 Currency used among beastmen.\r\nIt is made from a unique metal.|----|A moeda usada pelos homens-fera.\r\nFoi fabricada com um metal muito pouco comum.|----|La moneda usada por los hombres\r\nbestia. Está fabricada con un metal\r\nmuy poco común.
 
-A medal with the power of strength.\r\nIt is a must-have item for warriors.|----|Uma medalha que aumenta a força.\r\nÉ muito popular entre os guerreiros.|----|Un medallón que aumenta la fuerza.\r\nEs muy popular entre los guerreros.
+A medal with the power of strength.\r\nIt is a must-have item for warriors.|----|Um medalhão que aumenta a força.\r\nÉ muito popular entre os guerreiros.|----|Un medallón que aumenta la fuerza.\r\nEs muy popular entre los guerreros.
 
-A medal with the power of love.\r\nIt is a must-have for young soldiers\r\nwho have little time to woo women.|----|Uma medalha imbuída com o poder do amor. É um\r\nitem indispensável para jovens soldados que\r\ntêm pouco tempo para conquistar as mulheres.|----|Un medallón imbuido de amor, ideal\r\npara quienes no tienen tiempo\r\nde rondar a las damas.
+A medal with the power of love.\r\nIt is a must-have for young soldiers\r\nwho have little time to woo women.|----|Um medalhão imbuído com o poder do amor. É um\r\nitem indispensável para aqueles que não\r\ntêm muito tempo para cortejar as mulheres.|----|Un medallón imbuido de amor, ideal\r\npara quienes no tienen tiempo\r\nde rondar a las damas.
 
-A medal once worn by a hero.\r\nIt is said to hold protective powers.|----|Uma medalha que já esteve na posse de um\r\nherói. Dizem que ela protege seu portador.|----|Un medallón que antiguamente\r\nfue propiedad de un héroe.\r\nSe dice que protege a su portador.
+A medal once worn by a hero.\r\nIt is said to hold protective powers.|----|Um medalhão que um dia pertenceu a um\r\nherói. Dizem que ele protege seu portador.|----|Un medallón que antiguamente\r\nfue propiedad de un héroe.\r\nSe dice que protege a su portador.
 
 A coin picturing an evil-looking mitra.\r\nIt emits a ghostly light.|----|Uma moeda contendo a efígie de um mitra de\r\naspecto malvado. Ela emite uma luz\r\nfantasmagórica.|----|Una moneda que porta la efigie\r\nde un mitra de aspecto malvado.\r\nDesprende una luz fantasmal.
 
-A bulb that lets out a high-pitched\r\nnoise much like a scream.\r\nIt contains a very rough fiber.|----|Um bulbo que emite um som muito alto,\r\nparecido com um grito agudo.\r\nContém uma fibra muito áspera.|----|Un bulbo que emite un sonido\r\nparecido a un aullido agudo.\r\nContiene una fibra muy tosca.
+A bulb that lets out a high-pitched\r\nnoise much like a scream.\r\nIt contains a very rough fiber.|----|Um bulbo que emite um som parecido\r\ncom um grito agudo.\r\nContém uma fibra muito áspera.|----|Un bulbo que emite un sonido\r\nparecido a un aullido agudo.\r\nContiene una fibra muy tosca.
 
-The bulb of the Surgill flower.\r\nIts sweet flavor makes it popular in foods.|----|Um bulbo da flor de surgill. Seu doce sabor\r\nfaz com que seja muito utilizado na culinária.|----|Un bulbo de la flor de surgill.\r\nSe usa en muchos platos debido\r\na su alto contenido en glucosa.
+The bulb of the Surgill flower.\r\nIts sweet flavor makes it popular in foods.|----|Um bulbo da flor de surgill. É muito apreciado na\r\nculinária por causa do seu doce sabor.|----|Un bulbo de la flor de surgill.\r\nSe usa en muchos platos debido\r\na su alto contenido en glucosa.
 
-The bulb of a plant said to have grown\r\nin the ground for ten thousand years.\r\nIts core contains strong mystic energy.|----|Um bulbo de uma planta que dizem ter crescido\r\nembaixo da terra durante dez mil anos.\r\nSeu núcleo contém uma grande energia mística.|----|Un bulbo que ha crecido bajo tierra\r\ndurante 10.000 años. Está dotado\r\nde una gran energía mística.
+The bulb of a plant said to have grown\r\nin the ground for ten thousand years.\r\nIts core contains strong mystic energy.|----|Um bulbo cresceu embaixo da terra durante\r\ndez mil anos.\r\nSeu núcleo contém uma grande energia mística.|----|Un bulbo que ha crecido bajo tierra\r\ndurante 10.000 años. Está dotado\r\nde una gran energía mística.
 
-Wildgrass with a bitter taste.\r\nIt can be found growing everywhere\r\nbut is worth very little.|----|Uma erva daninha de sabor amargo.\r\nPode ser encontrada em toda parte\r\ne não vale quase nada.|----|Una hierba de sabor amargo\r\ncapaz de crecer en cualquier sitio.\r\nSu valor es casi nulo.
+Wildgrass with a bitter taste.\r\nIt can be found growing everywhere\r\nbut is worth very little.|----|Uma erva daninha de sabor amargo.\r\nPode ser encontrada em qualquer lugar\r\ne não vale quase nada.|----|Una hierba de sabor amargo\r\ncapaz de crecer en cualquier sitio.\r\nSu valor es casi nulo.
 
 Grass with a rough surface that is\r\nperfect for polishing.|----|Uma erva de superfície áspera que é\r\nperfeita para polir materiais.|----|Una hierba de tacto áspero\r\nideal para pulir materiales.
 
-Grass that creates a suction when\r\nrubbed together. It is a valuable\r\ncustomization component.|----|Uma erva que cria uma sucção ao ser\r\nesfregada junta de outra. É um componente\r\nmuito valioso para melhorar equipamentos.|----|Una hierba que genera un vacío\r\nal frotarla. Es un componente\r\nmuy valioso para mejorar equipo.
+Grass that creates a suction when\r\nrubbed together. It is a valuable\r\ncustomization component.|----|Uma erva que cria uma sucção ao ser\r\nesfregada contra outra. É um componente\r\nmuito valioso para melhorar equipamentos.|----|Una hierba que genera un vacío\r\nal frotarla. Es un componente\r\nmuy valioso para mejorar equipo.
 
 A vine from a plant.\r\nIt is often used as a replacement\r\nfor string.|----|Um cipó obtido de uma planta.\r\nÉ geralmente usado para substituir\r\num cordão.|----|Una liana obtenida de una planta.\r\nA menudo se utiliza para sustituir\r\na un cordel.
 
-A sturdy vine from a plant.\r\nIt is often used in the place of rope.|----|Um resistente cipó arrancado de uma planta.\r\nGeralmente usado no lugar de uma corda comum.|----|Una gruesa liana arrancada\r\nde una planta. Es una digna\r\nsustituta de una cuerda común.
+A sturdy vine from a plant.\r\nIt is often used in the place of rope.|----|Um resistente cipó arrancado de uma planta.\r\nÉ geralmente usado no lugar de uma corda comum.|----|Una gruesa liana arrancada\r\nde una planta. Es una digna\r\nsustituta de una cuerda común.
 
-A vine made from televa grass.\r\nIt is covered in bristles.|----|Um cipó procedente da planta de televa.\r\nEle tem uma superfície áspera e rugosa.|----|Una liana procedente de la planta\r\nde televa. Tiene un tacto áspero\r\ny rugoso.
+A vine made from televa grass.\r\nIt is covered in bristles.|----|Um cipó procedente da planta de televa.\r\nTem uma superfície áspera e rugosa.|----|Una liana procedente de la planta\r\nde televa. Tiene un tacto áspero\r\ny rugoso.
 
 A vine from a thousand-year-old plant.\r\nIt is as tough as an instrument chord.|----|Um cipó obtido de uma planta de mil anos de\r\nidade. É tão resistente quanto a corda de um\r\nalaúde.|----|Una liana obtenida de una planta\r\nde mil años de edad, resistente\r\ncomo una cuerda de laúd.
 
 A syrupy nectar with a sweet aroma.|----|Um néctar viscoso com um doce aroma.|----|Un néctar espeso de aroma dulzón.
 
-Fruit from a Prela tree.\r\nIts hard outer shell makes it a popular\r\ncomponent for equipment creation.|----|Um fruto da árvore de Prela.\r\nSua dura casca externa faz dele um componente\r\npopular para a fabricação de equipamentos.|----|Un fruto del árbol de prela.\r\nSu robusta corteza exterior\r\nes un material muy apreciado.
+Fruit from a Prela tree.\r\nIts hard outer shell makes it a popular\r\ncomponent for equipment creation.|----|Um fruto da árvore de Prela.\r\nSua casca dura faz dele um componente\r\nmuito popular na fabricação de equipamentos.|----|Un fruto del árbol de prela.\r\nSu robusta corteza exterior\r\nes un material muy apreciado.
 
-A poisonous fruit that lures in prey\r\nby emitting a sweet scent. It plants\r\nits seeds in carcasses.|----|Um fruto venenoso que atrai suas presas\r\nao exalar um doce aroma. Ele planta suas\r\nsementes nos cadáveres.|----|Un fruto venenoso que atrae\r\na su presa con su dulce aroma\r\ny planta sus semillas en el cadáver.
+A poisonous fruit that lures in prey\r\nby emitting a sweet scent. It plants\r\nits seeds in carcasses.|----|Um fruto venenoso que atrai suas presas\r\nexalando um doce aroma. Ele planta suas\r\nsementes no cadáver da presa.|----|Un fruto venenoso que atrae\r\na su presa con su dulce aroma\r\ny planta sus semillas en el cadáver.
 
-A beautiful white flower.\r\nAlthough it means sweet love,\r\nits flavor is quite spicy.|----|Uma bela flor branca.\r\nApesar do seu nome romântico,\r\nseu sabor é bastante picante.|----|Una hermosa planta blanca.\r\nA pesar de su romántico nombre,\r\nsu sabor es sumamente picante.
+A beautiful white flower.\r\nAlthough it means sweet love,\r\nits flavor is quite spicy.|----|Uma linda flor branca.\r\nApesar do seu nome romântico,\r\nseu sabor é bastante picante.|----|Una hermosa planta blanca.\r\nA pesar de su romántico nombre,\r\nsu sabor es sumamente picante.
 
-A beautiful carnation-pink flower.\r\nAlthough it means eternal love,\r\nit is extremely poisonous.|----|Uma bela flor cravo-de-rosa.\r\nApesar do seu nome romântico,\r\né extremamente venenosa.|----|Un hermoso clavel rosa.\r\nA pesar de su romántico nombre,\r\nes extremadamente venenoso.
+A beautiful carnation-pink flower.\r\nAlthough it means eternal love,\r\nit is extremely poisonous.|----|Uma linda flor cravo-de-rosa.\r\nApesar do seu nome romântico,\r\né extremamente venenosa.|----|Un hermoso clavel rosa.\r\nA pesar de su romántico nombre,\r\nes extremadamente venenoso.
 
-A dark crimson flower with the meaning\r\ninvitation to the netherworld.\r\nThe corolla emits the scent of blood.|----|Uma flor vermelha escura que preconiza\r\num convite ao mundo dos mortos.\r\nSuas pétalas emitem um cheiro de sangue.|----|Una flor de color rojo oscuro\r\nque evoca un mundo de pesadilla\r\ny cuyos pétalos huelen a sangre.
+A dark crimson flower with the meaning\r\ninvitation to the netherworld.\r\nThe corolla emits the scent of blood.|----|Uma flor vermelha escura que preconiza\r\num convite ao mundo dos mortos.\r\nSuas pétalas tem o cheiro de sangue.|----|Una flor de color rojo oscuro\r\nque evoca un mundo de pesadilla\r\ny cuyos pétalos huelen a sangre.
 
 Timber from a tree.\r\nIt is for everyday use.|----|A madeira de uma árvore. É usada para\r\nfabricar artigos de uso cotidiano.|----|La madera de un árbol. Se usa para fabricar\r\ndiversos artículos de uso cotidiano.
 
-Timber of good quality.\r\nIt is used in architecture and\r\nbuilding furniture.|----|Uma madeira de boa qualidade.\r\nÉ usada para fabricar móveis\r\ne na construção de edifícios.|----|Una madera de buena calidad. Se utiliza\r\npara fabricar muebles y levantar edificios.
+Timber of good quality.\r\nIt is used in architecture and\r\nbuilding furniture.|----|Uma madeira de boa qualidade.\r\nÉ usada para construir edifícios e\r\nfabricar móveis.|----|Una madera de buena calidad. Se utiliza\r\npara fabricar muebles y levantar edificios.
 
 Timber from a zale tree.\r\nIts hard substance makes it a popular\r\ncomponent for equipment creation.|----|Uma madeira da árvore de zale.\r\nSua grande resistência faz com que seja muito\r\napreciada na fabricação de equipamentos.|----|La madera de un árbol de zale.\r\nSu gran resistencia la convierte\r\nen un material muy apreciado.
 
@@ -6808,15 +6808,15 @@ Hygroscopic cotton that is soft to\r\nthe touch.\r\nIt is used in everyday cloth
 
 Cotton of superior quality.\r\nIt is used in high quality clothing.|----|Um pedaço de algodão de qualidade superior.\r\nMuito usado para confeccionar roupas de boa\r\nqualidade.|----|Una bala de algodón\r\nde calidad superior que se usa\r\npara confeccionar prendas selectas.
 
-Cotton of superlative quality.\r\nIt is used in clothing exclusively for\r\nthe upper class.|----|Um pedaço de algodão de qualidade excepcional.\r\nÉ usado para confeccionar roupas\r\npara a alta sociedade.|----|Una bala de algodón\r\nde calidad excepcional que se usa\r\npara confeccionar prendas de lujo.
+Cotton of superlative quality.\r\nIt is used in clothing exclusively for\r\nthe upper class.|----|Um pedaço de algodão de qualidade excepcional.\r\nÉ usado para confeccionar roupas\r\nde luxo.|----|Una bala de algodón\r\nde calidad excepcional que se usa\r\npara confeccionar prendas de lujo.
 
 Water containing many minerals.\r\nIt is for everyday use.|----|Água rica em minerais.\r\nApta para o consumo diário.|----|Agua rica en minerales\r\ny apta para el uso cotidiano.
 
 Water removed of all impurities.\r\nIt is used for refining.|----|Água desprovida de impurezas.\r\nUsada em refinarias.|----|Agua desprovista de impurezas\r\nque se utiliza en las refinerías.
 
-Water tinted with mystic energy.\r\nIt has been used for alchemy since\r\ndays of old.|----|Água carregada de energia mística.\r\nTem sido usada para alquimia desde\r\ntempos imemoráveis.|----|Agua cargada de energía mística.\r\nSe usa en rituales de alquimia\r\ndesde tiempos inmemoriales.
+Water tinted with mystic energy.\r\nIt has been used for alchemy since\r\ndays of old.|----|Água carregada de energia mística.\r\nTem sido usada em riruais de alquimia desde\r\ntempos imemoráveis.|----|Agua cargada de energía mística.\r\nSe usa en rituales de alquimia\r\ndesde tiempos inmemoriales.
 
-Water turned holy through mystic\r\nmeans.\r\nIt has strong mystic energy.|----|Água que se tornou sagrada por meios\r\nmísticos.\r\nDesprende uma grande energia mística.|----|Agua bendecida por los poderes celestiales.\r\nDesprende una gran aura mística.
+Water turned holy through mystic\r\nmeans.\r\nIt has strong mystic energy.|----|Água que foi abençoada por meios\r\nmísticos.\r\nDesprende uma grande energia mística.|----|Agua bendecida por los poderes celestiales.\r\nDesprende una gran aura mística.
 
 Natural oil straight from the earth.\r\nIt is convenient for everyday use.|----|Um óleo natural procedente das entranhas da\r\nterra. Tem muitos usos no dia-a-dia.|----|Un aceite natural procedente\r\nde las entrañas de la tierra.\r\nTiene muchos usos.
 
@@ -6838,11 +6838,11 @@ A thick shell that is actually much\r\nsofter than it looks.|----|Uma concha gro
 
 A colony of polyps living in the deep\r\nwaters of the sea. Their bones are made\r\nfrom a hard lime-like substance.|----|Uma colônia de pólipos que vive nas\r\nprofundezas do oceano. Seus ossos são feitos\r\nde uma substância dura e viscosa.|----|Una sustancia formada a partir\r\nde los esqueletos calcáreos\r\nde pequeños insectos submarinos.
 
-A shell with many microscopic holes.\r\nIt is an extremely hard substance.|----|Uma concha cheia de buracos microscópicos.\r\nÉ extremamente dura.|----|Una concha llena de pequeños\r\nagujeros microscópicos.\r\nEs extremadamente dura.
+A shell with many microscopic holes.\r\nIt is an extremely hard substance.|----|Uma concha cheia de pequenos buracos microscópicos.\r\nÉ extremamente dura.|----|Una concha llena de pequeños\r\nagujeros microscópicos.\r\nEs extremadamente dura.
 
-An insect that exudes large amounts\r\nof oil. Its fluids are gathered for\r\nmedicinal use.|----|Um inseto que produz grandes quantidades\r\nde um líquido oleoso. Esses fluídos são\r\ncoletados para uso medicinal.|----|Un insecto que produce grandes\r\ncantidades de un líquido aceitoso\r\ncon propiedades medicinales.
+An insect that exudes large amounts\r\nof oil. Its fluids are gathered for\r\nmedicinal use.|----|Um inseto que produz grandes quantidades\r\nde um líquido oleoso. Esses fluídos\r\ntêm propriedades medicinais.|----|Un insecto que produce grandes\r\ncantidades de un líquido aceitoso\r\ncon propiedades medicinales.
 
-An insect that can cast light from\r\nits body. It is composed of corrosion-\r\nresistant elements.|----|Um inseto que é capaz de emitir luz do corpo.\r\nOs extratos dele obtidos podem ser usados para\r\nproteger superfícies contra a corrosão.|----|Un insecto bioluminiscente\r\ncuyo extracto se usa para proteger\r\nsuperficies contra la corrosión.
+An insect that can cast light from\r\nits body. It is composed of corrosion-\r\nresistant elements.|----|Um inseto que pode emitir luz do próprio corpo.\r\nOs extratos dele obtidos podem ser usados para\r\nproteger superfícies contra a corrosão.|----|Un insecto bioluminiscente\r\ncuyo extracto se usa para proteger\r\nsuperficies contra la corrosión.
 
 An insect that travels in a swarm.\r\nIts fluid has an adhesive quality.|----|Um inseto que viaja em enxames de grande\r\ntamanho. Seus fluidos têm propriedades\r\nadesivas.|----|Un insecto que viaja en enjambres\r\nde gran tamaño. Sus fluidos\r\ntienen propiedades adhesivas.
 
@@ -6852,7 +6852,7 @@ A silky cloth made from angora.|----|Um tecido de seda feito com lã de angorá.
 
 A soft cloth made from linen.|----|Um tecido macio feito de linho.|----|Una tela suave fabricada\r\ncon tejido de lino.
 
-A versatile cloth made from mule hide.|----|Um tecido versátil feito de couro de mula.|----|Una prenda muy versátil\r\nfabricada con piel de mula.
+A versatile cloth made from mule hide.|----|Um tecido versátil feito com pele de mula.|----|Una prenda muy versátil\r\nfabricada con piel de mula.
 
 A carapace from a beast.\r\nIt is made from a hard substance.|----|A carapaça de um monstro. É feita de uma\r\nsubstância particularmente resistente.|----|El caparazón de un monstruo.\r\nEstá hecho de una sustancia\r\nparticularmente resistente.
 
@@ -6860,13 +6860,13 @@ A carapace from a creature that \r\nlived for a thousand years.\r\nA favorite of
 
 A faded carapace from a creature\r\nthat lived for ten thousand years.\r\nIt is extremely hard.|----|A carapaça desbotada de uma criatura\r\nque viveu cerca de dez mil anos.\r\nÉ extremamente dura.|----|El caparazón de una criatura\r\nque ha vivido unos diez mil años.\r\nEs extremadamente duro.
 
-A withered husk from a beast.\r\nIt is hard to determine from which beast.|----|Uma muda de pele descartada por um monstro.\r\nÉ difícil determinar a qual criatura pertence.|----|Una muda de piel desechada\r\npor un monstruo. No es fácil\r\nsaber de qué criatura procede.
+A withered husk from a beast.\r\nIt is hard to determine from which beast.|----|Uma muda de pele deixada por um monstro.\r\nÉ difícil dizer de qual criatura procede.|----|Una muda de piel desechada\r\npor un monstruo. No es fácil\r\nsaber de qué criatura procede.
 
-A shed husk from a beast.\r\nIt is tough and light enough to process\r\neasily.|----|Uma muda de pele descartada por um monstro.\r\nÉ extremamente leve e dura, mas muito fácil\r\nde manipular.|----|Una piel desechada por un monstruo,\r\ndura pero ligera y fácil de manipular.
+A shed husk from a beast.\r\nIt is tough and light enough to process\r\neasily.|----|Uma muda de pele deixada por um monstro.\r\nÉ extremamente leve e dura, mas muito fácil\r\nde manipular.|----|Una piel desechada por un monstruo,\r\ndura pero ligera y fácil de manipular.
 
-A beast husk as tough as iron.\r\nIts metallic nature makes it useful\r\nfor armor creation.|----|Um pedaço de couro de monstro duro como ferro.\r\nSua natureza metálica o torna útil\r\nna fabricação de armaduras.|----|Una muda de piel dura como el hierro.\r\nResulta muy útil para fabricar armaduras.
+A beast husk as tough as iron.\r\nIts metallic nature makes it useful\r\nfor armor creation.|----|Uma muda de pele de monstro dura como ferro.\r\nSua natureza metálica a torna útil\r\nna fabricação de armaduras.|----|Una muda de piel dura como el hierro.\r\nResulta muy útil para fabricar armaduras.
 
-Fine, smooth fur from a beast.\r\nIt is for everyday use.|----|Uma pelagem fina e suave de monstro.\r\nIdeal para o uso diário.|----|El pelaje de un monstruo, fino y suave.\r\nUna prenda ideal para cualquier día del año.
+Fine, smooth fur from a beast.\r\nIt is for everyday use.|----|A pelagem fina e suave de um monstro.\r\nPerfeita para o uso diário.|----|El pelaje de un monstruo, fino y suave.\r\nUna prenda ideal para cualquier día del año.
 
 Tight bundles of coarse fur\r\nfrom a beast.|----|Várias tiras de pele áspera arrancadas\r\nde um monstro.|----|Varias tiras de piel áspera\r\narrancadas de un monstruo.
 
@@ -6880,21 +6880,21 @@ Fur of superior quality from a beast.\r\nIt has a very soft texture.|----|Uma pe
 
 Fur of superlative quality from a beast.\r\nIt is durable and the coat is exquisite.|----|Uma pelagem de monstro de qualidade\r\nexcepcional. É muito resistente e requintada.|----|Una piel de monstruo de calidad excepcional.\r\nMuy resistente y elegante.
 
-Tanned hide from a beast.\r\nIt is very soft and is for everyday use.|----|Uma pele curtida de monstro. Tem uma textura\r\nmuito suave e é ideal para o uso cotidiano.|----|Una piel curtida de monstruo.\r\nTiene una textura muy suave\r\ny es ideal para un uso cotidiano.
+Tanned hide from a beast.\r\nIt is very soft and is for everyday use.|----|Uma pele curtida de monstro. Tem uma textura\r\nmuito suave e é perfeita para o uso cotidiano.|----|Una piel curtida de monstruo.\r\nTiene una textura muy suave\r\ny es ideal para un uso cotidiano.
 
 Tanned hide of superior quality from a beast.\r\nIt has a lot of elasticity.|----|Uma pele curtida de qualidade superior.\r\nTem muita elasticidade.|----|Una piel curtida de calidad superior\r\nque destaca por su elasticidad.
 
-Tanned hide of a superlative quality\r\nfrom a beast. It is used in making\r\nhigh-class clothing.|----|Uma pele curtida de qualidade excepcional.\r\nÉ usada para fazer roupas\r\nda alta sociedade.|----|Una piel curtida de calidad excepcional.\r\nSe usa para fabricar prendas de postín.
+Tanned hide of a superlative quality\r\nfrom a beast. It is used in making\r\nhigh-class clothing.|----|Uma pele curtida de qualidade excepcional.\r\nÉ usada para fabricar roupas\r\nde boa qualidade.|----|Una piel curtida de calidad excepcional.\r\nSe usa para fabricar prendas de postín.
 
 A scale from a beast.\r\nIts unique pattern increases durability.|----|Uma escama de monstro. Tem um padrão muito\r\ncaracterístico que aumenta sua resistência.|----|Una escama de monstruo.\r\nTiene un patrón muy característico\r\nque aumenta su resistencia.
 
-A thoroughly polished beast scale.\r\nIt has the mystic energy to reflect\r\neven the slightest light.|----|Uma escama de monstro habilmente polida.\r\nPossui uma energia mística capaz de refletir\r\naté mesmo a luz mais débil.|----|Una escama de monstruo hábilmente pulida\r\ny capaz de reflejar hasta la luz más débil.
+A thoroughly polished beast scale.\r\nIt has the mystic energy to reflect\r\neven the slightest light.|----|Uma escama de monstro habilmente polida.\r\nPossui uma energia mística capaz de refletir\r\naté a mais débil luz.|----|Una escama de monstruo hábilmente pulida\r\ny capaz de reflejar hasta la luz más débil.
 
 A scale from a dragon.\r\nIt is very tough and durable.|----|Uma escama de dragão.\r\nÉ muito dura e resistente.|----|Una escama de dragón.\r\nEs muy dura y resistente.
 
 A horn from a beast.\r\nDespite its toughness, it can\r\neasily be processed.|----|Um chifre de monstro.\r\nApesar da sua grande dureza,\r\né muito fácil de manipular.|----|Un cuerno de monstruo.\r\nA pesar de su gran dureza,\r\nes muy fácil de manipular.
 
-A spiral horn from a large beast.|----|Um chifre em forma de espiral de um grande\r\nmonstro.|----|Un cuerno en forma de espiral\r\nobtenido de un monstruo\r\nde gran tamaño.
+A spiral horn from a large beast.|----|Um chifre em forma de espiral obtido de um\r\nmonstro de grande tamanho.|----|Un cuerno en forma de espiral\r\nobtenido de un monstruo\r\nde gran tamaño.
 
 A sharp fang from a beast.|----|Uma presa de monstro bastante afiada.|----|Un colmillo de monstruo\r\nsumamente afilado.
 
@@ -6910,15 +6910,15 @@ A bone from a necrodragon.\r\nIt holds great mystic energy.|----|Um osso de necr
 
 A bone cursed with voodoo.\r\nIt is black and as hard\r\nas metal.|----|Um osso que carrega uma maldição vodu.\r\nÉ negro e tão duro\r\nquanto o metal.|----|Un hueso que porta una maldición vudú.\r\nEs negro y tan duro como el metal.
 
-A talon from a beast.\r\nIt is thin and sharp, ready to shred\r\ntheir prey to bits.|----|Uma garra de monstro.\r\nÉ fina e afiada, ideal para cortar\r\nsuas presas em pedaços.|----|Una garra de monstruo muy fina y afilada,\r\nideal para cortar a sus presas en rebanadas.
+A talon from a beast.\r\nIt is thin and sharp, ready to shred\r\ntheir prey to bits.|----|Uma garra de monstro.\r\nÉ fina e afiada, perfeita para cortar\r\nsuas presas em pedaços.|----|Una garra de monstruo muy fina y afilada,\r\nideal para cortar a sus presas en rebanadas.
 
 A talon from a large beast.\r\nIt is extremely sturdy and sharp as\r\na blade.|----|Uma garra de um grande monstro.\r\nÉ extremamente dura e tão afiada\r\nquanto uma lâmina.|----|Una garra de un gran monstruo.\r\nParece extremadamente dura\r\ny tan afilada como una espada.
 
-A feather from a beast.\r\nIt is used in everyday clothing.|----|Uma pluma de monstro.\r\nÉ usada para fabricar roupas do dia-a-dia.|----|Una pluma de monstruo. Se utiliza\r\npara decorar prendas de uso cotidiano.
+A feather from a beast.\r\nIt is used in everyday clothing.|----|Uma pluma de monstro.\r\nÉ usada para fabricar roupas de uso cotidiano.|----|Una pluma de monstruo. Se utiliza\r\npara decorar prendas de uso cotidiano.
 
 A feather from a large beast.\r\nIt is often used in equipment.|----|Uma pluma de um grande monstro. É geralmente\r\nusada na fabricação de equipamentos.|----|Una pluma de un gran monstruo.\r\nSe usa para crear diversos\r\nartículos de equipo.
 
-A feather from a large bird.\r\nIt has an exquisite pattern.|----|Uma pluma de um grande pássaro.\r\nPossui um espetacular padrão de cores.|----|Una pluma de una gran ave.\r\nTiene unos colores espectaculares.
+A feather from a large bird.\r\nIt has an exquisite pattern.|----|Uma pluma de uma grande ave.\r\nPossui um espetacular padrão de cores.|----|Una pluma de una gran ave.\r\nTiene unos colores espectaculares.
 
 Rotten beast meat.\r\nIt has been used for alchemy since\r\ntimes of old.|----|Um pedaço de carne de monstro apodrecida.\r\nEssa carne tem sido usada em fórmulas de\r\nalquimia desde tempos imemoráveis.|----|Un trozo de carne podrida de monstruo,\r\nmuy utilizada en fórmulas de alquimia.
 
@@ -6928,25 +6928,25 @@ Yellow juices with a slight acidic\r\nscent extracted from insects.|----|Um flui
 
 Foul-smelling juices extracted from\r\nbeasts. Its pasty quality is handy and\r\nused as adhesives.|----|Um fluido pastoso e fedorento extraído de\r\ncertos monstros. É geralmente\r\nusado como adesivo.|----|Un fluido pastoso y maloliente\r\nextraído de ciertos monstruos.\r\nSuele utilizarse como pegamento.
 
-Sweet, sticky fluid extracted from\r\nbeasts. It is used as a component\r\nfor medicines.|----|Um líquido doce e pegajoso extraído de\r\ncertos monstros. É usado na\r\nelaboração de medicinas.|----|Un líquido dulce y pegajoso\r\nextraído de ciertos monstruos.\r\nSe utiliza para elaborar medicinas.
+Sweet, sticky fluid extracted from\r\nbeasts. It is used as a component\r\nfor medicines.|----|Um líquido doce e pegajoso extraído de\r\ncertos monstros. É usado para\r\nelaborar remédios.|----|Un líquido dulce y pegajoso\r\nextraído de ciertos monstruos.\r\nSe utiliza para elaborar medicinas.
 
 Gooey, mudlike fluid extracted from\r\nbeasts. It solidifies if left at room\r\ntemperature.|----|Um líquido espesso e pegajoso extraído de\r\ncertos monstros. Ele solidifica\r\nna temperatura ambiente.|----|Un líquido espeso y viscoso\r\nextraído de ciertos monstruos.\r\nSolidifica a temperatura ambiente.
 
 An egg cluster extracted from an insect nest.\r\nThere appear to be a few hundred eggs.|----|Um monte de ovos extraídos do ninho de um\r\ninseto. Parece que tem há centenas de ovos\r\nnesse monte.|----|Un racimo de huevos extraídos\r\ndel nido de un insecto. Parece\r\nque hay centenares de ellos...
 
-An egg stolen from a beast's den.\r\nIt has a high chance of being\r\ndouble-yolked.|----|Um ovo que foi roubado da toca de um monstro.\r\nTem grandes chancer de ter mais\r\nde uma gema.|----|Un huevo robado de la guarida\r\nde un monstruo... ¡Seguro que tiene\r\nmás de una yema!
+An egg stolen from a beast's den.\r\nIt has a high chance of being\r\ndouble-yolked.|----|Um ovo que foi roubado da toca de um monstro.\r\nÉ bem provável que ele tenha\r\nmais de uma gema.|----|Un huevo robado de la guarida\r\nde un monstruo... ¡Seguro que tiene\r\nmás de una yema!
 
-A large egg taken from a dragon's nest.\r\nThe outer shell is extremely hard.|----|Um grande ovo que foi roubado do ninho de\r\ndragão. Sua casca é extremamente dura.|----|Un huevo de gran tamaño robado\r\nde la guarida de un dragón.\r\nSu cáscara es sumamente dura.
+A large egg taken from a dragon's nest.\r\nThe outer shell is extremely hard.|----|Um ovo de grande tamanho que foi roubado do ninho de\r\ndragão. Sua casca é extremamente dura.|----|Un huevo de gran tamaño robado\r\nde la guarida de un dragón.\r\nSu cáscara es sumamente dura.
 
 A carapace from a land insecta.\r\nA customization component.|----|A carapaça de um inseto terrestre.\r\nServe para melhorar seu equipamento.|----|El caparazón de un insecto\r\nterrestre.\r\nSirve para mejorar tu equipo.
 
-A husk from a mystic fiend.\r\nA customization component.|----|Um pedaço de couro de demônio místico.\r\nServe para melhorar seu equipamento.|----|Una muda de piel desechada\r\npor un demonio místico.\r\nSirve para mejorar tu equipo.
+A husk from a mystic fiend.\r\nA customization component.|----|Uma muda de pele deixada por um demônio místico.\r\nServe para melhorar seu equipamento.|----|Una muda de piel desechada\r\npor un demonio místico.\r\nSirve para mejorar tu equipo.
 
 A husk from a land insecta.\r\nA customization component.|----|Uma muda de pele deixada por um inseto\r\nterrestre. Serve para melhorar seu\r\nequipamento.|----|Una muda de piel desechada\r\npor un insecto terrestre.\r\nSirve para mejorar tu equipo.
 
-A husk from a war dragon.\r\nA customization component.|----|Um pedaço de couro de dragão de guerra.\r\nServe para melhorar seu equipamento.|----|Una muda de piel desechada\r\npor un dragón de guerra.\r\nSirve para mejorar tu equipo.
+A husk from a war dragon.\r\nA customization component.|----|Uma muda de pele deixada por um dragão de guerra.\r\nServe para melhorar seu equipamento.|----|Una muda de piel desechada\r\npor un dragón de guerra.\r\nSirve para mejorar tu equipo.
 
-A husk from a sky dragon.\r\nA customization component.|----|Um pedaço de couro de dragão do céu.\r\nServe para melhorar seu equipamento.|----|Una muda de piel desechada\r\npor un dragón del cielo.\r\nSirve para mejorar tu equipo.
+A husk from a sky dragon.\r\nA customization component.|----|Uma muda de pele deixada por um dragão do céu.\r\nServe para melhorar seu equipamento.|----|Una muda de piel desechada\r\npor un dragón del cielo.\r\nSirve para mejorar tu equipo.
 
 Fur from a mystic fiend.\r\nA customization component.|----|A pelagem de um demônio místico.\r\nServe para melhorar seu equipamento.|----|El pelaje de un demonio místico.\r\nSirve para mejorar tu equipo.
 
@@ -6966,17 +6966,17 @@ Rawhide from a darkfiend.\r\nA customization component.|----|Um pedaço de couro
 
 Rawhide from an archfiend.\r\nA customization component.|----|Um pedaço de couro de arquidemônio.\r\nServe para melhorar seu equipamento.|----|Un fragmento de cuero\r\nobtenido de un archidemonio.\r\nSirve para mejorar tu equipo.
 
-Thick fur from a mystic fiend.\r\nA customization component.|----|Um pedaço da pelagem grossa de demônio\r\nmístico. Serve para melhorar seu equipamento.|----|Un fragmento del espeso pelaje\r\nde un demonio místico.\r\nSirve para mejorar tu equipo.
+Thick fur from a mystic fiend.\r\nA customization component.|----|Um pedaço da espessa pelagem de um demônio\r\nmístico. Serve para melhorar seu equipamento.|----|Un fragmento del espeso pelaje\r\nde un demonio místico.\r\nSirve para mejorar tu equipo.
 
-Tanned hide from a beastman.\r\nA customization component.|----|Uma pele curtida de homem-fera.\r\nServe para melhorar seu equipamento.|----|Una piel curtida procedente\r\nde un hombre bestia.\r\nSirve para mejorar tu equipo.
+Tanned hide from a beastman.\r\nA customization component.|----|Uma pele curtida obtida de um homem-fera.\r\nServe para melhorar seu equipamento.|----|Una piel curtida procedente\r\nde un hombre bestia.\r\nSirve para mejorar tu equipo.
 
-Tanned hide from a mystic fiend.\r\nA customization component.|----|Uma pele curtida de demônio místico.\r\nServe para melhorar seu equipamento.|----|Una piel curtida procedente\r\nde un demonio místico.\r\nSirve para mejorar tu equipo.
+Tanned hide from a mystic fiend.\r\nA customization component.|----|Uma pele curtida obtida de um demônio místico.\r\nServe para melhorar seu equipamento.|----|Una piel curtida procedente\r\nde un demonio místico.\r\nSirve para mejorar tu equipo.
 
-Tanned hide from a land dragon.\r\nA customization component.|----|Uma pele curtida de dragão de terra.\r\nServe para melhorar seu equipamento.|----|Una piel curtida procedente\r\nde un dragón de tierra.\r\nSirve para mejorar tu equipo.
+Tanned hide from a land dragon.\r\nA customization component.|----|Uma pele curtida obtida de um dragão de terra.\r\nServe para melhorar seu equipamento.|----|Una piel curtida procedente\r\nde un dragón de tierra.\r\nSirve para mejorar tu equipo.
 
-Tanned hide from a war dragon.\r\nA customization component.|----|Uma pele curtida de dragão de guerra.\r\nServe para melhorar seu equipamento.|----|Una piel curtida procedente\r\nde un dragón de guerra.\r\nSirve para mejorar tu equipo.
+Tanned hide from a war dragon.\r\nA customization component.|----|Uma pele curtida obtida de um dragão de guerra.\r\nServe para melhorar seu equipamento.|----|Una piel curtida procedente\r\nde un dragón de guerra.\r\nSirve para mejorar tu equipo.
 
-Tanned hide from an archfiend.\r\nA customization component.|----|Uma pele curtida de arquidemônio.\r\nServe para melhorar seu equipamento.|----|Una piel curtida procedente\r\nde un archidemonio.\r\nSirve para mejorar tu equipo.
+Tanned hide from an archfiend.\r\nA customization component.|----|Uma pele curtida obtida de um arquidemônio.\r\nServe para melhorar seu equipamento.|----|Una piel curtida procedente\r\nde un archidemonio.\r\nSirve para mejorar tu equipo.
 
 A scale from a mystic fiend.\r\nA customization component.|----|Uma escama de demônio místico.\r\nServe para melhorar seu equipamento.|----|Una escama de demonio místico.\r\nSirve para mejorar tu equipo.
 
@@ -7090,9 +7090,9 @@ Fluid from a darkfiend.\r\nA customization component.|----|Um líquido extraído
 
 Fluid from an archfiend.\r\nA customization component.|----|Um líquido extraído de um arquidemônio.\r\nServe para melhorar seu equipamento.|----|Un líquido extraído\r\nde un archidemonio.\r\nSirve para mejorar tu equipo.
 
-A talon from a Jhana.\r\nA breed component.|----|Uma garra de jhana.\r\nUm componente singular.|----|Una garra de jhana.
+A talon from a Jhana.\r\nA breed component.|----|Uma garra de jhana.\r\nUm tipo de componente.|----|Una garra de jhana.
 
-Bone from a Jhana.\r\nA breed component.|----|Um osso de jhana.\r\nUm componente singular.|----|Un hueso de jhana.
+Bone from a Jhana.\r\nA breed component.|----|Um osso de jhana.\r\nUm tipo de componente.|----|Un hueso de jhana.
 
 Hide from a Jhana.\r\nA rare breed component.|----|A pele de um jhana.\r\nUm componente singular.|----|La piel de un jhana.\r\nUn componente singular.
 
@@ -7106,17 +7106,17 @@ A moldering sword that once belonged\r\nto a Jhana fighter.\r\nA rare component.
 
 A moldering spear that once belonged\r\nto a Jhana shaman.\r\nA rare component.|----|Uma lança em ruínas que um dia pertenceu\r\na um xamã jhana.\r\nUm componente singular.|----|Una lanza mohosa que antiguamente\r\nperteneció a un chamán jhana.\r\nUn componente singular.
 
-A moldering staff that once belonged\r\nto a Jhana magus.\r\nA rare component.|----|Um cajado em ruínas que um dia pertenceu\r\na um mago jhana.\r\nUm componente singular.|----|Un bastón mohoso que antiguamente\r\nperteneció a un místico jhana.\r\nUn componente singular.
+A moldering staff that once belonged\r\nto a Jhana magus.\r\nA rare component.|----|Um bastão em ruínas que um dia pertenceu\r\na um mago jhana.\r\nUm componente singular.|----|Un bastón mohoso que antiguamente\r\nperteneció a un místico jhana.\r\nUn componente singular.
 
-A moldering katana that once belonged\r\nto a Jhana archfighter.\r\nA rare component.|----|Uma katana em ruínas que um dia pertenceu\r\na um herói jhana.\r\nUm componente singular.|----|Una katana mohosa que antiguamente\r\nperteneció a un gran guerrero jhana.\r\nUn componente singular.
+A moldering katana that once belonged\r\nto a Jhana archfighter.\r\nA rare component.|----|Uma katana em ruínas que um dia pertenceu\r\na um grande guerreiro jhana.\r\nUm componente singular.|----|Una katana mohosa que antiguamente\r\nperteneció a un gran guerrero jhana.\r\nUn componente singular.
 
-A withered shield that once belonged\r\nto a Jhana archshaman.\r\nA rare component.|----|Um escudo gasto que um dia pertenceu\r\na um chefe xamã jhana.\r\nUm componente singular.|----|Un escudo gastado que antiguamente\r\nperteneció a un gran chamán jhana.\r\nUn componente singular.
+A withered shield that once belonged\r\nto a Jhana archshaman.\r\nA rare component.|----|Um escudo amassado que um dia pertenceu\r\na um grande xamã jhana.\r\nUm componente singular.|----|Un escudo gastado que antiguamente\r\nperteneció a un gran chamán jhana.\r\nUn componente singular.
 
 A moldering mace that once belonged\r\nto a Jhana archmagus.\r\nA rare component.|----|Uma maça em ruínas que um dia pertenceu\r\na um arquimago jhana.\r\nUm componente singular.|----|Una maza mohosa que antiguamente\r\nperteneció un archimístico jhana.\r\nUn componente singular.
 
-Hide from a homunculus.\r\nA breed component.|----|A pele de um homúnculo.\r\nUm componente singular.|----|La piel de un homúnculo.
+Hide from a homunculus.\r\nA breed component.|----|A pele de um homúnculo.\r\nUm tipo de componente.|----|La piel de un homúnculo.
 
-A talon from a homunculus.\r\nA breed component.|----|Uma garra de homúnculo.\r\nUm componente singular.|----|Una garra de homúnculo.
+A talon from a homunculus.\r\nA breed component.|----|Uma garra de homúnculo.\r\nUm tipo de componente.|----|Una garra de homúnculo.
 
 A horn from a homunculus.\r\nA rare breed component.|----|Um chifre de homúnculo.\r\nUm componente singular.|----|Un cuerno de homúnculo.\r\nUn componente singular.
 
@@ -7132,9 +7132,9 @@ Soft hide from a homunculus.\r\nA special breed component.|----|Uma pele macia d
 
 (REPETIDO)A fragment from a manmade Remnant.\r\nA rare component.|----|Um fragmento de um Remanescente de origem\r\nartificial. Um componente singular.|----|Un fragmento de una reliquia de origen\r\nartificial. Un componente singular.
 
-A scale from a raptor.\r\nA breed component.|----|Uma escama de carniceiro.\r\nUm componente singular.|----|Una escama de carroñero.
+A scale from a raptor.\r\nA breed component.|----|Uma escama de carniceiro.\r\nUm tipo de componente.|----|Una escama de carroñero.
 
-A horn from a raptor.\r\nA breed component.|----|Um chifre de carniceiro.\r\nUm componente singular.|----|Un cuerno de carroñero.
+A horn from a raptor.\r\nA breed component.|----|Um chifre de carniceiro.\r\nUm tipo de componente.|----|Un cuerno de carroñero.
 
 A carapace from a raptor.\r\nA rare breed component.|----|A carapaça de um carniceiro.\r\nUm componente singular.|----|El caparazón de un carroñero.\r\nUn componente singular.
 
@@ -7150,11 +7150,11 @@ Bulky hide from a wild raptor.\r\nA rare component.|----|Uma pele espessa de car
 
 A coiled horn from a bullfighter.\r\nA rare component.|----|Um chifre enrolado de matador.\r\nUm componente singular.|----|Un cuerno enroscado\r\nprocedente de un matador.\r\nUn componente singular.
 
-A sharp fang from a king raptor.\r\nA rare component.|----|Uma presa afiada de carniceiro soberano.\r\nUm componente singular.|----|Un colmillo de carroñero rey\r\nparticularmente afilado.\r\nUn componente singular.
+A sharp fang from a king raptor.\r\nA rare component.|----|Uma presa de carniceiro soberano particularmente afiada.\r\nUm componente singular.|----|Un colmillo de carroñero rey\r\nparticularmente afilado.\r\nUn componente singular.
 
-A horn from a fenris.\r\nA breed component.|----|Um chifre de fenris.\r\nUm componente singular.|----|Un cuerno de fenris.
+A horn from a fenris.\r\nA breed component.|----|Um chifre de fenris.\r\nUm tipo de componente.|----|Un cuerno de fenris.
 
-A fang from a fenris.\r\nA breed component.|----|Uma presa de fenris.\r\nUm componente singular.|----|Un colmillo de fenris.
+A fang from a fenris.\r\nA breed component.|----|Uma presa de fenris.\r\nUm tipo de componente.|----|Un colmillo de fenris.
 
 The mane from a fenris.\r\nA rare breed component.|----|A crina de um fenris.\r\nUm componente singular.|----|La cabellera de un fenris.\r\nUn componente singular.
 
@@ -7162,41 +7162,41 @@ Rawhide from a fenris.\r\nA rare breed component.|----|Um pedaço de couro de fe
 
 A pointed tail from a fenris.\r\nA special breed component.|----|A cauda pontiaguda de um fenris.\r\nUm componente muito especial.|----|La cola puntiaguda de un fenris.\r\nUn componente muy especial.
 
-An eye filled with evil from a fenris.\r\nA special breed component.|----|Um olho cheio de maldade de um fenris.\r\nUm componente muito especial.|----|Un ojo lleno de maldad\r\nprocedente de un fenris.\r\nUn componente muy especial.
+An eye filled with evil from a fenris.\r\nA special breed component.|----|Um olho cheio de maldade de fenris.\r\nUm componente muito especial.|----|Un ojo lleno de maldad\r\nprocedente de un fenris.\r\nUn componente muy especial.
 
-Purple rawhide from a divain.\r\nA rare component.|----|Um pedaço de couro de cor púrpura de divain.\r\nUm componente singular.|----|Un fragmento de cuero de divain\r\nde color púrpura. Un componente singular.
+Purple rawhide from a divain.\r\nA rare component.|----|Um pedaço de couro de divain de cor púrpura.\r\nUm componente singular.|----|Un fragmento de cuero de divain\r\nde color púrpura. Un componente singular.
 
-A sharp talon from a flauros.\r\nA rare component.|----|Uma garra afiada de flauros.\r\nUm componente singular.|----|Una garra de flauros particularmente afilada.\r\nUn componente singular.
+A sharp talon from a flauros.\r\nA rare component.|----|Uma garra de flauros particularmente afiada.\r\nUm componente singular.|----|Una garra de flauros particularmente afilada.\r\nUn componente singular.
 
 A bristly mane from a vánargand.\r\nA rare component.|----|A crina eriçada de um vanargand.\r\nUm componente singular.|----|La melena estropajosa de un vánargand.\r\nUn componente singular.
 
 A sharp fang from a greater flauros.\r\nA rare component.|----|Uma presa afiada de flauros gigante.\r\nUm componente singular.|----|Un colmillo muy afilado procedente\r\nde un flauros mayor. Un componente\r\nsingular.
 
-A husk from a chimera.\r\nA breed component.|----|Um pedaço de couro de uma quimera.\r\nUm componente singular.|----|Una muda de piel de una quimera.
+A husk from a chimera.\r\nA breed component.|----|Uma muda de pele de uma quimera.\r\nUm tipo de componente.|----|Una muda de piel de una quimera.
 
-A scale from a chimera.\r\nA breed component.|----|Uma escama de quimera.\r\nUm componente singular.|----|Una escama de quimera.
+A scale from a chimera.\r\nA breed component.|----|Uma escama de quimera.\r\nUm tipo de componente.|----|Una escama de quimera.
 
 A carapace from a chimera.\r\nA rare breed component.|----|A carapaça de uma quimera.\r\nUm componente singular.|----|El caparazón de una quimera.\r\nUn componente singular.
 
-A large scale from a chimera.\r\nA rare breed component.|----|Uma grande escama de quimera.\r\nUm componente singular.|----|Una gran escama obtenida de una quimera.\r\nUn componente singular.
+A large scale from a chimera.\r\nA rare breed component.|----|Uma grande escama obtida de um quimera.\r\nUm componente singular.|----|Una gran escama obtenida de una quimera.\r\nUn componente singular.
 
-An inverted scale from a chimera.\r\nA special breed component.|----|Uma escama invertida de quimera.\r\nUm componente muito especial.|----|Una escama invertida procedente\r\nde una quimera. Un componente\r\nmuy especial.
+An inverted scale from a chimera.\r\nA special breed component.|----|Uma escama invertida obtida de um quimera.\r\nUm componente muito especial.|----|Una escama invertida procedente\r\nde una quimera. Un componente\r\nmuy especial.
 
-A spiky tail from a chimera.\r\nA special breed component.|----|Uma ferrão de quimera.\r\nUm componente muito especial.|----|Un aguijón puntiagudo\r\nprocedente de una quimera.\r\nUn componente muy especial.
+A spiky tail from a chimera.\r\nA special breed component.|----|Um ferrão pontiagudo de quimera.\r\nUm componente muito especial.|----|Un aguijón puntiagudo\r\nprocedente de una quimera.\r\nUn componente muy especial.
 
-An enormous scale from a chimera.\r\nA rare component.|----|Uma enorme escama de quimera.\r\nUm componente singular.|----|Una enorme escama\r\nobtenida de una quimera.\r\nUn componente singular.
+An enormous scale from a chimera.\r\nA rare component.|----|Uma enorme escama obtida de uma quimera.\r\nUm componente singular.|----|Una enorme escama\r\nobtenida de una quimera.\r\nUn componente singular.
 
 A tough, hardened scale from a misericorde.\r\nA rare component.|----|Uma escama de impiedosa muito dura e\r\nresistente. Um componente singular.|----|Una escama de inmisericorde\r\nmuy dura y resistente.\r\nUn componente singular.
 
-A tail from a rockgrater.\r\nA rare component.|----|Uma cauda de rebentarocha.\r\nUm componente singular.|----|La cola de un revientarrocas.\r\nUn componente singular.
+A tail from a rockgrater.\r\nA rare component.|----|A cauda de um rebentarocha.\r\nUm componente singular.|----|La cola de un revientarrocas.\r\nUn componente singular.
 
 A bristly arm from a king chimera.\r\nA rare component.|----|Um braço cheio de espinhos de uma quimera\r\nsoberana. Um componente singular.|----|Un brazo lleno de espinas\r\nprocedente de una quimera rey.\r\nUn componente singular.
 
 A large tail from a grand rockgrater.\r\nA rare component.|----|Uma grande cauda de rebentarocha gigante.\r\nUm componente singular.|----|Una enorme cola obtenida\r\nde un revientamontes.\r\nUn componente singular.
 
-A scale from a hydra.\r\nA breed component.|----|Uma escama de hidra.\r\nUm componente singular.|----|Una escama de hidra.
+A scale from a hydra.\r\nA breed component.|----|Uma escama de hidra.\r\nUm tipo de componente.|----|Una escama de hidra.
 
-A leg from a hydra.\r\nA breed component.|----|Uma perna de hidra.\r\nUm componente singular.|----|Una pata de hidra.
+A leg from a hydra.\r\nA breed component.|----|Uma perna de hidra.\r\nUm tipo de componente.|----|Una pata de hidra.
 
 A neck from a hydra.\r\nA rare breed component.|----|Um pescoço de hidra.\r\nUm componente singular.|----|El cuello de una hidra.\r\nUn componente singular.
 
@@ -7206,19 +7206,19 @@ A fin from a hydra.\r\nA special breed component.|----|Uma barbatana de hidra.\r
 
 A beak from a hydra.\r\nA special breed component.|----|Um bico de hidra.\r\nUm componente muito especial.|----|El mortífero pico de una hidra.\r\nUn componente muy especial.
 
-An empty shell from a hydra.\r\nA rare component.|----|Uma concha vazia de hidra.\r\nUm componente singular.|----|La concha vacía de una hidra.\r\nUn componente singular.
+An empty shell from a hydra.\r\nA rare component.|----|A concha vazia de uma hidra.\r\nUm componente singular.|----|La concha vacía de una hidra.\r\nUn componente singular.
 
 An irregular scale from a torpedo.\r\nA rare component.|----|Uma escama irregular de torpedo.\r\nUm componente singular.|----|Una escama irregular obtenida\r\nde un proyectil.\r\nUn componente singular.
 
-A fin from a bune.\r\nA rare component.|----|Uma barbatana de bune.\r\nUm componente singular.|----|La aleta de un bune.\r\nUn componente singular.
+A fin from a bune.\r\nA rare component.|----|A barbatana de um bune.\r\nUm componente singular.|----|La aleta de un bune.\r\nUn componente singular.
 
-A talon from an imp.\r\nA breed component.|----|Uma garra de diabrete.\r\nUm componente singular.|----|Una garra de diablillo.
+A talon from an imp.\r\nA breed component.|----|Uma garra de diabrete.\r\nUm tipo de componente.|----|Una garra de diablillo.
 
-A fang from an imp.\r\nA breed component.|----|Uma presa de diabrete.\r\nUm componente singular.|----|Un colmillo de diablillo.
+A fang from an imp.\r\nA breed component.|----|Uma presa de diabrete.\r\nUm tipo de componente.|----|Un colmillo de diablillo.
 
 Fur from an imp.\r\nA rare breed component.|----|Parte da pelagem de um diabrete.\r\nUm componente singular.|----|Parte del pelaje de un diablillo.\r\nUn componente singular.
 
-A tail from an imp.\r\nA rare breed component.|----|Uma cauda de diabrete.\r\nUm componente singular.|----|La cola de un diablillo.\r\nUn componente singular.
+A tail from an imp.\r\nA rare breed component.|----|A cauda de um diabrete.\r\nUm componente singular.|----|La cola de un diablillo.\r\nUn componente singular.
 
 Whiskers from an imp.\r\nA special breed component.|----|Os fios do bigode de um diabrete.\r\nUm componente muito especial.|----|Los bigotes de un diablillo.\r\nUn componente muy especial.
 
@@ -7232,9 +7232,9 @@ A large talon from a donda.\r\nA rare component.|----|A gigantesca garra de um d
 
 A large talon from a dondada.\r\nA rare component.|----|A enorme garra de um dondada.\r\nUm componente singular.|----|La enorme garra de un drondade.\r\nUn componente singular.
 
-A scale from a vile lizard.\r\nA breed component.|----|Uma escama de lagarto desprezível.\r\nUm componente singular.|----|Una escama de saurio vil.
+A scale from a vile lizard.\r\nA breed component.|----|Uma escama de lagarto desprezível.\r\nUm tipo de componente.|----|Una escama de saurio vil.
 
-A talon from a vile lizard.\r\nA breed component.|----|Uma garra de lagarto desprezível.\r\nUm componente singular.|----|Una garra de saurio vil.
+A talon from a vile lizard.\r\nA breed component.|----|Uma garra de lagarto desprezível.\r\nUm tipo de componente.|----|Una garra de saurio vil.
 
 A tail from a vile lizard.\r\nA rare breed component.|----|A cauda de um lagarto desprezível.\r\nUm componente singular.|----|La cola de un saurio vil.\r\nUn componente singular.
 
@@ -7250,9 +7250,9 @@ Soft hide from a basilisk.\r\nA rare component.|----|A pele delicada de um basil
 
 A femur from a Nidhogg.\r\nA rare component.|----|Um fêmur de nidhogg.\r\nUm componente singular.|----|Un hueso procedente\r\nde la pata de un nidhogg.\r\nUn componente singular.
 
-A scale from an azhdaha.\r\nA breed component.|----|Uma escama de azhdaha.\r\nUm componente singular.|----|Una escama de azhdaha.
+A scale from an azhdaha.\r\nA breed component.|----|Uma escama de azhdaha.\r\nUm tipo de componente.|----|Una escama de azhdaha.
 
-A fang from an azhdaha.\r\nA breed component.|----|Uma presa de azhdaha.\r\nUm componente singular.|----|Un colmillo de azhdaha.
+A fang from an azhdaha.\r\nA breed component.|----|Uma presa de azhdaha.\r\nUm tipo de componente.|----|Un colmillo de azhdaha.
 
 Tanned hide from an azhdaha.\r\nA rare breed component.|----|A pele curtida de um azhdaha.\r\nUm componente singular.|----|La piel curtida de un azhdaha.\r\nUn componente singular.
 
@@ -7270,9 +7270,9 @@ A large talon from a weredragon.\r\nA rare component.|----|Uma grande garra de d
 
 Scaly hide from a great azhdaha.\r\nA rare component.|----|Um pedaço da pele escamosa de um azhdaha\r\ngigante. Um componente singular.|----|Un trozo de piel escamosa\r\nobtenida de un azhdaha mayor.\r\nUn componente singular.
 
-A scale from a demon.\r\nA breed component.|----|Uma escama de demônio.\r\nUm componente singular.|----|Una escama de diablo.
+A scale from a demon.\r\nA breed component.|----|Uma escama de demônio.\r\nUm tipo de componente.|----|Una escama de diablo.
 
-A fang from a demon.\r\nA breed component.|----|Uma presa de demônio.\r\nUm componente singular.|----|Un colmillo de diablo.
+A fang from a demon.\r\nA breed component.|----|Uma presa de demônio.\r\nUm tipo de componente.|----|Un colmillo de diablo.
 
 Tanned hide from a demon.\r\nA rare breed component.|----|A pele curtida de um demônio.\r\nUm componente singular.|----|La piel curtida de un diablo.\r\nUn componente singular.
 
@@ -7284,13 +7284,13 @@ A mane from a demon.\r\nA special breed component.|----|A cabeleira de um demôn
 
 A thick mane from a demon.\r\nA rare component.|----|Uma cabeleira espessa de demônio.\r\nUm componente singular.|----|Una tupida cabellera de diablo.\r\nUn componente singular.
 
-An eye from a demon king.\r\nA rare component.|----|Um olho de demônio rei.\r\nUm componente singular.|----|El ojo de un rey diablo.\r\nUn componente singular.
+An eye from a demon king.\r\nA rare component.|----|O olho de um demônio rei.\r\nUm componente singular.|----|El ojo de un rey diablo.\r\nUn componente singular.
 
-A tail from a greater demon.\r\nA rare component.|----|Uma cauda de demônio gigante.\r\nUm componente singular.|----|La cola de un diablo mayor.\r\nUn componente singular.
+A tail from a greater demon.\r\nA rare component.|----|A cauda de um demônio gigante.\r\nUm componente singular.|----|La cola de un diablo mayor.\r\nUn componente singular.
 
-A husk from a manticore.\r\nA breed component.|----|Um pedaço de couro de mantícora.\r\nUm componente singular.|----|Una piel reseca desechada\r\npor una mantícora.
+A husk from a manticore.\r\nA breed component.|----|Um pedaço de couro de mantícora.\r\nUm tipo de componente.|----|Una piel reseca desechada\r\npor una mantícora.
 
-A talon from a manticore.\r\nA breed component.|----|Uma garra de mantícora.\r\nUm componente singular.|----|Una garra de mantícora.
+A talon from a manticore.\r\nA breed component.|----|Uma garra de mantícora.\r\nUm tipo de componente.|----|Una garra de mantícora.
 
 A carapace from a manticore.\r\nA rare breed component.|----|A carapaça de uma mantícora.\r\nUm componente singular.|----|El caparazón de una mantícora.\r\nUn componente singular.
 
@@ -7298,7 +7298,7 @@ The head of a manticore.\r\nA rare breed component.|----|A cabeça de uma mantí
 
 A thin mane from a manticore.\r\nA special breed component.|----|A cabeleira fina de uma mantícora.\r\nUm componente muito especial.|----|La fina melena de una mantícora.\r\nUn componente muy especial.
 
-A sharp leg from a manticore.\r\nA special breed component.|----|A garra posterior de uma mantícora.\r\nUm componente muito especial.|----|La afiladísima garra posterior\r\nde una mantícora. Un componente\r\nmuy especial.
+A sharp leg from a manticore.\r\nA special breed component.|----|A garra afiada de uma mantícora.\r\nUm componente muito especial.|----|La afiladísima garra posterior\r\nde una mantícora. Un componente\r\nmuy especial.
 
 A tough husk from a manticore.\r\nA rare component.|----|Um pedaço de couro de mantícora.\r\nUm componente singular.|----|Una piel reseca pero resistente\r\ndesechada por una mantícora.\r\nUn componente singular.
 
@@ -7306,9 +7306,9 @@ A poisonous needle from a nussknacker.\r\nA rare component.|----|O ferrão venen
 
 A poisonous talon from a deathclaw.\r\nA rare component.|----|A garra envenenada de um garramortal.\r\nUm componente singular.|----|La garra envenenada de un garramortal.\r\nUn componente singular.
 
-A husk from a crab.\r\nA breed component.|----|A exoesqueleto de um caranguejo.\r\nUm componente singular.|----|El exoesqueleto de un centollo.
+A husk from a crab.\r\nA breed component.|----|O exoesqueleto de um caranguejo.\r\nUm tipo de componente.|----|El exoesqueleto de un centollo.
 
-A talon from a crab.\r\nA breed component.|----|Uma garra de caranguejo.\r\nUm componente singular.|----|Una pinza de centollo.
+A talon from a crab.\r\nA breed component.|----|Uma garra de caranguejo.\r\nUm tipo de componente.|----|Una pinza de centollo.
 
 A carapace from a crab.\r\nA rare breed component.|----|A carapaça de um caranguejo.\r\nUm componente singular.|----|El caparazón de un centollo.\r\nUn componente singular.
 
@@ -7328,9 +7328,9 @@ A sharp claw from a giant crab.\r\nA rare component.|----|Uma garra afiada de ca
 
 A sharp claw from a giant armorshell.\r\nA rare component.|----|Uma garra afiada de concha blindada gigante.\r\nUm componente singular.|----|Una afilada garra procedente\r\nde un caparacero gigante.\r\nUn componente singular.
 
-A husk from a grand spider.\r\nA breed component.|----|O exoesqueleto de uma aranha gigante.\r\nUm componente singular.|----|El exoesqueleto de una gran tarántula.
+A husk from a grand spider.\r\nA breed component.|----|O exoesqueleto de uma aranha gigante.\r\nUm tipo de componente.|----|El exoesqueleto de una gran tarántula.
 
-A horn from a grand spider.\r\nA breed component.|----|Um chifre de aranha gigante.\r\nUm componente singular.|----|Un cuerno de una gran tarántula.
+A horn from a grand spider.\r\nA breed component.|----|Um chifre de aranha gigante.\r\nUm tipo de componente.|----|Un cuerno de una gran tarántula.
 
 A carapace from a grand spider.\r\nA rare breed component.|----|A carapaça de uma aranha gigante.\r\nUm componente singular.|----|El caparazón quitinoso\r\nde una gran tarántula.\r\nUn componente singular.
 
@@ -7348,9 +7348,9 @@ Sticky silk from an arachnid.\r\nA rare component.|----|A teia pegajosa de um ar
 
 A large talon from a giant spider.\r\nA rare component.|----|Uma garra de aranha gigante.\r\nUm componente singular.|----|Una garra de tarántula reina.\r\nUn componente singular.
 
-A husk from a landworm.\r\nA breed component.|----|Uma muda de pele de verme da terra.\r\nUm componente singular.|----|Una muda de piel desechada por un multípodo.
+A husk from a landworm.\r\nA breed component.|----|Uma muda de pele de verme da terra.\r\nUm tipo de componente.|----|Una muda de piel desechada por un multípodo.
 
-A talon from a landworm.\r\nA breed component.|----|Uma garra de verme da terra.\r\nUm componente singular.|----|Una garra de multípodo.
+A talon from a landworm.\r\nA breed component.|----|Uma garra de verme da terra.\r\nUm tipo de componente.|----|Una garra de multípodo.
 
 A carapace from a landworm.\r\nA rare breed component.|----|A carapaça de um verme da terra.\r\nUm componente singular.|----|El caparazón de un multípodo.\r\nUn componente singular.
 
@@ -7368,9 +7368,9 @@ A tough husk form a killer insect.\r\nA rare component.|----|Um exoesqueleto ref
 
 Deadly bacteria from an SS pest.\r\nA rare component.|----|Uma bactéria assassina produzida por um\r\nminipraga. Um componente singular.|----|Un bacilo asesino producido\r\npor un minipestis.\r\nUn componente singular.
 
-A husk from a grand beetle.\r\nA breed component.|----|O exoesqueleto de um besouro gigante.\r\nUm componente singular.|----|El exoesqueleto de una mantis prócer.
+A husk from a grand beetle.\r\nA breed component.|----|O exoesqueleto de um besouro gigante.\r\nUm tipo de componente.|----|El exoesqueleto de una mantis prócer.
 
-A talon from a grand beetle.\r\nA breed component.|----|Uma garra de besouro gigante.\r\nUm componente singular.|----|Una garra de mantis prócer.
+A talon from a grand beetle.\r\nA breed component.|----|Uma garra de besouro gigante.\r\nUm tipo de componente.|----|Una garra de mantis prócer.
 
 A barb from a grand beetle.\r\nA rare breed component.|----|Um ferrão de besouro gigante.\r\nUm componente singular.|----|Una púa de mantis prócer.\r\nUn componente singular.
 
@@ -7386,9 +7386,9 @@ Fluid from a millilegs.\r\nA rare component.|----|Uma substância extraída de u
 
 An inverted barb from a terrapest.\r\nA rare component.|----|Um ferrão invertido de terrapraga.\r\nUm componente singular.|----|Una púa invertida de terrapestis.\r\nUn componente singular.
 
-A talon from a leap frog.\r\nA breed component.|----|Uma garra de sapo saltitante.\r\nUm componente singular.|----|Una garra de batracio.
+A talon from a leap frog.\r\nA breed component.|----|Uma garra de sapo saltitante.\r\nUm tipo de componente.|----|Una garra de batracio.
 
-Rawhide from a leap frog.\r\nA breed component.|----|Um pedaço de couro de sapo saltitante.\r\nUm componente singular.|----|Un fragmento de cuero\r\nprocedente de un batracio.
+Rawhide from a leap frog.\r\nA breed component.|----|Um pedaço de couro de sapo saltitante.\r\nUm tipo de componente.|----|Un fragmento de cuero\r\nprocedente de un batracio.
 
 Fluid from a leap frog.\r\nA rare breed component.|----|Um líquido extraído de um sapo saltitante.\r\nUm componente singular.|----|Un líquido extraído de un batracio.\r\nUn componente singular.
 
@@ -7406,7 +7406,7 @@ An egg from an abaddon.\r\nA rare component.|----|Um ovo de abaddon.\r\nUm compo
 
 Rawhide from an oarfish.\r\nA breed component.|----|Um pedaço de couro de avispoidea.\r\nUm componente singular.|----|Un pequeño fragmento de cuero\r\nprocedente de una avispoidea.
 
-Oil from an oarfish.\r\nA breed component.|----|Um líquido oleoso extraído de uma avispoidea.\r\nUm componente singular.|----|Un líquido aceitoso extraído de una avispoidea.
+Oil from an oarfish.\r\nA breed component.|----|Um líquido oleoso extraído de uma avispoidea.\r\nUm tipo de componente.|----|Un líquido aceitoso extraído de una avispoidea.
 
 A tentacle from an oarfish.\r\nA rare breed component.|----|Um tentáculo de avispoidea.\r\nUm componente singular.|----|Un tentáculo procedente de una avispoidea.\r\nUn componente singular.
 
@@ -7422,9 +7422,9 @@ A scale from the back of a wailing larva.\r\nA rare component.|----|Uma escama d
 
 A thin wing from an apsaras.\r\nA rare component.|----|A asa fina e delicada de uma apsaras.\r\nUm componente singular.|----|El ala fina y delicada de una apsara.\r\nUn componente singular.
 
-A wing from a butterfly.\r\nA breed component.|----|Uma asa de mariposa.\r\nUm componente singular.|----|Un ala de mariposa.
+A wing from a butterfly.\r\nA breed component.|----|Uma asa de mariposa.\r\nUm tipo de componente.|----|Un ala de mariposa.
 
-Rawhide from a butterfly.\r\nA breed component.|----|Um pedaço de couro de mariposa.\r\nUm componente singular.|----|Un fragmento de cuero\r\nprocedente de una mariposa.
+Rawhide from a butterfly.\r\nA breed component.|----|Um pedaço de couro de mariposa.\r\nUm tipo de componente.|----|Un fragmento de cuero\r\nprocedente de una mariposa.
 
 Sparkling dust from a butterfly.\r\nA rare breed component.|----|Um montinho de pó brilhante de mariposa.\r\nUm componente singular.|----|Un montoncito de polvo brillante\r\nprocedente de una mariposa.\r\nUn componente singular.
 
@@ -7446,9 +7446,9 @@ A thin wing from a greater nymphalidae.\r\nA rare component.|----|A asa fina e d
 
 The scalp from a greater echidnamoth.\r\nA rare component.|----|A cabeleira de uma mariposa de espinhos\r\ngigante. Um componente singular.|----|La melena de un polillaespín mayor.\r\nUn componente singular.
 
-Rawhide from an amoeba.\r\nA breed component.|----|Um pedaço de couro de ameba.\r\nUm componente singular.|----|Un fragmento de cuero\r\nprocedente de una ameba.
+Rawhide from an amoeba.\r\nA breed component.|----|Um pedaço de couro de ameba.\r\nUm tipo de componente.|----|Un fragmento de cuero\r\nprocedente de una ameba.
 
-A fang from an amoeba.\r\nA breed component.|----|Uma presa de ameba.\r\nUm componente singular.|----|Un colmillo de ameba.
+A fang from an amoeba.\r\nA breed component.|----|Uma presa de ameba.\r\nUm tipo de componente.|----|Un colmillo de ameba.
 
 Eyes from an amoeba.\r\nA rare breed component.|----|Os olhos de uma ameba.\r\nUm componente singular.|----|Los ojos de una ameba.\r\nUn componente singular.
 
@@ -7466,9 +7466,9 @@ An eye filled with evil from a Charybdis.\r\nA rare component.|----|Um olho chei
 
 A large fang from a giant amoeba.\r\nA rare component.|----|Uma enorme presa de ameba gigante.\r\nUm componente singular.|----|Un enorme colmillo de una ameba reina.\r\nUn componente singular.
 
-A needle from a fly.\r\nA breed component.|----|O ferrão de uma mosca.\r\nUm componente singular.|----|El aguijón de un nematócero.
+A needle from a fly.\r\nA breed component.|----|O ferrão de uma mosca.\r\nUm tipo de componente.|----|El aguijón de un nematócero.
 
-A husk from a fly.\r\nA breed component.|----|O exoesqueleto de uma mosca.\r\nUm componente singular.|----|El exoesqueleto de un nematócero.
+A husk from a fly.\r\nA breed component.|----|O exoesqueleto de uma mosca.\r\nUm tipo de componente.|----|El exoesqueleto de un nematócero.
 
 A thin wing from a fly.\r\nA rare breed component.|----|A asa fina e delicada de uma mosca.\r\nUm componente singular.|----|El ala fina y delicada de un nematócero.\r\nUn componente singular.
 
@@ -7486,9 +7486,9 @@ A poisonous needle from an anthophilum.\r\nA rare component.|----|O ferrão vene
 
 The scalp from a giant shellfly.\r\nA rare component.|----|A cabeleira de um moscascudo gigante.\r\nUm componente singular.|----|La cabellera de una vespoidea reina.\r\nUn componente singular.
 
-Fur from a vulture.\r\nA breed component.|----|A penugem de um abutre.\r\nUm componente singular.|----|El pelaje de un buitre.
+Fur from a vulture.\r\nA breed component.|----|A penugem de um abutre.\r\nUm tipo de componente.|----|El pelaje de un buitre.
 
-Rawhide from a vulture.\r\nA breed component.|----|Um pedaço de couro de abutre.\r\nUm componente singular.|----|Un fragmento de cuero de un buitre.
+Rawhide from a vulture.\r\nA breed component.|----|Um pedaço de couro de abutre.\r\nUm tipo de componente.|----|Un fragmento de cuero de un buitre.
 
 A wing from a vulture.\r\nA rare breed component.|----|Uma asa de abutre.\r\nUm componente singular.|----|Un ala de buitre.\r\nUn componente singular.
 
@@ -7504,9 +7504,9 @@ Retral fur from a vulture.\r\nA rare component.|----|A penugem das costas de um 
 
 A sharp fang from a hraesvelg.\r\nA rare component.|----|Uma presa afiada de hraesvelg.\r\nUm componente singular.|----|Un afiladísimo colmillo de hraesvelg.\r\nUn componente singular.
 
-A scale from a wyvern.\r\nA breed component.|----|Uma escama de wyvern.\r\nUm componente singular.|----|Una escama de wyvern.
+A scale from a wyvern.\r\nA breed component.|----|Uma escama de wyvern.\r\nUm tipo de componente.|----|Una escama de wyvern.
 
-A talon from a wyvern.\r\nA breed component.|----|Uma garra de wyvern.\r\nUm componente singular.|----|Una garra de wyvern.
+A talon from a wyvern.\r\nA breed component.|----|Uma garra de wyvern.\r\nUm tipo de componente.|----|Una garra de wyvern.
 
 A wing from a wyvern.\r\nA rare breed component.|----|Uma asa de wyvern.\r\nUm componente singular.|----|Un ala de wyvern.\r\nUn componente singular.
 
@@ -7522,9 +7522,9 @@ A soft, delicate wing from an aeronite.\r\nA rare component.|----|A asa macia e 
 
 The skull from a diatryma.\r\nA rare component.|----|O crânio de um diatrima.\r\nUm componente singular.|----|El cráneo de una diatrima.\r\nUn componente singular.
 
-A scale from a spiritlord.\r\nA breed component.|----|Uma escama de senhor espiritual.\r\nUm componente singular.|----|Una escama procedente\r\nde un archiespectro.
+A scale from a spiritlord.\r\nA breed component.|----|Uma escama de senhor espiritual.\r\nUm tipo de componente.|----|Una escama procedente\r\nde un archiespectro.
 
-Fur from a spiritlord.\r\nA breed component.|----|A penugem de um senhor espiritual.\r\nUm componente singular.|----|El pelaje de un archiespectro.
+Fur from a spiritlord.\r\nA breed component.|----|A penugem de um senhor espiritual.\r\nUm tipo de componente.|----|El pelaje de un archiespectro.
 
 The beak from a spiritlord.\r\nA rare breed component.|----|O bico de um senhor espiritual.\r\nUm componente singular.|----|El pico de un archiespectro.\r\nUn componente singular.
 
@@ -7540,9 +7540,9 @@ A concealed horn from a spiritlord.\r\nA rare component.|----|O chifre retrátil
 
 The larynx of a glasya labolas.\r\nA rare component.|----|A laringe de um glasya labolas.\r\nUm componente singular.|----|La laringe de un glasya labolas.\r\nUn componente singular.
 
-A fragment from an anthrovore.\r\nA breed component.|----|Um fragmento de antropófago.\r\nUm componente singular.|----|Un fragmento de antropófago.
+A fragment from an anthrovore.\r\nA breed component.|----|Um fragmento de antropófago.\r\nUm tipo de componente.|----|Un fragmento de antropófago.
 
-A branch from an anthrovore.\r\nA breed component.|----|Um ramo de antropófago.\r\nUm componente singular.|----|Una rama de antropófago.
+A branch from an anthrovore.\r\nA breed component.|----|Um ramo de antropófago.\r\nUm tipo de componente.|----|Una rama de antropófago.
 
 Moss from an anthrovore.\r\nA rare breed component.|----|Um punhado de musgo arrancado do tronco de um\r\nantropófago. Um componente singular.|----|Un puñado de musgo arrancado\r\ndel tronco de un antropófago.\r\nUn componente singular.
 
@@ -7558,13 +7558,13 @@ The bulb from an anthrovore.\r\nA rare component.|----|Um bulbo de antropófago.
 
 A medicinal seedling from a mandragora.\r\nA rare component.|----|Uma muda de mandrágora com propriedades\r\nmedicinais. Um componente singular.|----|Un brote de mandrágora con propiedades\r\nmedicinales. Un componente singular.
 
-A fragment from a treant.\r\nA breed component.|----|Um fragmento de ent.\r\nUm componente singular.|----|Un fragmento de un ent.
+A fragment from a treant.\r\nA breed component.|----|Um fragmento de ent.\r\nUm tipo de componente.|----|Un fragmento de un ent.
 
-A branch from a treant.\r\nA breed component.|----|Um ramo de ent.\r\nUm componente singular.|----|Una rama de ent.
+A branch from a treant.\r\nA breed component.|----|Um ramo de ent.\r\nUm tipo de componente.|----|Una rama de ent.
 
 Moss from a treant.\r\nA rare breed component.|----|Um pouco de musgo arrancado de um ent.\r\nUm componente singular.|----|Un poco de musgo arrancado de un ent.\r\nUn componente singular.
 
-A leg from a treant.\r\nA rare breed component.|----|Uma perna de ent.\r\nUm componente singular.|----|Una pierna de ent.\r\nUn componente singular.
+A leg from a treant.\r\nA rare breed component.|----|Uma perna de ent.\r\nUm tipo de componente.|----|Una pierna de ent.\r\nUn componente singular.
 
 A thick branch from a treant.\r\nA special breed component.|----|Um ramo grosso de ent.\r\nUm componente muito especial.|----|Una gruesa rama de ent.\r\nUn componente muy especial.
 
@@ -7578,7 +7578,7 @@ Timber from a spiritwood.\r\nA rare component.|----|Um pouco de madeira de plant
 
 Timber from a godwood.\r\nA rare component.|----|Um pouco de madeira de planta celestial.\r\nUm componente singular.|----|Un poco de madera de leño celeste.\r\nUn componente singular.
 
-A bristle from an oculus.\r\nA breed component.|----|Uma espinha de oculus.\r\nUm componente singular.|----|Una espina de oculus.
+A bristle from an oculus.\r\nA breed component.|----|Uma espinha de oculus.\r\nUm tipo de componente.|----|Una espina de oculus.
 
 Optical tissue from an oculus.\r\nA rare breed component.|----|O tecido dos nervos óticos de um oculus.\r\nUm componente singular.|----|El tejido de los nervios ópticos del oculus.\r\nUn componente singular.
 
@@ -7592,9 +7592,9 @@ A cornea from a manhunter.\r\nA rare component.|----|A córnea de um caçahomens
 
 A cornea from a death.\r\nA rare component.|----|A córnea de um ceifador de almas.\r\nUm componente singular.|----|La córnea de un segador de almas.\r\nUn componente singular.
 
-A scale from a dragon.\r\nA breed component.|----|Uma escama de dragão.\r\nUm componente singular.|----|Una escama de dragón.
+A scale from a dragon.\r\nA breed component.|----|Uma escama de dragão.\r\nUm tipo de componente.|----|Una escama de dragón.
 
-A talon from a dragon.\r\nA breed component.|----|Uma garra de dragão.\r\nUm componente singular.|----|Una garra de dragón.
+A talon from a dragon.\r\nA breed component.|----|Uma garra de dragão.\r\nUm tipo de componente.|----|Una garra de dragón.
 
 A large bone from a dragon.\r\nA rare breed component.|----|Um grande osso de dragão.\r\nUm componente singular.|----|Un gran hueso de dragón.\r\nUn componente singular.
 
@@ -7616,9 +7616,9 @@ The sternum from a noble abelisk.\r\nA rare component.|----|O esterno de um obel
 
 A divine wing from a glorious brynhildr.\r\nA rare component.|----|A asa divina de um brunhild glorioso.\r\nUm componente singular.|----|La brillante ala de una brunhild gloriosa.\r\nUn componente singular.
 
-Bone from a colossus.\r\nA breed component.|----|Um osso de colosso.\r\nUm componente singular.|----|Un hueso de coloso.
+Bone from a colossus.\r\nA breed component.|----|Um osso de colosso.\r\nUm tipo de componente.|----|Un hueso de coloso.
 
-Rawhide from a colossus.\r\nA breed component.|----|Um pedaço de couro de colosso.\r\nUm componente singular.|----|Un fragmento de cuero de un coloso.
+Rawhide from a colossus.\r\nA breed component.|----|Um pedaço de couro de colosso.\r\nUm tipo de componente.|----|Un fragmento de cuero de un coloso.
 
 A retral shell from a colossus.\r\nA rare breed component.|----|A concha dorsal de colosso.\r\nUm componente singular.|----|La concha dorsal de un coloso.\r\nUn componente singular.
 
@@ -7634,7 +7634,7 @@ Rotting armor that once belonged\r\nto a barbarossa.\r\nA rare component.|----|U
 
 A battered helm that once belonged\r\nto an ancbolder.\r\nA rare component.|----|Um elmo amassado que pertenceu\r\na um ancbolder.\r\nUm componente singular.|----|Un yelmo abollado que perteneció\r\na un ancbolder. Un componente singular.
 
-Hide from an albic creature.\r\nA breed component.|----|A pele de uma criatura albina.\r\nUm componente singular.|----|La piel de una criatura albina.
+Hide from an albic creature.\r\nA breed component.|----|A pele de uma criatura albina.\r\nUm tipo de componente.|----|La piel de una criatura albina.
 
 Tanned hide from an albic creature.\r\nA rare breed component.|----|Um pele curtida de uma criatura albina.\r\nUm componente singular.|----|Una piel curtida de una criatura albina.\r\nUn componente singular.
 
@@ -7644,9 +7644,9 @@ A large ear from an albic creature.\r\nA very sturdy component.|----|Uma grande 
 
 Liver from an albic qsiti.\r\nA rare component.|----|O fígado de um qsiti albino.\r\nUm componente singular.|----|El hígado de un qsiti albino.\r\nUn componente singular.
 
-A talon from a phantom.\r\nA breed component.|----|Uma garra de espectro.\r\nUm componente singular.|----|Una garra de espectro.
+A talon from a phantom.\r\nA breed component.|----|Uma garra de espectro.\r\nUm tipo de componente.|----|Una garra de espectro.
 
-A wing from a phantom.\r\nA breed component.|----|Uma asa de espectro.\r\nUm componente singular.|----|Un ala de espectro.
+A wing from a phantom.\r\nA breed component.|----|Uma asa de espectro.\r\nUm tipo de componente.|----|Un ala de espectro.
 
 A tail from a phantom.\r\nA rare breed component.|----|Uma cauda de espectro.\r\nUm componente singular.|----|La cola de un espectro.\r\nUn componente singular.
 
@@ -28820,133 +28820,133 @@ Gem Recipe 7|----|Fórmula para Gema 7|----|Fórmula para gema n.º 7
 
 Gem Recipe 8|----|Fórmula para Gema 8|----|Fórmula para gema n.º 8
 
-Blueprint 1|----|Diagrama Esquemático 1|----|Plano n.º 1
+Blueprint 1|----|Diagrama 1|----|Plano n.º 1
 
-Blueprint 2|----|Diagrama Esquemático 2|----|Plano n.º 2
+Blueprint 2|----|Diagrama 2|----|Plano n.º 2
 
-Blueprint 3|----|Diagrama Esquemático 3|----|Plano n.º 3
+Blueprint 3|----|Diagrama 3|----|Plano n.º 3
 
-Blueprint 4|----|Diagrama Esquemático 4|----|Plano n.º 4
+Blueprint 4|----|Diagrama 4|----|Plano n.º 4
 
-Blueprint 5|----|Diagrama Esquemático 5|----|Plano n.º 5
+Blueprint 5|----|Diagrama 5|----|Plano n.º 5
 
-Blueprint 6|----|Diagrama Esquemático 6|----|Plano n.º 6
+Blueprint 6|----|Diagrama 6|----|Plano n.º 6
 
-Blueprint 7|----|Diagrama Esquemático 7|----|Plano n.º 7
+Blueprint 7|----|Diagrama 7|----|Plano n.º 7
 
-Blueprint 8|----|Diagrama Esquemático 8|----|Plano n.º 8
+Blueprint 8|----|Diagrama 8|----|Plano n.º 8
 
-Blueprint 9|----|Diagrama Esquemático 9|----|Plano n.º 9
+Blueprint 9|----|Diagrama 9|----|Plano n.º 9
 
-Blueprint 10|----|Diagrama Esquemático 10|----|Plano n.º 10
+Blueprint 10|----|Diagrama 10|----|Plano n.º 10
 
-Blueprint 11|----|Diagrama Esquemático 11|----|Plano n.º 11
+Blueprint 11|----|Diagrama 11|----|Plano n.º 11
 
-Blueprint 12|----|Diagrama Esquemático 12|----|Plano n.º 12
+Blueprint 12|----|Diagrama 12|----|Plano n.º 12
 
-Blueprint 13|----|Diagrama Esquemático 13|----|Plano n.º 13
+Blueprint 13|----|Diagrama 13|----|Plano n.º 13
 
-Blueprint 14|----|Diagrama Esquemático 14|----|Plano n.º 14
+Blueprint 14|----|Diagrama 14|----|Plano n.º 14
 
-Blueprint 15|----|Diagrama Esquemático 15|----|Plano n.º 15
+Blueprint 15|----|Diagrama 15|----|Plano n.º 15
 
-Blueprint 16|----|Diagrama Esquemático 16|----|Plano n.º 16
+Blueprint 16|----|Diagrama 16|----|Plano n.º 16
 
-Blueprint 17|----|Diagrama Esquemático 17|----|Plano n.º 17
+Blueprint 17|----|Diagrama 17|----|Plano n.º 17
 
-Blueprint 18|----|Diagrama Esquemático 18|----|Plano n.º 18
+Blueprint 18|----|Diagrama 18|----|Plano n.º 18
 
-Blueprint 19|----|Diagrama Esquemático 19|----|Plano n.º 19
+Blueprint 19|----|Diagrama 19|----|Plano n.º 19
 
-Blueprint 20|----|Diagrama Esquemático 20|----|Plano n.º 20
+Blueprint 20|----|Diagrama 20|----|Plano n.º 20
 
-Blueprint 21|----|Diagrama Esquemático 21|----|Plano n.º 21
+Blueprint 21|----|Diagrama 21|----|Plano n.º 21
 
-Blueprint 22|----|Diagrama Esquemático 22|----|Plano n.º 22
+Blueprint 22|----|Diagrama 22|----|Plano n.º 22
 
-Blueprint 23|----|Diagrama Esquemático 23|----|Plano n.º 23
+Blueprint 23|----|Diagrama 23|----|Plano n.º 23
 
-Blueprint 24|----|Diagrama Esquemático 24|----|Plano n.º 24
+Blueprint 24|----|Diagrama 24|----|Plano n.º 24
 
-Blueprint 25|----|Diagrama Esquemático 25|----|Plano n.º 25
+Blueprint 25|----|Diagrama 25|----|Plano n.º 25
 
-Blueprint 26|----|Diagrama Esquemático 26|----|Plano n.º 26
+Blueprint 26|----|Diagrama 26|----|Plano n.º 26
 
-Blueprint 27|----|Diagrama Esquemático 27|----|Plano n.º 27
+Blueprint 27|----|Diagrama 27|----|Plano n.º 27
 
-Blueprint 28|----|Diagrama Esquemático 28|----|Plano n.º 28
+Blueprint 28|----|Diagrama 28|----|Plano n.º 28
 
-Blueprint 29|----|Diagrama Esquemático 29|----|Plano n.º 29
+Blueprint 29|----|Diagrama 29|----|Plano n.º 29
 
-Blueprint 30|----|Diagrama Esquemático 30|----|Plano n.º 30
+Blueprint 30|----|Diagrama 30|----|Plano n.º 30
 
-Blueprint 31|----|Diagrama Esquemático 31|----|Plano n.º 31
+Blueprint 31|----|Diagrama 31|----|Plano n.º 31
 
-Blueprint 32|----|Diagrama Esquemático 32|----|Plano n.º 32
+Blueprint 32|----|Diagrama 32|----|Plano n.º 32
 
-Blueprint 33|----|Diagrama Esquemático 33|----|Plano n.º 33
+Blueprint 33|----|Diagrama 33|----|Plano n.º 33
 
-Blueprint 34|----|Diagrama Esquemático 34|----|Plano n.º 34
+Blueprint 34|----|Diagrama 34|----|Plano n.º 34
 
-Blueprint 35|----|Diagrama Esquemático 35|----|Plano n.º 35
+Blueprint 35|----|Diagrama 35|----|Plano n.º 35
 
-Blueprint 36|----|Diagrama Esquemático 36|----|Plano n.º 36
+Blueprint 36|----|Diagrama 36|----|Plano n.º 36
 
-Blueprint 37|----|Diagrama Esquemático 37|----|Plano n.º 37
+Blueprint 37|----|Diagrama 37|----|Plano n.º 37
 
-Blueprint 38|----|Diagrama Esquemático 38|----|Plano n.º 38
+Blueprint 38|----|Diagrama 38|----|Plano n.º 38
 
-Blueprint 39|----|Diagrama Esquemático 39|----|Plano n.º 39
+Blueprint 39|----|Diagrama 39|----|Plano n.º 39
 
-Blueprint 40|----|Diagrama Esquemático 40|----|Plano n.º 40
+Blueprint 40|----|Diagrama 40|----|Plano n.º 40
 
-Blueprint 41|----|Diagrama Esquemático 41|----|Plano n.º 41
+Blueprint 41|----|Diagrama 41|----|Plano n.º 41
 
-Blueprint 42|----|Diagrama Esquemático 42|----|Plano n.º 42
+Blueprint 42|----|Diagrama 42|----|Plano n.º 42
 
-Blueprint 43|----|Diagrama Esquemático 43|----|Plano n.º 43
+Blueprint 43|----|Diagrama 43|----|Plano n.º 43
 
-Blueprint 44|----|Diagrama Esquemático 44|----|Plano n.º 44
+Blueprint 44|----|Diagrama 44|----|Plano n.º 44
 
-Blueprint 45|----|Diagrama Esquemático 45|----|Plano n.º 45
+Blueprint 45|----|Diagrama 45|----|Plano n.º 45
 
-Blueprint 46|----|Diagrama Esquemático 46|----|Plano n.º 46
+Blueprint 46|----|Diagrama 46|----|Plano n.º 46
 
-Blueprint 47|----|Diagrama Esquemático 47|----|Plano n.º 47
+Blueprint 47|----|Diagrama 47|----|Plano n.º 47
 
-Blueprint 48|----|Diagrama Esquemático 48|----|Plano n.º 48
+Blueprint 48|----|Diagrama 48|----|Plano n.º 48
 
-Blueprint 49|----|Diagrama Esquemático 49|----|Plano n.º 49
+Blueprint 49|----|Diagrama 49|----|Plano n.º 49
 
-Blueprint 50|----|Diagrama Esquemático 50|----|Plano n.º 50
+Blueprint 50|----|Diagrama 50|----|Plano n.º 50
 
-Blueprint 51|----|Diagrama Esquemático 51|----|Plano n.º 51
+Blueprint 51|----|Diagrama 51|----|Plano n.º 51
 
-Blueprint 52|----|Diagrama Esquemático 52|----|Plano n.º 52
+Blueprint 52|----|Diagrama 52|----|Plano n.º 52
 
-Blueprint 53|----|Diagrama Esquemático 53|----|Plano n.º 53
+Blueprint 53|----|Diagrama 53|----|Plano n.º 53
 
-Blueprint 54|----|Diagrama Esquemático 54|----|Plano n.º 54
+Blueprint 54|----|Diagrama 54|----|Plano n.º 54
 
-Blueprint 55|----|Diagrama Esquemático 55|----|Plano n.º 55
+Blueprint 55|----|Diagrama 55|----|Plano n.º 55
 
-Blueprint 56|----|Diagrama Esquemático 56|----|Plano n.º 56
+Blueprint 56|----|Diagrama 56|----|Plano n.º 56
 
-Blueprint 57|----|Diagrama Esquemático 57|----|Plano n.º 57
+Blueprint 57|----|Diagrama 57|----|Plano n.º 57
 
-Blueprint 58|----|Diagrama Esquemático 58|----|Plano n.º 58
+Blueprint 58|----|Diagrama 58|----|Plano n.º 58
 
-Blueprint 59|----|Diagrama Esquemático 59|----|Plano n.º 59
+Blueprint 59|----|Diagrama 59|----|Plano n.º 59
 
-Blueprint 60|----|Diagrama Esquemático 60|----|Plano n.º 60
+Blueprint 60|----|Diagrama 60|----|Plano n.º 60
 
-Blueprint 61|----|Diagrama Esquemático 61|----|Plano n.º 61
+Blueprint 61|----|Diagrama 61|----|Plano n.º 61
 
-Blueprint 62|----|Diagrama Esquemático 62|----|Plano n.º 62
+Blueprint 62|----|Diagrama 62|----|Plano n.º 62
 
-Blueprint 63|----|Diagrama Esquemático 63|----|Plano n.º 63
+Blueprint 63|----|Diagrama 63|----|Plano n.º 63
 
-Blueprint 64|----|Diagrama Esquemático 64|----|Plano n.º 64
+Blueprint 64|----|Diagrama 64|----|Plano n.º 64
 
 Elven Core|----|Núcleo Élfico|----|Núcleo élfico
 
