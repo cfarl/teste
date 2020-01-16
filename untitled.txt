@@ -34,10 +34,27 @@ Boggart's Trapezoid -> Cristal de Gnomo (trocar para Cristal Gnômico)
 Siren's Square -> Quadrado da Sereia  (em espanhol princesa de sirena)
 Knocker's Ceylon -> Aldrava de Ceylon (em espanhol triángulo de ladrón)
 vile lizard -> um lugar apareceu só "lagarto", landworm só verme
+rebentarocha -> rebentarochas???
+Archfighter -> herói
+Archshaman -> chefe xamã
+Jota -> minota
+Swiftmane -> crinaveloz ???
+Sharpclaw -> garrafiada ???
+Bluejaws -> garrazul ???
+Amethyst Eater > comeametista????
+Crazer -> chalado em Espanol. Manter maluco???
+Demon King -> De demônio rei para rei demônio???
+Skipper -> De mosca comandante para mosca chefe???
+De lagarto desprezível para lagarto nefasto????
+De Yvalock para Ivalock???
+
+Na parte do PT, verificar tamanho das frases com ptalk_embed
 
 -----  Conferir tamanho das frases na guilda task
 
-parei na 7400
+parei na 11.007
+
+concentrar meu treinamento -> me especializar
 
 
 
@@ -77,6 +94,7 @@ Mr. Diggs - Sr. Garras
 Terrify Aura - Aura de Terror (em espanhol de Provocação)
 
 mr.diggs _--------------------
+Loop Chance - nova chance
 Corkscrew - Saca-rolhas
 Auger Drill - Broca
 Diamond Drill - Broca de Diamante
