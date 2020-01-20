@@ -1,5 +1,7 @@
 Union Board -< grupo (correto Painel do Grupo)??
-unit -≥ unidade
+unit -≥ personagem
+union -> unidade, grupo
+party -> bando (não usar equipe)
 power grip -> pegada dupla (antes estava ambas as mãos)
 Flash Strike -> Ataque Relâmpago (estava Ataque Lampejante)
 formação Slash -> está Golpe de Chicote. Sugestão: Açoite
@@ -47,12 +49,17 @@ Demon King -> De demônio rei para rei demônio???
 Skipper -> De mosca comandante para mosca chefe???
 De lagarto desprezível para lagarto nefasto????
 De Yvalock para Ivalock???
+Witch (arcamaga) -> feiticeira
+Gates of Hell -> Portal do Inferno
+Charged Idol (tótem radiante) -> De  Ídolo Carregado para Ídolo Radiante???
 
 Na parte do PT, verificar tamanho das frases com ptalk_embed
 
 -----  Conferir tamanho das frases na guilda task
+-----  Conferir tamanho das frases na shoopkeper
+------ Conferir número de \n no Battle Controls
 
-parei na 11.007
+parei na 13.451
 
 concentrar meu treinamento -> me especializar
 
@@ -83,7 +90,10 @@ polearms - armas de haste
 bludgeoning - danos por contusão
 piercing damage - danos por estocada
 parry rate - índice de defesa
-Critical Trigger - chance de ouro? ou ataques especiais?
+Trigger Chance (ocasión de oro) - chance de ouro, oportunidade de ouro???
+Critical Trigger (movimiento maestro) -  movimento crítico
+Critical Offense (ataque maestro) - ataque crítico
+Critical Defense (defensa maestra) - Defesa Crítica
 Botch - desorientado
 Acid Burn - Ácido?¿??
 harvesting point - pontos de coleta
@@ -117,6 +127,79 @@ Hyper Thruster - Hiper Propulsor
 Drill Storm - Tempestade Perfuradora
 Mega Drill Storm - Mega Tempestade Perfuradora
 Divine Drill Storm - Divina Tempestade Perfuradora
+
+----_---------_----------------------_-----_----------
+Quests
+
+The Dreaming Rose--->A rosa sonhadora
+When the Rose Blooms--->O despertar da rosa
+For Love the Bell Tolls--->Por amor tocam os sinos
+Goodbye, Sweet Love--->Adeus, doce amor
+Love Will Rise Again--->Amor sem fronteiras
+The Broken Seal--->A restauração da barreira
+The Disappearing Knights--->Em busca dos cavaleiros perdidos
+The Reviving Legend--->A lenda revivida
+The Cosmos Maiden--->A Donzela Cósmica
+Kosmosfest--->A Festa Cósmica
+Wisdom's Echo--->Ecos de sabedoria
+History's Boundary--->Ecos do passado
+The Desert's Legend--->O reino do deserto
+Seeker of the Ancient Path--->Em busca do conhecimento ancestral
+The Fallen--->O Condenado
+Amnesia--->Amnésia
+The Villain and the Sightless Girl--->Uma luz na escuridão
+Kate and Rhagoh--->Amor fraternal
+Mr. Diggs--->Mr. Diggs
+After a Day's Work...--->Depois de um dia de trabalho...
+Slumber of the Lost Fragment--->Meu tesouro
+A Voice from the Past--->Vozes do passado
+Blooming Flower, Singing Bird--->Herança de família
+The Losing Game--->Uma aposta arriscada
+The Wanderer--->O andarilho
+The Gates of Deceit and Sword of the Dead--->Segredos e cataclismos
+Bravery and Loyalty--->Valor e lealdade
+The Successor--->O sucessor
+The Standoff--->O torneio dos heróis
+The Rainbow Bond--->Unidos pelo Arco Iris
+The Fated One--->O duelo
+The Distant Promise--->Uma antiga promessa
+Hearts--->Sede de conhecimento
+The Tablet of Marshall--->A tabuleta de Marshall
+UFO!?--->Uma ave misteriosa
+At Hatred's End--->Os limites do ódio
+The Ancient War--->A guerra ancestral
+Into the Abyss--->No coração do abismo
+The Fiery Revolt--->Luzes e sombras
+Frustrations--->Disputas fraternais
+The War of a Thousand Years--->A guerra dos mil anos
+The Hero--->O herói da lenda
+The Silent Soul--->O deserto das almas perdidas
+The Assistant--->O assistente
+Infestation!--->A praga
+The Slave Traders--->Os comerciantes de escravos
+Emotions--->Valor sentimental
+The Trade Route--->A rota comercial
+Baulson--->Ao resgate
+A Single Soul--->Uma alma solitária
+Darien--->Redenção
+A Day's Beginning--->O começo de um novo dia
+Things Unchangeable--->Há coisas que nunca mudam
+Athlum's Witch--->A feiticeira de Athlum
+Celapaleis's Witch--->A feiticeira de Celapaleis-
+Elysion's Witch--->A feiticeira de Elysion
+Nagapur's Witch--->A feiticeira de Nagapur
+Ghor's Witch--->A feiticeira de Ghor
+Undelwalt's Witch--->A feiticeira de Undelwalt
+Balterossa's Witch--->A feiticeira de Balterossa
+Royotia's Witch--->A feiticeira de Royotia
+Melphina's Witch--->A feiticeira de Melphina
+Baaluk's Witch--->A feiticeira de Baaluk
+The Ladies of Bloody Alice--->As Damas Sangrentas
+The Silver Falcons: Part One--->Os Falcões Prateados: Primeira parte
+The Silver Falcons: Part Two--->Os Falcões Prateados: Segunda parte
+The Silver Falcons: Part Three--->Os Falcões Prateados: Terceira parte
+The Secret Letter--->A carta secreta
+
 
 ----_---------_----------------------_-----_----------
 Curso eletrônica
