@@ -1,4 +1,4 @@
-Union Board -< grupo (correto Painel do Grupo)??
+Union Board -< Unidades (correto Painel da Unidade)??
 unit -≥ personagem
 union -> unidade, grupo
 party -> bando (não usar equipe)
@@ -52,14 +52,18 @@ De Yvalock para Ivalock???
 Witch (arcamaga) -> feiticeira
 Gates of Hell -> Portal do Inferno
 Charged Idol (tótem radiante) -> De  Ídolo Carregado para Ídolo Radiante???
+customization shop -> oficina
+Devoramagias -> Devorafeitiços
+link (hordas) -> união???
 
 Na parte do PT, verificar tamanho das frases com ptalk_embed
 
 -----  Conferir tamanho das frases na guilda task
 -----  Conferir tamanho das frases na shoopkeper
------- Conferir número de \n no Battle Controls
+------ Conferir número de \n no Battle Controls e location tips
+ - Na substituição de * espaço (linha * \nBurned\n units have 0 defense) ele sempre pega o primeiro * espaço, e coloca O estado três vezes na primeira frase
 
-parei na 13.451
+parei na 13.661 ate 645
 
 concentrar meu treinamento -> me especializar
 
@@ -77,7 +81,7 @@ Wards - salvaguardas
 PVs - PV
 Lotions - loções (melhor unguentos???)
 wield style - estilo de combate
-Power grip - uma ou duas mãos???
+Power grip - uma ou duas mãos??? melhor pegada dupla???
 quad wield - Quatro Mãos
 dual power grip - Ambas as Mãos Sovani??? melhor pegada dupla???
 Deadlock - embate (melhor duelo???)
@@ -102,6 +106,7 @@ Felling Points - Pontos de Extração
 Underwater Diving Points - Pontos de Perfuração
 Mr. Diggs - Sr. Garras
 Terrify Aura - Aura de Terror (em espanhol de Provocação)
+Aura de Magia -.> Aura de Feitiço
 
 mr.diggs _--------------------
 Loop Chance - nova chance
@@ -127,6 +132,13 @@ Hyper Thruster - Hiper Propulsor
 Drill Storm - Tempestade Perfuradora
 Mega Drill Storm - Mega Tempestade Perfuradora
 Divine Drill Storm - Divina Tempestade Perfuradora
+
+Digging Points - Pontos de Extração
+Felling Points - Pontos de Corte
+Underwater Diving Points - Pontos de Perfuração
+Underground Diving Points - Pontos de Escavação
+
+
 
 ----_---------_----------------------_-----_----------
 Quests
