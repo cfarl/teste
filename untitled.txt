@@ -1,21 +1,15 @@
-Union Board -< Unidades (correto Painel da Unidade)??
+﻿Union Board -< Unidades (correto Painel da Unidade)??
 unit -≥ personagem
 union -> unidade, grupo
 party -> bando (não usar equipe)
-power grip -> pegada dupla (antes estava ambas as mãos)
 Flash Strike -> Ataque Relâmpago (estava Ataque Lampejante)
-formação Slash -> está Golpe de Chicote. Sugestão: Açoite
 wing -> ala
 tuck -> rapieira (estoque, em espanhol)
 staff -> bastão, cetro
 saber -> katana
- Spiritlord -> Senhores Espirituais ou arquiespectros??
- Torre Flaumello -> Torre de Flaumello
  Ninho de Yvalock -> Ninho de Ivalock????
  Rawhide -> pedaço de couro
  phials -> frascos
- Marauders -> saqueadores???
- Cherry Pavilion -> Pavilhão das Cerejeiras
  Wyrmskeep -> Fordragão????
  Dillmoor -> Brezalverde (espanhol), Pantanoverde???
  First Path --> Primeiro Caminho. Trocar para Primeira Galeria???
@@ -28,46 +22,22 @@ saber -> katana
  sash -> faixa, cinto???
  hide -> pele
  husk -> muda de pele
-Dwarf's Cabochon -> Cabochão dos Anões, trocar para Estrela Anã (como no espanhol)???
- Elf's Emerald -> Esmeralda Élfica
 Merman's French -> Tritão Francês (em espanhol trapecio de tritón)
 Mermaid's Barrel ->  Pérola da Sereia (em espanhol abalorio de nereida)
-Boggart's Trapezoid -> Cristal de Gnomo (trocar para Cristal Gnômico)
 Siren's Square -> Quadrado da Sereia  (em espanhol princesa de sirena)
 Knocker's Ceylon -> Aldrava de Ceylon (em espanhol triángulo de ladrón)
 vile lizard -> um lugar apareceu só "lagarto", landworm só verme
-rebentarocha -> rebentarochas???
 Archfighter -> herói
-Archshaman -> chefe xamã
-Jota -> minota
-Swiftmane -> crinaveloz ???
-Sharpclaw -> garrafiada ???
-Bluejaws -> garrazul ???
-Amethyst Eater > comeametista????
 Crazer -> chalado em Espanol. Manter maluco???
 Demon King -> De demônio rei para rei demônio???
-Skipper -> De mosca comandante para mosca chefe???
-De lagarto desprezível para lagarto nefasto????
 De Yvalock para Ivalock???
 Witch (arcamaga) -> feiticeira
 Gates of Hell -> Portal do Inferno
-Charged Idol (tótem radiante) -> De  Ídolo Carregado para Ídolo Radiante???
 customization shop -> oficina
 Devoramagias -> Devorafeitiços
 link (hordas) -> união???
 
-Na parte do PT, verificar tamanho das frases com ptalk_embed
-
------  Conferir tamanho das frases na guilda task
------  Conferir tamanho das frases na shoopkeper
------- Conferir número de \n no Battle Controls e location tips
- - Na substituição de * espaço (linha * \nBurned\n units have 0 defense) ele sempre pega o primeiro * espaço, e coloca O estado três vezes na primeira frase
-
-parei na 13.661 ate 645
-
 concentrar meu treinamento -> me especializar
-
-
 
 status -> status
 recipes - fórmulas
@@ -78,14 +48,8 @@ Hexes - alterações
 Remedies - remédios
 Psionics - sortilégios
 Wards - salvaguardas
-PVs - PV
 Lotions - loções (melhor unguentos???)
-wield style - estilo de combate
-Power grip - uma ou duas mãos??? melhor pegada dupla???
-quad wield - Quatro Mãos
-dual power grip - Ambas as Mãos Sovani??? melhor pegada dupla???
 Deadlock - embate (melhor duelo???)
-Flank Attack - Ataque pelo Flanco
 blades - lâminas
 breakers - armas pesadas
 mauling damage - danos por impacto
@@ -94,124 +58,19 @@ polearms - armas de haste
 bludgeoning - danos por contusão
 piercing damage - danos por estocada
 parry rate - índice de defesa
-Trigger Chance (ocasión de oro) - chance de ouro, oportunidade de ouro???
-Critical Trigger (movimiento maestro) -  movimento crítico
-Critical Offense (ataque maestro) - ataque crítico
-Critical Defense (defensa maestra) - Defesa Crítica
-Botch - desorientado
 Acid Burn - Ácido?¿??
-harvesting point - pontos de coleta
-Digging Points - Pontos de Escavação
-Felling Points - Pontos de Extração
-Underwater Diving Points - Pontos de Perfuração
 Mr. Diggs - Sr. Garras
-Terrify Aura - Aura de Terror (em espanhol de Provocação)
 Aura de Magia -.> Aura de Feitiço
 
-mr.diggs _--------------------
-Loop Chance - nova chance
-Corkscrew - Saca-rolhas
-Auger Drill - Broca
-Diamond Drill - Broca de Diamante
-Big Scoop - Grande Pá
-Double Scoop - Pá Dupla
-Triple Scoop - Pá Tripla
-Search Adaptor - Adaptador de Busca
-Analysis Adaptor - Adaptador de Prospecção
-Telegnosis Adaptor - Adaptador de Radiestesia
-Dig Module - Módulo Escavador
-Mega Dig Module - Mega Módulo Escavador
-Burst Dig Module - Hiper Módulo Escavador
 
-Gold Digger - Escavador de Ouro
-Platinum Digger - Escavador de Platina
-Diamond Digger - Escavador de Diamante
-Power Thruster - Propulsor
-High-Power Thruster - Propulsor de Alta Potência
-Hyper Thruster - Hiper Propulsor
-Drill Storm - Tempestade Perfuradora
-Mega Drill Storm - Mega Tempestade Perfuradora
-Divine Drill Storm - Divina Tempestade Perfuradora
+Na parte do PT, verificar tamanho das frases com ptalk_embed
 
-Digging Points - Pontos de Extração
-Felling Points - Pontos de Corte
-Underwater Diving Points - Pontos de Perfuração
-Underground Diving Points - Pontos de Escavação
+-----  Conferir tamanho das frases na guilda task
+-----  Conferir tamanho das frases na shoopkeper
+------ Conferir número de \n no Battle Controls e location tips
+ - Na substituição de * espaço (linha * \nBurned\n units have 0 defense) ele sempre pega o primeiro * espaço, e coloca O estado três vezes na primeira frase
 
-
-
-----_---------_----------------------_-----_----------
-Quests
-
-The Dreaming Rose--->A rosa sonhadora
-When the Rose Blooms--->O despertar da rosa
-For Love the Bell Tolls--->Por amor tocam os sinos
-Goodbye, Sweet Love--->Adeus, doce amor
-Love Will Rise Again--->Amor sem fronteiras
-The Broken Seal--->A restauração da barreira
-The Disappearing Knights--->Em busca dos cavaleiros perdidos
-The Reviving Legend--->A lenda revivida
-The Cosmos Maiden--->A Donzela Cósmica
-Kosmosfest--->A Festa Cósmica
-Wisdom's Echo--->Ecos de sabedoria
-History's Boundary--->Ecos do passado
-The Desert's Legend--->O reino do deserto
-Seeker of the Ancient Path--->Em busca do conhecimento ancestral
-The Fallen--->O Condenado
-Amnesia--->Amnésia
-The Villain and the Sightless Girl--->Uma luz na escuridão
-Kate and Rhagoh--->Amor fraternal
-Mr. Diggs--->Mr. Diggs
-After a Day's Work...--->Depois de um dia de trabalho...
-Slumber of the Lost Fragment--->Meu tesouro
-A Voice from the Past--->Vozes do passado
-Blooming Flower, Singing Bird--->Herança de família
-The Losing Game--->Uma aposta arriscada
-The Wanderer--->O andarilho
-The Gates of Deceit and Sword of the Dead--->Segredos e cataclismos
-Bravery and Loyalty--->Valor e lealdade
-The Successor--->O sucessor
-The Standoff--->O torneio dos heróis
-The Rainbow Bond--->Unidos pelo Arco Iris
-The Fated One--->O duelo
-The Distant Promise--->Uma antiga promessa
-Hearts--->Sede de conhecimento
-The Tablet of Marshall--->A tabuleta de Marshall
-UFO!?--->Uma ave misteriosa
-At Hatred's End--->Os limites do ódio
-The Ancient War--->A guerra ancestral
-Into the Abyss--->No coração do abismo
-The Fiery Revolt--->Luzes e sombras
-Frustrations--->Disputas fraternais
-The War of a Thousand Years--->A guerra dos mil anos
-The Hero--->O herói da lenda
-The Silent Soul--->O deserto das almas perdidas
-The Assistant--->O assistente
-Infestation!--->A praga
-The Slave Traders--->Os comerciantes de escravos
-Emotions--->Valor sentimental
-The Trade Route--->A rota comercial
-Baulson--->Ao resgate
-A Single Soul--->Uma alma solitária
-Darien--->Redenção
-A Day's Beginning--->O começo de um novo dia
-Things Unchangeable--->Há coisas que nunca mudam
-Athlum's Witch--->A feiticeira de Athlum
-Celapaleis's Witch--->A feiticeira de Celapaleis-
-Elysion's Witch--->A feiticeira de Elysion
-Nagapur's Witch--->A feiticeira de Nagapur
-Ghor's Witch--->A feiticeira de Ghor
-Undelwalt's Witch--->A feiticeira de Undelwalt
-Balterossa's Witch--->A feiticeira de Balterossa
-Royotia's Witch--->A feiticeira de Royotia
-Melphina's Witch--->A feiticeira de Melphina
-Baaluk's Witch--->A feiticeira de Baaluk
-The Ladies of Bloody Alice--->As Damas Sangrentas
-The Silver Falcons: Part One--->Os Falcões Prateados: Primeira parte
-The Silver Falcons: Part Two--->Os Falcões Prateados: Segunda parte
-The Silver Falcons: Part Three--->Os Falcões Prateados: Terceira parte
-The Secret Letter--->A carta secreta
-
+parei na 13.661 ate 645
 
 ----_---------_----------------------_-----_----------
 Curso eletrônica

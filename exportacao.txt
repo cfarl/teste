@@ -792,7 +792,7 @@ The art Quadrille,\r\nmodified for strength.\r\nDeals substantial damage to one 
 
 The art Quadrille,\r\nheavily modified for strength.\r\nDeals substantial damage to one unit.|----|Uma versão extremamente potente\r\nda técnica Quarteto.\r\nCausa sérios danos no oponente.|----|Una versión extremadamente potente\r\nde la técnica «Cuarteto» que causa\r\ndaños serios a un oponente.
 
-A dual power grip art. The weapons\r\nare swung from either side, scoring\r\nthe foe. Deals light damage.|----|Uma técnica sovani que usa pegada dupla.\r\nAtravessa o oponente com ataques simultâneos de\r\nambos os lados. Causa danos leves no oponente.|----|Doble agarre sovani. Atraviesa al oponente\r\ncon ataques simultáneos desde ambos lados\r\ny le provoca daños leves.
+A dual power grip art. The weapons\r\nare swung from either side, scoring\r\nthe foe. Deals light damage.|----|Uma técnica sovani de pegada dupla.\r\nAtravessa o oponente com ataques simultâneos de\r\nambos os lados. Causa danos leves no oponente.|----|Doble agarre sovani. Atraviesa al oponente\r\ncon ataques simultáneos desde ambos lados\r\ny le provoca daños leves.
 
 The art Fury Blow,\r\nmodified for speed.\r\nDeals light damage to one unit.|----|Uma versão melhorada e mais rápida\r\nda técnica Vendaval.\r\nCausa danos leves no oponente.|----|Una versión mejorada y más rápida\r\nde la técnica «Vendaval» que causa\r\ndaños leves a un oponente.
 
@@ -802,7 +802,7 @@ The art Fury Blow,\r\nmodified for strength.\r\nDeals light damage to one unit.|
 
 The art Fury Blow,\r\nheavily modified for strength.\r\nDeals light damage to one unit.|----|Uma versão extremamente potente\r\nda técnica Vendaval.\r\nCausa danos leves no oponente.|----|Una versión extremadamente potente\r\nde la técnica «Vendaval» que causa\r\ndaños leves a un oponente.
 
-A dual power grip art.\r\nA focused, bone-crushing blow.\r\nDeals moderate damage to a unit.|----|Uma técnica sovani que usa pegada dupla.\r\nConcentra energia em um golpe único de potência\r\nesmagadora. Causa danos moderados no oponente.|----|Doble agarre sovani. Concentra energías\r\nen un único golpe de potencia demoledora\r\nque causa daños moderados a un oponente.
+A dual power grip art.\r\nA focused, bone-crushing blow.\r\nDeals moderate damage to a unit.|----|Uma técnica sovani de pegada dupla.\r\nConcentra energia em um golpe único de potência\r\nesmagadora. Causa danos moderados no oponente.|----|Doble agarre sovani. Concentra energías\r\nen un único golpe de potencia demoledora\r\nque causa daños moderados a un oponente.
 
 The art Bonecrusher,\r\nmodified for speed.\r\nDeals moderate damage to one unit.|----|Uma versão melhorada e mais rápida\r\nda técnica Esmaga Ossos.\r\nCausa danos moderados no oponente.|----|Una versión mejorada y más rápida\r\nde la técnica «Triturador» que causa\r\ndaños moderados a un oponente.
 
@@ -812,7 +812,7 @@ The art Bonecrusher,\r\nmodified for strength.\r\nDeals moderate damage to one u
 
 The art Bonecrusher,\r\nheavily modified for strength.\r\nDeals moderate damage to one unit.|----|Uma versão extremamente potente\r\nda técnica Esmaga Ossos.\r\nCausa danos moderados no oponente.|----|Una versión extremadamente potente\r\nde la técnica «Triturador» que causa\r\ndaños moderados a un oponente.
 
-A dual power grip art.\r\nThe blades are drilled into the foe.\r\nDeals heavy damage to a unit.|----|Uma técnica sovani que usa pegada dupla.\r\nPerfura o inimigo com dois pares de lâminas.\r\nCausa grandes danos no oponente.|----|Doble agarre sovani. Embiste al oponente\r\npara ensartarlo con dos armas de filo,\r\ncausándole daños graves.
+A dual power grip art.\r\nThe blades are drilled into the foe.\r\nDeals heavy damage to a unit.|----|Uma técnica sovani de pegada dupla.\r\nPerfura o inimigo com dois pares de lâminas.\r\nCausa grandes danos no oponente.|----|Doble agarre sovani. Embiste al oponente\r\npara ensartarlo con dos armas de filo,\r\ncausándole daños graves.
 
 The art Twin Gimlet,\r\nmodified for speed.\r\nDeals heavy damage to one unit.|----|Uma versão melhorada e mais rápida\r\nda técnica Perfuração Dupla.\r\nCausa grandes danos no oponente.|----|Una versión mejorada y más rápida\r\nde la técnica «Trepanador» que causa\r\ndaños graves a un oponente.
 
@@ -822,7 +822,7 @@ The art Twin Gimlet,\r\nmodified for strength.\r\nDeals heavy damage to one unit
 
 The art Twin Gimlet,\r\nheavily modified for strength.\r\nDeals heavy damage to one unit.|----|Uma versão extremamente potente\r\nda técnica Perfuração Dupla.\r\nCausa grandes danos no oponente.|----|Una versión extremadamente potente\r\nde la técnica «Trepanador» que causa\r\ndaños graves a un oponente.
 
-A dual power grip art. An airborne charge\r\nthat can take out a beast in one hit. Deals\r\nsubstantial damage to all enemies in an area.|----|Uma técnica sovani que usa pegada dupla. Uma\r\ninvestida aérea capaz de derrubar um monstro\r\ncom um só golpe. Causa sérios danos.|----|Doble agarre sovani. Una embestida aérea\r\ncapaz de tumbar a cualquiera de un golpe.\r\nCausa daños serios a los enemigos cercanos.
+A dual power grip art. An airborne charge\r\nthat can take out a beast in one hit. Deals\r\nsubstantial damage to all enemies in an area.|----|Uma técnica sovani de pegada dupla. Uma\r\ninvestida aérea capaz de derrubar um monstro\r\ncom um só golpe. Causa sérios danos.|----|Doble agarre sovani. Una embestida aérea\r\ncapaz de tumbar a cualquiera de un golpe.\r\nCausa daños serios a los enemigos cercanos.
 
 The art Retribution, modified for\r\nspeed. Deals substantial damage\r\nto all enemies in an area.|----|Uma versão melhorada e mais rápida\r\nda técnica Vingança.\r\nCausa sérios danos aos oponentes próximos.|----|Una versión mejorada y más rápida\r\nde la técnica «Venganza» que causa\r\ndaños serios a los enemigos cercanos.
 
@@ -1578,7 +1578,7 @@ Improves mobility of union.\r\nImproves attack of lead ranks,\r\nbut reduces def
 
 Variant of the Whip that further\r\nimproves mobility of union.|----|Uma variação do Chicote que aumenta ainda\r\nmais a mobilidade do grupo.|----|Una variante del Látigo que aumenta\r\ntodavía más la movilidad de la unidad.
 
-Variant of the Lash that further\r\nimproves mobility of union.|----|Uma variação do Golpe de Chicote que\r\naumenta ainda mais a mobilidade do grupo.|----|Una variante de la Fusta que aumenta\r\ntodavía más la movilidad de la unidad.
+Variant of the Lash that further\r\nimproves mobility of union.|----|Uma variação do Açoite que aumenta ainda\r\nmais a mobilidade do grupo.|----|Una variante de la Fusta que aumenta\r\ntodavía más la movilidad de la unidad.
 
 Improves mystic attack and\r\nmobility of back ranks.\r\nEnhances lotions.|----|Aumenta os ataques com magia e\r\na mobilidade das fileiras de trás.\r\nAumenta a eficácia das poções.|----|Aumenta el PM y la movilidad\r\nde las filas traseras, así como\r\nla eficacia de las pociones.
 
@@ -2986,7 +2986,7 @@ Prized great axe inspiring horrified visages\r\nit then rives.|----|Um enorme ma
 
 Master great axe drawing power from pale\r\ncrystals embedded within.|----|Um enorme machado mítico que obtém seu poder dos\r\ncristais brancos nele embutidos.|----|Una enorme hacha mítica que obtiene\r\nsu poder de los cristales blanquecinos\r\nque la decoran.
 
-Prized great axe fitted with the Dwarf's\r\nCabochon.|----|Um enorme machado de primeira qualidade equipado\r\ncom um Cabochão dos Anões.|----|Una enorme hacha de primera calidad\r\ndotada del poder de la estrella enana.
+Prized great axe fitted with the Dwarf's\r\nCabochon.|----|Um enorme machado de primeira qualidade equipado\r\ncom uma Estrela Anã.|----|Una enorme hacha de primera calidad\r\ndotada del poder de la estrella enana.
 
 Common short hammer flanged with metal\r\nprotrusions.|----|Um pequeno martelo comum ornamentado com\r\nsaliências de metal.|----|Un pequeño martillo corriente\r\ncon rebordes metálicos dentados.
 
@@ -3130,7 +3130,7 @@ Common long hammer that propels\r\nimmovable objects with irresistible force.|--
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Common long hammer that smothers\r\nfoes with its girth.|---- |Um martelo grande comum que com sua considável\r\nmassa esmaga qualquer inimigo.|----|Un gran martillo corriente\r\ncuya considerable masa\r\naplasta a cualquier enemigo.
+Common long hammer that smothers\r\nfoes with its girth.|----|Un gran martillo corriente\r\ncuya considerable masa\r\naplasta a cualquier enemigo.|----|Un gran martillo corriente\r\ncuya considerable masa\r\naplasta a cualquier enemigo.
 
 (REPETIDO)Reinforced to the seventh order.|----|Com reforço até o nível sete.|----|Un martillo de séptima categoría\r\ndigno de un soldado.
 
@@ -3154,7 +3154,7 @@ Common long hammer that smothers\r\nfoes with its girth.|---- |Um martelo grande
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Rare long hammer made of foreign\r\ntimber and peltry.|---- |Um martelo grande singular fabricado com madeiras e\r\npeles exóticas.|----|Un gran martillo singular fabricado\r\ncon exóticas maderas y pieles.
+Rare long hammer made of foreign\r\ntimber and peltry.|----|Un gran martillo singular fabricado\r\ncon exóticas maderas y pieles.|----|Un gran martillo singular fabricado\r\ncon exóticas maderas y pieles.
 
 (REPETIDO)Deadlier than its standard counterpart.|----|Mais letal que sua versão padrão.|----|Un martillo más mortífero\r\nque su equivalente común.
 
@@ -3166,7 +3166,7 @@ Rare long hammer made of foreign\r\ntimber and peltry.|---- |Um martelo grande s
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Arcane long hammer enabling inquisitors\r\nto draw blood from stones.|---- |Um martelo grande arcano capaz de arrancar\r\nsangue das pedras.|----|Un gran martillo arcano\r\ncapaz de arrancar sangre\r\na las mismísimas piedras.
+Arcane long hammer enabling inquisitors\r\nto draw blood from stones.|----|Un gran martillo arcano\r\ncapaz de arrancar sangre\r\na las mismísimas piedras.|----|Un gran martillo arcano\r\ncapaz de arrancar sangre\r\na las mismísimas piedras.
 
 (REPETIDO)Deadlier than its standard counterpart.|----|Mais letal que sua versão padrão.|----|Un martillo más mortífero\r\nque su equivalente común.
 
@@ -3188,17 +3188,17 @@ Arcane long hammer enabling inquisitors\r\nto draw blood from stones.|---- |Um m
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Master long hammer named for its\r\nbulbous crown.|---- |Um martelo grande mítico cujo nome deriva da\r\nforma peculiar abulbada da sua cabeça.|----|Un gran martillo mítico que debe su nombre\r\na la peculiar forma abultada de su cabeza.
+Master long hammer named for its\r\nbulbous crown.|----|Un gran martillo mítico que debe su nombre\r\na la peculiar forma abultada de su cabeza.|----|Un gran martillo mítico que debe su nombre\r\na la peculiar forma abultada de su cabeza.
 
-Custom long hammer possessing only\r\nthe power to destroy.|---- |Um martelo grande especial que semeia a\r\ndestruição por onde passa.|----|Un gran martillo especial que siembra\r\nla destrucción allá por donde pasa.
+Custom long hammer possessing only\r\nthe power to destroy.|----|Un gran martillo especial que siembra\r\nla destrucción allá por donde pasa.|----|Un gran martillo especial que siembra\r\nla destrucción allá por donde pasa.
 
-Prized long hammer capable of shattering\r\na dragon bone.|---- |Um martelo grande de primeira qualidade capaz\r\nde esmagar os ossos de um dragão.|----|Un gran martillo de primera diseñado\r\npara hacer añicos los huesos de dragón.
+Prized long hammer capable of shattering\r\na dragon bone.|----|Un gran martillo de primera diseñado\r\npara hacer añicos los huesos de dragón.|----|Un gran martillo de primera diseñado\r\npara hacer añicos los huesos de dragón.
 
-Master long hammer engorged by layer\r\nupon layer of iron and steel.|---- |Um martelo grande mítico reforçado com várias\r\ncamadas de ferro e aço.|----|Un gran martillo mítico reforzado\r\ncon varias capas de hierro y acero.
+Master long hammer engorged by layer\r\nupon layer of iron and steel.|----|Un gran martillo mítico reforzado\r\ncon varias capas de hierro y acero.|----|Un gran martillo mítico reforzado\r\ncon varias capas de hierro y acero.
 
-Prized long hammer fitted with the Oberon's\r\nBaguette.|---- |Um martelo grande de primeira qualidade equipado\r\ncom um Prisma de Oberon.|----|Un gran martillo de primera calidad\r\ndotado del poder del prisma de Oberón.
+Prized long hammer fitted with the Oberon's\r\nBaguette.|----|Un gran martillo de primera calidad\r\ndotado del poder del prisma de Oberón.|----|Un gran martillo de primera calidad\r\ndotado del poder del prisma de Oberón.
 
-Common great hammer for only Yama\r\nto swing.|---- |Um enorme martelo comum que apenas um yama\r\npode usar.|----|Un enorme martillo corriente\r\nque sólo puede blandir un yama.
+Common great hammer for only Yama\r\nto swing.|----|Un enorme martillo corriente\r\nque sólo puede blandir un yama.|----|Un enorme martillo corriente\r\nque sólo puede blandir un yama.
 
 (REPETIDO)Reinforced to the seventh order.|----|Com reforço até o nível sete.|----|Un martillo de séptima categoría\r\ndigno de un soldado.
 
@@ -3222,7 +3222,7 @@ Common great hammer for only Yama\r\nto swing.|---- |Um enorme martelo comum que
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Common great hammer for only Yama\r\nto wield.|---- |Um enorme martelo comum que apenas um yama\r\npode empunhar.|----|Un enorme martillo corriente\r\nque sólo puede empuñar un yama.
+Common great hammer for only Yama\r\nto wield.|----|Un enorme martillo corriente\r\nque sólo puede empuñar un yama.|----|Un enorme martillo corriente\r\nque sólo puede empuñar un yama.
 
 (REPETIDO)Reinforced to the seventh order.|----|Com reforço até o nível sete.|----|Un martillo de séptima categoría\r\ndigno de un soldado.
 
@@ -3246,7 +3246,7 @@ Common great hammer for only Yama\r\nto wield.|---- |Um enorme martelo comum que
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Arcane great hammer whose strike can\r\ncast and mold worlds.|---- |Um enorme martelo arcano cujo impacto é capaz de\r\ncriar ou destruir mundos inteiros.|----|Un enorme martillo arcano cuyo impacto\r\nes capaz de crear o destruir mundos enteros.
+Arcane great hammer whose strike can\r\ncast and mold worlds.|----|Un enorme martillo arcano cuyo impacto\r\nes capaz de crear o destruir mundos enteros.|----|Un enorme martillo arcano cuyo impacto\r\nes capaz de crear o destruir mundos enteros.
 
 (REPETIDO)Deadlier than its standard counterpart.|----|Mais letal que sua versão padrão.|----|Un martillo más mortífero\r\nque su equivalente común.
 
@@ -3268,15 +3268,15 @@ Arcane great hammer whose strike can\r\ncast and mold worlds.|---- |Um enorme ma
 
 (REPETIDO)Valuable relic of ages past.|----|Uma valiosa relíquia de eras passadas.|----|Un valioso vestigio de eras pasadas.
 
-Prized great hammer wrested from\r\nthe idle hands of a devil.|---- |Um enorme martelo de primeira qualidade\r\narrancado das mãos ociosas de um demônio.|----|Un enorme martillo de primera calidad\r\narrancado de las manos exangües\r\nde un demonio.
+Prized great hammer wrested from\r\nthe idle hands of a devil.|----|Un enorme martillo de primera calidad\r\narrancado de las manos exangües\r\nde un demonio.|----|Un enorme martillo de primera calidad\r\narrancado de las manos exangües\r\nde un demonio.
 
-Master great hammer that slashes through\r\nthe air with an icy shriek.|---- |Um enorme martelo mítico cujos golpes cortam o\r\nar como um grito agudo e gelado.|----|Un enorme martillo mítico cuyos golpes\r\ncortan el aire con una gran estridencia.
+Master great hammer that slashes through\r\nthe air with an icy shriek.|----|Un enorme martillo mítico cuyos golpes\r\ncortan el aire con una gran estridencia.|----|Un enorme martillo mítico cuyos golpes\r\ncortan el aire con una gran estridencia.
 
-Custom great hammer able to flatten\r\na hump like a snow-hill.|---- |Um enorme martelo especial cujo poder é capaz de achatar\r\no cume nevado de uma montanha.|----|Un enorme martillo especial cuyo poder\r\nes capaz de allanar un terreno montañoso.
+Custom great hammer able to flatten\r\na hump like a snow-hill.|----|Un enorme martillo especial cuyo poder\r\nes capaz de allanar un terreno montañoso.|----|Un enorme martillo especial cuyo poder\r\nes capaz de allanar un terreno montañoso.
 
-Master great hammer reverberating\r\nwith thunderous might.|---- |Um enorme martelo mítico cujo som reverbera\r\ncomo o estouro de poderosos trovões.|----|Un enorme martillo mítico cuyo sonido\r\nreverbera como el estampido de un trueno.
+Master great hammer reverberating\r\nwith thunderous might.|----|Un enorme martillo mítico cuyo sonido\r\nreverbera como el estampido de un trueno.|----|Un enorme martillo mítico cuyo sonido\r\nreverbera como el estampido de un trueno.
 
-Custom great hammer used as a gavel\r\nby the merchants of Balterossa.|---- |Um enorme martelo especial usado nos leilões\r\ndos comerciantes de Balterossa.|----|Un enorme martillo especial\r\nque se usa en las subastas\r\nde los mercaderes de Balterossa.
+Custom great hammer used as a gavel\r\nby the merchants of Balterossa.|----|Un enorme martillo especial\r\nque se usa en las subastas\r\nde los mercaderes de Balterossa.|----|Un enorme martillo especial\r\nque se usa en las subastas\r\nde los mercaderes de Balterossa.
 
 Common short pole effective in linear\r\ndeployments.|----|Uma pequena lança comum muito eficaz em formações\r\nlineares.|----|Una pequeña lanza corriente muy eficaz\r\ncuando se despliega en formación.
 
@@ -3318,7 +3318,7 @@ Custom short pole for a recalcitrant qsiti.|----|Uma pequena lança especial pro
 
 Prized short pole used to devour\r\nflame-charred souls.|----|Uma pequena lança de primeira qualidade criada\r\npara devorar almas carbonizadas pelo fogo do\r\ninferno.|----|Una pequeña lanza de primera calidad\r\ncreada para devorar almas calcinadas\r\npor los fuegos del infierno.
 
-Prized short pole fitted with the Elf's\r\nEmerald.|----|Uma pequena lança de primeira qualidade equipada\r\ncom uma Esmeralda dos Elfos.|----|Una pequeña lanza de primera calidad\r\ndotada del poder de la esmeralda élfica.
+Prized short pole fitted with the Elf's\r\nEmerald.|----|Uma pequena lança de primeira qualidade equipada\r\ncom uma Esmeralda Élfica.|----|Una pequeña lanza de primera calidad\r\ndotada del poder de la esmeralda élfica.
 
 Common tall pole strong enough to\r\nunhorse the most steadfast of riders.|----|Uma lança média comum, capaz de\r\ndesmontar o mais firme dos cavaleiros.|----|Una lanza mediana corriente capaz\r\nde desmontar al jinete más experto.
 
@@ -4140,7 +4140,7 @@ Prized middle shield effective against\r\noverhead attacks.|----|Um escudo médi
 
 Prized middle shield tough\r\nas a wyrm's armor.|----|Um escudo médio de primeira qualidade tão\r\nresistente quanto as escamas de um dragão.|----|Un escudo mediano de primera calidad\r\ntan sólido como las escamas de un draco.
 
-Prized middle shield fitted with the Boggart's\r\nTrapezoid.|----|Um escudo médio de primeira qualidade equipado\r\ncom um Cristal de Gnomo.|----|Un escudo mediano de primera calidad\r\ndotado del poder del cristal gnómico.
+Prized middle shield fitted with the Boggart's\r\nTrapezoid.|----|Um escudo médio de primeira qualidade equipado\r\ncom um Cristal Gnômico.|----|Un escudo mediano de primera calidad\r\ndotado del poder del cristal gnómico.
 
 Custom middle shield trusted to protect\r\nthe citizens of Athlum.|----|Um escudo médio especial criado para\r\nproteger os cidadãos de Athlum.|----|Un escudo mediano especial creado\r\npara proteger a las gentes de Athlum.
 
@@ -4518,7 +4518,7 @@ Belt adorned with blue crystals\r\nto heighten strength.|----|Um cinturão adorn
 
 Belt bearing the Goblin's Drop\r\nthat adds immense strength.|----|Um cinturão equipado com uma lágrima de duende\r\ne que concede uma imensa força.|----|Un cinturón engastado\r\ncon una lágrima de trasgo.\r\nOtorga una fuerza sobrehumana.
 
-Belt bearing the Boggart's Trapezoid that\r\nadds immense strength.|----|Um cinturão equipado com um Cristal de Gnomo\r\ne que concede uma imensa força.|----|Un cinturón engastado\r\ncon un cristal gnómico.\r\nOtorga una fuerza sobrehumana.
+Belt bearing the Boggart's Trapezoid that\r\nadds immense strength.|----|Um cinturão equipado com um Cristal Gnômico\r\ne que concede uma imensa força.|----|Un cinturón engastado\r\ncon un cristal gnómico.\r\nOtorga una fuerza sobrehumana.
 
 Belt bearing the Kobold's Halfdutch that\r\nadds immense strength.|----|Um cinturão equipado com um Cabochão de Kobold\r\ne que concede uma imensa força.|----|Un cinturón engastado\r\ncon un cabujón de kobold.\r\nOtorga una fuerza sobrehumana.
 
@@ -4664,7 +4664,7 @@ Trinket set with a volatile crystal.|----|Uma jóia onde está gravado o símbol
 
 Trinket set with a toxic crystal.|----|Uma jóia onde está gravado o símbolo de um\r\ncristal tóxico.|----|Una hebilla que tiene engastado\r\nun cristal de sustancias tóxicas.
 
-Trinket bearing the Dwarf's Cabochon.|----|Um broche decorado com um Cabochão dos Anões.|----|Un broche de gran belleza decorado\r\ncon una estrella enana.
+Trinket bearing the Dwarf's Cabochon.|----|Um broche decorado com uma Estrela Anã.|----|Un broche de gran belleza decorado\r\ncon una estrella enana.
 
 Trinket bearing the Leanen Sídhe's\r\nBrilliance.|----|Um broche decorado com um Brilhante de\r\nLeanan Sídhe.|----|Un broche que tiene engastado\r\nun brillante de musa.
 
@@ -4722,7 +4722,7 @@ Monsters to slay: Arachnid x 13\r\nLocation: Aveclyff|----|Objetivo: Derrotar 13
 
 Monsters to slay: Spiritwood x 12\r\nLocation: The Numor Mines|----|Objetivo: Derrotar 12 Plantas Espectrais\r\nLocalização: As Minas de Numor|----|Objetivo: Derrota a 12 leños espectrales\r\nUbicación: Minas de Numor
 
-Monsters to slay: Charybdis x 15\r\nLocation: Flaumello Tower|----|Objetivo: Derrotar 15 Caribdis\r\nLocalização: Torre Flaumello|----|Objetivo: Derrota a 15 caribdis\r\nUbicación: Torre de Flaumello
+Monsters to slay: Charybdis x 15\r\nLocation: Flaumello Tower|----|Objetivo: Derrotar 15 Caribdis\r\nLocalização: Torre de Flaumello|----|Objetivo: Derrota a 15 caribdis\r\nUbicación: Torre de Flaumello
 
 Monsters to slay: Mandragora x 9\r\nLocation: Yvalock's Nest|----|Objetivo: Derrotar 9 Mandrágoras\r\nLocalização: Ninho de Yvalock|----|Objetivo: Derrota a nueve mandrágoras\r\nUbicación: Nido de Ivalock
 
@@ -4738,7 +4738,7 @@ Monster to slay: Eye of Damnation\r\nLocation: Mojcado Castle|----|Objetivo: Der
 
 Monster to slay: Goko\r\nLocation: The Numor Mines|----|Objetivo: Derrotar um Goko\r\nLocalização: As Minas de Numor|----|Objetivo: Derrota a un goko\r\nUbicación: Minas de Numor
 
-Monster to slay: Bluetalon\r\nLocation: Flaumello Tower|----|Objetivo: Derrotar um Garrazul\r\nLocalização: Torre Flaumello|----|Objetivo: Derrota a un zarpazul\r\nUbicación: Torre de Flaumello
+Monster to slay: Bluetalon\r\nLocation: Flaumello Tower|----|Objetivo: Derrotar um Caudazul\r\nLocalização: Torre de Flaumello|----|Objetivo: Derrota a un zarpazul\r\nUbicación: Torre de Flaumello
 
 Monster to slay: Mercurius\r\nLocation: Darken Forest|----|Objetivo: Derrotar um Mercuriano\r\nLocalização: Floresta Negra|----|Objetivo: Derrota a un mercurius\r\nUbicación: Bosque de Darken
 
@@ -5008,7 +5008,7 @@ Monster to slay: Austri\r\nLocation: Mt. Vackel|----|Objetivo: Derrotar um Austr
 
 Monster to slay: Spiritbeast Rin\r\nLocation: Mt. Vackel|----|Objetivo: Derrotar um Espírito Animal Rin\r\nLocalização: Monte Vackel|----|Objetivo: Derrota a un espíritu animal Rin\r\nUbicación: Monte Vackel
 
-Monster to slay: Valkyria\r\nLocation: Cherry Pavilion, Wyrmskeep|----|Objetivo: Derrotar uma Valquíria\r\nLocalização: Pavilhão das Cerejas, Wyrmskeep|----|Objetivo: Derrota a una valquiria\r\nUbicación: Pabellón de los Cerezos (Fordragón)
+Monster to slay: Valkyria\r\nLocation: Cherry Pavilion, Wyrmskeep|----|Objetivo: Derrotar uma Valquíria\r\nLocalização: Pavilhão das Cerejeiras, Wyrmskeep|----|Objetivo: Derrota a una valquiria\r\nUbicación: Pabellón de los Cerezos (Fordragón)
 
 Monster to slay: Deadwood\r\nLocation: Darken Forest|----|Objetivo: Derrotar uma Árvore Morta\r\nLocalização: Floresta Negra|----|Objetivo: Derrota a un leño exangüe\r\nUbicación: Bosque de Darken
 
@@ -5068,7 +5068,7 @@ Obtain a Demon King Eye.|----|Consiga um olho de demônio rei.|----|Consigue un 
 
 Obtain a vial of Grand Beetle Fluid.|----|Consiga um frasco de extrato de Besouro Gigante.|----|Consigue una ampolla de extracto de mantis prócer.
 
-Obtain an Inverted Vile Lizard Scale.|----|Consiga uma escama invertida de lagarto desprezível.|----|Consigue una escama invertida de saurio vil.
+Obtain an Inverted Vile Lizard Scale.|----|Consiga uma escama invertida de lagarto nefasto.|----|Consigue una escama invertida de saurio vil.
 
 Obtain a Skull Scavenger Cranium.|----|Consiga um crânio de vasculhacrânio.|----|Consigue un cráneo de viscerófago.
 
@@ -5888,7 +5888,7 @@ A scroll fragment used to learn\r\nthe formation Pegasus.|----|Um fragmento de p
 
 A scroll used to learn the formation\r\nWhip.|----|Um pergaminho que revela os segredos da\r\nformação Chicote.|----|Un pergamino que revela los secretos\r\nde la formación «Látigo».
 
-A scroll fragment used to learn\r\nthe formation Lash.|----|Um fragmento de pergaminho que descreve\r\na formação Golpe de Chicote.|----|Un fragmento de un pergamino que describe\r\nla formación «Fusta».
+A scroll fragment used to learn\r\nthe formation Lash.|----|Um fragmento de pergaminho que descreve\r\na formação Açoite.|----|Un fragmento de un pergamino que describe\r\nla formación «Fusta».
 
 A scroll fragment used to learn\r\nthe formation Flail.|----|Um fragmento de pergaminho que descreve\r\na formação Flagelo.|----|Un fragmento de un pergamino que describe\r\nla formación «Flagelo».
 
@@ -6468,7 +6468,7 @@ The core of the Leprechaun's Scissor.\r\nHas high durability and holds\r\nlots o
 
 The core of the Troll's Cushion.\r\nHas high durability and holds\r\nlots of mystic energy.|----|Um núcleo de Selo de Troll.\r\nContém uma grande energia mística\r\ne é extremamente resistente.|----|Un núcleo de sello de troll.\r\nContiene una gran energía mística\r\ny es extremadamente resistente.
 
-The core of the Boggart's Trapezoid.\r\nHas high durability and holds\r\nlots of mystic energy.|----|Um núcleo de Cristal de Gnomo.\r\nContém uma grande energia mística\r\ne é extremamente resistente.|----|Un núcleo de cristal gnómico.\r\nContiene una gran energía mística\r\ny es extremadamente resistente.
+The core of the Boggart's Trapezoid.\r\nHas high durability and holds\r\nlots of mystic energy.|----|Um núcleo de Cristal Gnômico.\r\nContém uma grande energia mística\r\ne é extremamente resistente.|----|Un núcleo de cristal gnómico.\r\nContiene una gran energía mística\r\ny es extremadamente resistente.
 
 The core of the Siren's Square.\r\nHas high durability and holds\r\nlots of mystic energy.|----|Um núcleo de Quadrado da Sereia.\r\nContém uma grande energia mística\r\ne é extremamente resistente.|----|Un núcleo de princesa de sirena.\r\nContiene una gran energía mística\r\ny es extremadamente resistente.
 
@@ -6476,7 +6476,7 @@ The core of the Kobold's Halfdutch.\r\nHas high durability and holds\r\nlots of 
 
 The core of the Banshee's Octagon.\r\nHas high durability and holds\r\nlots of mystic energy.|----|Um núcleo de Octógono de Banshee.\r\nContém uma grande energia mística\r\ne é extremamente resistente.|----|Un núcleo de octógono de banshee.\r\nContiene una gran energía mística\r\ny es extremadamente resistente.
 
-The core of the Dwarf's Cabochon.\r\nHas high durability and holds\r\nlots of mystic energy.|----|Um núcleo de Cabochão dos Anões.\r\nContém uma grande energia mística\r\ne é extremamente resistente.|----|Un núcleo de estrella enana.\r\nContiene una gran energía mística\r\ny es extremadamente resistente.
+The core of the Dwarf's Cabochon.\r\nHas high durability and holds\r\nlots of mystic energy.|----|Um núcleo de Estrela Anã.\r\nContém uma grande energia mística\r\ne é extremamente resistente.|----|Un núcleo de estrella enana.\r\nContiene una gran energía mística\r\ny es extremadamente resistente.
 
 The core of the Leanan Sídhe's Brilliance.\r\nHas high durability and holds\r\nlots of mystic energy.|----|Um núcleo de Brilhante de Fada.\r\nContém uma grande energia mística\r\ne é extremamente resistente.|----|Un núcleo de brillante de musa.\r\nContiene una gran energía mística\r\ny es extremadamente resistente.
 
@@ -7110,7 +7110,7 @@ A moldering staff that once belonged\r\nto a Jhana magus.\r\nA rare component.|-
 
 A moldering katana that once belonged\r\nto a Jhana archfighter.\r\nA rare component.|----|Uma katana em ruínas que um dia pertenceu\r\na um grande guerreiro jhana.\r\nUm componente singular.|----|Una katana mohosa que antiguamente\r\nperteneció a un gran guerrero jhana.\r\nUn componente singular.
 
-A withered shield that once belonged\r\nto a Jhana archshaman.\r\nA rare component.|----|Um escudo amassado que um dia pertenceu\r\na um grande xamã jhana.\r\nUm componente singular.|----|Un escudo gastado que antiguamente\r\nperteneció a un gran chamán jhana.\r\nUn componente singular.
+A withered shield that once belonged\r\nto a Jhana archshaman.\r\nA rare component.|----|Um escudo amassado que um dia pertenceu\r\na um chefe xamã jhana.\r\nUm componente singular.|----|Un escudo gastado que antiguamente\r\nperteneció a un gran chamán jhana.\r\nUn componente singular.
 
 A moldering mace that once belonged\r\nto a Jhana archmagus.\r\nA rare component.|----|Uma maça em ruínas que um dia pertenceu\r\na um arquimago jhana.\r\nUm componente singular.|----|Una maza mohosa que antiguamente\r\nperteneció un archimístico jhana.\r\nUn componente singular.
 
@@ -7232,19 +7232,19 @@ A large talon from a donda.\r\nA rare component.|----|A gigantesca garra de um d
 
 A large talon from a dondada.\r\nA rare component.|----|A enorme garra de um dondada.\r\nUm componente singular.|----|La enorme garra de un drondade.\r\nUn componente singular.
 
-A scale from a vile lizard.\r\nA breed component.|----|Uma escama de lagarto desprezível.\r\nUm tipo de componente.|----|Una escama de saurio vil.
+A scale from a vile lizard.\r\nA breed component.|----|Uma escama de lagarto nefasto.\r\nUm tipo de componente.|----|Una escama de saurio vil.
 
-A talon from a vile lizard.\r\nA breed component.|----|Uma garra de lagarto desprezível.\r\nUm tipo de componente.|----|Una garra de saurio vil.
+A talon from a vile lizard.\r\nA breed component.|----|Uma garra de lagarto nefasto.\r\nUm tipo de componente.|----|Una garra de saurio vil.
 
-A tail from a vile lizard.\r\nA rare breed component.|----|A cauda de um lagarto desprezível.\r\nUm componente singular.|----|La cola de un saurio vil.\r\nUn componente singular.
+A tail from a vile lizard.\r\nA rare breed component.|----|A cauda de um lagarto nefasto.\r\nUm componente singular.|----|La cola de un saurio vil.\r\nUn componente singular.
 
-A cheek pouch from a vile lizard.\r\nA rare breed component.|----|A pele das bochechas de um lagarto\r\ndesprezível. Um componente singular.|----|La piel de los carrillos\r\nde un saurio vil.\r\nUn componente singular.
+A cheek pouch from a vile lizard.\r\nA rare breed component.|----|A pele das bochechas de um lagarto\r\nnefasto. Um componente singular.|----|La piel de los carrillos\r\nde un saurio vil.\r\nUn componente singular.
 
-A coiled scale from a vile lizard.\r\nA special breed component.|----|Uma escama enrolada de lagarto desprezível.\r\nUm componente muito especial.|----|Una escama enroscada\r\nobtenida de un saurio vil.\r\nUn componente muy especial.
+A coiled scale from a vile lizard.\r\nA special breed component.|----|Uma escama enrolada de lagarto nefasto.\r\nUm componente muito especial.|----|Una escama enroscada\r\nobtenida de un saurio vil.\r\nUn componente muy especial.
 
-The mane from a vile lizard.\r\nA special breed component.|----|A cabeleira de um lagarto desprezível.\r\nUm componente muito especial.|----|Los cabellos de un saurio vil.\r\nUn componente muy especial.
+The mane from a vile lizard.\r\nA special breed component.|----|A cabeleira de um lagarto nefasto.\r\nUm componente muito especial.|----|Los cabellos de un saurio vil.\r\nUn componente muy especial.
 
-An inverted scale from a vile lizard.\r\nA rare component.|----|Uma escama invertida de lagarto desprezível.\r\nUm componente singular.|----|Una escama invertida\r\nprocedente de un saurio vil.\r\nUn componente singular.
+An inverted scale from a vile lizard.\r\nA rare component.|----|Uma escama invertida de lagarto nefasto.\r\nUm componente singular.|----|Una escama invertida\r\nprocedente de un saurio vil.\r\nUn componente singular.
 
 Soft hide from a basilisk.\r\nA rare component.|----|A pele delicada de um basilisco.\r\nUm componente singular.|----|La delicada piel de un basilisco.\r\nUn componente singular.
 
@@ -7772,7 +7772,7 @@ A captured Bloodthirsty Beast.\r\nIt can be sold at a high price\r\nand the tast
 
 A captured Carnotaurus.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um carnotauro capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un carnotauro capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
-A captured Jota.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um jota capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un minota capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
+A captured Jota.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um minota capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un minota capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
 A captured Miura.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um miúra capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un miura capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
@@ -7800,9 +7800,9 @@ A captured Fatal Fang.\r\nIt can be sold at a high price\r\nand the taste is ind
 
 A captured Skoll.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um skoll capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un skoll capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
-A captured Swiftmane.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um crina veloz capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un crinveloz capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
+A captured Swiftmane.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um crinaveloz capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un crinveloz capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
-A captured Sharpclaw.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um garra afiada capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un garrador capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
+A captured Sharpclaw.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um garrafiada capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un garrador capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
 A captured Ophois.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um ophois capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un ophois capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
@@ -7852,7 +7852,7 @@ A captured Rapunzel.\r\nIt can be sold at a high price\r\nand the taste is indes
 
 (REPETIDO)A captured Bune.\r\nIt can be sold at a high price\r\nand is best used for lightly cooked dishes.|----|Um bune capturado.\r\nPode ser vendido por um bom preço\r\nou comido com cozidos.|----|Un bune capturado.\r\nPuedes venderlo a muy buen precio\r\no comértelo con ajo y cebolla.
 
-A captured Bluejaws.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um garras azuis capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un cianofauces capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
+A captured Bluejaws.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um garrazul capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un cianofauces capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
 A captured Siren.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Uma sereia capturada.\r\nPode ser vendida por um bom preço\r\ne seu sabor é indescritível.|----|Una sirena capturada.\r\nPuedes venderla a muy buen precio\r\ny tiene un sabor indescriptible.
 
@@ -7896,19 +7896,19 @@ A captured Vavli.\r\nIt can be sold at a high price\r\nand the taste is indescri
 
 A captured Hanuman.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um hanuman capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un hanuman capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
-(REPETIDO)A captured Vile Lizard.\r\nIt can be sold at a high price\r\nand is best eaten with scrambled eggs.|----|Um lagarto desprezível capturado.\r\nPode ser vendido por um bom preço\r\nou comido com ovos mexidos.|----|Un saurio vil capturado.\r\nPuedes venderlo a muy buen precio\r\no zampártelo con huevos revueltos.
+(REPETIDO)A captured Vile Lizard.\r\nIt can be sold at a high price\r\nand is best eaten with scrambled eggs.|----|Um lagarto nefasto capturado.\r\nPode ser vendido por um bom preço\r\nou comido com ovos mexidos.|----|Un saurio vil capturado.\r\nPuedes venderlo a muy buen precio\r\no zampártelo con huevos revueltos.
 
 (REPETIDO)A captured Basilisk.\r\nIt can be sold at a high price\r\nand is best eaten with fried eggs.|----|Um basilisco capturado.\r\nPode ser vendido por um bom preço\r\nou comido com ovos fritos.|----|Un basilisco capturado.\r\nPuedes venderlo a muy buen precio\r\no zampártelo con huevos fritos.
 
 (REPETIDO)A captured Nidhogg.\r\nIt can be sold at a high price\r\nand is best used in omelets.|----|Um nidhogg capturado.\r\nPode ser vendido por um bom preço\r\nou comido com omeletes.|----|Un nidhogg capturado.\r\nPuedes venderlo a muy buen precio\r\no zampártelo en una tortilla.
 
-(REPETIDO)A captured Vile Lizard.\r\nIt can be sold at a high price\r\nand is best eaten with scrambled eggs.|----|Um lagarto desprezível capturado.\r\nPode ser vendido por um bom preço\r\nou comido com ovos mexidos.|----|Un saurio vil capturado.\r\nPuedes venderlo a muy buen precio\r\no zampártelo con huevos revueltos.
+(REPETIDO)A captured Vile Lizard.\r\nIt can be sold at a high price\r\nand is best eaten with scrambled eggs.|----|Um lagarto nefasto capturado.\r\nPode ser vendido por um bom preço\r\nou comido com ovos mexidos.|----|Un saurio vil capturado.\r\nPuedes venderlo a muy buen precio\r\no zampártelo con huevos revueltos.
 
 (REPETIDO)A captured Basilisk.\r\nIt can be sold at a high price\r\nand is best eaten with fried eggs.|----|Um basilisco capturado.\r\nPode ser vendido por um bom preço\r\nou comido com ovos fritos.|----|Un basilisco capturado.\r\nPuedes venderlo a muy buen precio\r\no zampártelo con huevos fritos.
 
 (REPETIDO)A captured Nidhogg.\r\nIt can be sold at a high price\r\nand is best used in omelets.|----|Um nidhogg capturado.\r\nPode ser vendido por um bom preço\r\nou comido com omeletes.|----|Un nidhogg capturado.\r\nPuedes venderlo a muy buen precio\r\no zampártelo en una tortilla.
 
-(REPETIDO)A captured Vile Lizard.\r\nIt can be sold at a high price\r\nand is best eaten with scrambled eggs.|----|Um lagarto desprezível capturado.\r\nPode ser vendido por um bom preço\r\nou comido com ovos mexidos.|----|Un saurio vil capturado.\r\nPuedes venderlo a muy buen precio\r\no zampártelo con huevos revueltos.
+(REPETIDO)A captured Vile Lizard.\r\nIt can be sold at a high price\r\nand is best eaten with scrambled eggs.|----|Um lagarto nefasto capturado.\r\nPode ser vendido por um bom preço\r\nou comido com ovos mexidos.|----|Un saurio vil capturado.\r\nPuedes venderlo a muy buen precio\r\no zampártelo con huevos revueltos.
 
 (REPETIDO)A captured Basilisk.\r\nIt can be sold at a high price\r\nand is best eaten with fried eggs.|----|Um basilisco capturado.\r\nPode ser vendido por um bom preço\r\nou comido com ovos fritos.|----|Un basilisco capturado.\r\nPuedes venderlo a muy buen precio\r\no zampártelo con huevos fritos.
 
@@ -7918,7 +7918,7 @@ A captured Rockbiter.\r\nIt can be sold at a high price\r\nand the taste is inde
 
 A captured Stegosauria King.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um estegosauro rei capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un estegosaurio capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
-A captured Amethyst Eater.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um comedor de ametistas capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un zampamatista capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
+A captured Amethyst Eater.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um comeametista capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un zampamatista capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
 A captured Lil Salamander.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Uma pequena salamandra capturada.\r\nPode ser vendida por um bom preço\r\ne seu sabor é indescritível.|----|Una salamanquesa capturada.\r\nPuedes venderla a muy buen precio\r\ny tiene un sabor indescriptible.
 
@@ -7984,7 +7984,7 @@ A captured Mictlantecuhtli.\r\nIt can be sold at a high price\r\nand the taste i
 
 A captured Void Intruder.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um intruso etéreo capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un intruso etéreo capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
-A captured Bluetalon.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um garrazul capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un zarpazul capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
+A captured Bluetalon.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Um caudazul capturado.\r\nPode ser vendido por um bom preço\r\ne seu sabor é indescritível.|----|Un zarpazul capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
 (REPETIDO)A captured Manticore.\r\nIt can be sold at a high price\r\nand is best used for bratwurst.|----|Uma mantícora capturada.\r\nPode ser vendida por um bom preço\r\nou comida com salsichas.|----|Una mantícora capturada.\r\nPuedes venderla a muy buen precio\r\no comértela con salchichas.
 
@@ -8210,7 +8210,7 @@ A captured Deathmorph.\r\nIt can be sold at a high price\r\nand the taste is ind
 
 A captured Divine Flyer.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Uma mosca divina capturada.\r\nPode ser vendida por um bom preço\r\ne seu sabor é indescritível.|----|Un moscón divino capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
-A captured Skipper.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Uma mosca comandante capturada.\r\nPode ser vendida por um bom preço\r\ne seu sabor é indescritível.|----|Un moscón atleta capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
+A captured Skipper.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Uma mosca chefe capturada.\r\nPode ser vendida por um bom preço\r\ne seu sabor é indescritível.|----|Un moscón atleta capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
 A captured Swallowtail Devil.\r\nIt can be sold at a high price\r\nand the taste is indescribable.|----|Uma mariposa diabólica capturada.\r\nPode ser vendida por um bom preço\r\ne seu sabor é indescritível.|----|Un diablo mariposa capturado.\r\nPuedes venderlo a muy buen precio\r\ny tiene un sabor indescriptible.
 
@@ -8602,7 +8602,7 @@ A battlefield that has seen many deaths. People say that whoever controls this p
 
 (REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Uma fortaleza que tem defendido Elysion de muitos invasores. Ninguém se lembra do seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
 
-(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----Uma fortaleza que tem defendido Elysion de muitos invasores. Ninguém se lembra do seu nome original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
+(REPETIDO)A fortress that has protected Elysion from many a battle. It has lost its original name.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.|----|Una fortaleza que ha defendido Elysion frente a muchos invasores. Nadie recuerda su nombre original.
 
 A fortress of great importance since ancient times. It is also called the King's Fortress due to its placement.|----|Uma fortaleza que tem gozado de grande importância, desde tempos imemoráveis. É também conhecida como Fortaleza do Rei, devido à sua localização.|----|Una fortificación que ha gozado de gran importancia desde tiempos inmemoriales. También se la conoce como «Fortaleza del Rey» debido a su ubicación.
 
@@ -12628,11 +12628,11 @@ A union's HP is the sum of each member's HP.\r\nInstead of worrying about the HP
 
 (REPETIDO)Botch|----|Desordem|----|Desorden
 
-If a union's leader falls in battle, it is a \nBotch\n.\r\nAfterwards, that union can no longer accept battle\r\ncommands, meaning the remaining members\r\ncannot be commanded.|----|Se o líder de uma unidade é derrotado, ela fica em \nDesordem\n.\r\nQuando isso acontece, a unidade não aceita \ncomandos de batalha\ne os personagens\r\nque restarem não poderão receber ordens.|----|Si cae el líder de una unidad, ésta quedará \ndesordenada\n.\r\nSi eso ocurre, la unidad no podrá aceptar \nórdenes de combate\nde modo que no podrás dirigir a ninguno de los personajes\r\nque la componen.
+If a union's leader falls in battle, it is a \nBotch\n.\r\nAfterwards, that union can no longer accept battle\r\ncommands, meaning the remaining members\r\ncannot be commanded.|----|Se o líder de uma unidade é derrotado, ela fica em \nDesordem\n.\r\nQuando isso acontece, a unidade não aceita mais \ncomandos de batalha\ne os personagens\r\nque restarem não poderão receber ordens.|----|Si cae el líder de una unidad, ésta quedará \ndesordenada\n.\r\nSi eso ocurre, la unidad no podrá aceptar \nórdenes de combate\nde modo que no podrás dirigir a ninguno de los personajes\r\nque la componen.
 
-(REPETIDO)Flank Attack|----|Ataque pelos Flancos|----|Ataques por el flanco
+(REPETIDO)Flank Attack|----|Ataque Lateral|----|Ataques por el flanco
 
-When in Deadlock, if a union is attacked from the\r\nside, it is known as a \nFlank Attack\n. It is possible\r\nto be flanked by two unions at a time.\nUnions performing Flank Attacks deal extra damage\n.|----|Durante um Embate, se uma unidade for atacada pelos\r\nlados, ela sofrerá um \nAtaque pelos Flancos\n. É possível\r\nser atacado por ambos os lados ao mesmo tempo.\nUm Ataque pelos Flancos causa mais danos\n.|----|Si una unidad trabada en duelo recibe un ataque\r\ndesde un lateral, sufrirá un \nataque por el flanco\n.\r\nSi esto ocurre, la unidad atacante causará \ndaños extra\n.\r\n¡Ten en cuenta que una unidad puede recibir ataques\r\npor ambos flancos al mismo tiempo!
+When in Deadlock, if a union is attacked from the\r\nside, it is known as a \nFlank Attack\n. It is possible\r\nto be flanked by two unions at a time.\nUnions performing Flank Attacks deal extra damage\n.|----|Durante um Embate, se uma unidade for atacada pelos\r\nflancos, ela sofrerá um \nAtaque Lateral\n. É possível\r\nser atacado por ambos os lados ao mesmo tempo.\nUm Ataque pelos Flancos causa mais danos\n.|----|Si una unidad trabada en duelo recibe un ataque\r\ndesde un lateral, sufrirá un \nataque por el flanco\n.\r\nSi esto ocurre, la unidad atacante causará \ndaños extra\n.\r\n¡Ten en cuenta que una unidad puede recibir ataques\r\npor ambos flancos al mismo tiempo!
 
 (REPETIDO)Rear Assault|----|Ataque pela Retaguarda|----|Ataques por la retaguardia
 
@@ -12924,7 +12924,7 @@ Accepted quest: \nThe Assistant|----|Missão Aceita: \nO assistente|----|Misión
 
 Accepted quest: \nInfestation!|----|Missão Aceita: \nA praga|----|Misión aceptada: \nLa plaga
 
-Accepted quest: \nThe Slave Traders|----|Missão Aceita: \nOs comerciantes de escravos|----|Misión aceptada: \n¿Quién sabe dónde?
+Accepted quest: \nThe Slave Traders|----|Missão Aceita: \nOs traficantes de escravos|----|Misión aceptada: \n¿Quién sabe dónde?
 
 Accepted quest: \nEmotions|----|Missão Aceita: \nValor sentimental|----|Misión aceptada: \nValor sentimental
 
@@ -13060,7 +13060,7 @@ Completed quest: \nThe Assistant|----|Missão Concluída: \nO assistente|----|Mi
 
 Completed quest: \nInfestation!|----|Missão Concluída: \nA praga|----|Misión finalizada: \nLa plaga
 
-Completed quest: \nThe Slave Traders|----|Missão Concluída: \nOs comerciantes de escravos|----|Misión finalizada: \n¿Quién sabe dónde?
+Completed quest: \nThe Slave Traders|----|Missão Concluída: \nOs traficantes de escravos|----|Misión finalizada: \n¿Quién sabe dónde?
 
 Completed quest: \nEmotions|----|Missão Concluída: \nValor sentimental|----|Misión finalizada: \nValor sentimental
 
@@ -13378,7 +13378,7 @@ Mission\n: Defeat the queen!|----|Missão\n: Derrote a rainha!|----|Objetivo:\n 
 
 (REPETIDO)Mission\n: Defeat the enemy!|----|Missão\n: Derrote o inimigo!|----|Objetivo:\n ¡Derrota al enemigo!
 
-Mission\n: Defeat the Charged Idol!|----|Missão\n: Derrote o Ídolo Carregado!|----|Objetivo:\n ¡Derrota al tótem radiante!
+Mission\n: Defeat the Charged Idol!|----|Missão\n: Derrote o Ídolo Divino!|----|Objetivo:\n ¡Derrota al tótem radiante!
 
 Mission\n: Defeat the Fallen!|----|Missão\n: Derrote o Condenado!|----|Objetivo:\n ¡Derrota al Condenado!
 
@@ -13470,9 +13470,9 @@ Item arts\n are skills using consumables to create\r\nuseful things such as poti
 
 *\nHerbs\n combine plants for recovery.\r\n*\nPotions\n combine liquids for useful supplements.\r\n*\nLotions\n combine medicines to make healing balms.\r\n*\nExplosives\n combine explosive powders.\r\n*\nShards\n can be fused and used for attacks.\r\n*\nTraps\n are made from special parts to trip up the foe.|----|* As \nervas\n ajudam seus personagens a se recuperar.\r\n* As \npoções\n proporcionam diversas bonificações.\r\n* As \nloções\n são substâncias com propriedades curativas.\r\n* Os \nexplosivos\n são combinações de substâncias voláteis.\r\n* Os \ncristais\n podem ser fundidos e usados em ataques.\r\n* As \narmadilhas\n permitem pegar o inimigo de surpresa.|----|* Las \nhierbas\n ayudan a tus personajes a recuperarse.\r\n* Las \npociones\n proporcionan diversos bonificadores.\r\n* Los \nungüentos\n son sustancias con propiedades curativas.\r\n* Los \nexplosivos\n son combinaciones de sustancias volátiles.\r\n* Los \ncristales\n permiten lanzar ataques al fusionarlos.\r\n* Las \ntrampas\n te permiten coger al enemigo por sorpresa.
 
-The \none-handed\n wield style is speedy and allows for\r\nusers to equip a shield. However, its attack power is low.\nPower grip\n wield style has increased\r\nstrength, but attacks take longer.\nDual wield\n style is unmatched in attack\r\npower, but makes it nigh impossible to avoid attacks.|----|O estilo de combate de \numa mão\n é veloz e permite usar\r\num escudo, mas seu poder de ataque é baixo. O estilo de \numa ou duas mãos\n é mais\r\npotente, mas é mais lento. O estilo de \nambas as mãos\n possui\r\num grande poder de ataque, mas reduz consideravelmente a defesa.|----|* El estilo de combate a \nuna mano\n resulta\r\nsumamente rápido y permite usar un escudo,\r\npero su poder de ataque es bajo.\r\n* El estilo de \ndoble agarre\n es muy potente,\r\npero resulta más lento que el de una mano.\r\n* El \nestilo dual\n goza de una gran potencia\r\nde ataque, pero reduce considerablemente\r\nla defensa del usuario.
+The \none-handed\n wield style is speedy and allows for\r\nusers to equip a shield. However, its attack power is low.\nPower grip\n wield style has increased\r\nstrength, but attacks take longer.\nDual wield\n style is unmatched in attack\r\npower, but makes it nigh impossible to avoid attacks.|----|O estilo de combate de \numa mão\n é veloz e permite usar\r\num escudo, mas seu poder de ataque é baixo. O estilo de \npegada dupla\n é mais\r\npotente, mas é mais lento. O estilo de \nambas as mãos\n possui\r\num grande poder de ataque, mas reduz consideravelmente a defesa.|----|* El estilo de combate a \nuna mano\n resulta\r\nsumamente rápido y permite usar un escudo,\r\npero su poder de ataque es bajo.\r\n* El estilo de \ndoble agarre\n es muy potente,\r\npero resulta más lento que el de una mano.\r\n* El \nestilo dual\n goza de una gran potencia\r\nde ataque, pero reduce considerablemente\r\nla defensa del usuario.
 
-Sovani can \nquad wield\n, using four weapons at once\r\nfor crushing attack strength. Their \ndual power grip\ndelivers even more powerful blows. However, both\r\ntypes of attacks take longer to pull off.|----|Os sovanis podem usar o estilo \nquatro mãos\n, que permite lançar\r\num ataque devastador com quatro armas. O estilo \nambas as mãos sovani\n, por sua vez,\r\npossui uma poder de ataque ainda maior. Ambos tipos de ataque, no entanto,\r\ndemoram para serem realizados.|----|Los sovanis pueden usar el \nestilo cuádruple\n,\r\nque les permite lanzar devastadores ataques\r\ncon cuatro armas a la vez.\nEl estilo de \ndoble agarre sovani\n, por su parte,\r\ngoza de una potencia de ataque aún mayor,\r\npero también resulta relativamente lento.
+Sovani can \nquad wield\n, using four weapons at once\r\nfor crushing attack strength. Their \ndual power grip\ndelivers even more powerful blows. However, both\r\ntypes of attacks take longer to pull off.|----|Os sovanis podem usar o estilo \nquatro mãos\n, que permite lançar\r\num ataque devastador com quatro armas. O estilo \npegada dupla sovani\n, por sua vez,\r\npossui uma poder de ataque ainda maior. Ambos tipos de ataque, no entanto,\r\ndemoram para serem realizados.|----|Los sovanis pueden usar el \nestilo cuádruple\n,\r\nque les permite lanzar devastadores ataques\r\ncon cuatro armas a la vez.\nEl estilo de \ndoble agarre sovani\n, por su parte,\r\ngoza de una potencia de ataque aún mayor,\r\npero también resulta relativamente lento.
 
 Certain battle commands can allow a unit to change\r\nwield styles during battle. This is limited by the type\r\nof weapon the unit currently has equipped. For\r\nexample, if a unit equips a two-handed weapon,\r\nit cannot change its wield style from two-handed.|----|Certos comandos de batalha permitem\r\na troca do estilo de combate no meio da batalha,\r\nmas isso vai depender da arma equipada.\r\nUm personagem que está usando uma arma de\r\nduas mãos, por exemplo, não pode trocar de estilo.|----|Determinadas órdenes de batalla permiten\r\ncambiar de estilo en mitad de un combate,\r\npero esto sólo es posible con ciertas armas:\r\npor ejemplo, un personaje que empuñe\r\nun arma de dos manos no podrá cambiar\r\nde estilo.
 
@@ -13488,7 +13488,7 @@ When unions are caught in close combat, it is\r\nknown as \nDeadlock\n. In such 
 
 Canceling Deadlock leaves a union wide open to\r\nattack and gives the opposite union a large\r\ndamage bonus. Keep this in mind.|----|Se uma unidade abandona um embate, ela fica exposta\r\na ataques. A unidade contra a qual ela lutava, também, poderá\r\ninfligir mais danos. Pense duas vezes antes de abandonar um embate!|----|Si una unidad abandona un duelo, quedará expuesta\r\na los ataques. Además, la unidad contra la que luchaba\r\nrecibirá una bonificación y podrá infligir mayores daños.\r\n¡Piénsatelo dos veces antes de abandonar un duelo!
 
-If a Deadlocked union is melee attacked from the\r\nside, it is known as a \nFlank Attack\n. It is possible\r\nto be flanked by two unions at a time.\nUnions performing Flank Attacks deal extra damage.|----|Quando uma unidade travada em embate recebe um ataque\r\nlateral, diz-se que sofreu um \nAtaque pelo Flanco\r\n. É possível\r\nreceber ataques por ambos os flancos ao mesmo tempo.\nUnidades que realizam Ataques pelos Flancos causam mais danos.|----|Si una unidad trabada en duelo recibe un ataque\r\ndesde un lateral, sufrirá un \nataque por el flanco\n.\r\nSi esto ocurre, la unidad atacante causará \ndaños extra\n.\r\n¡Ten en cuenta que una unidad puede recibir ataques\r\npor ambos flancos al mismo tiempo!
+If a Deadlocked union is melee attacked from the\r\nside, it is known as a \nFlank Attack\n. It is possible\r\nto be flanked by two unions at a time.\nUnions performing Flank Attacks deal extra damage.|----|Quando uma unidade travada em embate recebe um ataque\r\npelos flancos, diz-se que sofreu um \nAtaque Lateral\r\n. É possível\r\nreceber ataques por ambos os flancos ao mesmo tempo.\nUnidades que realizam Ataques pelos Flancos causam mais danos.|----|Si una unidad trabada en duelo recibe un ataque\r\ndesde un lateral, sufrirá un \nataque por el flanco\n.\r\nSi esto ocurre, la unidad atacante causará \ndaños extra\n.\r\n¡Ten en cuenta que una unidad puede recibir ataques\r\npor ambos flancos al mismo tiempo!
 
 When in Deadlock, if one union is Flank Attacked by\r\ntwo unions, any further union Deadlocking the\r\nvictim union launches a \nRear Assault\n.\nUnions performing Rear Assaults deal extra damage.|----|Durante um embate, se uma unidade estiver sendo atacada por\r\nambos os lados, e uma nova unidade se une\r\nao embate, então essa unidade efetua um \nAtaque pela Retaguarda\n.\r\nUnidades que atacam pela retaguarda causam mais danos.|----|Si una unidad trabada en duelo recibe ataques\r\npor ambos flancos, la siguiente unidad que se una\r\nal duelo podrá efectuar un \nataque por la retaguardia\n.\r\nLas unidades que realicen ataques por la retaguardia\ncausarán daños extra\n.
 
@@ -13496,7 +13496,7 @@ When in Deadlock, if one union is Flank Attacked by\r\ntwo unions, any further u
 
 Some special unions, such as those containing certain\r\nextremely large units, are able to Deadlock multiple unions\r\nat once. This is called a \nMulti Deadlock\n.|----|Algumas unidades especiais, como aquelas formadas por inimigos\r\nde tamanho descomunal, podem iniciar um embate com\r\nvárias unidades ao mesmo tempo. Isso recebe o nome de \nMulti Embate\n.|----|Algunas unidades especiales, como aquellas\r\nformadas por enemigos de tamaño descomunal,\r\npueden trabarse en duelo con varias unidades\r\nal mismo tiempo.\nEsto recibe el nombre de \nmultiduelo\n.
 
-A union victim to a Flank Attack, Rear Assault, or\r\nMassive Strike will be hit for additional damage.\r\nThe damage bonus for Rear Assault and Massive\r\nStrike is greater than that for Flank Attack.|----|Uma unidade que sofre um ataque pelo flanco, um\r\nataque pela retaguarda ou ainda um ataque em massa recebe mais danos.\r\nOs danos causados por um ataque pela retaguarda e em massa\r\nsão maiores que aqueles causados por ataque pelos flancos.|----|Una unidad que sufra un ataque por el flanco,\r\nun ataque por la retaguardia o un ataque en masa\r\nrecibirá daños adicionales. La bonificación de daños\r\nque otorgan los ataques por la retaguardia y en masa\r\nes mayor que la que otorgan los ataques por el flanco.
+A union victim to a Flank Attack, Rear Assault, or\r\nMassive Strike will be hit for additional damage.\r\nThe damage bonus for Rear Assault and Massive\r\nStrike is greater than that for Flank Attack.|----|Uma unidade que sofre um ataque lateral, um\r\nataque pela retaguarda ou ainda um ataque em massa recebe mais danos.\r\nOs danos causados por um ataque pela retaguarda e em massa\r\nsão maiores que aqueles causados por ataque pelos flancos.|----|Una unidad que sufra un ataque por el flanco,\r\nun ataque por la retaguardia o un ataque en masa\r\nrecibirá daños adicionales. La bonificación de daños\r\nque otorgan los ataques por la retaguardia y en masa\r\nes mayor que la que otorgan los ataques por el flanco.
 
 It is possible to force a union into Deadlock without\r\nbeing physically near. This is called a \nRaidlock\n.\r\nWhile raiding, the target union is hit for extra damage,\r\nbut the raid only lasts for one turn.|----|É possível forçar uma unidade a entrar em embate\r\nsem estar próximo dela. Isso recebe o nome de \nAtaque Relâmpago\n.\r\nUma unidade que receber um ataque relâmpago sofrerá mais\r\ndanos, mas isso só vai durar um turno.|----|Es posible obligar a una unidad a entrar en duelo\r\naunque no te encuentres cerca de ella. Esto recibe\r\nel nombre de \nataque relámpago\n.\nUna unidad que reciba un ataque relámpago\r\nsufrirá daños extra. Sin embargo, este ataque\r\nsolamente dura un turno.
 
@@ -13506,7 +13506,7 @@ Weapons also have \nattack strength\n, \nparry rate\n,\nweight\n, and \ndamage a
 
 Weapons and combat arts all deal \nslashing\n, \nbludgeoning\n,\nmauling\n, or \npiercing damage\n.\r\nThese attributes can add to the damage dealt to a target.|----|As armas e artes de combate causam danos \npor corte\n, \npor contusão\n, \npor impacto\n, ou \npor estocada\n.\r\nEsses atributos podem aumentar os danos causados.|----|Las armas y artes de combate causan daños \npor corte\n,\npor contusión\n, \npor impacto\n o \npor estocada\n.\nEstos atributos pueden aumentar los daños que recibe\r\nel objetivo de un ataque.
 
-If a union's leader falls in battle, it is a \nBotch\n.\r\nAfterwards, \nthat union can no longer accept battle\ncommands\n, meaning the remaining members\r\ncannot be commanded.|----|Se cai o líder de uma unidade, ela ficará \nDesorientada\n.\r\nQuando isso acontece, \nessa unidade não aceita mais \ncomandos de batalha\n, o que significa que nenhum de seus membros\r\npoderão ser comandados.|----|Si cae el líder de una unidad, ésta quedará \ndesordenada\n.\r\nSi eso ocurre, la unidad no podrá aceptar \nórdenes de combate\n,\r\nde modo que no podrás dirigir a ninguno de los personajes\r\nque la componen.
+If a union's leader falls in battle, it is a \nBotch\n.\r\nAfterwards, \nthat union can no longer accept battle\ncommands\n, meaning the remaining members\r\ncannot be commanded.|----|Se o líder de uma unidade é derrotado, ela fica em \nDesordem\n.\r\nQuando isso acontece, \nessa unidade não aceita mais \ncomandos de batalha\ne os personagens\r\nque restarem não poderão receber ordens.|----|Si cae el líder de una unidad, ésta quedará \ndesordenada\n.\r\nSi eso ocurre, la unidad no podrá aceptar \nórdenes de combate\n,\r\nde modo que no podrás dirigir a ninguno de los personajes\r\nque la componen.
 
 If a unit has a single one-handed weapon equipped,\r\nit may also equip a shield. Shields are beneficial\r\nfor \nevading attacks\n.|----|Se um personagem usa uma arma de uma mão,\r\ntambém poderá usar um escudo. Escudos podem\r\najudar na \nevasão de ataques\n.|----|Si un personaje blande una sola arma de una mano,\r\ntambién podrá portar un escudo. Utilizar un escudo\r\nayuda a \nevadir\n los ataques.
 
@@ -13660,7 +13660,7 @@ Spells referred to as \nArcana\n can be\r\nunleashed when several units' spells 
 
 Main Actions dummy|----|Main Actions dummy|----|Acciones principales
 
-(REPETIDO)Attack|----|Ataque|----|Ataques normales
+(REPETIDO)Attack|----|Ataque aaaaa|----|Ataques normales
 
 (REPETIDO)Combat Arts|----|Artes de Combate|----|Artes de combate
 
@@ -13704,7 +13704,7 @@ Sub Actions dummy|----|Sub Actions dummy|----|Acciones secundarias
 
 (REPETIDO)One-Handed|----|Uma Mão|----|Una mano
 
-(REPETIDO)Power Grip|----|Ambas as Mãos|----|Doble agarre
+(REPETIDO)Power Grip|----|Pegada Dupla|----|Doble agarre
 
 (REPETIDO)Dual Wield|----|Uma ou Duas Mãos|----|Estilo dual
 
@@ -13712,7 +13712,7 @@ Sub Actions dummy|----|Sub Actions dummy|----|Acciones secundarias
 
 (REPETIDO)Quad Wield|----|Quatro Mãos|----|Estilo cuádruple
 
-(REPETIDO)Dual Power Grip|----|Ambas as Mãos Sovani|----|Doble agarre sovani
+(REPETIDO)Dual Power Grip|----|Pegada Dupla Sovani|----|Doble agarre sovani
 
 (REPETIDO)Dual Two-Handed|----|Duas Mãos Sovani|----|Dos manos sovani
 
@@ -18478,7 +18478,7 @@ Psyche them out!|----|Acabem com a moral deles!|----|¡Hundidles la moral!
 
 Take 'em all out at once!|----|Acabem com eles de uma vez!|----|¡Aniquiladlos de un plumazo!
 
-Keep your HP up!|----|Mantenham seus PVs elevados!|----|¡Atacad, pero curaos las heridas!
+Keep your HP up!|----|Mantenham seus PV elevados!|----|¡Atacad, pero curaos las heridas!
 
 Hang in there!|----|Aguentem aí!|----|¡Resistid un poco más!
 
@@ -19132,11 +19132,11 @@ Whip II|----|Chicote II|----|Látigo (II)
 
 Whip III|----|Chicote III|----|Látigo (III)
 
-(REPETIDO)Lash|----|Golpe de Chicote|----|Fusta
+(REPETIDO)Lash|----|Açoite|----|Fusta
 
-Lash II|----|Golpe de Chicote II|----|Fusta (II)
+Lash II|----|Açoite II|----|Fusta (II)
 
-Lash III|----|Golpe de Chicote III|----|Fusta (III)
+Lash III|----|Açoite III|----|Fusta (III)
 
 (REPETIDO)Flail|----|Flagelo|----|Flagelo
 
@@ -19356,15 +19356,15 @@ One-Handed OK|----|Utilize uma mão|----|Utilizable a una mano
 
 [One-Handed] + 5|----|[Uma Mão] + 5|----|Una mano +5
 
-(REPETIDO)[Power Grip] + 1|----|[Ambas as Mãos] + 1|----|Doble agarre +1
+(REPETIDO)[Power Grip] + 1|----|[Pegada Dupla] + 1|----|Doble agarre +1
 
-[Power Grip] + 2|----|[Ambas as Mãos] + 2|----|Doble agarre +2
+[Power Grip] + 2|----|[Pegada Dupla] + 2|----|Doble agarre +2
 
-[Power Grip] + 3|----|[Ambas as Mãos] + 3|----|Doble agarre +3
+[Power Grip] + 3|----|[Pegada Dupla] + 3|----|Doble agarre +3
 
-(REPETIDO)[Power Grip] + 4|----|[Ambas as Mãos] + 4|----|Doble agarre +4
+(REPETIDO)[Power Grip] + 4|----|[Pegada Dupla] + 4|----|Doble agarre +4
 
-[Power Grip] + 5|----|[Ambas as Mãos] + 5|----|Doble agarre +5
+[Power Grip] + 5|----|[Pegada Dupla] + 5|----|Doble agarre +5
 
 (REPETIDO)[Dual Wield] + 1|----|[Uma ou Duas Mãos] + 1|----|Estilo dual +1
 
@@ -19396,15 +19396,15 @@ One-Handed OK|----|Utilize uma mão|----|Utilizable a una mano
 
 [Quad Wield] + 5|----|[Quatro mãos] + 5|----|Estilo cuádruple +5
 
-[Dual Power Grip] + 1|----|[Ambas as Mãos Sovani] + 1|----|Doble agarre sovani +1
+[Dual Power Grip] + 1|----|[Pegada Dupla Sovani] + 1|----|Doble agarre sovani +1
 
-[Dual Power Grip] + 2|----|[Ambas as Mãos Sovani] + 2|----|Doble agarre sovani +2
+[Dual Power Grip] + 2|----|[Pegada Dupla Sovani] + 2|----|Doble agarre sovani +2
 
-[Dual Power Grip] + 3|----|[Ambas as Mãos Sovani] + 3|----|Doble agarre sovani +3
+[Dual Power Grip] + 3|----|[Pegada Dupla Sovani] + 3|----|Doble agarre sovani +3
 
-[Dual Power Grip] + 4|----|[Ambas as Mãos Sovani] + 4|----|Doble agarre sovani +4
+[Dual Power Grip] + 4|----|[Pegada Dupla Sovani] + 4|----|Doble agarre sovani +4
 
-[Dual Power Grip] + 5|----|[Ambas as Mãos Sovani] + 5|----|Doble agarre sovani +5
+[Dual Power Grip] + 5|----|[Pegada Dupla Sovani] + 5|----|Doble agarre sovani +5
 
 [Dual Two-Handed] + 1|----|[Duas Mãos Sovani] + 1|----|Dos manos sovani +1
 
@@ -19770,7 +19770,7 @@ Debuff Duration - 4|----|Duração de Penalização - 4|----|Duración de penali
 
 [Imp] Bonus|----|[Diabrete] Bônus|----|Eficaz contra diablillos
 
-[Vile Lizard] Bonus|----|[Lagarto Desprezível] Bônus|----|Eficaz contra saurios viles
+[Vile Lizard] Bonus|----|[Lagarto Nefasto] Bônus|----|Eficaz contra saurios viles
 
 [Azhdaha] Bonus|----|[Azhdaha] Bônus|----|Eficaz contra azhdahas
 
@@ -20022,7 +20022,7 @@ Debuff Duration - 4|----|Duração de Penalização - 4|----|Duración de penali
 
 [Evocations] + 5|----|[Evocações] + 5|----|Evocaciones +5
 
-[i] + 1|----|[Maldições] + 1|----|Maleficios +1
+[Hexes] + 1|----|[Maldições] + 1|----|Maleficios +1
 
 [Hexes] + 2|----|[Maldições] + 2|----|Maleficios +2
 
@@ -21042,7 +21042,7 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 [Phys]Resist + 5/[Maul][Pierce]DEF + 5|----|[Física]Resistência + 5/[Impacto][Perfuração] DEF + 5|----|Res. fís. +5 / DEF impacto/estocada +5
 
-(REPETIDO)[Power Grip] + 1|----|[Ambas as Mãos] + 1|----|Doble agarre +1
+(REPETIDO)[Power Grip] + 1|----|[Pegada Dupla] + 1|----|Doble agarre +1
 
 (REPETIDO)[One-Handed] + 1|----|[Uma Mão] + 1|----|Una mano +1
 
@@ -21060,7 +21060,7 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 (REPETIDO)[Staff] + 3|----|[Cajado] + 3|----|Bastones +3
 
-[Power Grip][Dual Wield] + 3|----|[Ambas as Mãos][Uma ou Duas Mãos] + 3|----|Doble agarre +3 / Estilo dual +3
+[Power Grip][Dual Wield] + 3|----|[Pegada Dupla][Uma ou Duas Mãos] + 3|----|Doble agarre +3 / Estilo dual +3
 
 (REPETIDO)[Spear] + 3|----|[Lança] + 3|----|Lanzas +3
 
@@ -21072,7 +21072,7 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 (REPETIDO)[Katana] + 4|----|[Katana] + 4|----|Katanas +4
 
-(REPETIDO)[Power Grip] + 4|----|[Ambas as Mãos] + 4|----|Doble agarre +4
+(REPETIDO)[Power Grip] + 4|----|[Pegada Dupla] + 4|----|Doble agarre +4
 
 (REPETIDO)[Spear] + 4|----|[Lança] + 4|----|Lanzas +4
 
@@ -21714,7 +21714,7 @@ Melodramatic Qsiti|----|Qsiti Melodramático|----|Qsiti melodramático
 
 The Knights of Melphina|----|Cavaleiros da Ordem de Melphina|----|Caballeros de la Orden
 
-(REPETIDO)The Ladies of Bloody Alice|----|Damas Sangrentas|----|Damas Sangrientas
+(REPETIDO)The Ladies of Bloody Alice|----|As Damas Sangrentas|----|Damas Sangrientas
 
 (REPETIDO)The Forest Maidens|----|Donzelas do Bosque|----|Doncellas del bosque
 
@@ -23242,7 +23242,7 @@ Fiery Idol|----|Ídolo Flamejante|----|Tótem ardiente
 
 Icy Idol|----|Ídolo Glacial|----|Tótem glacial
 
-Charged Idol|----|Ídolo Carregado|----|Tótem divino
+Charged Idol|----|Ídolo Divino|----|Tótem divino
 
 Divine Idol|----|Ídolo Divino|----|Tótem divino
 
@@ -23328,7 +23328,7 @@ Bloodthirsty Beast|----|Fera Sanguinária|----|Bestia voraz
 
 Carnotaurus|----|Carnotauro |----|Carnotauro
 
-Jota|----|Jota|----|Minota
+Jota|----|Minota|----|Minota
 
 Miura|----|Miúra|----|Miura
 
@@ -23356,9 +23356,9 @@ Fatal Fang|----|Presa Mortal|----|Colmillo mortal
 
 Skoll|----|Skoll|----|Skoll
 
-Swiftmane|----|Crina Veloz|----|Crinveloz
+Swiftmane|----|Crinaveloz|----|Crinveloz
 
-Sharpclaw|----|Garra Afiada|----|Garrador
+Sharpclaw|----|Garrafiada|----|Garrador
 
 Ophois|----|Ophois|----|Ophois
 
@@ -23408,7 +23408,7 @@ Rapunzel|----|Rapunzel|----|Rapunzel
 
 (REPETIDO)Bune|----|Bune|----|Bune
 
-Bluejaws|----|Garras Azuis|----|Cianofauces
+Bluejaws|----|Garrazul|----|Cianofauces
 
 Siren|----|Sereia|----|Sirena
 
@@ -23452,19 +23452,19 @@ Vali|----|Vali|----|Vali
 
 Hanuman|----|Hanuman|----|Hanuman
 
-(REPETIDO)Vile Lizard|----|Lagarto Desprezível|----|Saurio vil
+(REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
 (REPETIDO)Basilisk|----|Basilisco |----|Basilisco
 
 (REPETIDO)Nidhogg|----|Nidhogg|----|Nidhogg
 
-(REPETIDO)Vile Lizard|----|Lagarto Desprezível|----|Saurio vil
+(REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
 (REPETIDO)Basilisk|----|Basilisco |----|Basilisco
 
 (REPETIDO)Nidhogg|----|Nidhogg|----|Nidhogg
 
-(REPETIDO)Vile Lizard|----|Lagarto Desprezível|----|Saurio vil
+(REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
 (REPETIDO)Basilisk|----|Basilisco |----|Basilisco
 
@@ -23474,7 +23474,7 @@ Rockbiter|----|Mordepedra |----|Picapeñascos
 
 Stegosauria King|----|Estegosauro Rei|----|Estegosaurio
 
-Amethyst Eater|----|Comedor de Ametistas|----|Zampamatista
+Amethyst Eater|----|Comeametista|----|Zampamatista
 
 Lil' Salamander|----|Pequena Salamandra|----|Pequeña salamandra
 
@@ -23540,7 +23540,7 @@ Mictlantecuhtli|----|Mictlantecuhtli|----|Mictlantecuhtli
 
 Void Intruder|----|Intruso Etéreo|----|Intruso etéreo
 
-Bluetalon|----|Garrazul |----|Zarpazul
+Bluetalon|----|Caudazul|----|Zarpazul
 
 (REPETIDO)Manticore|----|Mantícora |----|Mantícora
 
@@ -23766,7 +23766,7 @@ Deathmorph|----|Aniquilador |----|Aniquilador
 
 Divine Flyer|----|Mosca Divina|----|Moscón divino
 
-Skipper|----|Mosca Comandante|----|Moscón atleta
+Skipper|----|Mosca Chefe|----|Moscón atleta
 
 Swallowtail Devil|----|Mariposa Diabólica|----|Diablo mariposa
 
@@ -24220,9 +24220,9 @@ Transporter|----|Transportador|----|Transportador
 
 Teleporter|----|Teletransportador|----|Teletransportador
 
-Felling Point|----|Ponto de Extração|----|Punto de tala
+Felling Point|----|Ponto de Corte|----|Punto de tala
 
-Digging Point|----|Ponto de Escavação|----|Punto de extracción
+Digging Point|----|Ponto de Extração|----|Punto de extracción
 
 Diving Point|----|Ponto de Perfuração|----|Punto de perforación
 
@@ -27132,7 +27132,7 @@ Equipment Style dummy|----|Equipment Style dummy|----|Estilos de equipo
 
 (REPETIDO)One-Handed|----|Uma Mão|----|Una mano
 
-(REPETIDO)Power Grip|----|Ambas as Mãos|----|Doble agarre
+(REPETIDO)Power Grip|----|Pegada Dupla|----|Doble agarre
 
 (REPETIDO)Dual Wield|----|Uma ou Duas Mãos|----|Estilo dual
 
@@ -27140,7 +27140,7 @@ Equipment Style dummy|----|Equipment Style dummy|----|Estilos de equipo
 
 (REPETIDO)Quad Wield|----|Quatro Mãos|----|Estilo cuádruple
 
-(REPETIDO)Dual Power Grip|----|Ambas as Mãos Sovani|----|Doble agarre sovani
+(REPETIDO)Dual Power Grip|----|Pegada Dupla Sovani|----|Doble agarre sovani
 
 (REPETIDO)Dual Two-Handed|----|Duas Mãos Sovani|----|Dos manos sovani
 
@@ -27858,7 +27858,7 @@ Lavafender Map 2|----|Mapa de Lavafender 2|----|Mapa de Lavaluarte (II)
 
 Vale of the Gods Map|----|Mapa do Vale dos Deuses|----|Mapa del Valle de los Dioses
 
-Cherry Pavilion Map|----|Mapa do Pavilhão das Cerejas|----|Mapa del Pabellón de los Cerezos
+Cherry Pavilion Map|----|Mapa do Pavilhão das Cerejeiras|----|Mapa del Pabellón de los Cerezos
 
 Robelia Ruins Map 1|----|Mapa das Ruínas de Robélia 1|----|Mapa de Robelia (I)
 
@@ -27916,11 +27916,11 @@ Fifth Path Map|----|Mapa do Quinto Caminho|----|Mapa de la quinta galería
 
 Sixth Path Map|----|Mapa do Sexto Caminho|----|Mapa de la sexta galería
 
-Flaumello Tower Map 1|----|Mapa da Torre Flaumello 1|----|Mapa de la Torre de Flaumello (I)
+Flaumello Tower Map 1|----|Mapa da Torre de Flaumello 1|----|Mapa de la Torre de Flaumello (I)
 
-Flaumello Tower Map 2|----|Mapa da Torre Flaumello 2|----|Mapa de la Torre de Flaumello (II)
+Flaumello Tower Map 2|----|Mapa da Torre de Flaumello 2|----|Mapa de la Torre de Flaumello (II)
 
-Flaumello Tower Map 3|----|Mapa da Torre Flaumello 3|----|Mapa de la Torre de Flaumello (III)
+Flaumello Tower Map 3|----|Mapa da Torre de Flaumello 3|----|Mapa de la Torre de Flaumello (III)
 
 Mojcado Castle Map 1|----|Mapa do Castelo Mojcado 1|----|Mapa del Castillo de Muscato (I)
 
@@ -28074,7 +28074,7 @@ Hydra Weekly|----|Biologia da Hidra|----|Biología de la hidra
 
 Imp Weekly|----|Biologia do Diabrete|----|Biología del diablillo
 
-Vile Lizard Weekly|----|Biologia do Lagarto Desprezível|----|Biología del saurio vil
+Vile Lizard Weekly|----|Biologia do Lagarto Nefasto|----|Biología del saurio vil
 
 Azhdaha Weekly|----|Biologia do Azhdaha|----|Biología del azhdaha
 
@@ -28134,7 +28134,7 @@ The Daily Hydra|----|Biologia da Hidra|----|Anatomía de la hidra
 
 The Daily Imp|----|Biologia do Diabrete|----|Anatomía del diablillo
 
-The Daily Vile Lizard|----|Biologia do Lagarto Desprezível|----|Anatomía del saurio vil
+The Daily Vile Lizard|----|Biologia do Lagarto Nefasto|----|Anatomía del saurio vil
 
 The Daily Azhdaha|----|Biologia do Azhdaha|----|Anatomía del azhdaha
 
@@ -28396,7 +28396,7 @@ Ring of Labyrinth Rank 5|----|Círculo do Labirinto Nível 5|----|Certificado de
 
 (REPETIDO)Whip|----|Chicote|----|Látigo
 
-(REPETIDO)Lash|----|Golpe de Chicote|----|Fusta
+(REPETIDO)Lash|----|Açoite|----|Fusta
 
 (REPETIDO)Flail|----|Flagelo|----|Flagelo
 
@@ -29036,7 +29036,7 @@ Rough Kelpie Stone|----|Pedra Bruta de Corcel|----|Gema de corcel
 
 Rough Knocker Stone|----|Pedra Bruta de Aldrava|----|Gema de ladrón en bruto
 
-Elf's Emerald|----|Esmeralda dos Elfos|----|Esmeralda élfica
+Elf's Emerald|----|Esmeralda Élfica|----|Esmeralda élfica
 
 Spriggan's Step|----|Fantasia de Fauno|----|Fantasía de fauno
 
@@ -29072,7 +29072,7 @@ Kobold's Halfdutch|----|Cabochão de Kobold|----|Cabujón de kobold
 
 Banshee's Octagon|----|Octógono de Banshee|----|Octógono de banshee
 
-Dwarf's Cabochon|----|Cabochão dos Anões|----|Estrella enana
+Dwarf's Cabochon|----|Estrela Anã|----|Estrella enana
 
 Leanan Sídhe's Brilliance|----|Brilhante de Fada|----|Brillante de musa
 
@@ -29740,19 +29740,19 @@ Large Donda Talon|----|Garra Grande de Donda|----|Gran garra de dronda
 
 Large Dondada Talon|----|Garra Grande de Dondada|----|Gran garra de drondade
 
-Vile Lizard Scale|----|Escama de Lagarto Desprezível|----|Escama de saurio vil
+Vile Lizard Scale|----|Escama de Lagarto Nefasto|----|Escama de saurio vil
 
-Vile Lizard Talon|----|Garra de Lagarto Desprezível|----|Garra de saurio vil
+Vile Lizard Talon|----|Garra de Lagarto Nefasto|----|Garra de saurio vil
 
-Vile Lizard Tail|----|Cauda de Lagarto Desprezível|----|Cola de saurio vil
+Vile Lizard Tail|----|Cauda de Lagarto Nefasto|----|Cola de saurio vil
 
-Vile Lizard Pouch|----|Maxilar de Lagarto Desprezível|----|Bolsa maxilar de saurio vil
+Vile Lizard Pouch|----|Maxilar de Lagarto Nefasto|----|Bolsa maxilar de saurio vil
 
-Coiled Vile Lizard Scale|----|Escama Enrolada de Lagarto Desprezível|----|Escama enroscada de saurio vil
+Coiled Vile Lizard Scale|----|Escama Enrolada de Lagarto Nefasto|----|Escama enroscada de saurio vil
 
-Vile Lizard Mane|----|Cabeleira de Lagarto Desprezível|----|Melena de saurio vil
+Vile Lizard Mane|----|Cabeleira de Lagarto Nefasto|----|Melena de saurio vil
 
-Inverted Vile Lizard Scale|----|Escama Invertida de Lagarto Desprezível|----|Escama invertida de saurio vil
+Inverted Vile Lizard Scale|----|Escama Invertida de Lagarto Nefasto|----|Escama invertida de saurio vil
 
 Soft Basilisk Hide|----|Pele de Basilisco |----|Piel de basilisco
 
@@ -30280,7 +30280,7 @@ Captured Bloodthirsty Beast|----|Fera Sanguinária capturada|----|Bestia voraz c
 
 Captured Carnotaurus|----|Carnotauro capturado|----|Carnotauro capturado
 
-Captured Jota|----|Jota capturado|----|Minota capturado
+Captured Jota|----|Minota capturado|----|Minota capturado
 
 Captured Miura|----|Miúra capturado|----|Miura capturado
 
@@ -30308,9 +30308,9 @@ Captured Fatal Fang|----|Presa Mortal capturado|----|Colmillo mortal capturado
 
 Captured Skoll|----|Skoll capturado|----|Skoll capturado
 
-Captured Swiftmane|----|Crina Veloz capturado|----|Crinveloz capturado
+Captured Swiftmane|----|Crinaveloz capturado|----|Crinveloz capturado
 
-Captured Sharpclaw|----|Garra Afiada capturado|----|Garrador capturado
+Captured Sharpclaw|----|Garrafiada capturado|----|Garrador capturado
 
 Captured Ophois|----|Ophois capturado|----|Ophois capturado
 
@@ -30360,7 +30360,7 @@ Captured Rapunzel|----|Rapunzel capturado|----|Rapunzel capturado
 
 (REPETIDO)Captured Bune|----|Bune capturado|----|Bune capturado
 
-Captured Bluejaws|----|Garras Azuis capturado|----|Cianofauces capturado
+Captured Bluejaws|----|Garrazul capturado|----|Cianofauces capturado
 
 Captured Siren|----|Sereia capturado|----|Sirena capturada
 
@@ -30404,19 +30404,19 @@ Captured Vavli|----|Vavli capturado|----|Vali capturado
 
 Captured Hanuman|----|Hanuman capturado|----|Hanuman capturado
 
-(REPETIDO)Captured Vile Lizard|----|Lagarto Desprezível capturado|----|Saurio vil capturado
+(REPETIDO)Captured Vile Lizard|----|Lagarto Nefasto capturado|----|Saurio vil capturado
 
 (REPETIDO)Captured Basilisk|----|Basilisco capturado|----|Basilisco capturado
 
 (REPETIDO)Captured Nidhogg|----|Nidhogg capturado|----|Nidhogg capturado
 
-(REPETIDO)Captured Vile Lizard|----|Lagarto Desprezível capturado|----|Saurio vil capturado
+(REPETIDO)Captured Vile Lizard|----|Lagarto Nefasto capturado|----|Saurio vil capturado
 
 (REPETIDO)Captured Basilisk|----|Basilisco capturado|----|Basilisco capturado
 
 (REPETIDO)Captured Nidhogg|----|Nidhogg capturado|----|Nidhogg capturado
 
-(REPETIDO)Captured Vile Lizard|----|Lagarto Desprezível capturado|----|Saurio vil capturado
+(REPETIDO)Captured Vile Lizard|----|Lagarto Nefasto capturado|----|Saurio vil capturado
 
 (REPETIDO)Captured Basilisk|----|Basilisco capturado|----|Basilisco capturado
 
@@ -30426,7 +30426,7 @@ Captured Rockbiter|----|Mordepedra capturado|----|Picapeñascos capturado
 
 Captured Stegosauria King|----|Estegosauro Rei capturado|----|Estegosaurio capturado
 
-Captured Amethyst Eater|----|Comedor De Ametistas capturado|----|Zampamatista capturado
+Captured Amethyst Eater|----|Comeametista capturado|----|Zampamatista capturado
 
 Captured Lil Salamander|----|Pequena Salamandra capturada|----|Salamanquesa capturada
 
@@ -30492,7 +30492,7 @@ Captured Mictlantecuhtli|----|Mictlantecuhtli capturado|----|Mictlantecuhtli cap
 
 Captured Void Intruder|----|Intruso Etéreo capturado|----|Intruso etéreo capturado
 
-Captured Bluetalon|----|Garrazul capturado|----|Zarpazul capturado
+Captured Bluetalon|----|Caudazul capturado|----|Zarpazul capturado
 
 (REPETIDO)Captured Manticore|----|Mantícora capturada|----|Mantícora capturada
 
@@ -30718,7 +30718,7 @@ Captured Deathmorph|----|Aniquilador capturado|----|Aniquilador capturado
 
 Captured Divine Flyer|----|Mosca Divina capturada|----|Moscón divino capturado
 
-Captured Skipper|----|Mosca Comandante capturada|----|Moscón atleta capturado
+Captured Skipper|----|Mosca Chefe capturada|----|Moscón atleta capturado
 
 Captured Swallowtail Devil|----|Mariposa Diabólica capturada|----|Diablo mariposa capturado
 
@@ -31082,7 +31082,7 @@ The Great Subterrane|----|A Passagem Subterrânea|----|Pasaje de Subterra
 
 (REPETIDO)Yvalock's Nest|----|Ninho de Yvalock|----|Nido de Ivalock
 
-Flaumello Tower|----|Torre Flaumello|----|Torre de Flaumello
+Flaumello Tower|----|Torre de Flaumello|----|Torre de Flaumello
 
 (REPETIDO)Mojcado Castle|----|Castelo Mojcado|----|Castillo de Muscato
 
@@ -31300,7 +31300,7 @@ Depths of the Underworld|----|Profundezas do Submundo|----|Sima del Inframundo
 
 The Vale of the Gods|----|Vale dos Deuses|----|Valle de los Dioses
 
-Cherry Pavilion|----|Pavilhão das Cerejas|----|Pabellón de los Cerezos
+Cherry Pavilion|----|Pavilhão das Cerejeiras|----|Pabellón de los Cerezos
 
 Central Tier|----|Nível Central|----|Nivel central
 
@@ -31454,7 +31454,7 @@ Mr. Diggs's Skillz dummy|----|Mr. Diggs's Skillz dummy|----|Habilidades del señ
 
 (REPETIDO)Nothing|----|Nenhuma|----|Nada
 
-Corkscrew|----|Broca|----|Broca
+Corkscrew|----|Saca-Rolhas|----|Broca
 
 Auger Drill|----|Broca Dupla|----|Broca doble
 
@@ -31474,7 +31474,7 @@ Search Adaptor|----|Adaptador de Busca|----|Adaptador de búsqueda
 
 Analysis Adaptor|----|Adaptador de Prospecção|----|Adaptador de prospección
 
-Telegnosis Adaptor|----|Adaptador de Telegnosis|----|Adaptador de radiestesia
+Telegnosis Adaptor|----|Adaptador de Radiestesia|----|Adaptador de radiestesia
 
 (REPETIDO)Nothing|----|Nenhuma|----|Nada
 
@@ -31488,7 +31488,7 @@ Burst Dig Module|----|Hiper Módulo Escavador|----|Hipermódulo excavador
 
 Gold Digger|----|Escavador de Ouro|----|Buscador de bronce
 
-Platinum Digger|----|Escavador de Prata|----|Buscador de plata
+Platinum Digger|----|Escavador de Platina|----|Buscador de plata
 
 Diamond Digger|----|Escavador de Diamante|----|Buscador de oro
 
@@ -31496,17 +31496,17 @@ Diamond Digger|----|Escavador de Diamante|----|Buscador de oro
 
 Power Thruster|----|Propulsor|----|Propulsor
 
-High-Power Thruster|----|Super Propulsor|----|Superpropulsor
+High-Power Thruster|----|Propulsor de Alta Potência|----|Superpropulsor
 
 Hyper Thruster|----|Hiper Propulsor|----|Hiperpropulsor
 
 (REPETIDO)Nothing|----|Nenhuma|----|Nada
 
-Drill Storm|----|Perfuração Tempestuosa|----|Ciclón perforador
+Drill Storm|----|Tempestade Perfuradora|----|Ciclón perforador
 
-Mega Drill Storm|----|Mega Perfuração Tempestuosa|----|Tornado perforador
+Mega Drill Storm|----|Mega Tempestade Perfuradora|----|Tornado perforador
 
-Divine Drill Storm|----|Divina Perfuração Tempestuosa|----|Huracán perforador
+Divine Drill Storm|----|Divina Tempestade Perfuradora|----|Huracán perforador
 
 Wee Power|----|Poder Mínimo|----|Poderío nulo
 
@@ -31910,11 +31910,11 @@ First-Person View: Sensitivity|----|Visão em Primeira Pessoa: Sensibilidade|---
 
 Auto-Follow|----|Seguir Automaticamente|----|Seguimiento automático
 
-Critical Trigger: Offensive|----|Ataque Crítico|----|Ataque maestro
+Critical Trigger: Offensive|----|Movimento Crítico: Ataque|----|Ataque maestro
 
-Critical Trigger: Defensive|----|Defesa Crítica|----|Defensa maestra
+Critical Trigger: Defensive|----|Movimento Crítico: Defesa|----|Defensa maestra
 
-Display Deadlock cancellation warning|----|Aviso de cancelamento de Embate |----|Aviso de abandono de duelo
+Display Deadlock cancellation warning|----|Aviso de cancelamento de Embate|----|Aviso de abandono de duelo
 
 Controller Vibration|----|Vibração do Controle|----|Vibración del mando
 
@@ -32456,9 +32456,9 @@ The Assistant|----|O assistente|----|El discípulo
 
 Infestation!|----|A praga|----|La plaga
 
-The Slave Traders|----|Os comerciantes de escravos|----|¿Quién sabe dónde?
+The Slave Traders|----|Os traficantes de escravos|----|¿Quién sabe dónde?
 
-Emotions|----|Valor sentimental |----|Valor sentimental
+Emotions|----|Valor sentimental|----|Valor sentimental
 
 The Trade Route|----|A rota comercial|----|Pioneros del desierto
 
@@ -34558,7 +34558,7 @@ Archfiend|----|Arquidemônios|----|Archidemonios
 
 (REPETIDO)Imp|----|Diabrete|----|Diablillo
 
-(REPETIDO)Vile Lizard|----|Lagarto Desprezível|----|Saurio vil
+(REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
 (REPETIDO)Azhdaha|----|Azhdaha|----|Azhdaha
 
@@ -35318,7 +35318,7 @@ Unknown|----|Desconhecido|----|Desconocido
 
 (REPETIDO)Imp|----|Diabrete |----|Diablillo
 
-(REPETIDO)Vile Lizard|----|Lagarto Desprezível|----|Saurio vil
+(REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
 (REPETIDO)Azhdaha|----|Azhdaha|----|Azhdaha
 
@@ -35480,7 +35480,7 @@ Shield Tech|----|Escudos|----|Escudos
 
 (REPETIDO)One-Handed|----|Uma mão|----|Una mano
 
-(REPETIDO)Power Grip|----|Ambas as Mãos|----|Doble agarre
+(REPETIDO)Power Grip|----|Pegada Dupla|----|Doble agarre
 
 (REPETIDO)Dual Wield|----|Uma ou Duas Mãos|----|Estilo dual
 
@@ -35488,7 +35488,7 @@ Shield Tech|----|Escudos|----|Escudos
 
 (REPETIDO)Quad Wield|----|Quatro Mãos|----|E. cuádruple
 
-2x Power Grip|----|Ambas as Mãos Sovani|----|Doble a. sovani
+2x Power Grip|----|Pegada Dupla Sovani|----|Doble a. sovani
 
 2x Two-Handed|----|Duas Mãos Sovani|----|2 manos sovani
 
