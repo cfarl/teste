@@ -280,7 +280,7 @@ Select a leader to remove from the party.|----|Selecione o líder que deseja rem
 
 This leader cannot be removed from the party.|----|Esse líder não pode ser removido do grupo.|----|No puedes despedir a este líder. Sustituye a uno de los miembros actuales del grupo por este personaje.
 
-The units will become reserve members.|----|Os membros do grupo irão para a reserva. |----|Los personajes pasarán a la reserva.
+The units will become reserve members.|----|Os membros do grupo irão para a reserva.|----|Los personajes pasarán a la reserva.
 
 This Athlumian Soldier cannot be removed from the party at this time.|----|Você não pode remover esse soldado do grupo, nesse momento.|----|No puedes despedir a este soldado en este momento.
 
@@ -5698,9 +5698,9 @@ Certificate of achievement: Rank 2\r\n  Title:\r\n  Ascot Adjunct|----|Conquista
 
 Certificate of achievement: Rank 3\r\n  Title:\r\n  Ascot Instructor|----|Conquista: Nível 3\r\n Título:\r\n Irmão Instrutor|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano instructor (nivel 3).
 
-Certificate of achievement: Rank 4\r\n  Title:\r\n  Ascot Professor|----|Conquista: Nível 4\r\n Título:\r\n Irmão Professor |----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano profesor (nivel 4).
+Certificate of achievement: Rank 4\r\n  Title:\r\n  Ascot Professor|----|Conquista: Nível 4\r\n Título:\r\n Irmão Professor|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano profesor (nivel 4).
 
-Certificate of achievement: Rank 5\r\n  Title:\r\n  Ascot Emeritus|----|Conquista: Nível 5\r\n Título:\r\n Irmão Emérito |----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano emérito (nivel 5).
+Certificate of achievement: Rank 5\r\n  Title:\r\n  Ascot Emeritus|----|Conquista: Nível 5\r\n Título:\r\n Irmão Emérito|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano emérito (nivel 5).
 
 Certificate of achievement: Rank 1\r\n  Title:\r\n  Nibelung Officer|----|Conquista: Nível 1\r\n Título:\r\n Recruta Nibelungo|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Recluta nibelungo (nivel 1).
 
@@ -10048,7 +10048,7 @@ What path should I follow from now on? I don't\r\neven remember the one I took t
 
 (REPETIDO)All-rounder, natch.|----|Estude um pouco de tudo.|----|¡Prueba un poco de todo!
 
-Ahh... With that, no need to worry.|----|Ahh... Fazendo isso, não terei com que me preocupar. |----|¡Claro! Así no tendré de qué preocuparme...
+Ahh... With that, no need to worry.|----|Ahh... Fazendo isso, não terei com que me preocupar.|----|¡Claro! Así no tendré de qué preocuparme...
 
 (REPETIDO)Combat arts, for sure!|----|Artes de combate, com certeza!|----|Ve a por las artes de combate.
 
@@ -12560,7 +12560,7 @@ While on the World Map or City Map, you can open the\r\nParty Menu by pressing \
 
 (REPETIDO)Battle Commands|----|Comandos de Batalha|----|Órdenes de batalla
 
-Pressing \n6  \n Left and Right selects targets, while\r\npressing \n8  \n Up and Down selects battle commands.\r\nPressing \n00\n displays the status of the units in\r\nthe currently selected union. You can \ncheck units'\r\nactions and any status ailments\n.|----|Pressione \n6  \n Esquerda e Direita para trocar de alvo,\r\ne \n8  \n Cima e Baixo para selecionar comandos de batalha.\r\nPressionar \n00\n mostra o status dos membros\r\ndo grupo selecionado. Você pode \nverificar as ações\r\ne as alterações de status dos personagens\n. |----|Pulsa \n6  \n para cambiar de objetivo o \n8  \n para elegir\r\nentre las distintas órdenes de combate disponibles.\r\nPulsa \n00\n para comprobar el estado de los personajes\r\nque forman parte de la unidad actual. De este modo,\r\npodrás ver qué \nórdenes\n tienen asignadas y averiguar\r\nsi están bajo los efectos de alguna \nalteración de estado\n.
+Pressing \n6  \n Left and Right selects targets, while\r\npressing \n8  \n Up and Down selects battle commands.\r\nPressing \n00\n displays the status of the units in\r\nthe currently selected union. You can \ncheck units'\r\nactions and any status ailments\n.|----|Pressione \n6  \n Esquerda e Direita para trocar de alvo,\r\ne \n8  \n Cima e Baixo para selecionar comandos de batalha.\r\nPressionar \n00\n mostra o status dos membros\r\ndo grupo selecionado. Você pode \nverificar as ações\r\ne as alterações de status dos personagens\n.|----|Pulsa \n6  \n para cambiar de objetivo o \n8  \n para elegir\r\nentre las distintas órdenes de combate disponibles.\r\nPulsa \n00\n para comprobar el estado de los personajes\r\nque forman parte de la unidad actual. De este modo,\r\npodrás ver qué \nórdenes\n tienen asignadas y averiguar\r\nsi están bajo los efectos de alguna \nalteración de estado\n.
 
 Deadlock|----|Embate|----|Duelo
 
@@ -12578,7 +12578,7 @@ Once certain monsters have been sold to shops,\r\nthose shops may begin selling 
 
 This is how units in the party can request certain loot.\r\nUnits try to collect items to strengthen their equipment.|----|Algumas vezes os personagens do seu grupo requisitam certos\r\nitens da pilhagem, para melhorar seu equipamento.|----|En ocasiones, es posible que los personajes de tu grupo\r\nte pidan que les ayudes a conseguir ciertos artículos\r\npara mejorar su equipo.
 
-A unit's request for an item can be removed\r\nfrom the list by selecting them.|----|Para eliminar da lista o pedido de um personagem,\r\nbasta selecioná-lo. |----|Para eliminar de la lista la solicitud de un personaje,\r\nbasta con seleccionarlo.
+A unit's request for an item can be removed\r\nfrom the list by selecting them.|----|Para eliminar da lista o pedido de um personagem,\r\nbasta selecioná-lo.|----|Para eliminar de la lista la solicitud de un personaje,\r\nbasta con seleccionarlo.
 
 Battle Controls|----|Controles de Batalha|----|Controles
 
@@ -12950,7 +12950,7 @@ Accepted quest: \nNagapur's Witch|----|Missão Aceita: \nA feiticeira de Nagapur
 
 Accepted quest: \nGhor's Witch|----|Missão Aceita: \nA feiticeira de Ghor|----|Misión aceptada: \nLa arcamaga de Ghor
 
-Accepted quest: \nUndelwalt's Witch|----|Missão Aceita: \nA feiticeira de Undelwalt |----|Misión aceptada: \nLa arcamaga de Undelwalt
+Accepted quest: \nUndelwalt's Witch|----|Missão Aceita: \nA feiticeira de Undelwalt|----|Misión aceptada: \nLa arcamaga de Undelwalt
 
 Accepted quest: \nBalterossa's Witch|----|Missão Aceita: \nA feiticeira de Balterossa|----|Misión aceptada: \nLa arcamaga de Balterossa
 
@@ -13086,7 +13086,7 @@ Completed quest: \nNagapur's Witch|----|Missão Concluída: \nA feiticeira de Na
 
 Completed quest: \nGhor's Witch|----|Missão Concluída: \nA feiticeira de Ghor|----|Misión finalizada: \nLa arcamaga de Ghor
 
-Completed quest: \nUndelwalt's Witch|----|Missão Concluída: \nA feiticeira de Undelwalt |----|Misión finalizada: \nLa arcamaga de Undelwalt
+Completed quest: \nUndelwalt's Witch|----|Missão Concluída: \nA feiticeira de Undelwalt|----|Misión finalizada: \nLa arcamaga de Undelwalt
 
 Completed quest: \nBalterossa's Witch|----|Missão Concluída: \nA feiticeira de Balterossa|----|Misión finalizada: \nLa arcamaga de Balterossa
 
@@ -13452,7 +13452,7 @@ LOCATION TIPS DUMMY|----|LOCATION TIPS DUMMY|----|PISTAS DE LUGARES
 
 Action Point\n Strategies\r\nEvery time a unit performs arts in battle, AP is consumed.\r\nHowever, \nAP is recovered each turn\n, so don't feel like\r\nyou have to go out of your way to conserve it.\r\nItem arts consume materials, and thus do not consume AP.|----|Pontos de Ação - PA\n Estratégias\r\nOs PA de um personagem diminuem quando ele usa suas artes.\r\nNo entanto,\neles são repostos ao final de cada turno\n, por isso\r\nvocê não precisa ficar preocupado em conservá-los.\r\nJá as artes com itens consomem componentes,\r\nmas não consomem PA.|----|Los PA de un personaje disminuyen cuando usa sus artes\r\ndurante un combate, pero se reponen al final del turno,\r\nasí que no hace falta que te obsesiones por conservarlos.\r\nPor su parte, las artes de objetos consumen componentes,\r\npero no requieren PA.
 
-Each character in battle is called a \nunit\n, and can be\r\ngrouped into \nunions\n through the Union Board on the\r\nmain menu. \nUnions share aggregate HP and AP, and\nact as a single entity in battle\n. A union's makeup can\r\nhave a dramatic impact on battles. Try different combos!|----|Durante uma batalha atuam um ou mais \npersonagens\n, e eles\r\nsão agrupados em \nunidades\n, por meio da opção Unidades do\r\n menu principal. \nUnidades compartilham PV e PA, e\natuam como uma só entidade na batalha\n. A formação de uma unidade pode\r\nfazer uma grande diferença nas batalhas. Experimente diferentes combinações! |----|En combate, los \npersonajes\n forman grupos llamados \nunidades\nque comparten PA y PV y \nluchan como una sola entidad\n.\r\nUsa el menú Unidades para crear o modificar a tu gusto\r\nlas unidades de tu ejército.\n¡Tus decisiones determinarán el curso del combate,\r\nasí que no dudes en probar distintas combinaciones!
+Each character in battle is called a \nunit\n, and can be\r\ngrouped into \nunions\n through the Union Board on the\r\nmain menu. \nUnions share aggregate HP and AP, and\nact as a single entity in battle\n. A union's makeup can\r\nhave a dramatic impact on battles. Try different combos!|----|Durante uma batalha atuam um ou mais \npersonagens\n, e eles\r\nsão agrupados em \nunidades\n, por meio da opção Unidades do\r\n menu principal. \nUnidades compartilham PV e PA, e\natuam como uma só entidade na batalha\n. A formação de uma unidade pode\r\nfazer uma grande diferença nas batalhas. Experimente diferentes combinações!|----|En combate, los \npersonajes\n forman grupos llamados \nunidades\nque comparten PA y PV y \nluchan como una sola entidad\n.\r\nUsa el menú Unidades para crear o modificar a tu gusto\r\nlas unidades de tu ejército.\n¡Tus decisiones determinarán el curso del combate,\r\nasí que no dudes en probar distintas combinaciones!
 
 Units can be grouped into unions through the\nUnion Board\n on the main menu. By arranging unions,\r\nyou can \ncover the units' specific weaknesses and take\nadvantage of their strengths\n. There are countless\r\ncombinations of units\Ttry to find the most effective ones.|----|Personagens podem ser agrupados em unidades por meio da opção\nUnidades\n do menu principal.\r\nAo formar suas unidades você \npoderá balancear suas fraquezas e tirar\nvantagem dos seus pontos fortes\n. Existem inúmeras\r\ncombinações de personagens, tente encontrar as mais efetivas!|----|Para agrupar a tus personajes en unidades,\r\nvisita la sección \nUnidades\n del menú principal.\r\nAl agrupar a tus personajes en unidades\r\npodrás \ncontrarrestar\n sus puntos débiles\r\ny \nreforzar\n sus puntos fuertes.\n¡Intenta buscar las mejores combinaciones!
 
@@ -13660,7 +13660,7 @@ Spells referred to as \nArcana\n can be\r\nunleashed when several units' spells 
 
 Main Actions dummy|----|Main Actions dummy|----|Acciones principales
 
-(REPETIDO)Attack|----|Ataque aaaaa|----|Ataques normales
+(REPETIDO)Attack|----|Ataque|----|Ataques normales
 
 (REPETIDO)Combat Arts|----|Artes de Combate|----|Artes de combate
 
@@ -13720,7 +13720,7 @@ Weapon Arts|----|Técnicas de Armas|----|Técnicas de armas
 
 Unique Arts|----|Técnicas Especiais|----|Técnicas especiales
 
-Monster Combat Arts|----|Técnicas de Combate de Monstros|----|Técnicas de combate de monstruos
+Monster Combat Arts|----|Artes de Combate de Monstros|----|Técnicas de combate de monstruos
 
 Monster Mystic Arts|----|Artes Místicas de Monstros|----|Técnicas místicas de monstruos
 
@@ -13746,7 +13746,7 @@ Insufficient AP!|----|PA insuficientes!|----|¡PA insuficientes!
 
 Insufficient items!|----|Itens insuficientes!|----|¡Objetos insuficientes!
 
-Flee|----|Fugir|----|Huida
+Flee|----|Fuga|----|Huida
 
 Status: Blacked Out|----|Estado: Inconsciente|----|[Estado] Inconsciencia
 
@@ -13870,7 +13870,7 @@ Peerless Cutting Lunge IV|----|Estocada Inigualável IV|----|Turbodardo hercúle
 
 Peerless Cutting Lunge V|----|Estocada Inigualável V|----|Turbodardo hercúleo (V)
 
-Blue Streak|----|Centelha Azul |----|Centellazul
+Blue Streak|----|Centelha Azul|----|Centellazul
 
 Blue Streak II|----|Centelha Azul II|----|Centellazul (II)
 
@@ -14330,35 +14330,35 @@ Rock Crusher IV|----|Esmaga-Rocha IV|----|Demolición (IV)
 
 Rock Crusher V|----|Esmaga-Rocha V|----|Demolición (V)
 
-Nimble Rock Crusher|----|Esmaga-Rocha Ligeira|----|Demolición ágil
+Nimble Rock Crusher|----|Esmaga-Rocha Ligeiro|----|Demolición ágil
 
-Nimble Rock Crusher II|----|Esmaga-Rocha Ligeira II|----|Demolición ágil (II)
+Nimble Rock Crusher II|----|Esmaga-Rocha Ligeiro II|----|Demolición ágil (II)
 
-Nimble Rock Crusher III|----|Esmaga-Rocha Ligeira III|----|Demolición ágil (III)
+Nimble Rock Crusher III|----|Esmaga-Rocha Ligeiro III|----|Demolición ágil (III)
 
-Nimble Rock Crusher IV|----|Esmaga-Rocha Ligeira IV|----|Demolición ágil (IV)
+Nimble Rock Crusher IV|----|Esmaga-Rocha Ligeiro IV|----|Demolición ágil (IV)
 
-Nimble Rock Crusher V|----|Esmaga-Rocha Ligeira V|----|Demolición ágil (V)
+Nimble Rock Crusher V|----|Esmaga-Rocha Ligeiro V|----|Demolición ágil (V)
 
-Swift Rock Crusher|----|Esmaga-Rocha Rápida|----|Demolición veloz
+Swift Rock Crusher|----|Esmaga-Rocha Rápido|----|Demolición veloz
 
-Swift Rock Crusher II|----|Esmaga-Rocha Rápida II|----|Demolición veloz (II)
+Swift Rock Crusher II|----|Esmaga-Rocha Rápido II|----|Demolición veloz (II)
 
-Swift Rock Crusher III|----|Esmaga-Rocha Rápida III|----|Demolición veloz (III)
+Swift Rock Crusher III|----|Esmaga-Rocha Rápido III|----|Demolición veloz (III)
 
-Swift Rock Crusher IV|----|Esmaga-Rocha Rápida IV|----|Demolición veloz (IV)
+Swift Rock Crusher IV|----|Esmaga-Rocha Rápido IV|----|Demolición veloz (IV)
 
-Swift Rock Crusher V|----|Esmaga-Rocha Rápida V|----|Demolición veloz (V)
+Swift Rock Crusher V|----|Esmaga-Rocha Rápido V|----|Demolición veloz (V)
 
-Mighty Rock Crusher|----|Esmaga-Rocha Poderosa|----|Demolición poderosa
+Mighty Rock Crusher|----|Esmaga-Rocha Poderoso|----|Demolición poderosa
 
-Mighty Rock Crusher II|----|Esmaga-Rocha Poderosa II|----|Demolición poderosa (II)
+Mighty Rock Crusher II|----|Esmaga-Rocha Poderoso II|----|Demolición poderosa (II)
 
-Mighty Rock Crusher III|----|Esmaga-Rocha Poderosa III|----|Demolición poderosa (III)
+Mighty Rock Crusher III|----|Esmaga-Rocha Poderoso III|----|Demolición poderosa (III)
 
-Mighty Rock Crusher IV|----|Esmaga-Rocha Poderosa IV|----|Demolición poderosa (IV)
+Mighty Rock Crusher IV|----|Esmaga-Rocha Poderoso IV|----|Demolición poderosa (IV)
 
-Mighty Rock Crusher V|----|Esmaga-Rocha Poderosa V|----|Demolición poderosa (V)
+Mighty Rock Crusher V|----|Esmaga-Rocha Poderoso V|----|Demolición poderosa (V)
 
 Peerless Rock Crusher|----|Esmaga-Rocha Inigualável|----|Demolición hercúlea
 
@@ -14670,7 +14670,7 @@ Peerless Victory Sweep IV|----|Marca da Vitória Inigualável IV|----|Victoria h
 
 Peerless Victory Sweep V|----|Marca da Vitória Inigualável V|----|Victoria hercúlea (V)
 
-Moonset|----|Crepúsculo |----|Ocaso lunar
+Moonset|----|Crepúsculo|----|Ocaso lunar
 
 Moonset II|----|Crepúsculo II|----|Ocaso lunar (II)
 
@@ -15830,35 +15830,35 @@ Heaven Pierce IV|----|Perfura-Céu IV|----|Perforador (IV)
 
 Heaven Pierce V|----|Perfura-Céu V|----|Perforador (V)
 
-Nimble Heaven Pierce|----|Perfura-Céu Ligeira|----|Perforador ágil
+Nimble Heaven Pierce|----|Perfura-Céu Ligeiro|----|Perforador ágil
 
-Nimble Heaven Pierce II|----|Perfura-Céu Ligeira II|----|Perforador ágil (II)
+Nimble Heaven Pierce II|----|Perfura-Céu Ligeiro II|----|Perforador ágil (II)
 
-Nimble Heaven Pierce III|----|Perfura-Céu Ligeira III|----|Perforador ágil (III)
+Nimble Heaven Pierce III|----|Perfura-Céu Ligeiro III|----|Perforador ágil (III)
 
-Nimble Heaven Pierce IV|----|Perfura-Céu Ligeira IV|----|Perforador ágil (IV)
+Nimble Heaven Pierce IV|----|Perfura-Céu Ligeiro IV|----|Perforador ágil (IV)
 
-Nimble Heaven Pierce V|----|Perfura-Céu Ligeira V|----|Perforador ágil (V)
+Nimble Heaven Pierce V|----|Perfura-Céu Ligeiro V|----|Perforador ágil (V)
 
-Swift Heaven Pierce|----|Perfura-Céu Rápida|----|Perforador veloz
+Swift Heaven Pierce|----|Perfura-Céu Rápido|----|Perforador veloz
 
-Swift Heaven Pierce II|----|Perfura-Céu Rápida II|----|Perforador veloz (II)
+Swift Heaven Pierce II|----|Perfura-Céu Rápido II|----|Perforador veloz (II)
 
-Swift Heaven Pierce III|----|Perfura-Céu Rápida III|----|Perforador veloz (III)
+Swift Heaven Pierce III|----|Perfura-Céu Rápido III|----|Perforador veloz (III)
 
-Swift Heaven Pierce IV|----|Perfura-Céu Rápida IV|----|Perforador veloz (IV)
+Swift Heaven Pierce IV|----|Perfura-Céu Rápido IV|----|Perforador veloz (IV)
 
-Swift Heaven Pierce V|----|Perfura-Céu Rápida V|----|Perforador veloz (V)
+Swift Heaven Pierce V|----|Perfura-Céu Rápido V|----|Perforador veloz (V)
 
-Mighty Heaven Pierce|----|Perfura-Céu Poderosa|----|Perforador poderoso
+Mighty Heaven Pierce|----|Perfura-Céu Poderoso|----|Perforador poderoso
 
-Mighty Heaven Pierce II|----|Perfura-Céu Poderosa II|----|Perforador poderoso (II)
+Mighty Heaven Pierce II|----|Perfura-Céu Poderoso II|----|Perforador poderoso (II)
 
-Mighty Heaven Pierce III|----|Perfura-Céu Poderosa III|----|Perforador poderoso (III)
+Mighty Heaven Pierce III|----|Perfura-Céu Poderoso III|----|Perforador poderoso (III)
 
-Mighty Heaven Pierce IV|----|Perfura-Céu Poderosa IV|----|Perforador poderoso (IV)
+Mighty Heaven Pierce IV|----|Perfura-Céu Poderoso IV|----|Perforador poderoso (IV)
 
-Mighty Heaven Pierce V|----|Perfura-Céu Poderosa V|----|Perforador poderoso (V)
+Mighty Heaven Pierce V|----|Perfura-Céu Poderoso V|----|Perforador poderoso (V)
 
 Peerless Heaven Pierce|----|Perfura-Céu Inigualável|----|Perforador hercúleo
 
@@ -15980,35 +15980,35 @@ Quad Slice IV|----|Quatro Cortes IV|----|Tetracorte (IV)
 
 Quad Slice V|----|Quatro Cortes V|----|Tetracorte (V)
 
-Nimble Quad Slice|----|Quatro Cortes Ligeira|----|Tetracorte ágil
+Nimble Quad Slice|----|Quatro Cortes Ligeiro|----|Tetracorte ágil
 
-Nimble Quad Slice II|----|Quatro Cortes Ligeira II|----|Tetracorte ágil (II)
+Nimble Quad Slice II|----|Quatro Cortes Ligeiro II|----|Tetracorte ágil (II)
 
-Nimble Quad Slice III|----|Quatro Cortes Ligeira III|----|Tetracorte ágil (III)
+Nimble Quad Slice III|----|Quatro Cortes Ligeiro III|----|Tetracorte ágil (III)
 
-Nimble Quad Slice IV|----|Quatro Cortes Ligeira IV|----|Tetracorte ágil (IV)
+Nimble Quad Slice IV|----|Quatro Cortes Ligeiro IV|----|Tetracorte ágil (IV)
 
-Nimble Quad Slice V|----|Quatro Cortes Ligeira V|----|Tetracorte ágil (V)
+Nimble Quad Slice V|----|Quatro Cortes Ligeiro V|----|Tetracorte ágil (V)
 
-Swift Quad Slice|----|Quatro Cortes Rápida|----|Tetracorte veloz
+Swift Quad Slice|----|Quatro Cortes Rápido|----|Tetracorte veloz
 
-Swift Quad Slice II|----|Quatro Cortes Rápida II|----|Tetracorte veloz (II)
+Swift Quad Slice II|----|Quatro Cortes Rápido II|----|Tetracorte veloz (II)
 
-Swift Quad Slice III|----|Quatro Cortes Rápida III|----|Tetracorte veloz (III)
+Swift Quad Slice III|----|Quatro Cortes Rápido III|----|Tetracorte veloz (III)
 
-Swift Quad Slice IV|----|Quatro Cortes Rápida IV|----|Tetracorte veloz (IV)
+Swift Quad Slice IV|----|Quatro Cortes Rápido IV|----|Tetracorte veloz (IV)
 
-Swift Quad Slice V|----|Quatro Cortes Rápida V|----|Tetracorte veloz (V)
+Swift Quad Slice V|----|Quatro Cortes Rápido V|----|Tetracorte veloz (V)
 
-Mighty Quad Slice|----|Quatro Cortes Poderosa|----|Tetracorte poderoso
+Mighty Quad Slice|----|Quatro Cortes Poderoso|----|Tetracorte poderoso
 
-Mighty Quad Slice II|----|Quatro Cortes Poderosa II|----|Tetracorte poderoso (II)
+Mighty Quad Slice II|----|Quatro Cortes Poderoso II|----|Tetracorte poderoso (II)
 
-Mighty Quad Slice III|----|Quatro Cortes Poderosa III|----|Tetracorte poderoso (III)
+Mighty Quad Slice III|----|Quatro Cortes Poderoso III|----|Tetracorte poderoso (III)
 
-Mighty Quad Slice IV|----|Quatro Cortes Poderosa IV|----|Tetracorte poderoso (IV)
+Mighty Quad Slice IV|----|Quatro Cortes Poderoso IV|----|Tetracorte poderoso (IV)
 
-Mighty Quad Slice V|----|Quatro Cortes Poderosa V|----|Tetracorte poderoso (V)
+Mighty Quad Slice V|----|Quatro Cortes Poderoso V|----|Tetracorte poderoso (V)
 
 Peerless Quad Slice|----|Quatro Cortes Inigualável|----|Tetracorte hercúleo
 
@@ -16480,25 +16480,25 @@ Earthrender IV|----|Maremoto IV|----|Marejada (IV)
 
 Earthrender V|----|Maremoto V|----|Marejada (V)
 
-Nimble Earthrender|----|Maremoto Ligeira|----|Marejada ágil
+Nimble Earthrender|----|Maremoto Ligeiro|----|Marejada ágil
 
-Nimble Earthrender II|----|Maremoto Ligeira II|----|Marejada ágil (II)
+Nimble Earthrender II|----|Maremoto Ligeiro II|----|Marejada ágil (II)
 
-Nimble Earthrender III|----|Maremoto Ligeira III|----|Marejada ágil (III)
+Nimble Earthrender III|----|Maremoto Ligeiro III|----|Marejada ágil (III)
 
-Nimble Earthrender IV|----|Maremoto Ligeira IV|----|Marejada ágil (IV)
+Nimble Earthrender IV|----|Maremoto Ligeiro IV|----|Marejada ágil (IV)
 
-Nimble Earthrender V|----|Maremoto Ligeira V|----|Marejada ágil (V)
+Nimble Earthrender V|----|Maremoto Ligeiro V|----|Marejada ágil (V)
 
-Swift Earthrender|----|Maremoto Rápida|----|Marejada veloz
+Swift Earthrender|----|Maremoto Rápido|----|Marejada veloz
 
-Swift Earthrender II|----|Maremoto Rápida II|----|Marejada veloz (II)
+Swift Earthrender II|----|Maremoto Rápido II|----|Marejada veloz (II)
 
-Swift Earthrender III|----|Maremoto Rápida III|----|Marejada veloz (III)
+Swift Earthrender III|----|Maremoto Rápido III|----|Marejada veloz (III)
 
-Swift Earthrender IV|----|Maremoto Rápida IV|----|Marejada veloz (IV)
+Swift Earthrender IV|----|Maremoto Rápido IV|----|Marejada veloz (IV)
 
-Swift Earthrender V|----|Maremoto Rápida V|----|Marejada veloz (V)
+Swift Earthrender V|----|Maremoto Rápido V|----|Marejada veloz (V)
 
 Mighty Earthrender|----|Maremoto Poderoso|----|Marejada poderosa
 
@@ -16690,7 +16690,7 @@ Snare Shot IV|----|Tiro de Impacto IV|----|Enredadera (IV)
 
 Snare Shot V|----|Tiro de Impacto V|----|Enredadera (V)
 
-Palsy Skein|----|Teia Paralisante |----|Madeja paralizante
+Palsy Skein|----|Teia Paralisante|----|Madeja paralizante
 
 Palsy Skein II|----|Teia Paralisante II|----|Madeja paralizante (II)
 
@@ -16710,15 +16710,15 @@ Mystic Mine IV|----|Bomba Mística IV|----|Bomba mística (IV)
 
 Mystic Mine V|----|Bomba Mística V|----|Bomba mística (V)
 
-Poison Gas|----|Gás Venenoso|----|Gas tóxico
+Poison Gas|----|Gás Tóxico|----|Gas tóxico
 
-Poison Gas II|----|Gás Venenoso II|----|Gas tóxico (II)
+Poison Gas II|----|Gás Tóxico II|----|Gas tóxico (II)
 
-Poison Gas III|----|Gás Venenoso III|----|Gas tóxico (III)
+Poison Gas III|----|Gás Tóxico III|----|Gas tóxico (III)
 
-Poison Gas IV|----|Gás Venenoso IV|----|Gas tóxico (IV)
+Poison Gas IV|----|Gás Tóxico IV|----|Gas tóxico (IV)
 
-Poison Gas V|----|Gás Venenoso V|----|Gas tóxico (V)
+Poison Gas V|----|Gás Tóxico V|----|Gas tóxico (V)
 
 Paralyze Gas|----|Gás Paralisante|----|Gas paralizante
 
@@ -16730,15 +16730,15 @@ Paralyze Gas IV|----|Gás Paralisante IV|----|Gas paralizante (IV)
 
 Paralyze Gas V|----|Gás Paralisante V|----|Gas paralizante (V)
 
-Smoke Canister|----|Campo de Fumaça|----|Bomba de humo
+Smoke Canister|----|Bomba de Fumaça|----|Bomba de humo
 
-Smoke Canister II|----|Campo de Fumaça II|----|Bomba de humo (II)
+Smoke Canister II|----|Bomba de Fumaça II|----|Bomba de humo (II)
 
-Smoke Canister III|----|Campo de Fumaça III|----|Bomba de humo (III)
+Smoke Canister III|----|Bomba de Fumaça III|----|Bomba de humo (III)
 
-Smoke Canister IV|----|Campo de Fumaça IV|----|Bomba de humo (IV)
+Smoke Canister IV|----|Bomba de Fumaça IV|----|Bomba de humo (IV)
 
-Smoke Canister V|----|Campo de Fumaça V|----|Bomba de humo (V)
+Smoke Canister V|----|Bomba de Fumaça V|----|Bomba de humo (V)
 
 Silent Gas|----|Gás do Silêncio|----|Gas silencioso
 
@@ -17180,15 +17180,15 @@ Invigoration Cream IV|----|Creme Revigorante IV|----|Tónico corporal (IV)
 
 Invigoration Cream V|----|Creme Revigorante V|----|Tónico corporal (V)
 
-Hartshorn|----|Creme Salvador|----|Cuerno de ciervo
+Hartshorn|----|Chifre de Cervo|----|Cuerno de ciervo
 
-Hartshorn II|----|Creme Salvador II|----|Cuerno de ciervo (II)
+Hartshorn II|----|Chifre de Cervo II|----|Cuerno de ciervo (II)
 
-Hartshorn III|----|Creme Salvador III|----|Cuerno de ciervo (III)
+Hartshorn III|----|Chifre de Cervo III|----|Cuerno de ciervo (III)
 
-Hartshorn IV|----|Creme Salvador IV|----|Cuerno de ciervo (IV)
+Hartshorn IV|----|Chifre de Cervo IV|----|Cuerno de ciervo (IV)
 
-Hartshorn V|----|Creme Salvador V|----|Cuerno de ciervo (V)
+Hartshorn V|----|Chifre de Cervo V|----|Cuerno de ciervo (V)
 
 Cyclone Cream|----|Creme do Ciclone|----|Bálsamo huracanado
 
@@ -17210,15 +17210,15 @@ Flash Bomb IV|----|Bomba de Luz IV|----|Bomba cegadora (IV)
 
 Flash Bomb V|----|Bomba de Luz V|----|Bomba cegadora (V)
 
-Poison Bomb|----|Bomba de Veneno|----|Bomba tóxica
+Poison Bomb|----|Bomba Tóxica|----|Bomba tóxica
 
-Poison Bomb II|----|Bomba de Veneno II|----|Bomba tóxica (II)
+Poison Bomb II|----|Bomba Tóxica II|----|Bomba tóxica (II)
 
-Poison Bomb III|----|Bomba de Veneno III|----|Bomba tóxica (III)
+Poison Bomb III|----|Bomba Tóxica III|----|Bomba tóxica (III)
 
-Poison Bomb IV|----|Bomba de Veneno IV|----|Bomba tóxica (IV)
+Poison Bomb IV|----|Bomba Tóxica IV|----|Bomba tóxica (IV)
 
-Poison Bomb V|----|Bomba de Veneno V|----|Bomba tóxica (V)
+Poison Bomb V|----|Bomba Tóxica V|----|Bomba tóxica (V)
 
 Smoke Bomb|----|Bomba de Fumaça|----|Bomba de humo
 
@@ -17250,15 +17250,15 @@ Acid Bomb IV|----|Bomba de Ácido IV|----|Bomba de ácido (IV)
 
 Acid Bomb V|----|Bomba de Ácido V|----|Bomba de ácido (V)
 
-Evil Bomb|----|Bomba Demoníaca|----|Bomba maligna
+Evil Bomb|----|Bomba Maligna|----|Bomba maligna
 
-Evil Bomb II|----|Bomba Demoníaca II|----|Bomba maligna (II)
+Evil Bomb II|----|Bomba Maligna II|----|Bomba maligna (II)
 
-Evil Bomb III|----|Bomba Demoníaca III|----|Bomba maligna (III)
+Evil Bomb III|----|Bomba Maligna III|----|Bomba maligna (III)
 
-Evil Bomb IV|----|Bomba Demoníaca IV|----|Bomba maligna (IV)
+Evil Bomb IV|----|Bomba Maligna IV|----|Bomba maligna (IV)
 
-Evil Bomb V|----|Bomba Demoníaca V|----|Bomba maligna (V)
+Evil Bomb V|----|Bomba Maligna V|----|Bomba maligna (V)
 
 Gravity Tempest|----|Tormenta Gravitacional|----|Oleada gravitatoria
 
@@ -17622,7 +17622,7 @@ Skreigh II|----|Ganido II|----|Gañido (II)
 
 Skreigh III|----|Ganido III|----|Gañido (III)
 
-Shriek|----|Chiado |----|Chillido
+Shriek|----|Chiado|----|Chillido
 
 Shriek II|----|Chiado II|----|Chillido (II)
 
@@ -18054,11 +18054,11 @@ Desperate Wail II|----|Lamento Desesperado II|----|Lamento desesperado (II)
 
 Desperate Wail III|----|Lamento Desesperado III|----|Lamento desesperado (III)
 
-Victory Cry|----|Grito de Vitória|----|Canto de victoria
+Victory Cry|----|Canto de Vitória|----|Canto de victoria
 
-Victory Cry II|----|Grito de Vitória II|----|Canto de victoria (II)
+Victory Cry II|----|Canto de Vitória II|----|Canto de victoria (II)
 
-Victory Cry III|----|Grito de Vitória III|----|Canto de victoria (III)
+Victory Cry III|----|Canto de Vitória III|----|Canto de victoria (III)
 
 (REPETIDO)Curse|----|Maldição|----|Maldición
 
@@ -18224,11 +18224,11 @@ Beatdown II|----|Surra II|----|Paliza (II)
 
 Beatdown III|----|Surra III|----|Paliza (III)
 
-Phantom Pain|----|Dor Espectral|----|Calvario espectral
+Phantom Pain|----|Calvário Espectral|----|Calvario espectral
 
-Phantom Pain II|----|Dor Espectral II|----|Calvario espectral (II)
+Phantom Pain II|----|Calvário Espectral II|----|Calvario espectral (II)
 
-Phantom Pain III|----|Dor Espectral III|----|Calvario espectral (III)
+Phantom Pain III|----|Calvário Espectral III|----|Calvario espectral (III)
 
 Giant Press|----|Abraço de Gigante|----|Abrazo de gigante
 
@@ -18254,11 +18254,11 @@ Iron Will II|----|Vontade de Ferro II|----|Voluntad de hierro (II)
 
 Iron Will III|----|Vontade de Ferro III|----|Voluntad de hierro (III)
 
-Total Domination|----|Dominação Total|----|Sumisión total
+Total Domination|----|Submissão Total|----|Sumisión total
 
-Total Domination II|----|Dominação Total II|----|Sumisión total (II)
+Total Domination II|----|Submissão Total II|----|Sumisión total (II)
 
-Total Domination III|----|Dominação Total III|----|Sumisión total (III)
+Total Domination III|----|Submissão Total III|----|Sumisión total (III)
 
 Brawl|----|Briga|----|Reyerta
 
@@ -18360,11 +18360,11 @@ Cyclone Charge III|----|Ataque do Ciclone III|----|Carga ciclón (III)
 
 (REPETIDO)Hurricane III|----|Furacão III|----|Galerna (III)
 
-Hand of God|----|Mão de Deus|----|Mano celestial
+Hand of God|----|Mão Celestial|----|Mano celestial
 
-Hand of God II|----|Mão de Deus II|----|Mano celestial (II)
+Hand of God II|----|Mão Celestial II|----|Mano celestial (II)
 
-Hand of God III|----|Mão de Deus III|----|Mano celestial (III)
+Hand of God III|----|Mão Celestial III|----|Mano celestial (III)
 
 Rain of Blades|----|Chuva de Espadas|----|Lluvia de espadas
 
@@ -18396,133 +18396,133 @@ Battle Commands dummy|----|Battle Commands dummy|----|Órdenes de combate
 
 (REPETIDO)Can't target\Ttoo far away!|----|O inimigo está muito distante!|----|Objetivo fuera de alcance.
 
-Can't act\TBotched!|----|Impossível agir, Desorientado!|----|¡Desorden! Imposible actuar.
+Can't act\TBotched!|----|Não é possível agir, desorientado!|----|¡Desorden! Imposible actuar.
 
-Can't act\TEnthralled!|----|Não é possível agir, Hipnotizado!|----|¡Hipnosis! Imposible actuar.
+Can't act\TEnthralled!|----|Não é possível agir, hipnotizado!|----|¡Hipnosis! Imposible actuar.
 
-Close in!|----|Cheguem perto!|----|¡Acercaos al enemigo!
+Close in!|----|Chegue perto!|----|¡Acercaos al enemigo!
 
-Stay on your toes.|----|Permaneçam onde estão.|----|Permaneced alerta.
+Stay on your toes.|----|Permaneça onde está.|----|Permaneced alerta.
 
-Stand your ground!|----|Defendam sua posição!|----|Defended vuestra posición.
+Stand your ground!|----|Defenda sua posição!|----|Defended vuestra posición.
 
-Recover your health!|----|Recuperem sua saúde!|----|Esperad y curad a los aliados.
+Recover your health!|----|Recupere sua saúde!|----|Esperad y curad a los aliados.
 
-Wait for a chance!|----|Aguardem uma oportunidade!|----|Esperad vuestra oportunidad.
+Wait for a chance!|----|Aguarde uma oportunidade!|----|Esperad vuestra oportunidad.
 
-Set up the field!|----|Preparem o campo de batalha!|----|¡Preparad el campo de batalla!
+Set up the field!|----|Prepare o campo de batalha!|----|¡Preparad el campo de batalla!
 
-Be our shield!|----|Sejam o nosso escudo!|----|¡Protegednos del enemigo!
+Be our shield!|----|Seja nosso escudo!|----|¡Protegednos del enemigo!
 
-Strengthen your defenses!|----|Fortaleçam suas defesas!|----|¡Reforzad vuestras defensas!
+Strengthen your defenses!|----|Reforce sua defesa!|----|¡Reforzad vuestras defensas!
 
-Heal the others!|----|Curem os outros!|----|¡Curad a las demás unidades!
+Heal the others!|----|Cure os outros!|----|¡Curad a las demás unidades!
 
-Hurry and heal them!|----|Vá curá-los depressa!|----|¡Daos prisa y curadlos!
+Hurry and heal them!|----|Vá curá-los, depressa!|----|¡Daos prisa y curadlos!
 
-Save them, no matter what!|----|Salvem eles, custe o que custar!|----|¡Salvadlos cueste lo que cueste!
+Save them, no matter what!|----|Salve eles, custe o que custar!|----|¡Salvadlos cueste lo que cueste!
 
-Recover with mystic arts!|----|Recuperem usando artes místicas!|----|¡Recuperaos con artes místicas!
+Recover with mystic arts!|----|Recupere-se usando artes místicas!|----|¡Recuperaos con artes místicas!
 
-Heal yourself with item arts!|----|Curem-se usando artes com itens!|----|¡Curaos con artes de objetos!
+Heal yourself with item arts!|----|Cure-se usando artes com itens!|----|¡Curaos con artes de objetos!
 
-Get your HP up!|----|Aumentem seus PV!|----|¡Reponed vuestros PV!
+Get your HP up!|----|Aumente seus PV!|----|¡Reponed vuestros PV!
 
-Bring them back!|----|Tragam-nos de volta!|----|¡Traedlos de vuelta!
+Bring them back!|----|Traga eles de volta!|----|¡Traedlos de vuelta!
 
-Clear their status ailments!|----|Curem suas alterações de status!|----|¡Curad sus alteraciones!
+Clear their status ailments!|----|Cure suas alterações de status!|----|¡Curad sus alteraciones!
 
-Clear your status ailments!|----|Curem suas alterações de status!|----|¡Curaos esas alteraciones!
+Clear your status ailments!|----|Cure essas alterações de status!|----|¡Curaos esas alteraciones!
 
-Cure them even if it kills them!|----|Curem eles a qualquer custo!|----|¡Curadlos como sea!
+Cure them even if it kills them!|----|Cure eles, custe o que custar!|----|¡Curadlos como sea!
 
 Attack!|----|Ao ataque!|----|¡Al ataque!
 
-Back them up!|----|Ajudem eles!|----|¡Echadles una mano!
+Back them up!|----|Ajude eles!|----|¡Echadles una mano!
 
-Get 'em, no matter what!|----|Detenham eles, a qualquer custo!|----|¡Detenedlos a cualquier precio!
+Get 'em, no matter what!|----|Detenha eles, a qualquer custo!|----|¡Detenedlos a cualquier precio!
 
-Follow Rush!|----|Sigam o Rush!|----|¡Apoyad a Rush!
+Follow Rush!|----|Siga o Rush!|----|¡Apoyad a Rush!
 
-Charge!|----|Ataquem!|----|¡A por el jefe!
+Charge!|----|Atacar!|----|¡A por el jefe!
 
-Be strong!|----|Sejam fortes!|----|¡Echadle un poco de valor!
+Be strong!|----|Seja forte!|----|¡Echadle un poco de valor!
 
-Don't be afraid to die!|----|Não tenham medo da morte!|----|¡No os dejéis intimidar!
+Don't be afraid to die!|----|Não tenha medo da morte!|----|¡No os dejéis intimidar!
 
-Act wisely!|----|Lutem com sabedoria!|----|¡Demostrad lo que valéis!
+Act wisely!|----|Lute com sabedoria!|----|¡Demostrad lo que valéis!
 
-Drive 'em out!|----|Mostrem a eles quem manda aqui!|----|¡Demostrad quién manda aquí!
+Drive 'em out!|----|Mostre quem manda aqui!|----|¡Demostrad quién manda aquí!
 
-Clean 'em up quick!|----|Acabem com eles, rápido!|----|¡Despachadlos rápidamente!
+Clean 'em up quick!|----|Acabe com eles, rápido!|----|¡Despachadlos rápidamente!
 
-Give it all you've got!|----|Deem tudo de si!|----|¡Empleaos a fondo!
+Give it all you've got!|----|Dê tudo de si!|----|¡Empleaos a fondo!
 
-Turn it around!|----|Deem a eles o que merecem!|----|¡Dadles su merecido!
+Turn it around!|----|Dê a eles o que merecem!|----|¡Dadles su merecido!
 
-Finish 'em off!|----|Acabem com eles!|----|¡Acabad con ellos!
+Finish 'em off!|----|Acabe com eles!|----|¡Acabad con ellos!
 
-Give offensive support!|----|Concentrem-se no ataque!|----|¡Concentraos en el ataque!
+Give offensive support!|----|Concentre-se no ataque!|----|¡Concentraos en el ataque!
 
-Give defensive support!|----|Concentrem-se na defesa!|----|¡Concentraos en la defensa!
+Give defensive support!|----|Concentre-se na defesa!|----|¡Concentraos en la defensa!
 
-Attack with combat arts!|----|Ataquem usando artes de combate!|----|¡Atacad con artes de combate!
+Attack with combat arts!|----|Ataque usando artes de combate!|----|¡Atacad con artes de combate!
 
-Attack with mystic arts!|----|Ataquem usando artes místicas!|----|¡Atacad con artes místicas!
+Attack with mystic arts!|----|Ataque usando artes místicas!|----|¡Atacad con artes místicas!
 
-Attack with item arts!|----|Ataquem usando artes de itens!|----|¡Atacad con artes de objetos!
+Attack with item arts!|----|Ataque usando artes de itens!|----|¡Atacad con artes de objetos!
 
-Slam 'em with status ailments!|----|Ataquem com alterações de status!|----|¡Machacadlos con alteraciones!
+Slam 'em with status ailments!|----|Ataque usando alterações de status!|----|¡Machacadlos con alteraciones!
 
-Psyche them out!|----|Acabem com a moral deles!|----|¡Hundidles la moral!
+Psyche them out!|----|Acabe com a moral deles!|----|¡Hundidles la moral!
 
-Take 'em all out at once!|----|Acabem com eles de uma vez!|----|¡Aniquiladlos de un plumazo!
+Take 'em all out at once!|----|Acabe com eles de uma vez!|----|¡Aniquiladlos de un plumazo!
 
-Keep your HP up!|----|Mantenham seus PV elevados!|----|¡Atacad, pero curaos las heridas!
+Keep your HP up!|----|Mantenha seus PV elevados!|----|¡Atacad, pero curaos las heridas!
 
-Hang in there!|----|Aguentem aí!|----|¡Resistid un poco más!
+Hang in there!|----|Aguente aí!|----|¡Resistid un poco más!
 
-Clear those ailments!|----|Curem essas alterações de status!|----|¡Curaos las alteraciones!
+Clear those ailments!|----|Cure essas alterações de status!|----|¡Curaos las alteraciones!
 
-Lower their morale!|----|Diminuam a moral deles!|----|¡Atacad y hundidles la moral!
+Lower their morale!|----|Diminua a moral deles!|----|¡Atacad y hundidles la moral!
 
-Finish 'em with weapon arts!|----|Ataquem com técnicas de armas!|----|¡Atacad con técnicas de armas!
+Finish 'em with weapon arts!|----|Ataque com técnicas de armas!|----|¡Atacad con técnicas de armas!
 
-Attack from afar!|----|Ataquem de longe!|----|¡Atacad desde lejos!
+Attack from afar!|----|Ataque de longe!|----|¡Atacad desde lejos!
 
-Do area attacks from afar!|----|Ataquem à distância!|----|¡Atacad a distancia!
+Do area attacks from afar!|----|Ataque à distância!|----|¡Atacad a distancia!
 
-Attack the lead ranks!|----|Ataquem suas fileiras frontais!|----|¡Machacad su vanguardia!
+Attack the lead ranks!|----|Ataque suas fileiras frontais!|----|¡Machacad su vanguardia!
 
-Aim for the back ranks!|----|Ataquem sua retaguarda!|----|¡Machacad su retaguardia!
+Aim for the back ranks!|----|Ataque sua retaguarda!|----|¡Machacad su retaguardia!
 
-Cut off their leader!|----|Acabem com seu líder!|----|¡Detened a su líder!
+Cut off their leader!|----|Acabe com seu líder!|----|¡Detened a su líder!
 
-Knock 'em out!|----|Acabem com eles!|----|¡Dadles el golpe de gracia!
+Knock 'em out!|----|Acabe com eles!|----|¡Dadles el golpe de gracia!
 
-Strike from the sides!|----|Ataquem pelos flancos!|----|¡Atacad sus flancos!
+Strike from the sides!|----|Ataque pelos flancos!|----|¡Atacad sus flancos!
 
-Hit 'em from behind!|----|Ataquem pela retaguarda!|----|¡Atacad su retaguardia!
+Hit 'em from behind!|----|Ataque pela retaguarda!|----|¡Atacad su retaguardia!
 
-Lay down cover!|----|Cubram seus companheiros!|----|¡Cubrid a vuestros compañeros!
+Lay down cover!|----|Cubra seus companheiros!|----|¡Cubrid a vuestros compañeros!
 
-Help 'em out!|----|Ajudem eles!|----|¡Ayudadles!
+Help 'em out!|----|Ajude eles!|----|¡Ayudadles!
 
-Support your friends!|----|Apoiem seus companheiros!|----|¡Apoyad a vuestros compañeros!
+Support your friends!|----|Apoie seus companheiros!|----|¡Apoyad a vuestros compañeros!
 
-Play it by ear!|----|Façam aquilo que achar melhor!|----|¡Haced lo que os parezca!
+Play it by ear!|----|Faça aquilo que achar melhor!|----|¡Haced lo que os parezca!
 
-Lure them off!|----|Atraiam eles!|----|¡Despistadlos!
+Lure them off!|----|Atraia eles!|----|¡Despistadlos!
 
 Use Second Chance!|----|Use a Segunda Chance!|----|¡Utiliza la Segunda oportunidad!
 
 Save 'em with Second Chance!|----|Salve eles com a Segunda Chance!|----|¡Dales una Segunda oportunidad!
 
-Set up a decoy!|----|Preparem uma isca!|----|¡Preparad un señuelo!
+Set up a decoy!|----|Prepare uma isca!|----|¡Preparad un señuelo!
 
-Act secretly with Stealth!|----|Ajam com furtividade!|----|¡Actuad sigilosamente!
+Act secretly with Stealth!|----|Aja com furtividade!|----|¡Actuad sigilosamente!
 
-Stealth those guys!|----|Movam-se com furtividade!|----|¡Moveos con sigilo!
+Stealth those guys!|----|Mova-se com furtividade!|----|¡Moveos con sigilo!
 
 Destroy them with Snowblind!|----|Destrua eles usando a Geada!|----|¡Destrúyelos a base de Escarcha!
 
@@ -18534,7 +18534,7 @@ Hit them with Bel'kwinith's Fury!|----|Use a Fúria de Belawinith!|----|¡Que ve
 
 Crush them with the Schiavona!|----|Esmage eles com a Schiavona!|----|¡Aplástalos con la Schiavona!
 
-Crush 'em with Lugh's Revenge!|----|Use a Vingança de Lugh!|----|¡Que sufran la Venganza de Lugh!
+Crush 'em with Lugh's Revenge!|----|Esmage eles com a Vingança de Lugh!|----|¡Que sufran la Venganza de Lugh!
 
 Finish this with Megalore!|----|Termine isso com a Ira Ancestral!|----|¡Aniquílalos con la Ira ancestral!
 
@@ -18574,7 +18574,7 @@ What...what is this power?|----|O quê...de onde vem essa energia?|----|¿De dó
 
 Release...|----|Libere seu poder...|----|Libera tu poder...
 
-Will you give me the power...?|----|Você vai me seu poder...?|----|Otórgame tu poder...
+Will you give me the power...?|----|Você vai me dar seu poder...?|----|Otórgame tu poder...
 
 I'll bind you...so, be released!|----|Talismã, libere seu poder!|----|¡Talismán, libera tu poder!
 
@@ -18584,7 +18584,7 @@ How long...can this last?|----|Quanto tempo isso vai durar?|----|¿Cuánto va a 
 
 Omnistrike!|----|Omniataque!|----|¡Omniataque!
 
-It's best to bind it. Now, come!|----|Melhor me ligar a ele. Vamos!|----|Será mejor vincularlo...
+It's best to bind it. Now, come!|----|Melhor me vincular a ele. Vamos!|----|Será mejor vincularlo...
 
 Close-Range|----|Curto Alcance|----|Corto alcance
 
@@ -18596,7 +18596,7 @@ Long-Range|----|Longo Alcance|----|Largo alcance
 
 Long-Range: Sub-Target|----|Longo Alcance: Alvo Secundário|----|Largo alcance: Objetivo secundario
 
-Standby: No Deadlock|----|Em Espera: Não travado em Embate|----|En espera, no trabado en duelo
+Standby: No Deadlock|----|Em Espera: Não envolvido em Embate|----|En espera, no trabado en duelo
 
 Standby: Deadlocked|----|Em Espera: Envolvido em Embate|----|En espera, trabado en duelo
 
@@ -18628,11 +18628,11 @@ Stacked Attack II|----|Ataques Combinados II|----|Ataque en oleadas (II)
 
 Stacked Attack III|----|Ataques Combinados III|----|Ataque en oleadas (III)
 
-(REPETIDO)Raiders' Fork|----|Tridente do Bandido|----|Horca del bandido
+(REPETIDO)Raiders' Fork|----|Forca do Bandido|----|Horca del bandido
 
-Raiders' Fork II|----|Tridente do Bandido II|----|Horca del bandido (II)
+Raiders' Fork II|----|Forca do Bandido II|----|Horca del bandido (II)
 
-Raiders' Fork III|----|Tridente do Bandido III|----|Horca del bandido (III)
+Raiders' Fork III|----|Forca do Bandido III|----|Horca del bandido (III)
 
 (REPETIDO)Marauders' Glaive|----|Gládio do Saqueador|----|Guja del saqueador
 
@@ -18784,11 +18784,11 @@ Lariat II|----|Laço II|----|Lazo (II)
 
 Lariat III|----|Laço III|----|Lazo (III)
 
-(REPETIDO)Hill and Vale|----|Colina e Vale|----|Colina y vaguada
+(REPETIDO)Hill and Vale|----|Vale e Colina|----|Colina y vaguada
 
-Hill and Vale II|----|Colina e Vale II|----|Colina y vaguada (II)
+Hill and Vale II|----|Vale e Colina II|----|Colina y vaguada (II)
 
-Hill and Vale III|----|Colina e Vale III|----|Colina y vaguada (III)
+Hill and Vale III|----|Vale e Colina III|----|Colina y vaguada (III)
 
 (REPETIDO)Skirmish Cross|----|Condecoração|----|Condecoración
 
@@ -18814,17 +18814,17 @@ Spike II|----|Espigão II|----|Dardo (II)
 
 Spike III|----|Espigão III|----|Dardo (III)
 
-(REPETIDO)Rattail|----|Cauda de Rato|----|Cola de rata
+(REPETIDO)Rattail|----|Rabo de Rato|----|Cola de rata
 
-Rattail II|----|Cauda de Rato II|----|Cola de rata (II)
+Rattail II|----|Rabo de Rato II|----|Cola de rata (II)
 
-Rattail III|----|Cauda de Rato III|----|Cola de rata (III)
+Rattail III|----|Rabo de Rato III|----|Cola de rata (III)
 
-(REPETIDO)Foxtail|----|Cauda de Raposa|----|Cola de zorro
+(REPETIDO)Foxtail|----|Rabo de Raposa|----|Cola de zorro
 
-Foxtail II|----|Cauda de Raposa II|----|Cola de zorro (II)
+Foxtail II|----|Rabo de Raposa II|----|Cola de zorro (II)
 
-Foxtail III|----|Cauda de Raposa III|----|Cola de zorro (III)
+Foxtail III|----|Rabo de Raposa III|----|Cola de zorro (III)
 
 (REPETIDO)Dragontail|----|Cauda de Dragão|----|Cola de dragón
 
@@ -19232,11 +19232,11 @@ Mighty Maul|----|Impacto Poderoso|----|Impacto colosal
 
 Godly Maul|----|Impacto Divino|----|Impacto titánico
 
-Pierce|----|Perfuração|----|Estocada
+Pierce|----|Estocada|----|Estocada
 
-Mighty Pierce|----|Perfuração Poderosa|----|Estocada colosal
+Mighty Pierce|----|Estocada Poderosa|----|Estocada colosal
 
-Godly Pierce|----|Perfuração Divina|----|Estocada titánica
+Godly Pierce|----|Estocada Divina|----|Estocada titánica
 
 (REPETIDO)Omni|----|Universal|----|Universal
 
@@ -19466,15 +19466,15 @@ One-Handed OK|----|Utilize uma mão|----|Utilizable a una mano
 
 [Spear] + 5|----|[Lança] + 5|----|Lanzas +5
 
-[Staff] + 1|----|[Cajado] + 1|----|Bastones +1
+[Staff] + 1|----|[Bastão] + 1|----|Bastones +1
 
-[Staff] + 2|----|[Cajado] + 2|----|Bastones +2
+[Staff] + 2|----|[Bastão] + 2|----|Bastones +2
 
-(REPETIDO)[Staff] + 3|----|[Cajado] + 3|----|Bastones +3
+(REPETIDO)[Staff] + 3|----|[Bastão] + 3|----|Bastones +3
 
-[Staff] + 4|----|[Cajado] + 4|----|Bastones +4
+[Staff] + 4|----|[Bastão] + 4|----|Bastones +4
 
-(REPETIDO)[Staff] + 5|----|[Cajado] + 5|----|Bastones +5
+(REPETIDO)[Staff] + 5|----|[Bastão] + 5|----|Bastones +5
 
 [Weapon] + 1|----|[Ataque com Armas] + 1|----|Ataques con armas +1
 
@@ -19596,15 +19596,15 @@ One-Handed OK|----|Utilize uma mão|----|Utilizable a una mano
 
 [Unique Arts] + 5|----|[Técnicas Especiais] + 5|----|Técnicas especiales +5
 
-AP Cost Cut + 1|----|Custo PA + 1|----|Coste PA -1
+AP Cost Cut + 1|----|Custo PA - 1|----|Coste PA -1
 
-AP Cost Cut + 2|----|Custo PA + 2|----|Coste PA -2
+AP Cost Cut + 2|----|Custo PA - 2|----|Coste PA -2
 
-AP Cost Cut + 3|----|Custo PA + 3|----|Coste PA -3
+AP Cost Cut + 3|----|Custo PA - 3|----|Coste PA -3
 
-AP Cost Cut + 4|----|Custo PA + 4|----|Coste PA -4
+AP Cost Cut + 4|----|Custo PA - 4|----|Coste PA -4
 
-AP Cost Cut + 5|----|Custo PA + 5|----|Coste PA -5
+AP Cost Cut + 5|----|Custo PA - 5|----|Coste PA -5
 
 (REPETIDO)Buff Duration + 1|----|Duração de Bonificação + 1|----|Duración de bonificaciones +1
 
@@ -19852,15 +19852,15 @@ Debuff Duration - 4|----|Duração de Penalização - 4|----|Duración de penali
 
 [Maul] Attack + 5|----|[Impacto] Ataque + 5|----|Ataques de impacto +5
 
-[Pierce] Attack + 1|----|[Perfuração] Ataque + 1|----|Ataques de estocada +1
+[Pierce] Attack + 1|----|[Estocada] Ataque + 1|----|Ataques de estocada +1
 
-[Pierce] Attack + 2|----|[Perfuração] Ataque + 2|----|Ataques de estocada +2
+[Pierce] Attack + 2|----|[Estocada] Ataque + 2|----|Ataques de estocada +2
 
-[Pierce] Attack + 3|----|[Perfuração] Ataque + 3|----|Ataques de estocada +3
+[Pierce] Attack + 3|----|[Estocada] Ataque + 3|----|Ataques de estocada +3
 
-[Pierce] Attack + 4|----|[Perfuração] Ataque + 4|----|Ataques de estocada +4
+[Pierce] Attack + 4|----|[Estocada] Ataque + 4|----|Ataques de estocada +4
 
-[Pierce] Attack + 5|----|[Perfuração] Ataque + 5|----|Ataques de estocada +5
+[Pierce] Attack + 5|----|[Estocada] Ataque + 5|----|Ataques de estocada +5
 
 [Slash] Defense + 1|----|[Corte] Defesa + 1|----|Defensa ante cortes +1
 
@@ -19892,15 +19892,15 @@ Debuff Duration - 4|----|Duração de Penalização - 4|----|Duración de penali
 
 [Maul] Defense + 5|----|[Impacto] Defesa + 5|----|Defensa ante impactos +5
 
-[Pierce] Defense + 1|----|[Perfuração] Defesa + 1|----|Defensa ante estocadas +1
+[Pierce] Defense + 1|----|[Estocada] Defesa + 1|----|Defensa ante estocadas +1
 
-[Pierce] Defense + 2|----|[Perfuração] Defesa + 2|----|Defensa ante estocadas +2
+[Pierce] Defense + 2|----|[Estocada] Defesa + 2|----|Defensa ante estocadas +2
 
-[Pierce] Defense + 3|----|[Perfuração] Defesa + 3|----|Defensa ante estocadas +3
+[Pierce] Defense + 3|----|[Estocada] Defesa + 3|----|Defensa ante estocadas +3
 
-[Pierce] Defense + 4|----|[Perfuração] Defesa + 4|----|Defensa ante estocadas +4
+[Pierce] Defense + 4|----|[Estocada] Defesa + 4|----|Defensa ante estocadas +4
 
-[Pierce] Defense + 5|----|[Perfuração] Defesa + 5|----|Defensa ante estocadas +5
+[Pierce] Defense + 5|----|[Estocada] Defesa + 5|----|Defensa ante estocadas +5
 
 [Flame] Attack + 1|----|[Fogo] Ataque + 1|----|Ataques con fuego +1
 
@@ -20272,15 +20272,15 @@ Morale Up + 4|----|Moral + 4|----|Subida de moral +4
 
 Morale Up + 5|----|Moral + 5|----|Subida de moral +5
 
-Morale Down + 1|----|Moral + 1|----|Pérdida de moral +1
+Morale Down + 1|----|Moral - 1|----|Pérdida de moral +1
 
-Morale Down + 2|----|Moral + 2|----|Pérdida de moral +2
+Morale Down + 2|----|Moral - 2|----|Pérdida de moral +2
 
-Morale Down + 3|----|Moral + 3|----|Pérdida de moral +3
+Morale Down + 3|----|Moral - 3|----|Pérdida de moral +3
 
-Morale Down + 4|----|Moral + 4|----|Pérdida de moral +4
+Morale Down + 4|----|Moral - 4|----|Pérdida de moral +4
 
-Morale Down + 5|----|Moral + 5|----|Pérdida de moral +5
+Morale Down + 5|----|Moral - 5|----|Pérdida de moral +5
 
 (REPETIDO)Trigger Rate + 1|----|Frequência de Movimentos Especiais + 1|----|Frecuencia movimientos maestros +1
 
@@ -20312,15 +20312,15 @@ Trigger Rate + 4|----|Frequência de Movimentos Especiais + 4|----|Frecuencia mo
 
 [Critical Defense] Success + 5|----|[Defesa Crítica] Sucesso + 5|----|Éxito de defensas maestras +5
 
-(REPETIDO)[Added Effect] Occurrence + 1|----|[Adicionado Efeito] Ocorrência + 1|----|Frecuencia de efectos +1
+(REPETIDO)[Added Effect] Occurrence + 1|----|[Frequência de Efeitos] Ocorrência + 1|----|Frecuencia de efectos +1
 
 [Added Effect] Occurrence + 2|----|[Frequência de Efeitos] Ocorrência + 2|----|Frecuencia de efectos +2
 
 [Added Effect] Occurrence + 3|----|[Frequência de Efeitos] Ocorrência + 3|----|Frecuencia de efectos +3
 
-(REPETIDO)[Added Effect] Occurrence + 4|----|[Adicionado Efeito] Ocorrência + 4|----|Frecuencia de efectos +4
+(REPETIDO)[Added Effect] Occurrence + 4|----|[Frequência de Efeitos] Ocorrência + 4|----|Frecuencia de efectos +4
 
-(REPETIDO)[Added Effect] Occurrence + 5|----|[Adicionado Efeito] Ocorrência + 5|----|Frecuencia de efectos +5
+(REPETIDO)[Added Effect] Occurrence + 5|----|[Frequência de Efeitos] Ocorrência + 5|----|Frecuencia de efectos +5
 
 Poison Resist + 1|----|Resistência a Veneno + 1|----|Daño por envenenamiento -1
 
@@ -20818,7 +20818,7 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 (REPETIDO)[Flame] + 5|----|[Fogo] + 5|----|Fuego +5
 
-[Flame] + 5 / AP Cost Cut + 5|----|[Fogo] + 5 / Custo PA + 5|----|Fuego +5 / Coste PA -5
+[Flame] + 5 / AP Cost Cut + 5|----|[Fogo] + 5 / Custo PA - 5|----|Fuego +5 / Coste PA -5
 
 [Lytic] + 5|----|[Ácido] + 5|----|Ácido +5
 
@@ -20838,7 +20838,7 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 (REPETIDO)[Mystic] Resist + 2|----|[Ataque Místico] Resistência + 2|----|Resistencia mística +2
 
-[Mys]Resist+2/[Flame][Thundr]DEF+2|----|[Mist]Resistência+2/[Fogo][Raio] DEF+2|----|Res. mística +2 / DEF fuego y elect. +2
+[Mys]Resist+2/[Flame][Thundr]DEF+2|----|[Ataque Místico]Resistência+2/[Fogo][Raio] DEF+2|----|Res. mística +2 / DEF fuego y elect. +2
 
 [Mystic] Resist + 2 / Evasion + 2|----|[Ataque Místico] Resistência + 2 / Evasão + 2|----|Resistencia mística +2 / Evasión + 2
 
@@ -20848,13 +20848,13 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 [Mystic] Resist + 3 / [Thunder] DEF + 3|----|[Ataque Místico] Resistência + 3 / [Raio] DEF + 3|----|Res. mística +3 / DEF electricidad +3
 
-[Mystic] Resist + 3 / [Invo] Resist + 2|----|[Ataque Místico] Resistência + 3 / [Invo] Resistência + 2|----|Res. mística +3 / Res. invocaciones +2
+[Mystic] Resist + 3 / [Invo] Resist + 2|----|[Ataque Místico] Resistência + 3 / [Invocações] Resistência + 2|----|Res. mística +3 / Res. invocaciones +2
 
 [Mystic] Resist + 3 / Evasion + 3|----|[Ataque Místico] Resistência + 3 / Evasão + 3|----|Res. mística +3 / Evasión + 3
 
 (REPETIDO)[Mystic] Resist + 4|----|[Ataque Místico] Resistência + 4|----|Resistencia mística +4
 
-[Mys] Resist + 4 / [Frost][Lytic] DEF + 3|----|[Mist] Resistência + 4 / [Gelo][Ácido] DEF + 3|----|Res. mística +4 / DEF frío y ácido +3
+[Mys] Resist + 4 / [Frost][Lytic] DEF + 3|----|[Ataque Místico] Resistência + 4 / [Gelo][Ácido] DEF + 3|----|Res. mística +4 / DEF frío y ácido +3
 
 (REPETIDO)[Mystic] Resist + 4|----|[Ataque Místico] Resistência + 4|----|Resistencia mística +4
 
@@ -20862,7 +20862,7 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 [Mystic] Resist + 4 / [Frost] Defense + 4|----|[Ataque Místico] Resistência + 4 / [Gelo] Defesa + 4|----|Res. mística +4 / DEF contra frío +4
 
-[Mys] Resist + 4 / [Venom] Defense + 4|----|[Mist] Resistência + 4 / [Veneno] Defesa + 4|----|Res. mística +4 / DEF contra veneno +4
+[Mys] Resist + 4 / [Venom] Defense + 4|----|[Ataque Místico] Resistência + 4 / [Veneno] Defesa + 4|----|Res. mística +4 / DEF contra veneno +4
 
 [Mystic] Resist + 4 / [Hexes] Resist + 4|----|[Ataque Místico] Resistência + 4 / [Maldições] Resistência + 4|----|Res. mística +4 / Res. maleficios +4
 
@@ -20870,15 +20870,15 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 (REPETIDO)[Mystic] Resist + 5|----|[Ataque Místico] Resistência + 5|----|Resistencia mística +5
 
-[Mys]Resist+5/[Flame][Thundr]DEF+5|----|[Mist]Resistência+5/[Fogo][Raio] DEF+5|----|Res. mística +5 / Res. fuego y elect. +5
+[Mys]Resist+5/[Flame][Thundr]DEF+5|----|[Ataque Místico]Resistência+5/[Fogo][Raio] DEF+5|----|Res. mística +5 / Res. fuego y elect. +5
 
-[Mystic][Invo][Evo] Resist + 5|----|[Ataque Místico][Invo][Evo] Resistência + 5|----|Res. mística +5 / Res. invoc. y evoc. +5
+[Mystic][Invo][Evo] Resist + 5|----|[Ataque Místico][Invocações][Evocações] Resistência + 5|----|Res. mística +5 / Res. invoc. y evoc. +5
 
 (REPETIDO)[Mystic] Resist + 5|----|[Ataque Místico] Resistência + 5|----|Resistencia mística +5
 
 [Mystic] Resist + 5 / [Hexes] Resist + 5|----|[Ataque Místico] Resistência + 5 / [Maldições] Resistência + 5|----|Res. mística +5 / Res. maleficios +5
 
-[Mystic] Resist + 5 / [Phys] Resist + 5|----|[Ataque Místico] Resistência + 5 / [Física] Resistência + 5|----|Res. mística +5 / Res. física +5
+[Mystic] Resist + 5 / [Phys] Resist + 5|----|[Ataque Místico] Resistência + 5 / [Ataque Físico] Resistência + 5|----|Res. mística +5 / Res. física +5
 
 [Mystic] Resist + 5 / [Remnant] Bonus|----|[Ataque Místico] Resistência + 5 / [Remanescente] Bônus|----|Res. mística +5 / Matareliquias
 
@@ -20934,7 +20934,7 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 [Maul] + 1|----|[Impacto] + 1|----|Impacto +1
 
-[Pierce] + 1|----|[Perfuração] + 1|----|Estocada +1
+[Pierce] + 1|----|[Estocada] + 1|----|Estocada +1
 
 (REPETIDO)[Jhana] Bonus|----|[Jhana] Bônus|----|Eficaz contra jhanas
 
@@ -20958,7 +20958,7 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 [Giant] Bonus|----|[Gigante] Bônus|----|Eficaz contra gigantes
 
-[Pierce] + 3|----|[Perfuração] + 3|----|Estocada +3
+[Pierce] + 3|----|[Estocada] + 3|----|Estocada +3
 
 [Bludgeon] + 3|----|[Contusão] + 3|----|Contusión +3
 
@@ -20976,41 +20976,41 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 (REPETIDO)[Hydra] Bonus|----|[Hidra] Bônus|----|Eficaz contra hidras
 
-[Demon] Bonus / [Pierce] + 5|----|[Demônio] Bônus / [Perfuração] + 5|----|Estocada +5 / Matadiablos
+[Demon] Bonus / [Pierce] + 5|----|[Demônio] Bônus / [Estocada] + 5|----|Estocada +5 / Matadiablos
 
 (REPETIDO)[Physical] Resist + 1|----|[Ataque Físico] Resistência + 1|----|Resistencia física +1
 
-[Phys] Resist + 1 / [Slash] DEF + 1|----|[Física] Resistência + 1 / [Corte] DEF + 1|----|Res. física +1 / DEF ante cortes +1
+[Phys] Resist + 1 / [Slash] DEF + 1|----|[Ataque Físico] Resistência + 1 / [Corte] DEF + 1|----|Res. física +1 / DEF ante cortes +1
 
-[Phys] Resist + 1 / [Phys] EVA + 1|----|[Física] Resistência + 1 / [Física] EVA + 1|----|Res. física +1 / Evasión física +1
+[Phys] Resist + 1 / [Phys] EVA + 1|----|[Ataque Físico] Resistência + 1 / [Ataque Físico] EVA + 1|----|Res. física +1 / Evasión física +1
 
-[Phys] Resist + 1 / [Bludgeon] DEF + 1|----|[Física] Resistência + 1 / [Contusão] DEF + 1|----|Res. física +1 / DEF ante contusiones +1
+[Phys] Resist + 1 / [Bludgeon] DEF + 1|----|[Ataque Físico] Resistência + 1 / [Contusão] DEF + 1|----|Res. física +1 / DEF ante contusiones +1
 
 (REPETIDO)[Physical] Resist + 1|----|[Ataque Físico] Resistência + 1|----|Resistencia física +1
 
-[Phys] Resist + 2 / [Slash] DEF + 2|----|[Física] Resistência + 2 / [Corte] DEF + 2|----|Res. física +2 / DEF ante cortes +2
+[Phys] Resist + 2 / [Slash] DEF + 2|----|[Ataque Físico] Resistência + 2 / [Corte] DEF + 2|----|Res. física +2 / DEF ante cortes +2
 
-[Phys] Resist + 2 / [Pierce] Defense + 1|----|[Física] Resistência + 2 / [Perfuração] Defesa + 1|----|Res. física +2 / DEF ante estocadas +1
+[Phys] Resist + 2 / [Pierce] Defense + 1|----|[Ataque Físico] Resistência + 2 / [Estocada] Defesa + 1|----|Res. física +2 / DEF ante estocadas +1
 
 (REPETIDO)[Physical] Resist + 2|----|[Ataque Físico] Resistência + 2|----|Resistencia física +2
 
-[Phys] Resist + 2 / [Maul] Defense + 1|----|[Física] Resistência + 2 / [Impacto] Defesa + 1|----|Res. física +2 / DEF ante impactos +1
+[Phys] Resist + 2 / [Maul] Defense + 1|----|[Ataque Físico] Resistência + 2 / [Impacto] Defesa + 1|----|Res. física +2 / DEF ante impactos +1
 
 (REPETIDO)[Physical] Resist + 3|----|[Ataque Físico] Resistência + 3|----|Resistencia física +3
 
-[Phys] Resist + 3 / [Pierce] Defense + 2|----|[Física] Resistência + 3 / [Perfuração] Defesa + 2|----|Res. física +3 / DEF ante estocadas +2
+[Phys] Resist + 3 / [Pierce] Defense + 2|----|[Ataque Físico] Resistência + 3 / [Estocada] Defesa + 2|----|Res. física +3 / DEF ante estocadas +2
 
-[Phys] Resist + 3 / [Slash] DEF + 3|----|[Física] Resistência + 3 / [Corte] DEF + 3|----|Res. física +3 / DEF ante cortes +3
+[Phys] Resist + 3 / [Slash] DEF + 3|----|[Ataque Físico] Resistência + 3 / [Corte] DEF + 3|----|Res. física +3 / DEF ante cortes +3
 
-[Phys] Resist + 3 / [Phys] EVA + 3|----|[Física] Resistência + 3 / [Física] EVA + 3|----|Res. física +3 / Evasión física +3
+[Phys] Resist + 3 / [Phys] EVA + 3|----|[Ataque Físico] Resistência + 3 / [Ataque Físico] EVA + 3|----|Res. física +3 / Evasión física +3
 
 (REPETIDO)[Physical] Resist + 4|----|[Ataque Físico] Resistência + 4|----|Resistencia física +4
 
-[Phys] Resist + 3 / [Bludgeon] DEF + 3|----|[Física] Resistência + 3 / [Contusão] DEF + 3|----|Res. física +3 / DEF ante contusiones +3
+[Phys] Resist + 3 / [Bludgeon] DEF + 3|----|[Ataque Físico] Resistência + 3 / [Contusão] DEF + 3|----|Res. física +3 / DEF ante contusiones +3
 
-[Phys] Resist + 4 / [Flame] DEF + 4|----|[Física] Resistência + 4 / [Fogo] DEF + 4|----|Res. física +4 / DEF contra fuego +4
+[Phys] Resist + 4 / [Flame] DEF + 4|----|[Ataque Físico] Resistência + 4 / [Fogo] DEF + 4|----|Res. física +4 / DEF contra fuego +4
 
-[Phys] Resist + 4 / [Thunder] DEF + 4|----|[Física] Resistência + 4 / [Raio] DEF + 4|----|Res. física +4 / DEF electricidad +4
+[Phys] Resist + 4 / [Thunder] DEF + 4|----|[Ataque Físico] Resistência + 4 / [Raio] DEF + 4|----|Res. física +4 / DEF electricidad +4
 
 [Physical]Resist + 4 / [Frost]Defense + 4|----|[Ataque Físico] Resistência + 4 / [Gelo] Defesa + 4|----|Res. física +4 / DEF contra frío +4
 
@@ -21018,29 +21018,29 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 [Physical]Resist + 4 / [Maul]Defense + 2|----|[Ataque Físico] Resistência + 4 / [Impacto] Defesa + 2|----|Res. física +4 / DEF ante impactos +4
 
-(REPETIDO)[Phys] Resist + 4 / [Slash] DEF + 4|----|[Física] Resistência + 4 / [Corte] DEF + 4|----|Res. física +4 / DEF ante cortes +4
+(REPETIDO)[Phys] Resist + 4 / [Slash] DEF + 4|----|[Ataque Físico] Resistência + 4 / [Corte] DEF + 4|----|Res. física +4 / DEF ante cortes +4
 
 (REPETIDO)[Physical] Resist + 4|----|[Ataque Físico] Resistência + 4|----|Resistencia física +4
 
 (REPETIDO)[Physical] Resist + 5|----|[Ataque Físico] Resistência + 5|----|Resistencia física +5
 
-[Phys] Resist + 4 / [Pierce] Defense + 3|----|[Física] Resistência + 4 / [Perfuração] Defesa + 3|----|Res. física +4 / DEF ante estocadas +3
+[Phys] Resist + 4 / [Pierce] Defense + 3|----|[Ataque Físico] Resistência + 4 / [Estocada] Defesa + 3|----|Res. física +4 / DEF ante estocadas +3
 
-(REPETIDO)[Phys] Resist + 4 / [Slash] DEF + 4|----|[Física] Resistência + 4 / [Corte] DEF + 4|----|Res. física +4 / DEF ante cortes +4
+(REPETIDO)[Phys] Resist + 4 / [Slash] DEF + 4|----|[Ataque Físico] Resistência + 4 / [Corte] DEF + 4|----|Res. física +4 / DEF ante cortes +4
 
-[Phys] Resist + 4 / [Phys] EVA + 4|----|[Física] Resistência + 4 / [Física] EVA + 4|----|Res. física +4 / Evasión física +4
+[Phys] Resist + 4 / [Phys] EVA + 4|----|[Ataque Físico] Resistência + 4 / [Ataque Físico] EVA + 4|----|Res. física +4 / Evasión física +4
 
-[Phys] Resist + 4 / [Bludgeon] DEF + 4|----|[Física] Resistência + 4 / [Contusão] DEF + 4|----|Res. física +4 / DEF ante contusiones +4
+[Phys] Resist + 4 / [Bludgeon] DEF + 4|----|[Ataque Físico] Resistência + 4 / [Contusão] DEF + 4|----|Res. física +4 / DEF ante contusiones +4
 
-[Phys] Resist + 5 / [Pierce] Defense + 4|----|[Física] Resistência + 5 / [Perfuração] Defesa + 4|----|Res. física +5 / DEF ante estocadas +4
+[Phys] Resist + 5 / [Pierce] Defense + 4|----|[Ataque Físico] Resistência + 5 / [Estocada] Defesa + 4|----|Res. física +5 / DEF ante estocadas +4
 
-[Phys] Resist + 5 / [Phys] Evasion + 5|----|[Física] Resistência + 5 / [Física] Evasão + 5|----|Res. física +5 / Evasión física +5
+[Phys] Resist + 5 / [Phys] Evasion + 5|----|[Ataque Físico] Resistência + 5 / [Ataque Físico] Evasão + 5|----|Res. física +5 / Evasión física +5
 
-[Phys] Resist + 5 / [Slash] Defense + 5|----|[Física] Resistência + 5 / [Corte] Defesa + 5|----|Res. física +5 / DEF ante cortes +5
+[Phys] Resist + 5 / [Slash] Defense + 5|----|[Ataque Físico] Resistência + 5 / [Corte] Defesa + 5|----|Res. física +5 / DEF ante cortes +5
 
-[Phys] Resist + 5 / [Bludgeon] DEF + 5|----|[Física] Resistência + 5 / [Contusão] DEF + 5|----|Res. física +5 / DEF ante contusiones +5
+[Phys] Resist + 5 / [Bludgeon] DEF + 5|----|[Ataque Físico] Resistência + 5 / [Contusão] DEF + 5|----|Res. física +5 / DEF ante contusiones +5
 
-[Phys]Resist + 5/[Maul][Pierce]DEF + 5|----|[Física]Resistência + 5/[Impacto][Perfuração] DEF + 5|----|Res. fís. +5 / DEF impacto/estocada +5
+[Phys]Resist + 5/[Maul][Pierce]DEF + 5|----|[Ataque Físico]Resistência + 5/[Impacto][Estocada] DEF + 5|----|Res. fís. +5 / DEF impacto/estocada +5
 
 (REPETIDO)[Power Grip] + 1|----|[Pegada Dupla] + 1|----|Doble agarre +1
 
@@ -21058,7 +21058,7 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 (REPETIDO)[Sword] + 2|----|[Espada] + 2|----|Espadas +2
 
-(REPETIDO)[Staff] + 3|----|[Cajado] + 3|----|Bastones +3
+(REPETIDO)[Staff] + 3|----|[Bastão] + 3|----|Bastones +3
 
 [Power Grip][Dual Wield] + 3|----|[Pegada Dupla][Uma ou Duas Mãos] + 3|----|Doble agarre +3 / Estilo dual +3
 
@@ -21078,7 +21078,7 @@ Evasion + 4 / Encumbers|----|Evasão + 4 / Peso pesado|----|Evasión + 4 / Peso 
 
 (REPETIDO)[One-Handed] + 4|----|[Uma Mão] + 4|----|Una mano +4
 
-(REPETIDO)[Staff] + 5|----|[Cajado] + 5|----|Bastones +5
+(REPETIDO)[Staff] + 5|----|[Bastão] + 5|----|Bastones +5
 
 Sovani Wield Styles + 4|----|Estilos de Combate Sovani + 4|----|Estilos sovani +4
 
@@ -21100,7 +21100,7 @@ AP Charge + 1 on damage|----|Recarga PA + 1 ao causar danos|----|Recarga 1 PA al
 
 (REPETIDO)[Mystic] Extra Hit + 1|----|[Ataque Místico] Golpe Extra + 1|----|Ataques místicos extra +1
 
-AP Charge +1 on termination + 2|----|Recarga PA +1 ao aniquilar inimigos + 2|----|Recarga 2 PA al aniquilar a un enemigo
+AP Charge +1 on termination + 2|----|Recarga PA +2 ao aniquilar inimigos|----|Recarga 2 PA al aniquilar a un enemigo
 
 [C.Offense][C.Defense] Success + 3|----|[Atq.Crítico][Def.Crítica] Sucesso + 3|----|Éxito de ataques y defensas maestros +3
 
@@ -21116,11 +21116,11 @@ AP Charge + 3 on termination|----|Recarga PA + 3 ao aniquilar inimigos|----|Reca
 
 (REPETIDO)[Physical] Extra Hit + 4|----|[Ataque Físico] Golpe Extra + 4|----|Ataques físicos extra +4
 
-AP Charge +1 on damage + 4|----|Recarga PA +1 ao causar danos + 4|----|Recarga 4 PA al causar daños
+AP Charge +1 on damage + 4|----|Recarga PA +4 ao causar danos|----|Recarga 4 PA al causar daños
 
 (REPETIDO)Trigger Rate + 5|----|Frequência de Movimentos Especiais + 5|----|Frecuencia movimientos maestros +5
 
-AP Charge +1 on termination + 4|----|Recarga PA +1 ao aniquilar inimigos + 4|----|Recarga 4 PA al aniquilar a un enemigo
+AP Charge +1 on termination + 4|----|Recarga PA +4 ao aniquilar inimigos|----|Recarga 4 PA al aniquilar a un enemigo
 
 (REPETIDO)[Mystic] Extra Hit + 4|----|[Ataque Místico] Golpe Extra + 4|----|Ataques místicos extra +4
 
@@ -21140,9 +21140,9 @@ Mighty Bludgeon + 1|----|Contusão Poderosa + 1|----|Contusión poderosa +1
 
 Mighty Bludgeon + 2|----|Contusão Poderosa + 2|----|Contusión poderosa +2
 
-(REPETIDO)Debuff Duration - 1|----|Duração de Penalização - 1|----|Duración de bonificaciones -1
+(REPETIDO)Debuff Duration - 1|----|Duração de Bonificação - 1|----|Duración de bonificaciones -1
 
-[Slowdown] + 4 / Debuff Duration - 2|----|[Desaceleração] + 4 / Duração de Penalização - 2|----|Ralentización +4 / Duración bonif. -2
+[Slowdown] + 4 / Debuff Duration - 2|----|[Desaceleração] + 4 / Duração de Bonificação - 2|----|Ralentización +4 / Duración bonif. -2
 
 (REPETIDO)Buff Duration + 4|----|Duração de Bonificação + 4|----|Duración de bonificaciones +4
 
@@ -21160,25 +21160,25 @@ Mighty Bludgeon + 5|----|Contusão Poderosa + 5|----|Contusión poderosa +5
 
 [Herbs][Explosives][Shards] + 5|----|[Ervas][Explosivos][Cristais] + 5|----|+5 a hierbas, explosivos y cristales
 
-(REPETIDO)Debuff Duration - 5|----|Duração de Penalização - 5|----|Duración de bonificaciones -5
+(REPETIDO)Debuff Duration - 5|----|Duração de Bonificação - 5|----|Duración de bonificaciones -5
 
-AP Cost Cut + 1 / Immunity: Black Out|----|Custo PA + 1 / Imunidade: Inconsciência|----|Coste PA -1 / Inmunidad a Inconsciencia
+AP Cost Cut + 1 / Immunity: Black Out|----|Custo PA - 1 / Imunidade: Inconsciência|----|Coste PA -1 / Inmunidad a Inconsciencia
 
-AP Cost Cut + 4 / [Weapon] + 3|----|Custo PA + 4 / [Ataque com Armas] + 3|----|Coste PA -4 / Ataques con armas +3
+AP Cost Cut + 4 / [Weapon] + 3|----|Custo PA - 4 / [Ataque com Armas] + 3|----|Coste PA -4 / Ataques con armas +3
 
-AP Cost Cut + 2 / Immunity: Burn|----|Custo PA + 2 / Imunidade: Queimadura|----|Coste PA -2 / Inmunidad a Quemadura
+AP Cost Cut + 2 / Immunity: Burn|----|Custo PA - 2 / Imunidade: Queimadura|----|Coste PA -2 / Inmunidad a Quemadura
 
-AP Cost Cut + 2 / Immunity: Shock|----|Custo PA + 2 / Imunidade: Choque|----|Coste PA -2 / Inmunidad a Electrocución
+AP Cost Cut + 2 / Immunity: Shock|----|Custo PA - 2 / Imunidade: Choque|----|Coste PA -2 / Inmunidad a Electrocución
 
-AP Cost Cut + 2 / Immunity: Freeze|----|Custo PA + 2 / Imunidade: Congelamento|----|Coste PA -2 / Inmunidad a Congelación
+AP Cost Cut + 2 / Immunity: Freeze|----|Custo PA - 2 / Imunidade: Congelamento|----|Coste PA -2 / Inmunidad a Congelación
 
-AP Cost Cut + 2 / Immunity: Acid Burn|----|Custo PA + 2 / Imunidade: Ácido|----|Coste PA -2 / Inmunidad a Ácido
+AP Cost Cut + 2 / Immunity: Acid Burn|----|Custo PA - 2 / Imunidade: Ácido|----|Coste PA -2 / Inmunidad a Ácido
 
-AP Cost Cut + 2 / Immunity: Poison|----|Custo PA + 2 / Imunidade: Veneno|----|Coste PA -2 / Inmunidad a Veneno
+AP Cost Cut + 2 / Immunity: Poison|----|Custo PA - 2 / Imunidade: Veneno|----|Coste PA -2 / Inmunidad a Veneno
 
-AP Cost Cut + 3 / Immunity: Curse|----|Custo PA + 3 / Imunidade: Maldição|----|Coste PA -3 / Inmunidad a Maldición
+AP Cost Cut + 3 / Immunity: Curse|----|Custo PA - 3 / Imunidade: Maldição|----|Coste PA -3 / Inmunidad a Maldición
 
-AP Cost Cut + 5 / [Weapon] + 4|----|Custo PA + 5 / [Ataque com Armas] + 4|----|Coste PA -5 / Ataques con armas +4
+AP Cost Cut + 5 / [Weapon] + 4|----|Custo PA - 5 / [Ataque com Armas] + 4|----|Coste PA -5 / Ataques con armas +4
 
 (REPETIDO)[Combat Arts] + 1|----|[Artes de Combate] + 1|----|Artes de combate +1
 
@@ -21212,7 +21212,7 @@ Morale Up + 5 / [Weapon] + 5|----|Moral + 5 / [Ataque com Armas] + 5|----|Subida
 
 [Weapon] + 2 / [Physical] Extra Hit + 2|----|[Ataque com Armas] + 2 / [Ataque Físico] Golpe Extra + 2|----|Ataques con armas +2 / At. fís. extra +2
 
-AP Charge + 3 on damage|----|Recarga PA + 3 ao causar danos|----|Recarga 3 PA al causar daños
+AP Charge + 3 on damage|----|Recarga 3 PA ao causar danos|----|Recarga 3 PA al causar daños
 
 [Invocations][Evocations][Remedies] + 3|----|[Invocações][Evocações][Remédios] + 3|----|Invocaciones/evocaciones/remedios +3
 
@@ -21222,7 +21222,7 @@ Morale Control|----|Controla a Moral|----|Controla la moral
 
 Status Control|----|Controla o Estado|----|Controla el estado
 
-[Staff] + 5 / [Two-Handed] + 5|----|[Cajado] + 5 / [Duas Mãos] + 5|----|Bastones +5 / Dos manos +5
+[Staff] + 5 / [Two-Handed] + 5|----|[Bastão] + 5 / [Duas Mãos] + 5|----|Bastones +5 / Dos manos +5
 
 (REPETIDO)Immunity: Petrification|----|Imunidade: Petrificação|----|Inmunidad a petrificación
 
@@ -21230,11 +21230,11 @@ Status Control|----|Controla o Estado|----|Controla el estado
 
 (REPETIDO)[Hammer] + 5|----|[Martelo] + 5|----|Martillos +5
 
-AP Cost Cut + 1 / [Flame] Defense + 3|----|Custo PA + 1 / [Fogo] Defesa + 3|----|Coste PA -1 / DEF contra fuego +3
+AP Cost Cut + 1 / [Flame] Defense + 3|----|Custo PA - 1 / [Fogo] Defesa + 3|----|Coste PA -1 / DEF contra fuego +3
 
 (REPETIDO)[Frost] Defense + 3|----|[Gelo] Defesa + 3|----|Defensa contra frío +3
 
-AP Cost Cut + 4 / [Thunder] Defense + 5|----|Custo PA + 4 / [Raio] Defesa + 5|----|Coste PA -4 / DEF contra electricidad +5
+AP Cost Cut + 4 / [Thunder] Defense + 5|----|Custo PA - 4 / [Raio] Defesa + 5|----|Coste PA -4 / DEF contra electricidad +5
 
 Status Ailments dummy|----|Status Ailments dummy|----|Alteraciones de estado
 
@@ -21284,7 +21284,7 @@ Botched|----|Desorientado|----|Desorden
 
 Paralyzed|----|Paralisado|----|Parálisis
 
-Silenced|----|Silêncio|----|Silencio
+Silenced|----|Silenciado|----|Silencio
 
 Poisoned|----|Envenenado|----|Veneno
 
@@ -21388,7 +21388,7 @@ Anti-Remnant Terrorist Group|----|Grupo Terrorista Anti-Remanescente|----|Terror
 
 Jager Squad|----|Esquadrão Jager|----|Escuadrón Jäger
 
-(REPETIDO)Third Committee Melee Squad|----|Soldados do Terceiro Comitê|----|Soldados del Tercer Comité
+(REPETIDO)Third Committee Melee Squad|----|Esquadrão do Terceiro Comitê|----|Soldados del Tercer Comité
 
 (REPETIDO)Third Committee Mystic Squad|----|Esquadrão Místico do Terceiro Comitê|----|Místicos del Tercer Comité
 
@@ -21396,13 +21396,13 @@ Jager Squad|----|Esquadrão Jager|----|Escuadrón Jäger
 
 (REPETIDO)Roeas Squad|----|Esquadrão de Roeas|----|Escuadrón Roeas
 
-Castanea Squad|----|Esquadrão Castanea|----|Escuadrón Castanea
+Castanea Squad|----|Esquadrão de Castanea|----|Escuadrón Castanea
 
-Invasion Force: Strike Squad|----|Invasores: Esquadrão de Ataque|----|Soldados del Invasor
+Invasion Force: Strike Squad|----|Esquadrão de Ataque dos Invasores|----|Soldados del Invasor
 
-Invasion Force: Escort Squad|----|Invasores: Defensores|----|Escolta del Invasor
+Invasion Force: Escort Squad|----|Escolta do Invasor|----|Escolta del Invasor
 
-Invasion Force: Magus Squad|----|Invasores: Esquadrão de Magos|----|Místicos del Invasor
+Invasion Force: Magus Squad|----|Esquadrão de Magos do Invasor|----|Místicos del Invasor
 
 (REPETIDO)Base Defense: Stormtroopers|----|Base de Defesa: Tropas de Assalto|----|Soldados de la base
 
@@ -21498,7 +21498,7 @@ Siege Force: Escort Team|----|Força de Cerco: Tropas de Escolta|----|Tropas de 
 
 Siege Force: Stormtroopers|----|Força de Cerco: Tropas de Assalto|----|Tropas de asedio ofensivas
 
-Siege Force: Assist Team|----|Força de Cerco: Time de Apoio|----|Tropas de asedio auxiliares
+Siege Force: Assist Team|----|Força de Cerco: Tropas de Apoio|----|Tropas de asedio auxiliares
 
 Siege Force: Beastmasters|----|Força de Cerco: Tropas Bestiais|----|Tropas de asedio bestiales
 
@@ -21510,17 +21510,17 @@ Conqueror Elite: Stormtroopers|----|Tropas de Elite do Conquistador: Tropas de A
 
 Conqueror Elite: Commandos|----|Tropas de Elite do Conquistador: Comandos|----|Comandos de élite del Invasor
 
-Conqueror Elite: Assist Team|----|Tropas de Elite do Conquistador: Time de Apoio|----|Refuerzos de élite del Invasor
+Conqueror Elite: Assist Team|----|Tropas de Elite do Conquistador: Tropas de Apoio|----|Refuerzos de élite del Invasor
 
 (REPETIDO)Third Committee Combat Squad|----|Esquadrão de Combate do Terceiro Comitê|----|Combatientes del Comité
 
 (REPETIDO)Nordis|----|Nordis|----|Nordis
 
-Mobile Commandos: Assault Team|----|Comando Móvel: Time de Assalto|----|Comando de asalto móvil
+Mobile Commandos: Assault Team|----|Comando Móvel: Tropas de Assalto|----|Comando de asalto móvil
 
-Mobile Commandos: Assist Team|----|Comando Móvel: Time de Apoio|----|Comando de apoyo móvil
+Mobile Commandos: Assist Team|----|Comando Móvel: Tropas de Apoio|----|Comando de apoyo móvil
 
-Mobile Commandos: Mystic Team|----|Comando Móvel: Time Místico|----|Comando místico móvil
+Mobile Commandos: Mystic Team|----|Comando Móvel: Tropas Místicas|----|Comando místico móvil
 
 (REPETIDO)Roeas Squad|----|Esquadrão de Roeas|----|Escuadrón de Roeas
 
@@ -21714,7 +21714,7 @@ Melodramatic Qsiti|----|Qsiti Melodramático|----|Qsiti melodramático
 
 The Knights of Melphina|----|Cavaleiros da Ordem de Melphina|----|Caballeros de la Orden
 
-(REPETIDO)The Ladies of Bloody Alice|----|As Damas Sangrentas|----|Damas Sangrientas
+(REPETIDO)The Ladies of Bloody Alice|----|Damas Sangrentas|----|Damas Sangrientas
 
 (REPETIDO)The Forest Maidens|----|Donzelas do Bosque|----|Doncellas del bosque
 
@@ -22480,7 +22480,7 @@ Kosmosfest Staff|----|Organizador da Festa Cósmica|----|Organizador de la Gala
 
 Cosmos Maiden Fan|----|Admirador da Donzela Cósmica|----|Admirador de la Ninfa
 
-Peace-Loving Woman|----|Mulher Pacífica |----|Mujer pacífica
+Peace-Loving Woman|----|Mulher Pacífica|----|Mujer pacífica
 
 Eagerly Waiting Qsiti|----|Qsiti Iludido|----|Qsiti ilusionado
 
@@ -22500,7 +22500,7 @@ Mysterious Woman|----|Mulher Misteriosa|----|Mujer misteriosa
 
 Weepy Yama|----|Yama Choroso|----|Yama compungido
 
-The White Qsiti's Former Aide|----|Ex-Ajudante do Qsiti Branco |----|Antiguo lugarteniente
+The White Qsiti's Former Aide|----|Ex-Ajudante do Qsiti Branco|----|Antiguo lugarteniente
 
 Grandma's Girl|----|Garota da Vovó|----|Chica amable
 
@@ -22552,7 +22552,7 @@ Archaeologist|----|Arqueólogo|----|Arqueólogo
 
 Scaredy-Cat Magus|----|Maga Covarde|----|Mística cobardica
 
-Scientist|----|Cientista |----|Científico
+Scientist|----|Cientista|----|Científico
 
 Pub Owner|----|Dono da Taverna|----|Propietario del local
 
@@ -22588,7 +22588,7 @@ Puffy-eyed Yama|----|Yama Choroso|----|Yama lloroso
 
 Nimble Girl|----|Garota Habilidosa|----|Chica hábil
 
-Chivalrous Yama|----|Cavalheiro Yama |----|Yama caballeroso
+Chivalrous Yama|----|Cavalheiro Yama|----|Yama caballeroso
 
 Fashionable Woman|----|Mulher Elegante|----|Mujer a la moda
 
@@ -22636,7 +22636,7 @@ Qsiti Chaperon|----|Acompanhante Qsiti|----|Acompañante qsiti
 
 Bartender's Daughter|----|Filha do Taverneiro|----|Hija del tabernero
 
-Noob Qsiti|----|Novato Qsiti |----|Qsiti novato
+Noob Qsiti|----|Qsiti Novato|----|Qsiti novato
 
 Passionate Miner|----|Mineiro Apaixonado|----|Minero apasionado
 
@@ -22644,7 +22644,7 @@ Lively Old Man|----|Velho Alegre|----|Viejecito alegre
 
 Loitering Yama|----|Yama Ocioso|----|Yama ocioso
 
-(REPETIDO)Qsiti Merchant|----|Mercador Qsiti |----|Mercader qsiti
+(REPETIDO)Qsiti Merchant|----|Mercador Qsiti|----|Mercader qsiti
 
 Sky-Gazing Woman|----|Mulher Contemplando o Céu|----|Mujer que mira al cielo
 
@@ -22652,7 +22652,7 @@ Athlumian Guard|----|Guarda de Athlum|----|Guarda de Athlum
 
 Remnant-Gazing Old Man|----|Velho Contemplando o Remanescente|----|Anciano contemplativo
 
-Sorrowful Old Man|----|Velho Triste|----|Anciano afligido
+Sorrowful Old Man|----|Velho Angustiado|----|Anciano afligido
 
 David's Admirer|----|Admirador de David|----|Admirador de David
 
@@ -22676,7 +22676,7 @@ Monster Slayer|----|Matador de Monstros|----|Matamonstruos
 
 Glaring Mercenary|----|Mercenário Feroz|----|Mercenario feroz
 
-Worn Armor Wearer|----|Cavaleiro com Armadura Desgatada |----|Caballero apaleado
+Worn Armor Wearer|----|Cavaleiro Maltratado|----|Caballero apaleado
 
 Friendly Man|----|Homem Amistoso|----|Hombre amistoso
 
@@ -22716,7 +22716,7 @@ Female Shopkeeper|----|Atendente|----|Tendera
 
 Elegant Madam|----|Senhora Elegante|----|Señora elegante
 
-Mythology-Savvy Devotee|----|Devoto Conhecedor da Mitologia|----|Experto en mitología
+Mythology-Savvy Devotee|----|Especialista em Mitologia|----|Experto en mitología
 
 Devoted Girl|----|Garota Devota|----|Chica devota
 
@@ -22740,7 +22740,7 @@ Preaching Man|----|Homem de Fé|----|Hombre fervoroso
 
 Devoted Woman|----|Mulher Devota|----|Mujer devota
 
-Qsiti Tourist|----|Turista Qsiti |----|Viajero qsiti
+Qsiti Tourist|----|Turista Qsiti|----|Viajero qsiti
 
 Qsiti Monk Warrior|----|Monge Guerreiro Qsiti|----|Monje guerrero qsiti
 
@@ -22758,7 +22758,7 @@ Ark Tour Guide|----|Guia do Arca|----|Guía del Arca
 
 Elderly Tourist|----|Turista Idoso|----|Anciano turista
 
-Little Girl Tourist|----|Jovem Turista |----|Joven turista
+Little Girl Tourist|----|Jovem Turista|----|Joven turista
 
 Drunk Qsiti|----|Qsiti Bêbado|----|Qsiti bebido
 
@@ -22824,13 +22824,13 @@ Undelwalt Guard|----|Guarda de Undelwalt|----|Guarda de Undelwalt
 
 Indignant Aristocrat|----|Aristocrata Indignado|----|Aristócrata indignado
 
-Qsiti Adventurer|----|Aventureiro Qsiti |----|Qsiti aventurero
+Qsiti Adventurer|----|Aventureiro Qsiti|----|Qsiti aventurero
 
 Sad-Eyed Yama|----|Yama de Olhar Triste|----|Yama de mirada triste
 
 Aide|----|Ajudante|----|Ayudante
 
-Drunk Magus|----|Maga bêbada |----|Mística ebria
+Drunk Magus|----|Maga embriagada|----|Mística ebria
 
 Curious Qsiti|----|Qsiti Curioso|----|Qsiti curioso
 
@@ -22842,13 +22842,13 @@ Tao Tie-Admiring Child|----|Criança Admirando o Tao Tie|----|Chaval emocionado
 
 Teary Child|----|Garoto Chorão|----|Niño llorón
 
-Charlotte's Admirer|----|Admirador da Charlotte |----|Admirador de Charlotte
+Charlotte's Admirer|----|Admirador da Charlotte|----|Admirador de Charlotte
 
-(REPETIDO)Qsiti Merchant|----|Mercador Qsiti |----|Mercader qsiti
+(REPETIDO)Qsiti Merchant|----|Mercador Qsiti|----|Mercader qsiti
 
 Brawny Silver Falcon|----|Falcão Prateado Musculoso|----|Guerrero musculoso
 
-Cowboy Qsiti|----|Cowboy Qsiti |----|Ganadero qsiti
+Cowboy Qsiti|----|Cowboy Qsiti|----|Ganadero qsiti
 
 Charlotte-Struck Girl|----|Seguidora de Charlotte|----|Seguidora de Charlotte
 
@@ -22856,11 +22856,11 @@ Arrogant Silver Falcon|----|Falcão Prateado Arrogante|----|Guerrera arrogante
 
 Wise Old Man|----|Velho Sábio|----|Anciano sabio
 
-Yama Adventurer|----|Aventureiro Yama |----|Yama aventurero
+Yama Adventurer|----|Aventureiro Yama|----|Yama aventurero
 
 Intellectual Silver Falcon|----|Falcão Prateado Intelectual|----|Guerrero intelectual
 
-Yama Merchant|----|Mercador Yama |----|Mercader yama
+Yama Merchant|----|Mercador Yama|----|Mercader yama
 
 Energetic Qsiti|----|Qsiti Ativo|----|Qsiti activo
 
@@ -22888,7 +22888,7 @@ Gloomy Miner|----|Mineiro Taciturno|----|Minero taciturno
 
 Admiring Man|----|Homem Egocêntrico|----|Hombre ensimismado
 
-(REPETIDO)Pub Regular|----|Cliente da Taverna|----|Cliente habitual
+(REPETIDO)Pub Regular|----|Cliente Habitual|----|Cliente habitual
 
 Talkative Yama|----|Yama Tagarela|----|Yama parlanchín
 
@@ -22920,7 +22920,7 @@ Noyce's Workshop|----|Oficina da Noyce|----|Herrería Noyce
 
 Connely's Items|----|Bazar Connely|----|Bazar Connely
 
-Smiley Latts's Shop|----|Loja do Latts, o Sorridente |----|Bazar de Latts el Sonriente
+Smiley Latts's Shop|----|Bazar do Latts, o Sorridente|----|Bazar de Latts el Sonriente
 
 Rod's Components|----|Componentes do Rod|----|Casa del Componente
 
@@ -22934,7 +22934,7 @@ Langelle's Workshop|----|Oficina do Langelle|----|Artesanía de Langelle
 
 Uncle Bolbo's Items|----|Estúdio do Tio Bolbo|----|Estudio de Don Bolbo
 
-Malliem's Shop|----|Loja do Malliem|----|Bazar de Malliem
+Malliem's Shop|----|Bazar do Malliem|----|Bazar de Malliem
 
 Vorek's Armory|----|Loja de Armas do Vorek|----|Armería Vorek
 
@@ -22956,7 +22956,7 @@ Temple Gift Shop|----|Loja de Presentes do Templo|----|Tienda de regalos del tem
 
 Schneid's Armory|----|Loja de Armas do Schneid|----|Armas Schneid
 
-Lady Nokia's Items|----|Itens da Lady Nokia|----|Novedades Lady Noquira
+Lady Nokia's Items|----|Novidades da Lady Nokia|----|Novedades Lady Noquira
 
 Syvonne's Components|----|Componentes Syvonne|----|Componentes Syvonne
 
@@ -22966,7 +22966,7 @@ Balfey's Armory of Junk|----|Loja de Armas do Balfey|----|Chatarrería Balfey
 
 Ganrick's Workshop|----|Oficina do Ganrick|----|Talleres Ganrick
 
-Geller's Shop|----|Loja do Geller|----|Almacén Geller
+Geller's Shop|----|Armazém do Geller|----|Almacén Geller
 
 Dante's Items|----|Itens do Dante|----|Casa Dante
 
@@ -23004,7 +23004,7 @@ Bardeu's Armor Warehouse|----|Armaduras do Bardeu|----|Armaduras Bardeu
 
 Garvin's Workshop|----|Oficina do Garvin|----|Factoría de Garvin
 
-Buddy Cunber's Items|----|Itens do Cumber|----|Bazar de Cumber
+Buddy Cunber's Items|----|Bazar do Cumber|----|Bazar de Cumber
 
 Aunt Jill's Homemade Goodies|----|Manufaturas da Tia Jill|----|Manufacturas Tía Jill
 
@@ -23022,7 +23022,7 @@ Beru's Fine Armory|----|Loja de Armas Finas do Beru|----|Armaduras Superiores de
 
 Yuree's Workshop|----|Oficina do Yuree|----|Estudio Yuree
 
-Solune's Items|----|Itens do Solune|----|Artículos Solune
+Solune's Items|----|Artigos do Solune|----|Artículos Solune
 
 Rigo's Shop of Prosperity|----|Loja da Prosperidade do Rigo|----|Bazar de la Prosperidad Rigo
 
@@ -23162,17 +23162,17 @@ White Sovani|----|Sovani Albino|----|Sovani albino
 
 White Yama|----|Yama Albino|----|Yama albino
 
-Huge Yama|----|Enorme Yama |----|Yama enorme
+Huge Yama|----|Enorme Yama|----|Yama enorme
 
 White Qsiti|----|Qsiti Albino|----|Qsiti albino
 
-Dishonest-Looking Man|----|Homem de Aparência Desonesta|----|Hombre deshonesto
+Dishonest-Looking Man|----|Homem Desonesto|----|Hombre deshonesto
 
 Elderly Warrior|----|Velho Guerreiro|----|Anciano guerrero
 
 (REPETIDO)Bandit|----|Bandido|----|Bandido
 
-Reckless Ravager|----|Saqueador Descuidado|----|Opresor temerario
+Reckless Ravager|----|Opressor Descuidado|----|Opresor temerario
 
 Soldier in Black|----|Soldado de Preto|----|Soldado de negro
 
@@ -23266,9 +23266,9 @@ Jhana Queen|----|Rainha Jhana|----|Reina jhana
 
 Jhana Magus|----|Mago Jhana|----|Místico jhana
 
-Jhana Archfighter|----|Herói Jhana|----|Gran guerrero jhana
+Jhana Archfighter|----|Grande Guerreiro Jhana|----|Gran guerrero jhana
 
-Jhana Archshaman|----|Chefe Xamã Jhana|----|Gran chamán jhana
+Jhana Archshaman|----|Grande Xamã Jhana|----|Gran chamán jhana
 
 Jhana Archmagus|----|Arquimago Jhana|----|Archimístico jhana
 
@@ -23284,7 +23284,7 @@ Yellowcap Soldier|----|Soldado de Capuz Amarelo|----|Ocregabán soldado
 
 Ravenhowl|----|Corvo Uivante|----|Cuervoraz
 
-Malevolence|----|Malevolência |----|Malevolencia
+Malevolence|----|Malevolência|----|Malevolencia
 
 Redcap Champion|----|Campeão de Capuz Vermelho|----|Granagabán campeón
 
@@ -23300,9 +23300,9 @@ Pygmalion|----|Pigmalion|----|Pigmalión
 
 Jade Golem|----|Golem de Jade|----|Golem de jade
 
-Suicide|----|Kamikaze |----|Kamikaze
+Suicide|----|Kamikaze|----|Kamikaze
 
-Nucadora|----|Nucadora |----|Desnucadora
+Nucadora|----|Nucadora|----|Desnucadora
 
 Thanatos|----|Thanatos|----|Thanatos
 
@@ -23312,21 +23312,21 @@ Prometheus|----|Prometheus|----|Prometheus
 
 Madman|----|Demente|----|Demente
 
-(REPETIDO)Raptor|----|Carniceiro |----|Carroñero
+(REPETIDO)Raptor|----|Carniceiro|----|Carroñero
 
 (REPETIDO)Wild Raptor|----|Carniceiro Selvagem|----|Carroñero feroz
 
-(REPETIDO)Bullfighter|----|Matador |----|Matador
+(REPETIDO)Bullfighter|----|Matador|----|Matador
 
 King Raptor|----|Carniceiro Soberano|----|Rey carroñero
 
 (REPETIDO)Wild Raptor|----|Carniceiro Selvagem|----|Carroñero feroz
 
-(REPETIDO)Bullfighter|----|Matador |----|Matador
+(REPETIDO)Bullfighter|----|Matador|----|Matador
 
 Bloodthirsty Beast|----|Fera Sanguinária|----|Bestia voraz
 
-Carnotaurus|----|Carnotauro |----|Carnotauro
+Carnotaurus|----|Carnotauro|----|Carnotauro
 
 Jota|----|Minota|----|Minota
 
@@ -23372,7 +23372,7 @@ Spiritbeast Rin|----|Espírito Animal Rin|----|Espíritu animal Rin
 
 (REPETIDO)Misericorde|----|Impiedosa|----|Inmisericorde
 
-Rockgrater|----|Rebentarocha |----|Revientarrocas
+Rockgrater|----|Rebentarocha|----|Revientarrocas
 
 King Chimera|----|Quimera Soberana|----|Rey quimera
 
@@ -23422,15 +23422,15 @@ Medusa|----|Medusa|----|Medusa
 
 Stheno|----|Stheno|----|Stheno
 
-Euryale|----|Euríale |----|Euryale
+Euryale|----|Euríale|----|Euryale
 
-(REPETIDO)Imp|----|Diabrete |----|Diablillo
+(REPETIDO)Imp|----|Diabrete|----|Diablillo
 
 (REPETIDO)Quien|----|Quien|----|Quizenas
 
 Donda|----|Donda|----|Dronda
 
-(REPETIDO)Imp|----|Diabrete |----|Diablillo
+(REPETIDO)Imp|----|Diabrete|----|Diablillo
 
 (REPETIDO)Quien|----|Quien|----|Quizenas
 
@@ -23442,9 +23442,9 @@ Pan|----|Pan|----|Mandril
 
 Golden Monkey|----|Macaco Dourado|----|Simio dorado
 
-Silver Ape|----|Símio Prateado |----|Simio plateado
+Silver Ape|----|Símio Prateado|----|Simio plateado
 
-Satyri|----|Sátiro |----|Sátiro
+Satyri|----|Sátiro|----|Sátiro
 
 Sugriva|----|Sugriva|----|Sugriva
 
@@ -23454,23 +23454,23 @@ Hanuman|----|Hanuman|----|Hanuman
 
 (REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
-(REPETIDO)Basilisk|----|Basilisco |----|Basilisco
+(REPETIDO)Basilisk|----|Basilisco|----|Basilisco
 
 (REPETIDO)Nidhogg|----|Nidhogg|----|Nidhogg
 
 (REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
-(REPETIDO)Basilisk|----|Basilisco |----|Basilisco
+(REPETIDO)Basilisk|----|Basilisco|----|Basilisco
 
 (REPETIDO)Nidhogg|----|Nidhogg|----|Nidhogg
 
 (REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
-(REPETIDO)Basilisk|----|Basilisco |----|Basilisco
+(REPETIDO)Basilisk|----|Basilisco|----|Basilisco
 
 (REPETIDO)Nidhogg|----|Nidhogg|----|Nidhogg
 
-Rockbiter|----|Mordepedra |----|Picapeñascos
+Rockbiter|----|Mordepedra|----|Picapeñascos
 
 Stegosauria King|----|Estegosauro Rei|----|Estegosaurio
 
@@ -23490,29 +23490,29 @@ Poison Lizard|----|Lagarto Venenoso|----|Saurio tóxico
 
 (REPETIDO)Azhdaha|----|Azhdaha|----|Azhdaha
 
-(REPETIDO)Weredragon|----|Dracônico |----|Dragóntropo
+(REPETIDO)Weredragon|----|Dracônico|----|Dragóntropo
 
 (REPETIDO)Feral Fang|----|Presa Feroz|----|Canino montés
 
 Great Azhdaha|----|Azhdaha Gigante|----|Gran Azhdaha
 
-(REPETIDO)Weredragon|----|Dracônico |----|Dragóntropo
+(REPETIDO)Weredragon|----|Dracônico|----|Dragóntropo
 
 Nanotyrranus|----|Nanotirano|----|Nanotirano
 
-Crazer|----|Maluco |----|Chalado
+Crazer|----|Maluco|----|Chalado
 
 Dracosblood|----|Sangue de Dragão|----|Draco sanguíneo
 
 Roaming Warrior|----|Guerreiro Errante|----|Soldado errante
 
-Cheiron|----|Queiron |----|Quirón
+Cheiron|----|Queiron|----|Quirón
 
-Pholus|----|Folos |----|Folos
+Pholus|----|Folos|----|Folos
 
-Distress|----|Tormento |----|Tormento
+Distress|----|Tormento|----|Tormento
 
-Greentop|----|Testaverde |----|Testaverde
+Greentop|----|Testaverde|----|Testaverde
 
 (REPETIDO)Demon|----|Demônio|----|Diablo
 
@@ -23542,31 +23542,31 @@ Void Intruder|----|Intruso Etéreo|----|Intruso etéreo
 
 Bluetalon|----|Caudazul|----|Zarpazul
 
-(REPETIDO)Manticore|----|Mantícora |----|Mantícora
+(REPETIDO)Manticore|----|Mantícora|----|Mantícora
 
-(REPETIDO)Nussknacker|----|Rompebraços |----|Rompebrazos
+(REPETIDO)Nussknacker|----|Rompebraços|----|Rompebrazos
 
-(REPETIDO)Deathclaw|----|Garramortal |----|Garramortal
+(REPETIDO)Deathclaw|----|Garramortal|----|Garramortal
 
-(REPETIDO)Manticore|----|Mantícora |----|Mantícora
+(REPETIDO)Manticore|----|Mantícora|----|Mantícora
 
-(REPETIDO)Nussknacker|----|Rompebraços |----|Rompebrazos
+(REPETIDO)Nussknacker|----|Rompebraços|----|Rompebrazos
 
-(REPETIDO)Deathclaw|----|Garramortal |----|Garramortal
+(REPETIDO)Deathclaw|----|Garramortal|----|Garramortal
 
-(REPETIDO)Manticore|----|Mantícora |----|Mantícora
+(REPETIDO)Manticore|----|Mantícora|----|Mantícora
 
-(REPETIDO)Nussknacker|----|Rompebraços |----|Rompebrazos
+(REPETIDO)Nussknacker|----|Rompebraços|----|Rompebrazos
 
-(REPETIDO)Deathclaw|----|Garramortal |----|Garramortal
+(REPETIDO)Deathclaw|----|Garramortal|----|Garramortal
 
 Abominable Beast|----|Fera Abominável|----|Mala bestia
 
-Longtail Soldier|----|Caudalonga |----|Cabolargo
+Longtail Soldier|----|Caudalonga|----|Cabolargo
 
 Paraponera|----|Paraponera|----|Paraponera
 
-Ancient Blue|----|Cianoarcano |----|Cianoarcano
+Ancient Blue|----|Cianoarcano|----|Cianoarcano
 
 Yvalmock|----|Ivalmock|----|Ivalmock
 
@@ -23576,11 +23576,11 @@ Bloody Nussknacker|----|Rompebraços Sanguinário|----|Rompebrazos feroz
 
 Yvalock|----|Yvalock|----|Ivalock
 
-(REPETIDO)Crab|----|Caranguejo |----|Centollo
+(REPETIDO)Crab|----|Caranguejo|----|Centollo
 
 (REPETIDO)Rockshell|----|Concha de Pedra|----|Caparapiedra
 
-Armorshell|----|Concha Blindada |----|Caparacero
+Armorshell|----|Concha Blindada|----|Caparacero
 
 Giant Crab|----|Caranguejo Gigante|----|Centollo gigante
 
@@ -23588,7 +23588,7 @@ Giant Crab|----|Caranguejo Gigante|----|Centollo gigante
 
 Giant Armorshell|----|Concha Blindada Gigante|----|Caparacero rey
 
-Ogreface|----|Ogrete |----|Ogrete
+Ogreface|----|Ogrete|----|Ogrete
 
 Ocypode|----|Ocípode|----|Velópodo
 
@@ -23596,45 +23596,45 @@ Hairy Crab|----|Caranguejo Peludo|----|Centollo felpudo
 
 Deathcaller|----|Arauto da Morte|----|Heraldo mortal
 
-Death Tank|----|Encouraçado |----|Acorazado
+Death Tank|----|Encouraçado|----|Acorazado
 
 Blossom|----|Florescência|----|Pimpollo
 
 Floridus|----|Floridus|----|Floridus
 
-(REPETIDO)Executioner|----|Executor |----|Ejecutor
+(REPETIDO)Executioner|----|Executor|----|Ejecutor
 
 Spider|----|Aranha|----|Tarántula
 
 (REPETIDO)Grand Spider|----|Aranha Gigante|----|Gran tarántula
 
-(REPETIDO)Arachnid|----|Aracnídeo |----|Arácnido
+(REPETIDO)Arachnid|----|Aracnídeo|----|Arácnido
 
 Giant Spider|----|Aranha Gigante|----|Tarántula reina
 
 (REPETIDO)Grand Spider|----|Aranha Gigante|----|Gran tarántula
 
-(REPETIDO)Arachnid|----|Aracnídeo |----|Arácnido
+(REPETIDO)Arachnid|----|Aracnídeo|----|Arácnido
 
 Fibroin|----|Fibroin|----|Fibroin
 
-Whitehorn|----|Chifrebranco |----|Cuernoblanco
+Whitehorn|----|Chifrebranco|----|Cuernoblanco
 
 Scarlet Beetle|----|Besouro Vermelho|----|Mantis roja
 
 Axehead|----|Cabeça de Machado|----|Labricéfalo
 
-Opiliones|----|Opilione |----|Opilionida
+Opiliones|----|Opilione|----|Opilionida
 
 Jagd Beetle|----|Besouro Caçador|----|Mantis dentada
 
-Figurehead|----|Carranca |----|Mascarón
+Figurehead|----|Carranca|----|Mascarón
 
 Venomspewer|----|Cospe Veneno|----|Escupeveneno
 
 (REPETIDO)Landworm|----|Verme da Terra|----|Multípodo
 
-Pest|----|Praga |----|Pestis
+Pest|----|Praga|----|Pestis
 
 (REPETIDO)Killer Insect|----|Inseto Assassino|----|Parásito asesino
 
@@ -23646,7 +23646,7 @@ SS Pest|----|Minipraga|----|Minipestis
 
 Violet Leafhopper|----|Cigarra Azul|----|Cigarra malva
 
-Prowler|----|Rondador |----|Husmeador
+Prowler|----|Rondador|----|Husmeador
 
 Pale Leafhopper|----|Cigarra Branca|----|Cigarra blanca
 
@@ -23674,7 +23674,7 @@ Deadly Pest|----|Praga Letal|----|Pestis letal
 
 Senton|----|Senton|----|Senton
 
-Millipede|----|Milípede |----|Miriópodo
+Millipede|----|Milípede|----|Miriópodo
 
 Sandcrawler|----|Rastejador das Areias|----|Treparenas
 
@@ -23688,19 +23688,19 @@ Gustav|----|Gustav|----|Gustav
 
 Gaias|----|Gaias|----|Gaias
 
-(REPETIDO)Glutton|----|Glutão |----|Tragaldabas
+(REPETIDO)Glutton|----|Glutão|----|Tragaldabas
 
 (REPETIDO)Leap Frog|----|Sapo Saltitante|----|Batracio
 
 (REPETIDO)Abaddon|----|Abaddon|----|Abaddon
 
-(REPETIDO)Glutton|----|Glutão |----|Tragaldabas
+(REPETIDO)Glutton|----|Glutão|----|Tragaldabas
 
 (REPETIDO)Leap Frog|----|Sapo Saltitante|----|Batracio
 
 (REPETIDO)Abaddon|----|Abaddon|----|Abaddon
 
-(REPETIDO)Glutton|----|Glutão |----|Tragaldabas
+(REPETIDO)Glutton|----|Glutão|----|Tragaldabas
 
 (REPETIDO)Leap Frog|----|Sapo Saltitante|----|Batracio
 
@@ -23736,15 +23736,15 @@ Vodianoi|----|Vodianoi|----|Vodianoi
 
 Clione|----|Clione|----|Clione
 
-Malach|----|Malachi |----|Malachi
+Malach|----|Malachi|----|Malachi
 
 Naias|----|Naias|----|Naias
 
-Malevolencia|----|Malevolência |----|Malevolencia
+Malevolencia|----|Malevolência|----|Malevolencia
 
 Wandering Plague|----|Praga Errante|----|Plaga errante
 
-Clytie|----|Clicie |----|Clicie
+Clytie|----|Clicie|----|Clicie
 
 Lympha|----|Linfa|----|Linfa
 
@@ -23752,17 +23752,17 @@ Fallen Angel|----|Anjo Caído|----|Ángel caído
 
 Papillon|----|Papillon|----|Papilio
 
-Nymphalidae|----|Ninfálida |----|Ninfálida
+Nymphalidae|----|Ninfálida|----|Ninfálida
 
 Echidnamoth|----|Mariposa de Espinhos|----|Polillaespín
 
 Greater Papillon|----|Papillon Gigante|----|Gran papilio
 
-Greater Nymphalidae|----|Ninfálida Gigante |----|Gran ninfálida
+Greater Nymphalidae|----|Ninfálida Gigante|----|Gran ninfálida
 
 Greater Echidnamoth|----|Mariposa de Espinhos Gigante|----|Polillaespín rey
 
-Deathmorph|----|Aniquilador |----|Aniquilador
+Deathmorph|----|Aniquilador|----|Aniquilador
 
 Divine Flyer|----|Mosca Divina|----|Moscón divino
 
@@ -23772,7 +23772,7 @@ Swallowtail Devil|----|Mariposa Diabólica|----|Diablo mariposa
 
 Yamamai|----|Yamamai|----|Yamamai
 
-Dreamwatcher|----|Vigiasonhos |----|Vigilasueños
+Dreamwatcher|----|Vigiasonhos|----|Vigilasueños
 
 Birdwing|----|Asa de Pássaro|----|Ala celeste
 
@@ -23782,13 +23782,13 @@ Artaxa|----|Artaxa|----|Artaxa
 
 (REPETIDO)Dagon|----|Dagon|----|Dagon
 
-(REPETIDO)Charybdis|----|Caribdis |----|Caribdis
+(REPETIDO)Charybdis|----|Caribdis|----|Caribdis
 
 Giant Amoeba|----|Ameba Gigante|----|Ameba reina
 
 (REPETIDO)Dagon|----|Dagon|----|Dagón
 
-(REPETIDO)Charybdis|----|Caribdis |----|Caribdis
+(REPETIDO)Charybdis|----|Caribdis|----|Caribdis
 
 Running Sludge|----|Limo Galopante|----|Cieno galopante
 
@@ -23796,23 +23796,23 @@ Baroque Pearl|----|Pérola Barroca|----|Perla barroca
 
 Liquid Lolly|----|Hidrodoce|----|Hidromondongo
 
-Octoeyes|----|Oitolhos |----|Contemplador
+Octoeyes|----|Oitolhos|----|Contemplador
 
 Ohaguro|----|Dentes Negros|----|Dientenegro
 
-Nightmare|----|Pesadelo |----|Pesadilla
+Nightmare|----|Pesadelo|----|Pesadilla
 
-Blob|----|Amorfo |----|Amorfo
+Blob|----|Amorfo|----|Amorfo
 
-The Dark|----|Tenebroso |----|Tenebroso
+The Dark|----|Tenebroso|----|Tenebroso
 
-(REPETIDO)Rosefly|----|Moscarosa |----|Apoidea
+(REPETIDO)Rosefly|----|Moscarosa|----|Apoidea
 
-Shellfly|----|Moscascudo |----|Vespoidea
+Shellfly|----|Moscascudo|----|Vespoidea
 
 (REPETIDO)Anthophilum|----|Antofilo|----|Apimorfa
 
-(REPETIDO)Rosefly|----|Moscarosa |----|Apoidea
+(REPETIDO)Rosefly|----|Moscarosa|----|Apoidea
 
 Giant Shellfly|----|Moscascudo Gigante|----|Vespoidea reina
 
@@ -23822,7 +23822,7 @@ Sesiidae|----|Sesiidae|----|Sesiidae
 
 Royalguard|----|Guarda Real|----|Guarda real
 
-Chigger|----|Carrapato |----|Garrapata
+Chigger|----|Carrapato|----|Garrapata
 
 Deathstinger|----|Ferrão Mortal|----|Picamuertos
 
@@ -23850,7 +23850,7 @@ Jatayu|----|Jatayu|----|Jatayu
 
 Sampati|----|Sampati|----|Sampati
 
-Nightingale|----|Gralha |----|Estornino
+Nightingale|----|Gralha|----|Estornino
 
 Tsenahale|----|Tsenahale|----|Tsenahale
 
@@ -23858,17 +23858,17 @@ Wakinyan|----|Wakinyan|----|Wakinyan
 
 (REPETIDO)Wyvern|----|Wyvern|----|Wyvern
 
-Aeronite|----|Aeronito |----|Aeronita
+Aeronite|----|Aeronito|----|Aeronita
 
-Diatryma|----|Diatrima |----|Diatrima
+Diatryma|----|Diatrima|----|Diatrima
 
-Narwhal|----|Narval |----|Narval
+Narwhal|----|Narval|----|Narval
 
 Deadly Swooper|----|Planador Mortífero|----|Planeador
 
-Longbeak|----|Bicolargo |----|Picolargo
+Longbeak|----|Bicolargo|----|Picolargo
 
-Archaeopteryx|----|Arqueopteryx |----|Arqueopteryx
+Archaeopteryx|----|Arqueopteryx|----|Arqueopteryx
 
 Lindblum|----|Lindblum|----|Lindblum
 
@@ -23876,9 +23876,9 @@ Chua|----|Chua|----|Chua
 
 Reaper|----|Anjo da Morte|----|Parca
 
-Wrath|----|Fúria |----|Cólera
+Wrath|----|Fúria|----|Cólera
 
-Blackwing|----|Asanegra |----|Alanegra
+Blackwing|----|Asanegra|----|Alanegra
 
 (REPETIDO)Spiritlord|----|Senhor Espiritual|----|Archiespectro
 
@@ -23888,7 +23888,7 @@ Mad Hurricane|----|Vento Feroz|----|Viento feroz
 
 Seething Wind|----|Vento Furioso|----|Viento furioso
 
-Dominator|----|Dominador |----|Subyugador
+Dominator|----|Dominador|----|Subyugador
 
 Ikaros Feather|----|Ícaro|----|Ícaro
 
@@ -23900,17 +23900,17 @@ Heaven's Lord|----|Senhor dos Céus|----|Señor del cielo
 
 Stymphalian Bird|----|Estínfalo|----|Estínfalo
 
-(REPETIDO)Vile Plant|----|Plantavil |----|Plantavil
+(REPETIDO)Vile Plant|----|Plantavil|----|Plantavil
 
 (REPETIDO)Anthrovore|----|Antropófago|----|Antropófago
 
-(REPETIDO)Mandragora|----|Mandrágora |----|Mandrágora
+(REPETIDO)Mandragora|----|Mandrágora|----|Mandrágora
 
-(REPETIDO)Vile Plant|----|Plantavil |----|Plantavil
+(REPETIDO)Vile Plant|----|Plantavil|----|Plantavil
 
 (REPETIDO)Anthrovore|----|Antropófago|----|Antropófago
 
-(REPETIDO)Mandragora|----|Mandrágora |----|Mandrágora
+(REPETIDO)Mandragora|----|Mandrágora|----|Mandrágora
 
 Red Tears|----|Lágrimas de Sangue|----|Sauce rojo
 
@@ -23922,9 +23922,9 @@ Rotten Tears|----|Lágrimas Podres|----|Sauce pútrido
 
 Raging Persephone|----|Perséfone Furiosa|----|Perséfone
 
-Condemner|----|Castigador |----|Castigador
+Condemner|----|Castigador|----|Castigador
 
-Weeper|----|Lamentador |----|Berreón
+Weeper|----|Lamentador|----|Berreón
 
 Narcissus|----|Narciso|----|Narciso
 
@@ -23942,7 +23942,7 @@ Godwood|----|Planta Celestial|----|Leño celeste
 
 King Plant|----|Planta Soberana|----|Matojo soberano
 
-Longhorn|----|Chifrelongo |----|Cuernolargo
+Longhorn|----|Chifrelongo|----|Cuernolargo
 
 Deatheater|----|Engolealmas|----|Engullealmas
 
@@ -23958,13 +23958,13 @@ Devilwood|----|Planta Demoníaca|----|Leño diablo
 
 Evil Eye|----|Olho Maligno|----|Mal de ojo
 
-Manhunter|----|Caçahomens |----|Cazahombres
+Manhunter|----|Caçahomens|----|Cazahombres
 
 Death|----|Ceifador de Almas|----|Segador de almas
 
 Dark Helios|----|Helionegro|----|Helionegro
 
-Blackmoon|----|Luanegra |----|Lunanegra
+Blackmoon|----|Luanegra|----|Lunanegra
 
 Eye of Damnation|----|Olho da Condenação|----|Ojo de tormento
 
@@ -23972,15 +23972,15 @@ Eye of Doom|----|Olho da Perdição|----|Ojo de perdición
 
 Eye of Terror|----|Olho do Terror|----|Ojo del terror
 
-Observer|----|Observador |----|Observador
+Observer|----|Observador|----|Observador
 
-Monopole|----|Monópolo |----|Monópolo
+Monopole|----|Monópolo|----|Monópolo
 
 Eye of Flame|----|Olho de Fogo|----|Ojo del fuego
 
 (REPETIDO)Dragon|----|Dragão|----|Dragón
 
-Abelisk|----|Obelisco |----|Abelisco
+Abelisk|----|Obelisco|----|Abelisco
 
 Brynhildr|----|Brunhild|----|Brunhild
 
@@ -24006,7 +24006,7 @@ Falak|----|Falak|----|Falak
 
 Bai Ze|----|Bai Ze|----|Bai Ze
 
-Holy Servant|----|Servo Sagrado |----|Lacayo sacro
+Holy Servant|----|Servo Sagrado|----|Lacayo sacro
 
 Giant|----|Gigante|----|Gigante
 
@@ -24014,7 +24014,7 @@ Barbarossa|----|Barbarossa|----|Barbarroja
 
 Ancbolder|----|Ancbolder|----|Ancbolder
 
-(REPETIDO)Sledgehammer|----|Marreta |----|Martillo pilón
+(REPETIDO)Sledgehammer|----|Marreta|----|Martillo pilón
 
 Caligula|----|Calígula|----|Calígula
 
@@ -24040,7 +24040,7 @@ The Hanged Man|----|Enforcado|----|Ahorcado
 
 Puck|----|Puck|----|Fauno
 
-Harpylia|----|Arpília |----|Arpilia
+Harpylia|----|Arpília|----|Arpilia
 
 Valkyrie|----|Valquíria|----|Valquiria
 
@@ -24050,7 +24050,7 @@ Anima|----|Anima|----|Ánima
 
 Terror Wing|----|Asa do Terror|----|Ala del terror
 
-Mercurius|----|Mercuriano |----|Mercurius
+Mercurius|----|Mercuriano|----|Mercurius
 
 (REPETIDO)Slaver|----|Traficante de Escravos|----|Traficante jefe
 
@@ -25016,7 +25016,7 @@ Ninja Uchigatana|----|Uchigatana de Ninja|----|Kujira de ninja
 
 Shogun Uchigatana|----|Uchigatana de Shogun|----|Kujira de shogun
 
-Sacred Uchigatana|----|Uchigatana Sagrada |----|Kujira sagrada
+Sacred Uchigatana|----|Uchigatana Sagrada|----|Kujira sagrada
 
 Wyrm Uchigatana|----|Uchigatana Mordedora|----|Kujira mordedora
 
@@ -25122,7 +25122,7 @@ Warrior's Tomahawk|----|Tomahawk do Guerreiro|----|Tomahawk militar
 
 Commander's Tomahawk|----|Tomahawk do Comandante|----|Tomahawk señorial
 
-Elite's Tomahawk|----|Tomahawk de Elite |----|Tomahawk selecto
+Elite's Tomahawk|----|Tomahawk de Elite|----|Tomahawk selecto
 
 Champion's Tomahawk|----|Tomahawk do Campeão|----|Tomahawk palatino
 
@@ -25138,7 +25138,7 @@ Damascene Tomahawk|----|Tomahawk Damascena|----|Tomahawk repujado
 
 Auld Tomahawk|----|Tomahawk Ancestral|----|Tomahawk ancestral
 
-Splitter|----|Separadora |----|Leñadora
+Splitter|----|Separadora|----|Leñadora
 
 Superior Splitter|----|Separadora Superior|----|Leñadora superior
 
@@ -25718,7 +25718,7 @@ Brownie's Ire|----|Ira das Dríades|----|Ira de las dríadas
 
 Celapaleian|----|Espigão de Celapalais|----|Pica de Celapalais
 
-Halberd|----|Alabarda |----|Alabarda
+Halberd|----|Alabarda|----|Alabarda
 
 Combat Halberd|----|Alabarda de Combate|----|Alabarda castrense
 
@@ -25856,7 +25856,7 @@ Parrying Naginata|----|Naginata de Defesa|----|Naginata de defensa
 
 Aura Naginata|----|Naginata Encantada|----|Naginata encantada
 
-Ancient Naginata|----|Naginata Lendária |----|Naginata legendaria
+Ancient Naginata|----|Naginata Lendária|----|Naginata legendaria
 
 Gigaspear|----|Lança de Gigante|----|Venablo de gigante
 
@@ -27674,7 +27674,7 @@ Snowflake|----|Flocos de Neve|----|Copo de nieve
 
 Tarnished Earring|----|Brinco Escurecido|----|Pendiente oxidado
 
-Mojcado Key|----|Chave de Mojcado |----|Llave de Muscato
+Mojcado Key|----|Chave de Mojcado|----|Llave de Muscato
 
 Ves Salia|----|Ves Salia|----|Ves Salia
 
@@ -28080,7 +28080,7 @@ Azhdaha Weekly|----|Biologia do Azhdaha|----|Biología del azhdaha
 
 Demon Weekly|----|Biologia do Demônio|----|Biología del diablo
 
-Manticore Weekly|----|Biologia da Mantícora |----|Biología de la mantícora
+Manticore Weekly|----|Biologia da Mantícora|----|Biología de la mantícora
 
 Crab Weekly|----|Biologia do Caranguejo|----|Biología del centollo
 
@@ -28140,7 +28140,7 @@ The Daily Azhdaha|----|Biologia do Azhdaha|----|Anatomía del azhdaha
 
 The Daily Demon|----|Biologia do Demônio|----|Anatomía del diablo
 
-The Daily Manticore|----|Biologia da Mantícora |----|Anatomía de la mantícora
+The Daily Manticore|----|Biologia da Mantícora|----|Anatomía de la mantícora
 
 The Daily Crab|----|Biologia do Caranguejo|----|Anatomía del centollo
 
@@ -29402,7 +29402,7 @@ Polished Scale|----|Escama Polida|----|Escama pulida
 
 Horn|----|Chifre|----|Cuerno
 
-Large Horn|----|Grande Chifre |----|Gran cuerno
+Large Horn|----|Grande Chifre|----|Gran cuerno
 
 Fang|----|Presa|----|Colmillo
 
@@ -29640,7 +29640,7 @@ Raginos Fragment|----|Fragmento de Raginos|----|Fragmento de raginos
 
 Glagonos Fragment|----|Fragmento de Glagonos|----|Fragmento de glagonos
 
-Raptor Scale|----|Escama de Carniceiro |----|Escama de carroñero
+Raptor Scale|----|Escama de Carniceiro|----|Escama de carroñero
 
 Raptor Horn|----|Chifre de Carniceiro|----|Cuerno de carroñero
 
@@ -29656,7 +29656,7 @@ Thick Raptor Carapace|----|Carapaça Reforçada de Carniceiro|----|Caparazón re
 
 Bulky Wild Raptor Hide|----|Pele Volumosa de Carniceiro Selvagem|----|Piel tupida de carroñero feroz
 
-Coiled Bullfighter Horn|----|Chifre Enrolado de Matador |----|Cuerno enroscado de matador
+Coiled Bullfighter Horn|----|Chifre Enrolado de Matador|----|Cuerno enroscado de matador
 
 Pointed King Raptor Fang|----|Presa Afiada de Carniceiro Soberano|----|Colmillo afilado de carroñero rey
 
@@ -29720,7 +29720,7 @@ Irregular Torpedo Scale|----|Escama Irregular de Torpedo|----|Escama irregular d
 
 Bune Fin|----|Barbatana de Bune|----|Aleta de bune
 
-Imp Talon|----|Garra de Diabrete |----|Garra de diablillo
+Imp Talon|----|Garra de Diabrete|----|Garra de diablillo
 
 Imp Fang|----|Presa de Diabrete|----|Colmillo de diablillo
 
@@ -29754,7 +29754,7 @@ Vile Lizard Mane|----|Cabeleira de Lagarto Nefasto|----|Melena de saurio vil
 
 Inverted Vile Lizard Scale|----|Escama Invertida de Lagarto Nefasto|----|Escama invertida de saurio vil
 
-Soft Basilisk Hide|----|Pele de Basilisco |----|Piel de basilisco
+Soft Basilisk Hide|----|Pele de Basilisco|----|Piel de basilisco
 
 Nidhogg Femur|----|Fêmur de Nidhogg|----|Fémur de nidhogg
 
@@ -29774,7 +29774,7 @@ Retral Feral Fang Scale|----|Escama Dorsal de Presa Feroz|----|Escama dorsal de 
 
 Sharp Azhdaha Fang|----|Presa Afiada de Azhdaha|----|Incisivo de azhdaha
 
-Large Weredragon Talon|----|Garra Enorme de Dracônico |----|Garra enorme de dragóntropo
+Large Weredragon Talon|----|Garra Enorme de Dracônico|----|Garra enorme de dragóntropo
 
 Scaly Great Azhdaha Hide|----|Pele Escamosa de Azhdaha Gigante|----|Piel escamosa de azhdaha mayor
 
@@ -29792,7 +29792,7 @@ Demon Mane|----|Cabeleira de Demônio|----|Cabellera de diablo
 
 Thick Demon Mane|----|Cabeleira Espessa de Demônio|----|Melena espesa de diablo
 
-Demon King Eye|----|Olho de Demônio Rei |----|Ojo de rey diablo
+Demon King Eye|----|Olho de Demônio Rei|----|Ojo de rey diablo
 
 Greater Demon Tail|----|Cauda de Demônio Gigante|----|Cola de diablo mayor
 
@@ -29810,9 +29810,9 @@ Sharp Manticore Leg|----|Pata Afiada de Mantícora|----|Pata afilada de mantíco
 
 Tough Manticore Husk|----|Exoesqueleto de Mantícora|----|Quitina de mantícora
 
-Poison Nussknacker Needle|----|Ferrão Venenoso de Rompebraços |----|Aguijón venenoso de rompebrazos
+Poison Nussknacker Needle|----|Ferrão Venenoso de Rompebraços|----|Aguijón venenoso de rompebrazos
 
-Poison Deathclaw Talon|----|Cauda Venenosa de Garramortal |----|Garra envenenada de garramortal
+Poison Deathclaw Talon|----|Cauda Venenosa de Garramortal|----|Garra envenenada de garramortal
 
 Crab Husk|----|Restos de Caranguejo|----|Restos de centollo
 
@@ -29852,7 +29852,7 @@ Spider Silk|----|Seda de Aranha|----|Seda de araña
 
 Grand Spider Eyes|----|Olhos de Aranha Gigante|----|Ojos de gran tarántula
 
-Arachnid Silk|----|Seda de Aracnídeo |----|Seda de arácnido
+Arachnid Silk|----|Seda de Aracnídeo|----|Seda de arácnido
 
 Large Giant Spider Talon|----|Garra Longa de Aranha Gigante|----|Gran garra de tarántula reina
 
@@ -29870,7 +29870,7 @@ Sharp Landworm Fang|----|Presa Afiada de Verme da Terra|----|Colmillo afilado de
 
 Landworm Fluid|----|Líquido Extraído de Verme da Terra|----|Extracto de multípodo
 
-Pest Toxin|----|Veneno de Praga |----|Veneno de pestis
+Pest Toxin|----|Veneno de Praga|----|Veneno de pestis
 
 Tough Killer Insect Husk|----|Exoesqueleto de Inseto Assassino|----|Exoesqueleto de parásito asesino
 
@@ -29942,9 +29942,9 @@ Butterfly Eyes|----|Olhos de Mariposa|----|Ojos de mariposa
 
 Butterfly Liver|----|Fígado de Mariposa|----|Hígado de mariposa
 
-Sharp Papillon Talon|----|Garra Afiada de Papillon |----|Garra afilada de papilio
+Sharp Papillon Talon|----|Garra Afiada de Papillon|----|Garra afilada de papilio
 
-Sharp Nymphalidae Quill|----|Pluma Afiada de Ninfálida |----|Pluma afilada de ninfálida
+Sharp Nymphalidae Quill|----|Pluma Afiada de Ninfálida|----|Pluma afilada de ninfálida
 
 Moth Eyes|----|Olhos de Moth|----|Ojos de polillaespín
 
@@ -29986,7 +29986,7 @@ Fly Fluid|----|Líquido Extraído de Mosca|----|Extracto de nematócero
 
 Fly Scale Hide|----|Pele Escamosa de Mosca|----|Piel escamosa de nematócero
 
-Poison Rosefly Needle|----|Ferrão Venenoso de Moscarosa |----|Aguijón venenoso de apoidea
+Poison Rosefly Needle|----|Ferrão Venenoso de Moscarosa|----|Aguijón venenoso de apoidea
 
 Shellfly Scalp|----|Cabeleira de Moscascudo|----|Cabellera de vespoidea
 
@@ -30006,7 +30006,7 @@ Vulture Underbelly Fur|----|Pelagem de Barriga de Abutre|----|Pelaje ventral de 
 
 Sharp Vulture Beak|----|Bico Afiado de Abutre|----|Pico afilado de buitre
 
-Skull Scavenger Cranium|----|Crânio de Vasculhacrânio |----|Cráneo de viscerófago
+Skull Scavenger Cranium|----|Crânio de Vasculhacrânio|----|Cráneo de viscerófago
 
 Retral Vulture Fur|----|Pelagem Dorsal de Abutre|----|Pelaje dorsal de buitre
 
@@ -30028,7 +30028,7 @@ Wyvern Eye|----|Olho de Wyvern|----|Ojo de wyvern
 
 Soft Aeronite Wing|----|Asa Macia de Aeronito|----|Ala tersa de aeronita
 
-Diatryma Skull|----|Crânio de Diatrima |----|Cráneo de diatrima
+Diatryma Skull|----|Crânio de Diatrima|----|Cráneo de diatrima
 
 Spiritlord Scale|----|Escama de Senhor Espiritual|----|Escama de archiespectro
 
@@ -30042,7 +30042,7 @@ Large Spiritlord Beak|----|Bico Largo de Senhor Espiritual|----|Gran pico de arc
 
 Sharp Spiritlord Tail|----|Cauda Afiada de Senhor Espiritual|----|Cola punzante de archiespectro
 
-Blackwing Wing|----|Asa de Asanegra |----|Ala de alanegra
+Blackwing Wing|----|Asa de Asanegra|----|Ala de alanegra
 
 Concealed Spiritlord Horn|----|Chifre Retrátil de Senhor Espiritual|----|Cuerno retráctil de archiespectro
 
@@ -30064,7 +30064,7 @@ Vile Plant Timber|----|Madeira de Plantavil|----|Madera de plantavil
 
 Anthrovore Bulb|----|Bulbo de Antropófago|----|Bulbo de antropófago
 
-Medicinal Mandragora Seedling|----|Muda Medicinal de Mandrágora |----|Brote medicinal de mandrágora
+Medicinal Mandragora Seedling|----|Muda Medicinal de Mandrágora|----|Brote medicinal de mandrágora
 
 Treant Fragment|----|Fragmento de Ent|----|Fragmento de ent
 
@@ -30096,7 +30096,7 @@ Oculus Tooth|----|Dente de Oculus|----|Diente de oculus
 
 Evil Eye Cornea|----|Córnea de Olho Maligno|----|Córnea de mal de ojo
 
-Manhunter Cornea|----|Córnea de Caçahomens |----|Córnea de cazahombres
+Manhunter Cornea|----|Córnea de Caçahomens|----|Córnea de cazahombres
 
 Death Cornea|----|Córnea de Ceifador de Almas|----|Córnea de segador de almas
 
@@ -30114,7 +30114,7 @@ Bristly Dragon Mane|----|Cabeleira Eriçada de Dragão|----|Cabellera áspera de
 
 Dragon Liver|----|Fígado de Dragão|----|Hígado de dragón
 
-Abelisk Talon|----|Garra de Obelisco |----|Garra de abelisco
+Abelisk Talon|----|Garra de Obelisco|----|Garra de abelisco
 
 Tough Brynhildr Husk|----|Muda de Pele Reforçada de Brunhild|----|Muda de piel reforzada de brunhild
 
@@ -30164,7 +30164,7 @@ Thin Phantom Wing|----|Asa Magra de Espectro|----|Ala esbelta de espectro
 
 Tough Phantom Husk|----|Ectoplasma Reforçado de Espectro|----|Ectoplasma reforzado de espectro
 
-Harpylia's Hide|----|Pele de Arpília |----|Piel de arpilia
+Harpylia's Hide|----|Pele de Arpília|----|Piel de arpilia
 
 Anima's Skin|----|Pele de Anima|----|Piel de ánima
 
@@ -31628,7 +31628,7 @@ DEF|----|DEF|----|DF
 
 MYS|----|MIS|----|PM
 
-M. DEF|----|DEF M. |----|DM
+M. DEF|----|DEF M.|----|DM
 
 EVA|----|EVA|----|EF
 
@@ -31678,11 +31678,11 @@ Screen and Display|----|Tela e Gráficos|----|Pantalla y gráficos
 
 Sound|----|Som|----|Sonido
 
-Camera|----|Câmera |----|Cámara
+Camera|----|Câmera|----|Cámara
 
 (REPETIDO)System|----|Sistema|----|Sistema
 
-Defaults|----|Valores Padrão |----|Valores predeterminados
+Defaults|----|Valores Padrão|----|Valores predeterminados
 
 Page|----|Página|----|Página
 
@@ -31754,27 +31754,27 @@ Disband union|----|Dissolver grupo|----|Disolver unidad
 
 Save|----|Salvar|----|Guardar
 
-Config|----|Configuração |----|Configuración
+Config|----|Configuração|----|Configuración
 
 Confirm units|----|Confirmar membros|----|Ver personajes
 
 Change equipment|----|Mudar equipamento|----|Cambiar equipo
 
-Check equipment|----|Ver equipamento |----|Ver equipo
+Check equipment|----|Ver equipamento|----|Ver equipo
 
 Check items|----|Ver items|----|Ver objetos
 
-Check arts|----|Ver artes |----|Ver artes
+Check arts|----|Ver artes|----|Ver artes
 
-(REPETIDO)Equipment|----|Equipamento |----|Equipo
+(REPETIDO)Equipment|----|Equipamento|----|Equipo
 
-Customize equipment|----|Melhorar equipamento |----|Mejorar equipo
+Customize equipment|----|Melhorar equipamento|----|Mejorar equipo
 
-Create equipment|----|Criar equipamento |----|Montar equipo
+Create equipment|----|Criar equipamento|----|Montar equipo
 
-Disassemble equipment|----|Desmontar equipamento |----|Desmontar equipo
+Disassemble equipment|----|Desmontar equipamento|----|Desmontar equipo
 
-Check reserves|----|Verificar reservas |----|Comprobar reservas
+Check reserves|----|Verificar reservas|----|Comprobar reservas
 
 Select formation|----|Selecionar formação|----|Elegir formación
 
@@ -31822,9 +31822,9 @@ All Guild Tasks|----|Todas Tarefas da Guilda|----|Todas las pruebas del gremio
 
 Current Guild Tasks|----|Tarefas da Guilda Aceitas|----|Pruebas del gremio aceptadas
 
-Completed Guild Tasks|----|Tarefas da Guilda Concluídas |----|Pruebas del gremio cumplidas
+Completed Guild Tasks|----|Tarefas da Guilda Concluídas|----|Pruebas del gremio cumplidas
 
-(REPETIDO)Default|----|Valor padrão |----|Por defecto
+(REPETIDO)Default|----|Valor padrão|----|Por defecto
 
 (REPETIDO)HP|----|PV|----|PV
 
@@ -31840,15 +31840,15 @@ Completed Guild Tasks|----|Tarefas da Guilda Concluídas |----|Pruebas del gremi
 
 (REPETIDO)Strength|----|Força|----|Fuerza
 
-(REPETIDO)Intellect|----|Inteligência |----|Inteligencia
+(REPETIDO)Intellect|----|Inteligência|----|Inteligencia
 
-(REPETIDO)Speed|----|Velocidade |----|Velocidad
+(REPETIDO)Speed|----|Velocidade|----|Velocidad
 
-(REPETIDO)Default|----|Valor padrão |----|Por defecto
+(REPETIDO)Default|----|Valor padrão|----|Por defecto
 
 (REPETIDO)Held|----|Unidades|----|Uds.
 
-Level|----|Nível |----|Nivel
+Level|----|Nível|----|Nivel
 
 (REPETIDO)Size|----|Tamanho|----|Tamaño
 
@@ -31870,11 +31870,11 @@ Mystic Evasion [M. EVA]|----|Evasão Mística [EVA M.]|----|Evasión mística (E
 
 (REPETIDO)INIT AP|----|PA inicial|----|PA iniciales
 
-(REPETIDO)Strength|----|Força |----|Fuerza
+(REPETIDO)Strength|----|Força|----|Fuerza
 
-(REPETIDO)Intellect|----|Inteligência |----|Inteligencia
+(REPETIDO)Intellect|----|Inteligência|----|Inteligencia
 
-(REPETIDO)Speed|----|Velocidade |----|Velocidad
+(REPETIDO)Speed|----|Velocidade|----|Velocidad
 
 Unequip|----|Tirar|----|Quitar
 
@@ -31894,11 +31894,11 @@ SFX Volume|----|Efeitos Sonoros|----|Efectos de sonido
 
 Voice Volume|----|Vozes|----|Voces
 
-Horizontal Control|----|Controle Horizontal |----|Control horizontal
+Horizontal Control|----|Controle Horizontal|----|Control horizontal
 
 Vertical Control|----|Controle Vertical|----|Control vertical
 
-(REPETIDO)Sensitivity|----|Velocidade da Câmera |----|Velocidad de la cámara
+(REPETIDO)Sensitivity|----|Velocidade da Câmera|----|Velocidad de la cámara
 
 First-Person Mode|----|Visão em Primeira Pessoa|----|Vista en primera persona
 
@@ -31924,7 +31924,7 @@ Controller Vibration|----|Vibração do Controle|----|Vibración del mando
 
 Display warning when taking apart captured monsters|----|Mostrar aviso ao converter monstros em componentes|----|Mostrar aviso al convertir monstruos en componentes
 
-(REPETIDO)Off|----|Desativada |----|Desactivados
+(REPETIDO)Off|----|Desativada|----|Desactivados
 
 (REPETIDO)On|----|Ativada|----|Activados
 
@@ -31946,13 +31946,13 @@ Enable|----|Ativado|----|Activar
 
 Manual|----|Manual|----|Manual
 
-Automatic|----|Automático |----|Automático
+Automatic|----|Automático|----|Automático
 
 Don't display message|----|Não mostrar mensagens|----|Omitir mensaje
 
 Display message|----|Mostrar mensagens|----|Mostrar mensaje
 
-Dark|----|Escuro |----|Oscuro
+Dark|----|Escuro|----|Oscuro
 
 Bright|----|Claro|----|Claro
 
@@ -31964,19 +31964,19 @@ Slow|----|Devagar|----|Menor
 
 Fast|----|Rápida|----|Mayor
 
-Reset to default settings|----|Restaurar configuração padrão |----|Restaurar valores predeterminados
+Reset to default settings|----|Restaurar configuração padrão|----|Restaurar valores predeterminados
 
-Selling Price|----|Preço de Venda |----|Precio de venta
+Selling Price|----|Preço de Venda|----|Precio de venta
 
 Purchase Price|----|Preço de Compra|----|Precio de compra
 
-Creation Cost|----|Custo de Fabricação |----|Coste de fabricación
+Creation Cost|----|Custo de Fabricação|----|Coste de fabricación
 
 Disassembly Cost|----|Custo para Desmontar|----|Coste para desmontar
 
-Recruit Cost|----|Custo de Recrutamento |----|Coste de alistamiento
+Recruit Cost|----|Custo de Recrutamento|----|Coste de alistamiento
 
-AP Bonus|----|Bônus de PA |----|Bonificación de PA
+AP Bonus|----|Bônus de PA|----|Bonificación de PA
 
 00\n Buy|----|00\n Comprar|----|00\n Comprar
 
@@ -31986,7 +31986,7 @@ Buy|----|Comprar|----|Comprar
 
 (REPETIDO)Sell|----|Vender|----|Vender
 
-Recruit Leader|----|Recrutar Líder |----|Añadir líder
+Recruit Leader|----|Recrutar Líder|----|Añadir líder
 
 Dismiss Leader|----|Despedir Líder|----|Despedir líder
 
@@ -32002,7 +32002,7 @@ Don't display warning|----|Não mostrar aviso|----|No mostrar aviso.
 
 00\n Check unit's status|----|00\n Ver status do personagem|----|00\n Ver personaje
 
-00\n Sort items|----|00\n Ordenar itens |----|00\n Ordenar objetos
+00\n Sort items|----|00\n Ordenar itens|----|00\n Ordenar objetos
 
 00\n Sort reserve leaders|----|00\n Ordenar líderes na reserva|----|00\n Ordenar líderes en reserva
 
@@ -32014,7 +32014,7 @@ Don't display warning|----|Não mostrar aviso|----|No mostrar aviso.
 
 Previous|----|Anterior|----|Anterior
 
-Next|----|Seguinte |----|Siguiente
+Next|----|Seguinte|----|Siguiente
 
 End|----|Fim|----|Fin
 
@@ -32288,9 +32288,9 @@ Arco Iris|----|Arco Íris|----|Arco Iris
 
 Luminescence|----|Luminescência|----|Luminiscencia
 
-The Collapse|----|Cataclismo |----|Cataclismo
+The Collapse|----|Cataclismo|----|Cataclismo
 
-(REPETIDO)Talisman|----|Talismã |----|Talismán
+(REPETIDO)Talisman|----|Talismã|----|Talismán
 
 (REPETIDO)Tablet|----|Tabuleta|----|Tablilla
 
@@ -32334,13 +32334,13 @@ Monster|----|Monstro|----|Monstruo
 
 Congress|----|Conselho|----|Consejo
 
-The First Committee|----|O Primeiro Comitê |----|Primer Comité
+The First Committee|----|O Primeiro Comitê|----|Primer Comité
 
 The Second Committee|----|O Segundo Comitê|----|Segundo Comité
 
 (REPETIDO)The Third Committee|----|O Terceiro Comitê|----|Tercer Comité
 
-(REPETIDO)The Silver Falcons|----|Os Falcões Prateados |----|Halcones Argénteos
+(REPETIDO)The Silver Falcons|----|Os Falcões Prateados|----|Halcones Argénteos
 
 (REPETIDO)The Ladies of Bloody Alice|----|As Damas Sangrentas|----|Damas Sangrientas
 
@@ -32358,9 +32358,9 @@ Veyriel|----|Veyriel|----|Veyriel
 
 (REPETIDO)AP|----|PA|----|PA
 
-(REPETIDO)Strength|----|Força |----|Fuerza
+(REPETIDO)Strength|----|Força|----|Fuerza
 
-(REPETIDO)Intellect|----|Inteligência |----|Inteligencia
+(REPETIDO)Intellect|----|Inteligência|----|Inteligencia
 
 (REPETIDO)Speed|----|Velocidade|----|Velocidad
 
@@ -32384,7 +32384,7 @@ The Reviving Legend|----|A lenda revivida|----|No pasarán
 
 The Cosmos Maiden|----|A Donzela Cósmica|----|La Ninfa Cósmica
 
-Kosmosfest|----|A Festa Cósmica |----|La Gala Cósmica
+Kosmosfest|----|A Festa Cósmica|----|La Gala Cósmica
 
 Wisdom's Echo|----|Ecos de sabedoria|----|Ecos de sabiduría
 
@@ -32412,7 +32412,7 @@ A Voice from the Past|----|Vozes do passado|----|Voces del pasado
 
 Blooming Flower, Singing Bird|----|Herança de família|----|Herencia familiar
 
-The Losing Game|----|Uma aposta arriscada |----|Una apuesta arriesgada
+The Losing Game|----|Uma aposta arriscada|----|Una apuesta arriesgada
 
 The Wanderer|----|O andarilho|----|Las apariencias engañan
 
@@ -32422,7 +32422,7 @@ Bravery and Loyalty|----|Valor e lealdade|----|Valor y lealtad
 
 The Successor|----|O sucessor|----|Quien siembra vientos...
 
-The Standoff|----|O torneio dos heróis |----|El Torneo de los héroes
+The Standoff|----|O torneio dos heróis|----|El Torneo de los héroes
 
 The Rainbow Bond|----|Unidos pelo Arco Iris|----|Unidos por el Arco Iris
 
@@ -32430,13 +32430,13 @@ The Fated One|----|O duelo|----|El duelo
 
 The Distant Promise|----|Uma antiga promessa|----|Una antigua promesa
 
-Hearts|----|Sede de conhecimento |----|Sed de conocimiento
+Hearts|----|Sede de conhecimento|----|Sed de conocimiento
 
 The Tablet of Marshall|----|A tabuleta de Marshall|----|La tablilla
 
 UFO!?|----|Uma ave misteriosa|----|Un ave misteriosa
 
-At Hatred's End|----|Os limites do ódio |----|Los límites del rencor
+At Hatred's End|----|Os limites do ódio|----|Los límites del rencor
 
 The Ancient War|----|A guerra ancestral|----|Una guerra ancestral
 
@@ -32450,7 +32450,7 @@ The War of a Thousand Years|----|A guerra dos mil anos|----|La guerra de los mil
 
 (REPETIDO)The Hero|----|O herói da lenda|----|Héroe de leyenda
 
-The Silent Soul|----|O deserto das almas perdidas |----|El desierto de las almas perdidas
+The Silent Soul|----|O deserto das almas perdidas|----|El desierto de las almas perdidas
 
 The Assistant|----|O assistente|----|El discípulo
 
@@ -32464,7 +32464,7 @@ The Trade Route|----|A rota comercial|----|Pioneros del desierto
 
 (REPETIDO)Baulson|----|Ao resgate|----|Al rescate
 
-A Single Soul|----|Uma alma solitária |----|Un alma en pena
+A Single Soul|----|Uma alma solitária|----|Un alma en pena
 
 (REPETIDO)Darien|----|Redenção|----|Redención
 
@@ -34548,7 +34548,7 @@ Archfiend|----|Arquidemônios|----|Archidemonios
 
 (REPETIDO)Homunculus|----|Homúnculo|----|Homúnculo
 
-(REPETIDO)Raptor|----|Carniceiro |----|Carroñero
+(REPETIDO)Raptor|----|Carniceiro|----|Carroñero
 
 (REPETIDO)Fenris|----|Fenris|----|Fenris
 
@@ -35312,21 +35312,21 @@ Unknown|----|Desconhecido|----|Desconocido
 
 (REPETIDO)Fenris|----|Fenris|----|Fenris
 
-(REPETIDO)Chimera|----|Quimera |----|Quimera
+(REPETIDO)Chimera|----|Quimera|----|Quimera
 
 (REPETIDO)Hydra|----|Hidra|----|Hidra
 
-(REPETIDO)Imp|----|Diabrete |----|Diablillo
+(REPETIDO)Imp|----|Diabrete|----|Diablillo
 
 (REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
 (REPETIDO)Azhdaha|----|Azhdaha|----|Azhdaha
 
-(REPETIDO)Demon|----|Demônio |----|Diablo
+(REPETIDO)Demon|----|Demônio|----|Diablo
 
-(REPETIDO)Manticore|----|Mantícora |----|Mantícora
+(REPETIDO)Manticore|----|Mantícora|----|Mantícora
 
-(REPETIDO)Crab|----|Caranguejo |----|Centollo
+(REPETIDO)Crab|----|Caranguejo|----|Centollo
 
 (REPETIDO)Grand Spider|----|Aranha Gigante|----|Gran tarántula
 

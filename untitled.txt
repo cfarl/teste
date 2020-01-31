@@ -27,7 +27,8 @@ Mermaid's Barrel ->  Pérola da Sereia (em espanhol abalorio de nereida)
 Siren's Square -> Quadrado da Sereia  (em espanhol princesa de sirena)
 Knocker's Ceylon -> Aldrava de Ceylon (em espanhol triángulo de ladrón)
 vile lizard -> um lugar apareceu só "lagarto", landworm só verme
-Archfighter -> herói
+Archfighter -> Grande Guerreiro
+Archshaman -> Grande Xamã
 Crazer -> chalado em Espanol. Manter maluco???
 Demon King -> De demônio rei para rei demônio???
 De Yvalock para Ivalock???
@@ -37,6 +38,10 @@ customization shop -> oficina
 Devoramagias -> Devorafeitiços
 link (hordas) -> união???
 
+Giant Spider|----|Aranha Gigante|----|Tarántula reina
+Grand Spider|----|Aranha Gigante|----|Gran tarántula
+Leap Frog|----|Sapo Saltitante|----|Batracio
+
 concentrar meu treinamento -> me especializar
 
 status -> status
@@ -44,10 +49,11 @@ recipes - fórmulas
 item arts - artes de itens (trocar por Artes de Objetos???)
 Invocations - invocações
 Evocations - evocações
-Hexes - alterações
+Hexes - alterações ou maldições????
 Remedies - remédios
 Psionics - sortilégios
 Wards - salvaguardas
+Arcana -> Magia Arcana
 Lotions - loções (melhor unguentos???)
 Deadlock - embate (melhor duelo???)
 blades - lâminas
@@ -57,10 +63,47 @@ Spears and staves -  Lanças e bastões
 polearms - armas de haste
 bludgeoning - danos por contusão
 piercing damage - danos por estocada
+Pierce (Perfuração)->Estocada
 parry rate - índice de defesa
 Acid Burn - Ácido?¿??
 Mr. Diggs - Sr. Garras
 Aura de Magia -.> Aura de Feitiço
+
+Dual Wield (Uma ou Duas Mãos) -> Estilo Dual?
+
+Poison Gas -> Gás Tóxico
+Smoke Canister -> Bomba de Fumaça
+Hartshorn -> Chifre de Cervo
+Poison Bomb -> Bomba Tóxica
+Evil Bomb -> Bomba Maligna
+Victory Cry -> Canto de Vitória
+Phantom Pain -> Calvário Espectral
+Total Domination -> Submissão Total
+Hand of God -> Mão Celestial
+Raiders' Fork (Tridente do Bandido) -> Forca do Bandido
+Hangman's Noose ->Laço do Carrasco????
+Hill and Vale -> Vale e Colina
+Rattail (Cauda de Rato) -> Rabo de Rato
+Foxtail| (Cauda de Raposa) -> Rabo de Raposa
+Hawk-eye (Olho de Águia) -> Olho de Falcão???
+Bullseye (Olho de Búfalo) -> Olho de Águia????
+Unburdens -> Peso Ligeiro????
+Groggy (En las últimas) -> Grogue????
+Incapacitated -> Fora de Combate
+Silenced (Silêncio) -> Silenciado
+
+pessoas:
+Priam -> Príamo
+Old-Fashioned  ->  à Moda Antiga
+Magus -> Mago
+Ynfry -> Winfrey
+Priamoth -> Pérgamo
+Carmein| -> Carmain
+Yugo -> Iago
+Surveyor -> Cartógrafo
+
+Armory -> Loja de Armas
+Workshop -> Oficina
 
 
 Na parte do PT, verificar tamanho das frases com ptalk_embed
@@ -68,9 +111,12 @@ Na parte do PT, verificar tamanho das frases com ptalk_embed
 -----  Conferir tamanho das frases na guilda task
 -----  Conferir tamanho das frases na shoopkeper
 ------ Conferir número de \n no Battle Controls e location tips
+------ Conferir tamanho das frases no Battle Commands dummy (18393 até 18605)
+----- Conferir tamanho das frases na parte de [Ataque Físico]
+
  - Na substituição de * espaço (linha * \nBurned\n units have 0 defense) ele sempre pega o primeiro * espaço, e coloca O estado três vezes na primeira frase
 
-parei na 13.661 ate 645
+parei na 24.000
 
 ----_---------_----------------------_-----_----------
 Curso eletrônica
