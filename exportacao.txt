@@ -1,14 +1,14 @@
 ﻿(REPETIDO)-- ----------------------------------------------------------------------------------|----|-- ----------------------------------------------------------------------------------|----|-- ----------------------------------------------------------------------------------
 
--- Textos extraidos do arquivo PLAN_BTL_DT |----|-- Textos extraidos do arquivo PLAN_BTL_DT|----|-- Textos extraidos do arquivo PLAN_BTL_DT 
+-- Textos extraidos do arquivo PLAN_BTL_DT|----|-- Textos extraidos do arquivo PLAN_BTL_DT|----|-- Textos extraidos do arquivo PLAN_BTL_DT 
 
--- Linhas iniciando com -- e linhas em branco sao ignoradas |----|-- Linhas iniciando com -- e linhas em branco sao ignoradas|----|-- Linhas iniciando com -- e linhas em branco sao ignoradas 
+-- Linhas iniciando com -- e linhas em branco sao ignoradas|----|-- Linhas iniciando com -- e linhas em branco sao ignoradas|----|-- Linhas iniciando com -- e linhas em branco sao ignoradas 
 
--- Formato das linhas: posicao do texto na lista de textos, texto e traducao |----|-- Formato das linhas: posicao do texto na lista de textos, texto e traducao|----|-- Formato das linhas: posicao do texto na lista de textos, texto e traducao 
+-- Formato das linhas: posicao do texto na lista de textos, texto e traducao|----|-- Formato das linhas: posicao do texto na lista de textos, texto e traducao|----|-- Formato das linhas: posicao do texto na lista de textos, texto e traducao 
 
--- O campos de cada linha sao separados por <=>) |----|-- O campos de cada linha sao separados por <=>)|----|-- O campos de cada linha sao separados por <=>) 
+-- O campos de cada linha sao separados por <=>)|----|-- O campos de cada linha sao separados por <=>)|----|-- O campos de cada linha sao separados por <=>) 
 
--- IMPORTANTE: edite esse arquivo com o Notepad++, pois ele esta no formato UTF-8 |----|-- IMPORTANTE: edite esse arquivo com o Notepad++, pois ele esta no formato UTF-8|----|-- IMPORTANTE: edite esse arquivo com o Notepad++, pois ele esta no formato UTF-8 
+-- IMPORTANTE: edite esse arquivo com o Notepad++, pois ele esta no formato UTF-8|----|-- IMPORTANTE: edite esse arquivo com o Notepad++, pois ele esta no formato UTF-8|----|-- IMPORTANTE: edite esse arquivo com o Notepad++, pois ele esta no formato UTF-8 
 
 (REPETIDO)-- ----------------------------------------------------------------------------------|----|-- ----------------------------------------------------------------------------------|----|-- ----------------------------------------------------------------------------------
 
@@ -280,7 +280,7 @@ Select a leader to remove from the party.|----|Selecione o líder que deseja rem
 
 This leader cannot be removed from the party.|----|Esse líder não pode ser removido do grupo.|----|No puedes despedir a este líder. Sustituye a uno de los miembros actuales del grupo por este personaje.
 
-The units will become reserve members.|----|Os membros do grupo irão para a reserva. |----|Los personajes pasarán a la reserva.
+The units will become reserve members.|----|Os membros do grupo irão para a reserva.|----|Los personajes pasarán a la reserva.
 
 This Athlumian Soldier cannot be removed from the party at this time.|----|Você não pode remover esse soldado do grupo, nesse momento.|----|No puedes despedir a este soldado en este momento.
 
@@ -4940,17 +4940,17 @@ Obtain 3 World Tree Timbers.|----|Consiga 3 pedaços de madeira de árvore do mu
 
 Obtain 2 Pangu's Bones.|----|Consiga 2 ossos de Pangu.|----|Consigue dos huesos de Pangu.
 
-Obtain a Warrior's Broadsword.|----|Consiga uma espada larga do guerreiro.|----|Consigue una baselarda militar.
+Obtain a Warrior's Broadsword.|----|Consiga uma espada larga militar.|----|Consigue una baselarda militar.
 
 Obtain a Shamshir.|----|Consiga um Shamshir.|----|Consigue un Shamshir.
 
-Obtain a Commander's Tabar-Zin.|----|Consiga um Tabar-Zin do Comandante.|----|Consigue un segur señorial.
+Obtain a Commander's Tabar-Zin.|----|Consiga um Tabar-Zin senhorial.|----|Consigue un segur señorial.
 
 Obtain a Ramskull.|----|Consiga uma cabeça de carneiro.|----|Consigue una Cabeza de carnero.
 
 Obtain a Daimyo Katana.|----|Consiga uma katana da nobreza.|----|Consigue una katana de la nobleza.
 
-Obtain a Champion's Lance.|----|Consiga uma lança do campeão.|----|Consigue una lanza palatina.
+Obtain a Champion's Lance.|----|Consiga uma lança palatina.|----|Consigue una lanza palatina.
 
 Obtain a Lance of Longinus.|----|Consiga uma lança de Longinus.|----|Consigue una Lanza de Longinus.
 
@@ -5698,9 +5698,9 @@ Certificate of achievement: Rank 2\r\n  Title:\r\n  Ascot Adjunct|----|Conquista
 
 Certificate of achievement: Rank 3\r\n  Title:\r\n  Ascot Instructor|----|Conquista: Nível 3\r\n Título:\r\n Irmão Instrutor|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano instructor (nivel 3).
 
-Certificate of achievement: Rank 4\r\n  Title:\r\n  Ascot Professor|----|Conquista: Nível 4\r\n Título:\r\n Irmão Professor |----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano profesor (nivel 4).
+Certificate of achievement: Rank 4\r\n  Title:\r\n  Ascot Professor|----|Conquista: Nível 4\r\n Título:\r\n Irmão Professor|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano profesor (nivel 4).
 
-Certificate of achievement: Rank 5\r\n  Title:\r\n  Ascot Emeritus|----|Conquista: Nível 5\r\n Título:\r\n Irmão Emérito |----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano emérito (nivel 5).
+Certificate of achievement: Rank 5\r\n  Title:\r\n  Ascot Emeritus|----|Conquista: Nível 5\r\n Título:\r\n Irmão Emérito|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Hermano emérito (nivel 5).
 
 Certificate of achievement: Rank 1\r\n  Title:\r\n  Nibelung Officer|----|Conquista: Nível 1\r\n Título:\r\n Recruta Nibelungo|----|Un codiciado documento que certifica\r\nque el portador ostenta el rango\r\nde Recluta nibelungo (nivel 1).
 
@@ -10048,7 +10048,7 @@ What path should I follow from now on? I don't\r\neven remember the one I took t
 
 (REPETIDO)All-rounder, natch.|----|Estude um pouco de tudo.|----|¡Prueba un poco de todo!
 
-Ahh... With that, no need to worry.|----|Ahh... Fazendo isso, não terei com que me preocupar. |----|¡Claro! Así no tendré de qué preocuparme...
+Ahh... With that, no need to worry.|----|Ahh... Fazendo isso, não terei com que me preocupar.|----|¡Claro! Así no tendré de qué preocuparme...
 
 (REPETIDO)Combat arts, for sure!|----|Artes de combate, com certeza!|----|Ve a por las artes de combate.
 
@@ -12560,7 +12560,7 @@ While on the World Map or City Map, you can open the\r\nParty Menu by pressing \
 
 (REPETIDO)Battle Commands|----|Comandos de Batalha|----|Órdenes de batalla
 
-Pressing \n6  \n Left and Right selects targets, while\r\npressing \n8  \n Up and Down selects battle commands.\r\nPressing \n00\n displays the status of the units in\r\nthe currently selected union. You can \ncheck units'\r\nactions and any status ailments\n.|----|Pressione \n6  \n Esquerda e Direita para trocar de alvo,\r\ne \n8  \n Cima e Baixo para selecionar comandos de batalha.\r\nPressionar \n00\n mostra o status dos membros\r\ndo grupo selecionado. Você pode \nverificar as ações\r\ne as alterações de status dos personagens\n. |----|Pulsa \n6  \n para cambiar de objetivo o \n8  \n para elegir\r\nentre las distintas órdenes de combate disponibles.\r\nPulsa \n00\n para comprobar el estado de los personajes\r\nque forman parte de la unidad actual. De este modo,\r\npodrás ver qué \nórdenes\n tienen asignadas y averiguar\r\nsi están bajo los efectos de alguna \nalteración de estado\n.
+Pressing \n6  \n Left and Right selects targets, while\r\npressing \n8  \n Up and Down selects battle commands.\r\nPressing \n00\n displays the status of the units in\r\nthe currently selected union. You can \ncheck units'\r\nactions and any status ailments\n.|----|Pressione \n6  \n Esquerda e Direita para trocar de alvo,\r\ne \n8  \n Cima e Baixo para selecionar comandos de batalha.\r\nPressionar \n00\n mostra o status dos membros\r\ndo grupo selecionado. Você pode \nverificar as ações\r\ne as alterações de status dos personagens\n.|----|Pulsa \n6  \n para cambiar de objetivo o \n8  \n para elegir\r\nentre las distintas órdenes de combate disponibles.\r\nPulsa \n00\n para comprobar el estado de los personajes\r\nque forman parte de la unidad actual. De este modo,\r\npodrás ver qué \nórdenes\n tienen asignadas y averiguar\r\nsi están bajo los efectos de alguna \nalteración de estado\n.
 
 Deadlock|----|Embate|----|Duelo
 
@@ -12578,7 +12578,7 @@ Once certain monsters have been sold to shops,\r\nthose shops may begin selling 
 
 This is how units in the party can request certain loot.\r\nUnits try to collect items to strengthen their equipment.|----|Algumas vezes os personagens do seu grupo requisitam certos\r\nitens da pilhagem, para melhorar seu equipamento.|----|En ocasiones, es posible que los personajes de tu grupo\r\nte pidan que les ayudes a conseguir ciertos artículos\r\npara mejorar su equipo.
 
-A unit's request for an item can be removed\r\nfrom the list by selecting them.|----|Para eliminar da lista o pedido de um personagem,\r\nbasta selecioná-lo. |----|Para eliminar de la lista la solicitud de un personaje,\r\nbasta con seleccionarlo.
+A unit's request for an item can be removed\r\nfrom the list by selecting them.|----|Para eliminar da lista o pedido de um personagem,\r\nbasta selecioná-lo.|----|Para eliminar de la lista la solicitud de un personaje,\r\nbasta con seleccionarlo.
 
 Battle Controls|----|Controles de Batalha|----|Controles
 
@@ -12950,7 +12950,7 @@ Accepted quest: \nNagapur's Witch|----|Missão Aceita: \nA feiticeira de Nagapur
 
 Accepted quest: \nGhor's Witch|----|Missão Aceita: \nA feiticeira de Ghor|----|Misión aceptada: \nLa arcamaga de Ghor
 
-Accepted quest: \nUndelwalt's Witch|----|Missão Aceita: \nA feiticeira de Undelwalt |----|Misión aceptada: \nLa arcamaga de Undelwalt
+Accepted quest: \nUndelwalt's Witch|----|Missão Aceita: \nA feiticeira de Undelwalt|----|Misión aceptada: \nLa arcamaga de Undelwalt
 
 Accepted quest: \nBalterossa's Witch|----|Missão Aceita: \nA feiticeira de Balterossa|----|Misión aceptada: \nLa arcamaga de Balterossa
 
@@ -13086,7 +13086,7 @@ Completed quest: \nNagapur's Witch|----|Missão Concluída: \nA feiticeira de Na
 
 Completed quest: \nGhor's Witch|----|Missão Concluída: \nA feiticeira de Ghor|----|Misión finalizada: \nLa arcamaga de Ghor
 
-Completed quest: \nUndelwalt's Witch|----|Missão Concluída: \nA feiticeira de Undelwalt |----|Misión finalizada: \nLa arcamaga de Undelwalt
+Completed quest: \nUndelwalt's Witch|----|Missão Concluída: \nA feiticeira de Undelwalt|----|Misión finalizada: \nLa arcamaga de Undelwalt
 
 Completed quest: \nBalterossa's Witch|----|Missão Concluída: \nA feiticeira de Balterossa|----|Misión finalizada: \nLa arcamaga de Balterossa
 
@@ -13452,7 +13452,7 @@ LOCATION TIPS DUMMY|----|LOCATION TIPS DUMMY|----|PISTAS DE LUGARES
 
 Action Point\n Strategies\r\nEvery time a unit performs arts in battle, AP is consumed.\r\nHowever, \nAP is recovered each turn\n, so don't feel like\r\nyou have to go out of your way to conserve it.\r\nItem arts consume materials, and thus do not consume AP.|----|Pontos de Ação - PA\n Estratégias\r\nOs PA de um personagem diminuem quando ele usa suas artes.\r\nNo entanto,\neles são repostos ao final de cada turno\n, por isso\r\nvocê não precisa ficar preocupado em conservá-los.\r\nJá as artes com itens consomem componentes,\r\nmas não consomem PA.|----|Los PA de un personaje disminuyen cuando usa sus artes\r\ndurante un combate, pero se reponen al final del turno,\r\nasí que no hace falta que te obsesiones por conservarlos.\r\nPor su parte, las artes de objetos consumen componentes,\r\npero no requieren PA.
 
-Each character in battle is called a \nunit\n, and can be\r\ngrouped into \nunions\n through the Union Board on the\r\nmain menu. \nUnions share aggregate HP and AP, and\nact as a single entity in battle\n. A union's makeup can\r\nhave a dramatic impact on battles. Try different combos!|----|Durante uma batalha atuam um ou mais \npersonagens\n, e eles\r\nsão agrupados em \nunidades\n, por meio da opção Unidades do\r\n menu principal. \nUnidades compartilham PV e PA, e\natuam como uma só entidade na batalha\n. A formação de uma unidade pode\r\nfazer uma grande diferença nas batalhas. Experimente diferentes combinações! |----|En combate, los \npersonajes\n forman grupos llamados \nunidades\nque comparten PA y PV y \nluchan como una sola entidad\n.\r\nUsa el menú Unidades para crear o modificar a tu gusto\r\nlas unidades de tu ejército.\n¡Tus decisiones determinarán el curso del combate,\r\nasí que no dudes en probar distintas combinaciones!
+Each character in battle is called a \nunit\n, and can be\r\ngrouped into \nunions\n through the Union Board on the\r\nmain menu. \nUnions share aggregate HP and AP, and\nact as a single entity in battle\n. A union's makeup can\r\nhave a dramatic impact on battles. Try different combos!|----|Durante uma batalha atuam um ou mais \npersonagens\n, e eles\r\nsão agrupados em \nunidades\n, por meio da opção Unidades do\r\n menu principal. \nUnidades compartilham PV e PA, e\natuam como uma só entidade na batalha\n. A formação de uma unidade pode\r\nfazer uma grande diferença nas batalhas. Experimente diferentes combinações!|----|En combate, los \npersonajes\n forman grupos llamados \nunidades\nque comparten PA y PV y \nluchan como una sola entidad\n.\r\nUsa el menú Unidades para crear o modificar a tu gusto\r\nlas unidades de tu ejército.\n¡Tus decisiones determinarán el curso del combate,\r\nasí que no dudes en probar distintas combinaciones!
 
 Units can be grouped into unions through the\nUnion Board\n on the main menu. By arranging unions,\r\nyou can \ncover the units' specific weaknesses and take\nadvantage of their strengths\n. There are countless\r\ncombinations of units\Ttry to find the most effective ones.|----|Personagens podem ser agrupados em unidades por meio da opção\nUnidades\n do menu principal.\r\nAo formar suas unidades você \npoderá balancear suas fraquezas e tirar\nvantagem dos seus pontos fortes\n. Existem inúmeras\r\ncombinações de personagens, tente encontrar as mais efetivas!|----|Para agrupar a tus personajes en unidades,\r\nvisita la sección \nUnidades\n del menú principal.\r\nAl agrupar a tus personajes en unidades\r\npodrás \ncontrarrestar\n sus puntos débiles\r\ny \nreforzar\n sus puntos fuertes.\n¡Intenta buscar las mejores combinaciones!
 
@@ -13870,7 +13870,7 @@ Peerless Cutting Lunge IV|----|Estocada Inigualável IV|----|Turbodardo hercúle
 
 Peerless Cutting Lunge V|----|Estocada Inigualável V|----|Turbodardo hercúleo (V)
 
-Blue Streak|----|Centelha Azul |----|Centellazul
+Blue Streak|----|Centelha Azul|----|Centellazul
 
 Blue Streak II|----|Centelha Azul II|----|Centellazul (II)
 
@@ -14670,7 +14670,7 @@ Peerless Victory Sweep IV|----|Marca da Vitória Inigualável IV|----|Victoria h
 
 Peerless Victory Sweep V|----|Marca da Vitória Inigualável V|----|Victoria hercúlea (V)
 
-Moonset|----|Crepúsculo |----|Ocaso lunar
+Moonset|----|Crepúsculo|----|Ocaso lunar
 
 Moonset II|----|Crepúsculo II|----|Ocaso lunar (II)
 
@@ -16690,7 +16690,7 @@ Snare Shot IV|----|Tiro de Impacto IV|----|Enredadera (IV)
 
 Snare Shot V|----|Tiro de Impacto V|----|Enredadera (V)
 
-Palsy Skein|----|Teia Paralisante |----|Madeja paralizante
+Palsy Skein|----|Teia Paralisante|----|Madeja paralizante
 
 Palsy Skein II|----|Teia Paralisante II|----|Madeja paralizante (II)
 
@@ -17622,7 +17622,7 @@ Skreigh II|----|Ganido II|----|Gañido (II)
 
 Skreigh III|----|Ganido III|----|Gañido (III)
 
-Shriek|----|Chiado |----|Chillido
+Shriek|----|Chiado|----|Chillido
 
 Shriek II|----|Chiado II|----|Chillido (II)
 
@@ -18336,11 +18336,11 @@ Fulgurate II|----|Fulgor II|----|Fulguración (II)
 
 Fulgurate III|----|Fulgor III|----|Fulguración (III)
 
-Tempest Insignia|----|Insígnia da Tormenta|----|Emblema tormentoso
+Tempest Insignia|----|Insígnia Tormentosa|----|Emblema tormentoso
 
-Tempest Insignia II|----|Insígnia da Tormenta II|----|Emblema tormentoso (II)
+Tempest Insignia II|----|Insígnia Tormentosa II|----|Emblema tormentoso (II)
 
-Tempest Insignia III|----|Insígnia da Tormenta III|----|Emblema tormentoso (III)
+Tempest Insignia III|----|Insígnia Tormentosa III|----|Emblema tormentoso (III)
 
 Run Amok|----|Devastação|----|Devastación
 
@@ -22480,7 +22480,7 @@ Kosmosfest Staff|----|Organizador da Festa Cósmica|----|Organizador de la Gala
 
 Cosmos Maiden Fan|----|Admirador da Donzela Cósmica|----|Admirador de la Ninfa
 
-Peace-Loving Woman|----|Mulher Pacífica |----|Mujer pacífica
+Peace-Loving Woman|----|Mulher Pacífica|----|Mujer pacífica
 
 Eagerly Waiting Qsiti|----|Qsiti Iludido|----|Qsiti ilusionado
 
@@ -22500,7 +22500,7 @@ Mysterious Woman|----|Mulher Misteriosa|----|Mujer misteriosa
 
 Weepy Yama|----|Yama Choroso|----|Yama compungido
 
-The White Qsiti's Former Aide|----|Ex-Ajudante do Qsiti Branco |----|Antiguo lugarteniente
+The White Qsiti's Former Aide|----|Ex-Ajudante do Qsiti Branco|----|Antiguo lugarteniente
 
 Grandma's Girl|----|Garota da Vovó|----|Chica amable
 
@@ -22552,7 +22552,7 @@ Archaeologist|----|Arqueólogo|----|Arqueólogo
 
 Scaredy-Cat Magus|----|Maga Covarde|----|Mística cobardica
 
-Scientist|----|Cientista |----|Científico
+Scientist|----|Cientista|----|Científico
 
 Pub Owner|----|Dono da Taverna|----|Propietario del local
 
@@ -22588,7 +22588,7 @@ Puffy-eyed Yama|----|Yama Choroso|----|Yama lloroso
 
 Nimble Girl|----|Garota Habilidosa|----|Chica hábil
 
-Chivalrous Yama|----|Cavalheiro Yama |----|Yama caballeroso
+Chivalrous Yama|----|Cavalheiro Yama|----|Yama caballeroso
 
 Fashionable Woman|----|Mulher Elegante|----|Mujer a la moda
 
@@ -22636,7 +22636,7 @@ Qsiti Chaperon|----|Acompanhante Qsiti|----|Acompañante qsiti
 
 Bartender's Daughter|----|Filha do Taverneiro|----|Hija del tabernero
 
-Noob Qsiti|----|Novato Qsiti |----|Qsiti novato
+Noob Qsiti|----|Novato Qsiti|----|Qsiti novato
 
 Passionate Miner|----|Mineiro Apaixonado|----|Minero apasionado
 
@@ -22644,7 +22644,7 @@ Lively Old Man|----|Velho Alegre|----|Viejecito alegre
 
 Loitering Yama|----|Yama Ocioso|----|Yama ocioso
 
-(REPETIDO)Qsiti Merchant|----|Mercador Qsiti |----|Mercader qsiti
+(REPETIDO)Qsiti Merchant|----|Mercador Qsiti|----|Mercader qsiti
 
 Sky-Gazing Woman|----|Mulher Contemplando o Céu|----|Mujer que mira al cielo
 
@@ -22676,7 +22676,7 @@ Monster Slayer|----|Matador de Monstros|----|Matamonstruos
 
 Glaring Mercenary|----|Mercenário Feroz|----|Mercenario feroz
 
-Worn Armor Wearer|----|Cavaleiro com Armadura Desgatada |----|Caballero apaleado
+Worn Armor Wearer|----|Cavaleiro com Armadura Desgatada|----|Caballero apaleado
 
 Friendly Man|----|Homem Amistoso|----|Hombre amistoso
 
@@ -22740,7 +22740,7 @@ Preaching Man|----|Homem de Fé|----|Hombre fervoroso
 
 Devoted Woman|----|Mulher Devota|----|Mujer devota
 
-Qsiti Tourist|----|Turista Qsiti |----|Viajero qsiti
+Qsiti Tourist|----|Turista Qsiti|----|Viajero qsiti
 
 Qsiti Monk Warrior|----|Monge Guerreiro Qsiti|----|Monje guerrero qsiti
 
@@ -22758,7 +22758,7 @@ Ark Tour Guide|----|Guia do Arca|----|Guía del Arca
 
 Elderly Tourist|----|Turista Idoso|----|Anciano turista
 
-Little Girl Tourist|----|Jovem Turista |----|Joven turista
+Little Girl Tourist|----|Jovem Turista|----|Joven turista
 
 Drunk Qsiti|----|Qsiti Bêbado|----|Qsiti bebido
 
@@ -22824,13 +22824,13 @@ Undelwalt Guard|----|Guarda de Undelwalt|----|Guarda de Undelwalt
 
 Indignant Aristocrat|----|Aristocrata Indignado|----|Aristócrata indignado
 
-Qsiti Adventurer|----|Aventureiro Qsiti |----|Qsiti aventurero
+Qsiti Adventurer|----|Aventureiro Qsiti|----|Qsiti aventurero
 
 Sad-Eyed Yama|----|Yama de Olhar Triste|----|Yama de mirada triste
 
 Aide|----|Ajudante|----|Ayudante
 
-Drunk Magus|----|Maga bêbada |----|Mística ebria
+Drunk Magus|----|Maga bêbada|----|Mística ebria
 
 Curious Qsiti|----|Qsiti Curioso|----|Qsiti curioso
 
@@ -22842,13 +22842,13 @@ Tao Tie-Admiring Child|----|Criança Admirando o Tao Tie|----|Chaval emocionado
 
 Teary Child|----|Garoto Chorão|----|Niño llorón
 
-Charlotte's Admirer|----|Admirador da Charlotte |----|Admirador de Charlotte
+Charlotte's Admirer|----|Admirador da Charlotte|----|Admirador de Charlotte
 
-(REPETIDO)Qsiti Merchant|----|Mercador Qsiti |----|Mercader qsiti
+(REPETIDO)Qsiti Merchant|----|Mercador Qsiti|----|Mercader qsiti
 
 Brawny Silver Falcon|----|Falcão Prateado Musculoso|----|Guerrero musculoso
 
-Cowboy Qsiti|----|Cowboy Qsiti |----|Ganadero qsiti
+Cowboy Qsiti|----|Cowboy Qsiti|----|Ganadero qsiti
 
 Charlotte-Struck Girl|----|Seguidora de Charlotte|----|Seguidora de Charlotte
 
@@ -22856,11 +22856,11 @@ Arrogant Silver Falcon|----|Falcão Prateado Arrogante|----|Guerrera arrogante
 
 Wise Old Man|----|Velho Sábio|----|Anciano sabio
 
-Yama Adventurer|----|Aventureiro Yama |----|Yama aventurero
+Yama Adventurer|----|Aventureiro Yama|----|Yama aventurero
 
 Intellectual Silver Falcon|----|Falcão Prateado Intelectual|----|Guerrero intelectual
 
-Yama Merchant|----|Mercador Yama |----|Mercader yama
+Yama Merchant|----|Mercador Yama|----|Mercader yama
 
 Energetic Qsiti|----|Qsiti Ativo|----|Qsiti activo
 
@@ -22920,7 +22920,7 @@ Noyce's Workshop|----|Oficina da Noyce|----|Herrería Noyce
 
 Connely's Items|----|Bazar Connely|----|Bazar Connely
 
-Smiley Latts's Shop|----|Loja do Latts, o Sorridente |----|Bazar de Latts el Sonriente
+Smiley Latts's Shop|----|Loja do Latts, o Sorridente|----|Bazar de Latts el Sonriente
 
 Rod's Components|----|Componentes do Rod|----|Casa del Componente
 
@@ -23162,7 +23162,7 @@ White Sovani|----|Sovani Albino|----|Sovani albino
 
 White Yama|----|Yama Albino|----|Yama albino
 
-Huge Yama|----|Enorme Yama |----|Yama enorme
+Huge Yama|----|Enorme Yama|----|Yama enorme
 
 White Qsiti|----|Qsiti Albino|----|Qsiti albino
 
@@ -23284,7 +23284,7 @@ Yellowcap Soldier|----|Soldado de Capuz Amarelo|----|Ocregabán soldado
 
 Ravenhowl|----|Corvo Uivante|----|Cuervoraz
 
-Malevolence|----|Malevolência |----|Malevolencia
+Malevolence|----|Malevolência|----|Malevolencia
 
 Redcap Champion|----|Campeão de Capuz Vermelho|----|Granagabán campeón
 
@@ -23300,9 +23300,9 @@ Pygmalion|----|Pigmalion|----|Pigmalión
 
 Jade Golem|----|Golem de Jade|----|Golem de jade
 
-Suicide|----|Kamikaze |----|Kamikaze
+Suicide|----|Kamikaze|----|Kamikaze
 
-Nucadora|----|Nucadora |----|Desnucadora
+Nucadora|----|Nucadora|----|Desnucadora
 
 Thanatos|----|Thanatos|----|Thanatos
 
@@ -23312,21 +23312,21 @@ Prometheus|----|Prometheus|----|Prometheus
 
 Madman|----|Demente|----|Demente
 
-(REPETIDO)Raptor|----|Carniceiro |----|Carroñero
+(REPETIDO)Raptor|----|Carniceiro|----|Carroñero
 
 (REPETIDO)Wild Raptor|----|Carniceiro Selvagem|----|Carroñero feroz
 
-(REPETIDO)Bullfighter|----|Matador |----|Matador
+(REPETIDO)Bullfighter|----|Matador|----|Matador
 
 King Raptor|----|Carniceiro Soberano|----|Rey carroñero
 
 (REPETIDO)Wild Raptor|----|Carniceiro Selvagem|----|Carroñero feroz
 
-(REPETIDO)Bullfighter|----|Matador |----|Matador
+(REPETIDO)Bullfighter|----|Matador|----|Matador
 
 Bloodthirsty Beast|----|Fera Sanguinária|----|Bestia voraz
 
-Carnotaurus|----|Carnotauro |----|Carnotauro
+Carnotaurus|----|Carnotauro|----|Carnotauro
 
 Jota|----|Minota|----|Minota
 
@@ -23372,7 +23372,7 @@ Spiritbeast Rin|----|Espírito Animal Rin|----|Espíritu animal Rin
 
 (REPETIDO)Misericorde|----|Impiedosa|----|Inmisericorde
 
-Rockgrater|----|Rebentarocha |----|Revientarrocas
+Rockgrater|----|Rebentarocha|----|Revientarrocas
 
 King Chimera|----|Quimera Soberana|----|Rey quimera
 
@@ -23422,15 +23422,15 @@ Medusa|----|Medusa|----|Medusa
 
 Stheno|----|Stheno|----|Stheno
 
-Euryale|----|Euríale |----|Euryale
+Euryale|----|Euríale|----|Euryale
 
-(REPETIDO)Imp|----|Diabrete |----|Diablillo
+(REPETIDO)Imp|----|Diabrete|----|Diablillo
 
 (REPETIDO)Quien|----|Quien|----|Quizenas
 
 Donda|----|Donda|----|Dronda
 
-(REPETIDO)Imp|----|Diabrete |----|Diablillo
+(REPETIDO)Imp|----|Diabrete|----|Diablillo
 
 (REPETIDO)Quien|----|Quien|----|Quizenas
 
@@ -23442,9 +23442,9 @@ Pan|----|Pan|----|Mandril
 
 Golden Monkey|----|Macaco Dourado|----|Simio dorado
 
-Silver Ape|----|Símio Prateado |----|Simio plateado
+Silver Ape|----|Símio Prateado|----|Simio plateado
 
-Satyri|----|Sátiro |----|Sátiro
+Satyri|----|Sátiro|----|Sátiro
 
 Sugriva|----|Sugriva|----|Sugriva
 
@@ -23454,23 +23454,23 @@ Hanuman|----|Hanuman|----|Hanuman
 
 (REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
-(REPETIDO)Basilisk|----|Basilisco |----|Basilisco
+(REPETIDO)Basilisk|----|Basilisco|----|Basilisco
 
 (REPETIDO)Nidhogg|----|Nidhogg|----|Nidhogg
 
 (REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
-(REPETIDO)Basilisk|----|Basilisco |----|Basilisco
+(REPETIDO)Basilisk|----|Basilisco|----|Basilisco
 
 (REPETIDO)Nidhogg|----|Nidhogg|----|Nidhogg
 
 (REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
-(REPETIDO)Basilisk|----|Basilisco |----|Basilisco
+(REPETIDO)Basilisk|----|Basilisco|----|Basilisco
 
 (REPETIDO)Nidhogg|----|Nidhogg|----|Nidhogg
 
-Rockbiter|----|Mordepedra |----|Picapeñascos
+Rockbiter|----|Mordepedra|----|Picapeñascos
 
 Stegosauria King|----|Estegosauro Rei|----|Estegosaurio
 
@@ -23490,29 +23490,29 @@ Poison Lizard|----|Lagarto Venenoso|----|Saurio tóxico
 
 (REPETIDO)Azhdaha|----|Azhdaha|----|Azhdaha
 
-(REPETIDO)Weredragon|----|Dracônico |----|Dragóntropo
+(REPETIDO)Weredragon|----|Dracônico|----|Dragóntropo
 
 (REPETIDO)Feral Fang|----|Presa Feroz|----|Canino montés
 
 Great Azhdaha|----|Azhdaha Gigante|----|Gran Azhdaha
 
-(REPETIDO)Weredragon|----|Dracônico |----|Dragóntropo
+(REPETIDO)Weredragon|----|Dracônico|----|Dragóntropo
 
 Nanotyrranus|----|Nanotirano|----|Nanotirano
 
-Crazer|----|Maluco |----|Chalado
+Crazer|----|Maluco|----|Chalado
 
 Dracosblood|----|Sangue de Dragão|----|Draco sanguíneo
 
 Roaming Warrior|----|Guerreiro Errante|----|Soldado errante
 
-Cheiron|----|Queiron |----|Quirón
+Cheiron|----|Queiron|----|Quirón
 
-Pholus|----|Folos |----|Folos
+Pholus|----|Folos|----|Folos
 
-Distress|----|Tormento |----|Tormento
+Distress|----|Tormento|----|Tormento
 
-Greentop|----|Testaverde |----|Testaverde
+Greentop|----|Testaverde|----|Testaverde
 
 (REPETIDO)Demon|----|Demônio|----|Diablo
 
@@ -23542,31 +23542,31 @@ Void Intruder|----|Intruso Etéreo|----|Intruso etéreo
 
 Bluetalon|----|Caudazul|----|Zarpazul
 
-(REPETIDO)Manticore|----|Mantícora |----|Mantícora
+(REPETIDO)Manticore|----|Mantícora|----|Mantícora
 
-(REPETIDO)Nussknacker|----|Rompebraços |----|Rompebrazos
+(REPETIDO)Nussknacker|----|Rompebraços|----|Rompebrazos
 
-(REPETIDO)Deathclaw|----|Garramortal |----|Garramortal
+(REPETIDO)Deathclaw|----|Garramortal|----|Garramortal
 
-(REPETIDO)Manticore|----|Mantícora |----|Mantícora
+(REPETIDO)Manticore|----|Mantícora|----|Mantícora
 
-(REPETIDO)Nussknacker|----|Rompebraços |----|Rompebrazos
+(REPETIDO)Nussknacker|----|Rompebraços|----|Rompebrazos
 
-(REPETIDO)Deathclaw|----|Garramortal |----|Garramortal
+(REPETIDO)Deathclaw|----|Garramortal|----|Garramortal
 
-(REPETIDO)Manticore|----|Mantícora |----|Mantícora
+(REPETIDO)Manticore|----|Mantícora|----|Mantícora
 
-(REPETIDO)Nussknacker|----|Rompebraços |----|Rompebrazos
+(REPETIDO)Nussknacker|----|Rompebraços|----|Rompebrazos
 
-(REPETIDO)Deathclaw|----|Garramortal |----|Garramortal
+(REPETIDO)Deathclaw|----|Garramortal|----|Garramortal
 
 Abominable Beast|----|Fera Abominável|----|Mala bestia
 
-Longtail Soldier|----|Caudalonga |----|Cabolargo
+Longtail Soldier|----|Caudalonga|----|Cabolargo
 
 Paraponera|----|Paraponera|----|Paraponera
 
-Ancient Blue|----|Cianoarcano |----|Cianoarcano
+Ancient Blue|----|Cianoarcano|----|Cianoarcano
 
 Yvalmock|----|Ivalmock|----|Ivalmock
 
@@ -23576,11 +23576,11 @@ Bloody Nussknacker|----|Rompebraços Sanguinário|----|Rompebrazos feroz
 
 Yvalock|----|Yvalock|----|Ivalock
 
-(REPETIDO)Crab|----|Caranguejo |----|Centollo
+(REPETIDO)Crab|----|Caranguejo|----|Centollo
 
 (REPETIDO)Rockshell|----|Concha de Pedra|----|Caparapiedra
 
-Armorshell|----|Concha Blindada |----|Caparacero
+Armorshell|----|Concha Blindada|----|Caparacero
 
 Giant Crab|----|Caranguejo Gigante|----|Centollo gigante
 
@@ -23588,7 +23588,7 @@ Giant Crab|----|Caranguejo Gigante|----|Centollo gigante
 
 Giant Armorshell|----|Concha Blindada Gigante|----|Caparacero rey
 
-Ogreface|----|Ogrete |----|Ogrete
+Ogreface|----|Ogrete|----|Ogrete
 
 Ocypode|----|Ocípode|----|Velópodo
 
@@ -23596,45 +23596,45 @@ Hairy Crab|----|Caranguejo Peludo|----|Centollo felpudo
 
 Deathcaller|----|Arauto da Morte|----|Heraldo mortal
 
-Death Tank|----|Encouraçado |----|Acorazado
+Death Tank|----|Encouraçado|----|Acorazado
 
 Blossom|----|Florescência|----|Pimpollo
 
 Floridus|----|Floridus|----|Floridus
 
-(REPETIDO)Executioner|----|Executor |----|Ejecutor
+(REPETIDO)Executioner|----|Executor|----|Ejecutor
 
 Spider|----|Aranha|----|Tarántula
 
 (REPETIDO)Grand Spider|----|Aranha Grande|----|Gran tarántula
 
-(REPETIDO)Arachnid|----|Aracnídeo |----|Arácnido
+(REPETIDO)Arachnid|----|Aracnídeo|----|Arácnido
 
 Giant Spider|----|Aranha Gigante|----|Tarántula reina
 
 (REPETIDO)Grand Spider|----|Aranha Grande|----|Gran tarántula
 
-(REPETIDO)Arachnid|----|Aracnídeo |----|Arácnido
+(REPETIDO)Arachnid|----|Aracnídeo|----|Arácnido
 
 Fibroin|----|Fibroin|----|Fibroin
 
-Whitehorn|----|Chifrebranco |----|Cuernoblanco
+Whitehorn|----|Chifrebranco|----|Cuernoblanco
 
 Scarlet Beetle|----|Besouro Vermelho|----|Mantis roja
 
 Axehead|----|Cabeça de Machado|----|Labricéfalo
 
-Opiliones|----|Opilione |----|Opilionida
+Opiliones|----|Opilione|----|Opilionida
 
 Jagd Beetle|----|Besouro Caçador|----|Mantis dentada
 
-Figurehead|----|Carranca |----|Mascarón
+Figurehead|----|Carranca|----|Mascarón
 
 Venomspewer|----|Cospe Veneno|----|Escupeveneno
 
 (REPETIDO)Landworm|----|Verme da Terra|----|Multípodo
 
-Pest|----|Praga |----|Pestis
+Pest|----|Praga|----|Pestis
 
 (REPETIDO)Killer Insect|----|Inseto Assassino|----|Parásito asesino
 
@@ -23646,7 +23646,7 @@ SS Pest|----|Minipraga|----|Minipestis
 
 Violet Leafhopper|----|Cigarra Azul|----|Cigarra malva
 
-Prowler|----|Rondador |----|Husmeador
+Prowler|----|Rondador|----|Husmeador
 
 Pale Leafhopper|----|Cigarra Branca|----|Cigarra blanca
 
@@ -23674,7 +23674,7 @@ Deadly Pest|----|Praga Letal|----|Pestis letal
 
 Senton|----|Senton|----|Senton
 
-Millipede|----|Milípede |----|Miriópodo
+Millipede|----|Milípede|----|Miriópodo
 
 Sandcrawler|----|Rastejador das Areias|----|Treparenas
 
@@ -23688,19 +23688,19 @@ Gustav|----|Gustav|----|Gustav
 
 Gaias|----|Gaias|----|Gaias
 
-(REPETIDO)Glutton|----|Glutão |----|Tragaldabas
+(REPETIDO)Glutton|----|Glutão|----|Tragaldabas
 
 (REPETIDO)Leap Frog|----|Sapo Saltitante|----|Batracio
 
 (REPETIDO)Abaddon|----|Abaddon|----|Abaddon
 
-(REPETIDO)Glutton|----|Glutão |----|Tragaldabas
+(REPETIDO)Glutton|----|Glutão|----|Tragaldabas
 
 (REPETIDO)Leap Frog|----|Sapo Saltitante|----|Batracio
 
 (REPETIDO)Abaddon|----|Abaddon|----|Abaddon
 
-(REPETIDO)Glutton|----|Glutão |----|Tragaldabas
+(REPETIDO)Glutton|----|Glutão|----|Tragaldabas
 
 (REPETIDO)Leap Frog|----|Sapo Saltitante|----|Batracio
 
@@ -23736,15 +23736,15 @@ Vodianoi|----|Vodianoi|----|Vodianoi
 
 Clione|----|Clione|----|Clione
 
-Malach|----|Malachi |----|Malachi
+Malach|----|Malachi|----|Malachi
 
 Naias|----|Naias|----|Naias
 
-Malevolencia|----|Malevolência |----|Malevolencia
+Malevolencia|----|Malevolência|----|Malevolencia
 
 Wandering Plague|----|Praga Errante|----|Plaga errante
 
-Clytie|----|Clicie |----|Clicie
+Clytie|----|Clicie|----|Clicie
 
 Lympha|----|Linfa|----|Linfa
 
@@ -23752,17 +23752,17 @@ Fallen Angel|----|Anjo Caído|----|Ángel caído
 
 Papillon|----|Papillon|----|Papilio
 
-Nymphalidae|----|Ninfálida |----|Ninfálida
+Nymphalidae|----|Ninfálida|----|Ninfálida
 
 Echidnamoth|----|Mariposa de Espinhos|----|Polillaespín
 
 Greater Papillon|----|Papillon Gigante|----|Gran papilio
 
-Greater Nymphalidae|----|Ninfálida Gigante |----|Gran ninfálida
+Greater Nymphalidae|----|Ninfálida Gigante|----|Gran ninfálida
 
 Greater Echidnamoth|----|Mariposa de Espinhos Gigante|----|Polillaespín rey
 
-Deathmorph|----|Aniquilador |----|Aniquilador
+Deathmorph|----|Aniquilador|----|Aniquilador
 
 Divine Flyer|----|Mosca Divina|----|Moscón divino
 
@@ -23772,7 +23772,7 @@ Swallowtail Devil|----|Mariposa Diabólica|----|Diablo mariposa
 
 Yamamai|----|Yamamai|----|Yamamai
 
-Dreamwatcher|----|Vigiasonhos |----|Vigilasueños
+Dreamwatcher|----|Vigiasonhos|----|Vigilasueños
 
 Birdwing|----|Asa de Pássaro|----|Ala celeste
 
@@ -23782,13 +23782,13 @@ Artaxa|----|Artaxa|----|Artaxa
 
 (REPETIDO)Dagon|----|Dagon|----|Dagon
 
-(REPETIDO)Charybdis|----|Caribdis |----|Caribdis
+(REPETIDO)Charybdis|----|Caribdis|----|Caribdis
 
 Giant Amoeba|----|Ameba Gigante|----|Ameba reina
 
 (REPETIDO)Dagon|----|Dagon|----|Dagón
 
-(REPETIDO)Charybdis|----|Caribdis |----|Caribdis
+(REPETIDO)Charybdis|----|Caribdis|----|Caribdis
 
 Running Sludge|----|Limo Galopante|----|Cieno galopante
 
@@ -23796,23 +23796,23 @@ Baroque Pearl|----|Pérola Barroca|----|Perla barroca
 
 Liquid Lolly|----|Hidrodoce|----|Hidromondongo
 
-Octoeyes|----|Oitolhos |----|Contemplador
+Octoeyes|----|Oitolhos|----|Contemplador
 
 Ohaguro|----|Dentes Negros|----|Dientenegro
 
-Nightmare|----|Pesadelo |----|Pesadilla
+Nightmare|----|Pesadelo|----|Pesadilla
 
-Blob|----|Amorfo |----|Amorfo
+Blob|----|Amorfo|----|Amorfo
 
-The Dark|----|Tenebroso |----|Tenebroso
+The Dark|----|Tenebroso|----|Tenebroso
 
-(REPETIDO)Rosefly|----|Moscarosa |----|Apoidea
+(REPETIDO)Rosefly|----|Moscarosa|----|Apoidea
 
-Shellfly|----|Moscascudo |----|Vespoidea
+Shellfly|----|Moscascudo|----|Vespoidea
 
 (REPETIDO)Anthophilum|----|Antofilo|----|Apimorfa
 
-(REPETIDO)Rosefly|----|Moscarosa |----|Apoidea
+(REPETIDO)Rosefly|----|Moscarosa|----|Apoidea
 
 Giant Shellfly|----|Moscascudo Gigante|----|Vespoidea reina
 
@@ -23822,7 +23822,7 @@ Sesiidae|----|Sesiidae|----|Sesiidae
 
 Royalguard|----|Guarda Real|----|Guarda real
 
-Chigger|----|Carrapato |----|Garrapata
+Chigger|----|Carrapato|----|Garrapata
 
 Deathstinger|----|Ferrão Mortal|----|Picamuertos
 
@@ -23850,7 +23850,7 @@ Jatayu|----|Jatayu|----|Jatayu
 
 Sampati|----|Sampati|----|Sampati
 
-Nightingale|----|Gralha |----|Estornino
+Nightingale|----|Gralha|----|Estornino
 
 Tsenahale|----|Tsenahale|----|Tsenahale
 
@@ -23858,17 +23858,17 @@ Wakinyan|----|Wakinyan|----|Wakinyan
 
 (REPETIDO)Wyvern|----|Wyvern|----|Wyvern
 
-Aeronite|----|Aeronito |----|Aeronita
+Aeronite|----|Aeronito|----|Aeronita
 
-Diatryma|----|Diatrima |----|Diatrima
+Diatryma|----|Diatrima|----|Diatrima
 
-Narwhal|----|Narval |----|Narval
+Narwhal|----|Narval|----|Narval
 
 Deadly Swooper|----|Planador Mortífero|----|Planeador
 
-Longbeak|----|Bicolargo |----|Picolargo
+Longbeak|----|Bicolargo|----|Picolargo
 
-Archaeopteryx|----|Arqueopteryx |----|Arqueopteryx
+Archaeopteryx|----|Arqueopteryx|----|Arqueopteryx
 
 Lindblum|----|Lindblum|----|Lindblum
 
@@ -23876,9 +23876,9 @@ Chua|----|Chua|----|Chua
 
 Reaper|----|Anjo da Morte|----|Parca
 
-Wrath|----|Fúria |----|Cólera
+Wrath|----|Fúria|----|Cólera
 
-Blackwing|----|Asanegra |----|Alanegra
+Blackwing|----|Asanegra|----|Alanegra
 
 (REPETIDO)Spiritlord|----|Senhor Espiritual|----|Archiespectro
 
@@ -23888,7 +23888,7 @@ Mad Hurricane|----|Vento Feroz|----|Viento feroz
 
 Seething Wind|----|Vento Furioso|----|Viento furioso
 
-Dominator|----|Dominador |----|Subyugador
+Dominator|----|Dominador|----|Subyugador
 
 Ikaros Feather|----|Ícaro|----|Ícaro
 
@@ -23900,17 +23900,17 @@ Heaven's Lord|----|Senhor dos Céus|----|Señor del cielo
 
 Stymphalian Bird|----|Estínfalo|----|Estínfalo
 
-(REPETIDO)Vile Plant|----|Plantavil |----|Plantavil
+(REPETIDO)Vile Plant|----|Plantavil|----|Plantavil
 
 (REPETIDO)Anthrovore|----|Antropófago|----|Antropófago
 
-(REPETIDO)Mandragora|----|Mandrágora |----|Mandrágora
+(REPETIDO)Mandragora|----|Mandrágora|----|Mandrágora
 
-(REPETIDO)Vile Plant|----|Plantavil |----|Plantavil
+(REPETIDO)Vile Plant|----|Plantavil|----|Plantavil
 
 (REPETIDO)Anthrovore|----|Antropófago|----|Antropófago
 
-(REPETIDO)Mandragora|----|Mandrágora |----|Mandrágora
+(REPETIDO)Mandragora|----|Mandrágora|----|Mandrágora
 
 Red Tears|----|Lágrimas de Sangue|----|Sauce rojo
 
@@ -23922,9 +23922,9 @@ Rotten Tears|----|Lágrimas Podres|----|Sauce pútrido
 
 Raging Persephone|----|Perséfone Furiosa|----|Perséfone
 
-Condemner|----|Castigador |----|Castigador
+Condemner|----|Castigador|----|Castigador
 
-Weeper|----|Lamentador |----|Berreón
+Weeper|----|Lamentador|----|Berreón
 
 Narcissus|----|Narciso|----|Narciso
 
@@ -23942,7 +23942,7 @@ Godwood|----|Planta Celestial|----|Leño celeste
 
 King Plant|----|Planta Soberana|----|Matojo soberano
 
-Longhorn|----|Chifrelongo |----|Cuernolargo
+Longhorn|----|Chifrelongo|----|Cuernolargo
 
 Deatheater|----|Engolealmas|----|Engullealmas
 
@@ -23958,13 +23958,13 @@ Devilwood|----|Planta Demoníaca|----|Leño diablo
 
 Evil Eye|----|Olho Maligno|----|Mal de ojo
 
-Manhunter|----|Caçahomens |----|Cazahombres
+Manhunter|----|Caçahomens|----|Cazahombres
 
 Death|----|Ceifador de Almas|----|Segador de almas
 
 Dark Helios|----|Helionegro|----|Helionegro
 
-Blackmoon|----|Luanegra |----|Lunanegra
+Blackmoon|----|Luanegra|----|Lunanegra
 
 Eye of Damnation|----|Olho da Condenação|----|Ojo de tormento
 
@@ -23972,15 +23972,15 @@ Eye of Doom|----|Olho da Perdição|----|Ojo de perdición
 
 Eye of Terror|----|Olho do Terror|----|Ojo del terror
 
-Observer|----|Observador |----|Observador
+Observer|----|Observador|----|Observador
 
-Monopole|----|Monópolo |----|Monópolo
+Monopole|----|Monópolo|----|Monópolo
 
 Eye of Flame|----|Olho de Fogo|----|Ojo del fuego
 
 (REPETIDO)Dragon|----|Dragão|----|Dragón
 
-Abelisk|----|Obelisco |----|Abelisco
+Abelisk|----|Obelisco|----|Abelisco
 
 Brynhildr|----|Brunhild|----|Brunhild
 
@@ -24006,7 +24006,7 @@ Falak|----|Falak|----|Falak
 
 Bai Ze|----|Bai Ze|----|Bai Ze
 
-Holy Servant|----|Servo Sagrado |----|Lacayo sacro
+Holy Servant|----|Servo Sagrado|----|Lacayo sacro
 
 Giant|----|Gigante|----|Gigante
 
@@ -24014,7 +24014,7 @@ Barbarossa|----|Barbarossa|----|Barbarroja
 
 Ancbolder|----|Ancbolder|----|Ancbolder
 
-(REPETIDO)Sledgehammer|----|Marreta |----|Martillo pilón
+(REPETIDO)Sledgehammer|----|Marreta|----|Martillo pilón
 
 Caligula|----|Calígula|----|Calígula
 
@@ -24040,7 +24040,7 @@ The Hanged Man|----|Enforcado|----|Ahorcado
 
 Puck|----|Puck|----|Fauno
 
-Harpylia|----|Arpília |----|Arpilia
+Harpylia|----|Arpília|----|Arpilia
 
 Valkyrie|----|Valquíria|----|Valquiria
 
@@ -24050,7 +24050,7 @@ Anima|----|Anima|----|Ánima
 
 Terror Wing|----|Asa do Terror|----|Ala del terror
 
-Mercurius|----|Mercuriano |----|Mercurius
+Mercurius|----|Mercuriano|----|Mercurius
 
 (REPETIDO)Slaver|----|Traficante de Escravos|----|Traficante jefe
 
@@ -24060,39 +24060,39 @@ Mercurius|----|Mercuriano |----|Mercurius
 
 Activist's Bodyguard|----|Guarda-Costas de Ativista|----|Guardaespaldas
 
-Anti-Remnant Fighter|----|Lutador Anti-Remanescente|----|Guerrero antirreliquias
+Anti-Remnant Fighter|----|Guerreiro Anti-Remanescente|----|Guerrero antirreliquias
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
 Carrot|----|Zanahoria|----|Zanahoria
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
 Miss Venus|----|Miss Venus|----|Miss Venus
 
@@ -24178,7 +24178,7 @@ Queen's Guard|----|Guarda da Rainha|----|Guarda de la Reina
 
 Queen|----|Rainha|----|Reina
 
-(REPETIDO)Conqueror Army Soldier|----|Soldado do Conquistador|----|Soldado del Invasor
+(REPETIDO)Conqueror Army Soldier|----|Soldado do Exército do Conquistador|----|Soldado del Invasor
 
 (REPETIDO)Tamas|----|Tamas|----|Tamas
 
@@ -24256,11 +24256,11 @@ Mojcado Door|----|Porta do Castelo Mojcado|----|Puerta de Muscato
 
 Mossy Door|----|Porta com Musgo|----|Puerta con musgo
 
-Plateau Door|----|Porta da Planície|----|Puerta a la llanura
+Plateau Door|----|Porta para a Planície|----|Puerta a la llanura
 
 Research Lab Door|----|Porta do Laboratório de Pesquisa|----|Puerta del laboratorio
 
-Temple Door|----|Porta do Temmplo|----|Puerta del templo
+Temple Door|----|Porta do Templo|----|Puerta del templo
 
 Academy Door|----|Porta da Academia|----|Puerta de la Academia
 
@@ -24382,7 +24382,7 @@ Imperator's Hammer|----|Martelo Imperial|----|Martillo imperial
 
 Imperator's Lance|----|Lança Imperial|----|Lanza imperial
 
-Imperator's Staff|----|Cajado Imperial|----|Cetro imperial
+Imperator's Staff|----|Cetro Imperial|----|Cetro imperial
 
 Imperator's Shield|----|Escudo Imperial|----|Escudo imperial
 
@@ -24412,21 +24412,21 @@ Khukuri|----|Kukri|----|Kukri
 
 Combat Khukuri|----|Kukri de Combate|----|Kukri castrense
 
-Warrior's Khukuri|----|Kukri do Guerreiro|----|Kukri militar
+Warrior's Khukuri|----|Kukri Militar|----|Kukri militar
 
-Commander's Khukuri|----|Kukri do Comandante|----|Kukri señorial
+Commander's Khukuri|----|Kukri Senhorial|----|Kukri señorial
 
 Elite's Khukuri|----|Kukri de Elite|----|Kukri selecto
 
-Champion's Khukuri|----|Kukri do Campeão|----|Kukri palatino
+Champion's Khukuri|----|Kukri Palatino|----|Kukri palatino
 
-Warlord's Khukuri|----|Kukri do Senhor da Guerra|----|Kukri soberano
+Warlord's Khukuri|----|Kukri Soberano|----|Kukri soberano
 
 Divine Khukuri|----|Kukri Celestial|----|Kukri celestial
 
-Draconile Khukuri|----|Kukri Draconiana|----|Kukri draconiano
+Draconile Khukuri|----|Kukri Draconiano|----|Kukri draconiano
 
-Prismic Khukuri|----|Kukri Prismática|----|Kukri cristalino
+Prismic Khukuri|----|Kukri Cristalino|----|Kukri cristalino
 
 Damascene Khukuri|----|Kukri Damasceno|----|Kukri repujado
 
@@ -24452,9 +24452,9 @@ Superlative Bladebreaker|----|Quebralâminas Excepcional|----|Rompehojas excepci
 
 Flame Bladebreaker|----|Quebralâminas Incandescente|----|Rompehojas flamígero
 
-Storm Bladebreaker|----|Quebralâminas da Tormenta|----|Rompehojas tormentoso
+Storm Bladebreaker|----|Quebralâminas Tormentoso|----|Rompehojas tormentoso
 
-Frost Bladebreaker|----|Quebralâminas de Gelo|----|Rompehojas glacial
+Frost Bladebreaker|----|Quebralâminas Glacial|----|Rompehojas glacial
 
 Caustic Bladebreaker|----|Quebralâminas Corrosiva|----|Rompehojas corrosivo
 
@@ -24500,21 +24500,21 @@ Broadsword|----|Espada Larga|----|Baselarda
 
 Combat Broadsword|----|Espada Larga de Combate|----|Baselarda castrense
 
-Warrior's Broadsword|----|Espada Larga do Guerreiro|----|Baselarda militar
+Warrior's Broadsword|----|Espada Larga Militar|----|Baselarda militar
 
-Commander's Broadsword|----|Espada Larga do Comandante|----|Baselarda señorial
+Commander's Broadsword|----|Espada Larga Senhorial|----|Baselarda señorial
 
 Elite's Broadsword|----|Espada Larga de Elite|----|Baselarda selecta
 
-Champion's Broadsword|----|Espada Larga do Campeão|----|Baselarda palatina
+Champion's Broadsword|----|Espada Larga Palatina|----|Baselarda palatina
 
-Warlord's Broadsword|----|Espada Soberana|----|Baselarda soberana
+Warlord's Broadsword|----|Espada Larga Soberana|----|Baselarda soberana
 
 Divine Broadsword|----|Espada Larga Celestial|----|Baselarda celestial
 
 Draconile Broadsword|----|Espada Larga Draconiana|----|Baselarda draconiana
 
-Prismic Broadsword|----|Espada Larga Prismática|----|Baselarda cristalina
+Prismic Broadsword|----|Espada Larga Cristalina|----|Baselarda cristalina
 
 Damascene Broadsword|----|Espada Larga Damascena|----|Baselarda repujada
 
@@ -24524,21 +24524,21 @@ Rapier|----|Florete|----|Ropera
 
 Combat Rapier|----|Florete de Combate|----|Ropera castrense
 
-Warrior's Rapier|----|Florete do Guerreiro|----|Ropera militar
+Warrior's Rapier|----|Florete Militar|----|Ropera militar
 
-Commander's Rapier|----|Florete do Comandante|----|Ropera señorial
+Commander's Rapier|----|Florete Senhorial|----|Ropera señorial
 
 Elite's Rapier|----|Florete de Elite|----|Ropera selecta
 
-Champion's Rapier|----|Florete do Campeão|----|Ropera palatina
+Champion's Rapier|----|Florete Palatino|----|Ropera palatina
 
-Warlord's Rapier|----|Florete do Senhor da Guerra|----|Ropera soberana
+Warlord's Rapier|----|Florete Soberano|----|Ropera soberana
 
 Divine Rapier|----|Florete Celestial|----|Ropera celestial
 
 Draconile Rapier|----|Florete Draconiano|----|Ropera draconiana
 
-Prismic Rapier|----|Florete Prismático|----|Ropera cristalina
+Prismic Rapier|----|Florete Cristalino|----|Ropera cristalina
 
 Damascene Rapier|----|Florete Damasceno|----|Ropera repujada
 
@@ -24600,9 +24600,9 @@ Superlative Bluesteel|----|Açoazul Excepcional|----|Cianoacero excepcional
 
 Flame Bluesteel|----|Açoazul Incandescente|----|Cianoacero flamígero
 
-Storm Bluesteel|----|Açoazul da Tormenta|----|Cianoacero tormentoso
+Storm Bluesteel|----|Açoazul Tormentoso|----|Cianoacero tormentoso
 
-Frost Bluesteel|----|Açoazul de Gelo|----|Cianoacero glacial
+Frost Bluesteel|----|Açoazul Glacial|----|Cianoacero glacial
 
 Caustic Bluesteel|----|Açoazul Corrosivo|----|Cianoacero corrosivo
 
@@ -24636,7 +24636,7 @@ Steelwind|----|Vento-Cortante|----|Vendaval
 
 Drakescale Edge|----|Garra de Dragão|----|Garra de dragón
 
-Goblin's Guile|----|Malícia de Duende|----|Astucia de trasgo
+Goblin's Guile|----|Astúcia de Duende|----|Astucia de trasgo
 
 Athlumian|----|Coração de Athlum|----|Corazón de Athlum
 
@@ -24644,21 +24644,21 @@ Bastardsword|----|Espada Bastarda|----|Espadón
 
 Combat Bastardsword|----|Espada Bastarda de Combate|----|Espadón castrense
 
-Warrior's Bastardsword|----|Espada Bastarda do Guerreiro|----|Espadón militar
+Warrior's Bastardsword|----|Espada Bastarda Militar|----|Espadón militar
 
-Commander's Bastardsword|----|Espada Bastarda do Comandante|----|Espadón señorial
+Commander's Bastardsword|----|Espada Bastarda Senhorial|----|Espadón señorial
 
 Elite's Bastardsword|----|Espada Bastarda de Elite|----|Espadón selecto
 
-Champion's Bastardsword|----|Espada Bastarda do Campeão|----|Espadón palatino
+Champion's Bastardsword|----|Espada Bastarda Palatina|----|Espadón palatino
 
-Warlord's Bastardsword|----|Espada Bastarda do Senhor da Guerra|----|Espadón soberano
+Warlord's Bastardsword|----|Espada Bastarda Soberana|----|Espadón soberano
 
 Divine Bastardsword|----|Espada Bastarda Celestial|----|Espadón celestial
 
 Draconile Bastardsword|----|Espada Bastarda Draconiana|----|Espadón draconiano
 
-Prismic Bastardsword|----|Espada Bastarda Prismática|----|Espadón cristalino
+Prismic Bastardsword|----|Espada Bastarda Cristalina|----|Espadón cristalino
 
 Damascene Bastardsword|----|Espada Bastarda Damascena|----|Espadón repujado
 
@@ -24668,21 +24668,21 @@ Claymore|----|Claymore|----|Claymore
 
 Combat Claymore|----|Claymore de Combate|----|Claymore castrense
 
-Warrior's Claymore|----|Claymore do Guerreiro|----|Claymore militar
+Warrior's Claymore|----|Claymore Militar|----|Claymore militar
 
-Commander's Claymore|----|Claymore do Comandante|----|Claymore señorial
+Commander's Claymore|----|Claymore Senhorial|----|Claymore señorial
 
 Elite's Claymore|----|Claymore de Elite|----|Claymore selecta
 
-Champion's Claymore|----|Claymore do Campeão|----|Claymore palatina
+Champion's Claymore|----|Claymore Palatino|----|Claymore palatina
 
-Warlord's Claymore|----|Claymore do Senhor da Guerra|----|Claymore soberana
+Warlord's Claymore|----|Claymore Soberana|----|Claymore soberana
 
 Divine Claymore|----|Claymore Celestial|----|Claymore celestial
 
 Draconile Claymore|----|Claymore Draconiana|----|Claymore draconiana
 
-Prismic Claymore|----|Claymore Prismática|----|Claymore cristalina
+Prismic Claymore|----|Claymore Cristalina|----|Claymore cristalina
 
 Damascene Claymore|----|Claymore Damascena|----|Claymore repujada
 
@@ -24708,9 +24708,9 @@ Superlative Highbrand|----|Estigma Excepcional|----|Herbrandt excepcional
 
 Flame Highbrand|----|Estigma Incandescente|----|Herbrandt flamígero
 
-Storm Highbrand|----|Estigma da Tormenta|----|Herbrandt tormentoso
+Storm Highbrand|----|Estigma Tormentoso|----|Herbrandt tormentoso
 
-Frost Highbrand|----|Estigma de Gelo|----|Herbrandt glacial
+Frost Highbrand|----|Estigma Glacial|----|Herbrandt glacial
 
 Caustic Highbrand|----|Estigma Corrosiva|----|Herbrandt corrosivo
 
@@ -24730,13 +24730,13 @@ Defender|----|Defensora|----|Defensora
 
 Flamberge|----|Flamberge|----|Flamberge
 
-Highland Claymore|----|Claymore das Terras Altas|----|Claymore de las montañas
+Highland Claymore|----|Claymore das Montanhas|----|Claymore de las montañas
 
 Sword of Seven|----|Espada dos Sete|----|Septentrión
 
 Fellswoop|----|Aniquiladora|----|Aniquiladora
 
-Predator Wing|----|Asas de Predador|----|Ala depredadora
+Predator Wing|----|Asa de Predador|----|Ala depredadora
 
 Leprechaun's Leap|----|Salto de Leprechaun|----|Brinco de leprechaun
 
@@ -24746,21 +24746,21 @@ Grandsword|----|Espada Grande|----|Kraken
 
 Combat Grandsword|----|Espada Grande de Combate|----|Kraken castrense
 
-Warrior's Grandsword|----|Espada Grande do Guerreiro|----|Kraken militar
+Warrior's Grandsword|----|Espada Grande Militar|----|Kraken militar
 
-Commander's Grandsword|----|Espada Grande do Comandante|----|Kraken señorial
+Commander's Grandsword|----|Espada Grande Senhorial|----|Kraken señorial
 
 Elite's Grandsword|----|Espada Grande de Elite|----|Kraken selecto
 
-Champion's Grandsword|----|Espada Grande do Campeão|----|Kraken palatino
+Champion's Grandsword|----|Espada Grande Palatina|----|Kraken palatino
 
-Warlord's Grandsword|----|Espada Grande do Senhor da Guerra|----|Kraken soberano
+Warlord's Grandsword|----|Espada Grande Soberana|----|Kraken soberano
 
 Divine Grandsword|----|Espada Grande Celestial|----|Kraken celestial
 
 Draconile Grandsword|----|Espada Grande Draconiana|----|Kraken draconiano
 
-Prismic Grandsword|----|Espada Grande Prismática|----|Kraken cristalino
+Prismic Grandsword|----|Espada Grande Cristalina|----|Kraken cristalino
 
 Damascene Grandsword|----|Espada Grande Damascena|----|Kraken repujado
 
@@ -24774,9 +24774,9 @@ Superlative Masterblade|----|Lâmina Mestre Excepcional|----|Mandoble excepciona
 
 Flame Masterblade|----|Lâmina Mestre Incandescente|----|Mandoble flamígero
 
-Storm Masterblade|----|Lâmina Mestre da Tormenta|----|Mandoble tormentoso
+Storm Masterblade|----|Lâmina Mestre Tormentosa|----|Mandoble tormentoso
 
-Frost Masterblade|----|Lâmina Mestre de Gelo|----|Mandoble glacial
+Frost Masterblade|----|Lâmina Mestre Glacial|----|Mandoble glacial
 
 Caustic Masterblade|----|Lâmina Mestre Corrosiva|----|Mandoble corrosivo
 
@@ -24818,27 +24818,27 @@ Gem Wakizashi|----|Wakizashi com Jóias|----|Wakizashi enjoyada
 
 Mithril Wakizashi|----|Wakizashi de Mithril|----|Wakizashi de mithril
 
-Ancient Wakizashi|----|Mithril Lendária|----|Wakizashi legendaria
+Ancient Wakizashi|----|Wakizashi Lendária|----|Wakizashi legendaria
 
 Falchion|----|Falchion|----|Bracamarte
 
 Combat Falchion|----|Falchion de Combate|----|Bracamarte castrense
 
-Warrior's Falchion|----|Falchion do Guerreiro|----|Bracamarte militar
+Warrior's Falchion|----|Falchion Militar|----|Bracamarte militar
 
-Commander's Falchion|----|Falchion do Comandante|----|Bracamarte señorial
+Commander's Falchion|----|Falchion Senhorial|----|Bracamarte señorial
 
 Elite's Falchion|----|Falchion de Elite|----|Bracamarte selecto
 
-Champion's Falchion|----|Falchion do Campeão|----|Bracamarte palatino
+Champion's Falchion|----|Falchion Palatino|----|Bracamarte palatino
 
-Warlord's Falchion|----|Falchion do Senhor da Guerra|----|Bracamarte soberano
+Warlord's Falchion|----|Falchion Soberano|----|Bracamarte soberano
 
 Divine Falchion|----|Falchion Celestial|----|Bracamarte celestial
 
-Draconile Falchion|----|Falchion Draconiana|----|Bracamarte draconiano
+Draconile Falchion|----|Falchion Draconiano|----|Bracamarte draconiano
 
-Prismic Falchion|----|Falchion Prismático|----|Bracamarte cristalino
+Prismic Falchion|----|Falchion Cristalino|----|Bracamarte cristalino
 
 Damascene Falchion|----|Falchion Damasceno|----|Bracamarte repujado
 
@@ -24890,21 +24890,21 @@ Scimitar|----|Cimitarra|----|Cimitarra
 
 Combat Scimitar|----|Cimitarra de Combate|----|Cimitarra castrense
 
-Warrior's Scimitar|----|Cimitarra do Guerreiro|----|Cimitarra militar
+Warrior's Scimitar|----|Cimitarra Militar|----|Cimitarra militar
 
-Commander's Scimitar|----|Cimitarra do Comandante|----|Cimitarra señorial
+Commander's Scimitar|----|Cimitarra Senhorial|----|Cimitarra señorial
 
 Elite's Scimitar|----|Cimitarra de Elite|----|Cimitarra selecta
 
-Champion's Scimitar|----|Cimitarra do Campeão|----|Cimitarra palatina
+Champion's Scimitar|----|Cimitarra Palatina|----|Cimitarra palatina
 
-Warlord's Scimitar|----|Cimitarra do Senhor da Guerra|----|Cimitarra soberana
+Warlord's Scimitar|----|Cimitarra Soberana|----|Cimitarra soberana
 
 Divine Scimitar|----|Cimitarra Celestial|----|Cimitarra celestial
 
 Draconile Scimitar|----|Cimitarra Draconiana|----|Cimitarra draconiana
 
-Prismic Scimitar|----|Cimitarra Prismática|----|Cimitarra cristalina
+Prismic Scimitar|----|Cimitarra Cristalina|----|Cimitarra cristalina
 
 Damascene Scimitar|----|Cimitarra Damascena|----|Cimitarra repujada
 
@@ -24976,9 +24976,9 @@ Superlative Demonblade|----|Espada Demoníaca Excepcional|----|Diablesa excepcio
 
 Flame Demonblade|----|Espada Demoníaca Incandescente|----|Diablesa flamígera
 
-Storm Demonblade|----|Espada Demoníaca da Tormenta|----|Diablesa tormentosa
+Storm Demonblade|----|Espada Demoníaca Tormentosa|----|Diablesa tormentosa
 
-Frost Demonblade|----|Espada Demoníaca de Gelo|----|Diablesa glacial
+Frost Demonblade|----|Espada Demoníaca Glacial|----|Diablesa glacial
 
 Caustic Demonblade|----|Espada Demoníaca Corrosiva|----|Diablesa corrosiva
 
@@ -24992,7 +24992,7 @@ Auld Demonblade|----|Espada Demoníaca Ancestral|----|Diablesa ancestral
 
 Wingclipper|----|Cortaasas|----|Cortaplumas
 
-Easternlord|----|Senhor do Oriente|----|Dragón de oriente
+Easternlord|----|Dragão do Oriente|----|Dragón de oriente
 
 Mistcutter|----|Kasumi|----|Kasumi
 
@@ -25016,7 +25016,7 @@ Ninja Uchigatana|----|Uchigatana de Ninja|----|Kujira de ninja
 
 Shogun Uchigatana|----|Uchigatana de Shogun|----|Kujira de shogun
 
-Sacred Uchigatana|----|Uchigatana Sagrada |----|Kujira sagrada
+Sacred Uchigatana|----|Uchigatana Sagrada|----|Kujira sagrada
 
 Wyrm Uchigatana|----|Uchigatana Mordedora|----|Kujira mordedora
 
@@ -25040,21 +25040,21 @@ Hatchet|----|Machadinha|----|Hachuela
 
 Combat Hatchet|----|Machadinha de Combate|----|Hachuela castrense
 
-Warrior's Hatchet|----|Machadinha do Guerreiro|----|Hachuela militar
+Warrior's Hatchet|----|Machadinha Militar|----|Hachuela militar
 
-Commander's Hatchet|----|Machadinha do Comandante|----|Hachuela señorial
+Commander's Hatchet|----|Machadinha Senhorial|----|Hachuela señorial
 
 Elite's Hatchet|----|Machadinha de Elite|----|Hachuela selecta
 
-Champion's Hatchet|----|Machadinha do Campeão|----|Hachuela palatina
+Champion's Hatchet|----|Machadinha Palatina|----|Hachuela palatina
 
-Warlord's Hatchet|----|Machadinha do Senhor da Guerra|----|Hachuela soberana
+Warlord's Hatchet|----|Machadinha Soberana|----|Hachuela soberana
 
 Divine Hatchet|----|Machadinha Celestial|----|Hachuela celestial
 
 Draconile Hatchet|----|Machadinha Draconiana|----|Hachuela draconiana
 
-Prismic Hatchet|----|Machadinha Prismática|----|Hachuela cristalina
+Prismic Hatchet|----|Machadinha Cristalina|----|Hachuela cristalina
 
 Damascene Hatchet|----|Machadinha Damascena|----|Hachuela repujada
 
@@ -25064,21 +25064,21 @@ Broadaxe|----|Machado Curto|----|Hacha ancha
 
 Combat Broadaxe|----|Machado Curto de Combate|----|Hacha ancha castrense
 
-Warrior's Broadaxe|----|Machado Curto do Guerreiro|----|Hacha ancha militar
+Warrior's Broadaxe|----|Machado Curto Militar|----|Hacha ancha militar
 
-Commander's Broadaxe|----|Machado Curto do Comandante|----|Hacha ancha señorial
+Commander's Broadaxe|----|Machado Curto Senhorial|----|Hacha ancha señorial
 
 Elite's Broadaxe|----|Machado Curto de Elite|----|Hacha ancha selecta
 
-Champion's Broadaxe|----|Machado Curto do Campeão|----|Hacha ancha palatina
+Champion's Broadaxe|----|Machado Curto Palatino|----|Hacha ancha palatina
 
-Warlord's Broadaxe|----|Machado Curto do Senhor da Guerra|----|Hacha ancha soberana
+Warlord's Broadaxe|----|Machado Curto Soberano|----|Hacha ancha soberana
 
 Divine Broadaxe|----|Machado Curto Celestial|----|Hacha ancha celestial
 
 Draconile Broadaxe|----|Machado Curto Draconiano|----|Hacha ancha draconiana
 
-Prismic Broadaxe|----|Machado Curto Prismático|----|Hacha ancha cristalina
+Prismic Broadaxe|----|Machado Curto Cristalino|----|Hacha ancha cristalina
 
 Damascene Broadaxe|----|Machado Curto Damasceno|----|Hacha ancha repujada
 
@@ -25094,21 +25094,21 @@ Francisca|----|Francisca|----|Francisca
 
 Combat Francisca|----|Francisca de Combate|----|Francisca castrense
 
-Warrior's Francisca|----|Francisca do Guerreiro|----|Francisca militar
+Warrior's Francisca|----|Francisca Militar|----|Francisca militar
 
-Commander's Francisca|----|Francisca do Comandante|----|Francisca señorial
+Commander's Francisca|----|Francisca Senhorial|----|Francisca señorial
 
 Elite's Francisca|----|Francisca de Elite|----|Francisca selecta
 
-Champion's Francisca|----|Francisca do Campeão|----|Francisca palatina
+Champion's Francisca|----|Francisca Palatina|----|Francisca palatina
 
-Warlord's Francisca|----|Francisca do Senhor da Guerra|----|Francisca soberana
+Warlord's Francisca|----|Francisca Soberana|----|Francisca soberana
 
 Divine Francisca|----|Francisca Celestial|----|Francisca celestial
 
 Draconile Francisca|----|Francisca Draconiana|----|Francisca draconiana
 
-Prismic Francisca|----|Francisca Prismática|----|Francisca cristalina
+Prismic Francisca|----|Francisca Cristalina|----|Francisca cristalina
 
 Damascene Francisca|----|Francisca Damascena|----|Francisca repujada
 
@@ -25118,27 +25118,27 @@ Tomahawk|----|Tomahawk|----|Tomahawk
 
 Combat Tomahawk|----|Tomahawk de Combate|----|Tomahawk castrense
 
-Warrior's Tomahawk|----|Tomahawk do Guerreiro|----|Tomahawk militar
+Warrior's Tomahawk|----|Tomahawk Militar|----|Tomahawk militar
 
-Commander's Tomahawk|----|Tomahawk do Comandante|----|Tomahawk señorial
+Commander's Tomahawk|----|Tomahawk Senhorial|----|Tomahawk señorial
 
-Elite's Tomahawk|----|Tomahawk de Elite |----|Tomahawk selecto
+Elite's Tomahawk|----|Tomahawk de Elite|----|Tomahawk selecto
 
-Champion's Tomahawk|----|Tomahawk do Campeão|----|Tomahawk palatino
+Champion's Tomahawk|----|Tomahawk Palatino|----|Tomahawk palatino
 
-Warlord's Tomahawk|----|Tomahawk do Senhor da Guerra|----|Tomahawk soberano
+Warlord's Tomahawk|----|Tomahawk Soberano|----|Tomahawk soberano
 
 Divine Tomahawk|----|Tomahawk Celestial|----|Tomahawk celestial
 
-Draconile Tomahawk|----|Tomahawk Draconiana|----|Tomahawk draconiano
+Draconile Tomahawk|----|Tomahawk Draconiano|----|Tomahawk draconiano
 
-Prismic Tomahawk|----|Tomahawk Prismática|----|Tomahawk cristalino
+Prismic Tomahawk|----|Tomahawk Cristalino|----|Tomahawk cristalino
 
-Damascene Tomahawk|----|Tomahawk Damascena|----|Tomahawk repujado
+Damascene Tomahawk|----|Tomahawk Damasceno|----|Tomahawk repujado
 
 Auld Tomahawk|----|Tomahawk Ancestral|----|Tomahawk ancestral
 
-Splitter|----|Separadora |----|Leñadora
+Splitter|----|Separadora|----|Leñadora
 
 Superior Splitter|----|Separadora Superior|----|Leñadora superior
 
@@ -25158,9 +25158,9 @@ Superlative Hawkwind|----|Cortaventos Excepcional|----|Cortavientos excepcional
 
 Flame Hawkwind|----|Cortaventos Incandescente|----|Cortavientos flamígero
 
-Storm Hawkwind|----|Cortaventos da Tormenta|----|Cortavientos tormentoso
+Storm Hawkwind|----|Cortaventos Tormentoso|----|Cortavientos tormentoso
 
-Frost Hawkwind|----|Cortaventos de Gelo|----|Cortavientos glacial
+Frost Hawkwind|----|Cortaventos Glacial|----|Cortavientos glacial
 
 Caustic Hawkwind|----|Cortaventos Corrosiva|----|Cortavientos corrosivo
 
@@ -25184,23 +25184,23 @@ Tabar-Zin|----|Tabar-Zin|----|Segur
 
 Combat Tabar-Zin|----|Tabar-Zin de Combate|----|Segur castrense
 
-Warrior's Tabar-Zin|----|Tabar-Zin do Guerreiro|----|Segur militar
+Warrior's Tabar-Zin|----|Tabar-Zin Militar|----|Segur militar
 
-Commander's Tabar-Zin|----|Tabar-Zin do Comandante|----|Segur señorial
+Commander's Tabar-Zin|----|Tabar-Zin Senhorial|----|Segur señorial
 
 Elite's Tabar-Zin|----|Tabar-Zin de Elite|----|Segur selecto
 
-Champion's Tabar-Zin|----|Tabar-Zin do Campeão|----|Segur palatino
+Champion's Tabar-Zin|----|Tabar-Zin Palatino|----|Segur palatino
 
-Warlord's Tabar-Zin|----|Tabar-Zin do Senhor da Guerra|----|Segur soberano
+Warlord's Tabar-Zin|----|Tabar-Zin Soberano|----|Segur soberano
 
 Divine Tabar-Zin|----|Tabar-Zin Celestial|----|Segur celestial
 
-Draconile Tabar-Zin|----|Tabar-Zin Draconiana|----|Segur draconiano
+Draconile Tabar-Zin|----|Tabar-Zin Draconiano|----|Segur draconiano
 
-Prismic Tabar-Zin|----|Tabar-Zin Prismática|----|Segur cristalino
+Prismic Tabar-Zin|----|Tabar-Zin Cristalino|----|Segur cristalino
 
-Damascene Tabar-Zin|----|Tabar-Zin Damascena|----|Segur repujado
+Damascene Tabar-Zin|----|Tabar-Zin Damasceno|----|Segur repujado
 
 Auld Tabar-Zin|----|Tabar-Zin Ancestral|----|Segur ancestral
 
@@ -25256,21 +25256,21 @@ Grandaxe|----|Machado Gigante|----|Leviatán
 
 Combat Grandaxe|----|Machado Gigante de Combate|----|Leviatán castrense
 
-Warrior's Grandaxe|----|Machado Gigante do Guerreiro|----|Leviatán militar
+Warrior's Grandaxe|----|Machado Gigante Militar|----|Leviatán militar
 
-Commander's Grandaxe|----|Machado Gigante do Comandante|----|Leviatán señorial
+Commander's Grandaxe|----|Machado Gigante Senhorial|----|Leviatán señorial
 
 Elite's Grandaxe|----|Machado Gigante de Elite|----|Leviatán selecto
 
-Champion's Grandaxe|----|Machado Gigante do Campeão|----|Leviatán palatino
+Champion's Grandaxe|----|Machado Gigante Palatino|----|Leviatán palatino
 
-Warlord's Grandaxe|----|Machado Gigante do Senhor da Guerra|----|Leviatán soberano
+Warlord's Grandaxe|----|Machado Gigante Soberano|----|Leviatán soberano
 
 Divine Grandaxe|----|Machado Gigante Celestial|----|Leviatán celestial
 
 Draconile Grandaxe|----|Machado Gigante Draconiano|----|Leviatán draconiano
 
-Prismic Grandaxe|----|Machado Gigante Prismático|----|Leviatán cristalino
+Prismic Grandaxe|----|Machado Gigante Cristalino|----|Leviatán cristalino
 
 Damascene Grandaxe|----|Machado Gigante Damasceno|----|Leviatán repujado
 
@@ -25284,9 +25284,9 @@ Superlative Smiter|----|Erradicadora Excepcional|----|Erradicadora excepcional
 
 Flame Smiter|----|Erradicadora Incandescente|----|Erradicadora flamígera
 
-Storm Smiter|----|Erradicadora da Tormenta|----|Erradicadora tormentosa
+Storm Smiter|----|Erradicadora Tormentosa|----|Erradicadora tormentosa
 
-Frost Smiter|----|Erradicadora de Gelo|----|Erradicadora glacial
+Frost Smiter|----|Erradicadora Glacial|----|Erradicadora glacial
 
 Caustic Smiter|----|Erradicadora Corrosiva|----|Erradicadora corrosiva
 
@@ -25316,21 +25316,21 @@ Dwarf's Grudge|----|Rancor de Anão|----|Rencor de enano
 
 Combat Mace|----|Maça de Combate|----|Maza castrense
 
-Warrior's Mace|----|Maça do Guerreiro|----|Maza militar
+Warrior's Mace|----|Maça Militar|----|Maza militar
 
-Commander's Mace|----|Maça do Comandante|----|Maza señorial
+Commander's Mace|----|Maça Senhorial|----|Maza señorial
 
 Elite's Mace|----|Maça de Elite|----|Maza selecta
 
-Champion's Mace|----|Maça do Campeão|----|Maza palatina
+Champion's Mace|----|Maça Palatina|----|Maza palatina
 
-Warlord's Mace|----|Maça do Senhor da Guerra|----|Maza soberana
+Warlord's Mace|----|Maça Soberana|----|Maza soberana
 
 Divine Mace|----|Maça Celestial|----|Maza celestial
 
 Draconile Mace|----|Maça Draconiana|----|Maza draconiana
 
-Prismic Mace|----|Maça Prismática|----|Maza cristalina
+Prismic Mace|----|Maça Cristalina|----|Maza cristalina
 
 Damascene Mace|----|Maça Damascena|----|Maza repujada
 
@@ -25344,9 +25344,9 @@ Superlative Morningstar|----|Estrela da Manhã Excepcional|----|Lucero excepcion
 
 Flame Morningstar|----|Estrela da Manhã Incandescente|----|Lucero flamígero
 
-Storm Morningstar|----|Estrela da Manhã da Tormenta|----|Lucero tormentoso
+Storm Morningstar|----|Estrela da Manhã Tormentosa|----|Lucero tormentoso
 
-Frost Morningstar|----|Estrela da Manhã de Gelo|----|Lucero glacial
+Frost Morningstar|----|Estrela da Manhã Glacial|----|Lucero glacial
 
 Caustic Morningstar|----|Estrela da Manhã Corrosiva|----|Lucero corrosivo
 
@@ -25366,23 +25366,23 @@ Royotian|----|Mestre de Royotia|----|Maestre de Royotia
 
 Striker|----|Atacante|----|Cuña
 
-Combat Striker|----|Atacante de Combat|----|Cuña castrense
+Combat Striker|----|Atacante de Combate|----|Cuña castrense
 
-Warrior's Striker|----|Atacante do Guerreiro|----|Cuña militar
+Warrior's Striker|----|Atacante Militar|----|Cuña militar
 
-Commander's Striker|----|Atacante do Comandante|----|Cuña señorial
+Commander's Striker|----|Atacante Senhorial|----|Cuña señorial
 
 Elite's Striker|----|Atacante de Elite|----|Cuña selecta
 
-Champion's Striker|----|Atacante do Campeão|----|Cuña palatina
+Champion's Striker|----|Atacante Palatino|----|Cuña palatina
 
-Warlord's Striker|----|Atacante do Senhor da Guerra|----|Cuña soberana
+Warlord's Striker|----|Atacante Soberano|----|Cuña soberana
 
 Divine Striker|----|Atacante Celestial|----|Cuña celestial
 
 Draconile Striker|----|Atacante Draconiano|----|Cuña draconiana
 
-Prismic Striker|----|Atacante Prismático|----|Cuña cristalina
+Prismic Striker|----|Atacante Cristalino|----|Cuña cristalina
 
 Damascene Striker|----|Atacante Damasceno|----|Cuña repujada
 
@@ -25392,21 +25392,21 @@ Club|----|Clava|----|Garrote
 
 Combat Club|----|Clava de Combate|----|Garrote castrense
 
-Warrior's Club|----|Clava do Guerreiro|----|Garrote militar
+Warrior's Club|----|Clava Militar|----|Garrote militar
 
-Commander's Club|----|Clava do Comandante|----|Garrote señorial
+Commander's Club|----|Clava Senhorial|----|Garrote señorial
 
 Elite's Club|----|Clava de Elite|----|Garrote selecto
 
-Champion's Club|----|Clava do Campeão|----|Garrote palatino
+Champion's Club|----|Clava Palatina|----|Garrote palatino
 
-Warlord's Club|----|Clava do Senhor da Guerra|----|Garrote soberano
+Warlord's Club|----|Clava Soberana|----|Garrote soberano
 
 Divine Club|----|Clava Celestial|----|Garrote celestial
 
 Draconile Club|----|Clava Draconiana|----|Garrote draconiano
 
-Prismic Club|----|Clava Prismática|----|Garrote cristalino
+Prismic Club|----|Clava Cristalina|----|Garrote cristalino
 
 Damascene Club|----|Clava Damascena|----|Garrote repujado
 
@@ -25434,21 +25434,21 @@ Spriggan's Scourge|----|Flagelo do Fauno|----|Azote del fauno
 
 Combat Sledgehammer|----|Marreta de Combate|----|Almádena castrense
 
-Warrior's Sledgehammer|----|Marreta do Guerreiro|----|Almádena militar
+Warrior's Sledgehammer|----|Marreta Militar|----|Almádena militar
 
-Commander's Sledgehammer|----|Marreta do Comandante|----|Almádena señorial
+Commander's Sledgehammer|----|Marreta Senhorial|----|Almádena señorial
 
 Elite's Sledgehammer|----|Marreta de Elite|----|Almádena selecta
 
-Champion's Sledgehammer|----|Marreta do Campeão|----|Almádena palatina
+Champion's Sledgehammer|----|Marreta Palatina|----|Almádena palatina
 
-Warlord's Sledgehammer|----|Marreta do Senhor da Guerra|----|Almádena soberana
+Warlord's Sledgehammer|----|Marreta Soberana|----|Almádena soberana
 
 Divine Sledgehammer|----|Marreta Celestial|----|Almádena celestial
 
 Draconile Sledgehammer|----|Marreta Draconiana|----|Almádena draconiana
 
-Prismic Sledgehammer|----|Marreta Prismática|----|Almádena cristalina
+Prismic Sledgehammer|----|Marreta Cristalina|----|Almádena cristalina
 
 Damascene Sledgehammer|----|Marreta Damascena|----|Almádena repujada
 
@@ -25458,21 +25458,21 @@ Auld Sledgehammer|----|Marreta Ancestral|----|Almádena ancestral
 
 Combat Bludgeon|----|Porrete de Combate|----|Porra castrense
 
-Warrior's Bludgeon|----|Porrete do Guerreiro|----|Porra militar
+Warrior's Bludgeon|----|Porrete Militar|----|Porra militar
 
-Commander's Bludgeon|----|Porrete do Comandante|----|Porra señorial
+Commander's Bludgeon|----|Porrete Senhorial|----|Porra señorial
 
 Elite's Bludgeon|----|Porrete de Elite|----|Porra selecta
 
-Champion's Bludgeon|----|Porrete do Campeão|----|Porra palatina
+Champion's Bludgeon|----|Porrete Palatino|----|Porra palatina
 
-Warlord's Bludgeon|----|Porrete do Senhor da Guerra|----|Porra soberana
+Warlord's Bludgeon|----|Porrete Soberano|----|Porra soberana
 
 Divine Bludgeon|----|Porrete Celestial|----|Porra celestial
 
 Draconile Bludgeon|----|Porrete Draconiano|----|Porra draconiana
 
-Prismic Bludgeon|----|Porrete Prismático|----|Porra cristalina
+Prismic Bludgeon|----|Porrete Cristalino|----|Porra cristalina
 
 Damascene Bludgeon|----|Porrete Damasceno|----|Porra repujada
 
@@ -25498,9 +25498,9 @@ Superlative Blackjack|----|Clava Negra Excepcional|----|Cachiporra excepcional
 
 Flame Blackjack|----|Clava Negra Incandescente|----|Cachiporra flamígera
 
-Storm Blackjack|----|Clava Negra da Tormenta|----|Cachiporra tormentosa
+Storm Blackjack|----|Clava Negra Tormentosa|----|Cachiporra tormentosa
 
-Frost Blackjack|----|Clava Negra de Gelo|----|Cachiporra glacial
+Frost Blackjack|----|Clava Negra Glacial|----|Cachiporra glacial
 
 Caustic Blackjack|----|Clava Negra Corrosiva|----|Cachiporra corrosiva
 
@@ -25526,21 +25526,21 @@ Grandhammer|----|Martelo Gigante|----|Rorcual
 
 Combat Grandhammer|----|Martelo Gigante de Combate|----|Rorcual castrense
 
-Warrior's Grandhammer|----|Martelo Gigante do Guerreiro|----|Rorcual militar
+Warrior's Grandhammer|----|Martelo Gigante Militar|----|Rorcual militar
 
-Commander's Grandhammer|----|Martelo Gigante do Comandante|----|Rorcual señorial
+Commander's Grandhammer|----|Martelo Gigante Senhorial|----|Rorcual señorial
 
 Elite's Grandhammer|----|Martelo Gigante de Elite|----|Rorcual selecto
 
-Champion's Grandhammer|----|Martelo Gigante do Campeão|----|Rorcual palatino
+Champion's Grandhammer|----|Martelo Gigante Palatino|----|Rorcual palatino
 
-Warlord's Grandhammer|----|Martelo Gigante do Senhor da Guerra|----|Rorcual soberano
+Warlord's Grandhammer|----|Martelo Gigante Soberano|----|Rorcual soberano
 
 Divine Grandhammer|----|Martelo Gigante Celestial|----|Rorcual celestial
 
 Draconile Grandhammer|----|Martelo Gigante Draconiano|----|Rorcual draconiano
 
-Prismic Grandhammer|----|Martelo Gigante Prismático|----|Rorcual cristalino
+Prismic Grandhammer|----|Martelo Gigante Cristalino|----|Rorcual cristalino
 
 Damascene Grandhammer|----|Martelo Gigante Damasceno|----|Rorcual repujado
 
@@ -25550,21 +25550,21 @@ Grandclub|----|Clava Gigante|----|Beluga
 
 Combat Grandclub|----|Clava Gigante de Combate|----|Beluga castrense
 
-Warrior's Grandclub|----|Clava Gigante do Guerreiro|----|Beluga militar
+Warrior's Grandclub|----|Clava Gigante Militar|----|Beluga militar
 
-Commander's Grandclub|----|Clava Gigante do Comandante|----|Beluga señorial
+Commander's Grandclub|----|Clava Gigante Senhorial|----|Beluga señorial
 
 Elite's Grandclub|----|Clava Gigante de Elite|----|Beluga selecto
 
-Champion's Grandclub|----|Clava Gigante do Campeão|----|Beluga palatino
+Champion's Grandclub|----|Clava Gigante Paladina|----|Beluga palatino
 
-Warlord's Grandclub|----|Clava Gigante do Senhor da Guerra|----|Beluga soberano
+Warlord's Grandclub|----|Clava Gigante Soberana|----|Beluga soberano
 
 Divine Grandclub|----|Clava Gigante Celestial|----|Beluga celestial
 
 Draconile Grandclub|----|Clava Gigante Draconiana|----|Beluga draconiano
 
-Prismic Grandclub|----|Clava Gigante Prismática|----|Beluga cristalino
+Prismic Grandclub|----|Clava Gigante Cristalina|----|Beluga cristalino
 
 Damascene Grandclub|----|Clava Gigante Damascena|----|Beluga repujado
 
@@ -25578,9 +25578,9 @@ Superlative Bigbang|----|Estrondoso Excepcional|----|Big-Bang excepcional
 
 Flame Bigbang|----|Estrondoso Incandescente|----|Big-Bang flamígero
 
-Storm Bigbang|----|Estrondoso da Tormenta|----|Big-Bang tormentoso
+Storm Bigbang|----|Estrondoso Tormentoso|----|Big-Bang tormentoso
 
-Frost Bigbang|----|Estrondoso de Gelo|----|Big-Bang glacial
+Frost Bigbang|----|Estrondoso Glacial|----|Big-Bang glacial
 
 Caustic Bigbang|----|Estrondoso Corrosivo|----|Big-Bang corrosivo
 
@@ -25606,21 +25606,21 @@ Pike|----|Lança Curta|----|Pica
 
 Combat Pike|----|Lança Curta de Combate|----|Pica castrense
 
-Warrior's Pike|----|Lança Curta do Guerreiro|----|Pica militar
+Warrior's Pike|----|Lança Curta Militar|----|Pica militar
 
-Commander's Pike|----|Lança Curta do Comandante|----|Pica señorial
+Commander's Pike|----|Lança Curta Senhorial|----|Pica señorial
 
 Elite's Pike|----|Lança Curta de Elite|----|Pica selecta
 
-Champion's Pike|----|Lança Curta do Campeão|----|Pica palatina
+Champion's Pike|----|Lança Curta Palatina|----|Pica palatina
 
-Warlord's Pike|----|Lança Curta do Senhor da Guerra|----|Pica soberana
+Warlord's Pike|----|Lança Curta Soberana|----|Pica soberana
 
 Divine Pike|----|Lança Curta Celestial|----|Pica celestial
 
 Draconile Pike|----|Lança Curta Draconiana|----|Pica draconiana
 
-Prismic Pike|----|Lança Curta Prismática|----|Pica cristalina
+Prismic Pike|----|Lança Curta Cristalina|----|Pica cristalina
 
 Damascene Pike|----|Lança Curta Damascena|----|Pica repujada
 
@@ -25648,45 +25648,45 @@ Lance|----|Lança|----|Lanza
 
 Combat Lance|----|Lança de Combate|----|Lanza castrense
 
-Warrior's Lance|----|Lança do Guerreiro|----|Lanza militar
+Warrior's Lance|----|Lança Militar|----|Lanza militar
 
-Commander's Lance|----|Lança do Comandante|----|Lanza señorial
+Commander's Lance|----|Lança Senhorial|----|Lanza señorial
 
 Elite's Lance|----|Lança de Elite|----|Lanza selecta
 
-Champion's Lance|----|Lança do Campeão|----|Lanza palatina
+Champion's Lance|----|Lança Palatina|----|Lanza palatina
 
-Warlord's Lance|----|Lança do Senhor da Guerra|----|Lanza soberana
+Warlord's Lance|----|Lança Soberana|----|Lanza soberana
 
 Divine Lance|----|Lança Celestial|----|Lanza celestial
 
 Draconile Lance|----|Lança Draconiana|----|Lanza draconiana
 
-Prismic Lance|----|Lança Prismática|----|Lanza cristalina
+Prismic Lance|----|Lança Cristalina|----|Lanza cristalina
 
 Damascene Lance|----|Lança Damascena|----|Lanza repujada
 
 Auld Lance|----|Lança Ancestral|----|Lanza ancestral
 
-(REPETIDO)Spear|----|Lança|----|Venablo
+(REPETIDO)Spear|----|Lança Longa|----|Venablo
 
 Combat Spear|----|Lança Longa de Combate|----|Venablo castrense
 
-Warrior's Spear|----|Lança Longa do Guerreiro|----|Venablo militar
+Warrior's Spear|----|Lança Longa Militar|----|Venablo militar
 
-Commander's Spear|----|Lança Longa do Comandante|----|Venablo señorial
+Commander's Spear|----|Lança Longa Senhorial|----|Venablo señorial
 
 Elite's Spear|----|Lança Longa de Elite|----|Venablo selecto
 
-Champion's Spear|----|Lança Longa do Campeão|----|Venablo palatino
+Champion's Spear|----|Lança Longa Palatina|----|Venablo palatino
 
-Warlord's Spear|----|Lança Longa do Senhor da Guerra|----|Venablo soberano
+Warlord's Spear|----|Lança Longa Soberana|----|Venablo soberano
 
 Divine Spear|----|Lança Longa Celestial|----|Venablo celestial
 
 Draconile Spear|----|Lança Longa Draconiana|----|Venablo draconiano
 
-Prismic Spear|----|Lança Longa Prismática|----|Venablo cristalino
+Prismic Spear|----|Lança Longa Cristalina|----|Venablo cristalino
 
 Damascene Spear|----|Lança Longa Damascena|----|Venablo repujado
 
@@ -25718,25 +25718,25 @@ Brownie's Ire|----|Ira das Dríades|----|Ira de las dríadas
 
 Celapaleian|----|Espigão de Celapalais|----|Pica de Celapalais
 
-Halberd|----|Alabarda |----|Alabarda
+Halberd|----|Alabarda|----|Alabarda
 
 Combat Halberd|----|Alabarda de Combate|----|Alabarda castrense
 
-Warrior's Halberd|----|Alabarda do Guerreiro|----|Alabarda militar
+Warrior's Halberd|----|Alabarda Militar|----|Alabarda militar
 
-Commander's Halberd|----|Alabarda do Comandante|----|Alabarda señorial
+Commander's Halberd|----|Alabarda Senhorial|----|Alabarda señorial
 
 Elite's Halberd|----|Alabarda de Elite|----|Alabarda selecta
 
-Champion's Halberd|----|Alabarda do Campeão|----|Alabarda palatina
+Champion's Halberd|----|Alabarda Palatina|----|Alabarda palatina
 
-Warlord's Halberd|----|Alabarda do Senhor da Guerra|----|Alabarda soberana
+Warlord's Halberd|----|Alabarda Soberana|----|Alabarda soberana
 
 Divine Halberd|----|Alabarda Celestial|----|Alabarda celestial
 
 Draconile Halberd|----|Alabarda Draconiana|----|Alabarda draconiana
 
-Prismic Halberd|----|Alabarda Prismática|----|Alabarda cristalina
+Prismic Halberd|----|Alabarda Cristalina|----|Alabarda cristalina
 
 Damascene Halberd|----|Alabarda Damascena|----|Alabarda repujada
 
@@ -25746,21 +25746,21 @@ Auld Halberd|----|Alabarda Ancestral|----|Alabarda ancestral
 
 Combat Trident|----|Tridente de Combate|----|Tridente castrense
 
-Warrior's Trident|----|Tridente do Guerreiro|----|Tridente militar
+Warrior's Trident|----|Tridente Militar|----|Tridente militar
 
-Commander's Trident|----|Tridente do Comandante|----|Tridente señorial
+Commander's Trident|----|Tridente Senhorial|----|Tridente señorial
 
 Elite's Trident|----|Tridente de Elite|----|Tridente selecto
 
-Champion's Trident|----|Tridente do Campeão|----|Tridente palatino
+Champion's Trident|----|Tridente Palatino|----|Tridente palatino
 
-Warlord's Trident|----|Tridente do Senhor da Guerra|----|Tridente soberano
+Warlord's Trident|----|Tridente Soberano|----|Tridente soberano
 
 Divine Trident|----|Tridente Celestial|----|Tridente celestial
 
 Draconile Trident|----|Tridente Draconiano|----|Tridente draconiano
 
-Prismic Trident|----|Tridente Prismático|----|Tridente cristalino
+Prismic Trident|----|Tridente Cristalino|----|Tridente cristalino
 
 Damascene Trident|----|Tridente Damasceno|----|Tridente repujado
 
@@ -25786,9 +25786,9 @@ Superlative Glaive|----|Gládio Excepcional|----|Guja excepcional
 
 Flame Glaive|----|Gládio Incandescente|----|Guja flamígera
 
-Storm Glaive|----|Gládio da Tormenta|----|Guja tormentosa
+Storm Glaive|----|Gládio Tormentoso|----|Guja tormentosa
 
-Frost Glaive|----|Gládio de Gelo|----|Guja glacial
+Frost Glaive|----|Gládio Glacial|----|Guja glacial
 
 Caustic Glaive|----|Gládio Corrosivo|----|Guja corrosiva
 
@@ -25816,21 +25816,21 @@ Harpoon|----|Arpão|----|Arpón
 
 Combat Harpoon|----|Arpão de Combate|----|Arpón castrense
 
-Warrior's Harpoon|----|Arpão do Guerreiro|----|Arpón militar
+Warrior's Harpoon|----|Arpão Militar|----|Arpón militar
 
-Commander's Harpoon|----|Arpão do Comandante|----|Arpón señorial
+Commander's Harpoon|----|Arpão Senhorial|----|Arpón señorial
 
 Elite's Harpoon|----|Arpão de Elite|----|Arpón selecto
 
-Champion's Harpoon|----|Arpão do Campeão|----|Arpón palatino
+Champion's Harpoon|----|Arpão Palatino|----|Arpón palatino
 
-Warlord's Harpoon|----|Arpão do Senhor da Guerra|----|Arpón soberano
+Warlord's Harpoon|----|Arpão Soberano|----|Arpón soberano
 
 Divine Harpoon|----|Arpão Celestial|----|Arpón celestial
 
 Draconile Harpoon|----|Arpão Draconiano|----|Arpón draconiano
 
-Prismic Harpoon|----|Arpão Prismático|----|Arpón cristalino
+Prismic Harpoon|----|Arpão Cristalino|----|Arpón cristalino
 
 Damascene Harpoon|----|Arpão Damasceno|----|Arpón repujado
 
@@ -25856,7 +25856,7 @@ Parrying Naginata|----|Naginata de Defesa|----|Naginata de defensa
 
 Aura Naginata|----|Naginata Encantada|----|Naginata encantada
 
-Ancient Naginata|----|Naginata Lendária |----|Naginata legendaria
+Ancient Naginata|----|Naginata Lendária|----|Naginata legendaria
 
 Gigaspear|----|Lança de Gigante|----|Venablo de gigante
 
@@ -25872,21 +25872,21 @@ Rod|----|Bastão|----|Palo
 
 Combat Rod|----|Bastão de Combate|----|Palo castrense
 
-Warrior's Rod|----|Bastão do Guerreiro|----|Palo militar
+Warrior's Rod|----|Bastão Militar|----|Palo militar
 
-Commander's Rod|----|Bastão do Comandante|----|Palo señorial
+Commander's Rod|----|Bastão Senhorial|----|Palo señorial
 
 Elite's Rod|----|Bastão de Elite|----|Palo selecto
 
-Champion's Rod|----|Bastão do Campeão|----|Palo palatino
+Champion's Rod|----|Bastão Palatino|----|Palo palatino
 
-Warlord's Rod|----|Bastão do Senhor da Guerra|----|Palo soberano
+Warlord's Rod|----|Bastão Soberano|----|Palo soberano
 
 Divine Rod|----|Bastão Celestial|----|Palo celestial
 
 Draconile Rod|----|Bastão Draconiano|----|Palo draconiano
 
-Prismic Rod|----|Bastão Prismático|----|Palo cristalino
+Prismic Rod|----|Bastão Cristalino|----|Palo cristalino
 
 Damascene Rod|----|Bastão Damasceno|----|Palo repujado
 
@@ -25900,9 +25900,9 @@ Superlative Wand|----|Varinha Excepcional|----|Bordón excepcional
 
 Flame Wand|----|Varinha Incandescente|----|Bordón flamígero
 
-Storm Wand|----|Varinha da Tormenta|----|Bordón tormentoso
+Storm Wand|----|Varinha Tormentosa|----|Bordón tormentoso
 
-Frost Wand|----|Varinha de Gelo|----|Bordón glacial
+Frost Wand|----|Varinha Glacial|----|Bordón glacial
 
 Caustic Wand|----|Varinha Corrosiva|----|Bordón corrosivo
 
@@ -25946,21 +25946,21 @@ Cudgel|----|Bastão Médio|----|Báculo
 
 Combat Cudgel|----|Bastão Médio de Combate|----|Báculo castrense
 
-Warrior's Cudgel|----|Bastão Médio do Guerreiro|----|Báculo militar
+Warrior's Cudgel|----|Bastão Médio Militar|----|Báculo militar
 
-Commander's Cudgel|----|Bastão Médio do Comandante|----|Báculo señorial
+Commander's Cudgel|----|Bastão Médio Senhorial|----|Báculo señorial
 
 Elite's Cudgel|----|Bastão Médio de Elite|----|Báculo selecto
 
-Champion's Cudgel|----|Bastão Médio do Campeão|----|Báculo palatino
+Champion's Cudgel|----|Bastão Médio Palatino|----|Báculo palatino
 
-Warlord's Cudgel|----|Bastão Médio do Senhor da Guerra|----|Báculo soberano
+Warlord's Cudgel|----|Bastão Médio Soberano|----|Báculo soberano
 
 Divine Cudgel|----|Bastão Médio Celestial|----|Báculo celestial
 
 Draconile Cudgel|----|Bastão Médio Draconiano|----|Báculo draconiano
 
-Prismic Cudgel|----|Bastão Médio Prismático|----|Báculo cristalino
+Prismic Cudgel|----|Bastão Médio Cristalino|----|Báculo cristalino
 
 Damascene Cudgel|----|Bastão Médio Damasceno|----|Báculo repujado
 
@@ -25970,21 +25970,21 @@ Scepter|----|Cetro|----|Cetro
 
 Combat Scepter|----|Cetro de Combate|----|Cetro castrense
 
-Warrior's Scepter|----|Cetro do Guerreiro|----|Cetro militar
+Warrior's Scepter|----|Cetro Militar|----|Cetro militar
 
-Commander's Scepter|----|Cetro do Comandante|----|Cetro señorial
+Commander's Scepter|----|Cetro Senhorial|----|Cetro señorial
 
 Elite's Scepter|----|Cetro de Elite|----|Cetro selecto
 
-Champion's Scepter|----|Cetro do Campeão|----|Cetro palatino
+Champion's Scepter|----|Cetro Palatino|----|Cetro palatino
 
-Warlord's Scepter|----|Cetro do Senhor da Guerra|----|Cetro soberano
+Warlord's Scepter|----|Cetro Soberano|----|Cetro soberano
 
 Divine Scepter|----|Cetro Celestial|----|Cetro celestial
 
 Draconile Scepter|----|Cetro Draconiano|----|Cetro draconiano
 
-Prismic Scepter|----|Cetro Prismático|----|Cetro cristalino
+Prismic Scepter|----|Cetro Cristalino|----|Cetro cristalino
 
 Damascene Scepter|----|Cetro Damasceno|----|Cetro repujado
 
@@ -26030,11 +26030,11 @@ Cleric's Crook|----|Cajado de Clérigo|----|Báculo de sacerdote
 
 Sword Cane|----|Bastão Estoque|----|Bastón estoque
 
-Casting Cudgel|----|Bastão Médio de Bruxaria|----|Vara de brujería
+Casting Cudgel|----|Vara de Bruxaria|----|Vara de brujería
 
-Sage's Staff|----|Cajado do Sábio|----|Bastón del sabio
+Sage's Staff|----|Bastão do Sábio|----|Bastón del sabio
 
-Eurytus Staff|----|Cajado do Rei|----|Bastón del rey
+Eurytus Staff|----|Bastão do Rei|----|Bastón del rey
 
 Halo Scepter|----|Cetro Boreal|----|Aurora boreal
 
@@ -26046,21 +26046,21 @@ Greatstaff|----|Cajado Místico|----|Cayado
 
 Combat Greatstaff|----|Cajado Místico de Combate|----|Cayado castrense
 
-Warrior's Greatstaff|----|Cajado Místico do Guerreiro|----|Cayado militar
+Warrior's Greatstaff|----|Cajado Místico Militar|----|Cayado militar
 
-Commander's Greatstaff|----|Cajado Místico do Comandante|----|Cayado señorial
+Commander's Greatstaff|----|Cajado Místico Senhorial|----|Cayado señorial
 
 Elite's Greatstaff|----|Cajado Místico de Elite|----|Cayado selecto
 
-Champion's Greatstaff|----|Cajado Místico do Campeão|----|Cayado palatino
+Champion's Greatstaff|----|Cajado Místico Palatino|----|Cayado palatino
 
-Warlord's Greatstaff|----|Cajado Místico do Senhor da Guerra|----|Cayado soberano
+Warlord's Greatstaff|----|Cajado Místico Soberano|----|Cayado soberano
 
 Divine Greatstaff|----|Cajado Místico Celestial|----|Cayado celestial
 
 Draconile Greatstaff|----|Cajado Místico Draconiano|----|Cayado draconiano
 
-Prismic Greatstaff|----|Cajado Místico Prismático|----|Cayado cristalino
+Prismic Greatstaff|----|Cajado Místico Cristalino|----|Cayado cristalino
 
 Damascene Greatstaff|----|Cajado Místico Damasceno|----|Cayado repujado
 
@@ -26098,9 +26098,9 @@ Superlative Caduceus|----|Caduceus Excepcional|----|Caduceo excepcional
 
 Flame Caduceus|----|Caduceus Incandescente|----|Caduceo flamígero
 
-Storm Caduceus|----|Caduceus da Tormenta|----|Caduceo tormentoso
+Storm Caduceus|----|Caduceus Tormentoso|----|Caduceo tormentoso
 
-Frost Caduceus|----|Caduceus de Gelo|----|Caduceo glacial
+Frost Caduceus|----|Caduceus Glacial|----|Caduceo glacial
 
 Caustic Caduceus|----|Caduceus Corrosivo|----|Caduceo corrosivo
 
@@ -26344,21 +26344,21 @@ Buckler|----|Broquel|----|Broquel
 
 Combat Buckler|----|Broquel de Combate|----|Broquel castrense
 
-Warrior's Buckler|----|Broquel do Guerreiro|----|Broquel militar
+Warrior's Buckler|----|Broquel Militar|----|Broquel militar
 
-Commander's Buckler|----|Broquel do Comandante|----|Broquel señorial
+Commander's Buckler|----|Broquel Senhorial|----|Broquel señorial
 
 Elite's Buckler|----|Broquel de Elite|----|Broquel selecto
 
-Champion's Buckler|----|Broquel do Campeão|----|Broquel palatino
+Champion's Buckler|----|Broquel Palatino|----|Broquel palatino
 
-Warlord's Buckler|----|Broquel do Senhor da Guerra|----|Broquel soberano
+Warlord's Buckler|----|Broquel Soberano|----|Broquel soberano
 
 Divine Buckler|----|Broquel Celestial|----|Broquel celestial
 
 Draconile Buckler|----|Broquel Draconiano|----|Broquel draconiano
 
-Prismic Buckler|----|Broquel Prismático|----|Broquel cristalino
+Prismic Buckler|----|Broquel Cristalino|----|Broquel cristalino
 
 Damascene Buckler|----|Broquel Damasceno|----|Broquel repujado
 
@@ -26370,9 +26370,9 @@ Superior Targe|----|Escudo Superior|----|Tarja superior
 
 Superlative Targe|----|Escudo Excepcional|----|Tarja excepcional
 
-Slicing Targe|----|Escudo Pontudo|----|Tarja afilada
+Slicing Targe|----|Escudo Afiado|----|Tarja afilada
 
-Impact Targe|----|Escudo de Impacto|----|Tarja aplastadora
+Impact Targe|----|Escudo Esmagador|----|Tarja aplastadora
 
 Force Targe|----|Escudo Demolidor|----|Tarja demoledora
 
@@ -26390,21 +26390,21 @@ Kiteshield|----|Escudo Alado|----|Cometa
 
 Combat Kiteshield|----|Escudo Alado de Combate|----|Cometa castrense
 
-Warrior's Kiteshield|----|Escudo Alado do Guerreiro|----|Cometa militar
+Warrior's Kiteshield|----|Escudo Alado Militar|----|Cometa militar
 
-Commander's Kiteshield|----|Escudo Alado do Comandante|----|Cometa señorial
+Commander's Kiteshield|----|Escudo Alado Senhorial|----|Cometa señorial
 
 Elite's Kiteshield|----|Escudo Alado de Elite|----|Cometa selecta
 
-Champion's Kiteshield|----|Escudo Alado do Campeão|----|Cometa palatina
+Champion's Kiteshield|----|Escudo Alado Palatino|----|Cometa palatina
 
-Warlord's Kiteshield|----|Escudo Alado do Senhor da Guerra|----|Cometa soberana
+Warlord's Kiteshield|----|Escudo Alado Soberano|----|Cometa soberana
 
 Divine Kiteshield|----|Escudo Alado Celestial|----|Cometa celestial
 
 Draconile Kiteshield|----|Escudo Alado Draconiano|----|Cometa draconiana
 
-Prismic Kiteshield|----|Escudo Alado Prismático|----|Cometa cristalina
+Prismic Kiteshield|----|Escudo Alado Cristalino|----|Cometa cristalina
 
 Damascene Kiteshield|----|Escudo Alado Damasceno|----|Cometa repujada
 
@@ -26442,17 +26442,17 @@ Superlative Soulshield|----|Égide Excepcional|----|Égida excepcional
 
 Flame Soulshield|----|Égide Incandescente|----|Égida flamígera
 
-Storm Soulshield|----|Égide da Tormenta|----|Égida tormentosa
+Storm Soulshield|----|Égide Tormentosa|----|Égida tormentosa
 
-Frost Soulshield|----|Égide de Gelo|----|Égida glacial
+Frost Soulshield|----|Égide Glacial|----|Égida glacial
 
-Caustic Soulshield|----|Égide Corrosivo|----|Égida corrosiva
+Caustic Soulshield|----|Égide Corrosiva|----|Égida corrosiva
 
-Poison Soulshield|----|Égide Envenenado|----|Égida ponzoñosa
+Poison Soulshield|----|Égide Envenenada|----|Égida ponzoñosa
 
-Shielding Soulshield|----|Égide Reforçado|----|Égida protectora
+Shielding Soulshield|----|Égide Reforçada|----|Égida protectora
 
-Enchanted Soulshield|----|Égide Encantado|----|Égida hechizada
+Enchanted Soulshield|----|Égide Encantada|----|Égida hechizada
 
 Auld Soulshield|----|Égide Ancestral|----|Égida ancestral
 
@@ -26462,7 +26462,7 @@ Quadrashield|----|Escudo Quádruplo|----|Cuatricometa
 
 Lowland Shield|----|Guardião das Planícies|----|Guardián de las llanuras
 
-Drakescale Shield|----|Escudo Escama de Dragão|----|Escama de draco
+Drakescale Shield|----|Escama de Dragão|----|Escama de draco
 
 Boggart's Hoard|----|Tesouro do Gnomo|----|Tesoro del gnomo
 
@@ -26472,21 +26472,21 @@ Towershield|----|Pavês|----|Pavés
 
 Combat Towershield|----|Pavês de Combate|----|Pavés castrense
 
-Warrior's Towershield|----|Pavês do Guerreiro|----|Pavés militar
+Warrior's Towershield|----|Pavês Militar|----|Pavés militar
 
-Commander's Towershield|----|Pavês do Comandante|----|Pavés señorial
+Commander's Towershield|----|Pavês Senhorial|----|Pavés señorial
 
 Elite's Towershield|----|Pavês de Elite|----|Pavés selecto
 
-Champion's Towershield|----|Pavês do Campeão|----|Pavés palatino
+Champion's Towershield|----|Pavês Palatino|----|Pavés palatino
 
-Warlord's Towershield|----|Pavês do Senhor da Guerra|----|Pavés soberano
+Warlord's Towershield|----|Pavês Soberano|----|Pavés soberano
 
 Divine Towershield|----|Pavês Celestial|----|Pavés celestial
 
 Draconile Towershield|----|Pavês Draconiano|----|Pavés draconiano
 
-Prismic Towershield|----|Pavês Prismático|----|Pavés cristalino
+Prismic Towershield|----|Pavês Cristalino|----|Pavés cristalino
 
 Damascene Towershield|----|Pavês Damasceno|----|Pavés repujado
 
@@ -26496,21 +26496,21 @@ Heatershield|----|Adarga|----|Adarga
 
 Combat Heatershield|----|Adarga de Combate|----|Adarga castrense
 
-Warrior's Heatershield|----|Adarga do Guerreiro|----|Adarga militar
+Warrior's Heatershield|----|Adarga Militar|----|Adarga militar
 
-Commander's Heatershield|----|Adarga do Comandante|----|Adarga señorial
+Commander's Heatershield|----|Adarga Senhorial|----|Adarga señorial
 
 Elite's Heatershield|----|Adarga de Elite|----|Adarga selecta
 
-Champion's Heatershield|----|Adarga do Campeão|----|Adarga palatina
+Champion's Heatershield|----|Adarga Palatina|----|Adarga palatina
 
-Warlord's Heatershield|----|Adarga do Senhor da Guerra|----|Adarga soberana
+Warlord's Heatershield|----|Adarga Soberana|----|Adarga soberana
 
 Divine Heatershield|----|Adarga Celestial|----|Adarga celestial
 
 Draconile Heatershield|----|Adarga Draconiana|----|Adarga draconiana
 
-Prismic Heatershield|----|Adarga Prismática|----|Adarga cristalina
+Prismic Heatershield|----|Adarga Cristalina|----|Adarga cristalina
 
 Damascene Heatershield|----|Adarga Damascena|----|Adarga repujada
 
@@ -26522,9 +26522,9 @@ Superior Godshield|----|Escudo Celestial Superior|----|Arcángel superior
 
 Superlative Godshield|----|Escudo Celestial Excepcional|----|Arcángel excepcional
 
-Slicing Godshield|----|Escudo Celestial Pontudo|----|Arcángel afilado
+Slicing Godshield|----|Escudo Celestial Afiado|----|Arcángel afilado
 
-Impact Godshield|----|Escudo Celestial de Impacto|----|Arcángel aplastador
+Impact Godshield|----|Escudo Celestial Esmagador|----|Arcángel aplastador
 
 Force Godshield|----|Escudo Celestial Demolidor|----|Arcángel demoledor
 
@@ -26576,9 +26576,9 @@ Superlative Nethershield|----|Apanhador de Sonhos Excepcional|----|Atrapasueños
 
 Flame Nethershield|----|Apanhador de Sonhos Incandescente|----|Atrapasueños flamígero
 
-Storm Nethershield|----|Apanhador de Sonhos da Tormenta|----|Atrapasueños tormentoso
+Storm Nethershield|----|Apanhador de Sonhos Tormentoso|----|Atrapasueños tormentoso
 
-Frost Nethershield|----|Apanhador de Sonhos de Gelo|----|Atrapasueños glacial
+Frost Nethershield|----|Apanhador de Sonhos Glacial|----|Atrapasueños glacial
 
 Caustic Nethershield|----|Apanhador de Sonhos Corrosivo|----|Atrapasueños corrosivo
 
@@ -26590,7 +26590,7 @@ Enchanted Nethershield|----|Apanhador de Sonhos Encantado|----|Atrapasueños hec
 
 Auld Nethershield|----|Apanhador de Sonhos Ancestral|----|Atrapasueños ancestral
 
-Shieldisk|----|Escudo Alvo|----|Escudo diana
+Shieldisk|----|Escudo Redondo|----|Escudo diana
 
 Celestial Carapace|----|Carapaça Celestial|----|Caparazón celestial
 
@@ -26602,7 +26602,7 @@ Superlative Necklace|----|Colar Excepcional|----|Collar excepcional
 
 Draconile Necklace|----|Colar Draconiano|----|Collar draconiano
 
-Prismic Necklace|----|Colar Prismático|----|Collar cristalino
+Prismic Necklace|----|Colar Cristalino|----|Collar cristalino
 
 Damascene Necklace|----|Colar Damasceno|----|Collar repujado
 
@@ -26656,7 +26656,7 @@ Superlative Ring|----|Anel Excepcional|----|Anillo excepcional
 
 Draconile Ring|----|Anel Draconiano|----|Anillo draconiano
 
-Prismic Ring|----|Anel Prismático|----|Anillo cristalino
+Prismic Ring|----|Anel Cristalino|----|Anillo cristalino
 
 Damascene Ring|----|Anel Damasceno|----|Anillo repujado
 
@@ -26684,7 +26684,7 @@ Ring of Girding|----|Anel Reluzente|----|Anillo reluciente
 
 Ring of Goring|----|Anel da Dor|----|Anillo hiriente
 
-Ring of Growling|----|Anel de Presa|----|Anillo mordedor
+Ring of Growling|----|Anel Mordedor|----|Anillo mordedor
 
 Ring of Grinding|----|Anel Triturador|----|Anillo triturador
 
@@ -26716,7 +26716,7 @@ Premier Bracelet|----|Bracelete Precioso|----|Brazalete precioso
 
 Draconile Bracelet|----|Bracelete Draconiano|----|Brazalete draconiano
 
-Prismic Bracelet|----|Bracelete Prismático|----|Brazalete cristalino
+Prismic Bracelet|----|Bracelete Cristalino|----|Brazalete cristalino
 
 Damascene Bracelet|----|Bracelete Damasceno|----|Brazalete repujado
 
@@ -26776,7 +26776,7 @@ Premier Earring|----|Brinco Precioso|----|Pendiente precioso
 
 Draconile Earring|----|Brinco Draconiano|----|Pendiente draconiano
 
-Prismic Earring|----|Brinco Prismático|----|Pendiente cristalino
+Prismic Earring|----|Brinco Cristalino|----|Pendiente cristalino
 
 Damascene Earring|----|Brinco Damasceno|----|Pendiente repujado
 
@@ -26788,7 +26788,7 @@ Sapphire Solitaire|----|Solitário de Safira|----|Solitario de zafiro
 
 Ivory Solitaire|----|Solitário de Marfim|----|Solitario de marfil
 
-Stormcloud Bolt|----|Seta da Tormenta|----|Saeta de la tormenta
+Stormcloud Bolt|----|Seta Tormentosa|----|Saeta de la tormenta
 
 Spriggan's Bounty|----|Tesouro de Fauno|----|Tesoro de fauno
 
@@ -26806,7 +26806,7 @@ Earring of Girding|----|Brinco Reluzente|----|Pendiente reluciente
 
 Earring of Goring|----|Brinco da Dor|----|Pendiente hiriente
 
-Earring of Growling|----|Brinco de Presa|----|Pendiente mordedor
+Earring of Growling|----|Brinco Mordedor|----|Pendiente mordedor
 
 Earring of Grinding|----|Brinco Triturador|----|Pendiente triturador
 
@@ -26890,7 +26890,7 @@ Premier Greaves|----|Perneiras Preciosas|----|Grebas preciosas
 
 Draconile Anklet|----|Tornozeleira Draconiana|----|Tobillera draconiana
 
-Prismic Anklet|----|Tornozeleira Prismática|----|Tobillera cristalina
+Prismic Anklet|----|Tornozeleira Cristalina|----|Tobillera cristalina
 
 Damascene Anklet|----|Tornozeleira Damascena|----|Tobillera repujada
 
@@ -26914,7 +26914,7 @@ Greaves of Garnishing|----|Perneiras Decorativas|----|Grebas decorativas
 
 Greaves of Goring|----|Perneiras da Dor|----|Grebas hirientes
 
-Greaves of Growling|----|Perneiras de Presa|----|Grebas mordedoras
+Greaves of Growling|----|Perneiras Mordedoras|----|Grebas mordedoras
 
 Greaves of Grinding|----|Perneiras Trituradoras|----|Grebas trituradoras
 
@@ -26940,7 +26940,7 @@ Premier Amulet|----|Amuleto Precioso|----|Amuleto precioso
 
 Draconile Amulet|----|Amuleto Draconiano|----|Amuleto draconiano
 
-Prismic Amulet|----|Amuleto Prismático|----|Amuleto cristalino
+Prismic Amulet|----|Amuleto Cristalino|----|Amuleto cristalino
 
 Damascene Amulet|----|Amuleto Damasceno|----|Amuleto repujado
 
@@ -26952,7 +26952,7 @@ Idol Amulet|----|Amuleto de Ídolo|----|Amuleto totémico
 
 Charm of Goring|----|Talismã da Dor|----|Talismán hiriente
 
-Charm of Growling|----|Talismã de Presa|----|Talismán mordedor
+Charm of Growling|----|Talismã Mordedor|----|Talismán mordedor
 
 Charm of Grinding|----|Talismã Triturador|----|Talismán triturador
 
@@ -26980,9 +26980,9 @@ Holy Relic|----|Relíquia Sagrada|----|Emblema celestial
 
 Flame Cameo|----|Broche Incandescente|----|Hebilla de llamas
 
-Storm Cameo|----|Broche da Tormenta|----|Hebilla relámpago
+Storm Cameo|----|Broche Tormentoso|----|Hebilla relámpago
 
-Frost Cameo|----|Broche de Gelo|----|Hebilla escarchada
+Frost Cameo|----|Broche Glacial|----|Hebilla escarchada
 
 Lytic Brooch|----|Broche Ácido|----|Broche ácido
 
@@ -27088,15 +27088,15 @@ Beak/Lunge|----|Bicada|----|Picotazo
 
 (REPETIDO)Spear|----|Lança|----|Lanza
 
-(REPETIDO)Staff|----|Cajado|----|Bastón
+(REPETIDO)Staff|----|Bastão|----|Bastón
 
-(REPETIDO)Staff|----|Cajado|----|Bastón
+(REPETIDO)Staff|----|Bastão|----|Bastón
 
-(REPETIDO)Staff|----|Cajado|----|Bastón
+(REPETIDO)Staff|----|Bastão|----|Bastón
 
-(REPETIDO)Staff|----|Cajado|----|Bastón
+(REPETIDO)Staff|----|Bastão|----|Bastón
 
-(REPETIDO)Staff|----|Cajado|----|Bastón
+(REPETIDO)Staff|----|Bastão|----|Bastón
 
 (REPETIDO)Shield|----|Escudo|----|Escudo
 
@@ -27344,7 +27344,7 @@ Returning of Souls|----|Almas Retornadas|----|Almas retornadas
 
 Gwayn's Bellow|----|O Rugido do Gwayn|----|El rugido del Gwayn
 
-The Summoned and the Summoners|----|O Convocado e os Convocantes|----|Convocación
+The Summoned and the Summoners|----|Convocação|----|Convocación
 
 For Our Lord|----|Pelo Nosso Senhor|----|Por nuestro Señor
 
@@ -27626,11 +27626,11 @@ Melphina Certificate of Gratitude|----|Certificado de Gratidão de Melphina|----
 
 Plateau Key|----|Chave da Planície|----|Llave de las llanuras
 
-Breath of the Omnipotent|----|Sopro do Onipotente|----|Hálito del Todopoderoso
+Breath of the Omnipotent|----|Sopro do Todo-Poderoso|----|Hálito del Todopoderoso
 
 Sword of Remembrance|----|Espada da Lembrança|----|Espada de la memoria
 
-Staff of Remembrance|----|Cajado da Lembrança|----|Bastón de la memoria
+Staff of Remembrance|----|Bastão da Lembrança|----|Bastón de la memoria
 
 Bandanna of Remembrance|----|Bandana da Lembrança|----|Pañoleta de la memoria
 
@@ -27674,7 +27674,7 @@ Snowflake|----|Flocos de Neve|----|Copo de nieve
 
 Tarnished Earring|----|Brinco Escurecido|----|Pendiente oxidado
 
-Mojcado Key|----|Chave de Mojcado |----|Llave de Muscato
+Mojcado Key|----|Chave de Mojcado|----|Llave de Muscato
 
 Ves Salia|----|Ves Salia|----|Ves Salia
 
@@ -27722,7 +27722,7 @@ Letter from Home|----|Carta Misteriosa|----|Carta misteriosa
 
 Dream's Edge|----|O Limite dos Sonhos|----|Filo de los sueños
 
-Secret Letter|----|Carta Secreta|----|Mensaje secreto
+Secret Letter|----|Mensagem Secreta|----|Mensaje secreto
 
 Honor of Oath|----|Juramento de Honra|----|Juramento de honor
 
@@ -27960,7 +27960,7 @@ Eye of the Demon|----|Olho do Demônio|----|Ojo de ogro
 
 Eye of Oath|----|Olho do Juramento|----|Ojo del juramento
 
-Eye of Evil|----|Olho Maligno|----|Ojo del mal
+Eye of Evil|----|Olho do Mal|----|Ojo del mal
 
 Eye of the Gods|----|Olho Celestial|----|Ojo celestial
 
@@ -27968,7 +27968,7 @@ Eye of Promise|----|Olho das Promessas|----|Ojo de las promesas
 
 Eye of Life|----|Olho da Vida|----|Ojo de la vida
 
-Sage's Stone|----|Pedra dos Sábios|----|Piedra de los filósofos
+Sage's Stone|----|Pedra dos Filósofos|----|Piedra de los filósofos
 
 Witch's Signet|----|Anel da Bruxa|----|Anillo de los arcanos
 
@@ -28080,7 +28080,7 @@ Azhdaha Weekly|----|Biologia do Azhdaha|----|Biología del azhdaha
 
 Demon Weekly|----|Biologia do Demônio|----|Biología del diablo
 
-Manticore Weekly|----|Biologia da Mantícora |----|Biología de la mantícora
+Manticore Weekly|----|Biologia da Mantícora|----|Biología de la mantícora
 
 Crab Weekly|----|Biologia do Caranguejo|----|Biología del centollo
 
@@ -28120,75 +28120,75 @@ Albic Qsiti Weekly|----|Biologia do Qsiti Albino|----|Biología del qsiti albino
 
 Phantom Weekly|----|Biologia do Espectro|----|Biología del espectro
 
-The Daily Jhana|----|Biologia dos Jhanas|----|Anatomía de los jhanas
+The Daily Jhana|----|Anatomia dos Jhanas|----|Anatomía de los jhanas
 
-The Daily Homunculus|----|Biologia do Homúnculo|----|Anatomía del homúnculo
+The Daily Homunculus|----|Anatomia do Homúnculo|----|Anatomía del homúnculo
 
-The Daily Raptor|----|Biologia do Carniceiro|----|Anatomía del carroñero
+The Daily Raptor|----|Anatomia do Carniceiro|----|Anatomía del carroñero
 
-The Daily Fenris|----|Biologia do Fenris|----|Anatomía del fenris
+The Daily Fenris|----|Anatomia do Fenris|----|Anatomía del fenris
 
-The Daily Chimera|----|Biologia da Quimera|----|Anatomía de la quimera
+The Daily Chimera|----|Anatomia da Quimera|----|Anatomía de la quimera
 
-The Daily Hydra|----|Biologia da Hidra|----|Anatomía de la hidra
+The Daily Hydra|----|Anatomia da Hidra|----|Anatomía de la hidra
 
-The Daily Imp|----|Biologia do Diabrete|----|Anatomía del diablillo
+The Daily Imp|----|Anatomia do Diabrete|----|Anatomía del diablillo
 
-The Daily Vile Lizard|----|Biologia do Lagarto Nefasto|----|Anatomía del saurio vil
+The Daily Vile Lizard|----|Anatomia do Lagarto Nefasto|----|Anatomía del saurio vil
 
-The Daily Azhdaha|----|Biologia do Azhdaha|----|Anatomía del azhdaha
+The Daily Azhdaha|----|Anatomia do Azhdaha|----|Anatomía del azhdaha
 
-The Daily Demon|----|Biologia do Demônio|----|Anatomía del diablo
+The Daily Demon|----|Anatomia do Demônio|----|Anatomía del diablo
 
-The Daily Manticore|----|Biologia da Mantícora |----|Anatomía de la mantícora
+The Daily Manticore|----|Anatomia da Mantícora|----|Anatomía de la mantícora
 
-The Daily Crab|----|Biologia do Caranguejo|----|Anatomía del centollo
+The Daily Crab|----|Anatomia do Caranguejo|----|Anatomía del centollo
 
-The Daily Grand Spider|----|Biologia da Aranha Grande|----|Anatomía de la tarántula
+The Daily Grand Spider|----|Anatomia da Aranha Grande|----|Anatomía de la tarántula
 
-The Daily Landworm|----|Biologia do Verme da Terra|----|Anatomía del multípodo
+The Daily Landworm|----|Anatomia do Verme da Terra|----|Anatomía del multípodo
 
-The Daily Grand Beetle|----|Biologia do Besouro Gigante|----|Anatomía de la mantis
+The Daily Grand Beetle|----|Anatomia do Besouro Gigante|----|Anatomía de la mantis
 
-The Daily Leap Frog|----|Biologia do Sapo Saltitante|----|Anatomía del batracio
+The Daily Leap Frog|----|Anatomia do Sapo Saltitante|----|Anatomía del batracio
 
 The Daily Oarfish|----|Anatomia da Avispoidea|----|Anatomía de la avispoidea
 
-The Daily Butterfly|----|Biologia da Mariposa|----|Anatomía de la mariposa
+The Daily Butterfly|----|Anatomia da Mariposa|----|Anatomía de la mariposa
 
-The Daily Amoeba|----|Biologia do Ameba|----|Anatomía de la ameba
+The Daily Amoeba|----|Anatomia do Ameba|----|Anatomía de la ameba
 
-The Daily Fly|----|Biologia da Mosca|----|Anatomía del nematócero
+The Daily Fly|----|Anatomia da Mosca|----|Anatomía del nematócero
 
-The Daily Vulture|----|Biologia do Abutre|----|Anatomía del buitre
+The Daily Vulture|----|Anatomia do Abutre|----|Anatomía del buitre
 
-The Daily Wyvern|----|Biologia do Wyvern|----|Anatomía del wyvern
+The Daily Wyvern|----|Anatomia do Wyvern|----|Anatomía del wyvern
 
-The Daily Spiritlord|----|Biologia do Senhor Espiritual|----|Anatomía del archiespectro
+The Daily Spiritlord|----|Anatomia do Senhor Espiritual|----|Anatomía del archiespectro
 
-The Daily Anthrovore|----|Biologia do Antropófago|----|Anatomía del antropófago
+The Daily Anthrovore|----|Anatomia do Antropófago|----|Anatomía del antropófago
 
-The Daily Treant|----|Biologia do Ent|----|Anatomía del ent
+The Daily Treant|----|Anatomia do Ent|----|Anatomía del ent
 
-The Daily Oculus|----|Biologia do Oculus|----|Anatomía del oculus
+The Daily Oculus|----|Anatomia do Oculus|----|Anatomía del oculus
 
-The Daily Dragon|----|Biologia do Dragão|----|Anatomía del dragón
+The Daily Dragon|----|Anatomia do Dragão|----|Anatomía del dragón
 
-The Daily Colossus|----|Biologia do Colosso|----|Anatomía del coloso
+The Daily Colossus|----|Anatomia do Colosso|----|Anatomía del coloso
 
-The Daily Albic Qsiti|----|Biologia do Qsiti Albino|----|Anatomía del qsiti albino
+The Daily Albic Qsiti|----|Anatomia do Qsiti Albino|----|Anatomía del qsiti albino
 
-The Daily Phantom|----|Biologia do Espectro|----|Anatomía del espectro
+The Daily Phantom|----|Anatomia do Espectro|----|Anatomía del espectro
 
-Basic Customization|----|Customização Básica|----|Artesanía para torpes
+Basic Customization|----|Personalização Básica|----|Artesanía para torpes
 
-Intermediate Customization|----|Customização Intermediárea|----|Artesanía intermedia
+Intermediate Customization|----|Personalização Intermediárea|----|Artesanía intermedia
 
-Advanced Customization|----|Customização Avançada|----|Artesanía avanzada
+Advanced Customization|----|Personalização Avançada|----|Artesanía avanzada
 
-Professional Customization|----|Customização Profissional|----|Artesanía profesional
+Professional Customization|----|Personalização Profissional|----|Artesanía profesional
 
-Legendary Customization|----|Customização Lendária|----|Artesanía extrema
+Legendary Customization|----|Personalização Lendária|----|Artesanía extrema
 
 Sword of Three Realms Rank 1|----|Espada dos Três Reinos Nível 1|----|Certificado de la Espada (I)
 
@@ -28424,11 +28424,11 @@ Ring of Labyrinth Rank 5|----|Círculo do Labirinto Nível 5|----|Certificado de
 
 Consumables dummy|----|Consumables dummy|----|Artículos de uso único
 
-Cureleaf|----|Folha Curativa|----|Hoja curativa
+Cureleaf|----|Folha de Cura|----|Hoja curativa
 
-Cureroot|----|Raiz Curativa|----|Raíz curativa
+Cureroot|----|Raiz de Cura|----|Raíz curativa
 
-Curebulb|----|Bulbo Curativo|----|Bulbo curativo
+Curebulb|----|Bulbo de Cura|----|Bulbo curativo
 
 Restoleaf|----|Folha Medicinal|----|Hoja medicinal
 
@@ -28436,13 +28436,13 @@ Restobulb|----|Bulbo Medicinal|----|Bulbo medicinal
 
 Frostleaf|----|Folha Congelada|----|Flor de escarcha
 
-Relaxing Herb|----|Erva Relaxante|----|Hierbas relajantes
+Relaxing Herb|----|Ervas Relaxantes|----|Hierbas relajantes
 
-Refreshing Herb|----|Erva Refrescante|----|Hierbas refrescantes
+Refreshing Herb|----|Ervas Refrescantes|----|Hierbas refrescantes
 
-Faerie Herb|----|Erva de Ser Mítico|----|Hierbas faéricas
+Faerie Herb|----|Ervas de Ser Mítico|----|Hierbas faéricas
 
-Steel Herb|----|Erva de Aço|----|Hierbas de acero
+Steel Herb|----|Ervas de Aço|----|Hierbas de acero
 
 Fresh Oil|----|Óleo Fresco|----|Aceite de frescor
 
@@ -28472,7 +28472,7 @@ Abyssal Tonic|----|Tônico Abissal|----|Tónico abisal
 
 Vitaeroot|----|Raiz Vitalizadora|----|Tubérculo vital
 
-Mite Mushroom|----|Ácaro de Fungo|----|Hongo ácaro
+Mite Mushroom|----|Fungo de Ácaro|----|Hongo ácaro
 
 Bell Seedling|----|Semente Sonora|----|Semilla sonora
 
@@ -28482,7 +28482,7 @@ Vigorbean|----|Feijão Revigorante|----|Alubia vigorosa
 
 Shockberry|----|Fruto Energético|----|Baya energética
 
-Methone Explosive|----|Explosivo de Metionina|----|Explosivo de methonita
+Methone Explosive|----|Explosivo de Methonita|----|Explosivo de methonita
 
 Siarnaq Explosive|----|Explosivo de Sarnaquita|----|Explosivo de sarnaquita
 
@@ -28502,7 +28502,7 @@ Dreamvine|----|Videira dos Sonhos|----|Soporopodio
 
 Acidsprout|----|Broto Ácido|----|Acidófito
 
-Oort's Cursed Charm|----|Amuleto Amaldiçoado de Oort|----|Talismán maldito de Oort
+Oort's Cursed Charm|----|Talismã Amaldiçoado de Oort|----|Talismán maldito de Oort
 
 Shard of Ages|----|Cristal da Eternidade|----|Cristal venerable
 
@@ -28520,7 +28520,7 @@ Loam of Wadsley|----|Argila Bariosférica|----|Cieno bariosférico
 
 Mud of Ringwood|----|Barro Anulasférico|----|Barro anulasférico
 
-Bole of Pelops|----|Poeira Peloposférica|----|Polvo peloposférico
+Bole of Pelops|----|Pó Peloposférico|----|Polvo peloposférico
 
 Clay of Marton|----|Argila Martosférica|----|Arcilla martosférica
 
@@ -28528,7 +28528,7 @@ Ranger's Tools|----|Ferramentas de Explorador|----|Útiles de explorador
 
 (REPETIDO)Candle|----|Vela|----|Vela
 
-Ill-Fated Box|----|Caixa das Calamidades|----|Arca de las calamidades
+Ill-Fated Box|----|Arca das Calamidades|----|Arca de las calamidades
 
 Necropest|----|Peste Necrótica|----|Necropestis
 
@@ -28958,7 +28958,7 @@ Alp Core|----|Núcleo Heráldico|----|Núcleo heráldico
 
 Oberon Core|----|Núcleo de Oberon|----|Núcleo de Oberón
 
-Cúchulainn Core|----|Núcleo de Herói|----|Núcleo heroico
+Cúchulainn Core|----|Núcleo Heróico|----|Núcleo heroico
 
 Merman Core|----|Núcleo de Tritão|----|Núcleo de tritón
 
@@ -28976,7 +28976,7 @@ Leprechaun Core|----|Núcleo de Leprechaun|----|Núcleo de leprechaun
 
 Troll Core|----|Núcleo de Troll|----|Núcleo de troll
 
-Boggart Core|----|Núcleo de Gnomo|----|Núcleo gnómico
+Boggart Core|----|Núcleo Gnômico|----|Núcleo gnómico
 
 Siren Core|----|Núcleo de Sereia|----|Núcleo de sirena
 
@@ -28990,51 +28990,51 @@ Leanan Sídhe Core|----|Núcleo de Fada|----|Núcleo de musa
 
 Kelpie Core|----|Núcleo de Corcel|----|Núcleo de corcel maldito
 
-Knocker Core|----|Núcleo de Aldrava|----|Núcleo del ladrón
+Knocker Core|----|Núcleo do Ladrão|----|Núcleo del ladrón
 
-Rough Elven Stone|----|Pedra Bruta Élfica|----|Gema élfica en bruto
+Rough Elven Stone|----|Gema Élfica Bruta|----|Gema élfica en bruto
 
-Rough Spriggan Stone|----|Pedra Bruta de Fauno|----|Gema de fauno en bruto
+Rough Spriggan Stone|----|Gema de Fauno Bruta|----|Gema de fauno en bruto
 
-Rough Sylph Stone|----|Pedra Bruta de Silfo|----|Gema de silfo en bruto
+Rough Sylph Stone|----|Gema de Silfo Bruta|----|Gema de silfo en bruto
 
-Rough Alp Stone|----|Pedra Bruta Heráldica|----|Gema heráldica en bruto
+Rough Alp Stone|----|Gema Heráldica Bruta|----|Gema heráldica en bruto
 
-Rough Oberon Stone|----|Pedra Bruta de Oberon|----|Gema de Oberón en bruto
+Rough Oberon Stone|----|Gema de Oberon Bruta|----|Gema de Oberón en bruto
 
-Rough Cúchulainn Stone|----|Pedra Bruta de Herói|----|Gema heroica en bruto
+Rough Cúchulainn Stone|----|Gema Heróica Bruta|----|Gema heroica en bruto
 
-Rough Merman Stone|----|Pedra Bruta de Tritão|----|Gema de tritón en bruto
+Rough Merman Stone|----|Gema de Tritão Bruta|----|Gema de tritón en bruto
 
-Rough Ondine Stone|----|Pedra Bruta de Ondina|----|Gema de ondina en bruto
+Rough Ondine Stone|----|Gema de Ondina Bruta|----|Gema de ondina en bruto
 
-Rough Brownie Stone|----|Pedra Bruta de Dríade|----|Gema de dríada en bruto
+Rough Brownie Stone|----|Gema de Dríade Bruta|----|Gema de dríada en bruto
 
-Rough Pixie Stone|----|Pedra Bruta de Fada|----|Gema de hada en bruto
+Rough Pixie Stone|----|Gema de Fada Bruta|----|Gema de hada en bruto
 
-Rough Goblin Stone|----|Pedra Bruta de Duende|----|Gema de trasgo en bruto
+Rough Goblin Stone|----|Gema de Duende Bruta|----|Gema de trasgo en bruto
 
-Rough Mermaid Stone|----|Pedra Bruta de Sereia|----|Gema de nereida en bruto
+Rough Mermaid Stone|----|Gema de Sereia Bruta|----|Gema de nereida en bruto
 
-Rough Leprechaun Stone|----|Pedra Bruta de Leprechaun|----|Gema de leprechaun en bruto
+Rough Leprechaun Stone|----|Gema de Leprechaun Bruta|----|Gema de leprechaun en bruto
 
-Rough Troll Stone|----|Pedra Bruta de Troll|----|Gema de troll en bruto
+Rough Troll Stone|----|Gema de Troll Bruta|----|Gema de troll en bruto
 
-Rough Boggart Stone|----|Pedra Bruta de Gnomo|----|Gema gnómica en bruto
+Rough Boggart Stone|----|Gema Gnômica Bruta|----|Gema gnómica en bruto
 
-Rough Siren Stone|----|Pedra Bruta de Sereia|----|Gema de sirena en bruto
+Rough Siren Stone|----|Gema de Sereia Bruta|----|Gema de sirena en bruto
 
-Rough Kobold Stone|----|Pedra Bruta de Kobold|----|Gema de kobold en bruto
+Rough Kobold Stone|----|Gema de Kobold Bruta|----|Gema de kobold en bruto
 
-Rough Banshee Stone|----|Pedra Bruta de Banshee|----|Gema de banshee en bruto
+Rough Banshee Stone|----|Gema de Banshee Bruta|----|Gema de banshee en bruto
 
-Rough Dwarven Stone|----|Pedra Bruta Anã|----|Gema enana en bruto
+Rough Dwarven Stone|----|Gema Anã Bruta|----|Gema enana en bruto
 
-Rough Leanan Sídhe Stone|----|Pedra Bruta de Fada|----|Gema de musa en bruto
+Rough Leanan Sídhe Stone|----|Gema de Fada Bruta|----|Gema de musa en bruto
 
-Rough Kelpie Stone|----|Pedra Bruta de Corcel|----|Gema de corcel
+Rough Kelpie Stone|----|Gema de Corcel Bruta|----|Gema de corcel
 
-Rough Knocker Stone|----|Pedra Bruta de Aldrava|----|Gema de ladrón en bruto
+Rough Knocker Stone|----|Gema de Ladrão Bruta|----|Gema de ladrón en bruto
 
 Elf's Emerald|----|Esmeralda Élfica|----|Esmeralda élfica
 
@@ -29064,7 +29064,7 @@ Leprechaun's Scissor|----|Trevo de Leprechaun|----|Trébol de leprechaun
 
 Troll's Cushion|----|Selo de Troll|----|Sello de troll
 
-Boggart's Trapeziod|----|Cristal de Gnomo|----|Cristal gnómico
+Boggart's Trapeziod|----|Cristal Gnômico|----|Cristal gnómico
 
 Siren's Square|----|Quadrado da Sereia|----|Princesa de sirena
 
@@ -29096,7 +29096,7 @@ Mystic Skelenyte|----|Esquelonita Mística|----|Esquelonita mística
 
 Blacksteel Ore|----|Minério de Aço Negro|----|Mineral de aceroscuro
 
-Gaslin Copper|----|Peça de Cobre de Gaslin|----|Cobre de Gaslin
+Gaslin Copper|----|Cobre de Gaslin|----|Cobre de Gaslin
 
 Vackel Iron|----|Ferro de Vackel|----|Hierro de Vackel
 
@@ -29138,7 +29138,7 @@ Voltaic Crystal|----|Cristal Voltáico|----|Cristal voltaico
 
 Light Metal|----|Metal Leve|----|Metal ligero
 
-Jhana Alloy|----|Liga jhana|----|Aleación jhana
+Jhana Alloy|----|Liga Jhana|----|Aleación jhana
 
 Shadow Metal|----|Metal Sombrio|----|Metal sombrío
 
@@ -29162,7 +29162,7 @@ Crimson Ore|----|Minério Escarlate|----|Mineral carmesí
 
 Jewel Steel|----|Minério de Aço|----|Acero mineral
 
-Aged Sword|----|Espada Velha|----|Vieja espada
+Aged Sword|----|Velha Espada|----|Vieja espada
 
 Aged Katana|----|Velha Katana|----|Vieja katana
 
@@ -29184,7 +29184,7 @@ Aged Armlet|----|Velho Bracelete|----|Viejo brazalete
 
 Aged Earring|----|Velho Brinco|----|Viejo pendiente
 
-Aged Sash|----|Faixa Velha|----|Viejo fajín
+Aged Sash|----|Velha Faixa|----|Viejo fajín
 
 Aged Anklet|----|Velha Tornozeleira|----|Vieja tobillera
 
@@ -29240,7 +29240,7 @@ Reya's Note|----|Nota de Reya|----|Nota de Reya
 
 Platter Fragment|----|Fragmento de Bandeja|----|Fragmento de bandeja
 
-Antique Platter|----|Bandeja Antiga|----|Antigua bandeja
+Antique Platter|----|Antiga Bandeja|----|Antigua bandeja
 
 Royal Platter|----|Bandeja Real|----|Bandeja real
 
@@ -29272,7 +29272,7 @@ Viceweed|----|Erva Aspiradora|----|Hierba succionadora
 
 (REPETIDO)Vine|----|Videira|----|Liana
 
-Sturdy Vine|----|Resistente Videira|----|Liana gruesa
+Sturdy Vine|----|Videira Grossa|----|Liana gruesa
 
 Televa Vine|----|Videira de Televa|----|Liana de televa
 
@@ -29306,7 +29306,7 @@ Kacz Seed|----|Semente de Kacz|----|Semilla de kaku
 
 Ur Seed|----|Semente de Ur|----|Semilla de gur
 
-Nage Leaf|----|Folha de Nage|----|Hoja de naga
+Nage Leaf|----|Folha de Naga|----|Hoja de naga
 
 Titicaca Leaf|----|Folha de Titicaca|----|Hoja de titicaca
 
@@ -29314,7 +29314,7 @@ Waame Leaf|----|Folha de Wame|----|Hoja de wame
 
 Cotton|----|Algodão|----|Algodón
 
-Superior Cotton|----|Algotão Superior|----|Algodón superior
+Superior Cotton|----|Algodão de Qualidade|----|Algodón superior
 
 Superlative Cotton|----|Algodão Excepcional|----|Algodón excepcional
 
@@ -29326,13 +29326,13 @@ Ether Water|----|Água de Éter|----|Agua de éter
 
 Holy Water|----|Água Benta|----|Agua bendita
 
-Natural Oil|----|Azeite Natural|----|Aceite natural
+Natural Oil|----|Óleo Natural|----|Aceite natural
 
 Greasy Oil|----|Óleo Viscoso|----|Aceite viscoso
 
-Red Oil|----|Azeite Vermelho|----|Aceite rojo
+Red Oil|----|Óleo Vermelho|----|Aceite rojo
 
-Black Oil|----|Azeite Negro|----|Aceite negro
+Black Oil|----|Óleo Negro|----|Aceite negro
 
 (REPETIDO)Natural Gas|----|Gás Natural|----|Gas natural
 
@@ -29356,7 +29356,7 @@ Flockfly|----|Colóptero|----|Borregóptero
 
 Alpacan Cloth|----|Tecido de Alpaca|----|Tejido de alpaca
 
-Angoran Cloth|----|Tecido de Algora|----|Tejido de angora
+Angoran Cloth|----|Tecido de Angora|----|Tejido de angora
 
 Linen Cloth|----|Tecido de Linho|----|Tejido de lino
 
@@ -29364,7 +29364,7 @@ Mule Hide Cloth|----|Pele de Mula|----|Piel de mula
 
 Beast Carapace|----|Carapaça de Monstro|----|Caparazón de monstruo
 
-Old Carapace|----|Carapaça Velha|----|Viejo caparazón
+Old Carapace|----|Velha Carapaça|----|Viejo caparazón
 
 Ancient Carapace|----|Carapaça Ancestral|----|Caparazón ancestral
 
@@ -29384,13 +29384,13 @@ Thick Beast Hide|----|Pele Grossa de Monstro|----|Piel gruesa de monstruo
 
 Fur|----|Pelagem|----|Pelaje
 
-Superior Fur|----|Pelagem Superior|----|Pelaje superior
+Superior Fur|----|Pelagem de Qualidade|----|Pelaje superior
 
 Superlative Fur|----|Pelagem Excepcional|----|Pelaje excepcional
 
 Tanned Hide|----|Pele Curtida|----|Piel curtida
 
-Superior Tanned Hide|----|Pele Curtida Superior|----|Piel curtida superior
+Superior Tanned Hide|----|Pele Curtida de Qualidade|----|Piel curtida superior
 
 Superlative Tanned Hide|----|Pele Curtida Excepcional|----|Piel curtida excepcional
 
@@ -29402,7 +29402,7 @@ Polished Scale|----|Escama Polida|----|Escama pulida
 
 Horn|----|Chifre|----|Cuerno
 
-Large Horn|----|Grande Chifre |----|Gran cuerno
+Large Horn|----|Grande Chifre|----|Gran cuerno
 
 Fang|----|Presa|----|Colmillo
 
@@ -29640,7 +29640,7 @@ Raginos Fragment|----|Fragmento de Raginos|----|Fragmento de raginos
 
 Glagonos Fragment|----|Fragmento de Glagonos|----|Fragmento de glagonos
 
-Raptor Scale|----|Escama de Carniceiro |----|Escama de carroñero
+Raptor Scale|----|Escama de Carniceiro|----|Escama de carroñero
 
 Raptor Horn|----|Chifre de Carniceiro|----|Cuerno de carroñero
 
@@ -29656,7 +29656,7 @@ Thick Raptor Carapace|----|Carapaça Reforçada de Carniceiro|----|Caparazón re
 
 Bulky Wild Raptor Hide|----|Pele Volumosa de Carniceiro Selvagem|----|Piel tupida de carroñero feroz
 
-Coiled Bullfighter Horn|----|Chifre Enrolado de Matador |----|Cuerno enroscado de matador
+Coiled Bullfighter Horn|----|Chifre Enrolado de Matador|----|Cuerno enroscado de matador
 
 Pointed King Raptor Fang|----|Presa Afiada de Carniceiro Soberano|----|Colmillo afilado de carroñero rey
 
@@ -29720,7 +29720,7 @@ Irregular Torpedo Scale|----|Escama Irregular de Torpedo|----|Escama irregular d
 
 Bune Fin|----|Barbatana de Bune|----|Aleta de bune
 
-Imp Talon|----|Garra de Diabrete |----|Garra de diablillo
+Imp Talon|----|Garra de Diabrete|----|Garra de diablillo
 
 Imp Fang|----|Presa de Diabrete|----|Colmillo de diablillo
 
@@ -29754,7 +29754,7 @@ Vile Lizard Mane|----|Cabeleira de Lagarto Nefasto|----|Melena de saurio vil
 
 Inverted Vile Lizard Scale|----|Escama Invertida de Lagarto Nefasto|----|Escama invertida de saurio vil
 
-Soft Basilisk Hide|----|Pele de Basilisco |----|Piel de basilisco
+Soft Basilisk Hide|----|Pele de Basilisco|----|Piel de basilisco
 
 Nidhogg Femur|----|Fêmur de Nidhogg|----|Fémur de nidhogg
 
@@ -29774,7 +29774,7 @@ Retral Feral Fang Scale|----|Escama Dorsal de Presa Feroz|----|Escama dorsal de 
 
 Sharp Azhdaha Fang|----|Presa Afiada de Azhdaha|----|Incisivo de azhdaha
 
-Large Weredragon Talon|----|Garra Enorme de Dracônico |----|Garra enorme de dragóntropo
+Large Weredragon Talon|----|Garra Enorme de Dracônico|----|Garra enorme de dragóntropo
 
 Scaly Great Azhdaha Hide|----|Pele Escamosa de Azhdaha Gigante|----|Piel escamosa de azhdaha mayor
 
@@ -29810,9 +29810,9 @@ Sharp Manticore Leg|----|Pata Afiada de Mantícora|----|Pata afilada de mantíco
 
 Tough Manticore Husk|----|Exoesqueleto de Mantícora|----|Quitina de mantícora
 
-Poison Nussknacker Needle|----|Ferrão Venenoso de Rompebraços |----|Aguijón venenoso de rompebrazos
+Poison Nussknacker Needle|----|Ferrão Venenoso de Rompebraços|----|Aguijón venenoso de rompebrazos
 
-Poison Deathclaw Talon|----|Cauda Venenosa de Garramortal |----|Garra envenenada de garramortal
+Poison Deathclaw Talon|----|Cauda Venenosa de Garramortal|----|Garra envenenada de garramortal
 
 Crab Husk|----|Restos de Caranguejo|----|Restos de centollo
 
@@ -29852,7 +29852,7 @@ Spider Silk|----|Seda de Aranha|----|Seda de araña
 
 Grand Spider Eyes|----|Olhos de Aranha Grande|----|Ojos de gran tarántula
 
-Arachnid Silk|----|Seda de Aracnídeo |----|Seda de arácnido
+Arachnid Silk|----|Seda de Aracnídeo|----|Seda de arácnido
 
 Large Giant Spider Talon|----|Garra Longa de Aranha Gigante|----|Gran garra de tarántula reina
 
@@ -29870,7 +29870,7 @@ Sharp Landworm Fang|----|Presa Afiada de Verme da Terra|----|Colmillo afilado de
 
 Landworm Fluid|----|Líquido Extraído de Verme da Terra|----|Extracto de multípodo
 
-Pest Toxin|----|Veneno de Praga |----|Veneno de pestis
+Pest Toxin|----|Veneno de Praga|----|Veneno de pestis
 
 Tough Killer Insect Husk|----|Exoesqueleto de Inseto Assassino|----|Exoesqueleto de parásito asesino
 
@@ -29942,9 +29942,9 @@ Butterfly Eyes|----|Olhos de Mariposa|----|Ojos de mariposa
 
 Butterfly Liver|----|Fígado de Mariposa|----|Hígado de mariposa
 
-Sharp Papillon Talon|----|Garra Afiada de Papillon |----|Garra afilada de papilio
+Sharp Papillon Talon|----|Garra Afiada de Papillon|----|Garra afilada de papilio
 
-Sharp Nymphalidae Quill|----|Pluma Afiada de Ninfálida |----|Pluma afilada de ninfálida
+Sharp Nymphalidae Quill|----|Pluma Afiada de Ninfálida|----|Pluma afilada de ninfálida
 
 Moth Eyes|----|Olhos de Moth|----|Ojos de polillaespín
 
@@ -29986,7 +29986,7 @@ Fly Fluid|----|Líquido Extraído de Mosca|----|Extracto de nematócero
 
 Fly Scale Hide|----|Pele Escamosa de Mosca|----|Piel escamosa de nematócero
 
-Poison Rosefly Needle|----|Ferrão Venenoso de Moscarosa |----|Aguijón venenoso de apoidea
+Poison Rosefly Needle|----|Ferrão Venenoso de Moscarosa|----|Aguijón venenoso de apoidea
 
 Shellfly Scalp|----|Cabeleira de Moscascudo|----|Cabellera de vespoidea
 
@@ -30006,7 +30006,7 @@ Vulture Underbelly Fur|----|Pelagem de Barriga de Abutre|----|Pelaje ventral de 
 
 Sharp Vulture Beak|----|Bico Afiado de Abutre|----|Pico afilado de buitre
 
-Skull Scavenger Cranium|----|Crânio de Vasculhacrânio |----|Cráneo de viscerófago
+Skull Scavenger Cranium|----|Crânio de Vasculhacrânio|----|Cráneo de viscerófago
 
 Retral Vulture Fur|----|Pelagem Dorsal de Abutre|----|Pelaje dorsal de buitre
 
@@ -30028,7 +30028,7 @@ Wyvern Eye|----|Olho de Wyvern|----|Ojo de wyvern
 
 Soft Aeronite Wing|----|Asa Macia de Aeronito|----|Ala tersa de aeronita
 
-Diatryma Skull|----|Crânio de Diatrima |----|Cráneo de diatrima
+Diatryma Skull|----|Crânio de Diatrima|----|Cráneo de diatrima
 
 Spiritlord Scale|----|Escama de Senhor Espiritual|----|Escama de archiespectro
 
@@ -30042,7 +30042,7 @@ Large Spiritlord Beak|----|Bico Largo de Senhor Espiritual|----|Gran pico de arc
 
 Sharp Spiritlord Tail|----|Cauda Afiada de Senhor Espiritual|----|Cola punzante de archiespectro
 
-Blackwing Wing|----|Asa de Asanegra |----|Ala de alanegra
+Blackwing Wing|----|Asa de Asanegra|----|Ala de alanegra
 
 Concealed Spiritlord Horn|----|Chifre Retrátil de Senhor Espiritual|----|Cuerno retráctil de archiespectro
 
@@ -30064,7 +30064,7 @@ Vile Plant Timber|----|Madeira de Plantavil|----|Madera de plantavil
 
 Anthrovore Bulb|----|Bulbo de Antropófago|----|Bulbo de antropófago
 
-Medicinal Mandragora Seedling|----|Muda Medicinal de Mandrágora |----|Brote medicinal de mandrágora
+Medicinal Mandragora Seedling|----|Muda Medicinal de Mandrágora|----|Brote medicinal de mandrágora
 
 Treant Fragment|----|Fragmento de Ent|----|Fragmento de ent
 
@@ -30096,7 +30096,7 @@ Oculus Tooth|----|Dente de Oculus|----|Diente de oculus
 
 Evil Eye Cornea|----|Córnea de Olho Maligno|----|Córnea de mal de ojo
 
-Manhunter Cornea|----|Córnea de Caçahomens |----|Córnea de cazahombres
+Manhunter Cornea|----|Córnea de Caçahomens|----|Córnea de cazahombres
 
 Death Cornea|----|Córnea de Ceifador de Almas|----|Córnea de segador de almas
 
@@ -30114,7 +30114,7 @@ Bristly Dragon Mane|----|Cabeleira Eriçada de Dragão|----|Cabellera áspera de
 
 Dragon Liver|----|Fígado de Dragão|----|Hígado de dragón
 
-Abelisk Talon|----|Garra de Obelisco |----|Garra de abelisco
+Abelisk Talon|----|Garra de Obelisco|----|Garra de abelisco
 
 Tough Brynhildr Husk|----|Muda de Pele Reforçada de Brunhild|----|Muda de piel reforzada de brunhild
 
@@ -30164,7 +30164,7 @@ Thin Phantom Wing|----|Asa Magra de Espectro|----|Ala esbelta de espectro
 
 Tough Phantom Husk|----|Ectoplasma Reforçado de Espectro|----|Ectoplasma reforzado de espectro
 
-Harpylia's Hide|----|Pele de Arpília |----|Piel de arpilia
+Harpylia's Hide|----|Pele de Arpília|----|Piel de arpilia
 
 Anima's Skin|----|Pele de Anima|----|Piel de ánima
 
@@ -31628,7 +31628,7 @@ DEF|----|DEF|----|DF
 
 MYS|----|MIS|----|PM
 
-M. DEF|----|DEF M. |----|DM
+M. DEF|----|DEF M.|----|DM
 
 EVA|----|EVA|----|EF
 
@@ -31678,11 +31678,11 @@ Screen and Display|----|Tela e Gráficos|----|Pantalla y gráficos
 
 Sound|----|Som|----|Sonido
 
-Camera|----|Câmera |----|Cámara
+Camera|----|Câmera|----|Cámara
 
 (REPETIDO)System|----|Sistema|----|Sistema
 
-Defaults|----|Valores Padrão |----|Valores predeterminados
+Defaults|----|Valores Padrão|----|Valores predeterminados
 
 Page|----|Página|----|Página
 
@@ -31754,27 +31754,27 @@ Disband union|----|Dissolver grupo|----|Disolver unidad
 
 Save|----|Salvar|----|Guardar
 
-Config|----|Configuração |----|Configuración
+Config|----|Configuração|----|Configuración
 
 Confirm units|----|Confirmar membros|----|Ver personajes
 
 Change equipment|----|Mudar equipamento|----|Cambiar equipo
 
-Check equipment|----|Ver equipamento |----|Ver equipo
+Check equipment|----|Ver equipamento|----|Ver equipo
 
 Check items|----|Ver items|----|Ver objetos
 
-Check arts|----|Ver artes |----|Ver artes
+Check arts|----|Ver artes|----|Ver artes
 
-(REPETIDO)Equipment|----|Equipamento |----|Equipo
+(REPETIDO)Equipment|----|Equipamento|----|Equipo
 
-Customize equipment|----|Melhorar equipamento |----|Mejorar equipo
+Customize equipment|----|Melhorar equipamento|----|Mejorar equipo
 
-Create equipment|----|Criar equipamento |----|Montar equipo
+Create equipment|----|Criar equipamento|----|Montar equipo
 
-Disassemble equipment|----|Desmontar equipamento |----|Desmontar equipo
+Disassemble equipment|----|Desmontar equipamento|----|Desmontar equipo
 
-Check reserves|----|Verificar reservas |----|Comprobar reservas
+Check reserves|----|Verificar reservas|----|Comprobar reservas
 
 Select formation|----|Selecionar formação|----|Elegir formación
 
@@ -31822,9 +31822,9 @@ All Guild Tasks|----|Todas Tarefas da Guilda|----|Todas las pruebas del gremio
 
 Current Guild Tasks|----|Tarefas da Guilda Aceitas|----|Pruebas del gremio aceptadas
 
-Completed Guild Tasks|----|Tarefas da Guilda Concluídas |----|Pruebas del gremio cumplidas
+Completed Guild Tasks|----|Tarefas da Guilda Concluídas|----|Pruebas del gremio cumplidas
 
-(REPETIDO)Default|----|Valor padrão |----|Por defecto
+(REPETIDO)Default|----|Valor padrão|----|Por defecto
 
 (REPETIDO)HP|----|PV|----|PV
 
@@ -31840,15 +31840,15 @@ Completed Guild Tasks|----|Tarefas da Guilda Concluídas |----|Pruebas del gremi
 
 (REPETIDO)Strength|----|Força|----|Fuerza
 
-(REPETIDO)Intellect|----|Inteligência |----|Inteligencia
+(REPETIDO)Intellect|----|Inteligência|----|Inteligencia
 
-(REPETIDO)Speed|----|Velocidade |----|Velocidad
+(REPETIDO)Speed|----|Velocidade|----|Velocidad
 
-(REPETIDO)Default|----|Valor padrão |----|Por defecto
+(REPETIDO)Default|----|Valor padrão|----|Por defecto
 
 (REPETIDO)Held|----|Unidades|----|Uds.
 
-Level|----|Nível |----|Nivel
+Level|----|Nível|----|Nivel
 
 (REPETIDO)Size|----|Tamanho|----|Tamaño
 
@@ -31870,11 +31870,11 @@ Mystic Evasion [M. EVA]|----|Evasão Mística [EVA M.]|----|Evasión mística (E
 
 (REPETIDO)INIT AP|----|PA inicial|----|PA iniciales
 
-(REPETIDO)Strength|----|Força |----|Fuerza
+(REPETIDO)Strength|----|Força|----|Fuerza
 
-(REPETIDO)Intellect|----|Inteligência |----|Inteligencia
+(REPETIDO)Intellect|----|Inteligência|----|Inteligencia
 
-(REPETIDO)Speed|----|Velocidade |----|Velocidad
+(REPETIDO)Speed|----|Velocidade|----|Velocidad
 
 Unequip|----|Tirar|----|Quitar
 
@@ -31894,11 +31894,11 @@ SFX Volume|----|Efeitos Sonoros|----|Efectos de sonido
 
 Voice Volume|----|Vozes|----|Voces
 
-Horizontal Control|----|Controle Horizontal |----|Control horizontal
+Horizontal Control|----|Controle Horizontal|----|Control horizontal
 
 Vertical Control|----|Controle Vertical|----|Control vertical
 
-(REPETIDO)Sensitivity|----|Velocidade da Câmera |----|Velocidad de la cámara
+(REPETIDO)Sensitivity|----|Velocidade da Câmera|----|Velocidad de la cámara
 
 First-Person Mode|----|Visão em Primeira Pessoa|----|Vista en primera persona
 
@@ -31924,7 +31924,7 @@ Controller Vibration|----|Vibração do Controle|----|Vibración del mando
 
 Display warning when taking apart captured monsters|----|Mostrar aviso ao converter monstros em componentes|----|Mostrar aviso al convertir monstruos en componentes
 
-(REPETIDO)Off|----|Desativada |----|Desactivados
+(REPETIDO)Off|----|Desativada|----|Desactivados
 
 (REPETIDO)On|----|Ativada|----|Activados
 
@@ -31946,13 +31946,13 @@ Enable|----|Ativado|----|Activar
 
 Manual|----|Manual|----|Manual
 
-Automatic|----|Automático |----|Automático
+Automatic|----|Automático|----|Automático
 
 Don't display message|----|Não mostrar mensagens|----|Omitir mensaje
 
 Display message|----|Mostrar mensagens|----|Mostrar mensaje
 
-Dark|----|Escuro |----|Oscuro
+Dark|----|Escuro|----|Oscuro
 
 Bright|----|Claro|----|Claro
 
@@ -31964,19 +31964,19 @@ Slow|----|Devagar|----|Menor
 
 Fast|----|Rápida|----|Mayor
 
-Reset to default settings|----|Restaurar configuração padrão |----|Restaurar valores predeterminados
+Reset to default settings|----|Restaurar configuração padrão|----|Restaurar valores predeterminados
 
-Selling Price|----|Preço de Venda |----|Precio de venta
+Selling Price|----|Preço de Venda|----|Precio de venta
 
 Purchase Price|----|Preço de Compra|----|Precio de compra
 
-Creation Cost|----|Custo de Fabricação |----|Coste de fabricación
+Creation Cost|----|Custo de Fabricação|----|Coste de fabricación
 
 Disassembly Cost|----|Custo para Desmontar|----|Coste para desmontar
 
-Recruit Cost|----|Custo de Recrutamento |----|Coste de alistamiento
+Recruit Cost|----|Custo de Recrutamento|----|Coste de alistamiento
 
-AP Bonus|----|Bônus de PA |----|Bonificación de PA
+AP Bonus|----|Bônus de PA|----|Bonificación de PA
 
 00\n Buy|----|00\n Comprar|----|00\n Comprar
 
@@ -31986,7 +31986,7 @@ Buy|----|Comprar|----|Comprar
 
 (REPETIDO)Sell|----|Vender|----|Vender
 
-Recruit Leader|----|Recrutar Líder |----|Añadir líder
+Recruit Leader|----|Recrutar Líder|----|Añadir líder
 
 Dismiss Leader|----|Despedir Líder|----|Despedir líder
 
@@ -32002,7 +32002,7 @@ Don't display warning|----|Não mostrar aviso|----|No mostrar aviso.
 
 00\n Check unit's status|----|00\n Ver status do personagem|----|00\n Ver personaje
 
-00\n Sort items|----|00\n Ordenar itens |----|00\n Ordenar objetos
+00\n Sort items|----|00\n Ordenar itens|----|00\n Ordenar objetos
 
 00\n Sort reserve leaders|----|00\n Ordenar líderes na reserva|----|00\n Ordenar líderes en reserva
 
@@ -32014,7 +32014,7 @@ Don't display warning|----|Não mostrar aviso|----|No mostrar aviso.
 
 Previous|----|Anterior|----|Anterior
 
-Next|----|Seguinte |----|Siguiente
+Next|----|Seguinte|----|Siguiente
 
 End|----|Fim|----|Fin
 
@@ -32288,9 +32288,9 @@ Arco Iris|----|Arco Íris|----|Arco Iris
 
 Luminescence|----|Luminescência|----|Luminiscencia
 
-The Collapse|----|Cataclismo |----|Cataclismo
+The Collapse|----|Cataclismo|----|Cataclismo
 
-(REPETIDO)Talisman|----|Talismã |----|Talismán
+(REPETIDO)Talisman|----|Talismã|----|Talismán
 
 (REPETIDO)Tablet|----|Tabuleta|----|Tablilla
 
@@ -32334,13 +32334,13 @@ Monster|----|Monstro|----|Monstruo
 
 Congress|----|Conselho|----|Consejo
 
-The First Committee|----|O Primeiro Comitê |----|Primer Comité
+The First Committee|----|O Primeiro Comitê|----|Primer Comité
 
 The Second Committee|----|O Segundo Comitê|----|Segundo Comité
 
 (REPETIDO)The Third Committee|----|O Terceiro Comitê|----|Tercer Comité
 
-(REPETIDO)The Silver Falcons|----|Os Falcões Prateados |----|Halcones Argénteos
+(REPETIDO)The Silver Falcons|----|Os Falcões Prateados|----|Halcones Argénteos
 
 (REPETIDO)The Ladies of Bloody Alice|----|As Damas Sangrentas|----|Damas Sangrientas
 
@@ -32358,9 +32358,9 @@ Veyriel|----|Veyriel|----|Veyriel
 
 (REPETIDO)AP|----|PA|----|PA
 
-(REPETIDO)Strength|----|Força |----|Fuerza
+(REPETIDO)Strength|----|Força|----|Fuerza
 
-(REPETIDO)Intellect|----|Inteligência |----|Inteligencia
+(REPETIDO)Intellect|----|Inteligência|----|Inteligencia
 
 (REPETIDO)Speed|----|Velocidade|----|Velocidad
 
@@ -32384,7 +32384,7 @@ The Reviving Legend|----|A lenda revivida|----|No pasarán
 
 The Cosmos Maiden|----|A Donzela Cósmica|----|La Ninfa Cósmica
 
-Kosmosfest|----|A Festa Cósmica |----|La Gala Cósmica
+Kosmosfest|----|A Festa Cósmica|----|La Gala Cósmica
 
 Wisdom's Echo|----|Ecos de sabedoria|----|Ecos de sabiduría
 
@@ -32412,7 +32412,7 @@ A Voice from the Past|----|Vozes do passado|----|Voces del pasado
 
 Blooming Flower, Singing Bird|----|Herança de família|----|Herencia familiar
 
-The Losing Game|----|Uma aposta arriscada |----|Una apuesta arriesgada
+The Losing Game|----|Uma aposta arriscada|----|Una apuesta arriesgada
 
 The Wanderer|----|O andarilho|----|Las apariencias engañan
 
@@ -32422,7 +32422,7 @@ Bravery and Loyalty|----|Valor e lealdade|----|Valor y lealtad
 
 The Successor|----|O sucessor|----|Quien siembra vientos...
 
-The Standoff|----|O torneio dos heróis |----|El Torneo de los héroes
+The Standoff|----|O torneio dos heróis|----|El Torneo de los héroes
 
 The Rainbow Bond|----|Unidos pelo Arco Iris|----|Unidos por el Arco Iris
 
@@ -32430,13 +32430,13 @@ The Fated One|----|O duelo|----|El duelo
 
 The Distant Promise|----|Uma antiga promessa|----|Una antigua promesa
 
-Hearts|----|Sede de conhecimento |----|Sed de conocimiento
+Hearts|----|Sede de conhecimento|----|Sed de conocimiento
 
 The Tablet of Marshall|----|A tabuleta de Marshall|----|La tablilla
 
 UFO!?|----|Uma ave misteriosa|----|Un ave misteriosa
 
-At Hatred's End|----|Os limites do ódio |----|Los límites del rencor
+At Hatred's End|----|Os limites do ódio|----|Los límites del rencor
 
 The Ancient War|----|A guerra ancestral|----|Una guerra ancestral
 
@@ -32450,7 +32450,7 @@ The War of a Thousand Years|----|A guerra dos mil anos|----|La guerra de los mil
 
 (REPETIDO)The Hero|----|O herói da lenda|----|Héroe de leyenda
 
-The Silent Soul|----|O deserto das almas perdidas |----|El desierto de las almas perdidas
+The Silent Soul|----|O deserto das almas perdidas|----|El desierto de las almas perdidas
 
 The Assistant|----|O assistente|----|El discípulo
 
@@ -32464,7 +32464,7 @@ The Trade Route|----|A rota comercial|----|Pioneros del desierto
 
 (REPETIDO)Baulson|----|Ao resgate|----|Al rescate
 
-A Single Soul|----|Uma alma solitária |----|Un alma en pena
+A Single Soul|----|Uma alma solitária|----|Un alma en pena
 
 (REPETIDO)Darien|----|Redenção|----|Redención
 
@@ -34548,7 +34548,7 @@ Archfiend|----|Arquidemônios|----|Archidemonios
 
 (REPETIDO)Homunculus|----|Homúnculo|----|Homúnculo
 
-(REPETIDO)Raptor|----|Carniceiro |----|Carroñero
+(REPETIDO)Raptor|----|Carniceiro|----|Carroñero
 
 (REPETIDO)Fenris|----|Fenris|----|Fenris
 
@@ -35312,21 +35312,21 @@ Unknown|----|Desconhecido|----|Desconocido
 
 (REPETIDO)Fenris|----|Fenris|----|Fenris
 
-(REPETIDO)Chimera|----|Quimera |----|Quimera
+(REPETIDO)Chimera|----|Quimera|----|Quimera
 
 (REPETIDO)Hydra|----|Hidra|----|Hidra
 
-(REPETIDO)Imp|----|Diabrete |----|Diablillo
+(REPETIDO)Imp|----|Diabrete|----|Diablillo
 
 (REPETIDO)Vile Lizard|----|Lagarto Nefasto|----|Saurio vil
 
 (REPETIDO)Azhdaha|----|Azhdaha|----|Azhdaha
 
-(REPETIDO)Demon|----|Demônio |----|Diablo
+(REPETIDO)Demon|----|Demônio|----|Diablo
 
-(REPETIDO)Manticore|----|Mantícora |----|Mantícora
+(REPETIDO)Manticore|----|Mantícora|----|Mantícora
 
-(REPETIDO)Crab|----|Caranguejo |----|Centollo
+(REPETIDO)Crab|----|Caranguejo|----|Centollo
 
 (REPETIDO)Grand Spider|----|Aranha Grande|----|Gran tarántula
 

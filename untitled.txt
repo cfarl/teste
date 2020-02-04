@@ -17,10 +17,11 @@ saber -> katana
  ale -> licor
  oil -> óleo
  medicines -> remédios????
- ore -> minério????
+ ore -> minério???? ou minerais????
  sash -> faixa, cinto???
  hide -> pele
  husk -> muda de pele
+ charm -> talismã?
 Merman's French -> Tritão Francês (em espanhol trapecio de tritón)
 Siren's Square -> Quadrado da Sereia  (em espanhol princesa de sirena)
 Knocker's Ceylon -> Aldrava de Ceylon (em espanhol triángulo de ladrón)
@@ -29,6 +30,11 @@ Crazer -> chalado em Espanol. Manter maluco???
 De Yvalock para Ivalock???
 Witch (arcamaga) -> feiticeira
 Devoramagias -> Devorafeitiços
+formula'-> ver tradução espanhol
+Dragão de Terra -> da Terra
+Crimson -> Escarlate
+
+Leprechaun's Leap|----|Salto de Leprechaun|----|Brinco de leprechaun
 
 status -> status
 recipe - receita; fórmula; intruções
@@ -45,11 +51,62 @@ polearms - armas de haste
 Mr. Diggs - Sr. Garras
 Aura de Magia -.> Aura de Feitiço
 
-Dual Wield (Uma ou Duas Mãos) -> Estilo Dual?
+Dual Wield (Uma ou Duas Mãos) -> Estilo Dual? Uma/Duas Mãos???
 
 pessoas:
 Old-Fashioned  ->  à Moda Antiga
 
+Broadaxe|----|Machado Curto|----|Hacha ancha
+Splitter|----|Separadora|----|Leñadora
+Striker|----|Atacante|----|Cuña
+Sledgehammer|----|Marreta|----|Almádena
+Bludgeon|----|Porrete|----|Porra
+Bigbang|----|Estrondoso|----|Big-Bang
+Pike|----|Lança Curta|----|Pica
+Pitchfork|----|Forquilha|----|Horca
+Lance|----|Lança|----|Lanza
+Spear|----|Lança|----|Venablo -> Lança Longa????
+Javelin|----|Dardo|----|Jabalina
+Glaive|----|Gládio|----|Guja
+Rod|----|Bastão|----|Palo
+Wand|----|Varinha|----|Bordón -> Vara????
+Cudgel|----|Bastão Médio|----|Báculo
+Scepter|----|Cetro|----|Cetro
+Vare|----|Vara|----|Vara
+Greatstaff|----|Cajado Místico|----|Cayado
+Quarterstaff|----|Cajado Longo|----|Pértiga
+Targe|----|Escudo|----|Tarja ????
+Kiteshield|----|Escudo Alado|----|Cometa
+Soulshield|----|Égide|----|Égida
+Towershield|----|Pavês|----|Pavés
+Heatershield|----|Adarga|----|Adarga
+Nethershield|----|Apanhador de Sonhos|----|Atrapasueños
+Shieldisk|----|Escudo Alvo|----|Escudo diana
+Greaves|----|Perneiras|----|Grebas
+Legwarmers|----|Perneiras|----|Calentadores
+Kismet's Kiss|----|Beijo do Destino|----|Beso del hado
+Linen Knit|----|Tricô de Linho|----|Bufanda de hilo
+Alpaca Swathe|----|Xale de Alpaca|----|Mantón de alpaca
+Tusk Tackle|----|Ataque|----|Embestida -> Investida???
+Consumables|----|Consumíveis|----|Uso único
+Tarnished Earring|----|Brinco Escurecido|----|Pendiente oxidado
+Ancient Scabbard|----|Velha Bainha|----|Funda antigua -> Antiga Bainha????
+Spear of Origin|----|Lança da Origem|----|Lanza de los albores
+Leash|----|Rédea Curta|----|Corbata
+Loam of Wadsley|----|Argila Bariosférica|----|Cieno bariosférico
+Hellbloom|----|Flor Infernal|----|Fronda infernal
+Battered Katana|----|Katana Desgastada|----|Katana estropeada
+Decayed Necklace|----|Colar Deteriorado|----|Collar estropeado
+Vine|----|Videira|----|Liana
+Netherblossom|----|Flor do Submundo|----|Brote de pesadilla
+Withered Husk|----|Pedaço de Couro Seco|----|Restos deteriorados
+
+Shed Husk|----|Pedaço de Couro|----|Piel mudada
+
+Prismático -> Cristalino,
+Blueprint -> Planta???
+ de Gnomo -> Gnômico
+ Pérola da Sereia -> de
 
 Na parte do PT, verificar tamanho das frases com ptalk_embed
 
@@ -61,7 +118,7 @@ Na parte do PT, verificar tamanho das frases com ptalk_embed
 
  - Na substituição de * espaço (linha * \nBurned\n units have 0 defense) ele sempre pega o primeiro * espaço, e coloca O estado três vezes na primeira frase
 
-parei na 24.000
+parei na 29.400
 
 ----_---------_----------------------_-----_----------
 Curso eletrônica
