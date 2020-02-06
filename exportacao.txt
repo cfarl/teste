@@ -24458,7 +24458,7 @@ Frost Bladebreaker|----|Quebralâminas Glacial|----|Rompehojas glacial
 
 Caustic Bladebreaker|----|Quebralâminas Corrosiva|----|Rompehojas corrosivo
 
-Poison Bladebreaker|----|Quebralâminas Envenenada|----|Rompehojas ponzoñoso
+Poison Bladebreaker|----|Quebralâminas Venenosa|----|Rompehojas ponzoñoso
 
 Shielding Bladebreaker|----|Quebralâminas Reforçada|----|Rompehojas protector
 
@@ -24606,7 +24606,7 @@ Frost Bluesteel|----|Açoazul Glacial|----|Cianoacero glacial
 
 Caustic Bluesteel|----|Açoazul Corrosivo|----|Cianoacero corrosivo
 
-Poison Bluesteel|----|Açoazul Envenenado|----|Cianoacero ponzoñoso
+Poison Bluesteel|----|Açoazul Venenoso|----|Cianoacero ponzoñoso
 
 Shielding Bluesteel|----|Açoazul Reforçado|----|Cianoacero protector
 
@@ -24924,7 +24924,7 @@ Ice Tataraichi|----|Tataraichi do Gelo|----|Tataraichi del hielo
 
 Lytic Tataraichi|----|Tataraichi Ácida|----|Tataraichi ácida
 
-Venom Tataraichi|----|Tataraichi Venenosa|----|Tataraichi venenosa
+Venom Tataraichi|----|Tataraichi Envenenada|----|Tataraichi venenosa
 
 Parrying Tataraichi|----|Tataraichi de Defesa|----|Tataraichi de defensa
 
@@ -24982,7 +24982,7 @@ Frost Demonblade|----|Espada Demoníaca Glacial|----|Diablesa glacial
 
 Caustic Demonblade|----|Espada Demoníaca Corrosiva|----|Diablesa corrosiva
 
-Poison Demonblade|----|Espada Demoníaca Envenenada|----|Diablesa ponzoñosa
+Poison Demonblade|----|Espada Demoníaca Venenosa|----|Diablesa ponzoñosa
 
 Shielding Demonblade|----|Espada Demoníaca Reforçada|----|Diablesa protectora
 
@@ -25164,7 +25164,7 @@ Frost Hawkwind|----|Cortaventos Glacial|----|Cortavientos glacial
 
 Caustic Hawkwind|----|Cortaventos Corrosiva|----|Cortavientos corrosivo
 
-Poison Hawkwind|----|Cortaventos Envenenada|----|Cortavientos ponzoñoso
+Poison Hawkwind|----|Cortaventos Venenosa|----|Cortavientos ponzoñoso
 
 Shielding Hawkwind|----|Cortaventos Reforçada|----|Cortavientos protector
 
@@ -25290,7 +25290,7 @@ Frost Smiter|----|Erradicadora Glacial|----|Erradicadora glacial
 
 Caustic Smiter|----|Erradicadora Corrosiva|----|Erradicadora corrosiva
 
-Poison Smiter|----|Erradicadora Envenenada|----|Erradicadora ponzoñosa
+Poison Smiter|----|Erradicadora Venenosa|----|Erradicadora ponzoñosa
 
 Shielding Smiter|----|Erradicadora Reforçada|----|Erradicadora protectora
 
@@ -25350,7 +25350,7 @@ Frost Morningstar|----|Estrela da Manhã Glacial|----|Lucero glacial
 
 Caustic Morningstar|----|Estrela da Manhã Corrosiva|----|Lucero corrosivo
 
-Poison Morningstar|----|Estrela da Manhã Envenenada|----|Lucero ponzoñoso
+Poison Morningstar|----|Estrela da Manhã Venenosa|----|Lucero ponzoñoso
 
 Shielding Morningstar|----|Estrela da Manhã Reforçada|----|Lucero protector
 
@@ -25504,7 +25504,7 @@ Frost Blackjack|----|Clava Negra Glacial|----|Cachiporra glacial
 
 Caustic Blackjack|----|Clava Negra Corrosiva|----|Cachiporra corrosiva
 
-Poison Blackjack|----|Clava Negra Envenenada|----|Cachiporra ponzoñosa
+Poison Blackjack|----|Clava Negra Venenosa|----|Cachiporra ponzoñosa
 
 Shielding Blackjack|----|Clava Negra Reforçada|----|Cachiporra protectora
 
@@ -25584,7 +25584,7 @@ Frost Bigbang|----|Estrondoso Glacial|----|Big-Bang glacial
 
 Caustic Bigbang|----|Estrondoso Corrosivo|----|Big-Bang corrosivo
 
-Poison Bigbang|----|Estrondoso Envenenado|----|Big-Bang ponzoñoso
+Poison Bigbang|----|Estrondoso Venenoso|----|Big-Bang ponzoñoso
 
 Shielding Bigbang|----|Estrondoso Reforçado|----|Big-Bang protector
 
@@ -25792,7 +25792,7 @@ Frost Glaive|----|Gládio Glacial|----|Guja glacial
 
 Caustic Glaive|----|Gládio Corrosivo|----|Guja corrosiva
 
-Poison Glaive|----|Gládio Envenenado|----|Guja ponzoñosa
+Poison Glaive|----|Gládio Venenoso|----|Guja ponzoñosa
 
 Shielding Glaive|----|Gládio Reforçado|----|Guja protectora
 
@@ -25906,7 +25906,7 @@ Frost Wand|----|Varinha Glacial|----|Bordón glacial
 
 Caustic Wand|----|Varinha Corrosiva|----|Bordón corrosivo
 
-Poison Wand|----|Varinha Envenenada|----|Bordón ponzoñoso
+Poison Wand|----|Varinha Venenosa|----|Bordón ponzoñoso
 
 Shielding Wand|----|Varinha Reforçada|----|Bordón protector
 
@@ -26104,7 +26104,7 @@ Frost Caduceus|----|Caduceus Glacial|----|Caduceo glacial
 
 Caustic Caduceus|----|Caduceus Corrosivo|----|Caduceo corrosivo
 
-Poison Caduceus|----|Caduceus Envenenado|----|Caduceo ponzoñoso
+Poison Caduceus|----|Caduceus Venenoso|----|Caduceo ponzoñoso
 
 Shielding Caduceus|----|Caduceus Reforçado|----|Caduceo protector
 
@@ -26582,7 +26582,7 @@ Frost Nethershield|----|Apanhador de Sonhos Glacial|----|Atrapasueños glacial
 
 Caustic Nethershield|----|Apanhador de Sonhos Corrosivo|----|Atrapasueños corrosivo
 
-Poison Nethershield|----|Apanhador de Sonhos Envenenado|----|Atrapasueños ponzoñoso
+Poison Nethershield|----|Apanhador de Sonhos Venenoso|----|Atrapasueños ponzoñoso
 
 Shielding Nethershield|----|Apanhador de Sonhos Reforçado|----|Atrapasueños protector
 
@@ -29654,7 +29654,7 @@ Bristly Raptor Scale|----|Escama Pontiaguda de Carniceiro|----|Escama puntiaguda
 
 Thick Raptor Carapace|----|Carapaça Reforçada de Carniceiro|----|Caparazón reforzado de carroñero
 
-Bulky Wild Raptor Hide|----|Pele Volumosa de Carniceiro Selvagem|----|Piel tupida de carroñero feroz
+Bulky Wild Raptor Hide|----|Pele Espessa de Carniceiro Selvagem|----|Piel tupida de carroñero feroz
 
 Coiled Bullfighter Horn|----|Chifre Enrolado de Matador|----|Cuerno enroscado de matador
 
@@ -29690,7 +29690,7 @@ Large Chimera Scale|----|Escama Grande de Quimera|----|Gran escama de quimera
 
 Inverted Chimera Scale|----|Escama Invertida de Quimera|----|Escama invertida de quimera
 
-Spiky Chimera Tail|----|Cauda Pontiagura de Quimera|----|Aguijón de quimera
+Spiky Chimera Tail|----|Ferrão de Quimera|----|Aguijón de quimera
 
 Enormous Chimera Scale|----|Enorme Escama de Quimera|----|Enorme escama de quimera
 
@@ -29698,13 +29698,13 @@ Tough Misericorde Scale|----|Escama Reforçada de Impiedosa|----|Escama reforzad
 
 Rockgrater Tail|----|Cauda de Rebentarocha|----|Cola de revientarrocas
 
-Bristly King Chimera Limb|----|Braço Cheio de Espinhos de Quimera Soberana|----|Brazo espinoso de quimera rey
+Bristly King Chimera Limb|----|Braço Espinhoso de Quimera Soberana|----|Brazo espinoso de quimera rey
 
 Grand Rockgrater Tail|----|Cauda de Rebentarocha Gigante|----|Cola de revientamontes
 
 Hydra Scale|----|Escama de Hidra|----|Escama de hidra
 
-Hydra Leg|----|Pé de Hidra|----|Pata de hidra
+Hydra Leg|----|Perna de Hidra|----|Pata de hidra
 
 Hydra Neck|----|Pescoço de Hidra|----|Cuello de hidra
 
@@ -29714,7 +29714,7 @@ Hydra Fin|----|Barbatana de Hidra|----|Aleta de hidra
 
 Hydra Beak|----|Bico de Hidra|----|Pico de hidra
 
-Empty Hydra Shell|----|Concha Vazia de Hidra|----|Concha de hidra
+Empty Hydra Shell|----|Concha de Hidra|----|Concha de hidra
 
 Irregular Torpedo Scale|----|Escama Irregular de Torpedo|----|Escama irregular de proyectil
 
@@ -29736,9 +29736,9 @@ Tanned Imp Hide|----|Pele Curtida de Diabrete|----|Piel curtida de diablillo
 
 Curled Quien Fur|----|Pelagem Enrolada de Quien|----|Pelaje rizado de quizenas
 
-Large Donda Talon|----|Garra Grande de Donda|----|Gran garra de dronda
+Large Donda Talon|----|Grande Garra de Donda|----|Gran garra de dronda
 
-Large Dondada Talon|----|Garra Grande de Dondada|----|Gran garra de drondade
+Large Dondada Talon|----|Grande Garra de Dondada|----|Gran garra de drondade
 
 Vile Lizard Scale|----|Escama de Lagarto Nefasto|----|Escama de saurio vil
 
@@ -29806,13 +29806,13 @@ Manticore Head|----|Cabeça de Mantícora|----|Cabeza de mantícora
 
 Thin Manticore Mane|----|Cabeleira Fina de Mantícora|----|Cabellera fina de mantícora
 
-Sharp Manticore Leg|----|Pata Afiada de Mantícora|----|Pata afilada de mantícora
+Sharp Manticore Leg|----|Perna Afiada de Mantícora|----|Pata afilada de mantícora
 
 Tough Manticore Husk|----|Exoesqueleto de Mantícora|----|Quitina de mantícora
 
 Poison Nussknacker Needle|----|Ferrão Venenoso de Rompebraços|----|Aguijón venenoso de rompebrazos
 
-Poison Deathclaw Talon|----|Cauda Venenosa de Garramortal|----|Garra envenenada de garramortal
+Poison Deathclaw Talon|----|Cauda Envenenada de Garramortal|----|Garra envenenada de garramortal
 
 Crab Husk|----|Restos de Caranguejo|----|Restos de centollo
 
@@ -29882,11 +29882,11 @@ Grand Beetle Talon|----|Garra de Besouro Gigante|----|Garra de mantis prócer
 
 Grand Beetle Barb|----|Ferrão de Besouro Gigante|----|Púa de mantis prócer
 
-Large Grand Beetle Talon|----|Garra Grande de Besouro Gigante|----|Gran garra de mantis prócer
+Large Grand Beetle Talon|----|Grande Garra de Besouro Gigante|----|Gran garra de mantis prócer
 
 Retral Grand Beetle Husk|----|Exoesqueleto Dorsal de Besouro Gigante|----|Quitina dorsal de mantis prócer
 
-Large Grand Beetle Barb|----|Ferrão Grande de Besouro Gigante|----|Gran púa de mantis prócer
+Large Grand Beetle Barb|----|Grande Ferrão de Besouro Gigante|----|Gran púa de mantis prócer
 
 Grand Beetle Fluid|----|Líquido Extraído de Besouro Gigante|----|Extracto de mantis prócer
 
@@ -29920,7 +29920,7 @@ Oarfish Tentacle|----|Tentáculo de Avispoidea|----|Tentáculo de avispoidea
 
 Oarfish Feather|----|Pluma de Avispoidea|----|Pluma de avispoidea
 
-Thin Oarfish Wing|----|Asa Magra de Avispoidea|----|Ala esbelta de avispoidea
+Thin Oarfish Wing|----|Asa Esbelta de Avispoidea|----|Ala esbelta de avispoidea
 
 Oarfish Fin|----|Barbatana de Avispoidea|----|Aleta de avispoidea
 
@@ -29928,7 +29928,7 @@ Concealed Oarfish Limb|----|Extremidade Retrátil de Avispoidea|----|Extremidad 
 
 Retral Larva Scale|----|Escama Dorsal de Larva|----|Escama dorsal de larva
 
-Thin Apsaras Wing|----|Asa Magra de Apsaras|----|Ala esbelta de apsara
+Thin Apsaras Wing|----|Asa Esbelta de Apsaras|----|Ala esbelta de apsara
 
 Butterfly Wing|----|Asa de Mariposa|----|Ala de mariposa
 
@@ -29950,7 +29950,7 @@ Moth Eyes|----|Olhos de Moth|----|Ojos de polillaespín
 
 Coarse Papillon Hide|----|Pele Áspera de Papillon|----|Piel basta de papilio
 
-Thin Nymphalidae Wing|----|Asa Magra de Ninfálida|----|Ala esbelta de ninfálida
+Thin Nymphalidae Wing|----|Asa Esbelta de Ninfálida|----|Ala esbelta de ninfálida
 
 Echidnamoth Scalp|----|Cabeleira de Mariposa de Espinhos|----|Cabellera de polillaespín mayor
 
@@ -29972,13 +29972,13 @@ Dagon Antennae|----|Antenas de Dagon|----|Antenas de dagon
 
 Evil Charybdis Eye|----|Olho de Caribdis|----|Ojo de caribdis
 
-Large Giant Amoeba Fang|----|Presa Grande de Ameba Gigante|----|Gran colmillo de ameba reina
+Large Giant Amoeba Fang|----|Grande Presa de Ameba Gigante|----|Gran colmillo de ameba reina
 
 Fly Needle|----|Ferrão de Mosca|----|Aguijón de nematócero
 
 Fly Husk|----|Restos de Mosca|----|Restos de nematócero
 
-Thin Fly Wing|----|Asa Magra de Mosca|----|Ala esbelta de nematócero
+Thin Fly Wing|----|Asa Esbelta de Mosca|----|Ala esbelta de nematócero
 
 Fly Feather|----|Pluma de Mosca|----|Pluma de nematócero
 
@@ -30138,7 +30138,7 @@ Large Colossus Bristle|----|Espinha Gigante de Colosso|----|Púa de coloso
 
 Ruined Colossus Axe|----|Machado Colossal Destroçado|----|Hacha colosal destrozada
 
-Rotting Colossus Armor|----|Armadura Colossal Desgastada|----|Armadura colosal mohosa
+Rotting Colossus Armor|----|Armadura Colossal Estragada|----|Armadura colosal mohosa
 
 Battered Colossus Helm|----|Elmo Colossal Amassado|----|Yelmo colosal abollado
 
@@ -30160,7 +30160,7 @@ Phantom Tail|----|Cauda de Espectro|----|Cola de espectro
 
 Phantom Husk|----|Ectoplasma de Espectro|----|Ectoplasma de espectro
 
-Thin Phantom Wing|----|Asa Magra de Espectro|----|Ala esbelta de espectro
+Thin Phantom Wing|----|Asa Esbelta de Espectro|----|Ala esbelta de espectro
 
 Tough Phantom Husk|----|Ectoplasma Reforçado de Espectro|----|Ectoplasma reforzado de espectro
 
@@ -30194,7 +30194,7 @@ Evil Charm of Water|----|Amuleto Maligno da Água|----|Amuleto maligno del agua
 
 (REPETIDO)Idol Fragment|----|Fragmento de Ídolo|----|Fragmento de tótem
 
-Evil Charm of Lightning|----|Amuleto Maligno de Raio|----|Amuleto maligno del rayo
+Evil Charm of Lightning|----|Amuleto Maligno do Raio|----|Amuleto maligno del rayo
 
 Twilight of the Gods|----|Crepúsculo dos Deuses|----|Crepúsculo de los dioses
 
@@ -30238,7 +30238,7 @@ Captured Yellowcap Soldier|----|Soldado De Capuz Amarelo capturado|----|Ocregab�
 
 Captured Ravenhowl|----|Corvo Uivante capturado|----|Cuervoraz capturado
 
-Captured Malevolence|----|Malevolência capturado|----|Malevolencia capturada
+Captured Malevolence|----|Malevolência capturada|----|Malevolencia capturada
 
 Captured Redcap Champion|----|Campeão De Capuz Vermelho capturado|----|Granagabán capturado
 
@@ -30254,7 +30254,7 @@ Captured Jade Golem|----|Golem De Jade capturado|----|Golem de jade capturado
 
 Captured Suicide|----|Kamikaze capturado|----|Kamikaze capturado
 
-Captured Nucadora|----|Nucadora capturado|----|Desnucadora capturada
+Captured Nucadora|----|Nucadora capturada|----|Desnucadora capturada
 
 Captured Thanatos|----|Thanatos capturado|----|Thanatos capturado
 
@@ -30326,13 +30326,13 @@ Captured Chimera|----|Quimera capturada|----|Quimera capturada
 
 Captured Rockgrater|----|Rebentarocha capturado|----|Revientarrocas capturado
 
-Captured King Chimera|----|Quimera Soberana capturado|----|Rey quimera capturado
+Captured King Chimera|----|Quimera Soberana capturada|----|Rey quimera capturado
 
 (REPETIDO)Captured Misericorde|----|Impiedosa capturada|----|Inmisericorde capturado
 
 Captured Grand Rockgrater|----|Rebentarocha Gigante capturado|----|Revientamontes capturado
 
-Captured Ground Cobra|----|Cobra Da Terra capturada|----|Cobra negra capturada
+Captured Ground Cobra|----|Cobra da Terra capturada|----|Cobra negra capturada
 
 Captured Notsuchi|----|Notsuchi capturado|----|Notsuchi capturado
 
@@ -30348,13 +30348,13 @@ Captured Echidna|----|Equidna capturado|----|Equidna capturado
 
 Captured Rapunzel|----|Rapunzel capturado|----|Rapunzel capturado
 
-(REPETIDO)Captured Hydra|----|Hidra capturado|----|Hidra capturada
+(REPETIDO)Captured Hydra|----|Hidra capturada|----|Hidra capturada
 
 (REPETIDO)Captured Torpedo|----|Torpedo capturado|----|Proyectil capturado
 
 (REPETIDO)Captured Bune|----|Bune capturado|----|Bune capturado
 
-(REPETIDO)Captured Hydra|----|Hidra capturado|----|Hidra capturada
+(REPETIDO)Captured Hydra|----|Hidra capturada|----|Hidra capturada
 
 (REPETIDO)Captured Torpedo|----|Torpedo capturado|----|Proyectil capturado
 
@@ -30364,11 +30364,11 @@ Captured Bluejaws|----|Garrazul capturado|----|Cianofauces capturado
 
 Captured Siren|----|Sereia capturado|----|Sirena capturada
 
-Captured Orca|----|Orca capturado|----|Orca capturada
+Captured Orca|----|Orca capturada|----|Orca capturada
 
 Captured Boina|----|Boine capturado|----|Boine capturado
 
-Captured Starfish|----|Estrela Do Mar capturado|----|Estrella de mar capturada
+Captured Starfish|----|Estrela Do Mar capturada|----|Estrella de mar capturada
 
 Captured Medusa|----|Medusa capturada|----|Medusa capturada
 
@@ -30430,7 +30430,7 @@ Captured Amethyst Eater|----|Comeametista capturado|----|Zampamatista capturado
 
 Captured Lil Salamander|----|Pequena Salamandra capturada|----|Salamanquesa capturada
 
-Captured Cavemaster|----|Mestre Das Cavernas capturado|----|Cavernícola capturado
+Captured Cavemaster|----|Mestre das Cavernas capturado|----|Cavernícola capturado
 
 Captured Ore Cruncher|----|Mastigaferro capturado|----|Masticahierro capturado
 
@@ -30454,7 +30454,7 @@ Captured Nanotyrranus|----|Nanotirano capturado|----|Nanotirano capturado
 
 Captured Crazer|----|Maluco capturado|----|Chalado capturado
 
-Captured Dracos Blood|----|Draco De Sangue capturado|----|Draco sanguíneo capturado
+Captured Dracos Blood|----|Draco de Sangue capturado|----|Draco sanguíneo capturado
 
 Captured Roaming Warrior|----|Guerreiro Errante capturado|----|Soldado errante capturado
 
@@ -30516,7 +30516,7 @@ Captured Abominable Beast|----|Fera Abominável capturada|----|Mala bestia captu
 
 Captured Longtail Soldier|----|Caudalonga capturado|----|Cabolargo capturado
 
-Captured Paraponera|----|Paraponera capturado|----|Paraponera capturada
+Captured Paraponera|----|Paraponera capturada|----|Paraponera capturada
 
 Captured Ancient Blue|----|Cianoarcano capturado|----|Cianoarcano capturado
 
@@ -30530,13 +30530,13 @@ Captured Yvalock|----|Yvalock capturado|----|Ivalock capturado
 
 Captured Crab|----|Caranguejo capturado|----|Centollo capturado
 
-(REPETIDO)Captured Rockshell|----|Concha De Pedra capturado|----|Caparapiedra capturado
+(REPETIDO)Captured Rockshell|----|Concha de Pedra capturado|----|Caparapiedra capturado
 
 Captured Armorshell|----|Concha Blindada capturado|----|Caparacero capturado
 
 Captured Giant Crab|----|Caranguejo Gigante capturado|----|Centollo gigante capturado
 
-(REPETIDO)Captured Rockshell|----|Concha De Pedra capturado|----|Caparapiedra capturado
+(REPETIDO)Captured Rockshell|----|Concha de Pedra capturado|----|Caparapiedra capturado
 
 Captured Giant Armorshell|----|Concha Blindada Gigante capturado|----|Caparacero rey capturado
 
@@ -30662,13 +30662,13 @@ Captured Seia|----|Seia capturado|----|Seia capturado
 
 Captured Huracan Rana|----|Sapo Furacão capturado|----|Sapo huracán capturado
 
-Captured Firtoad|----|Sapo Da Árvore capturado|----|Sapo arbóreo capturado
+Captured Firtoad|----|Sapo da Árvore capturado|----|Sapo arbóreo capturado
 
 Captured Apep|----|Apep capturado|----|Apep capturado
 
 Captured Ciclon Rana|----|Sapo Ciclone capturado|----|Sapo ciclón capturado
 
-Captured Snowtoad|----|Sapo Da Neve capturado|----|Sapo de nieve capturado
+Captured Snowtoad|----|Sapo da Neve capturado|----|Sapo de nieve capturado
 
 Captured Dragon Rana|----|Sapo Dragão capturado|----|Sapo dragón capturado
 
@@ -30760,7 +30760,7 @@ Captured Dark|----|Tenebroso capturado|----|Tenebroso capturado
 
 (REPETIDO)Captured Rosefly|----|Moscarosa capturada|----|Apoidea capturada
 
-Captured Shellfly|----|Moscascudo capturada|----|Vespoidea capturada
+Captured Shellfly|----|Moscascudo capturado|----|Vespoidea capturada
 
 (REPETIDO)Captured Anthophilum|----|Antofilo capturado|----|Apimorfa capturada
 
@@ -30848,7 +30848,7 @@ Captured Tempest|----|Tormenta capturada|----|Tempestad capturada
 
 Captured Tornado|----|Tornado capturado|----|Tornado capturado
 
-Captured Heaven's Lord|----|Senhor Dos Céus capturado|----|Señor del cielo capturado
+Captured Heaven's Lord|----|Senhor dos Céus capturado|----|Señor del cielo capturado
 
 Captured Stymphalian Bird|----|Estínfalo capturado|----|Estínfalo capturado
 
@@ -30862,7 +30862,7 @@ Captured Stymphalian Bird|----|Estínfalo capturado|----|Estínfalo capturado
 
 (REPETIDO)Captured Anthrovore|----|Antropófago capturado|----|Antropófago capturado
 
-(REPETIDO)Captured Mandragora|----|Mandrágora capturado|----|Mandrágora capturada
+(REPETIDO)Captured Mandragora|----|Mandrágora capturada|----|Mandrágora capturada
 
 Captured Red Tears|----|Lágrimas De Sangue capturado|----|Sauce rojo capturado
 
@@ -30912,17 +30912,17 @@ Captured Evil Eye|----|Olho Maligno capturado|----|Mal de ojo capturado
 
 Captured Manhunter|----|Caçahomens capturado|----|Cazahombres capturado
 
-Captured Death|----|Ceifador De Almas capturada|----|Segador de almas capturado
+Captured Death|----|Ceifador de Almas capturado|----|Segador de almas capturado
 
 Captured Dark Helios|----|Helionegro capturado|----|Helionegro capturado
 
 Captured Blackmoon|----|Luanegra capturada|----|Lunanegra capturada
 
-Captured Eye of Damnation|----|Olho Da Condenação capturado|----|Ojo de tormento capturado
+Captured Eye of Damnation|----|Olho da Condenação capturado|----|Ojo de tormento capturado
 
-Captured Eye of Doom|----|Olho Da Perdição capturado|----|Ojo de perdición capturado
+Captured Eye of Doom|----|Olho da Perdição capturado|----|Ojo de perdición capturado
 
-Captured Eye of Terror|----|Olho Do Terror capturado|----|Ojo del terror capturado
+Captured Eye of Terror|----|Olho do Terror capturado|----|Ojo del terror capturado
 
 Captured Observer|----|Observador capturado|----|Observador capturado
 
@@ -30994,7 +30994,7 @@ Captured Harpylia|----|Arpília capturada|----|Arpilia capturada
 
 Captured Valkyria|----|Valquíria capturada|----|Valquiria capturada
 
-Captured Oblivion Wing|----|Asa Do Esquecimento capturado|----|Ala del olvido capturada
+Captured Oblivion Wing|----|Asa Do Esquecimento capturada|----|Ala del olvido capturada
 
 Captured Anima|----|Anima capturado|----|Ánima capturada
 
@@ -31112,17 +31112,17 @@ Nest of Eagles|----|Ninho das Águias|----|Nido de las Águilas
 
 Plain of Luhang|----|Planície de Luhang|----|Llanura de Luhang
 
-Base 1|----|Base 1|----|Base n.º 1
+Base 1|----|Base n.º 1|----|Base n.º 1
 
-Base 2|----|Base 2|----|Base n.º 2
+Base 2|----|Base n.º 2|----|Base n.º 2
 
-Base 3|----|Base 3|----|Base n.º 3
+Base 3|----|Base n.º 3|----|Base n.º 3
 
-Base 4|----|Base 4|----|Base n.º 4
+Base 4|----|Base n.º 4|----|Base n.º 4
 
-Base 5|----|Base 5|----|Base n.º 5
+Base 5|----|Base n.º 5|----|Base n.º 5
 
-Base 6|----|Base 6|----|Base n.º 6
+Base 6|----|Base n.º 6|----|Base n.º 6
 
 Koenigsdorf|----|Koenigsdorf|----|Königsdorf
 
@@ -31148,7 +31148,7 @@ Genaade District|----|Distrito de Genaade|----|Distrito de Genaade
 
 Hendler|----|Bairro de Hendler|----|Barrio de Hendler
 
-Assembly Plaza|----|Praça da Assembleia|----|Plaza de la Asamblea
+Assembly Plaza|----|Praça da Assembléia|----|Plaza de la Asamblea
 
 The Heavenly Terrace|----|O Mirante do Céus|----|Mirador de los Cielos
 
@@ -31294,7 +31294,7 @@ Searing Cove|----|Enseada Ardente|----|Cala Ardiente
 
 Searing Cauldron|----|Calderão Ardente|----|Caldera Ardiente
 
-Path of Anguish|----|Caminho da Angústia|----|Senda del Suplicio
+Path of Anguish|----|Caminho do Suplício|----|Senda del Suplicio
 
 Depths of the Underworld|----|Profundezas do Submundo|----|Sima del Inframundo
 
@@ -31348,15 +31348,15 @@ Disposal Tank No. 8|----|Tanque de Resíduos n. 8|----|Tanque de residuos n.º 8
 
 (REPETIDO)The Sixth Path|----|O Sexto Caminho|----|Sexta galería
 
-(REPETIDO)The Final Fortress|----|A Fortaleza Final|----|Fortaleza Final
+(REPETIDO)The Final Fortress|----|A Última Fortaleza|----|Fortaleza Final
 
 The Seventh Path|----|O Sétimo Caminho|----|Séptima galería
 
-Central Area|----|Área Central|----|Zona central
+Central Area|----|Zona Central|----|Zona central
 
-Eastern Area|----|Área Leste|----|Zona este
+Eastern Area|----|Zona Leste|----|Zona este
 
-Western Area|----|Área Oeste|----|Zona oeste
+Western Area|----|Zona Oeste|----|Zona oeste
 
 Disposal Area|----|Aterro|----|Vertedero
 
@@ -31398,17 +31398,17 @@ Tranquil Springs|----|Fontes Serenas|----|Fuentes Serenas
 
 (REPETIDO)The First Path|----|O Primeiro Caminho|----|Primera galería
 
-(REPETIDO)The Final Fortress|----|A Fortaleza Final|----|Fortaleza final
+(REPETIDO)The Final Fortress|----|A Última Fortaleza|----|Fortaleza final
 
 (REPETIDO)The Second Path|----|O Segundo Caminho|----|Segunda galería
 
-(REPETIDO)The Final Fortress|----|A Fortaleza Final|----|Fortaleza Final
+(REPETIDO)The Final Fortress|----|A Última Fortaleza|----|Fortaleza Final
 
 (REPETIDO)The Third Path|----|O Terceiro Caminho|----|Tercera galería
 
 (REPETIDO)The Fourth Path|----|O Quarto Caminho|----|Cuarta galería
 
-(REPETIDO)The Final Fortress|----|A Fortaleza Final|----|Fortaleza Final
+(REPETIDO)The Final Fortress|----|A Última Fortaleza|----|Fortaleza Final
 
 (REPETIDO)The Fifth Path|----|O Quinto Caminho|----|Quinta galería
 
@@ -31518,7 +31518,7 @@ Apprentice Power|----|Poder de Aprendiz|----|Poderío de aprendiz
 
 Rookie Power|----|Poder de Principiante|----|Poderío de principiante
 
-Mediocre Power|----|Poder Mediana|----|Poderío digno
+Mediocre Power|----|Poder Mediano|----|Poderío digno
 
 Intermediate Power|----|Poder Intermediário|----|Poderío intermedio
 
@@ -31626,7 +31626,7 @@ ATK|----|ATQ|----|PF
 
 DEF|----|DEF|----|DF
 
-MYS|----|MIS|----|PM
+MYS|----|PM|----|PM
 
 M. DEF|----|DEF M.|----|DM
 
@@ -31638,7 +31638,7 @@ M. EVA|----|EVA M.|----|EM
 
 (REPETIDO)MAX AP|----|PA MÁX|----|PA máx.
 
-(REPETIDO)INIT AP|----|PA inicial|----|PA iniciales
+(REPETIDO)INIT AP|----|PA Inicial|----|PA iniciales
 
 (REPETIDO)Strength|----|Força|----|Fuerza
 
@@ -31646,7 +31646,7 @@ M. EVA|----|EVA M.|----|EM
 
 (REPETIDO)Speed|----|Velocidade|----|Velocidad
 
-Battle Union|----|Grupos|----|Unidades
+Battle Union|----|Unidades|----|Unidades
 
 Leaders|----|Líderes|----|Líderes
 
@@ -31686,7 +31686,7 @@ Defaults|----|Valores Padrão|----|Valores predeterminados
 
 Page|----|Página|----|Página
 
-Disc|----|DVD|----|Disco
+Disc|----|Disco|----|Disco
 
 Stock|----|Estoque|----|Existencias
 
@@ -31728,9 +31728,9 @@ Rush's Equipment|----|Equipamento do Rush|----|Equipo de Rush
 
 Rush's Arts|----|Artes do Rush|----|Artes de Rush
 
-(REPETIDO)Union Board|----|Criação de Grupos|----|Unidades
+(REPETIDO)Union Board|----|Unidades|----|Unidades
 
-Party Members|----|Membros do Grupo|----|Personajes
+Party Members|----|Personagens|----|Personajes
 
 (REPETIDO)Inventory|----|Inventário|----|Inventario
 
@@ -31742,21 +31742,21 @@ Return to title screen|----|Sair do jogo|----|Salir del juego
 
 (REPETIDO)Quests|----|Missões|----|Misiones
 
-Mr. Diggs's Status|----|Status do Mr. Diggs|----|Señor Garras
+Mr. Diggs's Status|----|Mr. Diggs|----|Señor Garras
 
-(REPETIDO)Create union|----|Criar grupo|----|Crear unidad
+(REPETIDO)Create union|----|Criar unidade|----|Crear unidad
 
-Change formation|----|Trocar formação|----|Cambiar formación
+Change formation|----|Mudar formação|----|Cambiar formación
 
 Replace unit|----|Substituir personagem|----|Sustituir personaje
 
-Disband union|----|Dissolver grupo|----|Disolver unidad
+Disband union|----|Dissolver unidade|----|Disolver unidad
 
 Save|----|Salvar|----|Guardar
 
 Config|----|Configuração|----|Configuración
 
-Confirm units|----|Confirmar membros|----|Ver personajes
+Confirm units|----|Ver personagens|----|Ver personajes
 
 Change equipment|----|Mudar equipamento|----|Cambiar equipo
 
@@ -31770,7 +31770,7 @@ Check arts|----|Ver artes|----|Ver artes
 
 Customize equipment|----|Melhorar equipamento|----|Mejorar equipo
 
-Create equipment|----|Criar equipamento|----|Montar equipo
+Create equipment|----|Montar equipamento|----|Montar equipo
 
 Disassemble equipment|----|Desmontar equipamento|----|Desmontar equipo
 
@@ -31780,11 +31780,11 @@ Select formation|----|Selecionar formação|----|Elegir formación
 
 Assign unit|----|Designar personagem|----|Asignar personaje
 
-Sort union|----|Ordenar grupo|----|Ordenar unidad
+Sort union|----|Ordenar unidade|----|Ordenar unidad
 
-Unit status|----|Status do personagem|----|Ver personaje
+Unit status|----|Ver personagem|----|Ver personaje
 
-Select equipment|----|Escolher equipamento|----|Elegir equipo
+Select equipment|----|Selecionar equipamento|----|Elegir equipo
 
 Load|----|Carregar|----|Cargar
 
@@ -31878,7 +31878,7 @@ Mystic Evasion [M. EVA]|----|Evasão Mística [EVA M.]|----|Evasión mística (E
 
 Unequip|----|Tirar|----|Quitar
 
-Skip|----|Saltar|----|Omitir
+Skip|----|Pular|----|Omitir
 
 Brightness|----|Brilho|----|Brillo
 
@@ -31988,25 +31988,25 @@ Buy|----|Comprar|----|Comprar
 
 Recruit Leader|----|Recrutar Líder|----|Añadir líder
 
-Dismiss Leader|----|Despedir Líder|----|Despedir líder
+Dismiss Leader|----|Dispensar Líder|----|Despedir líder
 
 Employ Soldier|----|Recrutar Soldado|----|Reclutar soldado
 
-Dismiss Soldier|----|Despedir Soldado|----|Despedir soldado
+Dismiss Soldier|----|Dispensar Soldado|----|Despedir soldado
 
 (REPETIDO)Guild Tasks|----|Tarefas da Guilda|----|Pruebas del gremio
 
 Don't display warning|----|Não mostrar aviso|----|No mostrar aviso.
 
-00\n Check reserve units|----|00\n Ver membros na reserva|----|00\n Ver personajes en reserva
+00\n Check reserve units|----|00\n Ver personagens na reserva|----|00\n Ver personajes en reserva
 
-00\n Check unit's status|----|00\n Ver status do personagem|----|00\n Ver personaje
+00\n Check unit's status|----|00\n Ver personagem|----|00\n Ver personaje
 
 00\n Sort items|----|00\n Ordenar itens|----|00\n Ordenar objetos
 
 00\n Sort reserve leaders|----|00\n Ordenar líderes na reserva|----|00\n Ordenar líderes en reserva
 
-00\n Change union order|----|00\n Mudar ordem dos grupos|----|00\n Cambiar orden de unidades
+00\n Change union order|----|00\n Mudar ordem das unidades|----|00\n Cambiar orden de unidades
 
 00\n Sort reserve soldiers|----|00\n Ordenar soldados na reserva|----|00\n Ordenar soldados en reserva
 
@@ -32048,11 +32048,11 @@ Display model|----|Visão em 3D|----|Vista en 3D
 
 View stats|----|Ver estatísticas|----|Ver estadísticas
 
-Skip cutscene|----|Saltar cena|----|Omitir secuencia
+Skip cutscene|----|Pular cena|----|Omitir secuencia
 
-00\n Display unit status|----|00\n Ver status do personagem|----|00\n Ver personajes
+00\n Display unit status|----|00\n Ver personagem|----|00\n Ver personajes
 
-00\n Display union status|----|00\n Ver status do grupo|----|00\n Ver unidades
+00\n Display union status|----|00\n Ver unidades|----|00\n Ver unidades
 
 00\n Begin battle|----|00\n Começar a batalha|----|00\n Comenzar combate
 
@@ -32062,17 +32062,17 @@ Resume|----|Continuar|----|Continuar
 
 00\n Seize|----|00\n Anular reserva|----|00\n Anular reserva
 
-00\n Check requestee's status|----|00\n Ver status do solicitante|----|00\n Ver solicitante
+00\n Check requestee's status|----|00\n Ver solicitante|----|00\n Ver solicitante
 
-00\n Select storage device|----|00\n Selecionar armazenamento|----|00\n  Seleccionar dispositivo
+00\n Select storage device|----|00\n Selecionar dispositivo|----|00\n  Seleccionar dispositivo
 
 00\n Default|----|00\n Valor padrão|----|00\n Valor predeterminado
 
 00\n Exit without saving|----|00\n Sair sem salvar|----|00\n Salir sin guardar
 
-00\n Hide unequippable gear|----|00\n Ocultar equipamento não utilizável|----|00\n Ocultar equipo no asignable
+00\n Hide unequippable gear|----|00\n Ocultar equipamento não equipável|----|00\n Ocultar equipo no asignable
 
-00\n Show unequippable gear|----|00\n Mostrar equipamento não utilizável|----|00\n Mostrar equipo no asignable
+00\n Show unequippable gear|----|00\n Mostrar equipamento não equipável|----|00\n Mostrar equipo no asignable
 
 00\n Sell in bulk|----|00\n Vender em lote|----|00\n Añadir al lote
 
@@ -32088,7 +32088,7 @@ Resume|----|Continuar|----|Continuar
 
 Menu Misc dummy|----|Menu Misc dummy|----|Miscelánea (menús)
 
-eqonly_name\n specific|----|eqonly_name\n específico|----|Sólo \neqonly_name
+eqonly_name\n specific|----|eqonly_name\n apenas|----|Sólo \neqonly_name
 
 reward_kingaku|----|reward_kingaku|----|reward_kingaku
 
@@ -32100,7 +32100,7 @@ GUEST|----|CONVIDADO|----|INVITADO
 
 EMPTY|----|VAZIO|----|VACÍA
 
-Reserve Units|----|Membros do grupo na reserva|----|Personajes en reservas
+Reserve Units|----|Personagens na reserva|----|Personajes en reservas
 
 (REPETIDO)None|----|Nada|----|Nada
 
@@ -32118,7 +32118,7 @@ Must be in sub slot|----|Deve ser usado na mão esquerda|----|Requiere mano secu
 
 It hasn't learned anything.|----|Nada foi aprendido.|----|Nada que mostrar.
 
-(REPETIDO)Create union|----|Criar grupo|----|Crear unidad
+(REPETIDO)Create union|----|Criar unidade|----|Crear unidad
 
 Corrupted Data|----|Dados Corrompidos|----|Datos dañados
 
@@ -32126,19 +32126,19 @@ NO FREE SPACE|----|NÃO HÁ ESPAÇO LIVRE|----|SIN ESPACIO LIBRE
 
 Battle Leaders|----|Líderes|----|Líderes
 
-Battle Units|----|Membros do Grupo|----|Personajes
+Battle Units|----|Personagens|----|Personajes
 
 Reserve Leaders|----|Líderes na Reserva|----|Líderes en reserva
 
 Reserve Soldiers|----|Soldados na Reserva|----|Soldados en reserva
 
-Battle Unions|----|Grupos|----|Unidades
+Battle Unions|----|Unidades|----|Unidades
 
 Soldiers|----|Soldados|----|Soldados
 
 Sold out|----|Esgotado|----|Agotado
 
-(REPETIDO)None|----|Vazio|----|N/A
+(REPETIDO)None|----|Nenhum|----|N/A
 
 (REPETIDO)Equip|----|Equipar|----|Asignar
 
@@ -32156,7 +32156,7 @@ Slow!|----|Desacelerado!|----|¡Ralentizado!
 
 Immobilized!|----|Imobilizado!|----|Inmovilizado
 
-Can't act!|----|Não pode agir!|----|Incapaz de actuar
+Can't act!|----|Incapaz de agir!|----|Incapaz de actuar
 
 Paralyzed!|----|Paralisado!|----|¡Paralizado!
 
@@ -32182,17 +32182,17 @@ Targeted!|----|Um monstro te persegue!|----|¡Un monstruo te persigue!
 
 22\nImmobilized|----|22\nImobilizado|----|22\nInmóvil
 
-22\nUnable to act|----|22\nNão pode agir|----|22\nIncapaz de actuar
+22\nUnable to act|----|22\nIncapaz de agir|----|22\nIncapaz de actuar
 
 22\nParalyzed|----|22\nParalisado|----|22\nParálisis
 
 "22\nEnamored of Rush!|----|"22\nSob controle do Rush|----|"22\nBajo el hechizo de Rush
 
-Please insert the correct disc.|----|Por favor insira o disco correto.|----|Inserta el disco correcto.
+Please insert the correct disc.|----|ão pode  o disco correto.|----|Inserta el disco correcto.
 
-(REPETIDO)Please insert The Last Remnant Game Disc 1.|----|Por favor insira o disco 1 do jogo The Last Remnant.|----|Inserta el disco 1 de THE LAST REMNANT.
+(REPETIDO)Please insert The Last Remnant Game Disc 1.|----|Insira o disco 1 do jogo The Last Remnant.|----|Inserta el disco 1 de THE LAST REMNANT.
 
-(REPETIDO)Please insert The Last Remnant Game Disc 2.|----|Por favor insira o disco 2 do jogo The Last Remnant.|----|Inserta el disco 2 de THE LAST REMNANT.
+(REPETIDO)Please insert The Last Remnant Game Disc 2.|----|Insira o disco 2 do jogo The Last Remnant.|----|Inserta el disco 2 de THE LAST REMNANT.
 
 OK|----|Aceitar|----|Aceptar
 
@@ -34406,9 +34406,9 @@ dummy|----|dummy|----|Sufijos
 
 (REPETIDO)union_name|----|union_name|----|union_name
 
-union_name\nTroop|----|union_name\n e sua tropa|----|Unidad \nunion_name
+union_name\nTroop|----|union_name\ne sua tropa|----|Unidad \nunion_name
 
-union_name\nGang|----|union_name\n e sua gangue|----|Equipo \nunion_name
+union_name\nGang|----|union_name\ne sua gangue|----|Equipo \nunion_name
 
 union_name\n's Troop|----|union_name\n e sua tropa|----|Unidad de \nunion_name
 
@@ -34438,7 +34438,7 @@ union_name\n's Guerillas|----|union_name\n e seus guerrilheiros|----|Guerrillero
 
 union_name\n's Tribe|----|union_name\n e sua tribo|----|Tribu de \nunion_name
 
-union_name\n's Faction|----|union_name\n e sua facção|----|Defensores de \nunion_name
+union_name\n's Faction|----|union_name\n e seus defensores|----|Defensores de \nunion_name
 
 union_name\n's Pack|----|union_name\n e suas milícias|----|Milicias de \nunion_name
 
@@ -34448,7 +34448,7 @@ union_name\n's Gang|----|union_name\n e sua gangue|----|Banda de \nunion_name
 
 union_name\n's Troupe|----|union_name\n e sua trupe|----|Compañía de \nunion_name
 
-union_name\n's Cartel|----|union_name\n e seus associados|----|union_name\n y asociados
+union_name\n's Cartel|----|union_name\n e associados|----|union_name\n y asociados
 
 union_name\n's Sect|----|union_name\n e sua seita|----|Sicarios de \nunion_name
 
@@ -34464,7 +34464,7 @@ union_name\n's League|----|union_name\n e sua liga|----|Liga de \nunion_name
 
 union_name\n's Alliance|----|union_name\n e sua aliança|----|Alianza de \nunion_name
 
-union_name\n's Associates|----|union_name\n e seus associados|----|Socios de \nunion_name
+union_name\n's Associates|----|union_name\n e associados|----|Socios de \nunion_name
 
 union_name\n's Corporation|----|union_name\n e sua corporação|----|Agrupación de \nunion_name
 
@@ -34486,9 +34486,9 @@ union_name\n's Fellows|----|union_name\n e companheiros|----|union_name\n y comp
 
 union_name\n and co.|----|union_name\n e companhia|----|union_name\n y compañía
 
-union_name\n and friends|----|union_name\n e amigos|----|union_name\n y sus amigos
+union_name\n and friends|----|union_name\n e seus amigos|----|union_name\n y sus amigos
 
-union_name\n and buddies|----|union_name\n e colegas|----|union_name\n y sus colegas
+union_name\n and buddies|----|union_name\n e seus colegas|----|union_name\n y sus colegas
 
 union_name\n and henchmen|----|union_name\n e seus capangas|----|union_name\n y sus secuaces
 
@@ -35094,7 +35094,7 @@ Legendary Scholar|----|Erudito Lendário|----|Erudito mítico
 
 Expert Sage|----|Sábio Experiente|----|Sabio experto
 
-Adept Sage|----|Sábio PeriVeteranoto|----|Sabio célebre
+Adept Sage|----|Sábio Veterano|----|Sabio célebre
 
 Master Sage|----|Sábio Mestre|----|Sabio maestro
 
@@ -35142,7 +35142,7 @@ Legendary Warlock|----|Bruxo Lendário|----|Brujo mítico
 
 Athlumian Heavy Soldier|----|Soldado Pesado de Athlum|----|Infante pesado de Athlum
 
-Athlumian Light Soldier|----|Soldado Ligeiro de Athlum|----|Infante ligero de Athlum
+Athlumian Light Soldier|----|Soldado Leve de Athlum|----|Infante ligero de Athlum
 
 Athlumian Hunter|----|Caçador de Athlum|----|Cazador de Athlum
 
@@ -35154,7 +35154,7 @@ Athlumian Monk Warrior|----|Guerreiro Monge de Athlum|----|Monje guerrero de Ath
 
 Celapaleian Heavy Soldier|----|Soldado Pesado de Celapaleis|----|Infante pesado de Celapalais
 
-Celapaleian Light Soldier|----|Soldado Ligeiro de Celapaleis|----|Infante ligero de Celapalais
+Celapaleian Light Soldier|----|Soldado Leve de Celapaleis|----|Infante ligero de Celapalais
 
 Celapaleian Hunter|----|Caçador de Celapaleis|----|Cazador de Celapalais
 
@@ -35166,7 +35166,7 @@ Celapaleian Monk Warrior|----|Guerreiro Monge de Celapaleis|----|Monje guerrero 
 
 Elysion Heavy Soldier|----|Soldado Pesado de Elysion|----|Infante pesado de Elysion
 
-Elysion Light Soldier|----|Soldado Ligeiro de Elysion|----|Infante ligero de Elysion
+Elysion Light Soldier|----|Soldado Leve de Elysion|----|Infante ligero de Elysion
 
 Elysion Hunter|----|Caçador de Elysion|----|Cazador de Elysion
 
@@ -35178,7 +35178,7 @@ Elysion Monk Warrior|----|Guerreiro Monge de Elysion|----|Monje guerrero de Elys
 
 Nagapurian Heavy Soldier|----|Soldado Pesado de Nagapur|----|Infante pesado de Nagapur
 
-Nagapurian Light Soldier|----|Soldado Ligeiro de Nagapur|----|Infante ligero de Nagapur
+Nagapurian Light Soldier|----|Soldado Leve de Nagapur|----|Infante ligero de Nagapur
 
 Nagapurian Hunter|----|Caçador de Nagapur|----|Cazador de Nagapur
 
@@ -35190,7 +35190,7 @@ Nagapurian Monk Warrior|----|Guerreiro Monge de Nagapur|----|Monje guerrero de N
 
 Ghorian Heavy Soldier|----|Soldado Pesado de Ghor|----|Infante pesado de Ghor
 
-Ghorian Light Soldier|----|Soldado Ligeiro de Ghor|----|Infante ligero de Ghor
+Ghorian Light Soldier|----|Soldado Leve de Ghor|----|Infante ligero de Ghor
 
 Ghorian Hunter|----|Caçador de Ghor|----|Cazador de Ghor
 
@@ -35202,7 +35202,7 @@ Ghorian Monk Warrior|----|Guerreiro Monge de Ghor|----|Monje guerrero de Ghor
 
 Undelwaltan Heavy Soldier|----|Soldado Pesado de Undelwalt|----|Infante pesado de Undelwalt
 
-Undelwaltan Light Soldier|----|Soldado Ligeiro de Undelwalt|----|Infante ligero de Undelwalt
+Undelwaltan Light Soldier|----|Soldado Leve de Undelwalt|----|Infante ligero de Undelwalt
 
 Undelwaltan Hunter|----|Caçador de Undelwalt|----|Cazador de Undelwalt
 
@@ -35214,7 +35214,7 @@ Undelwaltan Monk Warrior|----|Guerreiro Monge de Undelwalt|----|Monje guerrero d
 
 Balterossan Heavy Soldier|----|Soldado Pesado de Balterossa|----|Infante pesado de Balterossa
 
-Balterossan Light Soldier|----|Soldado Ligeiro de Balterossa|----|Infante ligero de Balterossa
+Balterossan Light Soldier|----|Soldado Leve de Balterossa|----|Infante ligero de Balterossa
 
 Balterossan Hunter|----|Caçador de Balterossa|----|Cazador de Balterossa
 
@@ -35226,7 +35226,7 @@ Balterossan Monk Warrior|----|Guerreiro Monge de Balterossa|----|Monje guerrero 
 
 Melphinian Heavy Soldier|----|Soldado Pesado de Melphina|----|Infante pesado de Melphina
 
-Melphinian Light Soldier|----|Soldado Ligeiro de Melphina|----|Infante ligero de Melphina
+Melphinian Light Soldier|----|Soldado Leve de Melphina|----|Infante ligero de Melphina
 
 Melphinian Hunter|----|Caçador de Melphina|----|Cazador de Melphina
 
@@ -35238,7 +35238,7 @@ Melphinian Monk Warrior|----|Guerreiro Monge de Melphina|----|Monje guerrero de 
 
 Royotian Heavy Soldier|----|Soldado Pesado de Royotia|----|Infante pesado de Royotia
 
-Royotian Light Soldier|----|Soldado Ligeiro de Royotia|----|Infante ligero de Royotia
+Royotian Light Soldier|----|Soldado Leve de Royotia|----|Infante ligero de Royotia
 
 Royotian Hunter|----|Caçador de Royotia|----|Cazador de Royotia
 
@@ -35250,7 +35250,7 @@ Royotian Monk Warrior|----|Guerreiro Monge de Royotia|----|Monje guerrero de Roy
 
 Baalukan Heavy Soldier|----|Soldado Pesado de Baaluk|----|Infante pesado de Baaluk
 
-Baalukan Light Soldier|----|Soldado Ligeiro de Baaluk|----|Infante ligero de Baaluk
+Baalukan Light Soldier|----|Soldado Leve de Baaluk|----|Infante ligero de Baaluk
 
 Baalukan Hunter|----|Caçador de Baaluk|----|Cazador de Baaluk
 
@@ -35436,7 +35436,7 @@ The Academy|----|A Academia|----|Academia
 
 The God Emperor|----|O Imperador Celestial|----|Emperador celestial
 
-(REPETIDO)The Forest Maidens|----|Donzelas do Bosque|----|Doncellas del bosque
+(REPETIDO)The Forest Maidens|----|As Donzelas do Bosque|----|Doncellas del bosque
 
 The Sorceress of the South|----|A Feiticeira do Sul|----|Hechicera del sur
 
@@ -35550,7 +35550,7 @@ Aggression|----|Agressão|----|Agresión
 
 (REPETIDO)Courage|----|Coragem|----|Arrojo
 
-Bloodlust|----|Sede de Sangue|----|Furia
+Bloodlust|----|Fúria|----|Furia
 
 Furtiveness|----|Furtividade|----|Furtividad
 
@@ -35796,11 +35796,11 @@ Anxiety|----|Ansiedade|----|Ansiedad
 
 Tips Dummy|----|Tips Dummy|----|Pistas
 
-Action Points|----|Pontos de Ação|----|Puntos de acción (PA)
+Action Points|----|Pontos de Ação (PA)|----|Puntos de acción (PA)
 
-Units and Unions|----|Membros e Grupos|----|Personajes y unidades
+Units and Unions|----|Personagens e Unidades|----|Personajes y unidades
 
-(REPETIDO)Union Board|----|Criação de Grupos|----|Creación de unidades
+(REPETIDO)Union Board|----|Criação de Unidades|----|Creación de unidades
 
 Arts|----|Artes|----|Artes
 
@@ -35892,25 +35892,25 @@ Critical Defense 2|----|Defesa Crítica 2|----|Defensas maestras (II)
 
 Critical Defense 3|----|Defesa Crítica 3|----|Defensas maestras (III)
 
-Unit Status Ailments 1|----|Alterações de Status de Personagens 1|----|Alteraciones de estado de personajes (I)
+Unit Status Ailments 1|----|Alterações de Estado de Personagens 1|----|Alteraciones de estado de personajes (I)
 
-Unit Status Ailments 2|----|Alterações de Status de Personagens 2|----|Alteraciones de estado de personajes (II)
+Unit Status Ailments 2|----|Alterações de Estado de Personagens 2|----|Alteraciones de estado de personajes (II)
 
-Unit Status Ailments 3|----|Alterações de Status de Personagens 3|----|Alteraciones de estado de personajes (III)
+Unit Status Ailments 3|----|Alterações de Estado de Personagens 3|----|Alteraciones de estado de personajes (III)
 
-Unit Status Ailments 4|----|Alterações de Status de Personagens 4|----|Alteraciones de estado de personajes (IV)
+Unit Status Ailments 4|----|Alterações de Estado de Personagens 4|----|Alteraciones de estado de personajes (IV)
 
-Union Status Ailments 1|----|Alterações de Status de Grupos 1|----|Alteraciones de estado de unidades (I)
+Union Status Ailments 1|----|Alterações de Estado de Unidades 1|----|Alteraciones de estado de unidades (I)
 
-Union Status Ailments 2|----|Alterações de Status de Grupos 2|----|Alteraciones de estado de unidades (II)
+Union Status Ailments 2|----|Alterações de Estado de Unidades 2|----|Alteraciones de estado de unidades (II)
 
-Union Status Ailments 3|----|Alterações de Status de Grupos 3|----|Alteraciones de estado de unidades (III)
+Union Status Ailments 3|----|Alterações de Estado de Unidades 3|----|Alteraciones de estado de unidades (III)
 
-Union Status Ailments 4|----|Alterações de Status de Grupos 4|----|Alteraciones de estado de unidades (IV)
+Union Status Ailments 4|----|Alterações de Estado de Unidades 4|----|Alteraciones de estado de unidades (IV)
 
-Union Status Ailments 5|----|Alterações de Status de Grupos 5|----|Alteraciones de estado de unidades (V)
+Union Status Ailments 5|----|Alterações de Estado de Unidades 5|----|Alteraciones de estado de unidades (V)
 
-Union Status Ailments 6|----|Alterações de Status de Grupos 6|----|Alteraciones de estado de unidades (VI)
+Union Status Ailments 6|----|Alterações de Estado de Unidades 6|----|Alteraciones de estado de unidades (VI)
 
 Harvesting|----|Coleta|----|Recolección
 
