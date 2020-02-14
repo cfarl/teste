@@ -1,178 +1,26 @@
-﻿Union Board -< Unidades (correto Painel da Unidade)??
-unit -≥ personagem
+﻿unit -≥ personagem
 Units -> Personagens
-union -> unidade, grupo
-party -> bando (não usar equipe)
-Flash Strike -> Ataque Relâmpago (estava Ataque Lampejante)
-tuck -> rapieira (estoque, em espanhol)
-staff -> bastão, cetro
-saber -> katana
- Ninho de Yvalock -> Ninho de Ivalock????
- Rawhide -> pedaço de couro
- phials -> frascos
- Wyrmskeep -> Fordragão????
- Dillmoor -> Brezalverde (espanhol), Pantanoverde???
- First Path --> Primeiro Caminho. Trocar para Primeira Galeria???
- crina, cabeleira (mane) -> verificar se o monstro tem mesmo isso
- Barb -> ferrão
- ale -> licor
- oil -> óleo
- medicines -> remédios????
- ore -> minério???? ou minerais????
- sash -> faixa, cinto???
- hide -> pele
- husk -> muda de pele
- charm -> talismã?
-Merman's French -> Tritão Francês (em espanhol trapecio de tritón)
-Siren's Square -> Quadrado da Sereia  (em espanhol princesa de sirena)
-Knocker's Ceylon -> Aldrava de Ceylon (em espanhol triángulo de ladrón)
-vile lizard -> um lugar apareceu só "lagarto", landworm só verme
-Crazer -> chalado em Espanol. Manter maluco???
-De Yvalock para Ivalock???
-Witch (arcamaga) -> feiticeira
-Devoramagias -> Devorafeitiços
-formula'-> ver tradução espanhol
-Dragão de Terra -> da Terra
-Crimson -> Escarlate
-Witch -> feiticeira (arcamaga em espanhol)
-
-Leprechaun's Leap|----|Salto de Leprechaun|----|Brinco de leprechaun
-
-status -> status
-recipe - receita; fórmula; intruções
-item arts - artes de itens (trocar por Artes de Objetos???)
+crina, juba, cabeleira (mane) -> verificar se o monstro tem mesmo isso
+medicines -> remédios????
 Remedies - remédios
-Arcana -> Magia Arcana
+   
+Devoramagias -> Devorafeitiços
+itens -> objetos???
+item arts - artes de itens (trocar por Artes de Objetos???)
 Lotions - loções (melhor unguentos???)
-Deadlock - embate (melhor duelo???)
-blades - lâminas
-breakers - armas pesadas
-mauling damage - danos por impacto
-Spears and staves -  Lanças e bastões
-polearms - armas de haste
 Mr. Diggs - Sr. Garras
 Aura de Magia -.> Aura de Feitiço
+Feather -> pluma ou pena?
+Idol -> ídolo, totem, estátua???
 
 Dual Wield (Uma ou Duas Mãos) -> Estilo Dual? Uma/Duas Mãos???
 
-pessoas:
-Old-Fashioned  ->  à Moda Antiga
+ Ninho de Yvalock -> Ninho de Ivalock???? 
+ Wyrmskeep -> Fordragão????
+ Dillmoor -> Brezalverde (espanhol), Pantanoverde???
+ First Path --> Primeiro Caminho. Trocar para Primeira Galeria???
+ De Yvalock para Ivalock??? 
 
-Broadaxe|----|Machado Curto|----|Hacha ancha
-Splitter|----|Separadora|----|Leñadora
-Striker|----|Atacante|----|Cuña
-Sledgehammer|----|Marreta|----|Almádena
-Bludgeon|----|Porrete|----|Porra
-Bigbang|----|Estrondoso|----|Big-Bang
-Pike|----|Lança Curta|----|Pica
-Pitchfork|----|Forquilha|----|Horca
-Lance|----|Lança|----|Lanza
-Spear|----|Lança|----|Venablo -> Lança Longa????
-Javelin|----|Dardo|----|Jabalina
-Glaive|----|Gládio|----|Guja
-Rod|----|Bastão|----|Palo
-Wand|----|Varinha|----|Bordón -> Vara????
-Cudgel|----|Bastão Médio|----|Báculo
-Scepter|----|Cetro|----|Cetro
-Vare|----|Vara|----|Vara
-Greatstaff|----|Cajado Místico|----|Cayado
-Quarterstaff|----|Cajado Longo|----|Pértiga
-Targe|----|Escudo|----|Tarja ????
-Kiteshield|----|Escudo Alado|----|Cometa
-Soulshield|----|Égide|----|Égida
-Towershield|----|Pavês|----|Pavés
-Heatershield|----|Adarga|----|Adarga
-Nethershield|----|Apanhador de Sonhos|----|Atrapasueños
-Shieldisk|----|Escudo Alvo|----|Escudo diana
-Greaves|----|Perneiras|----|Grebas
-Legwarmers|----|Perneiras|----|Calentadores
-Kismet's Kiss|----|Beijo do Destino|----|Beso del hado
-Linen Knit|----|Tricô de Linho|----|Bufanda de hilo
-Alpaca Swathe|----|Xale de Alpaca|----|Mantón de alpaca
-Tusk Tackle|----|Ataque|----|Embestida -> Investida???
-Consumables|----|Consumíveis|----|Uso único
-Tarnished Earring|----|Brinco Escurecido|----|Pendiente oxidado
-Ancient Scabbard|----|Velha Bainha|----|Funda antigua -> Antiga Bainha????
-Spear of Origin|----|Lança da Origem|----|Lanza de los albores
-Leash|----|Rédea Curta|----|Corbata
-Loam of Wadsley|----|Argila Bariosférica|----|Cieno bariosférico
-Hellbloom|----|Flor Infernal|----|Fronda infernal
-Battered Katana|----|Katana Desgastada|----|Katana estropeada
-Decayed Necklace|----|Colar Deteriorado|----|Collar estropeado
-Vine|----|Videira|----|Liana
-Netherblossom|----|Flor do Submundo|----|Brote de pesadilla
-Withered Husk|----|Pedaço de Couro Seco|----|Restos deteriorados
-Nightingale|----|Gralha capturada|----|Estornino 
-Sky Dragon|----|Dragões Celestes|----|Dragones del cielo
-Leap Frog|----|Sapo Saltitante|----|Batracio
-Fly|----|Mosca|----|Nematócero
-Rosefly|----|Moscarosa|----|Apoidea
-Giant Shellfly|----|Moscascudo Gigante|----|Vespoidea reina
-(REPETIDO)Anthophilum|----|Antofilo|----|Apimorfa
-Spiritlord|----|Senhor Espiritual|----|Archiespectro
-Consumables|----|Consumíveis|----|Uso único
-Blades|----|Lâminas|----|Armas de filo -> Armas de fio
-Fell|----|Derrubar|----|Talar (extração)
-
-itens -> objetos???
-
-Bigbang|----|Estrondoso|----|Big-Bang
-Shed Husk|----|Pedaço de Couro|----|Piel mudada
-
-Malbourge Flatlands|----|Planícies de Malbourge|----|Meseta de Malbourge
-Salamander's Tail|----|Cauda da Salamandra|----|Cola de la Salamandra -> Rabo
-The Final Fortress|----|A Fortaleza Final -> A Última Fortaleza
-
-Corkscrew|----|Saca-Rolhas|----|Broca -> Broca
-Big Scoop|----|Grande Pá|----|Pala -> Pá???
-Mega Dig Module|----|Mega Módulo Escavador|----|Supermódulo excavador -> Super???
-High-Power Thruster|----|Propulsor de Alta Potência|----|Superpropulsor -> Super Propulsor???
-
---- Mudar abaixo, de Power, Technique, Driller
-Amateur Power|----|Poder de Novato|----|Poderío de novato -> Poder de Amador???
-Charismatic Power|----|Poder Carismático|----|Poderío de campeón -> Poder de Campeão????
-Ultimate Power|----|Poder Definitivo|----|Poderío definitivo -> Poder Supremo???
-
-Modifier|----|Modificador|----|Daño -> dano???
-Axman|----|Homem do Machado|----|Hachero
-Runemaiden|----|Adivinha|----|Adivina
-Bard|----|Trovador|----|Trovador
-Cavalier|----|Cavalheiro|----|Caballero
-Deathknight|----|Destruidor|----|Destructor
-Ataraxian|----|Espião|----|Espía
-Marauder|----|Saqueador|----|Saqueador
-Marksman|----|Atirador|----|Tirador
-Bishop|----|Bispo|----|Patriarca
-Wizard|----|Conjurador|----|Conjurador
-Scholar|----|Erudito|----|Erudito
-Warlock|----|Bruxo|----|Brujo
-Fortuneteller|----|Vidente|----|Pitonisa
-Vagrant|----|Mendigo|----|Vagabundo
-Raider|----|Fora-da-Lei|----|Forajido
-Guerreiro Monge   -> Monge Guerreiro
-
-Calamity|----|Azar|----|Gafe
-Tact|----|Respeito|----|Respeto
-Recklessness|----|Imprudência|----|Temeridad
-Hardworking|----|Esforçado|----|Denuedo
-
-hide -> pele
-Rawhide -> couro
-Fur -> pelagem
-Husk -> muda de pele, exoesqueleto, Ectoplasma
-Fin -> barbatana
-
-Fang -> presa
-Feather -> pluma ou pena?
-
-Prismático -> Cristalino,
-Blueprint -> Planta???
- de Gnomo -> Gnômico
- Pérola da Sereia -> de
- Eriçada -> Áspera???
- Idol -> ídolo, totem, estátua???
- Aranha Grande -> Grande Aranha
- Holy Plain|----|Planícies Sagradas|-- -> Planície
 
 Na parte do PT, verificar tamanho das frases com ptalk_embed
 
@@ -184,17 +32,11 @@ Na parte do PT, verificar tamanho das frases com ptalk_embed
 
  - Na substituição de * espaço (linha * \nBurned\n units have 0 defense) ele sempre pega o primeiro * espaço, e coloca O estado três vezes na primeira frase
 
-parei na 34.611
 
 ----_---------_----------------------_-----_----------
-Curso eletrônica
-3039-5750
+Dúvidas
 
-2 x 2 h semana
-220 mês
-terça e quinta de 9 às 11h
-Prof. Nox
-
-
-
+union -> unidade (verificar novamente)
+Leap Frog|----|Sapo Saltitante|----|Batracio
+Striker|----|Cunha|----|Cuña
 
